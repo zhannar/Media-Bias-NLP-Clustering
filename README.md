@@ -19,5 +19,6 @@ The project's files are organized into the following structure:
 **README file** - You're reading it. Describes logistics what things are doing and how they are organized.
 
 <p align="center">
-<img src="/Visualizations/topic_modeling.png" width="600" />
+<img src="/Visualizations/topic_modeling_cover.png" width="600" />
+<img src="/Visualizations/topic_modeling_tfidf.png" width="600" />
 </p>
