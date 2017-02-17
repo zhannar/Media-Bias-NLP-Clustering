@@ -1,0 +1,73 @@
+The Affordable Care Act’s Reporting Requirements for Carriers and Employers (Part 9 of 24): Unraveling the Mystery of Indicator Code 2D—What Exactly is a “4980H(b) Limited Non-Assessment Period” (and Why is there no “4980H(a) Limited Non-Assessment Period”)?
+
+The Affordable Care Act's reporting rules—which are set out in Internal Revenue Code §§ 6055 and 6056—solicit the information needed by the Internal Revenue Service to enforce the individual and employer shared responsibility rules and to support the proper administration of premium tax subsidies. Occasionally, the reporting rules also manage to shine a light into the substantive workings of the statute. This is the case with the Form 1095-C, Part II, Line 16, Indicator Code 2D ("Employee in a section 4980H(b) Limited Non-Assessment Period").
+
+The final Code § 4980H regulations define the term "Limited Non-Assessment Period." Though the term "4980H(b) Limited Non-Assessment Period" is not defined, it is nevertheless clear that Indicator Code 2D is not appropriate to use any time a full-time employee is in a "Limited Non-Assessment Period." Rather, only certain "Limited Non-Assessment Periods" qualify. This post explains which "Limited Non-Assessment Periods" qualify for Indicator Code 2D and which do not. (For a high-level description of the reporting rules please see the first post in this series.)
+
+Background
+
+The final Code § 4980H regulations define the term "Limited Non-Assessment Period" to mean, generally, "the limited period during which an employer will not be subject to an assessable payment under section 4980H(a), and in certain cases section 4980H(b)," with respect to certain employees. There follow six specific instances in which an employer will not be subject to an assessable payment despite failing to make an offer of coverage. These include:
+
+(i) The transition rule for an employer's first year as an applicable large employer;
+
+(ii) The three full calendar month period beginning with the first full calendar month in which an employee is first otherwise eligible for an offer of coverage under the monthly measurement method;
+
+(iii) The application of the employer mandate during the initial three full calendar months of employment for an employee reasonably expected to be a full-time employee at the start date, under the look-back measurement method;
+
+(iv) The application of the employer mandate during the initial measurement period to a new variable hour employee, seasonal employee or part-time employee determined to be employed on average at least 30 hours of service per week, under the look-back measurement method;
+
+(v) The application of the employer mandate following an employee's change in employment status to a full-time employee during the initial measurement period, under the look-back measurement method; and
+
+(vi) The application of the employer mandate to the calendar month in which an employee's start date occurs on a day other than the first day of the calendar month.
+
+Treas. Reg. § 54.4980H-1(a)(26)(i) through (vi).
+
+To understand why the IRS needed to confine Indicator Code 2D to "4980H(b) Limited Non-Assessment Periods" requires a brief digression into other provisions of the regulations, particularly those establishing the rules for determining full-time employee status under the monthly measurement method and the look-back measurement method.
+
+The monthly measurement method
+
+The monthly measurement method includes a special rule that applies to an employee who, in a calendar month, "first becomes otherwise eligible to be offered coverage under a group health plan of an employer." Under this rule, an employer is not subject to an assessable payment under Code § 4980H(a):
+
+[W]ith respect to an employee for each calendar month during the period of three full calendar months beginning with the first full calendar month in which the employee is otherwise eligible for an offer of coverage under a group health plan of the employer, provided that the employee is offered coverage no later than the first day of the first calendar month immediately following the three month period if the employee is still employed on that day. Treas. Reg. § 54.4980H-3(c)(2).
+
+Moreover, if the coverage for which the employee is otherwise eligible during the three-month period, and which the employee is actually offered on the day following that three month period if still employed, provides minimum value, the employer also will not be subject to an assessable payment under Code § 4980H(b) with respect to that employee for the three-month period.
+
+The workings of this rule are best illustrated by an example:
+
+Employer X is an applicable large employer that elects to determine full-time employee status using the monthly measurement method. Employer X's only group health plan covers preventive services and nothing else. The plan does not provide minimum value. (These plans are sometimes referred to as "MEC" plans.) X pays the entire premium cost. Employees (and their dependents) are permitted to enroll after 60 days of employment. X will not be subject to the Code § 4980H(a) penalty with respect to any full-time employee for failing to offer coverage during the 60-day waiting period. X is, however, exposed to the Code § 4980H(b) penalty during the waiting period and for all subsequent coverage months, since the plan does not provide minimum value.
+
+If Employer X instead offered to all of its full-time employees (and their dependents) coverage that provided minimum value, X would not be subject to assessable payments under Code § 4980H(b) with respect to any employee for whom coverage was affordable.
+
+The look-back measurement method
+
+A similar rule applies under the look-back measurement method during the initial full three calendar months of employment. The employer is not subject to an assessable payment under Code § 4980H(a):
+
+[F]or any calendar month of the three-month period beginning with the first day of the first full calendar month of employment if, for the calendar month, the employee is otherwise eligible for an offer of coverage under a group health plan of the employer, provided that the employee is offered coverage by the employer no later than the first day of the fourth full calendar month of employment if the employee is still employed on that day. Treas. Reg. § 54.4980H-3(d)(2)(iii).
+
+Again, if the offer of coverage for which the employee is otherwise eligible during the first three full calendar months of employment, and which the employee is actually offered by the first day of the fourth month if still employed, provides minimum value, the employer is also not subject to an assessable payment under Code § 4980H(b) with respect to that employee for the first three full calendar months of employment.
+
+Transition rule for an employer's first year as an applicable large employer
+
+A similar approach applies in the case of the transition rule for an employer's first year as an applicable large employer. The preamble to the final Code § 4980H regulations generally provides that:
+
+If the employer offers coverage on or before April 1 of the first year in which the employer is an applicable large employer, the employer will not be subject to an assessable payment under Code § 4980H(a) by reason of its failure to offer coverage to the employee for January through March of that year; and
+
+The employer will not be subject to an assessable payment (for January through March of the first year the employer is an applicable large employer) under Code § 4980H(b) if the coverage offered provides minimum value.
+
+If the employer fails to offer coverage to the employee by April 1, the employer may be subject to a Code § 4980H(a) assessable payment for those initial calendar months in addition to any subsequent calendar months for which coverage is not offered. If the employer does offer coverage by April 1, but the coverage does not provide minimum value, the employer may be subject to a Code § 4980H(b) assessable payment for those initial calendar months and any subsequent calendar months for which coverage does not provide minimum value or is not affordable.
+
+Using Indicator Code 2D
+
+The title of this post asks, "Why is there no "4980H(a) Limited Non-Assessment Period"?" The answer is simple. There is no need for one. Information relating to an employer's exposure under Code § 4980H(a) is not reported on Form 1095-C, Part II, Lines 14, 15 or 16. Form 1095-C, Part II, Lines 14, 15 and 16 deal instead with an employer's liability under Code § 4980H(b). Line 14 asks for the code indicating whether a particular employee had an offer of coverage, the type of coverage and to whom it was offered, and if the coverage offered had minimum value and whether it was affordable; Line 15 asks for the dollar amount of the employee's contribution to self-only minimum value coverage; and Line 16 asks for the code indicating whether the employer has an excuse for failing to offer coverage, e.g., that the employee was in a Limited Non-Assessment Period as indicated by Indicator Code 2D.
+
+Information relating to an employer's exposure under Code § 4980H(a) is reported on Form 1094-C, Part III. Form 1094-C, Part III, Column (b) asks for "Full-Time Employee Count for ALE Member" and Column (c) asks for the "Total Employee Count for ALE Member." The form 1094-C and 1095-C instructions provide that, "For purposes of reporting on Forms 1094-C and 1095-C, an employee in a Limited Non-Assessment Period is not considered a full-time employee." So an employee in a 4980H(a) Limited Non-Assessment Period would not be reported in Column (b), but he or she would appear in Column (c). This would be the case where, for example, an applicable large employer offered non-minimum value coverage after a waiting period or following an appropriate measurement period.
+
+Of course, if the employer failed to offer minimum essential coverage to substantially all of its full-time employees, and if at least one of these employees qualified for a premium tax credit or a cost-sharing subsidy, the employer would owe an assessable payment under Code§ 4980H(a) based on the number of full-time employees reported in Column (b).
+
+As previously noted, Indicator Code 2D on line 16 of Form 1095-C, Part II signals that no Code § 4980H(b) penalty will be imposed during the Limited Non-Assessment Period. Once the period expires, the general reporting rules apply. If coverage, once actually offered, is affordable, then the proper Indicator Code is 2F (Form W-2 safe harbor), 2G (federal poverty line safe harbor), or 2H (affordability rate of pay safe harbor), as the case may be. If the coverage is not affordable, and if the employee does not enroll in the coverage, then Line 16 would be left blank, thereby signaling that a penalty would be imposed if the employee qualifies for a premium tax credit in the months following the Limited Non-Assessment Period.
+
+Conclusion
+
+The lesson is simple but sometimes overlooked: Indicator Code 2D is not a catch all for reporting employees in a Limited Non-Assessment Period. It is, rather, reserved for specific instances in which an employee would otherwise have the benefit of an offer of minimum value coverage but for being in a Limited Non-Assessment Period.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

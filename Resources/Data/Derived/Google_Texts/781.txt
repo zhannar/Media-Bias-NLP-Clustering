@@ -1,0 +1,17 @@
+Hospitals across the country are attempting to harness troves of data to try to predict risk and improve the health of patient populations. But what about big data’s potential power in tackling patient safety issues?
+
+Boston Children’s Hospital has teamed with the nonprofit, federally funded MITRE Corp. research center, to answer that question. The two are pulling together data from multiple sources — electronic health records, safety event reports, physiologic monitors, etc. — to gain insights into what may have caused patient harm. They’re now folding in two more children’s hospitals, and hope the effort will continue to snowball, says Laura Wood, R.N., senior vice president of patient care services and chief nursing officer.
+
+“There’s a significant opportunity to apply big data analytics to reduce preventable harm in health care,” she says. “It’s a complex undertaking, but we think we’ve already demonstrated that there’s value and potential to gain insights that one couldn’t otherwise gain around pattern recognition and opportunities to reduce harm.”
+
+The MITRE Corp. previously performed similar analysis in conjunction with the airline industry through the FAA Aviation Safety Information Analysis and Sharing system, now comprising 121 air carriers and 185 data sources.
+
+The National Patient Safety Partnership, organized by MITRE, aims to replicate that success. The partnership initially focused on two key patient safety concerns — alarm fatigue and medication safety.
+
+The alarm project concluded in August while medication safety is still ongoing. A few key insights from the alarm project included the fact that 85 percent of alarms were yellow or low priority, and 60 percent were for patients at a low-acuity level. From that, Boston Children’s removed some patients who were unnecessarily still being monitored, and it’s recalibrated the thresholds that require action on alarms.
+
+Up next, the NPSP will tap into data to predict when a patient’s condition is deteriorating. Cincinnati Children’s Hospital Medical Center and Children’s National Health System, Washington, D.C., also are in the partnership.
+
+Eric Hughes, chief architect of data analytics solutions at MITRE, is unsure whether they’ll continue to add hospitals into the collaboration, but he thinks the early results show promise for its future.
+
+“I don’t think it’s a trivial thing to bring together these diverse types of data to address these kinds of questions, but we think there’s some evidence that it’s worthwhile to pursue,” he says.

@@ -1,0 +1,57 @@
+For best viewing, click the bottom right corner for full screen.
+
+Rates of substance abuse treatment increased when states enacted so-called parity legislation barring insurers from limiting coverage of it more strictly than for other conditions, researchers said.
+
+Treatment rates went up 9% (P<0.001) following implementation of any state-level parity law covering substance abuse therapies across all specialty treatment facilities, according to Hefei Wen, BA, of Emory University's Rollins School of Public Health in Atlanta, and colleagues.
+
+Among treatment centers accepting private insurance, enactment of a parity law for substance abuse therapies led to a 15% average increase in treatment rates (P=0.02), the researchers reported online in JAMA Psychiatry.
+
+"Our findings suggest that federal parity legislation" -- first passed in 2008 and expanded in the 2010 Affordable Care Act -- "holds the potential to improve access to substance use disorder treatment," Wen and colleagues wrote.
+
+Paul J. Rowan, PhD, MPH, a clinical psychologist at the University of Texas School of Public Health in Houston, told MedPage Today that this was a strong study with "very encouraging" findings on the effects of parity legislation.
+
+"It's nice when you can capture the policy change that might lead to more utilization [of substance use treatment services]. It's not exactly surprising, but it's encouraging that this analysis shows the desired outcome," he said.
+
+State Parity Laws Not All Equal
+
+Before 2008 when the first federal law was enacted, 26 states had enacted their own parity legislation covering substance abuse treatment; 10 of them -- Kentucky, Wisconsin, Michigan, Montana, New Hampshire, Delaware, West Virginia, Rhode Island, Maine, and Oregon -- did so between 2000 and 2008, Wen and colleagues explained.
+
+The provisions varied, as would be expected from state-level legislation. Some states mandated "full parity," requiring insurers to provide substance abuse treatment coverage and that cost-sharing and limitations be essentially the same as in their medical-surgical coverage.
+
+In other states, parity was required only if insurers chose to cover substance abuse treatment at all ("parity if offered"). Still others took a middle ground, requiring some type of coverage for such therapies but allowing increased copays and limitations relative to other classes of illness ("partial parity").
+
+To determine the effect of these laws on utilization of these therapies, Wen and colleagues analyzed data from the National Survey of Substance Abuse Treatment Services. This federal survey program collects information annually from virtually all treatment centers in the U.S. specializing in substance use disorders, ranging from inpatient facilities to methadone dispensaries. For the current analysis, the key data were the number of patients treated in each state each year.
+
+The researchers analyzed these data using a series of two-way, fixed-effects models. These addressed treatment rates in states that implemented new parity laws or increased their strictness versus states that made no changes during the 2000-2008 period, and also the effects of the different types of parity legislation.
+
+States that enacted new or stronger parity legislation showed a mean increase in utilization, from about 1.45 per 100 population 2 years prior to the change to just over 1.5 per 100 in the third year after the change -- whereas states making no change saw a slow decline from 1.45 to 1.35 per 100 over the same interval.
+
+The biggest jumps were in Kentucky and Wisconsin, which adopted full parity after previously having none. Their combined treatment rate 2 years before the legislation was about 1.2 per 100, rising to about 1.7 in the third year afterward.
+
+The researchers' comprehensive statistical models, covering all 49 states with available data, showed that the presence of any kind of parity legislation increased the treatment rate per 100 population by 0.13 points (i.e., 13 additional treatment episodes per 10,000 population; 95% CI 0.04-0.23, P<0.001).
+
+Full parity and parity-if-offered increased the rate by 0.18 points and 0.12 points, respectively (both P<0.05). The benefit of partial parity was smaller (0.08 points) and not statistically significant, Wen and colleagues calculated.
+
+When the investigators restricted the analysis to treatment facilities accepting private insurance, the effect of any parity law was to increase utilization by 0.16 points per 100 population (95% CI 0.03-0.30, P<0.001). Again, partial parity did not have a significant effect, whereas full parity (0.23 points, 95% CI 0.03-0.43) and parity-if-offered (0.11 points, 95% CI 0.00-0.22) did.
+
+Among other factors analyzed in the model, including patient demographics, source of private insurance, and employer size for employer-sponsored insurance, only one factor was also significantly associated with utilization -- ethnicity.
+
+The presence of parity legislation was associated with decreased utilization by Hispanic/Latino patients, by 0.1 points overall and by 0.07 points at facilities accepting private insurance. Wen and colleagues offered no explanation for the finding.
+
+What Effect Will the ACA Have?
+
+The researchers did, however, argue that the study overall suggests that the federal parity legislation (a full-parity requirement for Medicaid and for all private insurance) will have a similar, if not greater effect on substance abuse treatment.
+
+They noted that the ACA's principal effect will be to bring health insurance to as many as 50 million Americans currently without it, through Medicaid expansion and easier access to private plans.
+
+"By expanding the scope of parity to public insurance programs, the ACA will reach a much larger population and may lead to an unparalleled growth of the substance use disorder treatment rate in the public and private sectors," they wrote.
+
+However, Rowan told MedPage Today, the clinical benefit remains to be demonstrated.
+
+Noting that the study only looked at short-term treatment episodes, "we don't know what happens 6 months, 2 years down the road," he said.
+
+Successful treatment normally takes multiple treatment episodes, with patients learning gradually from their failures how to avoid relapses. "We can't just put someone in a treatment center and have them come out sober for the rest of their life," he said.
+
+He added that an important role for physicians in treating patients with substance use disorders is twofold: first, to determine what treatment services a patient's insurance covers, and then to identify where patients can be referred to obtain those services.
+
+The National Institute of Mental Health funded the study. Authors declared they had no relevant financial interests.

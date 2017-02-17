@@ -1,0 +1,49 @@
+Meaningful use hardship exemptions clears Congress
+
+CONGRESS PASSES BLANKET HARDSHIP EXEMPTION: A small Christmas miracle happened Friday afternoon when the on-again-off-again legislation to create a blanket hardship exception for providers from 2015’s meaningful use penalties cleared both chambers of Congress on a voice vote. It capped a turbulent week for the bill. It was expected to be included in the omnibus spending and tax package but was dropped, then was going to be voted on in the House but was blocked when Democrats sought to tack more elements onto the vehicle that included it, then overcame last-minute opposition in the Senate. Whew. The penalties would have been assessed in 2017. Under the bill, doctors have until March 15 to apply for exemption, hospitals until April 1. The bill (S. 2425) also changes how Medicare pays for power wheelchairs and radiation therapy. Language to exempt ambulatory surgery centers from meaningful use until ONC develops an EHR certification program for them was left out of the bill.
+
+What went down?: A letter from Rep. Pete Sessions, obtained by our own Darius Tahir, sheds some light. After a private meeting earlier this month with CMS officials, Sessions was assured CMS would grant exemptions under a streamlined process for all those who sought them. “Under the law prior to S. 2425, CMS could only grant such exemptions on a case-by-case basis, and that exemption process was inadequate and tedious,” the letter states. “As a result of the discussions of our meeting, we now believe reasonable options are provided for in S. 2425.” You may recall that the Texas Republican was intimately involved in getting CMS to grant doctors flexibility around ICD-10 coding earlier this year.
+
+Story Continued Below
+
+— Rep. Renee Ellmers called the bill “a giant step in supplying relief to the provider community … I will continue to keep an eye out for CMS implementation and oversight of this policy to ensure that the administration is sticking to congressional intent in order to provide relief for the medical community.” President Obama did not, however, sign the bill into law Friday before leaving Washington to start his vacation.
+
+eHealth tweet of the day: @gopdoccaucus: We are glad our request for #MeaningfulUse help passed the House in S. 2425. Big thanks to Caucus member @RepTomPrice for his leadership.
+
+OMNIBUS SIGNED INTO LAW: Obama did sign the omnibus spending legislation, which includes the Cybersecurity Act of 2015. The legislation fosters the sharing of cybersecurity-related information with the federal government and within private industry. For health care, it mandates an HHS report on cybersecurity, directs the department to create a framework of security best practices and standards, and creates a task force to study and outline how best to share cyber threats within the health care world. Multiple health groups came out in support of the bill late Friday, including CHIME. “We believe that the act will not only improve information sharing among key stakeholders, but also help healthcare providers understand and adopt best practices,” the group said. HIMSS and the HITRUST Alliance also released praising statements. HIMSS likes the “single pipeline of actionable, real-time cyber threat data.”
+
+— Other highlights of the omnibus include: The Agency for Healthcare Research and Quality, the embattled health research agency, will receive $334 million in funding this year, a mere 10 percent cut from the $364 million it received last fiscal year. NIH got a $2 billion boost, including $130 million for the president's Precision Medicine Initiative. ONC's budget will remain flat at $60 million. The omnibus extends the meaningful use program to Puerto Rico hospitals.
+
+ALEXANDER TALKS MEDICAL INNOVATION BILL: Sen. Lamar Alexander, speaking on C-SPAN’s Newsmaker’s series Sunday, vowed to next tackle a medical innovation bill – presumably one that includes health IT – now that the Senate has passed No Child Left Behind reform. “I talked to Sen. [Patty] Murray this week, and I hope, I hope that’s our next one,” Alexander said. He brushed off assumptions it would be impossible to do in an election year. “They still pay our salaries next year, so I don’t know any reason we should take the year off.” The video: http://cs.pn/1mdxjPg
+
+Welcome to Monday morning eHealth where we remind you to read Pro eHealth Editor Arthur Allen’s POLITICO Magazine piece on solving the obesity epidemic in Oklahoma City. It’s fascinating in a number of ways. http://politi.co/1QxnUyY. In the meantime, pass along your news at dpittman@politico.com and connect with us on Twitter @David_Pittman, @arthurallen202, @DariusTahir @ POLITICOPro, @Morning_eHealth.
+
+FINANCE TEES UP 2016 WORKS: The Senate Finance Committee has been working most of the year on ways to improve chronic care management within health care. On Friday, it released a 30-page “opinions paper” outlining more than 20 proposals. eHealth readers will be particularly interested in provisions seeking to spur Medicare coverage of telemedicine. Lawmakers are considering changes to Medicare Advantage to make telemedicine more attractive for plans to offer (which we’ve covered here), more attractive for accountable care organizations to use, and for stroke diagnosis, since it's often hard to find a nearby neurologist to read a brain scan. Feedback to the committee is due Jan. 26. Find the paper here: http://politico.pro/1Ig3Uym
+
+— However, committee chair Orrin Hatch said in a statement he wants “budget-neutral solutions,” which might make it tricky for telemedicine given the technology's cool reception by the Congressional Budget Office.
+
+APP INSECURITY: The National Science Foundation is highlighting the work of its five-year, $10 million grant to study the cybersecurity of health information. The work, called "Trustworthy Health and Wellness" (THaW.org), is led by David Kotz, a computer science professor at Dartmouth College. The work has already found that mobile health apps handle sensitive health information in very insecure ways. “They found a variety of vulnerabilities that a malicious party could exploit to gain access to sensitive data,” the NSF says. Another problem is doctors and nurses logging into computers and not logging out. Researchers think they have a solution in a smart watch or fitness band that sends signals to a computer to let it know when a user is present, and logs the individual out if he or she strays from the device. Read more about it: http://1.usa.gov/1J0GD3r
+
+DUBIOUS ONLINE PHARMACY DINGED BY U.S. GOVERNMENT: The U.S. Trade Representative is out with its annual “Notorious Markets List” which identifies bad actors that “facilitate substantial copyright piracy and trademark counterfeiting.” It lists a Canada-based online domain register that licenses a “disproportionate number of illegal online pharmacies” as one. Rebel maintains 17 percent of the illegal online pharmacy market, the U.S. Trade Rep says. “One submission estimated that Rebel sells domain name registration services to 4,850 illegal online drug sellers,” it adds. Libby Baney, the executive director of the Alliance for Safe Online Pharmacies, notes the U.S. Trade Rep isn’t a law enforcement agency but can help draw attention to notorious players. The full report: http://1.usa.gov/1k5tGJO
+
+DOC LICENSING COMPACT COMMISSION MEETS AGAIN: The Federation of State Medical Boards’ Interstate Medical Licensure Compact Commission met for the second time Friday in Salt Lake City. The group of 12 states is trying to sort out its funding, budget, bylaws, technology and other issues to set up a process to quickly and easily license doctors in member states. More information: http://bit.ly/1ObGKeE
+
+GAO REPORTS ON HEALTH CARE’S CONSOLIDATION: With doctors increasingly employed by hospitals, HHS should consider paying the same for evaluation & management office visits at hospitals and traditional doctors’ offices. The full report: http://1.usa.gov/1mdnkth
+
+ICYMI: FINAL BEACON PROGRAM REPORT: ONC last week quietly released its final evaluation of the Beacon program, which gave $250 million in 2010 to establish 17 leading communities in health IT work. The independent analysis found “mixed progress on broad health care use and quality measures….Communities also found their efforts hindered in critical ways by challenges stemming from provider readiness, legal and policy constraints, and the technologies used,” the report stated. Recommendations include a better alignment of regional and federal work and greater leadership on nationwide interoperability. The report: http://bit.ly/1TNT8zQ
+
+WHAT WE'RE CLICKING:
+
+The New York Times profiles embattled lab test-development company Theranos: http://nyti.ms/1T8RkBs
+
+Also in the Times, why electronic records need to better account for patient needs: http://nyti.ms/1ZjpmXp
+
+ProPublica highlights problems around medical errors like not disclosing them: http://bit.ly/1Qu9obt
+
+The quest to develop medical-grade wearables: http://reut.rs/1Pd3BUn
+
+Couple arrested for stealing personal information of dozens of Manhattan hospital patients: http://bit.ly/1Pd6FzK
+
+Founding dean of the Jefferson School of Population Health calls for “zero tolerance” for information blocking: http://bit.ly/1RWoaqC
+
+Tips, comments, suggestions? Send them along via email to our team: Arthur Allen (aallen@politico.com, @ArthurAllen202), David Pittman (dpittman@politico.com, @David_Pittman) and Darius Tahir (dtahir@politico.com, @DariusTahir).

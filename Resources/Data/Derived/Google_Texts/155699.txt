@@ -1,0 +1,49 @@
+Ben Balter wants to get all up in the U.S. government’s code, and he thinks you should be able to as well. Balter, a Washington, D.C.-based lawyer, is GitHub’s official Government Evangelist. His purpose: to educate government agencies about adopting open-source software.
+
+Balter’s battle is an uphill one, but it’s finally beginning to pay off. GitHub, the nation’s most popular Web-based hosting service for mostly open-source coding projects, has just surpassed 10,000 active users within federal, state, and local governments—a number that’s roughly two and a half times larger than it was at this time last year.
+
+GitHub revolves around the repository—basically, a directory where users store the underlying code for computer programs. In exchange for free hosting, GitHub requires repositories to be public; that means anyone can view or suggest edits to software hosted there. That includes major open source projects like Ruby On Rails and some projects by companies like Facebook and Twitter.
+
+The United States Of GitHub
+
+
+
+Ben Balter
+
+GitHub began training its sights on government last fall with the launch of GitHub and Government, a portal designed to help government workers take advantage of open source software and tools so they can reuse pieces of code that are known to work—and so don’t have to keep reinventing the wheel.
+
+Balter’s job is to be GitHub’s eyes and ears in Washington by meeting with agencies and educating them about the basics of open source software. The biggest problem is the culture, he says.
+
+See also: GitHub Goes Government, Aims To Open Source Civics
+
+For instance, when Balter sends government agencies links to GitHub repositories, they frequently ask him to resend PDFs or PowerPoint slideshows instead. Such “closed data” formats—meaning there’s no way to extract data and do something (anything!) with it—are anathema to the freewheeling, flexible GitHub culture.
+
+As Balter told me:
+
+You’ve got government contractors that only know legacy languages. You’ve got administrators within government that don’t know whether open source can be trusted. So there’s a lot of education that needs to happen. Plus, there’s an entire industry dedicated to selling closed solutions to the government, and open source has to compete with that.
+
+But the government is more open to modernization than it once was. HealthCare.gov, the Obama administration’s initially disastrous website for Affordable Care Act signups, was a wake-up call regarding the atrocious interfaces and outdated technology of some government Web pages and their underlying services.
+
+When The Feds Go Digital
+
+Now, the White House has taken a page from San Francisco. Earlier this week it established a new U.S. Digital Service that, among other things, will set out technology best practices for the federal government. Running it will be Mikey Dickerson, the former Google employee who led a team credited with fixing the problems at HealthCare.gov.
+
+See also: The White House Now Has A Digital SWAT Team
+
+It’s one small step for a government mainly stuck in the dark ages of technology. Balter told me that while he was on the White House SWAT (Software Automation and Technology) team, he wrote a script that cut the time one White House lawyer had previously spent messing around with spreadsheets from 45 minutes—to one:
+
+As a taxpayer, we want these people working on law stuff, not busywork. And they would collect FOIA requests in spreadsheets and they would spend 45 minutes a day merging those spreadsheets. So we coded a script in 30 minutes so they can press a button and do that 45 minutes of work in one click. And if we share this script with other agencies, that’s the value of open source. We can free up government employees’ time to work smarter.
+
+When usability and modernization are still major problems with some government websites, it’s a little early to be thinking about citizen participation. However, Balter is optimistic. He wants to have all 50 state governments using GitHub in some capacity by year’s end.
+
+“I want your average 18-year-old to have the same facts and figures as a K Street lobbyist,” he said. “Where he or she can walk into a congressional office and point out a discrepancy with the open data he or she found in the government’s GitHub repository. And in my dream, the congressperson says, ‘You can submit a pull request to fix it.’ All of a sudden everyone’s on equal footing and we have participatory democracy.”
+
+Local Government Wins, Too
+
+One of GitHub and Government’s major success stories is the city of Chicago, where government employees and citizens are working side-by-side to map the city’s bike routes. Meanwhile, the city of Philadelphia’s proposed data specifications for flu shot locations was so successful, Chicago and San Francisco later borrowed the code.
+
+When GitHub says that it has 10,000 “active” government users, it really means government users who have “done something on GitHub other than signing up.” So while it’s unrealistic to assume 10,000 government employees are regularly using open source technology, it’s still possible that 10,000 of them think open source is a very good idea.
+
+“There’s nothing preventing the government from modernizing,” he said. “If we hit the reset button, I think more people would envision a more open government that ‘shows its work’.”
+
+Lead photo courtesy of GitHub; photo of Ben Balter courtesy of Ben Balter

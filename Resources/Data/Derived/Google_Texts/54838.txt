@@ -1,0 +1,49 @@
+In followup to my guest post from Dr. Marvin Harper about e-prescribing gaps, John Klimek, senior VP of standards and information technology at NCPDP, wrote the following helpful guest post:
+
+The National Council for Prescription Drug Programs leaders and members read with interest the guest post from Marvin Harper, CMIO at Boston Children's Hospital, entitled "Limitations of e-Prescribing Standards." Harper's thoughtful post brings a critical issue to light: the need for increased industry awareness and adoption of the full functionality that already exists in e-prescribing standards – going beyond the core requirements of meaningful use . Electronic prescribing is important in improving both the quality of patient care and patient safety. It provides a key point of communication between care providers and can help improve patient compliance with treatment regimens.
+
+[See also: E-prescribing makes huge gains.]
+
+E-prescribing standards: what's covered
+
+Three standards are used in e-prescribing: the NCPDP SCRIPT Standard and the NCPDP Formulary and Benefit Standard, and the ASC X12 Standards for Electronic Data Interchange Technical Report 3 – Health Care Eligibility Benefit Inquiry and Response – 270/271. The eligibility transaction is typically exchanged prior to the patient encounter and can supply the prescriber system with information about the patient's pharmacy benefit, including the payer, member ID, formulary and coverage pointers, and other details. The formulary and benefit standard provides a means for pharmacy benefit payers to communicate formulary and benefit information to prescribers via technology vendor systems at the point of prescribing. The file exchange includes information on formulary status, alternative drugs, co-pays and other information.
+
+The healthcare industry is currently using SCRIPT Standard version 10.6 which contains thirteen different transactional exchanges for e-prescribing functions, including:
+
+Sending a new prescription;
+
+changes to a prescription;
+
+renewals and resupply exchanges;
+
+cancellation of a prescription;
+
+fill status notifications;
+
+medication history; and
+
+census exchanges.
+
+Most of these transactions have been named in the regulations associated with the Medicare Modernization Act. While the electronic exchange of new prescriptions, renewals and medication history have grown exponentially, implementation of other transactions has been very slow.
+
+Other capabilities, including the specific issues raised by Harper, are also available in the existing standard, underscoring the urgent need to increase awareness and industry-wide adoption of the breadth of functionality afforded by the e-prescribing standards. Among them are:
+
+Structured and codified sig: promotes greater consistency in specifying directions and for clinical review/analysis. The current version used by the industry contains a 140 byte free text field, along with fields to describe the route, indication, vehicle, site, timing and duration. The structured and codified sig format present in SCRIPT version 10.6 was not intended to support 100 percent of sigs; however a pilot found that 95 percent of the fully parsed sig strings were accommodated by the format. Enhancements incorporated in SCRIPT version 2012+ include a more robust Structured Sig Segment which supports a text field size of 1000, as well as other enhancements, recommendations and clarifications from the pilot.
+
+Support for patient observations: allows prescribers to supply patient height, weight, diastolic and systolic blood pressure. Patient weight is useful for validating proper pediatric dosing. Based on questions posed by a Council on Clinical Information Technology Executive Committee article, recommendations for pediatric prescriptions were included in the SCRIPT Implementation Recommendations document publicly available for implementers here under "NCPDP Resources." A challenge is for the prescribing systems to send this information. Enhancements for more observation measurements were included in a more recent version.
+
+Support for scheduled medications: provides fields necessary to enable e-prescribing of controlled substances.
+
+Compound prescription support: approved in SCRIPT version 10.8 when industry champions came forward to analyze the needs and work through the requirements.
+
+Adverse events/reactions: the NCPDP SCRIPT Standard supports the exchange of drug use review fields. The industry is actively exploring adding the use of adverse events/reactions/etc., which is used in other transactions, for the use in the e-prescribing transactions via the NCPDP WG11 e-prescribing Best Practices Task Group.
+
+Support for prior authorizations: provides the means to exchange information needed in prior authorization requirements, including access to information on covered medications at the point of care, information on PA approvals and denials. The ePA transactions were added in a more recent version that industry participants are actively implementing.
+
+Moving the needle on adoption and implementation of e-prescribing standards
+
+E-prescribing standards have been enhanced based on requests by the industry which has opted to build functionality in layers. For example, the SCRIPT Standard version 10.6 was published in 2008, with enhancements that are approved and published at least twice a year. But publication is one action; implementation is another. So the question is: How do we move the needle to increase adoption and implementation of the e-prescribing standards?
+
+1. Technology/system vendors can take the lead, or wait for a mandate – There are many demands on industry vendors for impact analysis, development, implementation, testing and distribution. Then there is coordination of both prescribing and pharmacy systems implementation, and all within regulatory requirements. In an effort to build a predictable, repeatable process, the industry will be examining if a cyclical implementation timeframe could be adopted to move versions in a more timely and expected manner. In the absence of a mandate, uptake on adoption and implementation depends on technology vendor priorities.
+
+2. Share lessons learned to improve implementation guidance – Implementation can be slow when you are blazing new trails. The data itself is complex. It may be pulled from data that is not discrete or doesn't use the same nomenclature or requires the use of an unfamiliar vocabulary. The electronic exchange can be complicated. It forces analysis of manual workflows. Trading partners may be at different stages of implementation maturity. Benefits are seen from different perspectives. Industry experience in the use of the functionality available is needed, with lessons learned to improve future implementation. NCPDP has active task groups including e-prescribing Best Practices Task Group, Implementation of Structured and Codified Sig Task Group and many others that are open to materially interested parties to come together in consensus to develop industry guidance, implementation guidance and future enhancements to the standards.

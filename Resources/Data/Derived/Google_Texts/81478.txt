@@ -1,0 +1,87 @@
+Timothy Jost
+
+July 1, 2015
+
+Northern Arapaho Tribe v. Burwell Dismissed by US District Court of Wyoming
+
+July 8, 2015 update: On July 2, 2015, another federal court dismissed another Affordable Care Act (ACA) implementation challenge. Judge Scott Skavdahl of the United States District Court for the District of Wyoming dismissed a lawsuit brought by the Northern Arapaho Tribe in which the Tribe claimed that it was exempt from the employer mandate. The Tribe operates several economic enterprises on the Wind River Indian Reservation, including a casino, convenience store, gas station, and grocery store, and employs over 900 people. It wanted to subsidize its members purchase of health insurance through the Wyoming federally facilitated exchange rather than provide employee coverage itself. Native Americans receive generous cost-sharing reductions in the individual market but no specific assistance for employer coverage.
+
+The Court initially determined that it had no jurisdiction to hear the Tribe’s claim because the employer mandate is enforced through a tax and the Tax Anti-Injunction Act and Declaratory Judgment Act prohibit the federal courts from prohibiting the collection of the tax or declaring a tax invalid. Having held that it had no jurisdiction, however, the court proceeded to consider the plaintiffs claims on the merits. The court held further that the Tribe had waived its objection to the Internal Revenue Service (IRS) rule subjecting Indian tribes to the employer mandate because the Tribe had failed to comment on the IRS employer mandate rule when it was proposed. Finally, the court held that the employer mandate clearly applies to Native American tribes. While Native Americans are exempt from the individual mandate, when tribes function as employers, they are subject to the same rules as all other employers.
+
+Issuer Renewal and Discontinuation Notices Guidance
+
+July 7, 2015 update: Under guaranteed renewability requirements that date back to the Health Insurance Portability and Accountability Act of the 1990s, health insurers have had to give covered employers and individuals at least 90 days notice before discontinuing an insurance product. The 90-day notice requirement gave enrollees time to make other arrangements when their coverage was being discontinued.
+
+Individual coverage is now provided on a calendar year basis. Open enrollment for 2016 does not begin until November 1, 2015. Coverage alternatives should be readily available in most markets as of that date. Moreover, it would be difficult for insurers to give enrollees notice 90 days before December 31, 2015 when coverage ended (that is, by October 3, 2015) because, given the time frame for plan certification for 2016, replacement plans may not be finally approved by that date.
+
+And enrollees may be confused if they receive notices of plan discontinuance before replacement plans are approved. The 90-day notice requirement does not, therefore, make sense for marketplace plans.
+
+For these reasons, the Centers for Medicare and Medicaid Services (CMS) decided in 2014 to waive enforcement of the 90-day notice requirement for 2015. On July 7, 2015, CMS announced that it will again waive enforcement of the 90-day requirement for non-grandfathered, non-transitional for 2016 coverage.
+
+Insurers are only required to provide a notice of discontinuance for these plans before the first day of open enrollment, that is before November 1, 2015. Insurers intending to discontinue transitional or grandfathered plans must give 60-days notice.
+
+The 90-day discontinuance notice requirement continues to apply to group plans, which have continuous open enrollment. Insurers that intend to completely withdraw from a market must continue to give 180 days notice (and may not return to the market for 5 years).
+
+The July 7 guidance further provides that insurers should continue to use standard notices for product discontinuances and renewals provided in earlier guidances.
+
+SHOP Exchange Program
+
+July 3, 2015 update: On July 3, 2015, CMS released for the first time numbers on effectuated enrollment in the SHOP exchange program. The Small Business Health Options Program (SHOP) grew out of bipartisan legislation antedating the ACA that attempted to reform the small group health insurance market.
+
+The small group market has historically been plagued by high administrative costs and premiums and lack of access for groups with high cost enrollees. Repeated attempts by states to reform the small group market were largely unsuccessful. The ACA attempted a more comprehensive approach to the problems of the small group market.
+
+The ACA reformed small group market underwriting and coverage, imposing the same guaranteed issue, modified community rating, and comprehensive coverage requirements on the small group market that it imposed on the individual market. The ACA further created the SHOP exchanges to pool the enrollment of small employers, potentially reducing administrative costs, and to offer individual employees a choice among health insurance plans.
+
+Finally, it created a new program to make tax credits available to small employers through the SHOP exchanges that would reimburse up to half of employer contributions towards premiums to pay for employee coverage.
+
+With the troubled launch of the individual exchanges in the fall of 2013, however, the SHOP exchange took a back seat. The federally facilitated exchanges essentially delayed the launch of the SHOP exchange for 2014 (although they did offer the tax credits) and delayed offering employee choice in many states for 2015.
+
+The federally facilitated exchanges made online enrollment available to small employers in the 33 federally facilitated states beginning with the second open enrollment period in November of 2014. Many of the state exchanges offered SHOP exchanges from the time they opened enrollment in 2013.
+
+As of May 2015, approximately 85,000 Americans have 2015 coverage through the SHOP marketplaces through approximately 10,700 small employers. These totals do not include employers that enrolled their employees in 2014 but have not renewed for 2015.
+
+Unlike the individual market, where open enrollment is only available once a year, employers can enroll in the SHOP exchange at any time. Approximately 500 employers have been enrolling each month since November 2014.
+
+These are small numbers compared to the millions of enrollees in the individual exchange. They may reflect competition from private exchanges, which offer many of the same benefits of the SHOP exchange.
+
+Private exchanges cannot offer the tax credits, but the tight tax credit eligibility requirements have limited their usefulness to small employers. In any event, the SHOP exchanges are launched and growing, and continue to have potential for making better coverage available to small employers and their employees.
+
+Premium Stabilization Programs
+
+On June 30, 2015, right on schedule, CMS announced the results of the first year (2014) of the operation of the reinsurance and risk adjustment programs. The reinsurance and risk adjustment programs are two of the “three R” premium stabilization programs. Results from the third program, the risk corridor program, will be announced in mid-August.
+
+From all appearances, the programs are operating successfully as intended. The reinsurance program was intended to collect a pool of $10 billion from health insurers and self-insured health plans for 2014 to distribute to health plans in the individual market to reinsure the cost of high-cost cases. The risk adjustment program was intended to collect funds from health insurers in the individual and small group market that attracted a healthier than average pool of enrollees and transfer those funds to insurers that serve less healthy than average enrollees.
+
+Regulations implementing the premium stabilization programs were published in 2012, but the programs have been refined through the annual Benefit and Payment Parameters rules and a seemingly endless series of frequently asked questions and guidance seminars on the CMS REGTAP website. They are among the most complicated ACA programs as they involve assembling and analyzing massive amounts of data and collecting and distributing large sums of money.
+
+The federal risk adjustment program included insurers in every state except Massachusetts, which operated its own risk adjustment program, while the reinsurance program covered insurers in every state except Connecticut, which operated its own reinsurance program (although Connecticut reinsurance data is included in the report). Nationally, 484 insurers participated in the reinsurance program, of which 437 received payments. Of risk adjustment, 758 insurers participated in the program.
+
+Participating insurers were required to set up EDGE servers through which they could transfer to CMS the data necessary to calculate reinsurance programs and risk adjustment information while retaining control of sensitive enrollee information. CMS reports that 99.7 percent of insurers who set up EDGE servers successfully submitted the data necessary to calculate program payments and transferred. Nationally only 10 insurers failed to create an EDGE server or transfer the necessary data and were thus subject to a default risk adjustment charge, which was redistributed to other insurers in the insurer’s state.
+
+The reinsurance program was supposed to collect $10 billion for 2014 and to pay insurers offering ACA-compliant (non-grandfathered or grandmothered) plans in the individual market 80 percent of the cost of claims that exceeded $45,000 up to a cap of $250,000. In fact the program only collected $8.7 billion, but total claims equaled only $7.3 billion, so the program will pay out 100 percent of the claims between the $45,000 threshold and $250,000 cap.
+
+Four hundred and thirty-seven insurers will receive reinsurance payments. Excess funds collected will be used to enhance reinsurance payments for 2015 or 2016. The amount of reinsurance funds that will be paid out to each insurer are listed in the report, although the report notes that reinsurance and risk adjustment funds are subject to sequester (a reduction of about 7 percent) for this year, with the difference to be paid out next year.
+
+The risk adjustment program will transfer 10 percent of funds in the individual market, 6 percent in the small group market, 21 percent in the catastrophic market, and 2 percent in states with merged markets. The report lists for each insurer subject to the risk adjustment program how much the insurer will pay or receive in the individual and small group market.
+
+While many insurers will receive, or in some cases, pay relatively small net amounts, for some insurers massive amounts of money are involved. Blue Cross of California will receive $401 million in reinsurance payments but owe $182 million in risk adjustment contributions in the individual market. The California Blue Shield plan, on the other hand, will collect $363 million in reinsurance and $135 million in individual market risk adjustment funds.
+
+The Florida Blue Cross Blue Shield program will collect $265 million in reinsurance and $221 million in individual market risk adjustment programs. Coventry of Florida will collect $64 million in reinsurance but owe $161 million in risk adjustment contributions in the individual market.
+
+CMS states in the report:
+
+Our preliminary analysis of the risk adjustment transfers for the 2014 benefit year shows that the risk adjustment methodology is working as intended — by compensating issuers that enrolled higher risk individuals and protecting against adverse selection within a market within a state. For example, we have found that: Issuers that enrolled a large share of HIV/AIDS patients, whether because they offered more robust prescription drug coverage or contracted with the Ryan White Foundation, received risk adjustment payments;
+
+Issuers that attracted more high-risk patients due to networks that include key specialty hospitals received risk adjustment payments;
+
+Issuers that had a history of serving high risk individuals as the issuer of last resort and therefore enrolled a disproportionate number of expensive consumers received risk adjustment payments; and
+
+Small plans with isolated cases of catastrophically ill individuals received risk adjustment payments.
+
+Without a great deal more knowledge than I have about the insurers listed in the report, it is difficult to verify these claims. Anecdotally, three of the four plans that were subject to a civil rights complaint for discriminating against AIDS patients in Florida seem to have on net paid into the risk adjustment program but one was a net gainer.
+
+Nationally, many of the new cooperative plans received risk adjustment programs, but others paid into the risk adjustment program. The Blue plans, traditionally the insurer of last resort in many states, generally did well in the reinsurance programs but had mixed results in the risk adjustment program.
+
+Certainly insurers that have to pay in to the program will not be pleased, and we can expect to hear from them. There may also be mistakes in the data. Insurers can appeal results they believe to be incorrect.
+
+But the big news is that two incredibly complex programs that play a key role in encouraging insurers to accept high-cost patients and to discourage insurers from risk selection seem to have come off without serious technical problems. It is quite a contrast to last year’s launch of the exchanges and a testimony to the effectiveness of the current management of CMS and its relationship with insurers.

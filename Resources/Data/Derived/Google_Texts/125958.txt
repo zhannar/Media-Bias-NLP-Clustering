@@ -1,0 +1,37 @@
+Clinical Trials
+
+Clinical trials play an immensely important role in finding medical advancements and developing treatments for many diseases and conditions, including HIV. The goal of clinical trials is to determine if a new test or treatment works and is safe. Clinical trials can also look at other aspects of care, such as improving quality of life for people with chronic illnesses.
+
+The National Institutes of Health (NIH) is engaged in a number of clinical trials, including REPRIEVE, the largest randomized clinical trial to date that focuses on HIV-related cardiovascular disease.
+
+NIH’s HIV-related clinical trials are designed to:
+
+Help researchers understand how HIV damages the immune system
+
+Find new tools to prevent HIV infection
+
+Develop new and more effective treatments for people living with HIV
+
+Move toward a cure
+
+In an effort to educate people about clinical trials and recruit people to participate in them, NIH—in conjunction with the Centers for Disease Control and Prevention (CDC)—has developed a media player, NIH Clinical Trials.
+
+Media Player
+
+A media player is a program for viewing and listening to audio and video files (including live broadcasts).
+
+The NIH Clinical Trials Media Player displays basic information about trials, offers related videos, and tells people how they can find and join a clinical trial if they are interested.
+
+Adding the NIH Media Player to Your Website
+
+Adding the NIH Clinical Trials Media Player to your website is easy and free! The content meets Federal guidelines and standards, and it’s updated regularly by NIH and CDC. This means you can be sure you’re providing the most accurate content—at the same time you are encouraging your audiences to learn more about, and register for, clinical trials.
+
+You can add the media player to your website simply by adding the code below to your webpage’s HTML code. You can also get the code by clicking the “embed” icon in the media viewer, and you can control the size of the player on your site.
+
+<div class=”media-viewer” data-header-text=”NIH Clinical Research Trials and You” data-module-type=”media-viewer” data-content-id=”121367″ data-content-tags=”” data-sort-field=””></div><script data-main=”//www.nih.gov/microsite/js/mediaViewerWidget” src=”//www.nih.gov/microsite/js/libs/require/require.js”></script>
+
+You can find examples of how to use this tool is being used at the National Institute on Aging and Advanced Technology Academic Research Center websites.
+
+As we approach the May 18th observance of HIV Vaccine Awareness Day, I encourage you to help us promote the great work NIH is doing for scientific advancement! For questions or support about the NIH Clinical Trials Media Player, please email: Christen.Geiler@nih.gov
+
+How do you find and share information about clinical trials with your community? How do you encourage people in your community to participate in trials?

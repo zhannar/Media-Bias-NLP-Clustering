@@ -1,0 +1,35 @@
+One of the most immediate changes healthcare providers will face as a result of the U.S. Affordable Care Act is...
+
+Sign in for existing members Continue Reading This Article Enjoy this article as well as all of our content, including E-Guides, news, tips and more. Step 2 of 2: You forgot to provide an Email Address. This email address doesn’t appear to be valid. This email address is already registered. Please login. You have exceeded the maximum character limit. Please provide a Corporate E-mail Address.
+
+By submitting my Email address I confirm that I have read and accepted the Terms of Use and Declaration of Consent. By submitting your email address, you agree to receive emails regarding relevant topic offers from TechTarget and its partners. You can withdraw your consent at any time. Contact TechTarget at 275 Grove Street, Newton, MA. You also agree that your personal information may be transferred and processed in the United States, and that you have read and agree to the Terms of Use and the Privacy Policy.
+
+that they will be penalized for having high readmission rates. Many providers are looking to healthcare analytics to help address this challenge.
+
+The penalties for high readmission rates are part of an overall attempt to realign healthcare to pay for quality, rather than volume. The Centers for Medicare and Medicaid, the government agency responsible for overseeing most federal health programs, estimated that unnecessary readmissions cost Medicare $17.5 billion each year.
+
+To avoid readmission penalties -- which currently amount to about 1% of a hospital's total Medicare reimbursements, but will soon escalate to as high as 3% -- hospitals need to figure out which patients are most likely to be readmitted; and many are turning to analytics technology to make it happen.
+
+At the recent Boston-based Strata Rx conference, a summit for professionals looking to implement analytic systems in healthcare, Beth Israel Deaconess Medical Center Chief Information Officer John Halamka said his organization has made readmission prevention a priority by building homegrown applications that will allow medical staff to predict which patients are the most likely to have lingering health problems.
+
+These applications pull data from multiple sources, including the medical center's electronic health record system, and present information in simple dashboards that administrative workers can use. If a person with diabetes checks into the emergency room, for example, the application will give staff information about recent blood glucose readings or results of foot exams, all of which may be predictive of how well diabetic patients are caring for themselves and whether they are likely to need ongoing help. Care teams can then devise interventions while the patient is still in the hospital that will decrease the patient's risk of having to come back.
+
+What we're trying to do is control for who's at risk. In an ideal world, we would be able to apply these findings to everyone, but in the real world we have to triage. Michael Goldchief operating office, Farsite
+
+This is a very different approach for hospitals, which have traditionally focused on facilitating the treatment of an ever-increasing number of patients after they become sick, Halamka said. Now they must focus on how to deliver more proactive, higher-quality care.
+
+"We are putting our money not into building bed capacity, but into keeping people out of the hospital," Halamka said.
+
+The Ohio State University Wexner Medical Center recently launched its own project to reduce the number of patients readmitted after being treated for heart attacks and heart disease. The initiative seeks to identify patients who will benefit from cardiac rehabilitation classes and who will be receptive to text messages encouraging them to attend.
+
+Michael Gold, the chief operating officer at Farsite, a consulting firm that helped the medical center implement the technology, explained at Strata Rx that cardiac rehabilitation can improve measures of recovery following a heart attack by 25% compared to other types of care, but the majority of patients never complete the recommended number of sessions. To address this problem, Farsite and Ohio State came up with a text messaging program that collects personal messages of encouragement from patients' family members.
+
+The heavy analytical lifting happens when determining which patients are a good fit for the program, what type of messages are most successful at getting patients to rehab sessions, and the most effective timing of messages. The team collects historical data on drivers of adherence to rehab recommendations, such as demographic data, marital status, geography, seasonality and whether the patient has other confounding medical conditions.
+
+Gold said the program is all about delivering scarce healthcare resources to those who need them most, thereby cutting down on readmissions.
+
+More providers will have to perform this kind of triaging in the future if they hope to avoid the Affordable Care Act's readmission penalties. The role of healthcare analytics may expand as the threat of penalties raises the stakes on keeping patients healthy.
+
+"What we're trying to do is control for who's at risk," Gold said. "In an ideal world, we would be able to apply these findings to everyone, but in the real world we have to triage."
+
+Ed Burns is site editor of SearchBusinessAnalytics. Email him at eburns@techtarget.comand follow him on Twitter: @EdBurnsTT.

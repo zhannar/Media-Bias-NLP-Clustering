@@ -1,0 +1,39 @@
+In an amusing troll of the most polished of ivory towers, The New York Times’ Robert Pear reports that much of the Harvard faculty is up in arms because the university health plan has been altered to include modest deductibles and copays:
+
+The plan has an annual deductible of $250 per individual and $750 for a family. For a doctor’s office visit, the charge is $20. For most other services, patients will pay 10 percent of the cost until they reach the out-of-pocket limit of $1,500 for an individual and $4,500 for a family.
+
+In highlighting the generosity of this plan, however, Pear presents an incomplete picture of the benefits delivered by the Affordable Care Act. Here’s his contrast:
+
+Harvard’s new plan is far more generous than plans sold on public insurance exchanges under the Affordable Care Act. Harvard says its plan pays 91 percent of the cost of care for a typical consumer, while the most popular plans on the exchanges, known as Silver plans, pay 70 percent, on average.
+
+The fact is, however, that for more than half of Silver plan buyers on the ACA exchanges, the plans have an actuarial value (Pear’s “cost of care for a typical consumer” in a given year) of either 87 percent or 94 percent. That’s because low-income buyers on the ACA exchanges qualify for Cost Sharing Reduction (CSR) subsidies that lower their deductibles, co-pays and maximum out-of-pocket costs – but only for Silver plans.
+
+For low-income buyers, polished Silver
+
+For buyers with incomes under 150 percent of the Federal Poverty Level – $17,505 for a single person, $41,865 for a family of four – CSR raises the actuarial value of a Silver plan to 94 percent – better than Harvard’s newly trimmed plan. For buyers with incomes between 150 and 250 percent FPL, CSR raises the AV to 87 percent – slightly worse than Harvard’s. For buyers between 200-250 percent FPL, CSR is much weaker, raising AV to 73 percent, barely above the 70 percent provided by unenhanced Silver plans.
+
+More broadly, I think it’s fair to infer, for reasons explained below, that about half of ACA private plan buyers in 2014 purchased plans with actuarial values above 80 percent. Further, about 85 percent of buyers with incomes under 200 percent of the Federal Poverty Level did select Silver plans and so access CSR subsidies that raised the actuarial value of their plans to 87 percent or 94 percent.
+
+How do we know this? HHS does not does not break out buyers’ metal level selection by income level for the 36 states that used the federal exchange, Healthcare.gov, in 2014. But a handful of states did report the selections of buyers at different income levels, with varying degrees of specificity. One of them, New York, was close enough to national norms to allow for some inferences.
+
+In NY, most low-income ACA buyers chose wisely
+
+Wealthier states tend to have more buyers of the lowest-tier Bronze plans, which have the lowest premiums and highest deductibles on the exchanges (high deductible plans make most sense for people with some financial resources). New York’s median household income, $53,843 in 2013, is close to the national median, $51,939. The rate of Bronze plan takeup among New York ACA private plan buyers is also close to the national average reported by HHS – 19 percent vs. 20 percent.
+
+In its 2014 Open Enrollment Report, released last June, New York posted the percentage of buyers at each metal level, including separate percentages for Silver plans at each level of CSR. Out of all 370,604 private plans purchased in the state, those at the two highest levels of CSR accounted for 35 percent, or a bit shy of 130,000. Silver plans as a whole accounted for 55 percent of all plans sold, or a bit less than 204,000. About 64 percent of all Silver plans sold – the level that Pear characterizes as having an actuarial value of 70 percent – had actuarial values of 87 percent or better for their flesh-and-blood buyers.
+
+New York did a good job of steering CSR-eligible buyers toward Silver plans For CSR-eligible applicants, the menu of available plans “defaulted to Silver” – that is, showed Silver plans first. Accordingly, 89 percent of New York buyers with incomes under 200 percent FPL – the level at which CSR is really strong – bought Silver plans.
+
+Healthcare.gov did not “default to Silver.” But it did warn CSR-eligible buyers who moved to buy plans other than Silver ones that the plan selected did not include CSR. And available evidence suggests that the results were comparable.
+
+While HHS did not break out buyers’ metal level selection according to their precise income level, the agency did report that 76 percent of buyers on Healthcare.gov who qualified for any kind of subsidy (which includes many who earned too much to qualify for CSR) bought Silver plans. In New York, 74 percent of subsidy-eligible buyers selected Silver.* While the percentages of subsidy-eligible Silver buyers at different income levels might vary somewhat by state, it seems fair to assume that the percentage of CSR-eligible buyers in the 36 states using Healthcare.gov in 2014 who bought Silver plans is comparable to New York’s.
+
+In most states that ran their own exchanges, Silver plan takeup was somewhat lower than on Healthcare.gov – partly because the states running their own exchanges were wealthy on average, and partly because most state-run exchanges did a poor job steering CSR-eligibles to Silver (with the noteworthy exception of Connecticut, the second-wealthiest state in the nation, which like New York defaulted CSR-eligible buyers to Silver when showing available plans.) Since the national average of Silver plan takeup was 4 percentage points lower than the average on Healthcare.gov, my estimate for Silver plan takeup among CSR-eligibles in all states goes down to about 85 percent.
+
+Don’t forget Gold and Platinum – or Medicaid
+
+Nationally, 9 percent of buyers selected Gold plans (with an actuarial value of 80 percent) and 5 percent Platinum (AV 90 percent). Add those 14 percent of buyers to the 35 percent or slightly less who purchased Silver plans with “strong” CSR (AV 87 percent or 94 percent), and the inference is that slightly less than half of all private plan buyers on ACA exchanges purchased plans with AV 80 percent or higher.
+
+Keep in mind, too, that the ACA has insured more Americans via Medicaid than on the exchanges – and Medicaid usually requires no copayments, or very minimal ones. According to ACA signups tracking guru (and healthinsurance.org author) Charles Gaba’s latest estimates, over 8 million Americans have enrolled in Medicaid as a direct result of the ACA expansion, compared to just shy of 8 million paid-up private-plan enrollees. On that basis, the inference would be that about three quarters of all those who have become insured as a direct result of the ACA have obtained coverage with an actuarial value of 80 percent or better.
+
+* New York reports that 273,888 buyers were subsidy-eligible, and 55 percent of all 370,604 buyers selected Silver (approx 203,832).

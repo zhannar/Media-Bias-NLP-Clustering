@@ -1,0 +1,57 @@
+5 ways artificial intelligence is changing the face of healthcare
+
+Artificial intelligence is advancing rapidly and poised to change the status quo in any number of industries, including healthcare. A recent report by Frost & Sullivan predicts the AI market in healthcare will reach $6 billion by 2021, up from just $600 million two years ago.
+
+With the shift to a value-based reimbursement model, ushered in with the Affordable Care Act, hospitals and providers are looking for new ways to increase efficiencies and improve patient outcomes. Cognitive solutions such as IBM’s Watson system can assess huge amounts of patient data, provide guidance and decision support, and improve clinical workflow.
+
+The goal is to support the physician, not replace him or her, said Anil Jain, vice president of IBM’s Watson Health and an internist and medical informatics specialist at the Cleveland Clinic.
+
+Watson is currently partnering with about 30 companies and institutions to create additional levels of specialization for its basic software platform. Here’s a look at some of the ways AI is being used to affect practice management and care services.
+
+Diagnosis and treatment
+
+Keeping up with the latest medical information is not only daunting for today’s care providers—it’s next to impossible. According to Jain, the medical literature and knowledge base that a physician needs to draw upon is literally doubling every two years.
+
+Watson’s AI uses cognitive computing to sift through all that information and find patterns that are relevant for different patients a doctor is seeing in order to help them make stronger diagnoses and craft better treatment regimens. For example, Watson Oncology sifts through thousands of cases and articles and helps the doctor decide the best treatment for a specific type of tumor.
+
+AkēLex, a startup located in Portland, OR, has developed an adaptive learning tool that helps caregivers deliver care by providing guidance based on the patient’s profile.
+
+“It’s almost like having a specialist watching over a frontline nurse who is treating a patient,” said Venkat Rajan, global director of the Visionary Health Program at Frost & Sullivan.
+
+Disease management
+
+Austin, TX-based Cognitive Scale developed a tool, called Cognitive Clouds, to provide actionable insights for people living with chronic conditions. Doctors use the insights to better understand their patients' needs and tailor care.
+
+The system is being used by Utah’s Intermountain Healthcare in a pilot program to help teens with Type 1 diabetes transition to self-care as adults. The goal is to reduce future hospitalizations and ensure better outcomes, a Cognitive Scale spokesman said.
+
+In February, the two-year-old startup teamed with the University of Texas MD Anderson Cancer Center on a multiyear initiative to use cognitive computing to speed up healthcare decisionmaking, enhance the patient experience, and boost staff productivity.
+
+Watson is also being used to look at disease pathways and why certain people might respond better to certain types of care processes better than others. To do this, Watson considers the patient’s personality, as well as all sorts of disparate data, such as socioeconomic data and demographics, to help predict how patients will respond to different treatment options, Jain said.
+
+Clinical Trials
+
+One of the trickiest challenges for doctors is finding an appropriate clinical trial for a patient who has exhausted available treatment options, Jain said. Watson reads through thousands of clinical trial protocols and reasons whether a specific patient might qualify for a particular clinical trial and communicates that back to the doctor.
+
+AkēLex’s AKE stores unbiased clinical data and allows it to be searched by patient populations, individuals, diseases, conditions, procedures, medications, and more. This gives physicians immediate access to data at various levels depending on the problem they’re trying to solve vis à vis their patient.
+
+Wellness
+
+Using Watson’s cognitive capabilities, Welltok’s Caféwell Concierge app offers personalized health solutions for everyday consumers. The app employs Watson’s natural language processing capabilities to assess user’s activity goals and prompt them to meet those goals.
+
+Watson is also partnering with Johnson & Johnson to use AI to help joint replacement patients better manage their health. It is also partnering with Medtronic with the goal of being able to predict which diabetes patients need more help in keeping their blood sugar under control.
+
+Stay informed.
+
+to get the latest healthcare industry news delivered straight to your inbox.
+
+Reimbursement
+
+Hindsait has developed a software-as-a-service platform that enables payers and accountable care organizations to identify potentially unnecessary services during the review process and improve quality of care. The system uses natural language processing, a database of established clinical guidelines and knowledge base, and predictive analytics “to assign a confidence score that enables consistent clinical and administrative decisionmaking,” CEO of the Hackensack, NJ startup Pinaki Dasgupta said.
+
+Hindsait’s platform has been live in production with Magellan Health since last year, Dasgupta said. The AI technology improves Magellan’s utilization management system by bolstering clinical quality and outcomes and increasing the consistency and productivity of care reviewers, he added.
+
+The technology, which is hosted on the HIPAA-compliant, highly secured Google Cloud platform, is also being piloted by several large payers and ACOs.
+
+The beauty of cloud-based healthcare AI is not only its potential, but that it’s affordable for most providers—from large tertiary care centers to small medical practices, Jain said.
+
+Jain noted, for example, that a hospital in Thailand and one in South America are currently leveraging Watson’s cognitive computing. “These are hospitals that may not be able to afford having super computers in their data centers, but because of the cloud we’re able to make it significantly more affordable,” he said.

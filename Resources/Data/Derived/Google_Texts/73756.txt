@@ -1,0 +1,95 @@
+Timothy Jost
+
+July 10, 2015
+
+July 14, 2015 update: On July 14, 2015, the Tenth Circuit federal Court of Appeals joined the Third, Fifth, Seventh, and District of Columbia Circuits in upholding the federal government’s latest rule (described below in this post) providing for the coverage of contraceptive services without cost sharing for employees of non-profit organizations that object to coverage of contraceptives on religious grounds.
+
+Judge Scott Matheson, Jr., writing for the court rejected the combined claims of almost a dozen religious organizations, third party administrators, and universities that the accommodation offered them under that rule violated the Religious Freedom Restoration Act (RFRA). The court held that the accommodation—which requires the organizations to notify the government of their objection to providing contraceptive coverage, with the government in turn requiring their insurers or third party administrators to provide coverage for employees—did not substantially burden the organization’s free exercise of religion. The court also rejected claims that the accommodation violated the First Amendment’s religious free exercise and free speech protections or establishment of religion prohibition.
+
+The decision, which runs to 98 pages (with a four page glossary) is the most thorough consideration yet of the Religious Freedom Restoration Act issue. In particular, it considers at some length the treatment of self-insured church plans, whose third party administrators are not subject to the contraceptive services requirement (although the plans are subject to the notification requirement). In a lengthy partial dissent, Judge Baldock argues that the requirement that third party administrators of self-insured plans cover contraceptive services violates RFRA because the religious organization’s notice to the federal government of its objection to coverage is a necessary condition of the third party administrator covering the service. This contention is discussed at length by the majority and rejected.
+
+With this decision, five of the nation’s federal appellate courts have concluded that the accommodation rule is permissible under RFRA while none have held that it violates that law. In the absence of a split among the circuits, it is looking less inevitable that the Supreme Court will revisit this issue.
+
+July 13, 2015 update: The Centers for Medicare and Medicaid Services (CMS) has recently published a useful resource for those who assist immigrants: Serving Special Populations: Immigrants Fast Facts for Assisters.
+
+The basic rules for coverage for immigrants are reasonably straightforward. Unlawful immigrants (including individuals granted deferred action for childhood arrival) are eligible for neither marketplace coverage nor Medicaid and the Children’s Health Insurance Plan (CHIP). They may be able to obtain services, however, from community health centers or other safety-net facilities, and hospitals may be eligible for Medicaid payments for providing emergency services to unlawful aliens who would otherwise be eligible for Medicaid.
+
+Otherwise eligible immigrants with “qualified non-citizen” immigration status may be eligible for Medicaid or CHIP, but generally only after they have held qualified status for five years. Certain categories of immigrants, however, such as refugees or asylees, may be eligible for Medicaid and CHIP as soon as they gain qualified status. Finally, immigrants with lawful status may be eligible for marketplace coverage, with premium tax credits and cost-sharing reduction payments, without having to wait five years. Lawful immigrants may be eligible for marketplace coverage even if their income is below 100 percent of poverty.
+
+The eligibility situation of immigrants is often complicated, however. Immigrant families often include family members with different immigration or citizenship status. Establishing immigration status is often complicated. Immigrants may be reluctant to apply for coverage for fear that it will affect their immigration status, which is generally not true. The fact sheet sets out in detail all of the different rules that govern health care assistance for immigrants and gives helpful advice for those assisting immigrants as to how to navigate this complicated system.
+
+Original Post:
+
+The Final Preventive Services Regulations
+
+The Affordable Care Act (ACA) requires that all non-grandfathered insured and self-insured health plans cover certain preventive services without cost sharing. These services include preventive care and screenings for women as listed in guidelines promulgated by the Health Resources and Services Administration. The HRSA guidelines require coverage of contraceptive services.
+
+One of the most controversial issues that has arisen in the implementation of the ACA is whether employers that object to contraceptive services on religious grounds must provide these services to their employees (or universities to their students through student health plans). This issue has resulted in the filing of over 100 lawsuits resulting in numerous federal court decisions, including the Supreme Court’s decision in Burwell v. Hobby Lobby and Supreme Court orders in several other cases.
+
+The Departments of Labor, Treasury, and Health and Human Services, which are responsible for implementing the preventive services requirement, have issued a series of regulations and guidances attempting to accommodate the objections of religious organizations to covering contraceptive services, including most recently an interim final rule issued in August of 2014. After the Supreme Court’s decision in Hobby Lobby holding that closely held for-profit organizations are also entitled to an accommodation of their religious beliefs, the agencies published a proposed rule to accommodate the beliefs of for-profit organizations as well.
+
+On July 10, 2015, the three agencies published final rules providing for accommodations for religious organizations and closely held for-profit corporations that object to covering contraceptives. The agencies also published a press release describing the new rules, as well as Paperwork Reduction Act notices including the forms that organizations can use to obtain an exemption and the notices insurers and third party administrators must send to employees and students whose employers or student health plans object to providing contraceptive coverage, as well as the forms that must be used to adjust exchange user fees to compensate third party administrators for providing contraceptive services.
+
+The final rules set out the accommodations that are now being offered to religious organizations and to closely held for-profit entities that object to coverage of contraceptive services. They also address a series of questions that have arisen as to when group health plans or insurers can impose cost sharing if preventive services are provided in combination with other services or by out-of-network providers. The interim final and proposed regulations that resulted in these final regulations attracted an unusual number of comments (75,000), and the preamble to the regulation is unusual in the extent to which it discusses the justification for the preventive services requirement and the thought and consideration that went into the crafting of the final regulation. The litigation of this issue is far from over, and it seems likely that the agencies hoped to lay out clearly for the courts how they arrived at the final rule.
+
+Cost Sharing For Office Visits For Preventive Services Provided In Conjunction With Other Services
+
+The regulations first attempt to clear up when preventive services are covered if they are received in conjunction with other services or from out-of-network providers, and when insurers or health plans can use medical management techniques to channel or limit coverage of preventive health services. Under the ACA, non-grandfathered health plans and insurers must cover without cost sharing evidence-based items or services that have in effect a rating of “A” or “B” in the current recommendations of the Preventive Services Task Force, immunizations for routine use that have in effect a recommendation from the Advisory Committee on Immunization Practices of the CDA, and preventive and screening services listed in the HRSA guidelines for women of the HRSA guidelines for infants, children, and adolescents. The preface states that a comprehensive list of covered services is available on a page within Healthcare.gov, but that list is in fact not complete—it does not for example include contraceptives.
+
+One question that has frequently arisen is when cost sharing can be imposed for an office visit when a plan enrollee receives preventive services during the visit. The final rules follow earlier guidance and clarify that:
+
+When a preventive services is billed separately from an office visit, the plan or insurer can impose cost sharing for the office visit (but not for the preventive service);
+
+When the preventive service is not billed separately and the primary purpose of the visit is the delivery of the preventive service, the plan or insurer may not impose cost sharing for the visit; but
+
+When a preventive service is not billed separately, but the primary purpose of the office visit is not for providing the preventive service, the plan or insurer may impose cost sharing.
+
+The proposed rule provides several examples of how this will work.
+
+It makes some sense that an office visit that is primarily oriented toward diagnosis and treatment but that incidentally includes a preventive service could result in cost-sharing obligations. Nonetheless the rule is likely to continue to result in consumer confusion and disappointment as it will often be difficult for consumers to know in advance how their provider will code an office visit and how the insurer will pay for it. Consumers will likely end up owing cost sharing for visits that they assumed would be free.
+
+Preventive Services And Out-Of-Network Providers And Medical Management
+
+The final rule continues to provide that plans and insurers can (but are not required to) impose cost sharing for preventive services provided by out-of-network providers. If a plan or insurer does not include in its network a provider that can provide a particular recommended preventive service, the plan or insurer must cover without cost sharing the cost of the preventive service provided by an out-of-network provider. The final regulation also specifies that insurers and plans may impose cost-sharing at their discretion for additional preventive services for treatments that result from preventive services.
+
+The final rule reaffirms that plans and insurers may use reasonable medical management techniques to determine the frequency, method, treatment, or setting for providing covered preventive items or service to the extent not specified in the relevant recommendation or guideline. The agencies rejected requests from commenters that plans and insurers be required to document the evidence basis of their medical management approach, but note that ERISA disclosure and appeals regulations may require further disclosure of evidence. The agencies also note that questions on medical management, and in particular regarding value-based insurance design, may be addressed through further sub-regulatory guidance.
+
+Plans and insurers are not required to cover new preventive services that are added to the required list of covered items or services until the plan year that begins one year after the date that a recommendation or guideline is finalized. When items or services are dropped from a list during a plan year, however, plans must continue coverage until the end of the plan year to ensure continuity of coverage. This rule does not apply if a recommendation or guideline is downgraded to a “D” rating or it is otherwise determined that the item or service poses a significant safety concern.
+
+Accommodation Of Objections Of Religious Organizations To Contraceptive Coverage
+
+The final rule on accommodation for religious organizations basically reaffirms the interim rule adopted in August of 2014. Religious organizations that object on religious grounds to covering contraceptives for their employees or students may file an Employee Benefits Security Administration form 700 self-certifying their objection to coverage. Alternatively, pursuant to the Supreme Court’s interim order in the Wheaton College case, the organization may simply notify HHS in writing of its religious objection to providing services, the basis of its religious belief, the contraceptive services to which it objects, its plan name and type (employee or student coverage), and the name and contact of its third party administrator or plan issuer.
+
+Upon receiving such a notice, the agencies will require the insurer or third party administrator to provide contraceptive coverage to employees or students. Insurers are expected to cover the cost of contraceptives from the money they will save by not covering pregnancies. Third party administrators may contract with insurers that issue qualified health plans to receive payment for the cost of contraceptives they must cover, which the insurers can in turn recover by a reduction in their federally facilitated exchange user fees. A third party administrator effectively is designated by the Department of Labor as the plan administrator for the purpose of providing these services. As the Department of Labor does not regulate church plans, however, third party administrators of church plans are not required to provide contraceptives.
+
+This accommodation is unlikely to satisfy religious organizations that object to contraceptive coverage. A number are continuing to assert in federal cases that a requirement that they identify to the government their insurer or third party administrator, which must continue to provide contraceptive coverage, impermissibly makes them responsible for sinful conduct. This assertion has so far been rejected by the Third, Fifth, Seventh and D.C. Circuit federal courts of appeal (and by the D.C. Circuit en banc—as a whole), but continues to be litigated in other circuits and will likely reach the Supreme Court, which on June 29, 2015 issued an order in the Third Circuit case which requires the religious organization to notify the government of its objection, but does not clearly specify what information the notice must contain. We are likely to hear more on this issue.
+
+Accommodation Of For-Profit Closely Held Corporations
+
+The most complicated issue addressed by the final rule is which for-profit corporations must be provided an accommodation for their religious objections to covering preventive services. The Hobby Lobby decision applied specifically to closely held corporations, but did not specifically define “closely held” or limit its decision to such corporations. The agencies requested comments on the scope of the proposed accommodation and received 75,000 comments, most of which apparently addressed the contraceptive controversy more generally.
+
+The final regulation interprets the Supreme Court’s decision to apply only to closely held corporations and not to publicly traded corporations. It defines a “closely held,” for-profit entity as one that is:
+
+Not a nonprofit;
+
+Has no publicly traded ownership interests; and
+
+Has more than 50 percent of the value of its ownership interest owned directly or indirectly by five or fewer individuals, or has a substantially similar ownership structure.
+
+For the purposes of determining whether a company complies with the 50 percent requirement:
+
+Ownership interests owned by a corporation, partnership, estate, or trust are considered to be owned proportionately by its shareholders, partners, or beneficiaries;
+
+Ownership interests owned by a nonprofit entity are considered to be owned by a single owner;
+
+An individual is considered to own the ownership interests owned, directly or indirectly, by or for his or her family; and
+
+A person who holds an option to purchase ownership interests, is considered to own those interests.
+
+The rule makes it clear that the 50-percent and five-or-fewer rules are not hard and fast and minor variations from those requirements will be accepted. The agencies’ intention is to identify entities like those involved in the Hobby Lobby case where the owners have associational ties, are personally identified with the entity, and can be regarded as conducting their personal business through the entity. Entities may seek a ruling from the Department of Health and Human Services to determine if they qualify but are not required to do so.
+
+To qualify, an entity’s government body must adopt a resolution or take a similar action to establish its objection to contraceptive coverage based on sincerely held religious beliefs. The action does not need to represent the unanimous decision of all owners. The fact of the resolution, but not the resolution itself, must be communicated to HHS. The entity need not disclose or justify its decision to its employees. Rather, the employees will receive a notice as to their coverage from their insurer or third party administrator, which, as in the case of religious organizations, will be required by the government to provide coverage.
+
+The agencies rejected suggested requirements that organizations should qualify only if they limited their employees to individuals who shared their owners’ belief, a characteristic that did not apply to Hobby Lobby itself. The accommodation is also not limited to family-owned corporations. The rule does not impose any test of sincerity on the organization or require it to otherwise establish its religious nature by its bylaws, mission statement, or other documents or practices. The agencies also rejected comments asking that the preventive services exception apply to services other than contraceptives. Finally, the agencies rejected a host of suggestions for alternate approaches to covering contraceptives or paying for contraceptive coverage.
+
+The regulations apply beginning the first day of the first plan year that begins on or after 60 days from the publication of the final rule in the Federal Register.

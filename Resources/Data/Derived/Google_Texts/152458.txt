@@ -1,0 +1,3 @@
+Botched literary references aside , a number of correspondents suggested to me that the book that administration officials really need to read to understand the challenges with a "tech surge" approach to fixing the Obamacare Web interface is Frederick Brooks' classic The Mythical Man-Month .
+
+This is a book I have not actually read, but the reference is common enough in development circles that I think I can relay the basic point. Imagine a programming task that will take a skilled programmer a year to complete. Now imagine a boss who wants the project done in a month. The programmer says, "I can't do it that fast." So the boss says, "Let's hire 11 more skilled programmers—we have 12 months' of work to do, and I want the job finished in one month, so I need 12 guys."

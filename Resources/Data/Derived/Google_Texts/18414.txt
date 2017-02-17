@@ -1,0 +1,33 @@
+It’s really a pity that no one warned the government that healthcare.gov was insecure and waiting to be hacked…oh wait…a pack of white hat hackers did. Dave Kennedy, Kevin Mitnick, Ed Skoudis, Chris Nickerson, Eric Smith, Chris Gates, John Strand, Kevin Johnson, and Scott White all testified before the House Science and Technology Committee that the website was insecure. In fact, David Kennedy, CEO of TrustedSec stated, "I don't understand how we're still discussing whether the website is insecure or not. It is; there's no question about that. It is insecure - 100 percent."
+
+“I am completely shocked,” Kennedy said in a tweet dripping sarcasm. “Healthcare.gov hacked?” Mitnick added, “Tell me it isn’t true. Did we just warn these guys at Congress a few months ago?”
+
+But hey, don’t sweat it, because DHS spokesperson S.Y. Lee told the Wall Street Journal that there is “no indication that any data was compromised at this time.” Yet DHS, FBI and NSA all helped investigate. The FBI “traced the attack to several Internet addresses—some overseas—but doesn't think it is the work of a state-backed actor.”
+
+It only took seven weeks to detect the hack “made possible due to several security weaknesses,” which included a test server that “should not have been connected to the Internet” and was “secured” with the manufacturer’s default password. The Centers for Medicare and Medicaid Services (CMS) spokesman Aaron Albright told the New York Times, “We have taken measures to further strengthen security.”
+
+CMS said the intrusion occurred on July 8 and was discovered on August 25 after someone finally noticed “unusual server traffic.” We are told that malware meant to add a server to a botnet, not steal info, was uploaded to a server used to test code for healthcare.gov. “Our review indicates that the server did not contain consumer personal information; data was not transmitted outside the agency, and the website was not specifically targeted.”
+
+In fact, it sounds like we are supposed to be grateful we heard about it at all. An unnamed DHS official claimed, “If this happened anywhere other than HealthCare.gov, it wouldn't be news.”
+
+Politico added that CMS wants Americans to put the “event” in perspective. Based on its analysis, CMS does not “believe HealthCare.gov was targeted.” Look at it this way, CMS suggests, “Each and every day, U.S. business and government IT systems and individual consumers face myriad cyber threats, from the attempted theft of U.S. intellectual property through cyber intrusions to distributed denial of service attacks against public facing websites. No website is immune from these attempts.”
+
+Except this isn't just any website; it’s healthcare.gov. At least the hard drive wasn’t “destroyed and recycled” like former IRS official Louis Lerner’s was. But who connected the test server to the Internet and left the default password unchanged? WSJ reported, “It couldn't be learned whether the misconfigured server could be linked to any of the several technology contractors who help set up the website.”
+
+“The fact that these hackers were not that ambitious is no cause for comfort,” said Center on Democracy and Technology CTO Joseph Lorenzo Hall. “Frankly, they got a pass on this — this sounds like somebody doing low-level, vanilla sort of hacker craft.”
+
+The hack is neither particularly impressive, nor hard to pull off. “This is very, very widespread,” computer forensic scientist Rebecca Mercuri told Polictico. “This might be the first time we heard about it, but I’d be surprised if this was the first time it happened.”
+
+In fact, the Weekly Standard said, “Despite HHS's assurances after the breach was discovered on August 25 that measures are in place to guarantee security, including ‘daily security scans and drill hacking exercises,’ at least one test site, akatest.healthcare.gov, is still accessible publicly via a simple web browser.”
+
+Some politicians are coming out with verbal guns firing, such as Sen. Orrin Hatch who stated, “Despite numerous warnings from myself and other lawmakers that security breaches were possible, HealthCare.gov underwent virtually no independent security testing.”
+
+The federal website “is full of data that criminals covet,” said Rep. Joe Barton. “Handling private information over to the government is bad enough. People should at least know it won’t fall into the hands of hackers.”
+
+“HealthCare.gov is ‘an open invitation for hackers’ because of the amount of personal information required,” warned Rep. Diane Black. Because “the administration ‘would be under no obligation to disclose if sensitive personal information were breached’ in the attack,” she “urged the Senate to follow the House’s lead and pass a bill requiring the HHS to notify people if their information is stolen from the site.”
+
+House Oversight and Government Reform Committee chairman Darrell Issa subpoenaed CMS administrator Marilyn Tavenner to testify on September 18. “Considering this Administration launched healthcare.gov over the objections of CMS, it’s unsurprising that the website has suffered a ‘malicious attack.’”
+
+Issa also “accused President Obama’s team of lying about the security of the Obamacare website in January.” He said, “We can find no other basis but to assume that they were lying about the vulnerabilities on the day they went live on October 1, and that they are still lying. You cannot continue to tell people there is no problem, that there was no problem on October 1 — you cannot tell people it has been mitigated but tell them, ‘don’t release documents because it’s a pathway for hackers.’”
+
+Health and Human Services said the hack should have no impact upon the 2015 open enrollment period which begins on November 15.

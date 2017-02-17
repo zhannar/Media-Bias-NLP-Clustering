@@ -1,0 +1,43 @@
+Health care is serious business. Not only does it literally involve life and death, but according to the World Bank, it represents anywhere from 1.6 percent of a country’s GDP (South Sudan) to 19.5 percent in Liberia. In the developed world, the U.S. tops the pack at 17.9 percent.
+
+Today, improving health care often means bettering people’s lives while reducing excess burden on national economies. It also entails ensuring that providers are more transparent and more competitive, because only more effective and efficient organizations can provide the health outcomes and cost benefits the world needs. The health care sector ultimately faces basic challenges of operations, logistics, resource allocation, customers, and management. As is true in other industries, information can help overcome the hurdles.
+
+Related Stories How a simple data visualization can set the table for deeper analysis.
+
+Read the story » Risk managers visualize fresh correlations by analyzing location data.
+
+Read the story » Opinion: Getting your business ready for GIS.
+
+Read the story » Esri users describe change management for adopting location analytics.
+
+Read the story »
+
+One tool the industry has begun to embrace is geographic and geospatial information systems. GIS can help the healthcare industry address such issues as strategy, capital planning, public health administration, marketing, and operations. By using location as a logical nexus, GIS allows executives and managers to evaluate the interplay of factors that affect health care delivery and the operations of providers. Understanding the implications of such interactions can lead to better decision-making.
+
+The opportunities to apply GIS to health care are myriad and have been around since before the ages of the computer and modern medicine. Dr. John Snow famously traced the source of a cholera outbreak in 1854 London by plotting the location of cases to find a cluster of victims near a city water pump. GIS combined with data analysis techniques can do far more today in such areas as tracking disease progression, identifying contributing factors to the spread of illnesses, and locating pockets of abnormally high health risk indicators.
+
+Among the areas where researchers and clinicians can make an impact using GIS:
+
+Strategic planning is critical for non-profit and for-profit organizations alike. As is true for retail, health care is a particularly location-dependent endeavor. Every patient needs a physical examination, diagnosis, and treatment. Practitioners at clinics and hospitals need to understand their surrounding communities because, for most, that is where their patients are. GIS can help executives understand what types of services to emphasize and where to place new facilities based on an analysis of need in specific geographies.
+
+Market demand analysis. Combining GIS with health care informatics can yield comparative analyses to better address patient needs and identify potential trends that could result in improvements to the quality of care. Geography-related insights can also lead to cost reductions. For example, is a hospital investing too much in a transplant unit when another facility in the same region already has a competing strong practice? Would it be better to focus on another area, like oncology?
+
+Related to cost reductions is efficient capital planning. Poor allocation of funds can hurt an institution, its operations, and its future. Geospatial analysis of demographic patterns and associated changes in types of services in demand—an aging population would require more services for age-related conditions, for instance—will help management put money not just where it’s needed today, but in the next five to ten years.
+
+Similarly, location analysis can aid marketing. A practitioner or clinic director could consider what demographics are statistically most likely to require a specific type of service and then use direct mail and billboards in the areas with the highest concentrations of such people.
+
+Operations analysis. Health care operations depend on the interworking of provider and facility networks. One reason for high care costs is the inefficiencies that develop in the ways in which separate entities interact and share information. A GIS analysis could pinpoint bottlenecks—perhaps slow information exchange between certain points or a high incidence of test reworking—and focus remedial efforts on the parts that cause the greatest number of problems.
+
+Challenges to Progress
+
+For all the good GIS can do for health care, there are some challenges in incorporating the technology that fit into broad IT themes. These include:
+
+A necessary cultural shift to data-driven medicine. Hospitals have been relatively slow in implementing information technology, as evidenced by the adoption pace of such things as electronic medical records, digital information sharing, and task automation. Care has traditionally been defined by the personal judgment of highly trained professionals, not computer assistance, so there is a lack of cultural support. That is changing rapidly, especially with the influence of the Affordable Care Act.
+
+Data privacy. The Healthcare Portability and Accountability Act (HIPAA) has strict patient data privacy demands. That can make implementation of new systems challenging, particularly as institutions must look at third-party data.
+
+A skills gap. Health care organizations also lack the GIS expertise that would necessitate hiring consultants and full-time specialists, as well as providing education for existing personnel.
+
+However, all these barriers are surmountable. By adopting GIS technology, the health care industry will find that it can make itself stronger while better addressing its underlying mission of improved patient outcomes.
+
+Stephen McElroy, GIS program chair at American Sentinel University, has held GIS positions at the U.S. Department of Agriculture and at a cultural resource management company as well as in academia and research institutions. He holds a Ph.D. in geography from San Diego State University and the University of California at Santa Barbara and a professional certification from the GIS Certification Institute.

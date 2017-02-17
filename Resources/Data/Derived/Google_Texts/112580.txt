@@ -1,0 +1,43 @@
+Where HealthCare.gov Fell Short Of Other E-Commerce Sites
+
+The federal government's beleaguered health care exchange site, HealthCare.gov, shares little in common with the e-commerce sites consumers use every day. On most e-commerce sites, prices are simple to find. Not so on HealthCare.gov. That may be one of the reasons relatively few visitors to the site have actually enrolled. (This story originally aired on Morning Edition on Oct. 22, 2013.)
+
+ARUN RATH, HOST:
+
+It's ALL THINGS CONSIDERED from NPR West. I'm Arun Rath.
+
+Criticism of the federal government's online health care insurance portal, HealthCare.gov, has been relentless. And this week, President Obama added his voice to the chorus.
+
+PRESIDENT BARACK OBAMA: There's no sugarcoating it. The website has been too slow. People have been getting stuck during the application process. And I think it's fair to say that nobody is more frustrated by that than I am.
+
+RATH: The president promised to get the problem sorted and the website running smoothly by the end of November. As NPR's Steve Henn reported earlier this week, the administration's critics argue in an era of eBay and Amazon, simply building an online health care marketplace should not have befuddled the federal government.
+
+STEVE HENN, BYLINE: Sina Djafari has built more than one successful online marketplace. He now builds software to make building new e-commerce sites even easier. And he says when you go to any website to buy something, you usually have just one or two simple questions you want answered before you click buy.
+
+SINA DJAFARI: When I went to HealthCare.gov for the first time, my only question I wanted answered was, how much is this going to cost me? And I just really wanted that answer, you know, as soon as possible.
+
+HENN: If that's the goal of HealthCare.gov, Sina Djafari says it should have been designed to deliver an answer to that question as quickly and painlessly as possible.
+
+DJAFARI: You actually want to encourage people to move as far along in the process as possible without requiring any information from them.
+
+HENN: But before you can see how much your policy will cost, there are pages of forms to fill out. They're buggy. They crash. The reason for all this pain is that the price of insurance on the site will change depending on how much you make. The Affordable Care Act offers subsidies. It's the act's defining feature, so the website was designed to figure out what your subsidies could be as its very first step.
+
+And to figure all that out, the site requires all sorts of sensitive personal information. It requires passwords and protections and security questions. The feds built a brand-new IRS database that would look up tax returns to verify your income, and all of that has to happen, flawlessly, before you get any kind of answer to that basic question you came with: How much is this going to cost? Sina Djafari says it didn't have to be this way.
+
+Just think about how you shop for a mortgage. You can go to any one of a dozen websites and type in your income anonymously, then enter your best guess as to your current credit rating, and then type how much you want to borrow.
+
+DJAFARI: You know, it's a marketplace system.
+
+HENN: In fact, it's a pretty good analogy for the health care marketplace. You have a lot of different businesses offering products through one portal. But lenders on mortgage sites all agree to put off the tedious bits, like verifying your income, until after you've had a chance to peruse the goods and make a decision. Still, this system works.
+
+DJAFARI: If you don't put the right information in early on, you're wasting your time. So you might as well put in the most accurate information you can now so that when you get an answer, it's the right answer.
+
+HENN: And in the mortgage industry, at least these days, everyone knows your income will actually be checked. In fact, the IRS offers income verification electronically to mortgage lenders. It's not instant, but it doesn't derail the process of applying for a loan either. Jeff Sutherland is CEO of Scrum Inc. He says problems like these should have been spotted long before the site went live.
+
+JEFF SUTHERLAND: We should stop this in its tracks, reset it, fix it in the right way and probably get, you know, 99 percent of the people involved with this off the payroll, because all they did was screw it up.
+
+HENN: Sutherland helped pioneer a software design philosophy that breaks big projects like HealthCare.gov down into small digestible tasks. But he says given how the site was developed and taken live with little testing, failure was almost inevitable. Steve Henn, NPR News, Silicon Valley.
+
+Copyright © 2013 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.

@@ -1,0 +1,129 @@
+By Kelly M. Pyrek
+
+Quality and quality improvement in healthcare has always been an assumed component of infection prevention, but it has taken on new meaning in an age of healthcare reform and the concurrent drive toward cost-containment and improved patient outcomes. For a word that is bandied about so frequently, what is its true meaning, and what does it portend for infection preventionists (IPs) who are tasked with playing a key role in performance improvement in acute care.
+
+The Institute of Medicine (IOM) defines quality as the degree to which health services for individuals and populations increase the likelihood of desired health outcomes and are consistent with current professional knowledge. (IOM, 1990) The IOM has identified six dimensions through which quality is expressed: safety, effectiveness, patient centeredness, timeliness, efficiency and equity. When initiating the quality improvement process, the Institute of Medicine (IOM)’s quality domains can guide the process by identifying specific areas for improvement:
+
+- Safe: avoiding injuries to patients from the care that is intended to help them.
+
+- Effective: providing services based on scientific knowledge to all who could benefit, and refraining from providing services to those not likely to benefit.
+
+- Patient-centered: providing care that is respectful of and responsive to individual patient preferences, needs, and values, and ensuring that patient values guide all clinical decisions.
+
+- Timely: reducing waits and sometimes harmful delays for both those who receive and those who give care.
+
+- Efficient: avoiding waste, including waste of equipment, supplies, ideas, and energy.
+
+- Equitable: providing care that does not vary in quality because of personal characteristics such as gender, ethnicity, geographic location, and socioeconomic status.
+
+It's a theme reflected in a number of initiatives that have sprung up in the wake of the passage of the Affordable Care Act, including the IHI Triple Aim, a framework developed by the Institute for Healthcare Improvement (IHI) that describes an approach to optimizing health system performance. It is IHI’s belief that new designs must be developed to simultaneously pursue three dimensions, called the “Triple Aim”:
+
+- Improving the patient experience of care (including quality and satisfaction)
+
+- Improving the health of populations
+
+- Reducing the per capita cost of healthcare
+
+The IHI has proposed this initiative as a systematic approach to change that includes identification of target populations; definition of system aims and measures; development of a portfolio of project work that is sufficiently strong to move system-level results, and rapid testing and scale up that is adapted to local needs and conditions. The IHI says that in order to do this work effectively, "it’s important to harness a range of community determinants of health, empower individuals and families, substantially broaden the role and impact of primary care and other community based services, and assure a seamless journey through the whole system of care throughout a person’s life. In the U.S. environment many areas of health reform can be furthered and strengthened by Triple Aim thinking, including: accountable care organizations (ACOs), bundled payments, and other innovative financing approaches; new models of primary care, such as patient-centered medical homes; sanctions for avoidable events, such as hospital readmissions or infections; and the integration of information technology."
+
+Quality improvement can be executed through a number of modalities. As the Department of Health and Human Services (HHS) notes, "Quality Improvement (QI) is not simply an end goal. QI is a continuous process that employs rapid cycles of improvement. The Donabedian model provides three dimensions for the quality of care. These dimensions are: the structure, which represents the attributes of settings where care is delivered; the process, or whether or not good medical practices are followed; and the outcome, which is the impact of the care on health status."
+
+Let's take a look at a few more common QI strategies:
+
+1. FADE QI model:
+
+- Focus: Define and verify the process to be improved
+
+- Analyze: Collect and analyze data to establish baselines, identify root causes and point toward possible solutions
+
+- Develop: Based on the data, develop action plans for improvement, including implementation, communication, and measuring/monitoring
+
+- Execute and Execute: Implement the action plans, on a pilot basis, and Install an ongoing measuring/monitoring (process control) system to ensure success.
+
+2. PDSA QI model:
+
+- Plan: Plan a change or test of how something works.
+
+- Do: Carry out the plan.
+
+- Study: Look at the results. What did you discover?
+
+- Act: Decide what actions should be taken to improve.
+
+3. Six Sigma
+
+This model involves the steps of DMAIC: define, measure, analyze, improve, control, and is specifically an improvement system for existing processes falling below specification and looking for incremental improvement.
+
+4. CQI: Continuous Quality Improvement
+
+This model focuses on the ‘process’ rather than the individual, recognizes both internal and external ‘customers’ and promotes the need for objective data to analyze and improve processes. CQI is an approach to quality management that builds upon traditional quality assurance methods by emphasizing the organization and systems.
+
+5. TQM: Total Quality Management
+
+This model focuses on a set of management practices throughout the organization, geared to ensure the organization consistently meets or exceeds customer requirements.
+
+6. Root Cause Analysis (RCA)
+
+RCA is defined as “a retrospective approach to error analysis” that “requires rigorous application of established qualitative techniques.” The report also identifies two major steps involved in RCA:
+
+- Data collection: establishment of what happened through structured interviews, document review, and/or field observation. These data sets are used to generate a sequence or timeline of events preceding and following the event.
+
+- Data analysis: an iterative process to examine the sequence of events generated above with the goals of determining the common underlying factors: Establishment of how the event happened by identification of active failures in the sequence and establishment of why the event happened through identification of latent failures in the sequence that can be generalized.
+
+In the process of quality improvement, regardless of which model is chosen, the HHS says there are three questions that implementers should consider.
+
+1.What are we trying to accomplish?
+
+2.How will we know that a change is an improvement?
+
+3.What change can we make that will result in improvement?
+
+The HHS adds that selecting a quality improvement model to address these questions is not a strictly defined process. There is not a specific model that works best based on different types of situations or concerns. When selecting a model for quality improvement, the healthcare organization should choose one that fits best within its existing organizational structure and workflow.
+
+Quality is addressed in Domain 4 of APIC's core competency model addressing performance improvement and implementation science. As the competency notes, "Performance improvement encompasses all of the systems, projects, and team activities an organization implements to achieve its goals. These goals include the prevention of HAIs for patients, visitors and staff. Performance improvement (PI) methods and the principles of implementation science must be fully integrated into prevention program operations. If PI and infection prevention functions are separated within an organization, there must be sufficient coordination and communication between them to maintain successful partnerships."
+
+"The whole idea of how we in infection prevention work with the quality improvement department is interesting and challenging," says Ann Marie Pettis, RN, BSN, CIC, director of infection prevention at the University of Rochester Medical Center in Rochester, N.Y. "A lot of infection prevention programs now report up through quality but that's not true of all of us and so there is this sort of an uncomfortable marriage sometimes, with both parties figuring out how to work together, and who has ownership of what. If you report up through quality, it's not so tricky. But in both of my hospitals, although we work closely with quality, we don't report through them. I know other colleagues have the same situation -- they might report through nursing or through medicine, so trying to navigate that has been an interesting challenge."
+
+To accomplish performance/process improvement aimed at the reduction of HAIs, APIC's core competency model outlines the following five required elements:
+
+-Identification of need for PI: The IP is skilled at identifying timely and relevant improvement opportunities, using measures and data to support improvement projects, and creating a PI charter outlining the scope of activity to be initiated.
+
+- Assembly of PI team: The IP has sufficient knowledge, skill, and experience to function in several key PI roles: team leader, facilitator, or team member. Selecting team members best able to help achieve desired outcomes is one of the most critical aspects of improvement work. Equally important is the selection of a clinical champion and executive sponsor whose responsibilities include removal of barriers and allocation of resources.
+
+- Tools and methods: The IP has sufficient knowledge, skill, and experience to use and apply the organization’s preferred PI tools (eg, PDSA [Plan, Do, Study, Act], Lean, Six Sigma), as well as principles of IS, to infection prevention activities.
+
+- Implementation: The IP has sufficient knowledge, skills, and experience to effectively utilize a well-described conceptual model that uses the 4 core elements of engagement, education, execution, and evaluation to move research into prevention practices.24 Key IS skills for the IP to master include identification and critical analysis of scientific evidence, synthesis of interventions with the greatest benefit, identification of barriers to successful implementation, and innovative approaches to remove barriers.
+
+- Measuring success: Performance measurement is important to establish baseline performance and ensure that all patients are receiving the targeted interventions and that interventions are sustained over time. The IP proficiency in measurement includes baseline analysis (comparison against appropriately matched benchmarks), selection of goals with challenging but achievable targets, and process and outcome measurement appropriate to the improvement project. The IP must demonstrate the ability to evaluate the achievement of project goals and relate those achievements to concrete improvements in clinical outcomes. In turn, the business case for infection prevention, the support of regulatory or accreditation compliance, or other outcome reporting requirements follow naturally.
+
+Pettis emphasizes the need for IPs to gather the necessary tools and hone their unique skills that quality and performance improvement require. "In terms of performance improvement, I think the only time anything improves is when you measure it, so that has obviously been a huge focus for anyone in infection prevention right now," she says. "So measurement is key and then the important thing is being able to do something with that measurement to move the needle in terms of better patient outcomes, which lead to higher value. So it's all interconnected. For IPs, it's imperative that they have the right tools that have come out of the quality movement, but I think all IPs have to face the reduction in resources -- whether those have occurred in your own program or in ancillary departments -- that affects us. In addition, many IPs are juggling multiple roles in their facilities, such as employee health, and so they are short on time as well as resources. That's where national APIC comes in as they have done the heavy lifting in terms of educating IPs -- because not all IPs come into the field with the necessary tools and knowledge that they need. Historically it has been sort of a learn-on-the-job position, so to have an organization provide that education is key. Nurses do not come out of school knowing about quality or some of the strategies such as Lean Six Sigma, CUSP, Team Steps, and other QI models. If you don't have that knowledge when you start, you need to work pretty quickly to get it. IPs are in a unique position to work with quality-related issues because we interact with nearly every entity in healthcare, and we worry about patients, visitors and healthcare workers -- we interface with every aspect of healthcare delivery. That is a wonderful unique perch that we have but it requires all kinds of specialized skills and tools. You must know how to educate, you have to know quality, you must have people skills because you must influence -- you have the power of information."
+
+While quality seems to be inherent in infection prevention from the very beginning, it wasn't until the mid-1920s that Walter A. Shewhart and W. Edwards Deming, both physicists, and Joseph M. Juran, an engineer, laid the groundwork for modern quality improvement, according to Chassin and O'Kane who write, "In their efforts to increase the efficiency of American industry, they concentrated on streamlining production processes, while minimizing the opportunity for human error, forging important quality improvement concepts like standardizing work processes, data-driven decision making, and commitment from workers and managers to improving work practices. These elements of systems change, first applied to business and industry, ultimately trickled down to the American healthcare system as awareness of its need for improvement grew."
+
+QI became ubiquitous following the release of two reports in 1999 and 2001 conducted by the Institute of Medicine (IOM) which found that many health services were inadequate and that there was a critical need for quality improvement in healthcare. As Chassin and O'Kane explain, "The first report, To Err is Human: Building a Safer Health System, magnified the safety gaps in United States health care, noting that as many as 98,000 people die yearly in hospitals due to preventable medical errors. The second report, Crossing the Quality Chasm: A New Health System for the 21st Century, (2001), further indicted the country’s entire healthcare delivery system for failing to provide 'consistent, high-quality medical care to all people.' Echoing the philosophies of Deming, Juran and Crosby, the reports blamed the healthcare system, instead of individuals, for widespread errors." As the 1999 IOM report noted, “Mistakes can best be prevented by designing the health system at all levels to make it safer — to make it harder for people to do something wrong and easier for them to do it right.”
+
+The 2001 IOM report said the U.S. healthcare system was frequently lacking “…the environment, the processes, and the capabilities needed to ensure that services are safe, effective, patient-centered, timely, efficient, and equitable,” qualities it calls 'six aims for improvement.' In addition to achieving these aims, the IOM recommended: improving patient safety and reducing medical error by establishing a national focus on leadership, research, tools and protocols about safety; expecting mandatory and voluntary reporting of errors; raising safety standards by involving oversight organizations, purchasers and professional societies; and creating safety systems inside healthcare organizations.
+
+The QI movement both paved the way for and was strengthened by several significant developments leading to standardized quality measurement for hospitals across a wide variety of evidence-based measures, according to Chassin and O'Kane:
+
+- The Joint Commission convened experts who reviewed and summarized evidence, and produced the first nationally standardized quality measures for hospitals for patients with acute myocardial infarction, heart failure, pneumonia and pregnancy. It required\ all accredited hospitals to collect and report performance data on at least two of these groups of measures in 2002 and began publicly reporting the data two years later.
+
+- The Centers for Medicare and Medicaid Services (CMS) initiated a program to penalize hospitals financially if they did not report to CMS the same data they were reporting to. The Joint Commission and began a public reporting program the next year. Both the Joint Commission and CMS programs expanded their reporting requirements over the second half of that decade.
+
+Chassin and O'Kane add that, "The American Hospital Association, the Federation of American Hospitals and the Association of American Medical Colleges vigorously supported the effort to collect and publish data on nationally standardized measures of hospital quality of care. As public reporting increased, hospitals increasingly directed resources to improve the clinical processes of care in order to enhance performance on the public measures. The results have been impressive. Throughout the 1990’s, it was not uncommon for hospitals to exhibit rates of performance on these quality measures of 40 to 60 percent, with substantial variability among hospitals. By 2009, hospitals had achieved very high levels of performance on many of these measures, and variation among hospitals was markedly reduced ... In addition, the need for improvement in hospital quality measurement became clear by 2010. While many measures worked well to promote improvement activities that led clearly to improved outcomes for patients, others did not. In 2010, The Joint Commission adopted new criteria that define a higher standard for quality measures that are used in accountability programs such as accreditation, public reporting and pay for performance. These criteria are designed to maximize the likelihood that improved health outcomes will result when hospitals work to improve their performance, while minimizing unintended consequences and the unproductive work that often results when the design of measures makes it easier to create 'paper compliance' than to truly improve clinical care."
+
+Pettis concurs that mandatory reporting was a game-changer "because before, the data was looked at on an internal basis; now it is internal but also being compared, for many of us, throughout your state," she says."So I think that if you weren't reporting up through quality before, it has forced us all to become bedfellows. The stakes are higher than ever with mandatory reporting, and I think the pressure from the C-suite is more exquisite than ever because the pressure is also on them thanks to the shift from pay-for-service to pay-for-performance. The way those of us in healthcare will survive organizationally is if we can deliver best outcomes through truly cost-effective care. Everyone is under the gun in terms of how to prevent readmissions and HAIs."
+
+It is this risk for loss of reimbursement and the need for cost containment and improved value that is driving much of QI these days. What cannot be lost in the process is the quest for cost containment at the expense of clinical quality. Pettis says IPs are taking this in stride. "Everyone is trying so hard to think about value, and I think that using the tools that came from the patient safety and quality movement, like Lean Six Sigma for instance, are so useful right now. Many of us in healthcare have done things the same way forever, but now we are forced to re-examine everything that we are doing for the patient. QI models such as Team Steps helps you work more constructively as a team, and then when you use a tool such as Six Sigma, you can -- without hurting your quality -- identify some of the waste that's going on, or identify areas needing process improvement. We have also tried approaches such as positive deviance and CUSP, and I view these as tools I can place in my toolbelt -- I can pull out a particular tool based on the group I am working with, or based on the problem I am facing, so I think there is a place for all of them. It's great that there are so many different approaches available to us. I love Team Steps because it helps foster a culture where you trust one another, you are willing to challenge one another, and you can get rid of that hierarchical system we have worked under forever."
+
+Pettis continues, "The combination of those two things -- working as a team and adopting effective tools that can help you identify waste and streamline processes -- puts us in a terrific position to improve processes and patient outcomes." , "IPs are in such a great position to be able to connect the dots because we have that big picture, that 30,000-foot view. We are able to bring that to the table and look ahead to see what's bubbling up to the surface out there. The other thing is, I find more IPs are willing to get involved legislatively and do some lobbying at a local level because the stakes are so high now and our visibility has improved, and so that's where I see us growing and being more able to bring value. We're gearing up because it is such an unknown future as far as when the Affordable Care Act really rolls out and starts to kick in -- at this point I don't know what that will mean, so that's one of the motivators to make sure that we all getting the tools we need for our quality improvement efforts."
+
+References
+
+Chassin MR and O’Kane ME. History of the Quality Improvement Movement. 2010.
+
+Institute of Medicine. Crossing the quality chasm: a new health system for the 21st century. Washington, D.C.: National Academy Press, 1990, p. 244.
+
+Institute of Medicine. Crossing the Quality Chasm: A New Health System for the 21st Century. Washington, DC: National Academy Press, 2001.
+
+Institute of Medicine. Shaping the Future for Health. To Err is Human: Building a Safer Health System. Washington, DC: National Academy Press, 1999.

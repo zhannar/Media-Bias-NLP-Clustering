@@ -1,0 +1,27 @@
+Big data analytics is having a transformative impact on almost every industry it touches. But when it comes to the $3-trillion healthcare industry, the impact is personal in more ways than one.
+
+For a look at how analytics is impacting healthcare, let’s take a look at Premise Health. Formed by the June 2014 merger between two workplace clinic companies, Premise Health is now the nation’s largest provider of employer-based onsite healthcare services. Premise Health has more than 500 clinics nationwide, with over 4,000 total employees.
+
+In addition to their core business of providing onsite acute primary care, occupational health services, pharmacy, dental, vision, and fitness, Premise Health is also at the forefront of another healthcare trend: The patient-centered medical home (PCMH) model. Premise Health operates more than 50 PCMH centers fully accredited from the Agency for Accreditation of Ambulatory Health centers (AAAHC).
+
+The recent popularity in the PCMH model is primarily the result of healthcare reform, primary care physician shortages and the employer-based segment’s growing interest in delivering a scope of care for their employees that is intended to replace the community primary care provider (PCP) if the employee so wishes. The Premise Health onsite care team accomplishes this by building the patient-provider relationship and providing team-based care and ongoing monitoring and support to patients between visits. A key component of the PCMH model is giving patients and the care team the data and clinical information they need to urge patients to make lifestyle changes early before they lead to expensive medical complications later in life.
+
+Information technology also plays a big role in PCHM model—especially with the advent of electronic medical records (EMRs) mandated by the Affordable Care Act (aka “Obamacare”). As Premise Health envisions the future, its evolution of the PCMH model will be backed by powerful new analytics system that’s capable of managing different data sources, tracking health outcomes trends over time, and surfacing medical insights to doctors and executives in an accurate and timely manner.
+
+James Beem, Premise Health’s senior vice president of business intelligence and analytics, recently explained to Datanami how the new Teradata Cloud-based system will work, and how it will eventually be called upon to help Premise Health deliver excellent care while keeping costs flat.
+
+Since Premise Health is the result of a two-way merger, there are two EMR systems in place. So one of the first orders of business after selecting the hosted Teradata offering in the fall of 2014 was standardizing and normalizing the data. “Healthcare data tends to reside in multiple places and from different source systems,” Beem says. “Aggregating this data into a single, central system, such as an enterprise data warehouse (EDW), makes this data accessible and actionable.”
+
+“Our ultimate goal is to use [the EDW] to provide detailed level clinical outcome data that can be used in provider management of a patient-centered medical home model,” Beem continues. “Evidence-based practice and new research is coming out every day, and the recalibration of the value proposition as it relates to change in healthcare needs to be reflected in how our data supports outcomes analytics. We needed to get the EDW in a position to start organizing our data so the activities supporting the patient at our sites are realized through data at the unique patient level.”
+
+According to Beem, Teradata was an attractive partner because Premise Health was very interested in a scalable architecture that used advanced techniques to support the increasing volume of data sources from unique healthcare centers (500 plus currently). “We were looking for a partner that had the expertise to assist in many facets of analytics ranging from the establishment of data governance management to protocols for ETL process and even developing entity and attribute definitions,” says Beem.
+
+“As the healthcare landscape changes, we are well positioned as the intermediary between the health plans, the hospitals and the employers in terms of exchanging data with them regarding the people who visit our sites,” Beem says. “A fully integrated EDW – and then the ability to fully deploy EMR data – will most likely change some elements of the onsite pricing model as it is understood today. More importantly, a disruptive healthcare model ultimately relies on the ability to accurately measure valuable healthcare outcomes. The EDW has the potential to be a very powerful tool, not only in terms of revenue possibilities, but also in terms of the growth of the model and the partnerships we choose to engage in.”
+
+Related Items:
+
+IBM Watson Learns Deeply, So You Don’t Have To
+
+Five Ways Big Genomic Data Is Making Us Healthier
+
+Data Startup Targets Machine Learning for Healthcare

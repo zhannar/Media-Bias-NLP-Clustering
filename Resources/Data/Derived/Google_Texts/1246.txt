@@ -1,0 +1,29 @@
+Obamacare's new online healthcare exchanges got off to a bad start this week, as an onslaught of traffic to enrollment websites meant many people were unable to sign up.
+
+But experts say the government faced an impossible task in launching such a major online program with limited resources.
+
+Healthcare.gov, the online home of 36 states' Obamacare exchange enrollment, has received 7 million unique visitors in the two days since the system launched on Tuesday. About 4.6 million of those came in the first 24 hours. Many users who tried to log on received messages asking them to wait, sparking outrage and criticism about the exchange system and Obamacare itself.
+
+A Department of Health and Human Services spokeswoman told CNNMoney that staffers were working on the problem and had been able to expand system capacity, which cut by one-third the number of people who were waiting to apply.
+
+"We have to hope the government can get its act together before Obamacare gets the same bad reputation as waiting at the Division of Motor Vehicles," said Jeff Kagan, an independent telecom analyst.
+
+But it's not that simple. The problem with large website launches like healthcare.gov is that they receive massive amounts of traffic in the early days -- but all that attention tends to taper off with time, pointed out Matthew Prince, the CEO and co-founder of web performance company CloudFlare. In many cases, opening-day traffic volumes for an online program kickoff or product launch can be hundreds or thousands of times larger than normal traffic just a few days later.
+
+And preparing for the worst-case scenario is costly.
+
+Related story: Launching Obamacare enrollment sites was 'impossible task'
+
+"The hard question is: How much do you invest in preparing for this anomalous first few days, versus preparing for what's normal?" Prince said.
+
+The rule of thumb, according to cybersecurity firm Prolexic's CTO Neil Quinn, is for a website-runner to prepare for two to five times the web traffic expected at peak levels.
+
+"But obviously, they weren't going to be given a huge amount of time or budget on this," Quinn said. "In an ideal world, you get some more informed estimates of what you are going to see [in terms of traffic]."
+
+It's also possible that the Affordable Care Act legislation doesn't allow the government to do a limited test run or roll out the exchanges slowly, such as going state by state or starting with people whose last names begin with letters A through M.
+
+Those concerns, along with privacy concerns and logistical issues, created what Prince called "essentially an impossible task." Any option the government chose came with serious cons, he said.
+
+Using a massive cloud service like Amazon's (AMZN) would have handled the large traffic load -- but it would also mean storing sensitive health care information in the cloud and on rented servers, which would have drawn criticism. Instead the government used its own system and servers that it could control, which adds security, but it didn't have the funds to build robustly enough to handle week-one traffic.
+
+"As with most things, all of healthcare.gov's problems could be solved with money," Prince said. "But when you're talking about government funds for an initiative that's been so contentious politically, you're going to be limited in what you can do."

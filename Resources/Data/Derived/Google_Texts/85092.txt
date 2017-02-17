@@ -1,0 +1,31 @@
+We all now know what happened with the federal healthcare marketplace, Healthcare.gov. The three-year development was complicated by changing specifications, and the government's convoluted procurement process meant entrenched companies were getting contracts over and over. But a wave of government accountability reports, concluded after months of investigations, is bringing new attention to the meltdown.
+
+The Government Office of Accountability released a report earlier this week detailing the security flaws in the site, but a report from the House Committee on Oversight and Government Reform released yesterday is even more damning.
+
+Titled, "Behind the Curtain of the HealthCare.gov Rollout," the report fingers the Centers for Medicare and Medicaid Services, which oversaw the development of the site, and its parent Department of Health and Human Services.
+
+"...refused to admit to the public that the website was not on track"
+
+"Officials at CMS and HHS refused to admit to the public that the website was not on track to launch without significant functionality problems and substantial security risks," the report says. "There is also evidence that the Administration, to this day, is continuing its efforts to shield ongoing problems with the website from public view."
+
+The worst look comes from the internal emails excerpted in the report (including one that from CMS chief Marilynn Tavenner that begins "Please delete this email.") Not many officials lost their jobs in the wake of the Healthcare.gov debacle — CMS CIO Tony Trenkle's resignation was one of the only staff changes immediately following the launch — but this report may change that. Things look especially bleak for Tavenner, who signed the approval saying the site could go live and also reportedly told her subordinates to delete emails in addition to deleting her own, a violation of federal record-keeping rules.
+
+Here's the worst of the batch. Blockquotes are directly from the report; the rest is paraphrased.
+
+An anonymous HHS official, on deputy CIO Henry Chao: "I grow weary of the bullshit passive/aggressiveness of Henry, or rather his lack of engagement to the point that we can only speculate that it is passive/aggressiveness."
+
+CMS refused to share information with HHS officials they felt were not adequately invested in the development of Healthcare.gov. When HHS’s Frank Baitman asked CMS’s Henry Chao for more visibility into the project, Mr. Chao wrote: "If you can’t recognize a burning house and its implications, what good is it to have a bunch of firemen tell you there’s a burning house if you’re not going to do anything about it."
+
+HHS CTO Bryan Sivak recommended HHS "declare victory without fully launching [the website]."
+
+CMS official Teresa Fryer acknowledged that that other CMS officials did not properly convey the true state of security testing leading up to the launch: "Kevin Charest [HHS CISO] has asked for an update of the FFM testing by noon tomorrow and I’m going to give him a truthful update of exactly what is going on. I am tired of the cover ups."
+
+When an independent security audit came back with negative results, CMS officials were more worried about the report leaking than the conclusion that the site was unsafe for users. CMS security officer Thomas Schankweiler wrote: "We need to hit the pause button on this report ... it is very possible that this report will be reviewed at some point by OIG [Office of Inspector General], and could see the light of day in other ways."
+
+After the launch, HHS officials sharply criticized CMS’s management leading up to the launch of Healthcare.gov. Referencing an email in which a CMS official admits the system could not handle more than 500 concurrent users, [HHS CIO Frank] Baitman wrote "Frankly, it’s worse than I imagined!" and [HHS CTO Bryan] Sivak replied, "Anyone who has any software experience at all would read that and immediately ask what the fuck you were thinking by launching."
+
+As The Verge reported at the time, CMS pulled some of the Healthcare.gov code from Github because they were worried about programmers bashing the site in bug reports. "[T]his Github project has turned into a place for programmers to bash our system ... I am sure there may be some blowback from this decision but I think it is better to take a short term hit with this deletion than to let this bashing of the source code continue on our official Github site on an ongoing basis."
+
+Two days after the launch, HHS’s Bryan Sivak wrote "This is a fucking disaster. It’s 1am and they don’t even know what the problem is, for sure. Basic testing should have been done hours ago that hasn’t been done." A CMS employee responded, "This is going to turn ugly and someone is going to leak that CMS has no clue about the problem."
+
+Well, yeah.

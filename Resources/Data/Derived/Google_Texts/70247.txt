@@ -1,0 +1,33 @@
+In September, the Agency for Healthcare Research and Quality (AHRQ) released a new report, “Health IT-Enabled Quality Measurement: Perspectives, Pathways, and Practice Guidance,” which “examines the intersection of health IT and quality measurement, reflecting the expectation that health IT-enabled quality measurement can make quality improvement possible.” As the announcement on the agency’s website stated, “It is presented to share information, stimulate discussion, assist communication among stakeholders, facilitate understanding, and to provide guidance on potential infrastructure enhancements that could be pursued, individually or collectively.” The report was prepared by Booz Allen Hamilton, and its authors were Rebecca A. Roper, Kristine Martin Anderson, Christina A. Marsh, and Anjanette C. Flemming. Roper is director of the Practice-Based Research Network Initiative within the Health Information Technology Portfolio at AHRQ; she reports to P. Jon White, M.D., director of the Health Information Technology Portfolio.
+
+As the report notes, “Until recently, quality measurement relied almost exclusively on the use of electronic claims data, manual chart abstraction, and patient surveys. However, the enormous, recent growth in the adoption of health IT provides an opportunity for more efficient quality measurement, the development of new types of measures serving various purposes and end users, and tighter integration between quality measurement and quality improvement. The sudden increase in availability of digital information,” the authors point out, “raises expectations across all stakeholders who use, work with, or oversee aspects of the healthcare system with respect to how data can be used to improve care, while many of those same stakeholders are simultaneously facing the challenges associated with acquiring new health IT systems and integrating them into the healthcare delivery organization.
+
+The report acknowledges the importance of the passage of the Health Information Technology for Economic and Clinical Health (HITECH) Act and the Affordable Care Act (ACA) in accelerating healthcare information technology development across the U.S. healthcare system. Based on some of the progress taking place, the authors recommend the following:
+
+Measurement should be patient-centered.
+
+Measurement should be supported by end users’ education and collaboration.
+
+Measurement should be aligned to national priorities.
+
+Measurement should be actionable and built to work within a system of quality improvement.
+
+Measurement should leverage available technologies.
+
+The report goes on to delve deeply into issues around managing two separate phenomena that overlap in practice: quality measurement and improvement activities, and the ongoing development and implementation of information systems, especially clinical information systems. It provides guidance at the conceptual level to healthcare leaders considering, planning, or already implementing both types of activities and systems.
+
+Shortly after the publication of the report, Dr. White, who conceived the report and oversaw its publication, spoke with HCI Editor-in-Chief Mark Hagland regarding its content and implications. Below are excerpts from that interview.
+
+What was the strategic goal of the agency in developing and publishing this report?
+
+There are a lot of federal programs looking at health IT; ONC [the Office of the National Coordinator for Health IT] is helping to guide providers on health IT, and CMS [the Centers for Medicare & Medicaid Services] is providing incentive payments. AHRQ’s job is to provide the best evidence possible and to make sure that providers have good tools at their disposal that are evidence-based. There’s a lot of stuff happening now, and it’s a very exciting time. We wanted to have a sense of what the questions were to ask, not only now, but in five or ten years from now. And to do it in a thoughtful way, you need to stop and look at the current landscape. So first, we wanted to ask what the big questions were that we ought to be asking our people to think about now. And as a secondary goal, we wanted to find out what things people say they have a need for, and can begin to work on, in terms of processes or infrastructure, that can help them get where they want to go.
+
+
+
+P. Jon White, M.D.
+
+We all need for the federal agencies to be pulling in the same direction in these areas, right?
+
+I agree completely. No one person or organization will be able to do this well; everybody has to be able to communicate clearly, regularly, and effectively, in order for this to work. They’ll have to communicate about what’s going well and not; you can’t leave anyone behind.
+
+How do you see the areas around data aggregation, integration, and exchange?

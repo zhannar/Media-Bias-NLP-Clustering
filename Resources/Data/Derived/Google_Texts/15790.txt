@@ -1,0 +1,39 @@
+"It has learned from prior training each of the facial landmarks," Jeffrey Cohn, a professor of psychology and robotics at Carnegie Mellon University, told me. "Then for a new face, it goes looking for those points that it has learned to find."
+
+The facial tracking is accomplished through a technique known as the constrained local model, or CLM, a type of algorithm that draws on thousands of existing pictures of faces to identify facial features and predict how they'll look when the face is scrunched into a smile, for example, or drooping in a frown.
+
+You turn on your webcam, stare into your screen, and the program will tell you what emotions you're experiencing, and in what proportions, from anger to sadness to joy.
+
+Today there's a more reliable—but equally far-out—app that performs a similar function: the clmtrackr , a new emotion-analysis tool created by a Norwegian computer scientist named Audun Øygard.
+
+If you've ever been confused about how you're feeling, and it happened to be the 1970s, you could always count on the mood ring . The jewelry fad claimed to read wearers' levels of anxiety or ebullience by measuring body temperature.
+
+The green lines you see are made up of 70 different points, which track everything from the corners of the mouth, as they curve up, to the eyebrows, as they raise.
+
+Clmtrackr is far from the first program to analyze facial expressions based on video input, but it's unique because it's written in JavaScript so it can run in a browser—there are no software downloads required.
+
+The technology underpinning clmtrackr and similar programs is already being used by doctors to diagnose and treat patients with conditions like autism or depression.
+
+"We've found meaningful changes in facial expression as people recover [from depression]," Cohn said. "When people are severely depressed, they tend to make many expressions of contempt or disgust that signal to other people, 'stay away, leave me alone,' but as they become less depressed, you see less of that and more smiles. You also see more sadness: The person who is feeling sadness wants more help from others. As someone is becoming less depressed, they might also be more sad."
+
+In the business world, Cohn said advertisers use tools like these to determine the effectiveness of commercials based on viewers' reactions.
+
+For everyday consumers, the artists Lauren McCarthy and Kyle McDonald created US+, a video chat application that employs face tracking and tonal analysis to help people appear more positive or less hostile in video chats (and possibly their corollary, real-life chats.) If you knit your brows and drone on about your partner's annoying tics, the app will show your "aggression" rating shooting through the roof.
+
+"Clmtrack is a javascript implementation of a face tracking algorithm, so it's not very fast or precise yet, but with some more work it might be usable for some of these use-cases," Øygard told me in an email. "There is quite a lot of development in this field currently, so every few months new methods that are faster and more precise are published, and I think we'll soon see face tracking pop up in a lot more places."
+
+Today, though, I used the clmtrackr just for lolz.
+
+Other than surprise, the program doesn't work very well with glasses, so I removed mine when I was going through the other feelings.
+
+For example, I was sad that the other day I dropped and broke my iPad:
+
+Nevertheless, I was happy that I survived the Polar Vortex:
+
+Then I tried it without making a face—that is, looking at the computer as I normally do—and it told me that I just looked a little bit sad:
+
+Further proof that I, like many other people of my ethnic extraction, suffer from bitchy resting face.
+
+Øygard also created a face substitution program that can swap anyone's visage for that of a celebrity's through a type of digital mesh that matches the contours of the face. Here's me as Kim Kardashian:
+
+Fellas?

@@ -1,0 +1,21 @@
+Thought you might find this interesting Submit
+
+“Merger fever” and the prevalence of employed physicians has led to a predictable but significant shift in healthcare IT: centralized decisionmaking. Slowly disappearing are the days when departments in the same hospital or health system could select their own vendors to provide various services. Large health systems are now centralizing their purchasing and rolling the implementations out system-wide.
+
+It’s a simple strategy, but the implications are far-reaching. CIOs, CMIOs and CNIOs are now being assembled from multiple hospitals within a system to demo, pilot and make product decisions for the entire network. They say streamlining vendor relationships is facilitating interoperability, combating the inefficiency caused by duplication of efforts, and leveraging scale to cut costs.
+
+Some technologies lend themselves more easily to system-wide deployments. EHR systems, for example, are an obvious choice because of their promise of interoperability. As a result, EHR implementations by companies such as Cerner, Epic and VistA are leading the trend.
+
+Duke University Health System recently made the system-wide decision to use Epic’s EHR. With the goal of enabling “one patient, one record, one system,” the multiyear project represented a $500 million investment in information technology, according to a university news release.
+
+“We will exceed the new requirements established by the Affordable Care Act, and have the foundational platform to better manage the health of larger populations across a wider geographic area,” said Victor J. Dzau, MD, president and CEO of Duke University Health System.
+
+Mobile platforms for secure messaging collectively represent another candidate for system-wide deployment. In October, the KLAS research organization released Secure Messaging 2015: First Look at Who Providers Are Considering and Why, its first-ever report on this emerging industry. Remarkably, 85 percent of secure messaging users reported that implementation of the technology improved their organization’s workflow efficiency.
+
+Trinity Health began implementation of the Doc Halo mobile health platform this year. When fully deployed, 86 hospitals in 26 states will be connected for real-time communication and system-wide interoperability.
+
+The companies leading the secure messaging industry, according to the KLAS report, represented very different corporate profiles. They range from venture capital-owned Tiger Text, which had the highest name recognition and sells messaging across multiple industries; to physician-owned Doc Halo, which had the highest vendor performance rating and focuses exclusively on healthcare; to Imprivata, which is publicly traded and is well known for its popular single-sign-on solution. They share a common strategy of focusing on enterprise-wide solutions, and they are benefiting from an industry trend of centralized decision-making that appears to be strengthening.
+
+A potential downside of the centralization trend: Less-established IT startups might feel disadvantaged as they lose the opportunity to show their value in one department and work their way up. Whether early stage healthcare IT companies can be successful in this new decision-making environment likely depends on their ability to show enterprise capability early on.
+
+However, hospital administrators believe the centralization trend should prove to be beneficial for healthcare, reducing redundancy, increasing care coordination and lowering costs.

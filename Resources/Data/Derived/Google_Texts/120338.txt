@@ -1,0 +1,27 @@
+A top Obamacare technology official was not informed of high-level security risks before he recommended the HealthCare.gov launch, according to closed-door congressional testimony released late Monday night.
+
+Henry Chao, deputy chief information officer for the Centers for Medicare and Medicaid Services, was not copied on Sept. 3 intra-office memos that described two outstanding problems as high impact (as opposed to low or moderate degree issues). Descriptions of the issues are redacted in the now-public Nov.1 interview with Chao and accompanying memos to protect information about vulnerabilities on HealthCare.gov, according to House Oversight and Government Reform Committee investigators.
+
+"The threat and risk potential is limitless" for one item that is not due to be fixed until May 31, 2014, states a visible portion of the documents. The other unidentified security matter involving the online insurance marketplace must be addressed by Feb. 26, 2015.
+
+Without being shown these documents, Chao co-wrote a recommendation that CMS chief Marilyn Tavenner authorize the system to launch, which she approved on Sept. 27. HealthCare.gov opened for business on Oct. 1.
+
+Chao’s Nov. 1 testimony does not state whether he would have recommended operating the system had he been aware of the potential dangers. Citizens must enter sensitive personal information -- catnip for identity thieves -- to enroll in healthcare plans.
+
+Chao did, however, acknowledge that he was taken aback by the omission, which occurred before he was instructed to go live with the system.
+
+"It is disturbing. I mean, I don't deny that this is, kind of, a fairly nonstandard way to document a decision to make a recommendation to proceed in [authorization to operate]," he testified. Chao said he has been a technology manager at CMS since late 2007.
+
+"I probably should have been copied on it," he said when first shown the Sept. 3 packet by investigators. "Why I'm surprised is that the [chief information security officer] had me do this, file this process, but [didn't] copy me on the ATO letter. I mean, wouldn't you be surprised if you were me?"
+
+HHS officials have said that consumers who register online can trust that the information entered is protected by stringent standards and that the technology underlying the application process is secure.
+
+Chao is scheduled to testify at a public House Oversight committee hearing on Wednesday.
+
+The potential for hackers to defraud or harm patients by manipulating HealthCare.gov data transmissions has raised concerns among lawmakers and independent programmers.
+
+Until fixed on Oct. 30, a security flaw in CuidadoDeSalud.gov -- the Spanish language version of HealthCare.gov -- could have allowed identity thieves to steal personal information from enrollees as they typed. A separate flaw in HealthCare.gov that could have leaked email and other account information was eliminated that same week, after a private citizen informed federal officials of the problem, Time reported.
+
+One vendor involved in designing the insurance shopping site previously jeopardized the personal data of 6 million Medicare beneficiaries, according to the Health and Human Services inspector general.
+
+Under a separate, ongoing project, Quality Software Services, Inc., or QSSI, failed to stop employees from connecting unauthorized USB devices, such as thumb drives and smartphones, to computers testing CMS systems. A June IG report categorized the oversight as a high risk.

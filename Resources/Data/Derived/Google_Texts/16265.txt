@@ -1,0 +1,13 @@
+The Department of Health and Human Services’ inspector general has found the Centers for Medicare & Medicaid Services failed to carry out automated vulnerability assessments on databases related to CMS’ Multidimensional Insurance Data Analytics System.
+
+HHS’ IG said in a September report that it audited CMS’ data security controls between August 2014 and December 2014 to evaluate the agency’s work to safeguard personally identifiable information and other sensitive data in MIDAS and other supporting databases.
+
+MIDAS is a central insurance data repository designed to provide HHS with performance metrics for various health programs implemented as part of the Patient Protection and Affordable Care Act.
+
+According to the audit report, OIG found 22 high vulnerabilities during a scan of databases and that CMS failed to encrypt user sessions in MIDAS.
+
+The office also discovered generic accounts that were not disabled in CMS’ test environments related to MIDAS.
+
+In a letter to IG Daniel R. Levinson, CMS Acting Administrator Andy Slavitt said the agency started to address all the high vulnerabilities that OIG detected during the security testing phase and was able to address all the findings by February 2015.
+
+CMS also performs vulnerability assessments on a weekly basis and yearly Security Control Assessments for MIDAS and supporting databases in compliance with industry and government standards, Slavitt added.

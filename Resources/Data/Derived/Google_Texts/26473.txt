@@ -1,0 +1,45 @@
+Senate plans to inch forward on patient identifiers
+
+With help from Darius Tahir (@DariusTahir) and Arthur Allen (@ArthurAllen202 )
+
+SLIGHT MOVEMENT ON PATIENT IDENTIFIERS: In its forthcoming medical innovation bill, the Senate HELP Committee might settle for a mandated government study or a requirement that ONC draft a standard on how to best match patients with their records, according to sources familiar with the committee’s work. The effort is viewed as an incremental approach to solving the politically vexing issue of creating a national health ID. Budget language has banned federal authorities from working on the issue since the late 1990s. Sens. Elizabeth Warren and Bill Cassidy have each raised the issue in HELP Committee hearings this year, but hesitancy remains. “There’s not a simple answer if there’s no other way around it,” Cassidy said in a brief interview with POLITICO last week. “I think a study is reasonable.” The Louisiana Republican called a national identifier for each person “awkward;” recent cyber breaches, with their privacy, security and fraud implications, argue against it, he said. Some health IT groups like CHIME have been pushing a national identifier heavily in recent years but have gained little traction in Congress. Lobbyists who have spoken with committee staff feel there’s a sense that the identifier must be addressed, but HELP members are “nervous” about it. “Nobody is willing to pick up the baton and say we’re going to pass legislation to remove that ban because it’s a political third rail,” said CHIME board chair Chuck Christian, a vice president at the Indiana Health Information Exchange.
+
+Story Continued Below
+
+--Meanwhile, private groups have been working to address a unique identifier, and ONC has tried to push accurate patient matching, ONC chief Karen DeSalvo said at a HELP hearing last month. The federal ban doesn’t apply to private industry. Boston-based Imprivata markets technology that matches patients using blood vessels visible through the palm as a form of ID. The technology is used by large hospitals like Carolinas Healthcare System, whose chief information officer Craig Richardville told HELP about it at a June hearing. The Sequoia Project earlier this month released a framework it hopes will foster 95 percent accurate patient matching. CHIME is getting ready to launch a challenge to reward a company with a $1 million prize for 100 percent accuracy in matching patients with their records. Christian said the Indiana state exchange accurately matches patients 98 percent of the time using basic demographic information like name, birthdate and address. A national ID is needed to track patients as they move across the country, he insists.
+
+SENATE MARKUP UNLIKELY THIS YEAR: Another week came and went without Senate HELP releasing its much anticipated medical innovation bill, the companion to the House’s 21st Century Cures Act. Now, watchers of the deliberately moving body don’t expect the committee to have time to mark up any legislation before it recesses for the holidays, killing Chairman Lamar Alexander’s long-stated goal of having a bill out of committee by the end of the year. A GOP aide said conversations are ongoing, but declined to address questions about the bill’s markup. Senators will return to Washington Nov. 30 and have three weeks before breaking on Dec. 18, making it possible, but doubtful, they’ll vote before the holidays. Alexander, a former University of Tennessee president and education secretary under George H. W. Bush, has been busy with another priority--reconciling a No Child Left Behind update with House leaders.
+
+eHealth tweet of the day: @N_Brennan: Abstract deadline for Datapalooza 2016 extended til Nov 30!!vCmon folks - show us all the cool stuff u r doing w data http://healthdatapalooza.org/
+
+Welcome to Monday morning eHealth where we found this weekend's Stanford-Cal football game amusing. You see, Pro eHealth Editor Arthur Allen went to school at Cal in Berkeley and his reporter Darius Tahir went to rival Stanford across the San Franciso Bay. Darius' Cardinal got the better of Arthur's Bears 35-22. Send congratulations or condolenses to either on Twitter at @arthurallen202 or @DariusTahir. I can be found at dpittman@politico.com and @David_Pittman. News and tips can be sent to all of us.
+
+Outside, In: Will population health solve what's ailing our health care system? Leading voices in health care, technology and policy answer questions from Pro eHealth Editor Arthur Allen and colleague Joanne Kenen on how data moves from the patient to public health - and back again. Join us at the W Hotel on today at 11:30 a.m. RSVP: http://bit.ly/1QkBndb
+
+TELEMEDICINE CAN HELP IMPROVE PROVIDER NETWORKS, NAIC SAYS: The National Association of Insurance Commissioners on Sunday adopted model state legislation allowing telemedicine to be used to meet adequacy standards for health plans’ provider networks. State insurance commissioners oversee which hospitals and doctors are in-network for health plans, data that states use to determine whether networks are adequate for policy buyers. Under the model legislation NAIC approved at its national meeting in Washington, health plans may use telemedicine to pipe in doctors from outside a geographic region. States must adopt the legislation for it to become effective; legislatures can do that as soon as next year.
+
+EHRs MAY NOT MEET NEW STANDARDS IN TIME, EHRA SAYS: Electronic records vendors may be unable to incorporate new reporting and quality measures in time to meet the 2017 deadline when Medicare Access and CHIP Reauthorization Act (MACRA) programs start, the EHR Association told CMS last week, so CMS should not add new data reporting requirements. "Both vendors and providers need sufficient time to develop and implement new functionality or reporting capabilities, which may not be possible in time for the 2017 performance year," the EHR Association wrote in response to a request for information from CMS.
+
+— The EHR Association also does not support a new certification program for MACRA's alternative payment model track or its new Merit-based Incentive Payment Program. The call was supported by HIMSS, which also submitted MACRA comments to CMS last week. "HIMSS does not recommend adoption of a large set of criteria due to the variability that exists across current models, and variability that will continue to exist as payment models evolve." HIMSS also told CMS it supports removing meaningful use's current pass-fail construct, and believes providers should be given more flexibility in meeting the program's requirements.
+
+ANTIBIOTIC-RECOMMENDING APP PULLED FROM APP STORE: Athenahealth-subsidiary Epocrates has pulled its Bugs + Drugs app, which was designed to help doctors find the right antibiotics for patients and to track bacterial immunity to the drugs. The action responded to reports that the app sometimes recommended totally wrong antibiotics for certain bacteria, among other problems, iMedicalApps reported Friday. “It’s unclear why the app was shut down now, given that the concerns about accuracy are about two years old,” MobiHealthNews added. “Epocrates has removed a few other apps from the app store."
+
+MORE FREE INTEROPERABILITY (FOR SOME): Greenway Health is the latest in the let’s-give-away-interoperability services train. The company announced that customers of its Prime Suite product — which combines EHR and practice management functions — will get to use CommonWell services for free, meaning they’ll get a lot of data-sharing capabilities for free.
+
+DEADLINE APPROACHING: HHS’s assistant secretary for Preparedness and Response is accepting comments through Nov. 30 on guidance for implementing NIST’s cybersecurity framework in health care. The document was released earlier this month. Find the full document here: http://bit.ly/1NlrQCq
+
+ON THE MOVE: The Defense Health Agency’s health IT director, David Bowen, announced his retirement from federal service last week. His last day is Jan. 2. Bowen received the HIMSS 2015 Federal Health IT Leadership Award.
+
+WHAT WE'RE CLICKING:
+
+How ONC is helping improve rural health IT: http://bit.ly/1kKrAAj
+
+The FDA approves Medtronic device that sends pacemaker data collected by smartphones to doctors: http://strib.mn/1N2MbpC
+
+HIETexas, a Texas health information exchange, joins the Sequoia Project’s Carequality network: http://bit.ly/1QCuZOw
+
+Uber-delivered flu shots the beginning of on-demand, in-person health visits: http://bzfd.it/1NlqTKi
+
+UCSF’s director of Center for Digital Health Innovation talks about the school’s interoperability work with Cisco: http://bit.ly/1PU3MW1
+
+Tips, comments, suggestions? Send them along via email to our team: Arthur Allen (aallen@politico.com, @ArthurAllen202), David Pittman (dpittman@politico.com, @David_Pittman) and Darius Tahir (dtahir@politico.com, @DariusTahir).

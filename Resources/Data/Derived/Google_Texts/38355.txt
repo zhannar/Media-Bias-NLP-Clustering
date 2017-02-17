@@ -1,0 +1,33 @@
+Sunday, October 25, 2015
+
+Summary
+
+The general contractor on a public demolition project paid nothing to a subcontractor that had performed the majority of its work but refused to perform work that it claimed was outside of its scope of work. The subcontractor sued the general contractor and after cross-motions for summary judgment the Superior Court sided with the general contractor, holding that the work in dispute was within the subcontractor’s scope and that the subcontractor breached the subcontract by refusing to perform the work. The Superior Court also held that the subcontractor was not entitled to be paid for the work it did perform because it had not substantially performed its obligations under the subcontract. The subcontractor appealed, and the Massachusetts Appeals Court affirmed the Superior Court’s decision. Acme Abatement Contractor, Inc. v. S&R Corporation , No. 2014-P-257, 2015 Mass. App. Unpub. LEXIS 855 (Aug. 20, 2015). Click here to view the Appeals Court decision.
+
+Contracting Background
+
+S&R Corp. ("S&R") was awarded a demolition contract by the Town of Weymouth (the "Town"). Part of S&R’s work included the demolition of concrete bleachers adjacent to an athletic field. S&R subcontracted the asbestos abatement work to Acme Abatement Contractor, Inc. ("Acme"). Among other things, Acme was required to remove asbestos containing paint from the bleachers prior to demolition.
+
+Scope Dispute Arises
+
+After Acme had commenced work, it informed S&R that it would remove paint only from the side walls of the bleachers but not the risers because Acme believed that paint did not contain asbestos and, therefore, was not within its scope. S&R directed Acme to the project specifications and identified the contract language that it believed clearly required Acme to remove the riser paint. Despite this language, Acme claimed it did not have to remove the riser paint and even went so far as to have the riser paint tested, which test results came back negative for asbestos. Even though tests performed after the subcontract was signed and work had commenced showed that the riser paint did not contain asbestos, the subcontract language included the risers within Acme’s scope and Acme "owned" that work. Nevertheless, Acme refused to remove the riser paint.
+
+Acme performed the remainder of its obligations and then abandoned the project without removing the riser paint. S&R was forced to engage a substitute contractor to remove the riser paint because the project schedule was in jeopardy and S&R faced the prospect of being assessed liquidated damages by the Town if it did not complete the project on time. S&R did not issue payment for any of Acme’s work, even the two-thirds of the subcontract work that Acme performed, on the ground that Acme had materially breached its subcontract.
+
+Subcontractor Sues and Contractor Wins Summary Judgment
+
+Acme brought suit against S&R seeking $145,000 in damages for breach of contract and quantum meruit. Acme also sought treble damages and attorneys’ fees under M.G.L. c. 93A, for a total of damages in excess of $450,000. Both parties eventually moved for summary judgment. The Superior Court granted summary judgment in S&R’s favor finding that: (1) the subcontract required the removal of the riser paint; (2) the subcontract required that Acme perform the disputed work under protest and that Acme’s failure to do so was a material breach of the subcontract; (3) Acme had failed to provide required closeout documents; and, (4) Acme could not recover under quantum meruit for the work it did perform because it did not substantially complete its subcontract obligations.
+
+Subcontractor Appeals
+
+Acme appealed to the Massachusetts Appeals Court, which affirmed the Superior Court’s decision in S&R’s favor. Rather than address whether the removal of the riser paint was within Acme’s scope, the Appeals Court held that Acme breached the subcontract by not performing the disputed work as required by the subcontract. The relevant language provided:
+
+In the event of a dispute, controversy or claim between Contractor and Subcontractor, Subcontractor agrees to proceed with the Work or extra work without delay and without regard to such dispute, controversy or claim or the tendency (sic) of any proceeding in relation to the same. The failure of Subcontractor to comply with the provisions of this paragraph shall constitute a material breach of this agreement ….
+
+The Appeals Court found that Acme provided no justification for failing to perform the disputed work as required by the subcontract language and, accordingly, Acme breached the subcontract.
+
+The Appeals Court also agreed that Acme was not entitled to be paid for the work it had performed. Acme’s claim for quantum meruit sought payment for the work it had performed and that was accepted. However, the Appeals Court found that Acme intentionally departed from a material subcontract term without justification because it failed to perform the disputed work as required by the subcontract. In addition, the Appeals Court found that the value of the disputed work, which Acme did not perform, represented one-quarter to one-third of Acme’s subcontract price. Accordingly, the Appeals Court held that Acme’s deviation from the subcontract was not slight and that Acme did not substantially perform under the terms of the subcontract and, therefore, it was not entitled to be paid for the work it did perform.
+
+The Take Away
+
+The take away here is that if there is a scope dispute and the contract requires the party to continue to perform, it should not refuse to perform the disputed work. Instead, it should: (1) clearly state in writing the factual and contractual basis for its position; (2) perform the work under protest; and, (3) pursue its claim through the dispute resolution process provided for in the contract. This approach allows the disputing party to preserve its position and mitigate the potential damages, while not jeopardizing payment for the undisputed work. That having been said, there may be factual situations that justify stopping work during a scope dispute and you should consult with legal counsel to determine the proper course of action.

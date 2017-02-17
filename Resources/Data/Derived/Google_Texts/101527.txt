@@ -1,0 +1,21 @@
+New research published in Science Advances suggests Peptidyl arginine deiminase 4 (PAD4), a protein involved in the development of inflammatory diseases such as arthritis, also plays a role in the development of cancer.
+
+According to the study, PAD4 is an enzyme that turns genetic code into functional products in the body. Although the protein is regularly found in some cancers, its function in cancer development was unclear. So researchers at Oxford University set out to understand the mechanisms by which this protein is involved.
+
+"As our understanding of the mechanisms underlying inflammation has increased, interest in PAD enzymes as targets for treatments has grown," researcher Nick La Thangue, professor from Oxford University's oncology department, said in a statement. "PAD4's presence in cancer was well known but its role was not — rather like continually seeing someone at crime scenes but not being able to prove they're involved."
+
+For the study, researchers found cancer cell proliferation is a result of PAD4’s interaction with another protein called E2F-1 — part of a family of cell regulators that coordinate gene expression during cell proliferation. PAD4 changes an amino acid part of the E2F-1 protein, called arginine, into another amino acid called citrulline; this expression attracts another protein, BRD4. Although E2F-1 plays a role in cancer spread, researchers found PAD4 and BRD4 could switch E2F-1 from promoting proliferation to promoting inflammation, and vice versa.
+
+This isn't the first time inflammation has been linked to the development of cancer. For example, past research has linked chronic inflammation to a doubled risk of developing prostate cancer.
+
+"Inflammation plays a key role in a number of cancers. For example, bowel cancer has an early inflammatory stage," La Thangue explained.
+
+After establishing that PAD4 and BRD4 could play a role in cancer development, scientists conducted a mice study to look at what happens when the two proteins are suppressed. They administered two treatments that inhibited PAD4 and BRD4 expression.
+
+The results revealed treatment suppressed the cytokine gene expression — a function behind the movement of cells towards sites of inflammation, infection and trauma —and reduced symptoms of arthritis. And suppressing both proteins proved to be a "clinically efficacious in preventing disease progression."
+
+"Our results shed light on a new transcription-based mechanism that mediates the inflammatory effect of PAD4," researchers wrote.
+
+They believe understanding the role both PAD4 and BRD4 play in switching E2F-1 to an inflammatory role could better place them to find effective cancer treatments.
+
+Source: Ghari F, Quirke A, Munro S, et al. Citrullination-Acetylation Interplay Guides E2F-1 Activity During the Inflammatory Response. Science Advances. 2016.

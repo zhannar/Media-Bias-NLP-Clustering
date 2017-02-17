@@ -1,0 +1,27 @@
+Transitioning from a fee-for-service-based healthcare delivery and payment system to a delivery and payment system based on value continues to be a fundamental challenge for the leaders of patient care organizations nationwide. But many patient care organizations, including a number of integrated health systems, are making the leap. Among those is the Seattle-based Providence Health System, which encompasses 34 hospitals, 476 physician clinics, 22 long-term care facilities, and a health plan with 436,000 members, across Alaska, Washington, Oregon, California, and Montana.
+
+With regard to Providence Health System’s progress in this important arena, Benjamin Zaniello, M.D., the organization’s medical director of population health informatics, spoke this spring with HCI Editor-in-Chief Mark Hagland, as Hagland prepared the May/June cover story of Healthcare Informatics on the topic of population health management. Below are excerpts from their interview earlier this year.
+
+When you look at your organization’s trajectory so far on population health, what do you see as key success factors, from the standpoint of being a clinical informaticist leader?
+
+The focus for us has really been on keeping it simple. Physicians have such busy lives, and medicine is so hard, that you really have to focus it on keeping it simple and making sure that any piece of data or information you share with the physicians is actionable. We always ask ourselves, what can we do with this? It either has to improve patient care or make their lives easier. I’m an infectious disease doc, and I specialize in HIV care. I understand why this has to be made simpler for physicians, and as actionable as possible.
+
+
+
+Benjamin Zaniello, M.D.
+
+What is important to focus on, with regard to data analytics around population health management?
+
+Go to where the money is—and the money is with claims. And I think the biggest, shortest-term impact you can make on physician behavior and therefore patient health, is with claims data, because the claims data tells you what is actually happening in the system. And the payers have already gone through the process of normalizing that data through adjudication. And almost every physician is seeing Medicare, and can see it. And there’s a direct connection with financial incentives and outcomes. So what you’re doing is that you’re slowly educating your physicians.
+
+One of the things that we can do is to “flag” things for physicians; that is very helpful. In fact, in my first job with our health system, one of my responsibilities was to identify patients within the EMRs as ACO [accountable care organization] patients, because the physicians wanted to know that [the fact that their individual patients had been attributed to ACOs]. And I actually got some pushback at the governance level within our organization around that, with people asking, shouldn’t we treat patients the same? And I said, we’re going down this path, and we have to learn how to do it right, and so we first have to focus on this subset of patients.
+
+Also, we’ve been doing this [categorizing patients to help physicians in their practice] in medicine for tens of years; as physicians in practice, we’ve known for years that what’s available to physicians under Medicare, Medicaid and commercial contracts, is different.
+
+On a scale of 1 to 10, where are we at overall as a healthcare system, in terms of the sophistication of analytics capabilities, on this?
+
+On a scale of 1 to 10, we’re at maybe a 1 or a 2, to be honest. There are lots of vendors offering various solutions; but there’s no one vendor, no one organization, that’s doing everything right. This is really an opportunity to learn from each other now; this is the art of the possible.
+
+Do physicians understand now where all of this is headed, do you think?
+
+Yes, with the passage of the Affordable Care Act, and the message from Medicare on costs, value-based purchasing, etc., I think that increasingly, physicians are getting it. Doing what I do certainly helps me to inform our physicians about the new world order. I’m speaking to our surgery group next week, to talk about this, and it’s like going into the lion’s den. They recognize that times are changing, but there’s entitlement. Some of it is justified by really long training, paying off student loans, etc. And there’s also a sense of entitlement there. Our system is based on people working really hard for a long time, but they do expect a return. And physician compensation should not be underestimated. And physicians are the point of the spear.

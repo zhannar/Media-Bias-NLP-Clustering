@@ -1,0 +1,33 @@
+Micky Tripathi, Ph.D., founding president and CEO of the Boston-based Massachusetts eHealth Collaborative (MAeHC), isn’t afraid to buck the tide of received wisdom and current opinion, and his perspectives on the future of health information exchange (HIE), which he shared with HCI Editor-in-Chief Mark Hagland on Feb. 25, at HIMSS14, the annual conference of the Healthcare Information and Management Systems Society, being held this week at the Orange County Convention Center in Orlando, Fla., are in no way reticent. Tripathi’s vision of the future is informed by years of experience at the helm of one of the most successful collaboratives of its kind in the U.S., and he shared his insights on the swirl of ongoing developments around HIE without hesitation. Below are excerpts from that interview.
+
+What is your opinion of the letter to Secretary Kathleen Sebelius, signed by CHIME and 47 other healthcare associations?
+
+[On Feb. 24, leaders at the Ann Arbor, Mich.-based College of Healthcare Information Management Executives (CHIME) and 47 other healthcare associations co-signed a letter to Health and Human Services Secretary Kathleen Sebelius, calling for “additional time and flexibility in the meaningful use program to ensure its continued success.”] I think that effort really reflects that there are too many things hitting the industry at once. I think it’s a good thing to give people the flexibility they need. The reality is that none of us could have predicted that you’d have meaningful use Stage 2, ICD-10, OCR [HIPAA data security audits under the auspices of the Office of Civil Rights at the Department of Health and Human Services], the ACA [Affordable Care Act], all at once. And it’s pretty miserable being a hospital CIO right now—it’s not a fun job! You have a lot of risk and a lot of exposure, and a whole range of issues, like BYOD.
+
+Is this an unprecedented time for CIOs and other healthcare IT leaders?
+
+Absolutely; it’s completely unprecedented. And their importance is rising, in terms of how important IT is. Everyone’s expecting innovation going forward, in terms of new reimbursement and care management models, and yet CIOs are saying, I can only handle compliance right now. And ICD-10 being pushed out for a year is now a huge issue. We’re helping to lead collaborative ICD-10 testing in Massachusetts, and it’s turning out to be extremely time-consuming.
+
+People are saying these days that, fundamentally, health information exchange is just too difficult. What is your reaction to that sentiment?
+
+If one wants it to be rational and a hierarchical learning structure, in which everyone learns in a direct way—yes, in that sense, it’s too hard. But where else has that ever happened in the U.S.? We’re an incredibly large, heterogeneous country. To me, HIE is flourishing; but it’s flourishing in different ways than we expected—in a sort of bottom-up way. One way in which it’s flourishing is in terms of demand in relation to supply. It’s very hard to go to a hospital that isn’t thinking about this very hard or isn’t already embarked on something. Everyone’s thinking about it.
+
+And on the supply side, there are lots of technologies, very tactical technologies, that people are leveraging, to create HIEs. And people aren’t expecting to simply plug in an established model. And most of the HIE 1.0 HIEs failed—and the ones that survived—Indiana, Cincinnati, and New York—those that survived from that 1.0 generation, those are not replicable.
+
+So the newer ones are moving forward in replicable ways?
+
+I think so, yes, but each is unique. And Baystate Medical Center has formed a private HIE, and in a year, it’s already up and running, and there’s good anticipation. But it’s very, very focused, very tactical; and they’re not trying to solve the world’s problems; and it’s their own private money. Emerson Hospital, and Anna Jacques Hospital, they’re all doing the same thing, in different ways, attuned to their specific needs.
+
+So uniqueness of approach is OK in HIE development, then?
+
+Absolutely. In the same way that uniqueness is OK in any kind of fragmented industry. And in terms of auto companies and retailers and airlines—consolidation eventually happened. It’s unclear where that driving force will come into healthcare, because you start out with incredible fragmentation on both the demand and supply sides.
+
+It almost has to be Medicare driving development, in other words?
+
+Yes, and up until now, it’s been incredibly fragmented on both sides; but Medicare and Medicaid are just the biggest entities, and so they’re able to move the market. But the nature of physician practice and the ambulatory setting is going to mean the supply side will remain fragmented.
+
+Now that physicians are consolidating into hospital organizations and large medical groups, will that change the landscape of HIE development?
+
+Yes, I think so. HIE is flourishing, but in silos. I think it was a bad expectation to assume that once HIEs were created, all the barriers would immediately fall. Well, that didn’t take into account business realities. So we’re seeing a lot of investment in silos like integrated health systems and ACOs—and I don’t see that as a bad thing. Accountable care organizations are making investments based on sharing risk.
+
+There was this kind of idealized notion of what HIE would do, then?

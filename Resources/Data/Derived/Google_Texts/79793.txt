@@ -1,0 +1,13 @@
+Your personal data is everywhere — stored in your phone, your computer, your credit cards. And, it turns out, a surprising amount of it can be accessed using your discarded airplane boarding pass.
+
+As Brian Krebs just detailed at Krebs on Security, the information stored in a boarding pass barcode could make it surprisingly simple for an interested party to wreak some havoc for the ticketed passenger.
+
+A Krebs reader found that reading the barcode using a decoding website revealed the passenger’s name, frequent flyer number, record locator and other personal information.
+
+Related: Why Flying Is Getting Even More Miserable
+
+Using that information, the reader could then access the passenger’s account on the Lufthansa airline website. He or she could then find the passenger’s phone number, email address and the name of the person who booked the flight. Most troubling is that someone intent on mischief could view any of your future travel itineraries and make changes to them — including canceling a flight or changing your seat. The information accessible through the account could be used, along with other personal details, to reset the PIN number for the passenger’s Star Alliance frequent flyer account.
+
+Much of the data stored in the barcode is more readily available on the boarding pass itself — your name, flight number and the like are all printed clearly for anyone to see. And that’s generally harmless. The point Krebs makes, though, is that “Some airlines treat frequent flyer codes as semi-secret, and redact them from boarding passes and email communications, but leave them in plaintext on the barcode.”
+
+That suggests two takeaways for security-minded travelers: First, if you don’t want anyone to see your personal information or to risk having someone access your travel booking details, take your boarding pass with you when you leave the plane. Second, these days your personal data might be stored in places you wouldn’t imagine.

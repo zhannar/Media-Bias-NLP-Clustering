@@ -1,0 +1,29 @@
+DAVID MAVASHEV
+
+Nastel Technologies DAVID MAVASHEVNastel Technologies
+
+David Mavashev is CEO of Nastel Technologies, a provider of APM monitoring.
+
+“Blamestorming” – to my surprise this term is actually in the dictionary or at least dictionary.com. The definition is as follows, “an intense discussion or meeting for the purpose of placing blame or assigning responsibility or failure.” How is this relevant to IT Operations or Healthcare IT?
+
+After an extraordinarily rocky start, the federal healthcare exchange – the online marketplace consumers use to purchase health insurance under the Affordable Healthcare Act, a.k.a. “Obamacare” – seems to be working more smoothly. But, now problems are cropping up with the state healthcare exchanges. Media reports highlight state-level exchange system issues seemingly every week. This shouldn’t be a surprise as we are dealing with a highly complex system.
+
+When you alleviate a bottleneck in one location of a complex system, the result is often a newly visible series of bottlenecks in other locations. The transactions now flow past the prior bottleneck only to hit another logjam in different area of the system. The rule of thumb in performance analysis is analyze before you fix and focus on the most significant bottleneck, first. The state of affairs will change once that issue is relieved and you then focus on the next significant issue. However, this well-worn IT approach is not always followed.
+
+Some states have singled out vendor software as the culprit. Others blame a lack of comprehensive testing or inter-operability. Still others cite inconsistent project leadership and failures to address known issues in time to achieve a smooth rollout. Some or all of these glitches may sound familiar to CIOs and IT executives who have spearheaded the launch and maintenance of a complex system.
+
+The Rush to Point Fingers
+
+CIOs may also recognize a familiar tone from people quoted in the news reports – the rush to affix blame. When a complex system doesn’t work, groups that handle components of the larger system tend to focus on deflecting responsibility from their unit. It’s important to find out what went wrong, but a more fruitful discussion would focus on identifying root causes like scalability and infrastructure monitoring capacity.
+
+There are a number of possible explanations for a troubled system rollout. Clearly, the system lacks the capacity to handle anticipated demand. Was the anticipate demand known? In this, the answer is decidedly “yes”. Or worse, there were no requirements for testing loads that simulated anticipated demand. Were there a clear set of “user stories” that illustrate what the system must do to be effective? User stories, as part of an agile development environment often include performance expectations and should also cover the range of users expected to utilize the application
+
+A friend of mine told me about their endless troubles in registering for healthcare. This person is a private instructor with irregular hours who fit the profile of the type of user this program was supposed to address. Previously, she was not able to get affordable healthcare and had hoped that this would address her needs. It might actually do that, if she could get registered. When she tried to register, the website application told her that her income she entered on the website did not match what the state had on file. It turned out the application wanted future income for the current year end. But, since she is not an employee with a regular salary there was no way to do that with certainty. The application made assumptions that didn’t fit the target audience. Apparently, the user stories created were not appropriate or complete. At this point she still has not made it through the application process.
+
+Alternatively, there may have been flaws in the architecture or perhaps, coding bugs could be responsible. Maybe, there’s a database access issue. Any and all of these explanations may play a role, but here’s the fundamental problem: The technology professionals charged with resolving the issue typically work in silos, and the person in charge may feel overwhelmed by the sheer volume of analysis and speculation. This is especially true when past experiences inform them that all this painstaking work produced little to no results.
+
+See more on the Next Page
+
+
+
+Pages: 1 2

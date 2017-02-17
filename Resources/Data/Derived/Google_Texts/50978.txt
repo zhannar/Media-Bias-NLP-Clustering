@@ -1,0 +1,47 @@
+Cancer drugs are a fast-growing business for drug developers. According to figures from IMS Health, global oncology sales topped $100 billion in 2014, and this figure could grow by as much as 47% by 2018.
+
+But there's much more at stake here than just dollars. There are the lives of millions of cancer patients who are counting on the billions of dollars spent in cancer care research to provide them with the best drugs available to fight their cancer. The World Health Organization predicts that annual global cancer incidence rates could jump by nearly 60% over the coming two decades to 22 million people. That's a terrifyingly high figure that clearly deserves the attention of drug developers.
+
+For years, chemotherapy has been a common solution to cancer. Chemotherapy drugs are often used in advanced cancer cases or as a precursor to surgery in an effort to shrink the size of a tumor. The drawback is that chemotherapy is a global body treatment. You may have a single tumor, but chemotherapy is indiscriminate with regard to the cells it attacks, meaning healthy and cancerous cells are being targeted.
+
+Beyond chemotherapy: Four new ways to fight cancer emerge
+
+Today's researchers not only want to develop drugs capable of more effectively killing cancer cells, but they also want to minimize the unpleasant side effects tied to chemotherapy. A lot of their attempts have failed, which is common during clinical studies. However, four unique ways of fighting cancer have emerged that are showing incredible promise. While it's too early to tell if chemotherapy could become a thing of the past, these developing cancer treatment options are worth closely monitoring.
+
+1. Cancer immunotherapies
+
+Arguably the most exciting new way to treat cancer is with the use of immunotherapies. Immunotherapies work by utilizing the patients' own immune system and supercharging it to either more effectively locate cancer cells or to kill cancer cells.
+
+The greatest weapon cancer cells have is their ability to remain cloaked from the immune system. Immunotherapies typically target this immunosuppressant quality of cancer cells, giving your immune system the boost it needs to locate these foreign cells so it can destroy them. Best of all, since immunotherapies rely on your immune system to do the heavy lifting, the hope is the side effects will be minimal.
+
+Two cancer immunotherapies are already approved and on pharmacy shelves, with a handful of experimental immunotherapies waiting in the wings. Merck's (NYSE:MRK) Keytruda and Bristol-Myers Squibb's (NYSE:BMY) Opdivo are both approved to treat select types of metastatic melanoma and advanced non-small cell lung cancer (NSCLC).
+
+Response rates for Keytruda and Opdivo were notably impressive in NSCLC patients. The CheckMate-057 trial, an 18-month study examining Opdivo versus docetaxel, showed that 39% of advanced NSCLC patients were still alive compared to just 23% for the docetaxel arm. For Keytruda, which is truly geared at patients expressing high levels of PD-L1, a superior overall survival benefit relative to chemotherapy was also demonstrated.
+
+2. Targeted therapies
+
+Targeting specific proteins or genes within the body -- essentially the heart and soul of personalized medicine -- is another common method that drug developers are looking to exploit. Although research geared at specific proteins or genes will limit the number of patients a drug could eventually help, the idea is that focusing on a specific component of a disease should give those patients a much better chance of achieving a durable response and improved survival.
+
+There are a lot of potential targets for researchers to focus on (VEGF, EGFR, T790M -- these are all NSCLC examples), but one that's been especially promising is the ALK mutation associated with NSCLC patients. In an ALK rearrangement, which occurs in anywhere from 3% to 5% of NSCLC cases, the mutant ALK protein is produced. Drugs that target this abnormal protein can potentially disrupt tumor formation, thus improving response rates and possibly overall survival.
+
+One classic example in this space is Pfizer's (NYSE:PFE) Xalkori, a drug for treatment-naïve advanced NSCLC patients. In clinical studies Xalkori has produced response rates of around 60%, which is practically unheard of, as well as progression-free survival of between seven and 10 months. By comparison, objective response rates for most cancer therapies tend to be around half of what Xalkori brought to the table for ALK-positive NSCLC patients.
+
+3. Anti-cancer stem cell
+
+Another unique way drug developers have proposed to fight cancer is by targeting cancer stem cells. Just as we have stem cells in our body that help differentiate into specialized cells, cancer stem cells are believed to harbor similar functions. They are also believed to be largely responsible for metastasis beyond an initial tumor and cancer relapses. Cancer stem cells, also known as CSCs, tend to be resistant to chemotherapy and radiation, thus killing these cells has proven quite the challenge.
+
+OncoMed Pharmaceuticals (NASDAQ:OMED), however, is up to the task. The company's lead product is demcizumab, a monoclonal antibody designed to target Delta-like ligand 4, an activator notch that's important for CSCs. OncoMed believes that blocking this notch could generate an anti-tumor response in certain cancer types where CSCs have been discovered, ultimately leading to improved quality of life and overall survival benefits.
+
+Initial results from demcizumab in phase 1b trials demonstrated that it was safe and gave early indications of a durable anti-tumor response. Two midstage studies, DENALI and YOSEMITE, will give us a better indication of its safety and efficacy in first-line non-squamous non-small cell lung cancer and first-line pancreatic cancer, respectively. Clearly there's excitement surrounding anti-CSC treatments, because OncoMed also snagged a brand-name development partner for demcizumab in Celgene.
+
+4. Tumor hypoxia
+
+Lastly, researchers are looking at ways to use tumor hypoxia to their advantage.
+
+Hypoxia is a term used to describe a deficient level of oxygen reaching tissues. Within our bodies instances of hypoxia are quite rare since blood vessels that carry oxygen-rich blood tend to grow in tandem with new tissue. However, this is not the case with tumors. The rapid division of cells in a tumor can often outpace the growth of new blood vessels, leaving portions of a tumor hypoxic (i.e., starved for oxygen). If drugmakers can develop a therapy that targets hypoxic tissue, they could, in theory, minimizing damage to healthy tissue while more accurately targeting a tumor.
+
+One such company working on targeting tumor hypoxia is Threshold Pharmaceuticals (NASDAQ:THLD). Threshold's leading experimental candidate is evofosfamide, which is being examined in seven different clinical studies (mostly solid tumors).
+
+Arguably, the most important of those studies is its phase 3 MAESTRO trial, which is examining whether evofosfamide in combination with Gemzar provides a statistically significant survival benefit over Gemzar alone in metastatic pancreatic cancer patients. The five-year survival rate for pancreatic cancer between 2004 and 2010 was just 7%, albeit this is up from just 2% between 1975 and 1977 according to figures from the American Cancer Society. Thus, a successful result in MAESTRO would be very welcome. A top-line readout from MAESTRO is expected next year.
+
+I'm sure we'll see more in the way of innovation from drug developers in the coming years, but keep your attention squarely focused on these promising new treatment pathways.

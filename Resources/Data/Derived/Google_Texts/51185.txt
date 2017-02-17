@@ -1,0 +1,31 @@
+(CBS News) A CBS News analysis finds key tests to ensure the security and privacy of customer information on troubled Obamacare website fell behind schedule.
+
+A deadline for final security plans was delayed three times over the summer, and final top-to-bottom security tests never were finished before the launch.
+
+Special section: Obamacare kicks off
+
+All of that is adding to concerns about the safety of personal information on the site.
+
+Technology experts say this website did not go through proper security testing before it went live on October 1 -- and they've shared with CBS News several flaws that could expose personal information. Now we're starting to see real-like examples of what can go wrong.
+
+With critics openly mocking the Obama administration about problems with HealthCare.gov, officials insist on one thing: at least the website is safe. White House Press Secretary Jay Carney said, "Consumers can trust that their information is protected by stringent security standards."
+
+South Carolina attorney Thomas Dougall is not so sure. He said: "My information is out there, and I want it deleted from their website."
+
+Dougall and his wife signed up on the website in October, but over the weekend got a disturbing call about a man in North Carolina who also registered, and was shocked to get the Dougalls' eligibility letters, including their names and home address.
+
+"It's just a system that we've continually been told was secure and now I've found out it's not secure," Dougall said.
+
+A spokeswoman for the Department of Health and Human Services confirmed: "An incident involving the personal information of one consumer was reported...and we took immediate steps. We identified a piece of software code that needed to be fixed and that fix is now in place."
+
+"When consumers fill out their online Marketplace applications, they can trust that the information they're providing is protected by stringent security standards and that the technology underlying the application process has been tested and is secure. Security testing happens on an ongoing basis using industry best practices."
+
+But other problems are not fixed. Software experts tell CBS News they have identified multiple security issues, including with user names and passwords.
+
+We gave one technology expert the real HealthCare.gov user name of a CBS employee. Within seconds, he identified the specific security questions she selected to reset her password.
+
+Shawn Henry, president of the cyber security firm Crowdstrike Services and the former assistant director of the FBI's Cyber Division, said: "If somebody's got the ability to look at the source code and be able to reverse engineer that and identify what somebody's personal questions are, that should be of concern."
+
+On "CBS This Morning," CBS News correspondent Jan Crawford reported House Intelligence Committee Chairman Rep. Mike Rogers, R-Mich., tells her this is just one more reason the website should be taken down and tested for security vulnerabilities --and Democrats are also making that point -- concerns that will likely be raised when Health and Human Services Secretary Kathleen Sebelius testifies again before Congress on Wednesday.
+
+Watch Crawford's full report above.

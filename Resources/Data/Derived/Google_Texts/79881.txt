@@ -1,0 +1,29 @@
+Image of Geisinger Medical Center from Facebook.
+
+Geisinger Health System, a longtime leader in value-based care delivery, has enlisted Cerner to help broaden its population health capabilities.
+
+At the Cerner Health Conference in Kansas City on Tuesday, the Danville, Pennsylvania-based health system announced it will deploy Cerner's HealtheIntent data normalization platform for better access to analytics.
+
+In an earlier demonstration project, Geisinger had used the system-agnostic HealtheIntent to aggregate clinical and financial data from its core Epic electronic health record with claims and other data.
+
+[Also: Geisinger partners with Precyse, M*Modal for documentation, billing efficiency]
+
+Given that pilot's success, Geisinger will now integrate the Cerner technology as a core component of its unified data architecture platform, which traffics in both structured and unstructured patient information.
+
+"Leveraging our vast stores of data is one way we demonstrate our commitment to ensuring Geisinger's patients benefit from leading-edge advances in health care," said Geisinger CEO David Feinberg, MD, in a press statement. "Implementing HealtheIntent as part of our UDA will afford our providers unparalleled access to data and allow them to pursue new and exciting data analytics opportunities that will improve patient experience and patient outcomes."
+
+The cloud-based platform aims to help offer clinicians across the Geisinger system more easy access to data about their patient populations.
+
+[Also: Geisinger scores $3.5 million from National Institutes of Health to study genetics and disease]
+
+"While EHRs have successfully digitized some healthcare information, convenient and personalized care will only be achieved through integration of data from sources within and outside the EHR platforms – it is about time for the healthcare industry to begin taking advantage of cloud-based big data analytics," said Alistair Erskine, MD, chief clinical informatics officer at Geisinger, in a statement.
+
+The platform "enables providers to use meaningful data to proactively engage with patients beyond the office setting," said Matthew Swindells, senior vice president of population health at Cerner, in a statement. "It's this personalized care that will enable the transformation of the healthcare industry and allow for a deeper level of care continuity."
+
+Geisinger and Cerner, along with Geisinger spinoff xG Health Solutions, are also working together to develop SMART on FHIR applications to manage specific patient populations.
+
+"In a time when payment models are changing from volume to value, Cerner and Geisinger share a core belief that managing the health of populations requires access to information outside traditional healthcare domains," said Cerner CEO Neal Patterson in a statement.
+
+This first appeared on Helathcare IT News.
+
+Twitter: @mikemiliardHITN

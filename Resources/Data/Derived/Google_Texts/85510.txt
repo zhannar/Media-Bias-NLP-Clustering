@@ -1,0 +1,19 @@
+Cosmetologists and beauty experts have long been shouting from roof tops about the damaging effects prolonged sun exposure has on our skin. But wrinkles, rough skin, and sun spots are just the visible problems. According to new research, sun damage is much deeper than that and has the potential to cause skin cancer and cataracts by damaging the DNA. Understanding how this damage occurs is an important step toward managing it.
+
+The research by École Polytechnique Fédérale de Lausanne (EPFL) in Switzerland has found that DNA damage occurs as a result of degradation of proteins into smaller chunks by harmful UV rays. These small proteins or peptides degrade under UV light by first passing through a triplet quantum state, where they become reactive and cause more damage.
+
+This mechanism of degradation is explained in The Journal of Chemical Physics this week.
+
+In their experiment, the researchers took gas-phase peptides containing tyrosine or phenylalanine, light-absorbing amino acids found throughout our bodies, and subjected them to ultraviolet laser radiation. They then observed for long-term structural changes by using ultraviolet-infrared spectroscopy. They found that some peptides did not immediately degrade, but instead they formed intermediate triplet states.
+
+Under normal conditions, electron spins are paired — that is they point in opposite directions. But sometimes one of the electrons flip so that they both point each other. This is known as the triplet state. This state will affect molecular reactions of the peptides, making them potentially harmful, according to lead author Aleksandra Zabuga.
+
+“The triplet species may transfer their energy to nearby oxygen and produce highly reactive singlet oxygen or other free radicals. These radicals can in turn move around the cell and cause DNA damage that is much more dangerous than the fragmentation of peptides," she said in a statement.
+
+While this experiment was conducted in the gas phase, there has been previous research that has examined formation of the triplet state in liquid phase. But the harmful effects are not so pronounced in solution, say the researchers. Moreover, the presence of pigments melanin and kynurenine in our skin and eyes reduce the amount of UV radiation that reaches cells.
+
+"It is interesting to consider the fact that all of these protection mechanisms are external to the peptide. In other words, peptides do not seem to have very efficient means of protecting themselves," Zabuga said.
+
+The next step for the researchers is to assess how real-world environments like the presence of water molecules or additional amino acids impact the fragmentation of the peptides.
+
+Source: Zabuga A, Kamrath M, Boyarkin O, Rizzo T. Fragmentation mechanism of UV-excited peptides in the gas phase. The Journal of Chemical Physics. 2014.

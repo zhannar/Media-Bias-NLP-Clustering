@@ -1,0 +1,33 @@
+Anyone who is even vaguely familiar with economics knows that modern macroeconomic models did not fare well before and during the Great Recession. For example, when the recession hit many of us reached into the policy response toolkit provided by modern macro models and came up mostly empty.
+
+The problem was that modern models were built to explain periods of mild economic fluctuations, a period known as the Great Moderation, and while the models provided very good policy advice in that setting they had little to offer in response to major economic downturns. That changed to some extent as the recession dragged on and modern models were quickly amended to incorporate important missing elements, but even then the policy advice was far from satisfactory and mostly echoed what we already knew from the “old-fashioned” Keynesian model. (The Keynesian model was built to answer the important policy questions that come with major economic downturns, so it is not surprising that amended modern models reached many of the same conclusions.)
+
+Related: Is Poor Forecasting the Achilles Heel of Economics?
+
+How can we fix modern models? There are many avenues that need to be explored, from the need for micro foundations to how expectations are modeled. One of the biggest problems is the failure of these models to connect the real and financial sectors in a way that gives insight into why financial panics occur, how financial meltdowns impact the rest of the economy, and how policymakers can limit the subsequent damage.
+
+To gain insight into these important questions, modern models must overcome their reliance on the representative agent approach. This modeling technique misses the strategic interaction among agents within the financial sector, something I believe is important to fully understand financial panics. Let me explain.
+
+The macro economy is the aggregate outcome of the many, many decisions that individual households and firms make as they try to optimize their personal outcomes within the economic system. Thus, one approach to macroeconomics, the “micro founded” approach, is to model the profit and utility maximizing decisions of individual households and firms, and then sum across the individuals to obtain the macroeconomic implications. However, it turns out that aggregation across individual households and firms is fraught with difficult technical problems.
+
+Related: Can New Economic Thinking Solve the Next Crisis?
+
+But perhaps not all is lost. To avoid the difficult aggregation problems, why not just model the average/representative household or firm? If the macro economy is nothing more than the average behavior across all of the individual agents – for example, at any point in time, some prices are rising and others are falling, inflation is simply what is happening on average – why not simply track what the average household and firm is doing?
+
+While that may be an elegant response to a knotty technical issue, the elegance comes with a cost. As I noted above, with a single, representative agent the strategic interaction among agents is missing from the model. But the interaction among agents within the financial sector is one of the keys to understanding financial panics. Strategic interaction among agents is also one of the cornerstones of modern microeconomic theory, and if macroeconomists want to incorporate micro foundations into their models, then we must move beyond the representative agent modeling technique.
+
+There has been some progress on including heterogeneous agents into modern macroeconomic models, for example by allowing agents to have identical preferences but different information sets. But it is not at all clear that these models can be generalized sufficiently to capture the necessary heterogeneity and strategic interaction among agents. If not, then alternative modeling approaches will need to be considered.
+
+One such approach is called agent-based modeling. This work takes a cue from models in biology that attempt to capture, say, the aggregate behavior of a flock of ducks by modeling the simple rules that each duck uses to maintain its position within the group, and then working out the implications for the group as a whole. For example, the model might specify how each duck adjusts to the movements of ducks in its immediate vicinity, and include a rule for altering the order within the flock so that the lead, which takes more energy than other positions, changes every so often.
+
+Related: The Economic State of the Union in Seven Charts
+
+To connect this to macroeconomics, in the face of severe shocks of various kinds, under what conditions would these behavioral rules lead the flock to stray from its optimal path? Are there built-in mechanisms that would eventually lead the flock back to the optimal path? If it takes a long time for the correction to occur, and if ducks could talk, would there be some way for the duck policy leaders to intervene and change the rules temporarily so that the flight path correction happens a lot faster (saving the flock a lot of wasted energy)?
+
+Another approach is to forego micro foundations altogether and simply model the aggregates. The idea in this case is that some behavior is ‘emergent’ and cannot be understood by simply looking at the properties of the individual units. For example, if I know a mixture of sand contains equal parts of red and blue sand, how will I predict that from a distance – taking a macro view of the whole instead of the individual grains of sand – to the human eye the sand appears purple?
+
+It’s possible to model this by incorporating how human vision works into the model, but that would be very complicated to do and for many purposes, simply assuming the sand is purple and moving on from there will suffice. Similarly, in macroeconomics it may be best in many cases to skip the difficult problem of modeling individual agents and move directly to modeling of aggregates, particularly when the aggregate behavior is emergent.
+
+It’s impossible to predict how the search for a better model of the macro economy will turn out. But it is clear that a new approach is needed, one that can explain financial panics and their impact on the real economy much better than existing models.
+
+However, the search for better macroeconomic models eventually turns out, we need to get beyond the tribalism and in fighting that limits inquiry and impedes the search for the truth. What macroeconomics needs most of all right now are open minds and a willingness to consider new approaches to macroeconomic problems.

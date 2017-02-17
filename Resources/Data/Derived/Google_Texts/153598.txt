@@ -1,0 +1,43 @@
+Impact Of Population Health Management Systems On U.S. Healthcare
+
+New patient-focused approach driven by big data revolutionizes U.S. healthcare
+
+By Dr. Kamran Zamanian, CEO, and Lucas Parker, senior analyst, iData Research Inc.
+
+Population health management (PHM) systems enable payer and provider organizations to analyze the patient populations they represent in order to identify the most high-risk, high-cost patients and implement preventative strategies to improve the morbidity and healthcare usage patterns in these groups. That there is an acute need for these systems is well established. The U.S. spends more on healthcare than similar developed countries. Moreover, costs are rising. Between 2000 and 2012 healthcare costs as a percentage of GDP in the U.S. grew from 13.8 percent to 17.9 percent, according to the Centers for Medicare and Medicaid Services (CMS).
+
+For the past decade, and particularly in the wake of the Affordable Care Act (ACA), one strategy for addressing healthcare costs has been the expansion of risk-sharing healthcare provider organizations. In contrast to traditional fee-for-service providers, these organizations have ownership structures or participate in contractual agreements that place some of the financial burden of high-cost patients on the provider. These organizations thrive when patients, especially high-risk patients, are kept healthy.
+
+Expansion Of Risk-Sharing Healthcare Providers
+
+In general, there is a lot of noise in the market for population health management systems. Part of the problem is that payer and provider organizations are still figuring out exactly what tools they need to effectively track and influence the health outcomes of high-risk patients. Provider organizations in particular need time to experiment with alternative implementation strategies and to figure out which aspects of population health management are most effective. Until this type of learning can happen, payers and providers are forced to rely on the claims of venders. In a new market with a large and growing number of players, these claims must be taken with a grain of salt.
+
+Another factor contributing to the level of activity is that companies specializing in PHM often strive to provide a complete range of products to cover the whole spectrum of related services. However, each company has strengths in particular aspects of PHM. Some companies are especially strong in data analysis. Others have core strength in the ability to aggregate and normalize data. Some companies are strongest in the provision of services like network expansion. On a cursory level, it is often difficult to determine where the core strengths of particular companies lie, since most are actively marketing solutions across the entire range of PHM services.
+
+Evolution Of The Industry
+
+Notwithstanding noise in the industry, the market continues to mature with population health management systems becoming increasingly entrenched within the broader landscape of healthcare IT technologies.
+
+In the past two years, population health management platforms have become more closely integrated with electronic health record (EHR) systems. Almost all population health management venders maintain working relationships with EHR companies to make sure that data can be transferred between the two systems in a relatively efficient manner. Moreover, many EHR companies have begun developing population health management modules that can be used in conjunction with their systems. In 2013, Humedica, one of the leading population health management systems based on the use of clinical data, was acquired by Optum, the EHR vender and services unit of UnitedHealth Group. This event was seen by many in the industry as a signal that traditional EHR and analytics vendors see the potential for clinical data and population health management systems to provide value for their customers.
+
+The entrenchment of population health management extends well beyond EHRs. Population health management venders have formed an extensive network of connections, usually in the form of formalized partnerships, with companies in a diverse range of healthcare IT industries including: patient engagement and education; remote patient monitoring; revenue cycle management and business analytics; claims processing; data transfer; cloud-computing infrastructure; and a range of Platform-as-a-Service (PaaS) solutions for data sharing and cloud-based analysis.
+
+The second category of collaboration encompasses more enduring partnerships. Partnerships are generally formed when the services offered by each company complement one another in terms of the client’s overall healthcare IT requirements. One example of such a partnership is the ongoing collaboration between Phytel and Verisk Health. Phytel has core strength in providing patient outreach solutions and working with clinical data. Verisk Health is better at analyzing claims data. Phytel has additional partnerships with companies like Emmi Solutions who specialize in patient engagement. This network of partnerships allows the combination of Phytel, Verisk Health, and Emmi Solutions to meet the wide ranging needs of their clients. It should be noted, however, that the majority of partnerships are non-exclusive. Companies in the healthcare IT ecosystem are required to collaborate with a wide range of other companies depending on the systems that their clients are already using.
+
+Systems And Players On The Market
+
+Against this backdrop of evolving and increasingly integrated technologies, several companies have been making headlines for their particularly innovative approaches to population health management. We take a look at five of these companies in distinct but related segments of the population health management industry.
+
+Verisk Health specializes in the use of claims data. In particular, they make use of 835 inbound claims data, which is generally considered to be superior to 837 outbound claims data.
+
+Wellcentive’s systems are designed to provide the complete range of population health management services. The company’s platform handles data aggregation and normalization from multiple sources, risk analysis, patient stratification, and automated patient outreach.
+
+Ideal Life is a provider of remote health management systems that include remote monitoring devices and clinical productivity tools to help organizations manage care processes and data generated by their devices.
+
+Welltok is the provider of the patient engagement platform CaféWell, a health optimization platform that helps payers and health systems connect with their patients and members — to reward them for healthy behavior. The system is designed to integrate all of the health promotion assets that a client organization has — including PHM systems, patient engagement systems, care managers, health coaches, and incentive programs — and engage patients with them.
+
+Emmi Solutions was motivated to produce a range of patient engagement tools by the observation that patients remain an underutilized resource in healthcare.
+
+Summary
+
+Noise in the market for population health management solutions is likely to die down. Based on the success and failure of various pilot projects, they will contribute to a growing consensus on what population health management looks like in practice. Industry participants, particularly executives at leading population health management firms, anticipate concentration of the market over the next five years. It is expected that leading vendors in different segments of population health management will merge with one another to provide top-end, comprehensive solutions.

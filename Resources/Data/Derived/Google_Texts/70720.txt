@@ -1,0 +1,43 @@
+Radiology’s focus on the use and efficacy of medical technologies started long before the launch of the Affordable Care Act in October, but it’s now more important than ever for providers to push for the most effective use of these tools.
+
+“We’ve all talked a lot about the value of radiology and radiologists and whether all the money spent on technology will improve the value of care we provide,” said Safwan Halabi, MD, director of imaging informatics at Henry Ford Hospital, at this year’s RSNA meeting in Chicago. “The onus is really on us to show how to leveraging these technologies can enable us to provide even greater value.”
+
+In reaching that goal, though, it’s imperative that the industry be aware of the various, ongoing legislative activities that could affect how these technological tools are used, he said.
+
+Clinical decision support
+
+Despite the long-standing success of radiology benefit management (RBM) companies, the industry is trying to pivot away from these organizations toward more internal control over imaging appropriateness and utilization management, Halabi said. To do this, facilities are turning to clinical decision support (CDS) systems.
+
+“The difference between a CDS and an RBM is that clicking a button with a CDS and clinical physician order entry is a lot cheaper than making a phone call to a real person,” he said. “It could save millions of dollars.”
+
+The body of literature showing the effectiveness of CDS systems is growing, he said, and the ACR continues to lobby the U.S. Congress for a mandate that practices and hospitals individually implement some type of CDS. There are a wide variety of CDS systems available, including the ACR’s version, ACR Select.
+
+Ultimately, Halabi said, the hope is that CDS systems will guide referring physicians and facilities to order the most appropriate exam for each patient, eliminating the need for preauthorization from an RBM. Already, there are legislative efforts in Wisconsin, Minnesota, and Boston that would require insurance payers to accept CDS use in lieu of RBM preauthorization.
+
+The federal government has also taken steps in this direction with the Oct. 30 release of a policy draft from both the U.S. House and Senate that would penalize providers who don’t consult appropriateness criteria before ordering an imaging study and would mandate some type of CDS for referring physicians who are outliers when compared to their peers.
+
+There are challenges to reaching this widespread CDS use, however, he said. Many physicians ask other providers, such as nurses or physician’s assistants, to order imaging studies, and those individuals could have limited knowledge of the patient’s medical history or could be unaware of the need to follow appropriateness criteria.
+
+“The train is coming — these things are already appearing in legislation,” Halabi said. “We will soon be able to determine whether we as clinicians have to not only support the use of CDS but implement one, as well.”
+
+Dose documentation laws
+
+There are also efforts underway at the state level to get radiologists more directly involved with double-checking dose levels before a study begins, and California is leading the charge. Prompted by a 2010 incident where a clinic in Cedar Sinai Medical Center accidentally overdosed hundreds of patients receiving CT scans over an 18-month period, a California law now requires the radiologist to be responsible for recording the dose level.
+
+There are two main ways for radiologists to comply with the law, said Jonathan Breslau, MD, president and chairman of the board at Radiological Associates of Sacramento. Providers can either catch inappropriate dose levels in dictated reports or they can use a structured reporting system that requires dose information to be included before the radiologist can sign off on the report.
+
+The result, he said, has been significant. Of the 150 affected radiology practices, 45 percent report an increased awareness of appropriateness criteria, and 20 percent have used this information to change their scan parameters. There is still room for improvement, but these results are a move in the right direction, he said.
+
+“The fact is that radiologists should own this, and they should be thinking about this all the time,” said Breslau, who is also a council steering committee member for the ACR. “It should be viewed as something positive. We have an important tool; it’s lifesaving, and it can influence care dramatically. We need to be responsible stewards of how it’s implemented.”
+
+Impact on mobile medical technology
+
+Earlier this year, the radiology community waited with bated breath for the FDA to release its guidance on the use of mobile medical apps for smartphones and tablets. This direction was released in late September, defining mobile medical apps and addressing what must be done to make them safe and effective.
+
+However, current legislation in the U.S. House of Representatives could strip the FDA of its regulatory authority over medical mobile apps. Known as the SOFTWARE Act — the Sensible Oversight for Technology Which Advances Regulatory Efficiency Act — the legislation seeks to provide regulatory clarity on mobile medical apps, CDS, electronic health records, and software upgrades.
+
+“As it’s written, the SOFTWARE Act says the FDA lacks the necessary tools to oversee mobile medical apps without overstepping its authority,” said David Hirschorn, MD, director of radiology informatics at Staten Island University Hospital. “But, the bill wouldn’t give the FDA the tools to assert that authority. Rather it tailors and curtails that authority.”
+
+If passed, he said, the bill would benefit vendors the most, allowing them to create apps and market them as medical tools without having to work with the FDA. It would also mean the FDA could exercise no regulatory control over CDS systems.
+
+With no companion bill in the U.S. Senate, though, the SOFTWARE Act is unlikely to move forward in the near future, Hirschorn said. He recommended radiologists take advantage of this time to contact their legislators to share their insight on the importance of the FDA’s regulatory powers.

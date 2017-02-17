@@ -1,0 +1,57 @@
+Electronic records enable companies to push sick employees into healthier lifestyles. Big brother is watching your waist
+
+Data mining is digging into your health.
+
+Actuaries predict your life span. Banks track your spending habits. Now, your employer can tell whether you’ll have diabetes a year from now.
+
+Story Continued Below
+
+And the federal government is encouraging businesses to use that information to tell you how to eat and exercise, to “data mine” for your own good and the employer’s bottom line.
+
+Medical records, social media, credit card records and new activity tracking gadgets like Fitbits are being used to assess your riskiness to yourself and to the cost-conscious health care system.
+
+( Sign up for POLITICO’s Morning Tech tip sheet)
+
+Aetna is among the companies paving the way. It’s using data analytics and interventions on its own 50,000 employees — and about 40 of the companies it insures are using them, too.
+
+The data explosion — some would say intrusion — is being fueled by trends in the private sector and by federal policies, including elements of Obamacare.
+
+The Affordable Care Act gives companies incentives to provide “wellness programs” like prevention screenings or help to quit smoking. And workers can get rewards if they participate, such as discounts on insurance premiums or gym memberships.
+
+The 2009 HITECH Act gives cash to doctors who switch from paper to electronic records — which create a home for the health data.
+
+The health law also banned insurers from excluding people who were sick or likely to become so — those with pre-existing conditions. One cost of admitting “high risk” patients to the health insurance pool, it seems, is more snooping into their lives — and ours.
+
+“Health care,” says Kulleni Gebreyes, director of the Health Industries Advisory group at PwC, “is doing credit scoring now.” But instead of scoring your credit, health data firms are actually scoring you.
+
+( Also on POLITICO: Full health care policy coverage)
+
+Used together, the electronic medical records and wellness promotion enable companies to find their sickest, most expensive employees, and push and cajole them into healthier lifestyles.
+
+The wider use of health care data analytics raises many questions. Does it work? Is the intrusion ethical? Where’s the line between encouragement and coercion?
+
+One hospital employee, who wished to be identified only as Martin, said his employer initially offered a break on health insurance costs in exchange for information about his weight and whether he smokes.
+
+Then the demands grew.
+
+“Now that’s not enough. They want us to use a Fitbit that monitors how many steps we take each day, how many fruit and vegetables I eat. It’s all too much. It’s none of my employer’s business,” he said.
+
+But they are increasingly making it their business, with the help of data algorithms.
+
+Stanford University researchers this month published an algorithm that allows them to predict a diagnosis of clinical depression up to a year in advance, based on information from a patient’s electronic health record.
+
+In another study this month, scientists used claims data and electronic health records to predict which of the 37,000 employees at an Aetna-insured multinational corporation would develop diabetes-related problems within a year. They were nearly always right.
+
+IBM teamed up with a Virginia health system, doing the analytics to help identify patients at risk of heart failure.
+
+Parts of the ACA financially reward clinicians for health outcomes, instead of just paying for individual procedures, part of the gradual broader shift away from fee-for-service medicine. These new incentives make it valuable for everyone in the system — insurers, employers, hospitals and doctors — to know who to target for preventive care interventions.
+
+So health plans, insurers and businesses employ data crunchers, like Inovalon, that amass vast amounts of information that can be used to predict which patients are likely to run up big medical bills.
+
+Insurers like Aetna or Cigna have long used health claims to predict illness mortality. But now they can plug in information from electronic health records, which are spreading through hospitals and physician practices across the country, sped by $24 billion in government payments.
+
+“The adoption of electronic health records has increased the amount of information available to employers and providers and health plans,” says PwC’s Gebreyes. “You can mine the data to get the answers and make correlations you couldn’t make before. And with the correlations, you address the root causes.”
+
+An emerging trend is to add “behavioral” data — what the patient does outside the doctor’s office. Some companies provide employees with mobile devices such as Fitbits, which enable people to measure how much they are walking and eating, and other health-related facts. Feeding all that data into the electronic medical record allows providers to keep tabs.
+
+CORRECTION: Corrected by: Libby Isenstein @ 07/21/2014 10:05 AM CORRECTION: This story has been updated to correct where Inovalon is based.

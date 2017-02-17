@@ -1,0 +1,7 @@
+One of the truly amazing (and disheartening) things about the Great Recession and its aftermath has been the continuing insistence of many economists that it’s somehow a supply-side slump, driven by the evils of Obamacare or something. This tends to come from people who view stagflation in the 1970s as having permanently refuted all things Keynes.
+
+So I guess it’s worth pointing out repeatedly that the recent slump shows all the hallmarks of a demand-side shock; in particular, rising unemployment has been associated with falling inflation — the opposite of stagflation. Here’s an international comparison I happen to have produced for other purposes, comparing the change in unemployment from 2007 to 2013 with the change in inflation over the same period:
+
+Photo
+
+An interesting point: if you fit a linear equation to these points, the slope of the implied Phillips curve is -0.16 — which is the same number the influential recent paper by Kiley (pdf) finds using combined time series and cross-section on US metropolitan areas. Just a coincidence, probably, but I had expected the international relationship to look weaker.

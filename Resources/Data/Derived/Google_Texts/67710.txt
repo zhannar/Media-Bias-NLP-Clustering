@@ -1,0 +1,11 @@
+A trio of judges Tuesday heard the American Civil Liberties Union’s challenge that the federal government’s mass collection of telephone metadata is unconstitutional.
+
+Media outlets have been quick to point out the skepticism of the judges—from the 2nd U.S. Court of Appeals in New York—that it was lawful for the National Security Agency (NSA) to engage in the mass collection of telephone metadata from people (including American citizens) under no suspicion of criminal or terrorist activity. Reuters reports:
+
+Judge Gerard Lynch, one of three judges who heard the arguments, said it was "hard for me to imagine" Congress had envisioned such a sweeping effort when it passed an expansion of anti-terrorism powers known as the Patriot Act after the attacks of Sept. 11, 2001. Stuart Delery, a lawyer for the Justice Department, told Lynch in response that Congress was fully informed when it voted to reauthorize the Patriot Act twice. The two other judges, Robert Sack and Vernon Broderick, also expressed skepticism about the program's legality, although it can be difficult to infer judges' eventual rulings from questions at oral argument. The panel could take several months to issue a decision.
+
+Note that this case only covers telephone metadata, not online metadata, e-mail information or anything else the government calls metadata, though the judges expressed concern that the government’s arguments could be expanded to other areas like financial records. In August, the documents snagged by Edward Snowden introduced us to ICREACH, the search engine the federal government created to help agencies navigate all the information they’ve been collected. We discovered through these documents that the feds have added dozens of new forms of metadata, like passport information, visa application records, and cellphone location data, to the list of information it is collecting. But as this case winds its way toward the Supreme Court—and let’s face it, eventually the Supreme Court is going to have to tackle this issue (another reason to thank Edward Snowden)—the nature of the court’s ruling could affect more than just phone metadata collection.
+
+If you’ve got two hours to spare, the hearing was televised on C-Span and can be watched here.
+
+Below, Lily Tomlin breaks it all down:

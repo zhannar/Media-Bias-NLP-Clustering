@@ -1,0 +1,17 @@
+Brain tumor surgery is an incredibly delicate procedure since surgeons must protect healthy brain tissue while removing all cancerous cells. Normally, doctors would have to make the decision between what’s healthy and what’s cancerous quickly, and based only on what they see. Thanks to advances in science, however, there’s now a handheld microscope that can look at the brain on a cellular level while inside the operating room, and allow surgeons to decide more confidently where to stop cutting.
+
+"Surgeons don't have a very good way of knowing when they're done cutting out a tumor," senior author Jonathan Liu, assistant professor of mechanical engineering at the University of Washington, told Phys.org. "They're using their sense of sight, their sense of touch, preoperative images of the brain — and oftentimes it's pretty subjective."
+
+Development of the microscope involved a collaborative effort by the University of Washington, Memorial Sloan Kettering Cancer Center, Stanford University, and the Barrow Neurological Institute. It’s about the size of a pen, and it can produce high-quality images at faster speeds than other devices currently on the market, according to researchers. Producing high-speed images is important because, normally, testing cells for cancer involves sending them to a pathology lab, where they cut up and investigated under a regular microscope — a time consuming process that can lead to adverse events in patients.
+
+The microscope works by implementing microelectrical-mechanical mirrors to scan the tissue line-by-line. Then it builds the image from these scans. This scanning speed also compensates for the shaking of the hand holding the microscope — if scanning was any slower, even the slightest tremor of the hand would render the images blurry.
+
+"Being able to zoom and see at the cellular level during the surgery would really help them to accurately differentiate between tumor and normal tissues and improve patient outcomes," Liu said.
+
+Aside from faster results, the microscope can also illuminate opaque tissue so doctors can see through it. The researchers also believe it does a great job at balancing various imaging factors, like image resolution, field of view, depth, imaging contrast, and processing speed — all aspects of imaging that may be sacrificed when miniaturizing microscopes.
+
+"Trying to see beneath the surface of tissue is like trying to drive in a thick fog with your high beams on — you really can't see much in front of you," Liu said. "But there are tricks we can play to see more deeply into the fog, like a fog light that illuminates from a different angle and reduces the glare."
+
+The researchers hope to test the microscope in cancer-screening within the next year. If the tests are successful, it’ll then move on to being used in surgeries and other procedures within another four years. In addition to looking at tumors, the researchers also say it can be applied in dentist’s and dermatologist’s offices for identifying suspicious markings that may be cancerous in the mouth or on the skin.
+
+Source: Liu J, et al. Miniature in vivo MEMS-based line-scanned dual-axis confocal microscope for point-of-care pathology. Biomedical Optics Express. 2016.

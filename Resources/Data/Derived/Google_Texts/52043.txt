@@ -1,0 +1,25 @@
+From quiz show “Jeopardy” to health care, IBM’s Watson supercomputer will soon be used by Mayo Clinic to match cancer patients with clinical trials in an attempt to find help for their illness. Starting early next year, the artificially intelligent computing system that can read natural language will enroll patients with colorectal, lung, and breast cancers in clinical trials, expediting what is often considered a slow and inefficient process. The clinic unveiled the partnership on Monday during its annual Transform conference in Rochester, Minn. Members of both IBM and Mayo Clinic’s teams are confident that the supercomputer will bring about significant change to the patient matching process for clinical trials.
+
+“Integrating Watson into the care delivery system has the potential to transform how we take care of patients,” Nicholas LaRusso, a gastroenterologist at the clinic and the Watson project lead, told FoxNews.com. “Watson can fit into a flow of how we interact with patients, it can help aggregate and organize data, and will provide input required with diagnosis and management, and ultimately become, in my opinion, a member of the provider team.”
+
+For physicians at institutions like Mayo Clinic, Watson could prove an indispensable partner in administering patient treatment. According to a Mayo Clinic press release, 170,000 patient studies are being conducted worldwide at any given time, with 8,000 of those being done at the clinic alone. Processing clinical trials can be an arcane process – it is done manually, which involves sorting through patient records to ensure that proper matches are made. Watson could see this process shortened considerably, with matches being made within seconds. As a result, the clinic anticipates patient enrollment to increase from five to 10 percent.
+
+“Matching is such a hard and cumbersome process,” Sean Hogan, IBM vice president of healthcare, told FoxNews.com. “The process can take a long time. This collaboration with Watson is all about Mayo’s continued dedication to putting patients first and supporting clinicians in fulfilling their goals. The response so far to Watson has been great – the clinicians are really excited.”
+
+Just as it did when competing on Jeopardy, Watson is being “fed” as much information as possible to expand its “knowledge corpus,” Hogan said.
+
+Experts from Mayo Clinic are providing Watson with information on all clinical trials both at the clinic and in public databases like ClinicalTrials.gov. Due to its ability to process natural language, the computing system is learning how to analyze both trial requirements and patient records.
+
+For LaRusso, Watson’s partnership with Mayo Clinic is part of the many “momentous changes going on in health care.”
+
+“We spend three trillion dollars a year in health care and we don’t get the results or outcomes that we pay for,” LaRusso said. “From changes spurred by the Affordable Care Act that have catalyzed changes and the availability of technology, from things like apps that allow you to look at health information, to devices that track various physiological changes – technology has already and will continue to be part of how we take care of patients. Watson is part of that.”
+
+LaRusso said that one of the biggest challenges that physicians face is the task of managing large quantities of data. In the future, as medical lab results could include rapid “genomic analyses,” LaRusso said that assisted technology like Watson could “help organize and aggregate huge amounts of data” that would be impossible for a human to process efficiently.
+
+Watson’s ability to “get better at what it’s doing” will enable it to take on more complex data sets, LaRusso added.
+
+While Watson will only be matching cancer clinical trials, LaRusso said that he envisions the computing system working to match patients with other conditions. Hogan added that Watson could also make it much easier to find trials for patients with rare conditions.
+
+Does Watson’s presence at Mayo Clinic offer a look at a future where cognitive technology is a part of all health care facilities across the board? Hogan thinks so.
+
+“Look at the trajectory of how medicine has advanced at institutions like Mayo that push the frontier further,” he said. “The driving motivation of this kind of technology is to continue to put the patient first.”

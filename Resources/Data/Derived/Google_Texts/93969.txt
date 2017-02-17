@@ -1,0 +1,19 @@
+Security events in U.S. hospitals cost an estimated $1.6 billion each year. Breaking it down by incident, hospitals should expect to hand over on average $810,000 per security breach, which occurs at nearly one in five healthcare organizations nationwide.
+
+Most healthcare organizations nationwide, some 61 percent to be exact, reported a security related incident in the form of security breach, data loss or unplanned downtime at least once this past year, according to a new report by MeriTalk, a public-private organization working to improve government information technology.
+
+The bulk of those security breaches, 58 percent, result from malware and viruses; outsider attacks account for 42 percent; and physical security, which includes equipment loss or theft, accounts for 38 percent.
+
+It's not just the breaches, however, that are costing healthcare organizations some serious cash. It's also hardware and software failures that can result in big time data loss and unplanned outages.
+
+[See also: Data security and breach prevention.]
+
+Data loss has affected nearly one in three healthcare organizations this past year, costing on average $807,571 per incident. The biggest culprits? Hardware failure at 51 percent; loss of power at 49 percent and loss of backup power at 27 percent.
+
+What's more is providers know they're not prepared. Most are even confident they won't be able to restore 100 percent of the data required by SLAs following an emergency. The majority -- 82 percent - say their technology infrastructure is not fully prepared for a disaster recovery incident. Resultantly, some are working to change that.
+
+"Healthcare organizations are making significant IT investments to transform IT infrastructure and ensure that patient information is secure, protected and highly available," said Scott Filion, general manager, global healthcare at EMC Corporation -- the report underwriter -- in a Feb. 3 statement. "Healthcare organizations have always focused on information security, but today they must do more to protect data and ensure accessibility to meet ARRA HITECH HIPPA requirements."
+
+Despite these report findings, only a moderate number of healthcare organizations indicated they are taking the necessary steps to prepare and prevent security events in the future. For instance, only 42 percent said they were moving forward with encryption initiatives, and 44 percent said they were getting single sign-on and authentication for Web-based applications and portals.
+
+Moreover, despite the uptick in HIPAA privacy and security breaches this past year in addition to HHS' Office for Civil Rights Director Leon Rodriguez promising a comprehensive audit program in 2014, only 32 percent are moving forward with security analytics to help with breach prevention.

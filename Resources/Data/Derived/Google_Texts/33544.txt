@@ -1,0 +1,37 @@
+It was 1999, and I was speaking at a prestigious academic center’s ‘Innovations in Dermatology’ symposium. I presented work we had done on a web application that would allow a non-dermatologist (primary care doctor or other front-line provider) to upload images of a patient’s skin as well as some history. Subsequently, a dermatologist could review both the history and the images and enter a diagnosis and recommendations on the same website. My talk was greeted with intense scorn by one audience member (“You are cheapening our specialty,” he told me) and general lack of enthusiasm by most of the others.
+
+Fast-forward to 2014. Dermatologists share digital images via email and a number of social networks thousands of times a day. If the specialty is cheapened, I can safely say it is not due to this activity. So far, we’ve not created any ‘cutaneous radiologists’ which was another fear of nay sayers at the time. In fact, the American Academy of Dermatology has an officially sponsored software application that members can use to provide volunteer teledermatology services to underserved clinics, and is planning on promoting this concept in the coming year. What a difference 15 years makes!
+
+I use this story to set context for a thoughtful discussion on one of the most controversial telemedicine questions of our current time. Is it safe and effective care for providers to evaluate and prescribe for patients that they’ve never met face-to-face?
+
+Join me in thinking through this question.
+
+1. Most health care requires authentic relationships.
+
+You don’t have to go very far to find graphic stories about folks who form relationships online. These relationships become quite ‘close,’ then the parties meet face-to-face and find that one or both was being highly deceptive with their online persona. It seems safe to conclude that the possibility of fraud in online relationships is much higher than in person. Most clinicians feel that forming a relationship with their patients is a core part of providing quality health care. Until this authentication challenge is solved, it’s hard to imagine many health care interactions with new patients being conducted in an online environment. Some of you may be thinking that ubiquitous, embedded videoconferencing solves this and certainly adds a great deal of value beyond text-based interactions. But I don’t know if we can say applications like Skype and FaceTime are the complete answer.
+
+2. How do we define quality care in this new environment?
+
+When you go to a hotel, you expect clean sheets and towels, a warm shower, a bed you can sleep in, and comfortable room temperature. What are the same minimum quality requirements for an initial doctor’s visit? As doctors, we’re taught that this includes a complete medical history and physical exam relevant to our specialty. As a dermatologist, I am not expected to do a complete neurological exam (you should be thankful for that) but unless you decline, I am expected to do a complete skin exam, even if you come in for a 4 X 4 cm patch of poison ivy on your arm. This is something that I really cannot do online, even with current state-of-the-art technologies.
+
+The idea of allowing patients to upload images of body moles or facial acne for evaluation by providers they have not ever met gives many of my colleagues great consternation. (Even more controversial are image analysis scientists who are creating applications that can analyze these images without human intervention. More on that phenomenon at a later date.) My colleagues fret that a patient will send them an image of a mole that is benign, but ignore a mole that is an incipient melanoma. To me, this seems less onerous than the authentication issue. Patients are capable of managing their own risks when these risks are spelled out. For example, it seems perfectly reasonable to alert an individual that she may be missing an important lesion if she chooses to submit an image over the Internet, rather than come in for a complete exam. A closely related fear or objection is one of physician liability. In this context, the doctor is not only afraid they will provide substandard care by not doing a complete physical exam, but that they may be held liable for that omission. Once again, spelling out that a patient is taking accountability for those aspects of his care not addressed in an online interaction seems reasonable to me. I think the liability concerns are overstated.
+
+3. Is the technology up to the task at hand?
+
+There is not a general yes/no answer to this question. It is medical problem specific. The answers are in the realm of clinical research. Taking you back again to the late ‘90s, we (and many others) did painstaking clinical studies to empirically test whether a set of digital images is of sufficient quality to be a diagnostic tool in lieu of an in person exam. There now exists a body of literature that demonstrates this equivalency, with the possible exception of some pigmented lesions. We also carefully examined the feasibility that patients could take their own, clinically accurate, facial images of acne. Are there other examples? Can a psychiatrist do an initial evaluation of a patient via interactive video? I am not up on this literature, but my guess is that it has been studied and the answer is yes. There are probably a few other examples as well.
+
+Where does this leave us in my logical analysis? To provide a quality care experience online without having met the patient in person, I content that the following criteria would need to be met:
+
+1. Identify a medical problem that has a diagnostic data set, easily and reliably acquired by a consumer/patient.
+
+2. Assure that the patient is capable of understanding that the online interaction is problem specific and may carry risks, particularly for omission of care involving other health problems.
+
+3. Assure that the treatment decisions for the specific condition at hand are algorithmic and do not require an authentic relationship (i.e., the problem is transactional or of low emotional value to both provider and patient).
+
+This is exactly what some folks have done with two fledgling companies, Direct Dermatology and DermatologistOnCall.
+
+They accept images of facial acne and if they are comfortable making a diagnosis, will prescribe a limited array of therapeutics for these patients. Both are gaining some traction, indicating that there is consumer demand. Interestingly, since acne images involve the face, it makes it much less likely that an individual can assume a fraudulent online personality. And even if they decided to have their friend send in facial images what would be the point — to clandestinely procure a prescription for a topical antibiotic? I’d say there is not much risk on the authentication side in this model.
+
+Another interesting comparison is the rise of retail clinics. These were initially scorned by primary care providers, but consumers are drawn to the convenience. The repertoire of problems is limited, as are the therapeutic options. Patients are made aware of these limitations and the associated risks.
+
+Perhaps Direct Dermatology and DermatologistOnCall are the vanguard of a new set of medical services that are like retail clinics but delivered in an online environment. I’ll watch their evolution with great interest. And I think the risk of cheapening our specialty is low.

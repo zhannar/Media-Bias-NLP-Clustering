@@ -1,0 +1,49 @@
+Tony Caldwell and Christopher Robertson
+
+March 3, 2015
+
+Editor’s note: This post is part of a series stemming from the Third Annual Health Law Year in P/Review event held at Harvard Law School on Friday, January 30, 2015. The conference brought together leading experts to review major developments in health law over the previous year, and preview what is to come. A full agenda and links to video recordings of the panels are here.
+
+The Physician Payments Sunshine Act, a provision in the Affordable Care Act, seeks to increase the transparency of the financial relationships between medical device and drug manufacturers, physicians, and teaching hospitals. Launched on September 30, 2014 by the Centers for Medicare & Medicaid Services (CMS), the Open Payments database collects information about these financial relationships and makes that information available to the public.
+
+As of early February, the Open Payments database includes documentation of 4.45 million payments valued at nearly $3.7 billion made from medical device and pharmaceutical manufacturers to 546,000 doctors and 1,360 teaching hospitals between August 2013 and December 2013. This included 1.7 million records (totaling $2.2 billion) without the names of physicians or teaching hospitals who received the payments.
+
+These records were intentionally de-identified by CMS because the records had not been available for review and dispute for 45 days, or because the records were not matched by CMS to a single physician or teaching hospital due to missing or inconsistent information within the submitted records. Future reports will be published annually and will include data collections from a full 12 month period.
+
+In a back-of-the-envelope calculation, however, one can infer that the $3.7 billion over five months would translate to about $8 billion annually. By our calculation, that’s a lot of money: more than one dollar for every person on Earth. It’s more money than was spent campaigning during the 2012 U.S. election cycle. If that spending was divided evenly over the roughly 1 million physicians in the U.S. it would yield more than $8,000 each. And if distributed to each American, it would be about $25 each. So, if nothing else, the Sunshine Act is useful in illustrating the full scope of the phenomenon. It turns out that industry side-payments to physicians are an important part of health care finance in America.
+
+The law requires disclosure of all “transfers of value” worth more than $10, and the database breaks down payment categories such as royalties, meals, promotional speaking, and consulting fees, which may be concerning to patients, alongside those payments linked to research and physician ownership interests of stocks, stock options, and any other ownership investments in medical device and drug manufacturing companies, which may be less concerning.
+
+Early scholarly analyses show that the largest payments, often in the millions of dollars, went to orthopedic surgeons in the form of royalties for inventing surgical products. However, most payments (84 percent) were small and the most frequent type were for meals and beverages. Another scholarly analysis suggests that consulting fees (42 percent) made up the largest category of expenditures, by amount.
+
+Recent Developments
+
+On December 19, 2014, CMS disclosed an additional 68,000 new records documenting $200 million in payments that were previously not included in the initial September 30th database launch, as some of these records were still under dispute as of September 11, 2014, and because some records were “inadvertently excluded” from the publication of the database.
+
+A total of 190,000 records representing $514 million in payments were not initially published for proprietary concerns, and another 9,000 records were not initially published due to unresolved disputes by the publication date. These $200 million newly disclosed payments reflect close to half of the previously withheld payment information.
+
+The data currently available online reflect 2013 payments. Beginning this month, physicians and teaching hospitals, as well as applicable manufacturers and group purchasing organizations, are now able to register or recertify their registration in the Open Payments system and begin data submission for any payments or transfers of value that occurred in the 2014 calendar year and submit corrected 2013 data (if needed).
+
+March 31, 2015, is the deadline for all submissions of 2014 data. Last year, only 4.8 percent of physicians and 29.8 percent of hospitals vetted the Open Payments information published about them, despite strong encouragement from the American Medical Association and other medical trade groups to do so.
+
+Starting June 2015, CMS will refresh the 2013 data publication, removing de-identified files, and replacing them with corrected, identified files representing 2013 data representing all reported payments and transfers of value from 2014. Thus, by June 2015, Open Payments will include 1.7 million additional identifiable records reflecting previously de-identified data from 2013, corrected 2013 records that were previously under dispute, and another 10 million records from the 2014 data.
+
+Critics and Alternatives
+
+Critics of the first database point out that it is difficult to navigate, especially when trying to find individual physician- or hospital-specific data. Flaws in the data, including thousands misspellings in product names, have made analysis more difficult to utilize.
+
+ProPublica’s Dollars for Docs has maintained an alternative database based on other data and recently developed an app, rolled out this month alongside The New York Times blog, The Upshot, to identify the drugs and medical devices that were most heavily promoted to doctors. They found that the highest payments were made promoting “me-too” drugs that were little different than previously available drugs in the market.
+
+Additionally, The New York Times reported that some of the doctors paid the most to promote one drug, Insys Therapeutics’s Samsca, had disciplinary or legal troubles. More systematically, the data will also be valuable to researchers, and the holy grail will be to link up the industry payments to physician prescribing behavior, and to figure out which way (if any) the causal arrow runs.
+
+Congressmen Michael C. Burgess, M.D. (R-TX) and Peter DeFazio (D-OR) recently introduced the Protect Continuing Physician Education and Patient Care Act, which would exempt from Sunshine Act reporting those educational materials and transfers that relate to continuing medical education. The bill “would allow physicians full access to the most up-to-date educational materials like textbooks and journals so they may deliver the best care.” It is not precisely clear how a disclosure mandate reduces access to education.
+
+The Way Forward
+
+It is too early to determine the full impact of the Physician Payments Sunshine Act on the health care marketplace. There will be specific responses from providers and hospitals, who seek to provide context to payments received. Future research will likely seek to answer questions regarding how the law affects conflicts of interest, prescribing behavior, provider choice (both physician and hospital), and industry access to providers.
+
+There are larger questions about whether disclosure is the right solution to the problem of conflicting interests. One of us (Robertson) has reviewed the literature, which suggests that these financial relationships likely bias physician prescribing behavior — which is presumably why the manufacturers make these payments.
+
+On the other hand, a consulting relationship may signal that the physician has special expertise. So, it is not precisely clear how patients should use these disclosures, even if they receive the information and make sense of it. Prior empirical research, including some of our own, suggests that disclosure mechanisms are ineffective if not counterproductive. Accordingly, many people are questioning whether sunlight really is the best of disinfectants. Still, the increasing scrutiny may cause some companies and some doctors to avoid these troublesome relationships altogether, as some are already beginning to do.
+
+A more robust solution will be to ban certain financial relationships in their entirety. While organizations such as the National Physicians Alliance and the American Medical Student Association have advocated reducing or completely eliminating financial relationships with industry, others, such as the Association of Clinical Researchers and Educators, have defended industry-physician collaboration as a necessary element to drive innovation. It is of course easier to defend a research relationship than a catered lunch for office staff.

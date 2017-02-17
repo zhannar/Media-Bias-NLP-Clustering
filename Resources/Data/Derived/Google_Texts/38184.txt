@@ -1,0 +1,65 @@
+Uber says many of its drivers prefer being contract workers to full-fledged employees, a blunt response to a raging debate among on-demand startups. Of course, that answer suits Uber very well, since its business is founded on that very idea — to say nothing of its purported $40 billion value.
+
+And that’s why it’s currently fighting a lawsuit that would otherwise force it to reclassify its California drivers as employees.
+
+So what would it cost the company if it lost its suit? Uber declined to comment *, but Re/code built a rough model with the help of ZenPayroll, the startup that automates paycheck systems for small- and medium-sized businesses. We calculated that Uber could pay an additional $208.7 million a year if it had to reclassify its California drivers.
+
+It breaks down to about $89.1 million for payroll taxes for 45,000 drivers working 20 hours a week in the state, and roughly $119.6 million per year in workers’ compensation insurance. Altogether, it’s $4,637 per employee in California.
+
+That doesn’t include the cost of gas or vehicle repair, which Uber would be legally required to cover under California Labor Code Section 2802.
+
+We narrowed the parameters to just California, since that’s where a big chunk of its drivers work and because each state has different tax codes. Since Uber doesn’t publicly release how many drivers it has in California, we used some available data to make estimates and worked with SherpaShare, a third-party application that helps ride-share drivers track their work (see below for our methodology).
+
+That additional $209 million in annual costs needs to compare against Uber’s revenue, which isn’t public. The most recent reported numbers put Uber’s sales at a $10 billion run rate through this year, and since it pays drivers 80 percent of the fare, Uber’s net annual run rate would be about $2 billion.
+
+Looking just at California (which is likely still its largest driver base in the U.S.), the added cost of making drivers employees would account for a little over 10 percent of Uber’s net revenue, not a small portion. But it’s not insurmountable, especially given Uber’s rapid growth.
+
+The company, led by CEO Travis Kalanick, is fighting driver classification lawsuits state by state, and thanks to the fragmentation of the legal system there’s unlikely to be a nationally binding precedent unless a group of drivers successfully file and win a class action suit for the entire country.
+
+What makes Uber special in the eyes of investors is its lower costs. It’s basically a piece of software connecting drivers to riders, which, for now, means it doesn’t have to pay those drivers’ health care, payroll taxes or workers’ compensation insurance.
+
+If Uber does have to reclassify, it wouldn’t just be hit by additional taxes — it could suffer major penalties for all the drivers it had mis-classified up until now. FedEx, perhaps the closest parallel, had to pay a $228 million settlement when it lost a class action suit about the way it classified its California drivers.
+
+To do a deeper dive into the numbers, here’s how we calculated Uber’s payroll costs.
+
+Number of drivers
+
+To estimate the number of drivers Uber has in California, we cobbled together a few sources. In May, Uber publicly said it has around 20,000 drivers in the San Francisco Bay Area. Uber’s Los Angeles General Manager told driver analytics tool SherpaShare in February that Uber’s L.A. market has 10,000 active drivers. SherpaShare estimates 15,000 or so others scattered around the rest of the state in places like San Diego and Santa Barbara. That brings us to roughly 45,000 active drivers in California.
+
+Number of hours
+
+We don’t have the average number of hours drivers work each week for Uber. It varies from person to person and there’s a high rate of turnover. For the sake of the model, we estimated that each driver in California was driving 20 hours a week.
+
+We estimated that drivers in California make roughly $21.29 per hour by averaging the $17.07 per hour that L.A. drivers make and the $25.51 per hour that S.F. drivers make — those numbers came from a study commissioned by Uber.
+
+ZenPayroll calculation
+
+Cost of 45,000 employees working 20 hours a week at $21.29 per hour
+
+Gross Wages: $996,372,000.00
+
+Social Security (6.2 percent): $61,775,064.00
+
+Medicare (1.45 percent): $14,447,394.00
+
+California Unemployment* (3.4 percent): $10,710,000.00
+
+California Employment Training Tax** (.1 percent): $315,000.00
+
+Federal Unemployment** (.6 percent): $1,890,000.00
+
+Total Employer Taxes per year: $89,137,458.00
+
+* The new employer rate in CA for unemployment is 3.4 percent and is used for a period of two to three years. It’s worth noting it can change over time based on the turnover rates of a particular company.
+
+** The percentage wage base limit for California and Federal Unemployment is calculated based on a capped salary of $7000 per employee per year. These calculations assume zero annual turnover for all 45,000 employees. High turnover can drastically increase these taxes by millions of dollars.
+
+Workers’ compensation
+
+Workers’ compensation insurance rates change depending on local regions and depend on the deals companies strike with brokers. AP Intego Insurance Group estimated the annual cost for a transportation company like Uber in California would be approximately 12 percent of each driver’s salary.
+
+Expenses and benefits
+
+Thanks to the Affordable Care Act, Uber wouldn’t be required to pay for drivers’ health care — it would just need to negotiate a group rate, and drivers would cover their own premiums. For the sake of simplicity, we left out other variable costs like vacation accrual, overtime pay and expenses (like gas and car repair). You can imagine the latter would be a huge cost for Uber.
+
+*Update: Uber declined to comment on Re/code’s analysis and instead offered this statement: “As employees, drivers would lose the flexibility and control they value most; instead they would drive set shifts, earn a fixed hourly wage, and lose the ability to drive with other ridesharing platforms.” The company also added that 73 percent of its “partners” prefer being their own boss instead of having a job with benefits and a salary.

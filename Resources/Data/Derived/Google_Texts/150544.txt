@@ -1,0 +1,45 @@
+$(document).ready(function(){
+
+mc_embed_gallery = new MCGallery({
+
+url : “http://photos.denverpost.com/2014/02/23/photos-gold-medal-hockey-sweden-vs-canada-2014-sochi-winter-olympics”,
+
+captionHeight : “85px”,
+
+parentContainer: “mc-embed-container”
+
+});
+
+});
+
+SOCHI, Russia — Jonathan Toews scored in the first period, captain Sidney Crosby scored his first goal of the tournament and Canada defended its Olympic men’s hockey title Sunday with a 3-0 victory over Sweden in the gold-medal game.
+
+Chris Kunitz also scored and Carey Price made 24 saves for the Canadians, who confirmed their worldwide dominance in their national game by winning gold for the third time in the last four Olympics.
+
+Allowing just three goals in six victories in Sochi, Canada became the only repeat Olympic champ in the NHL era and the first team to go unbeaten through the Olympic tournament since the Soviet Union in Sarajevo in 1984.
+
+Henrik Lundqvist stopped 33 shots, but the injury-depleted Swedes couldn’t keep pace with the new Big Red Machine in Russia.
+
+Canada never even trailed in Sochi while winning its record ninth Olympic hockey gold medal — its first outside North America since 1952 — and joining the women’s team to complete Canada’s second straight Olympic hockey sweep.
+
+The Canadians didn’t allow a goal in their final 164-plus minutes at the Bolshoy Ice Dome after the first period of the quarterfinals against Latvia, shutting out the U.S. and Sweden.
+
+In this meeting of the last two Olympic champions, Crosby had another golden moment with his unassisted breakaway goal in the second period, even if it wasn’t as dramatic as his overtime winner in Vancouver four years ago.
+
+The Canadians exchanged hugs and leaped over the boards at the final horn, gathering at Price’s net for a celebration. Coach Mike Babcock smiled for likely the first time all day, and injured center John Tavares joined the group for the medal presentation.
+
+Toews, who scored on a first-period tip-in, and Crosby are among Canada’s 11 returning players from the 2010 championship team. Kunitz, widely criticized for failing to finish chances earlier in Sochi, capped the scoring with a vicious wrist shot in the third.
+
+While Canada got goals from its two best centers, Sweden had to play without its top three centers. With Henrik Sedin and Henrik Zetterberg already out for the tournament, Nicklas Backstrom was scratched shortly before game time. Swedish Olympic officials said Backstrom had a positive drug test. Swedish news agency TT said it was because of an allergy medicine.
+
+The Swedes also were unbeaten in Sochi until the final, but they struggled against Canada’s formidable defense and Price, a first-time gold medalist who played splendidly in Sochi.
+
+Although the predominantly Russian crowd wasn’t exactly buzzing for the opening faceoff, both teams came out at speedy tempo. Gustav Nyquist hit Canada’s post early, and the puck ricocheted under Price before the goalie gloved it. Patrice Bergeron then beat Lundqvist with a wrist shot, but also drew only iron.
+
+Canada went ahead nearly 13 minutes in when Jeff Carter threw a quick pass in front to Toews, who nimbly held off Patrik Berglund and deflected it underneath Lundqvist for the Chicago captain’s first goal of the tournament. Toews also scored Canada’s first goal in the gold-medal game in Vancouver four years ago.
+
+Late in the second period, Crosby scored after taking the puck away from Jonathan Ericsson at the Canada blue line. Loui Eriksson couldn’t catch Canada’s captain as he skated in on Lundqvist for a textbook-quality deke and a backhand past the Swedish goalie’s sprawled toe.
+
+Canada and Sweden were the most popular picks for gold heading into Sochi, and both teams backed up that belief with steady play despite relatively meager offensive performances. Both teams emphasize defense, but Sweden’s big-ice proficiency and Canada’s peerless talent made them dominant.
+
+When Backstrom was ruled out shortly before game time, Sweden was left without its top three pivots. Jimmie Ericsson attempted to fill in between Daniel Sedin and Eriksson, but he’s not a natural center, and he lost all six of his faceoffs in the first period.

@@ -1,0 +1,21 @@
+2014 GCN AWARDS
+
+Cloud-based portal kept IRS ahead of the e-filers
+
+During 2013, the Internal Revenue Service processed more than 240 million federal tax returns, collected nearly $2.9 trillion in gross taxes, and issued more than 121 million refunds. Taxpayers – both individuals and businesses – worked hard to ensure that they met deadlines, with more than 151 million of them filing electronically.
+
+Project at a glance Project: Integrated Enterprise Portal Program Office: Internal Revenue Service Technology used: Keynote application monitoring, ServiceNow Ticket Management, Akamai Global Traffic Management and Caching Services, McAfee Web Gateway, SoapSonar and SoapUI, TLS encryption Time To Implementation: 2.5 years from acquisition, 1 year for first phase, and an additional year for the second phase Before: Separate infrastructures for different portals meant limited ability to share data and content, difficulty meeting demand and managing systems and inconsistent user experiences. After: An integrated, scalable private cloud combines the functionality of 60 separate applications.
+
+With the ever increasing numbers of e-filers, IRS officials knew their existing technology wouldn’t be able to keep up with the demand from tax payers or the agency’s 80,000 employees.
+
+The IRS’s existing electronic processing system was made up of disparate applications, each with its own infrastructure, limiting the agency’s ability to share data internally and hampering its ability to serve taxpayers in an end-to-end fashion. In addition, the aging infrastructure didn’t have the capabilities necessary to support the Affordable Care Act (ACA). Clearly, the system had to be completely overhauled.
+
+The Integrated Enterprise Portal (IEP) was designed to be an innovative and cost-effective system that would provide a fully scalable, managed private cloud capability to the IRS, enabling one-stop, web-based services for internal and external users.
+
+To maintain full control over the IEP program, the IRS team chose to act as program and project manager, overseeing a build-out, integrating the new portal with existing filing processes and providing strategic direction. Accenture performed the actual technology implementation.
+
+It was also important to maintain control over the entire process because of the need to deliver the project on time and within budget. The “on time” part was particularly important, as development had to be finished between busy periods on the public-facing website, IRS.gov.
+
+“We had a very small window to work with as far as deployment because the filing season starts in January, and a peak of returns coming in in April and October,” said Robert Leahy, then IRS director of enterprise program implementation and now an associate CIO. Further shortening the window were three government furlough days during the development period in which the entire IRS was shut down and no work could get done.
+
+“It put a lot of pressure on the technology team, and it required very close coordination and strict adherence to schedules,” Leahy said. “We locked down requirements and didn’t allow any changes during the 18 month development cycle. That helped us stay focused on what needed to be done without getting sidetracked.”

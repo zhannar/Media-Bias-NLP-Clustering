@@ -1,0 +1,17 @@
+If you follow NASCAR at all, then you know how important it is for each team to follow all mandates that NASCAR sets forth in regards to each stock car involved in their races. Mandates are put in place usually for good reason, with the drivers’ safety their number one priority. NASCAR also likes to stay relevant in terms of mimicking the technology within actual street legal vehicles.
+
+Back in the 1980’s most vehicle manufacturers (those who make vehicles that you and I drive) switched from carburetors to electronic fuel injectors. It’s been nearly 30 years since vehicles off the tracked switched, so NASCAR finally decided in 2012 to make the change themselves, mandating that all vehicles have an electronic fuel injector system installed.
+
+The mandate required that a relay control box was installed, which was tasked with switching a 12v power supply to the fuel pumps, sensors, and actuators of each vehicle. The relay box contained just two circuit breakers, but there were seven circuits in all. This meant that five of the circuits were unprotected. Immediately teams began having problems with breakers tripping, causing many of them to just bypass the devices altogether. The problem with that, however, was that there would then be absolutely no protecion at all for the circuits.
+
+DC Electronics, a leading manufacturer of custom-build electrical systems, and supplier of parts for NASCAR, wanted to come up with a solution. They decided to create a unit in which all the circuits were pre-programmed with the maximum current that each wiring loom could handle safely. If for some reason an accident or a faulty component were to allow for the current to exceed the maximum allowed, the output would automatically be turned off before any damage could occur
+
+Now that they figured out a way to fix the problem, they needed to find the best material and manufacturing method to produce these boxes. Ideally, the boxes needed to be as light as possible, while also able to stand up to a good deal of heat, and not be a conductor of electricity themselves. Also it was important that designs could be changed on the fly, and different sizes could be tested out.
+
+DC Electronics decided to turn to an additive manufacturing company called CRP USA. Together they designed and developed the electrical enclosures via 3D printing, and the help of one of CRP USA’s proprietary printing materials. The material used is called Windform LX 2.0. It is a Polyamide-based material filled with glass fiber, and is used in a selective laser sintering machine. It has very good strength, is not conductive, and has a melting point of around 180°. There were also other benefits to 3D printing the enclosure with Windform material.
+
+“The biggest factor that pushed us towards Windform was the speed in constructing the parts, the mechanical features of the material and the ease of delivery”, said David Cunliffe.“Moreover CRP USA also carried out the design of the enclosure for us and this was a useful value added service and will now lead us to looking to CRP USA and Windform materials for future products that we have in development.”
+
+The 3D printed electrical enclosure has been tested on the race track, and passed with flying colors. In this case 3D printing helped to find a solution to a complicated problem, one which traditional manufacturing could not reliably fix. Discuss this story with other NASCAR fans and 3D printing enthusiasts in the 3D Printing & NASCAR forum thread on 3DPB.com.
+
+[Source: CRP-USA.net

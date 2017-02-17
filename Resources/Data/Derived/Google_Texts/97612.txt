@@ -1,0 +1,51 @@
+How protected are life insurers from security breaches?
+
+Life insurers are more adequately protected than their health insurance and property/casualty cousins from network attacks. That’s among the findings of a survey of 43 regulated life, property/casualty and health insurers conducted in 2013-2014 by the New York Department of Financial Services (DFS).
+
+The real question, though, is whether carriers are doing enough to protect themselves in the face of a debilitating “virus” that evolves at breakneck speed.
+
+Recent breaches of health insurance company databases and systems over the past several months are a signal that all sectors of the insurance industry remain vulnerable and that industry needs to do more to protect itself.
+
+In February, Anthem revealed it was the victim of a breach affecting more than 80 million records.
+
+While network breaches appear to have affected health insurers more frequently than life, annuity or property/casualty carriers, life insurers certainly aren’t immune from attacks.
+
+In March, Columbian Mutual Life reported the loss of a flash drive containing personal information on present and former agents, customers and beneficiaries, according to a DFS news release.
+
+“Recent cyber security breaches should serve as a stern wake-up call for insurers and other financial institutions to strengthen their cyber defenses,” former New York Superintendent of Financial Services Benjamin M. Lawsky said in a news release.
+
+At the national level, regulators with the National Association of Insurance Commissioners in November established a Cybersecurity Task Force charged with recommending how to best coordinate the protection of information collected by state insurance departments and insurance companies.
+
+The initiative is widely seen as a reflection of the seriousness with which regulators take attacks on data networks.
+
+Life insurers so far may have been spared the embarrassment and managerial upheaval foisted on some famous names in the retail sector in the wake of a data breach. However, life and annuity carriers are in no position to let down their guard, particularly with the decades of data collected on policyholders with long-tail policies.
+
+As a rule, the insurance industry hasn’t kept pace with data security trends in the financial services sector, Art Thomas, an associate professor at the School of Information Studies at Syracuse University, said in an interview in March published by CIO.
+
+"Health insurance companies traditionally haven't been as secure as a bank," he told CIO. "They're just now realizing that they're going to have to secure things a whole lot differently."
+
+Individually, though, life insurers have been more or less diligent about adopting industry-standard defenses as part of their arsenal against villains hell-bent on breaking into data vaults, according to the DFS survey.
+
+Technologies used by insurers range from enterprise-quality anti-virus and spyware software to biometrics and public key infrastructure systems, the survey found.
+
+All the insurers surveyed said they used anti-virus software, firewalls, intrusion detection tools and encryption for data transmission
+
+In addition, 98 percent of the companies said they employ data loss prevention tools and file encryption technology, and 95 percent of respondents said they used vulnerability scanning tools, the report found.
+
+The report also found that 91 percent of insurers reported using server-based access control lists, 86 percent reported using security correlation tools and public key infrastructure systems, and 79 percent reported implementing employee intrusion detection systems.
+
+On the surface, life insurers seem relatively prepared, but other yardsticks leave room for doubt. No institution reported having more than 7 percent of its overall budget dedicated to information security, and 14 percent of insurers reported dedicating less than 1 percent of their budget to security, the DFS survey found.
+
+The carriers surveyed said they believe that they have adequate staffing levels for information security, but only 14 percent reported that their CEOs receive monthly briefings on information security.
+
+Reported assets, frequency of transactions, the variety of business lines, and sales and marketing technologies affect how well prepared carriers are to defend against a network assault, and the largest insurers are not necessarily the best prepared.
+
+There’s no question that carriers are regularly subject to attack. Only 58 percent of carriers said they experienced no network breaches in the three years preceding the survey. This still means that more than four out of 10 have fallen victim to a malware, phishing, pharming, botnet or similar scam.
+
+Losses among carriers are still relatively low, particularly when compared with the millions of dollars lost by retailers. Seventy percent of carriers reported suffering no financial loss in the past 12 months as a result of network security breaches, and 23 percent reported suffering a loss of less than $250,000.
+
+Only 2 percent of carriers reported a loss of between $251,000 and $500, 000 and one institution reported a loss of between $6 million and $10 million, the survey found.
+
+InsuranceNewsNet Senior Writer Cyril Tuohy has covered the financial services industry for more than 15 years. Cyril may be reached at [email protected].
+
+© Entire contents copyright 2015 by InsuranceNewsNet.com Inc. All rights reserved. No part of this article may be reprinted without the expressed written consent from InsuranceNewsNet.com.

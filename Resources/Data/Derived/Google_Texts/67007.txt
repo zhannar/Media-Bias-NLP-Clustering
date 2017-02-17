@@ -1,0 +1,31 @@
+The theft of personal data on 4.5 million patients of Community Health Systems by hackers in China highlights the increasing degree to which hospitals are becoming lucrative targets for information theft.
+
+Already this year, around 150 incidents of lost or stolen personal data -- either due to hacking or ineptitude -- have been reported by medical establishments to the U.S. Department of Health and Human Services.
+
+[ Read Bill Snyder's Tech's Bottom Line blog for what the key business trends mean to you. | Cut to the key news for technology development and IT management with the InfoWorld Daily newsletter, our summary of the top tech happenings. ]
+
+In the case of Community Health Systems, hackers stole patient names, addresses, birth dates, telephone numbers and Social Security numbers. They did not steal medical data, Community Health Systems said -- but that data can be the real prize in such breaches.
+
+With its high prices and lack of a centralized health system, the U.S. is a lucrative target because in the right marketplace, health records can be worth a lot of money, said John Halamka, chief information officer of the Beth Israel Deaconess Medical Center and chairman of the New England Healthcare Exchange Network.
+
+That's because people without health insurance can potentially get treatment by using medical data of one of the hacking victims.
+
+Halamka, who also runs the "Life as a healthcare CIO" blog, said a medical record can be worth between US$50 and $250 to the right customer -- many times more than the amount typically paid for a credit card number, or the cents paid for a user name and password.
+
+"If I am one of the 50 million Americans who are uninsured ... and I need a million-dollar heart transplant, for $250 I can get a complete medical record including insurance company details," he said.
+
+As long as personal details like age, weight and height are approximately correct -- and with a faked second form of ID -- a person could use the stolen data to convince a hospital they are insured and receive treatment, Halamka said.
+
+The Affordable Care Act is reducing the numbers of uninsured but there remain many Americans who don't have sufficient insurance for various procedures.
+
+The situation is different in a country like the U.K., where the National Health Service assigns a unique ID number that ties patients to centralized medical records.
+
+In the U.S. with its patchwork of health networks and insurance systems, spotting an imposter is more difficult. And moving to a common patient ID system is difficult due to legislation signed into law by former President Bill Clinton that limits what private companies can do with medical records.
+
+To guard against hackers, health care CIOs are investing in security like never before, said Halamka.
+
+"There's nothing like a million-dollar fine to be a wake-up call to enhance security," he said, referring to the maximum $1.5 million fine that can be levied on companies by the Department of Health and Human Services for lax information security.
+
+He advocates an ID system that would be voluntary, like the "Global Entry" system used at U.S. airports to speed immigration checks. In a voluntary system, consumers would need to approve the sharing of their information, which Halamka hopes they would in the interest of preventing the misuse of their information.
+
+Martyn Williams covers mobile telecoms, Silicon Valley and general technology breaking news for The IDG News Service. Follow Martyn on Twitter at @martyn_williams. Martyn's e-mail address is martyn_williams@idg.com

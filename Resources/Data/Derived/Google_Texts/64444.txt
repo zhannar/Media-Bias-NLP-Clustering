@@ -1,0 +1,25 @@
+Wednesday, June 25, 2014
+
+The U.S. Food and Drug Administration (FDA), in conjunction with the Office of the National Coordinator for Health Information Technology (ONC) and the Federal Communications Commission (FCC), recently issued a draft report that sets forth the agencies’ intent to adopt a risk-based approach to the regulation of health IT. In a June 20, 2014, draft guidance, the FDA offered tangible evidence of its commitment to this approach, announcing its intent to exercise enforcement discretion relating to three Class I, 510(k)-exempt products due to “the low risk they pose to patients and the importance they play in advancing digital health”:
+
+Medical device data system (MDDS): A medical device intended to electronically transfer, store, convert from one format into another in accordance with a preset specification, and/or display medical device data, without controlling or altering the functions or parameters of any connected medical device(s)
+
+Medical image storage device: A medical device that electronically stores and retrieves medical images
+
+Medical image communications device: A medical device that electronically transfers medical image data between medical devices
+
+In February 2011, the FDA issued a regulation in which it down-classified MDDS devices from Class III (high risk) to Class I (low risk) devices, thereby subjecting MDDSs to general controls, rather than the more comprehensive controls applicable to Class III and Class II devices. After gaining “additional experience with these types of technologies,” the agency now goes further under the draft guidance, stating that it does not intend to enforce the general regulatory controls—for example, registration and listing, post-market reporting, quality systems regulations—that currently apply to these products. The regulatory limitations that apply to these Class I, 510(k) exempt devices, which are set forth in 21 C.F.R. §§ 880.9 and 892.9 (e.g., health IT devices for assessing risk of cardiovascular diseases or for use in diabetes management), also would not be enforced by the FDA under the draft guidance. Finally, the draft guidance proposes changes to the FDA’s September 2013 final guidance on Mobile Medical Applications that are consistent with the new enforcement discretion pronouncement.
+
+FDA will accept written comments on the draft guidance until August 25, 2014.
+
+Implications
+
+Developers of (and investors in) health IT products should view the draft guidance as a significant and positive development in that it confirms that the agency intends to allow low-risk health IT products to be commercialized without agency regulatory oversight. If finalized, the draft guidance should also effectively remove manufacturers of the above-referenced products from the scope of the medical device tax—but for those products currently listed with the FDA, only after de-listing the products. The extent to which the draft guidance will directly affect the development of health IT products, however, is unclear.
+
+Historically, the MDDS regulatory pathway has been the subject of considerable interest from health IT developers given the MDDS’ Class I, 510(k)-exempt categorization. The scope of the MDDS classification, however, is fairly limited because a system that performs any other function or any function in addition to transferring, storing, converting via a preset algorithm, or displaying medical device data is not an MDDS. Under the FDA’s MDDS regulation, a product is not an MDDS if it modifies, interprets or adds value to medical device data; creates or generates any of its own data; processes, characterizes, categorizes or analyzes medical device data; flags, prioritizes or graphs medical device data (if such functionality would add value to the existing data); or facilitates active patient monitoring. As such, neither clinical decision support (CDS) software nor electronic health records (EHR) systems are MDDSs, and the draft guidance will not affect the extent to which regulatory controls may apply to such products.
+
+Notwithstanding the above, most types of CDS software and EHR systems are currently understood to be under enforcement discretion by the FDA, so determining whether a product is an MDDS, CDS software or EHR system may be of reduced importance. Given the implications of categorization as a non-MDDS regulated device, however, which may subject the device to FDA regulatory controls, it is critical that developers of health IT products accurately assess whether their products have functionality that falls within an alternate, non-MDDS regulatory classification.
+
+Finally, it is unclear whether the draft guidance will reduce congressional interest in proposed legislation that would clarify and limit the extent of FDA’s oversight of health IT products.
+
+Interested entities should consider submitting comments regarding the draft guidance.

@@ -1,0 +1,35 @@
+Some may argue that there are too many consumer based 3D printers currently on the market. Because of the open source schematics, which are readily available to designers and manufacturers, we have seen a tremendous number of new companies emerge in the last 12-18 months, offering a whole slew of 3D printers. This isn’t necessarily a bad thing, as the only true problem of all this, from a consumer’s point of view, is confusion. On the other hand, such fierce competition is certainly driving prices down, while driving quality up and spurring on innovation. Manufacturers are being forced to cram as many useful features into these printers as they can, at the lowest possible profit margin.
+
+There is a new company called 3D Printerworks, led by CEO Tom Kilar, who is seeking to offer a high quality, large build volume, 3D printer at a very affordable price. Next month the company plans to launch a Kickstarter campaign to jump start the production of a printer they call the CreatorBot 3D.
+
+Unlike many of the run of the mill 3D printers companies we see pop up every week or two, who really have no aim for their creations, Kilar has a driving force behind the production of this new device. That driving force is to build something that lasts, a printer built out of commercial grade materials, engineered for long lasting, uninterrupted performance. Perhaps most importantly though, he wants to sell it at an affordable price, while including many important features.
+
+“We are excited about entering the 3D Printer market with the introduction of our flagship model, the CreatorBot 3D printer,” said Kilar. “As passionate makers we wanted to engineer a commercial grade printer with a large build volume that can be purchased at an affordable price. With built in performance features and a robust design the CreatorBot 3D will give years of trouble free printing”
+
+The CreatorBot 3D will have the following specifications:
+
+Printer Size: 22.5” x 24.5” x 22”
+
+Printer Weight: 45 lbs.
+
+Build Area: 12” x 12” x 12”
+
+Resolution: 340-100 microns
+
+User Interface: LCD controller
+
+Extruder(s) Type: Bowden style
+
+Filament: 1.75mm
+
+Heat Bed: 12 vdc silicone
+
+Build Plate: Treated tempered glass
+
+Firmware: Marlin
+
+Supported Materials: ABS,PLA,Nylon
+
+In additional to the machine’s large build volume, it also differentiates itself from many of the typical 3D printers on the market, by its rigid, light weight, anodized aluminum frame, as well as its magnetic build plate, and design which eliminates overheating. The printer will come in single and dual extruder versions. It will retail at under $1000 for the single extruder printer, and under $1500 for the dual extruder machine. The company expects to begin manufacturing the CreatorBot 3D by the end of Summer, provided they reach their Kickstarter funding goals.
+
+Will you be backing this device? Let us know your opinion of what’s been shown of this printer thus far, in the CreatorBot 3D forum thread on 3DPB.com

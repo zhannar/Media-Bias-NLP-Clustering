@@ -1,0 +1,19 @@
+For all the overblown fears of cell phone radiation negatively affecting the body, it seems that there is one group who might need to be careful with how and where they use their phones: people with pacemakers or other cardiac devices.
+
+That's the verdict from a study to be presented today at the joint meeting of the European Heart Rhythm Association of the European Society of Cardiology and Carrington (EHRA EUROPE — CARDIOSTIM 2015). The study authors found that in very rare circumstances, smartphone use can possibly disturb implanted devices meant to regulate heart function because of the electromagnetic interference (EMI) released by the phone.
+
+The authors were looking to revisit the evidence for current safety recommendations surrounding cell phone use around devices like pacemakers. Noting that these recommendations, and the studies that supported them, were crafted at a time when smartphones and implantable cardioverter defibrillators (ICDs), which restore normal heart rhythm via a small shock, weren’t in regular use, they decided to take a look at how these relatively new technologies may negatively interact with one another.
+
+Using 308 subjects, 147 with pacemakers and 161 with ICDs, the authors placed three widely used smartphones, the Samsung Galaxy 3, the Nokia Lumia, and the HTC One XL, on the skin right above their device. They then, using a radio communication tester, simulated the smartphones through the process of a call, including calling, ringing, talking and disconnecting, and through different frequencies, including those that corresponded to various cellular networks (GSM, though the most popular cellular standard of communication worldwide, has been replaced by the '3G' UMTS and '4G' LTE standard in many smartphones). Electrocardiograms (ECGs) were used to detect any potential interference.
+
+"From earlier studies we know that the most vulnerable phases of a call are ringing and connecting to the network, not talking, so it was important to analyse these separately," said lead author Dr. Carsten Lennerz, cardiology resident in the Clinic for Heart and Circulatory Diseases at the German Heart Centre in Munich, in a press statement.
+
+After more than 3,400 tests, the authors reported exactly one incident of smartphone EMI wreaking havoc with a patient’s MRI-compatible ICD device, but only when the Nokia and HTC smartphones operating on GSM or UMTS were used. The device had apparently mistaken the electromagnetic waves from the phones as an cardiac signal.
+
+Fortunately, these results don’t invalidate the current safety recommendations at all. "Interference between smartphones and cardiac devices is uncommon but can occur so the current recommendations on keeping a safe distance should be upheld," said Lennerz. "Interestingly, the device influenced by EMI in our study was MRI compatible which shows that these devices are also susceptible."
+
+But they should prompt cardiac device users to be a bit more careful around their smartphones. "Nearly everyone uses smartphones and there is the possibility of interference with a cardiac device if you come too close. Patients with a cardiac device can use a smartphone but they should not place it directly over the cardiac device. That means not storing it in a pocket above the cardiac device," said co-author Dr. Christof Kolb, head of the Department of Electrophysiology at the German Heart Centre. "They should also hold their smartphone to the ear opposite to the side of the device implant."
+
+And for those wondering, a distance of about six inches between pacemakers or ICDs and mobile phones is considered to be perfectly safe.
+
+Source: Lennerz C, Pavaci H, Grebmer C, et al. Electromagnetic interference between smartphones and current cardiac implantable electronic devices: rare but present. EHRA EUROPE — CARDIOSTIM 2015. 2015

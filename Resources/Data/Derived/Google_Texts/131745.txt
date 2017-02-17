@@ -1,0 +1,29 @@
+STONY BROOK, N.Y., Nov. 19, 2015 /PRNewswire/ -- Softheon, a proven leader in health insurance marketplace integration and a certified Web Broker Entity, has announced the launch of their Cost-Sharing Reduction (CSR) analysis and reconciliation solution designed to reduce the administrative burden of qualified health plans (QHPs).
+
+With tight guidelines proposed by the Centers for Medicare and Medicaid Services (CMS), Softheon predicts that CSR Reconciliation will become a significant pain point for issuers. Softheon's expertise and track record of success with Edge Server and Baseline Reporting has been commended since receiving pass rates for 99% of carriers for 2015; a significant improvement in comparison to previous years. In fact, most CMS exceptions have been appealed by the carrier due to Softheon's data accuracy. In addition, Softheon's data reconciliations stretch beyond that of just enrollment data received from the insurance exchange marketplaces. Daily bank reconciliations are performed to ensure that transactions within Softheon's system successfully match up to funds deposited into clients' custodial accounts, both through lockbox and merchant service processing channels. Automated processes have been put in place to assist in daily reconciliations, which encompass over 200,000 members.
+
+The Affordable Care Act (ACA) provides reduced cost-sharing for eligible individuals who purchase health insurance from a qualified Marketplace Plan. As a result, CSRs are paid by issuers to lower the out-of-pocket cost to enrollees - making health care more accessible and affordable to those in need.
+
+Along with strict deadlines, CMS requires all QHPs to:
+
+Determine advance payments to approximate the value of the cost-sharing subsidy. Softheon can determine these payments based on the CSR stored within the enrollment spans or premiums table.
+
+Reconcile all advance payment and actual subsidies at the end of the year.
+
+Complete an actuarial validation process and certify all results (required for the Simplified Method).
+
+Re-adjudicate 100% of claims (required for the Standard Method).
+
+"Every year, health plans see new guidelines and complexities put forth by CMS during Open Enrollment.
+
+Softheon's CSR solution was developed to aid health plans in projecting cost-sharing exposures, validating payments, and reconciling year-end results. It is our passion to combine knowledge, expertise, and experience to produce outstanding results," said Eugene Sayan, Softheon CEO & Founder.
+
+This year, CMS will require all health plans to submit their CSR calculations by April 30, 2016, for 2014 and 2015 plan years. By January 1, 2016, a reconciliation method, either Simplified or Standard, must be chosen.
+
+About Softheon
+
+Empowering the nation's first state health benefit exchange since 2008, Softheon's vision and strategic direction address healthcare payer, provider, and government agencies' goal of meeting Affordable Care Act (ACA) milestones. Softheon provides HIX Integration, Direct Enrollment, Premium Billing, and Edge Server solutions for insurance carriers of all sizes participating in Federal and State Health Insurance Exchange (HIX) Marketplaces. Softheon's Marketplace Connector Cloud (MC2) has been trusted by health plans, in all 50 states, as an accelerated federal, state, and private exchange integration platform. Softheon MC2 is a Software-as-a-Service (SaaS) solution where insurers pay a one-time activation and ongoing PMPM fees for exchange members only, while eliminating most, if not all, risks associated with ACA enrollment compliance and other mandates.
+
+Photo - http://photos.prnewswire.com/prnh/20151119/289531
+
+SOURCE Softheon

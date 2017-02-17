@@ -1,0 +1,21 @@
+Last month’s ransomware attack on Hollywood Presbyterian Medical Center in Los Angeles may have changed the game in healthcare cybersecurity.
+
+“The healthcare sector was not a traditional target for ransomware attacks. One theory is that attackers did not target systems that jeopardized lives,” said a new report on ransomware, from the Institute for Critical Infrastructure Technology. “Recently, that mentality has changed for at least the group operating the Locky ransomware,” the Washington-based organization noted.
+
+Locky seems to be a new outgrowth of Dridex, malware with roots in the Russian underworld. Dridex has historically targeted the financial industry, but healthcare data is proving to be more valuable than financial records.
+
+Hollywood Presbyterian ended up paying a $17,000 ransom to get back online after 10 days. That was previously unheard of in the healthcare industry.
+
+“Ransomware is unique among cyber-crime because in order for the attack to succeed, it requires the victim to become a willing accomplice after the fact,” according to the report. “In order for ransomware criminals to profit, they again must rely on exploiting human nature rather than technical sophistication. Humans, like electricity, prefer the path of least resistance.”
+
+The fact that the hackers got money out of one hospital bodes ill for the healthcare industry.
+
+“Healthcare organizations were not a primary target for ransomware attacks prior to 2016; but, the success of the Hollywood Presbyterian attack and the media coverage will ensure that attackers focus on the healthcare sector in the future.” ICIT said.
+
+Indeed, the same week as the Hollywood Presbyterian attack, hackers infected five Los Angeles County Department of Public Health computers with a Locky variant, according to the report. Two hospitals in Germany also got attacked with last month.
+
+Unlike Hollywood Presbyterian, though, L.A. County and the German hospitals chose to restore their IT systems from backups rather than pay a ransom, ICIT said.
+
+And despite what the Los Angeles hospital said — patient care “has not been compromised in any way” — a hijacking of a hospital system can put lives at stake, according to the report. That’s changing the mentality of never paying a ransom under any circumstances.
+
+Photo: Bigstock

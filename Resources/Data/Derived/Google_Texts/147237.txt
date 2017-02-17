@@ -1,0 +1,61 @@
+The mouse slips, and the emergency room doctor clicks on the wrong number, ordering a medication dosage that’s far too large. Elsewhere, in another ER’s electronic health record, a patient’s name isn’t clearly displayed, so the nurse misses it and enters symptoms in the wrong person’s file.
+
+These are easy mistakes to make. As ER doctors and nurses grapple with the transition to digitalized record systems, they seem to happen more frequently.
+
+“There are new categories of patient safety errors” in emergency rooms that didn’t exist before the push to use electronic record systems, said Raj Ratwani, who researches health care safety and is the scientific director for MedStar Health’s National Center for Human Factors in Healthcare in Washington, D.C.
+
+Spurred by the 2009 stimulus package and the 2010 health reform law, the federal government has offered hospitals financial incentives to adopt electronic health records that, among other things, will add efficiency and reduce errors by linking physicians’ patient records, and coordinating and tracking how care is delivered across the health system. Hospitals that don’t meet those standards are hit with penalties.
+
+But in ERs, where things often happen fast, this push is sometimes setting up a technology mismatch that creates challenges that aren’t necessarily as evident in other parts of the hospital.
+
+Sneaker-clad doctors and nurses rush between patients, often juggling multiple cases. Verbal communication is key. Patients, even after being wheeled in by paramedics, can wait in a triage room for extended periods until a free nurse or physician comes to find out what’s wrong. It’s a different style of medicine, and one that’s often resulted in a distinct workflow.
+
+As a result, the electronic record programs in many ERs evolved independently of hospital-wide systems. Since those homegrown, emergency department record systems often aren’t compatible with the newer, comprehensive ones hospitals are buying, they’re being phased out. The new EHR models are in many ways more efficient, but they may require adjustments.
+
+“The way the systems are set up, it can actually predispose to higher error rates,” said Jesse Pines, who directs the Office for Clinical Practice Innovation at the George Washington University School of Medicine in Washington, D.C.
+
+In 2013, Pines, with other members of the American College of Emergency Physicians, wrote a report finding mistakes in the ER — like ordering the wrong medications or, because of confusing computer displays, more easily missing key patient information — were common after the switch to these digital systems.
+
+“A growing body of evidence suggests that many errors may be the result of poor design rather than user errors,” the report states. That “can have a profound influence” on patients.
+
+“It’s certainly a patient safety concern,” said Jason Shapiro, an associate professor of emergency medicine at Mount Sinai, who chairs ACEP’s informatics committee and co-authored the report.
+
+There’s no research measuring how often these errors — like entering care instructions in the wrong patient file or missing instructions altogether — cause actual harm.
+
+“We’ve got to figure out how we’re working with our electronic records, to make it part of the workflow,” said Nathan Spell, chief quality officer at Emory Hospital in Atlanta. Even when doctors have learned to use the record systems, missteps still occur.
+
+The ER’s culture and pace, for instance, can amplify the risks of human error that stem from an already less user-friendly system. Think of the emergency physician who, reaching the end of a hectic 12-hour shift, looks for the record of a patient he just examined. He types in the man’s last name, clicks and writes medical instructions — not realizing that he’d accidentally pulled up the file of another patient with the same last name and similar age, who was admitted five minutes before.
+
+While misidentifying patients in this way was hardly an issue before EHRs, it’s “becoming quite prevalent,” in this more digital era, Ratwani said.
+
+Many systems, meanwhile, allow doctors to edit the record for only one patient at a time, said Zach Hettinger, who practices emergency medicine at MedStar Union Memorial Hospital in Baltimore. That makes it harder to keep track of things, he said.
+
+“You’re stuck with, ‘Do I cancel what I’m in the middle of and not complete that task? Or do I deal with the new task? Do I make a note somewhere — take scrap paper — or just remember it?’” said Hettinger, who’s also the medical director for the National Center for Human Factors in Healthcare and has researched how electronic records work in the ER.
+
+How does that scenario play out? A triage nurse who is attending to multiple patients at once might scribble each individual’s details on the back of a piece of paper — ducking away later to enter the information into the computer system. That can make it easier to confuse things, and leave the emergency room short a nurse.
+
+Computer systems need to better account for that potential human error, said Shawna Perry, an associate professor of emergency medicine at the University of Florida College of Medicine-Jacksonville, who has worked in multiple hospitals.
+
+Stories of such near misses in the ER are now common lore, she added. In one episode, an electronic record system’s poor design, which made the appropriate medication dosage difficult to read, led to an instruction for a nurse to give a child a sedative 10 times the correct amount. The patient was fine, Perry said, but the incident demonstrates how a clunky or counterintuitive record can be dangerous.
+
+“It was a simple slip of a cursor,” she said, questioning why the system even allowed the drug to be available in that strength for a 44-pound child. “How did this software fail its users?”
+
+“That’s not an unusual event,” Perry added. “I know of many other situations. All of us do, by word of mouth.”
+
+In fairness, electronic records have resolved many safety concerns, Pines said. They’ve rendered obsolete issues like misreading doctors’ handwriting. Accessing records is easier and faster, noted Dan Hampton, an emergency physician who works at Epic Systems, a major electronic health record vendor.
+
+But because doctors don’t decide what a hospital buys, designs often emphasize what administrators or technology officials want, Pines said. To understand ERs, designers must spend time in them, Perry said.
+
+“It’s one thing to have a computer, and informaticists on your staff, or have a doctor come in and look at this [particular design feature],” said Robert Wachter, a patient safety expert and interim chair of the department of medicine at the University of California, San Francisco. “It doesn’t get into this issue of what does it look like to be using this system at 4 in the morning, when you have nine other patients and a trauma patient running into the ER, and your beeper’s going.”
+
+Manufacturers said doctor feedback is important and something they prioritize in their designs.
+
+For instance, Epic, based outside of Madison, Wisconsin, sends developers to hospitals to study their needs, Hampton said. “Making our software easy to use is one of our top priorities, along with quality of care and patient safety.”
+
+At Cerner, another vendor from Kansas City, Misouri, doctors on advisory councils give feedback on the ER-specific system. Representatives visit emergency rooms to hear from physicians, said Leslie Lindsey, Cerner’s senior manager of emergency medicine.
+
+But there’s room to improve, Lindsey added. To address oral communication, Cerner sells supplements, like a phone-like device meant to fix communication gaps with emergency medicine. But hospitals may not want to buy add-ons when they’ve already paid tens or even hundreds of millions of dollars for a record system.
+
+Despite these concerns, Pines said, it’s early. With time, companies will address kinks, so that patient safety issues diminish.
+
+“Think about where we were even 30 years ago with cars. Cars are rapidly innovating to become safer and more efficient — and I think we can expect to see the same transformation in the electronic health record space,” Pines said. “Things are improving. And things will continue to improve.”

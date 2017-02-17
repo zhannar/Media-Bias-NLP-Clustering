@@ -1,0 +1,81 @@
+A couple of weeks ago, I examined commonalities among states with the lowest average benchmark premiums in their major metropolitan areas. And there’s been a lot of interest in the shared reasons why some areas of the country have fared much better on health insurance rates.
+
+Not surprisingly, there were also questions about the states that are at the other end of the spectrum. Do the states with the highest benchmark premiums have anything in common? So I took a look.
+
+I used Kaiser Family Foundation’s (KFF) analysis of average exchange benchmark premiums for a 40-year-old in a major metropolitan area in each state. Benchmark plans (the second lowest-cost Silver plans) don’t give us a full picture of overall average rates, but comparing them from one state to another is still a useful indicator of regional rate variation.
+
+The drawback to the KFF analysis is that it’s localized to a metropolitan area within each state. Milliman has state-wide average benchmark premiums for a 27-year-old, but it only includes exchanges that use HealthCare.gov. However, the two lists align very closely when it comes to the most expensive benchmark premiums. All but three of the 13 most expensive exchanges in the KFF analysis use HealthCare.gov, and they are almost identical to the 10 most expensive exchanges in the Milliman analysis.
+
+Here are the average benchmark premiums for a 40-year-old in a major metropolitan area in the 13 most expensive exchanges in KFF’s analysis:
+
+13 states with highest average benchmark premiums* 1. Alaska: $719 8. Louisiana: $332 2. Vermont: $468 9. New Jersey: $330 3. Wyoming: $426 10. Wisconsin: $326 4. North Carolina: $409 11. Montana: $322 5. New York: $369 12. Connecticut: $318 6. Delaware: $356 13. South Carolina: $314 7. West Virginia: $341
+
+* per month
+
+The effect of state participation on premiums
+
+Of the 13 states with the highest average benchmark premiums in a metropolitan area, just three – New York, Vermont and Connecticut – are state-run exchanges (as opposed to more than half of the exchanges on the low-cost end of the spectrum). New York and Vermont both have special circumstances, described below.
+
+Montana has a marketplace plan management exchange, and Delaware and West Virginia operate partnership exchanges in conjunction with HHS. But seven of the 13 most expensive exchanges are fully run by HHS, as opposed to just two of the 13 exchanges where benchmark premiums are the lowest.
+
+State-mandated community rating
+
+New York and Vermont account for two of the three state-run exchanges among the 13 exchanges with the most expensive benchmark premiums for a 40-year-old in a metropolitan area. Not coincidentally, New York and Vermont are also the only two states in the U.S. that require pure community rating, which means premiums don’t vary with age in those two states.
+
+ACA regulations limit carriers to a 3-to-1 ratio for age-based premium variation. (In Massachusetts, state regulations limit the ratio to 2-to-1.) So under the ACA, if a plan costs $200 for a 22-year-old, it can cost up to $600 for a 62-year-old. But in New York and Vermont, premiums don’t depend on age; the 22-year-old would pay the same premium as the 62-year-old. Younger people in New York and Vermont pay more than they would in other states, but older people pay less.
+
+Vermont also has the second-oldest population in the country according to U.S. census data. Since older enrollees tend to have more health care costs, and since the total costs are spread equally in Vermont regardless of age, Vermont’s premiums skew even more towards the high end.
+
+The KFF analysis was based on premiums for a 40-year-old, and the Milliman analysis was based on premiums for a 27-year-old. So it’s not surprising that New York and Vermont are both well above average for those demographics. But if we were looking at rates for a 60-year-old, New York and Vermont’s average benchmark premiums would be unchanged, while rates would be considerably higher in the rest of the country.
+
+Although Connecticut’s premiums are age-banded using the ACA’s 3-to-1 ratio, the median age in Connecticut is the seventh highest in the U.S. That means overall claims costs are likely to be higher than they would be in a state with a younger population, resulting in higher premiums for everyone.
+
+Medicaid expansion may drive premiums lower
+
+Six of the states with the highest metropolitan area benchmark premiums (Connecticut, Delaware, New Jersey, New York, Vermont, and West Virginia) expanded Medicaid in 2014. The other seven either haven’t expanded Medicaid or have only done so very recently. Alaska expanded Medicaid as of September 2015, and Montana expanded Medicaid as of November 2015, for coverage effective January 2016.
+
+Medicaid expansion is correlated with lower private health insurance premiums because it reduces a state’s uninsured rate and the amount of uncompensated care that hospitals in the state must provide (the cost of which is passed along to privately insured patients in the form of higher premiums).
+
+Medicaid expansion in the states that have only recently expanded hasn’t had enough time to impact the uninsured rate – or the 2016 premiums – since those rates were established before Medicaid expansion was finalized. So essentially, only six of the 13 states with the most expensive benchmark premiums had expanded Medicaid. And two of those states are New York and Vermont, where the reason for the higher average benchmark rates is due in large part to the fact that rates aren’t adjusted for age.
+
+On the other end of the spectrum, when we consider the 13 states with the lowest benchmark premiums in a metropolitan area, 11 have expanded Medicaid. Medicaid expansion is much more closely correlated with lower average benchmark premiums.
+
+Low population density, higher rates?
+
+Five of the seven least populated states in the U.S. are on the list of states where premiums in a metropolitan area are the highest (and the other two, North Dakota and South Dakota, have premiums just slightly lower than the 13 highest-priced areas). New York’s population is among the highest in the nation, but its higher-than-average premiums for a 40-year-old are driven largely by pure community rating.
+
+The KFF analysis examined benchmark premiums in Burlington, Vermont; Billings, Montana; Wilmington, Delaware; Anchorage, Alaska; and Cheyenne, Wyoming. Those five cities have a total population of less than 600,000.
+
+In areas with smaller populations, there aren’t as many doctors and hospitals. That means insurers don’t have the sort of negotiating power on network rates that they have in more densely populated areas with more healthcare providers.
+
+In addition, risk pools are state-based, and smaller risk pools are more prone to premium volatility. If there are 50,000 people in a carrier’s risk pool, a $5 million claim is going to have a much greater impact than if there are 500,000 people in the risk pool.
+
+Why Alaska’s #1
+
+Alaska’s sky-high premiums are an excellent example of what can happen in a sparsely populated state. The long distances between providers can result in insurers having very little bargaining power in setting payment rates; in order to maintain network adequacy, they must include all or nearly all of the providers in each area.
+
+And the small population in Alaska means the risk pools are subject to volatility based on claims from just a few insureds – that’s exactly what happened in Alaska in 2014, and the 2016 rates are based primarily on 2014 claims data.
+
+In addition to issues that are specific to health insurance, Alaska’s cost of living is higher than just about everywhere else in the U.S.; providers have higher overhead costs that must be covered by their reimbursements from health insurers.
+
+Conclusions?
+
+There are numerous factors involved in the higher benchmark rates in the metropolitan areas of these 13 states. Naturally, there are outliers for each metric.
+
+In terms of population health, these 13 states run the gamut: the most-healthy state (Vermont) is on the list, and so is the least-healthy state (Louisiana). Numerous sparsely populated states are on the list, but so are some heavily populated states like New York, North Carolina, and New Jersey.
+
+In terms of overall trends, New York and Vermont have much higher-than-average benchmark rates for a 40-year-old, but that’s due in large part to state regulations that require community rating; their profiles in most regards don’t fit with many of the other states on the list.
+
+But it’s also clear that higher benchmark premiums are correlated with a refusal to expand Medicaid, a lack of state involvement in the exchange, and to some extent, a smaller state population.
+
+What these states tell us about subsidies
+
+The higher average benchmark premiums in these 13 states demonstrate the importance of the ACA’s premium subsidies. Note that with the exception of Alaska, in every one of those 13 metropolitan areas, the after-subsidy premium for the benchmark plan for a 40-year-old who earns $30,000 a year will be exactly the same: $206 a month. (In Anchorage, Alaska, it will only be $163 a month because Alaska has different poverty level guidelines than the lower 48 states.)
+
+$206 is actually $2 a month less than a 40-year-old earning $30,000 would have paid for the benchmark plans in those areas in 2015. (Here’s why it’s less).
+
+Subsidies level the playing field. They ensure that people who have the same income will pay the same amount for the benchmark plan, regardless of how much it would cost in their area without subsidies. The age-based differences in premiums that apply in every state except Vermont and New York are also smoothed out with subsidies.
+
+But subsidies don’t help the people who don’t qualify for them. This includes people with income above 400 percent of the poverty level, people in the coverage gap, and people impacted by the family glitch. And subsidies don’t grow on trees; they’re federal tax credits, which means that their growth has an adverse financial impact on the federal government.
+
+In order to keep premiums as low as possible, Medicaid expansion needs to be universal, and states need to involve themselves as much as possible in the exchanges, even if they leave the bulk of the work to HHS.

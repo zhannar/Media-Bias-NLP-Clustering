@@ -1,0 +1,31 @@
+A new, inexpensive microchip quickly diagnoses patients with HIV/AIDS and could lead to a simple finger stick test for the disease.
+
+A new microchip about the size of a quarter can accurately test for HIV/AIDS, opening the door for an inexpensive handheld device that can instantly diagnose people carrying the disease.
+
+Of the 33 million worldwide with HIV, nearly one in four are eligible for treatment but don’t know it, according to the World Health Organization. The majority live in low- to middle-income nations, though this issue permeates in developed countries like the United States. These hidden patients often have limited access to the medical personnel and supplies that could screen for the disease.
+
+And being unaware of their status leaves them open to unknowingly spreading the virus and impedes efforts to control the disease.
+
+The holy grail for AIDS health workers would be a handheld HIV detector that they could carry from the streets of Nairobi to the alleys of Chicago. Similar to Star Trek’s tricoder, the gadget could assess a patients disease status in the blink of an eye.
+
+Scientists at the University of Illinois at Urbana-Champaign have taken a major step toward achieving this goal by developing a microchip that can diagnosis the virus with the same efficiency and accuracy as sophisticated hospital equipment.
+
+Akin to the fingerstick test that diabetics use to measure glucose, the gadget can take a single drop of blood from a patient and judge whether they are carrying HIV. It works by channeling the blood cells through a microscopic network of passages shaped like a snake.
+
+At the end of this serpentine maze, a pulse of electricity is passed through the cells, which measures their dimensions.
+
+CD4 T-cells, which are the part of the human immune system destroyed by the HIV virus, have a prescribed size that is recognized and counted by the microchip.
+
+It also counts CD8 T-cells, which would be important for diagnosing HIV in infants. CD8 T-cells are elevated in babies infected with HIV, while the loss of CD4 T-cells may be less apparent. The ability to measure CD4 and CD8 levels in seconds is a versatile feature of this device that surpasses previous attempts to create an HIV lab on a chip.
+
+The new microchip doesn’t use complex lasers or fancy optics, so it could be easily adapted into a portable, battery-powered HIV detector, according to the report published today in Science Translational Medicine. “A good analogy is our device is like a mp3 player vs. current technology is like a portable CD player, which has optics to read the disc,” said Dr. Nicholas Watkins, a nanotech engineer who developed the biochip while earning his PhD at the University of Illinois.
+
+"So far, there are very few "point-of-care" automated CD4+ T cell counters, and they require optics (lasers, diodes, charge-coupled devices, lenses, mirrors, etc.), which generally makes them more fragile, more expensive, and more bulky," continued Watkins.
+
+Watkins estimates that it will take a couple of years to design a handheld unit to go with the chip and run it through clinical trials.
+
+Such a device could “eliminate the barriers that currently prevent access to 69% of HIV-infected people in resource-limited settings like Sub-Saharan Africa”, write the authors who were led by Dr. Rashid Bashir, a professor of bioengineering and of electrical and computer engineering at the University of Illinois.
+
+“This approach has the potential to be realized as a handheld, battery-powered instrument that would deliver simple HIV diagnostics to patients anywhere in the world, regardless of geography or socioeconomic status,” the authors conclude.
+
+Source: Watkins NN, Hassan U, Damhorst G, Ni H, Vaid A, Rodriguez W, Bashir R. Microfluidic CD4+ and CD8+ T Lymphocyte Counters for Point-of-Care HIV Diagnostics Using Whole Blood. Science Translational Medicine. 2013.

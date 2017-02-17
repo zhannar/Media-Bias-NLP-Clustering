@@ -1,0 +1,23 @@
+If you’re like us, then you’ve probably wondered at least once or twice if the plot of Eternal Sunshine of the Spotless Mind could ever become a reality: Couples opt to have their memories erased, but later on they can always choose to watch the videos in which they detailed everything they wanted to forget. Is it possible we can use technology to stimulate the brain and recover lost memories? A new study from the Massachusetts Institute of Technology (MIT) says yes.
+
+Neuroscientists looked at memory loss in the context of early-stage Alzheimer’s disease (AD), where patients typically can’t recall recent memories or experiences. Patients’ overall cognitive function declines as the disorder progresses. According to the authors, most research aims to understand the relationship between memory impairments and the formation of the plaques and proteins that mark AD. But when it comes to disease onset, experts still don’t know if memory loss is due to actual memory impairment or a reduced ability to recall stored memories.
+
+To learn more, the neuroscientists compared a group of mice with the disease and a group without it. They placed both groups in a chamber wired to electrically shock their feet. When returned to the chamber an hour after the first shock, the mice all showed fear. But when the researchers placed the mice back in the chamber after several days, only the healthy group showed fear. The mice with AD didn’t seem to remember getting shocked.
+
+Lead study author Dheeraj Roy, an MIT graduate student, said in a statement that “short-term memory seems to be normal on the order of hours.” Long-term memory, however, seems to be impaired.
+
+Roy and his colleagues wanted to unpack this more, so they used a biological technique called optogenetics that involves shining a light on certain cells in living tissues to control and monitor their activity. In this case, the cells were engrams, neurons that hold traces of specific memories.
+
+When the neuroscientists activated engrams with the light in healthy mice, the test subjects could recall the shock memory. While mice with AD also showed fear when their cells were activated, neuroscientists could see they had fewer dendritic spines, small buds that allow neurons to send along incoming signals from other neurons.
+
+"Directly activating the cells that we believe are holding the memory gets them to retrieve it," Roy said. "This suggests that it is indeed an access problem to the information, not that they're unable to learn or store this memory."
+
+Normally, engram cells that correspond to a certain memory grow new dendritic spines. Roy and his team said this wasn’t the case for AD mice. So they suspect the chamber, which should be a natural memory cue, doesn’t work because there’s no way for the sensory information to get into the engram cells.
+
+"If we want to recall a memory, the memory-holding cells have to be reactivated by the correct cue,” said study co-author Susumu Tonegawa, director of the RIKEN-MIT Center for Neural Circuit Genetics at the Picower Institute for Learning and Memory.
+
+The neuroscientists affirmed this when they successfully stimulated new connections in the mice in two brain regions crucial to memory formation, the entorhinal cortex and the hippocampus, inducing memories that the mice with AD seemed to have lost.
+
+So it might be you never really lose your memories — you just have a harder time accessing the places the brain has stored them.
+
+Source: Roy DS, et al. Memory retrieval by activating engram cells in mouse models of early Alzheimer’s disease. Nature. 2016.

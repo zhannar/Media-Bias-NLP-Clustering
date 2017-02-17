@@ -1,0 +1,87 @@
+Reprinted from REPORT ON PATIENT PRIVACY , the industry's #1 source of timely news and business strategies for safeguarding patient privacy and data security.
+
+A landmark voluntary settlement agreement between the HHS Office for Civil Rights (OCR) and a New York City medical center announced last month has established a new standard for appropriate policies and procedures to ensure privacy and appropriate care of transgender patients.
+
+OCR’s agreement with The Brooklyn Hospital Center (TBHC) was prompted by allegations that it violated an antidiscrimination provision in the Affordable Care Act (ACA) when it assigned “a transgender female who presented as a female at the hospital…to a double occupancy patient room with a male occupant.”
+
+Under the terms of a two-year settlement, TBHC agreed to adopt, and train employees, on new policies and procedures tailored to transgender patients that address everything from admitting and rooming to documenting patients’ “legal and a preferred name” and their “gender and/or transgender status, if the Patient has identified that status and agrees that it should be recorded.” Employees also are to become familiar with terms such as “gender non-conformity” and “sex assigned at birth.”
+
+Although OCR said it “made no formal finding,” this marks the first time OCR has investigated and outlined actions to be taken following a complaint of a violation of Section 1557 in the ACA, which “prohibits discrimination on the basis of race, color, national origin, sex, age, or disability in any health program or activity, any part of which is receiving Federal financial assistance.”
+
+Chris Apgar, president of the HIPAA consulting firm Apgar & Associates, tells RPP the settlement should serve as a “wake-up call” to all covered entities (CEs) and business associates (BAs). “The next settlement may not be a voluntary settlement and may include the levying of civil penalties,” he warns.
+
+The agreement “is a great step forward” and “can be a model for other hospitals going forward who want to do the right thing before HHS comes knocking on their door,” Demoya Gordon, a regional and Transgender Rights Project adviser with Lambda Legal, tells RPP.
+
+This is not the only such complaint OCR is investigating, and hospitals and other HIPAA covered entities should being preparing to pay more attention to transgender issues. The first-ever court case alleging sex discrimination in a health care setting, filed in 2014, has been allowed to move forward.
+
+Last month, a judge in the case refused to grant Fairview Health System’s motion for a delay pending the conclusion of OCR’s investigation into the same incident underlying the case. The patient in this case is seeking financial damages as well as changes to Fairview’s policies and procedures for transgender patients.
+
+OCR’s July 14 settlement with TBHC was just one of two the agency announced last month; the other, issued July 10, calls for St. Elizabeth’s Medical Center in Massachusetts to pay $218,400 and comply with a one-year corrective action plan to “cure gaps” in its “HIPAA compliance program” (see story, p. 1).
+
+Actions Carry Deadlines
+
+OCR’s announcement of the settlement provides no details regarding the complaint beyond that the patient was roomed with a male; the agency did not respond to questions from RPP about the case. Both OCR and TBHC issued short statements about the settlement, and they also contained no additional information.
+
+The agency “was pleased to come to a voluntary agreement with TBHC, resolving a complaint filed by a transgender individual alleging discrimination on the basis of sex,” OCR says in the statement to RPP. The agency noted that Section 1557 has been effective since the law’s enactment, and OCR has been accepting and investigating complaints under this authority,” and emphasized that “hospitals are barred from discriminating on the bases of race, national origin, disability, age, and sex, including gender identity and sex stereotyping.”
+
+In a statement, Jonathan Weld, acting CEO, says TBHC is “extremely proud of the services we provide to all of our patients and were pleased to be able to resolve this issue with the OCR. We welcome transgender patients and look forward to many more years of serving them and the rest of our community.”
+
+Under a section in the agreement titled “General Obligations and Revision, Development and Implementation of Policies and Procedures,” OCR specifies both broad and specific requirements, with deadlines attached to most of them.
+
+For example, the hospital agreed that it would “provide all individuals with the full and equal enjoyment of the services, privileges, facilities, advantages, and accommodations of TBHC without discrimination” and “shall not discriminate on the basis of sex, which includes gender-based discrimination.”
+
+Within three months of the signing of the agreement, TBHC must “revise all of its policies, procedures, regulations, and related documents and materials related to discrimination” to state that it will not engage in “gender-based discrimination.”
+
+It also must state that “every patient has the right to competent, considerate and respectful care that fosters their dignity and comfort and is free from all forms of discrimination” and the right to “privacy and confidentiality during medical treatment or other rendering of care within TBHC.” These statements must also be posted around TBHC’s facilities, “provide the process for filing and resolving grievances about discrimination” and list contact information for a responsible official.
+
+A related provision, which Gordon at Lambda hailed as particularly progressive, holds the hospital to account for not discriminating against individuals with an “association” to a transgender patient.
+
+Implementation May Prove Challenging
+
+The agreement states TBHC “shall not deny equal services, accommodations, or other opportunities to any individual because of the known relationship of the individual with a person based on the person’s sex, including gender identity, gender expression, and nonconformity with gender stereotypes.”
+
+During the next two years, TBHC must report to OCR on its progress implementing the terms of the agreement. It will be subject to other enforcement actions if it fails to complete the requirements to the satisfaction of OCR.
+
+Technological challenges alone may make putting the requirements in place difficult, HIPAA expert Apgar tells RPP, and CEs could ironically end up violating a transgender patient’s privacy rights under HIPAA.
+
+New policies for intake, admitting and room assignment are based on processes of “afford[ing] an opportunity for a Patient to provide both a legal and a preferred name, as well as the opportunity for an individual to identify their sex and/or gender, including transgender status (e.g. ‘Transgender Female/Male-to-Female’ or ‘Transgender Male/Female-to-Male.’”
+
+EHRs May Be a Problem
+
+TBHC must document the patient’s preferences, the settlement states. But Apgar says he doesn’t believe most electronic health record (EHR) systems have data fields that can accommodate such information. “To my knowledge, EHRs aren’t that sophisticated. Most can record sex, but the additional details regarding gender status, etc. would likely be noted in the chart notes,” he says. “That means anyone with access to the chart notes would see the details.”
+
+Furthermore, transgender patients may want to reveal their status to some treatment providers but not others. In this case, CEs will need to segregate this information or run the risk of violating the privacy rule.
+
+This might push the limits of IT security, Apgar adds. “Some EHRs have the ability to restrict access to certain portions of the record or set up ‘break the glass’ that notifies the treating provider that a patient’s record has been accessed by another provider with access to the EHR. That wouldn’t necessarily stop someone from looking.”
+
+He likens this to “an area where CEs need to pay as much attention to as what is often called especially sensitive health information such as HIV/AIDS, mental health, genetics, etc.,” adding that “there need to be some improvements in EHRs to permit easier segregation of sensitive data.”
+
+In addition, the “minimum necessary” standard will also come into play in certain situations. For example, there may be no need for an emergency department physician to know a person is transgender to stitch up a cut or attend to a broken arm.
+
+“CEs should make every effort to limit access to sex/gender identity information, including transgender status, to only those practitioners who really need access for treatment purposes and if it’s necessary when assigning the patient the proper room,” Apgar says. If the required documentation defaults to paper, CEs will need to address the need for heightened safeguards, he adds.
+
+Hospital-Wide Reforms Are Recommended
+
+Some of the provisions in the settlement mimic those outlined in a 2013 report, Creating Equal Access to Quality Health Care for Transgender Patients: Transgender-Affirming Hospital Policies, developed by a group of organizations including Lambda Legal and the Human Rights Campaign Foundation. (For more information, see http://www.lambdalegal.org/blog/20131105_transgender-affirming-hospital-....)
+
+Lambda’s Gordon told RPP her organization has “confirmation” from OCR officials that the agency utilized its report on transgender policies for hospitals. Although she praised the agreement, Gordon said it leaves out many specifics and is “not as robust or explicit” as the policies Lambda and the other groups recommend.
+
+For instance, under the agreement TBHC must not discriminate in its rooming policy. But OCR doesn’t say what that means. The Lambda report, in contrast, recommends that, if single rooms are not possible, patients be placed with patients whose gender matches how they “self-identify.” The new settlement also does not address how bathroom access will be handled.
+
+Nevertheless, she and others, including Kristen Eckstrand, M.D., Ph.D., founding chair of a transgender advisory committee for the Association of American Medical Colleges, say the settlement signals a new day for transgender patients, who studies show face significant hurdles in obtaining health care.
+
+Eckstrand, former director of Vanderbilt University’s Program for LGBTI Health, tells RPP the settlement is exciting for its “potential” to influence other hospitals to take action. The agreement will help educate the health care community about a topic that is “so new,” she says. “There is not always a good understanding of what discrimination means,” she adds.
+
+The requirements for training of staff will be critical, Eckstrand points out, so that medical staff know how to respond –– in a nondiscriminatory way — once the patient’s status is established. “People who are trans know that it is very scary to come out. In health care there is also a privacy issue,” she says, and patients shouldn’t have to reveal this status unless they want to.
+
+ACA Provision ‘Makes a Big Difference’
+
+Jill Gaulding, co-founder of the law firm Gender Justice, which is representing the Minnesota patient alleging discrimination, tells RPP she was “pleased to see the measures implemented by the Brooklyn Hospital Center in response to OCR’s investigation.” She adds that “Section 1557 is making a big difference in people’s lives.”
+
+In court documents, Gaulding argues that the complaint to OCR filed by her client was separate from the lawsuit. Her client, Jacob Rumble, is seeking “monetary damages [that] are available within this lawsuit, and not the OCR proceedings,” the filings state.
+
+Fairview Health System and the emergency room physician who treated Rumble have denied the allegations of discrimination.
+
+© 2015 by Atlantic Information Services, Inc. All Rights Reserved.
+
+At The AIS Marketplace: How to Comply With New HIPAA/HITECH Rules, authoritative guidance on the multitude of rules HIPAA covered entities, business associates and subcontractors must comply with … and the ways in which the risks and relationships among these three types of HIPAA entities have changed. Click here for more information and to order today.

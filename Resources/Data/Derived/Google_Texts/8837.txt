@@ -1,0 +1,41 @@
+Craig Venter, who mapped the human genome and whose current work manipulates genetics as a way to enhance human longevity, tells an American Heart Association forum the next decade will be an "exciting ride," while entrepreneurs present new apps and clinical decision support software.
+
+Craig Venter, who mapped the human genome and whose current work manipulates genetics as a way to enhance human longevity, tells an American Heart Association forum the next decade will be an "exciting ride," while entrepreneurs present new apps and clinical decision support software. Reuters
+
+Every wave, no matter how big, no matter how beautiful, crashes on the shore. And so, Dr. J. Craig Venter, co-founder of Human Longevity Inc., admitted to feeling disappointed following his historic mapping of the human genome over 15 years ago.
+
+“I think we all thought a lot more was going to fall out of having the first genomes and how it was going to change medicine,” Venter told Maria Bartiromo, news anchor for the Fox Business Network, at the American Heart Association innovation investment forum Wednesday. “It’s changed the pharmaceutical industry… but it hasn’t done as much as most people anticipated.”
+
+Venter, the former surfer dude (and general bad boy) of science who now resembles a fit Santa Claus with a white beard and twinkling eyes, is far from gloom and doom, though.
+
+“It’s going to be an exciting ride in the next 10 years,” he said. Because technology has changed so dramatically since the genome was first mapped, he and other scientists now have previously unavailable machine learning, artificial intelligence, and computational tools to do the kind of experiments and analysis they first imagined all those years ago.
+
+“I think there’s going to be more breakthroughs in the next decade than in the past 100 years,” he added.
+
+Strangely, the AHA forum itself contained the same two threads of disappointment and excitement, as well. While it seems nearly everyone has created a new health care app, for example, most seemed unnecessary, convoluted, or why-would-anyone-ever-want-that to Medical Daily ... and apparently to some of the others attending the AHA forum.
+
+"I live in Silicon Valley and there are so many health applications and guess what? It’s all engineers, software developeers, and designers," Dr. Ivana Schnur, co-founder of SENSE.LY, a virtual nurse platform to provide monitoring and follow-up care to patients, told Medical Daily. "And they do an incredible amount of work, and I look at [their app] and go, 'It’s never going to do anything because the doctors are not going to like this this and this and you’re going about it the wrong way.'"
+
+While Schnur sees inadequacies from a doctor's perspective, many of the new apps seem to lack patient appeal. One possible exception might be Moving Analytics Inc.’s mobile app, which guides patients through an evidence-based care plan consisting of supervised exercise, educational materials, and vital signs monitoring. The product came in second place during the Open Innovation Challenge, a game show-like competition among four products vying for funding from the AHA. (Is it Shark Tank, where so-called renowned venture capitalists vet products before the rolling cameras and a live studio audience?) Importantly, Moving Analytics’ platform is based on a program already in place at USC, a home-based cardiac rehab program that already works. Their product portal not only enables case-managers to track patient progress, but it also allows for reimbursement from the Centers for Medicare & Medicaid Services (CMS).
+
+And there’s the rub — or at least the money.
+
+Medicare Big Bucks
+
+Essentially, apps that can be prescribed by doctors and which feed data and vital health information directly into a patient’s medical record, may be (in some instances) reimbursed by CMS. While one of the app makers suggested his product would be an automatic win-win, with app makers and doctors sharing the profits, Medical Daily wonders if everything would shake out so simply. More importantly, where is the patient, ahem, in all this happy money-making?
+
+There are some vast and deeply nuanced gray areas, from both an ethical and regulatory point-of-view, arising at the intersection of tech and health care. And this gray area is populated, naturally enough, by gray apps. By now, many of us are familiar with the general health and wellness apps, such as the ever present step-counters (pedometers) or pulse measurement products, which offer, essentially, health information lite to consumers. But then there's a whole 'nother kind of product.
+
+Along with the everyday wellness apps, tech types based in Silicon Valley also are creating apps that provide crucial support to doctors, such that they might really be seen as clinical decision support software. In other words, your doctor will be diagnosing you or treating you based on app-generated data… and recommendations. In the words of Janet Trunzo, a senior executive vice president, technology and regulatory affairs at AdvaMed — the medical device trade association: “When does the medical mobile application become a medical device and therefore be regulated?”
+
+And, more importantly to you, the patient and tax-paying citizen, which of these apps will be receiving money from CMS? Which of these apps are worthy of potentially becoming institutionalized, at least for a time, throughout our health care system? Seemingly, once they prove themselves worthy of reimbursement, with money flowing directly to prescribing doctors, that’s what they very well may become.
+
+Synthetic Genomics
+
+And in some strange way this all leads us back to Venter. Turns out the very first grant he ever received, way back in 1976, came his way by way of the American Heart Association, he tells the loving audience. Discussing his current research, he speaks of tweaking the genes of a pig in order to, in his words, humanize the creature and so grow organs (hearts, kidneys, livers, and most especially, lungs) that might be used while testing drugs and other health care products and also someday be used for transplants.
+
+He’s also taking “30,000 unique measurements for somebody’s face” and then applying machine learning algorithms in order to generate a good picture of someone's face straight from their genetic code. This is intended to show people how personal genetic information is and that “you cannot de-identify your genetic code” since it truly describes you physically and structurally. More importantly, these measurements and experiments all lead back to the brain. One of the teams he works with takes complex 2D MRI brain images and converts them by way of some “nice quantitative algorithms” into precise measurements of the different brain regions so that, “better than any pathologist,” each and every minor change in the brain can be tracked and identified.
+
+“If you’re developing dementia, we can take brain scans as soon as three months apart and see differences” he says, but more importantly, this precise vision inside someone’s head gives scientists “the ability to find the genetic association between, for example, hippocampal size and these slight changes.” Naturally, once the genetics are known, the precision medicine to cure what ails us will be next. After all, his end-game currently is longevity science, where the goal is not living to be, say 149, but “a normal lifespan without disease.”
+
+Joking with Bartiromo that even he has trouble keeping up with all the advances he's talking about, he concluded, “Our biggest challenge right now is trying to cope with all the data in a way that we can interpret it.” Though briefly caught in a riptide of data, he's clearly ready to stand on his board and ride his (newest) wave onto the shore of healthy longevity.

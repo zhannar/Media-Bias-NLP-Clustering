@@ -1,0 +1,17 @@
+A new treatment for diabetes might be as easy as switching off a single gene. Scientists at Columbia University's Naomi Berrie Diabetes Center have converted human gastrointestinal cells into insulin-producing cells. The research was reported in the journal Nature Communications.
+
+"People have been talking about turning one cell into another for a long time, but until now we hadn't gotten to the point of creating a fully functional insulin-producing cell by the manipulation of a single target," said the study's senior author, Dr. Domenico Accili, the Russell Berrie Foundation Professor of Diabetes at Columbia University Medical Center, Medical Express reported.
+
+The researchers suggest that this can be done by taking the cells lost in type 1 diabetes, replacing them by transplanting new cells created by adult stem cells, and educating the existing cells. In type 1 diabetes, the body’s immune system destroys insulin-producing cells. Scientists have been trying to make surrogate insulin for type 1 diabetes for 20 years.
+
+They found that even though insulin-producing cells are able to be made from stem cells, there is a caveat: They don’t function like naturally occurring pancreatic cells. This is sometimes done surgically, and this new technique could reduce the need for this type of surgery. Also, with the current procedures there is a an issue with the human immune system rejecting foreign cells.
+
+The scientists were able to teach the human gut cells to make insulin by deactivating the cells' FOXO1 gene. The FOXO1 gene plays an important role in regulating gluconeogenesis (a metabolic pathway that results in the generation of glucose) and glycogenolysis (the breakdown of glycogen).
+
+Accili and a postdoctoral fellow Ryotaro Bouch, first designed the tissue model through genetic engineering. The team then deactivated the functioning FOXO1 inside of the intestinal cells. Seven days later, they found that some of the cells started releasing insulin only in response to glucose, mimicking the body’s natural process.
+
+The first research on this technique was done on mice in 2012, led by Accili, and the study has since been confirmed by independent analysis.
+
+Now the next step will be to find a drug that inhibits the FOXO1 gene in the human body. And this type of drug would take several years to be tested safe and effective for human use. The team at Columbia is currently working on such a drug.
+
+Source: Accili D, Bouchi R, Foo KS et al. FOXO1 inhibition yields functional insulin-producing cells in human gut organoid cultures. Nature Communications. 2014.

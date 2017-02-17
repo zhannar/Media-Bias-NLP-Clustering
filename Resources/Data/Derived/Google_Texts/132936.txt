@@ -1,0 +1,53 @@
+Viruses used to be so simple.
+
+You’d go online with your dial-up modem, take 25 minutes to naively download an appealing-sounding .exe file, and suddenly a sheep would walk across the screen or an embarrassing e-mail would be sent to your entire address book. Some would even wish you a Happy New Year.
+
+Annoying, maybe, but they had their own ‘90s cyber-kiddie sense of charm.
+
+Some viruses, of course, were incredibly disruptive. Now, though, viruses and malware have become even more malicious. They’re out for more than just hacker cred – they’re out for your money.
+
+For a long time, malware scammers used tactics known as Scareware. The malicious software fraudulently claims that your computer has a serious virus infection then sends you to a page to buy their (useless) anti-virus software.
+
+Related: Porn, Drugs, Hitmen, Hackers: This Is the Deep Web
+
+While this is certainly still around, many people have gotten wise to the fraud. Now some scammers are playing hardball. Enter Ransomware.
+
+Ransomware is a form of malware that encrypts files on your hard drives with a highly complicated algorithm then presents you with an ultimatum: Pay up or you lose your files forever. The inherent brilliance in the software is this: While the software can be removed, the files remain encrypted. Paying the ransom is the only chance you have to see your files again.
+
+Although this scam has been around since 1989, only recently has it become widespread due to advancements in cryptography algorithms, the ability to extort via the anonymous currency Bitcoin, and the digitization of once-analog items of sentimental value like family photos and home videos.
+
+Some consumers are aware of the latest and most notable iteration of this trend known as CryptoLocker, which encrypts the user’s data with a 2048-bit RSA Algorithm. The scammers weren’t fooling around when they invented this complicated algorithm, which is incredibly difficult – if not impossible – to crack without a key, which will cost victims about $150 to $300.
+
+Cryptolocker has been incredibly successful. Owing to surprisingly good “customer service” — the majority of people who pay the ransom have their files restored — the men behind the Cryptolocker curtain have raked in over $27 million in Bitcoin over a period of three months, according to an examination of the Bitcoin blockchain by ZDNet.
+
+Related: Cyber Crime Pays: A $114 Billion Industry
+
+Due to the inherent success of the software, it seems only logical that a bevy of copycats would show up.
+
+And they have. In droves.
+
+One version, which claimed the owner of the computer had been caught with illicit material on his computer, demanded a fine. The ordeal caused a Romanian man to take his own life and that of his son two weeks ago.
+
+While Ransomware has evolved as a threat to home computer users, it bears a sizeable risk to the business world as well. After all, the earlier versions of Cryptolocker actually targeted business professionals, hiding itself within emails claiming to be a “consumer complaint.”
+
+McAfee, the prominent maker of anti-virus products, predicts that Ransomware in 2014 will evolve to further target businesses and business owners, and that the software will shift to the mobile realm this year. Scammers will, according to McAfee, use the information gleaned from business owners' mobile devices to gain a “tactical advantage” over the businesses, which could end up costing them untold amounts of money.
+
+It's scary stuff certainly, but home users and business owners still have one easy way out – ensuring all their files are backed up using a cloud-based service, untouchable to any scammers.
+
+In terms of which service to pick, there are hundreds of them out there.
+
+Box for Business is an affordable option, offering a terabyte of storage per user, at a price of $15 a user.
+
+Amazon’s S3 offer’s a pay-per-use monthly pricing scale at 10 cents a gigabyte.
+
+At $55 a month for 3 users, SugarSync for Business is a slightly pricier option, but boasts a collaborative sharing platform and mobile access.
+
+
+
+
+
+Suffice it to say, regardless of the particular needs of your family or your organization, there’s a service out there’s that caters to them. There’s no excuse to keep only data stored locally.
+
+Once everyone does this, Ransomware will seem much less threatening.
+
+Top Reads from The Fiscal Times:

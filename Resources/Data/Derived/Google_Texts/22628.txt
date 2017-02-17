@@ -1,0 +1,51 @@
+Apple CEO Tim Cook speaks during an Apple event announcing the iPhone 6 and the Apple Watch at the Flint Center in Cupertino, California, September 9, 2014.
+
+Apple CEO Tim Cook speaks during an Apple event announcing the iPhone 6 and the Apple Watch at the Flint Center in Cupertino, California, September 9, 2014. REUTERS/Stephen Lam
+
+SAN FRANCISCO (Reuters) - Two prominent U.S. hospitals are preparing to launch trials with diabetics and chronic disease patients using Apple Inc's HealthKit, offering a glimpse of how the iPhone maker's ambitious take on healthcare will work in practice.
+
+HealthKit, which is still under development, is the center of a new healthcare system by Apple. Regulated medical devices, such as glucose monitors with accompanying iPhone apps, can send information to HealthKit. With a patient's consent, Apple's service gathers data from various health apps so that it can be viewed by doctors in one place.
+
+Stanford University Hospital doctors said they are working with Apple to let physicians track blood sugar levels for children with diabetes. Duke University is developing a pilot to track blood pressure, weight and other measurements for patients with cancer or heart disease.
+
+The goal is to improve the accuracy and speed of reporting data, which often is done by phone and fax now. Potentially doctors would be able to warn patients of an impending problem. The pilot programs will be rolled out in the coming weeks.
+
+Apple last week mentioned the trials in a news release announcing the latest version of its operating system for phones and tablets, iOS 8, but this is the first time any details have been made public. Apple declined to comment for this article.
+
+Apple aims eventually to work with health care providers across the United States, including hospitals which are experimenting with using technology to improve preventative care to lower healthcare cost and make patients healthier.
+
+Reuters previously reported that Apple is in talks with other U.S. hospitals. Stanford Children's Chief Medical Information Officer Christopher Longhurst told Reuters that Stanford and Duke were among the furthest along.
+
+Longhurst said that in the first Stanford trial, young patients with Type 1 diabetes will be sent home with an iPod touch to monitor blood sugar levels between doctor's visits.
+
+HealthKit makes a critical link between measuring devices, including those used at home by patients, and medical information services relied on by doctors, such as Epic Systems Corp, a partner already announced by Apple.
+
+Medical device makers are taking part in the Stanford and Duke trials.
+
+DexCom Inc , which makes blood sugar monitoring equipment, is in talks with Apple, Stanford, and the U.S. Food and Drug Administration about integrating with HealthKit, said company Chief Technical Officer Jorge Valdes.
+
+DexCom's device measures glucose levels through a tiny sensor inserted under the skin of the abdomen. That data is transmitted every five minutes to a hand-held receiver, which works with a blood glucose meter. The glucose measuring system then sends the information to DexCom's mobile app, on an iPhone, for instance.
+
+Under the new system, HealthKit can scoop up the data from DexCom, as well as other app and device makers.
+
+Data can be uploaded from HealthKit into Epic's "MyChart" application, where it can be viewed by clinicians in Epic's electronic health record.
+
+PRIVACY MATTERS
+
+While HealthKit promises to enhance the process of data-sharing between physicians and those under their care, observers have noted the potential for sensitive data to be abused. Others are leery of having all their private information stored in one location, susceptible to hackers for instance.
+
+To ensure patient privacy, Apple is considering creating a "HealthKit Certification" for third party developers, with conditions stipulating how data must be stored securely on devices and forbidding sale of data to advertisers, according to people familiar with Apple's plans. Apple recently updated its developer guidelines with data sharing rules for health apps.
+
+Stanford's Longhurst said he expects the pilot to be expanded quickly if there are no problems.
+
+Rajiv Kumar, the physician leading Stanford's pilot and a pediatric endocrinologist at Stanford Children's Health, said his team may soon be able to set up alerts, so they can notify patients via Epic MyChart when their blood sugar spikes or falls.
+
+Kumar said two young patients with diabetes have been chosen to participate in the initial trial and he hopes to extend the pilot to teens and infants.
+
+Duke University's Ricky Bloomfield, an internal medicine pediatrician and director of mobile strategy, hopes the pilot will help doctors access the data they need to better monitor sick patients living at home.
+
+"This could eliminate the hassle of getting data from patients, who want to give it to us," said Bloomfield. "HealthKit removes some of the error from patients' manually entering their data."
+
+By Christina Farr
+
+(Editing by Edwin Chan and Peter Henderson)

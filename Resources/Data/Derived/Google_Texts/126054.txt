@@ -1,0 +1,27 @@
+A lot has happened since John Glaser, Ph.D., left Partners Healthcare, where he had been CIO for 15 years, and joined Siemens Healthcare as its CEO in June 2010. Intensified competition, industry consolidation, federal healthcare reform in the form of the Affordable Care Act, and the meaningful use process under the HITECH (Health Information Technology for Economic and Clinical Health) Act, are among the biggest phenomena that have affected the healthcare industry, and in particular the healthcare IT vendor market the most profoundly.
+
+And it is that context that the Kansas City-based Cerner Corporation and the Malvern, Pa.-based Siemens Healthcare announced a deal on Aug. 5, in which Cerner sill acquire the health IT business of Siemens Healthcare, for $1.3 billion. As Healthcare Informatics reported on Wednesday, the deal between Cerner and Siemens AG, the Germany-based parent company of Siemens Healthcare, will combine R&D, knowledgeable resources, and complementary client bases between Cerner and Siemens’ healthcare IT business. As part of our Wednesday report, HCI Associate Editor Rajiv Leventhal interviewed Cerner president Zane Burke.
+
+This morning, HCI Editor-in-Chief Mark Hagland was granted an industry-exclusive interview with John Glaser, Ph.D of Siemens, in order to get the Siemens perspective on the business deal. Below are excerpts from that interview.
+
+
+
+John Glaser, Ph.D.
+
+How did the talks happen between the two companies that led to this business decision?
+
+There had been conversations over several years between the Siemens and Cerner folks, and occasional collaborations. Two things have become clear to me in the last several years. One, given the pressures on the providers, which you know well, including the need to create ACOs [accountable care organizations] and patient-centered medical homes, population health, etc., and if you really want to be an enterprise clinical IT company in this space, you really need to be able to invest strongly in R&D [research and development] . And the whole technology space, along with social media, is just getting broader and more demanding. And it’s server hosting. And it’s workflows, sophisticated algorithms around readmissions work; those are also elements in the mix. The point is, these are becoming very large, very complex [clinical information] systems. So if you’re going to thrive in the years ahead, you have to have a very sophisticated platform, and a very large footprint in the industry.
+
+So one rationale [for the Cerner deal], and this was part of the Siemens discussion, is that health services capability has to achieve a scale greater than it already is. And if you look at how many [electronic health record] companies were certified for Stage 1 versus Stage 2 [of meaningful use], there was a huge drop-off [in Stage 2], because of the amount of resources needed to stay in the game. So the first thing [involved in the calculation around the deal] was the ability to amass significant resources. The second thing is that Siemens had this thing called Med Meets IT, around the integration of imaging, laboratory diagnostics, and classic electronic health records. And I think the assumption was that if you were really good with EHRs on the IT side, that would translate into imaging informatics and laboratory diagnostics as well, and it became clear that those were very specialized areas.
+
+And so Siemens realized if it was going to invest in IT, it was far better to invest in IT immediately related to those projects. So the strategic value of the group I was running was becoming less. Siemens Healthcare was concluding that if our group wanted to acquire a higher level of prowess, we need to realign, and develop new strategies around how to bring the data together, develop new algorithms, and so on. So that was the rationale—that you needed to build up the core IT strength. Meanwhile, Siemens needed to build up its core strengths. And all that led to the conversation that led to
+
+So just to be clear, Siemens Healthcare’s PACS [picture archiving and communications systems] and RIS [radiology information systems] business units will not go with Cerner in this deal?
+
+That’s correct; those will remain with Siemens.
+
+What will happen to Syngo?
+
+Syngo will remain with Siemens also, and will remain centered on advanced visualization.
+
+Some in the industry are comparing this to the Allscripts-Eclipsys merger, which ended up being much rockier than had been predicted, in its execution, and ultimately led to a lot of governance problems, and the dismissal of the CEO. What would you say to those who are making the comparison of this deal with that one?

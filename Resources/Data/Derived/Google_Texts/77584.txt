@@ -1,0 +1,19 @@
+The introduction of Windows 10 may very well be the first step into the new age of online security and authentication where we will no longer be need passwords.
+
+Passwords have been the cyber world’s primary authentication method from as far back as we can remember. The simple use of a username and a password is pretty convenient not only to users, but also to others with ill-motives of accessing private data.
+
+Hackers can easily take advantage of weak passwords or gullible individuals through brute force attacks and phishing scams. This is why passwords are now slowly becoming obsolete as cyber criminals are getting better at their craft. We can see this in the latest wave of celebrity hackings that shocked the world.
+
+Windows 10 provides answers to the hacking problem that’s been plaguing the cyber world with two new features that epitomize Bill Gate’s 2004 prediction of the password’s death. The latest version of the premiere operating system from Microsoft introduces the Windows Hello and the Microsoft Passport.
+
+The Windows Hello eliminates authentication via keyboard encryption. This new security feature makes use of the biometric authentication, wherein users can gain access just by scanning their fingerprints, iris, or faces.
+
+However, the usage of Windows Hello will require specialized hardware for the assurance of effectiveness. For example, for facial recognition to take effect, the Intel RealSense 3D camera will have to be installed on the user’s PC, smartphone, or tablet. The camera uses the similar complex imaging technology in Xbox’s Kinect, wherein there is little to no chance of bypassing the security by merely scanning a photo of the user’s face.
+
+Microsoft Passport will then ensure the security of how users sign-in. Passport eliminates the process of storing authentication information, such as passwords, in servers that hackers can potentially breach. Instead, two-factor authentication will take place, wherein Passport will authenticate to networks, apps, and websites on the user’s behalf.
+
+Microsoft announced that Passport will work with a Microsoft Account, Microsoft Azure Active Directory account, Active Directory account, or other non-Microsoft services that support Fast ID Online (FIDO) authentication. The users will be able to access their PC or other desired applications after using Windows Hello or a simple PIN for authentication.
+
+The giant technology company will be in affiliation with FIDO alliance to successfully achieve the goal of replacing the use of passwords with a more secure form of authentication.
+
+[RoSonic / Shutterstock.com]

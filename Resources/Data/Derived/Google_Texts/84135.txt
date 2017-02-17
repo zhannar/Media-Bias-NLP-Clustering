@@ -1,0 +1,71 @@
+Saturday, January 2, 2016
+
+We discussed the European Commission’s (the “Commission”) proposal for a regulation (the “Regulation”) intended to harmonise existing EU laws applying to securitisations, including EU risk retention rules, and to create a legal framework intended to encourage “simple, transparent and standardised securitisations” (“STS securitisations”) in our briefing note dated 1 October 20151. This update looks at jurisdictional and transparency aspects of the latest draft of the Regulation, in particular focusing on some of the ways in which it may affect market participants in the US.
+
+Legislative Background
+
+On 30 September 2015 the Commission announced a package of measures designed to develop and integrate capital markets across the EU as part of its programme to build a Capital Markets Union. One of these measures was the proposed Regulation. On the same day, the Commission published a proposal for amendments to the Capital Requirements Regulation (the “CRR”) designed to reduce the regulatory capital requirements for exposures to STS securitisations.
+
+Legislative Developments since 30 September 2015
+
+Following its publication by the Commission, the European Council, which comprises representatives of the Member States’ governments, considered the proposed Regulation and moved rapidly in producing three further drafts. On 30 November 2015, the Presidency of the Council published its “third compromise proposal” (the “Presidency Compromise Proposal”). The Council confirmed on 8 December 2015 that this latest proposal is the Council’s agreed negotiating position.
+
+The Next Stages in the EU Legislative Process
+
+The draft Regulation now needs to be considered by the European Parliament, which has moved more slowly than the Council in its deliberations. Once the European Parliament has developed its proposals, which it is anticipated will take at least six months, the EU legislative institutions will negotiate a common position in a process known as trialogue. Once the final text is approved, which is expected to take place during the second half of 2016, the final form of the Regulation will be published in the Official Journal of the European Union, and will enter into force 20 days later (the “Effective Date”). As an EU regulation, it will be directly applicable law across the EU, without the need for transposition into national law by the EU Member States. We do stress that at this stage the Regulation is in draft form and subject to change.
+
+Jurisdiction and Risk Retention
+
+The current obligation in the CRR (which is the most significant piece of EU legislation concerning risk retention) is on “institutions” (i.e. “credit institutions”, mainly being EU regulated banks, and EU regulated “investment firms”, as defined in the CRR) which invest in securitisations to ensure that one of the originator, sponsor or original lender retains an interest in the securitisation. This is referred to as the “indirect” approach as it places the onus on the EU investing institution to ensure that the originator, sponsor or original lender retains at least 5 per cent of the net economic interest of any securitisation in which it invests. The draft Regulation intends to supplement this and will impose a complementary “direct” retention obligation on one of the originator, sponsor or the original lender of a securitisation:
+
+"The originator, sponsor or the original lender of a securitisation shall retain on an ongoing basis a material net economic interest in the securitisation of not less than 5 %."
+
+The draft Regulation is however silent on its jurisdictional scope as regards the applicability of these risk retention obligations and so it could, on a literal reading, be interpreted as applying extraterritorially, even if none of the originator, sponsor nor the original lender is in the EU. However, the Commission, in the Explanatory Memorandum to its September 2015 proposal has indicated that it intends to limit the jurisdictional scope, as reflected in a passage which says:
+
+"For securitisations notably in situations where the originator, sponsor nor original lender is not established in the EU the indirect approach will continue to fully apply. This existing approach ensures a level-playing field at global level."
+
+Although the text of the draft Regulation itself does not make this clear, the intention of the Commission appears to be that where none of the originator, sponsor or original lender is “established in the EU”, the direct approach will not apply.
+
+The phrase “established in the EU” is an EU concept. The concept of the location in which a legal entity is “established” normally refers to the country in which the legal entity is incorporated or has its registered office. Subsidiaries are separate legal entities, whereas branches are not.
+
+These issues have significance for EU banks operating in non-EU jurisdictions, such as the US. For the reasons noted above, there could be a difference in the application of the direct retention obligation according to whether an EU bank operates in the US through a subsidiary or a branch.
+
+In its current form, it appears that the direct risk retention requirement will apply to the US activities of EU banks, including those taking place through US branches. This is because a US branch of an EU bank is part of the same legal entity and so will be part of an entity “established” in the EU.
+
+The position in relation to US incorporated subsidiaries of EU banks is less clear, but if the applicability of the direct retention obligation is to be based on whether or not the entity is established in the EU, it should not apply to the activities of a US subsidiary, since that entity will not be “established” in the EU.
+
+However, the Regulation has not yet been finalised and these issues may be clarified before the Regulation enters into force. In its current form, the Regulation does not clearly limit the “direct” retention obligation to entities established in the EU, nor does it limit such an obligation just to situations in which there are offerings of securities into the EU.
+
+Transparency Requirements
+
+A key element of the draft Regulation consists of the transparency requirements which are designed to ensure that investors understand the risks of a securitisation and can reduce their reliance on credit rating agencies. These requirements are intended to be similar to, and to supersede, the transparency obligations that are currently contained in Article 8b of the Credit Rating Agencies Regulation, which Article 25(5) of the Presidency Compromise Proposal will repeal.
+
+The originator, sponsor and “securitisation special purpose entity” (“SSPE”) of a securitisation are required to disclose prescribed information to securitisation holders, to Member State national regulators and, upon request, to potential investors (an SSPE being an entity, other than an originator or sponsor, established for the sole purpose of carrying out securitisations).
+
+The originator, sponsor and SSPE must designate amongst themselves one entity to fulfil these requirements, who must make the information available by means of a website which may be password protected. The Commission noted in its Explanatory Memorandum that, in practice, this could allow reporting of this information to a data repository such as European DataWarehouse. Although the draft Regulation does not propose full public disclosure, there remain concerns about the implications of the transparency requirements on confidentiality obligations and commercial sensitivities in relation to private and/or bilateral transactions.
+
+The draft Regulation specifies that the documentation to be disclosed will be that essential for an understanding of the transaction, including loan-level information, the final offering document and the principal transaction documents. Where an EU Prospectus Directive compliant prospectus has not been drawn up, a transaction summary needs to be prepared describing the structure of the transaction, the exposure characteristics and the voting rights of the securitisation position holders. Quarterly investor reports (or in the case of asset backed commercial paper, monthly investor reports) will also be required.
+
+Concern has been expressed about the new requirement in the Presidency Compromise Proposal for the disclosure of this transaction documentation to take place before pricing.
+
+The European Securities and Markets Authority (“ESMA”) will develop draft Regulatory Technical Standards which will contain the detail of the information to be disclosed and the format of those disclosures.
+
+The draft Regulation does not explicitly state if the transparency obligations also apply to non-EU originators, sponsors and SSPEs. However, in the absence of provisions specifically excluding the application of the transparency requirements to entities outside the EU, it appears likely that such non-EU entities will, in practice, have to comply with these requirements in order for EU institutional investors to feel comfortable investing in a securitisation.
+
+Due Diligence Requirements for EU Institutional Investors
+
+The draft Regulation sets out the due diligence requirements that will apply to EU institutional investors (including EU banks, investment firms, insurers and EU regulated fund managers) before becoming exposed to a securitisation. EU institutional investors must also, on an ongoing basis, monitor compliance with these obligations, the performance of the securitisation position and the underlying exposures.
+
+In the Presidency Compromise Proposal, the due diligence requirements are expressed differently according to whether or not the originator, sponsor or original lender is established in the EU. Under these latest proposals, an EU institutional investor is required to verify before becoming exposed to a securitisation that:
+
+(a) if established in the EU, the originator, sponsor or original lender retains on an ongoing basis a material net economic interest in accordance with Article 4 of the Regulation (risk retention) and the risk retention is disclosed to the institutional investor in accordance with Article 5 of the Regulation (transparency requirements); (b) if established in a non-EU country, the originator, sponsor or original lender retains on an ongoing basis a material net economic interest of not less than 5% “determined in line with the methodology laid down in Article 4” and discloses the risk retention to institutional investors.
+
+EU institutional investors must therefore carry out due diligence on relevant non-EU entities to ensure that they meet a retention requirement broadly equivalent to that imposed on EU established entities. Therefore, even if none of the originator, sponsor or original lender is established in the EU, and so none of them is subject to the EU’s direct retention obligation or risk retention disclosure obligations, one of them will still need to comply with equivalent requirements in order for EU institutional entities to be able to invest in the securitisation.
+
+Criteria for Credit-granting
+
+The Presidency Compromise Proposal includes “criteria for credit-granting” that were not in the Commission’s original draft. Originators, sponsors and original lenders must “apply to exposures to be securitised the same sound and well-defined criteria for credit-granting which they apply to non-securitised exposures” More controversially, the Presidency Compromise Proposal also provides that where an originator purchases a third party’s exposures for its own account on the secondary market and then securitises them, that originator must verify that the entity which was, directly or indirectly, involved in the original agreement which created the obligations, or potential obligations, to be securitised, fulfils these requirements.
+
+Future Developments
+
+The European Parliament will now prepare its own drafts of the Regulation. The impact of the new regime on US market participants will only become clear once the final Regulation is published, probably in the second half of 2016. Even then, the full scope of the regime will only be apparent on the publication of the Regulatory Technical Standards, which will provide further details on key provisions. Cadwalader is actively engaged with EU policy makers and regulators in relation to the Regulation and the issues highlighted in this note.

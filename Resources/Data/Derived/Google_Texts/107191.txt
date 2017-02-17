@@ -1,0 +1,49 @@
+The launch of Apple HealthKit and Google Fit in the latter half of 2014, along with the pending launch of the Apple Watch in the first quarter of this year, has the world of mobile health applications poised to truly go mainstream in 2015. The mHealth application market is estimated to be worth $6.4 billion in 2015, and more than double that in 2016 ($13.5 billion), up from $4 billion in 2014.
+
+But the explosion of interest around mobile health has led to fierce competition, with more than 100,000 applications now available for iOS and Android in the health and fitness categories. It’s no wonder that more than 70 percent of all mobile health developers achieved fewer than 50,000 downloads and less than $10,000 in revenue.
+
+With such a huge opportunity and fierce competition, how are mobile health app developers supposed to stand out and join the top tier of publishers with more than 500,000 downloads? Here are four trends driving mobile health app success in 2015. Make sure your app has these to make it a success in the years to come.
+
+1. Connectivity to other apps
+
+Most mobile health apps today are islands. They don’t interact with other applications beyond simple sharing to social networks. This lack of integration hurts mobile health apps in more ways than one. First, it limits their value. Data from other applications can’t flow into or out of the app, limiting utility for the user and creating redundant tasks that require input into multiple application databases.
+
+Second, the lack of connectivity and redundancy makes it all too easy for users to abandon the app shortly after downloading it, if they bother to download it at all. User retention is critical for application success in any category, and connectivity is one of the main ways the top health apps stay relevant and at the top of the download charts.
+
+One example of this is the integration between My Fitness Pal, a calorie tracker, and RunKeeper. The two apps sync caloric intake and calories burned during runs and walks to give the user a better understanding of how their eating and fitness activities work together. It’s easy to see how this integration increases the value of both apps to the user, making user retention more likely for both in the process.
+
+With the growth of the digital health category, there are more and more application programming interfaces (APIs) available to developers to integrate into their mHealth apps, including personal health data such as that collected via My Fitness Pal, device data with connected devices like the Withings scale, and wearables such as the Fitbit. Mobile health app developers need to take advantage of these APIs and form partnerships to make their apps more valuable to their customers.
+
+2. Remote monitoring and consultation with physicians
+
+While fitness apps comprise the largest portion of the mobile health application marketplace today, they are decidedly not where the opportunity lies for app developers in 2015 and beyond. A recent survey by research2guidance found that fitness applications are likely to fall from their top spot in the coming years, to be replaced by monitoring and consultation apps.
+
+The reason is simple and profound. With the launch of the Affordable Healthcare Act in the U.S. and the increased cost of managing an aging population, health care providers are looking for ways to reduce expenses related to health care, particularly chronic care management and mitigation. Mobile health apps that can reduce costs through remote consultation and compliance in health management programs will be the most sought after by these organizations.
+
+Alliances like the one between MDLive and Walgreens to provide mobile-based physician consultations will become a fixture of the healthcare landscape. And new mobile health applications like the gambling addiction app developed by the University of California, Los Angeles, will be focused on use cases that deliver monitoring and preventive care to improve patient outcomes while reducing treatment costs. Building applications that go beyond the fitness and reference use cases to truly improve patient outcome will be essential for apps that want to make an impact in 2015.
+
+3. Priority on data security and compliance
+
+Thirty-four of respondents to the mHealth App Economics 2014 survey agreed that if there is a show stopper for the mobile health promise, it’s data security. With high-profile breaches of user data a fixture in the headlines, it’s little surprise that user concern over privacy of health data is the top priority for developers as well.
+
+More than 60 percent of consumers surveyed in a recent poll on privacy were more concerned about their data security in 2014 than they’ve ever been. And in a December 2013 poll by Radius Global Market Research, more than three quarters of Internet users at least “somewhat agreed” that they would stop using a service, product, or retailer if they felt their privacy was violated.
+
+With electronic health records worth more than 10 times a stolen credit card number, data security will be essential to adoption and growth of mobile health applications. Combined with the rise in HIPAA violations- — the number of complaints filed by July 31, 2014, was 71 percent higher than the number filed during the same time period in 2013 (5,814 to 9,956) — app developers looking to breakthrough in 2015 must ensure their apps protect consumer data in a compliant manner.
+
+For more exclusive insights from tech industry insiders,
+
+explore VentureBeat’s selection of recent guest posts.
+
+4. Access to medical databases
+
+The demand for apps that allow for monitoring, compliance, and consultation will by default require connectivity to medical databases and patient records at the physician, hospital and service provider offices where care is administered, even if done remotely. This connectivity will be driven in part by hospitals and healthcare organizations and their electronic medical records management services, and by a host of new providers building connectivity tools that act as a secure bridge between application and patient databases.
+
+This is the frontier of mobile health applications. Apps that can hook into patient records and patient management systems will enable the valuable interactions and functionality that will drive long-term value and growth. API aggregators such as Validic, app aggregators like Aetna’s CarePass, and connectivity providers like Apigee and Qualcomm Life are platforms that will bridge the gap between app and provider. Developers who take advantage of this growing new layer of interoperability can bring new solutions to the market and create a whole new category of powerful mobile health solutions.
+
+The opportunity
+
+The opportunity for mobile health developers is clear. With a growing market and interest in improving health care from both the patient side and the provider side, the market is aligned to make the promise of mobile health a reality. New initiatives such as Apple HealthKit and Google Fit have instantly made massive platforms available to connect consumers to better health care through connected apps.
+
+The need of health care providers and payers to reduce costs will drive the demand for new mobile health solutions in the coming year from the industry side. The growing trend in wearables and health apps will fuel interest from consumers. App developers who can help providers and patients improve compliance to prescribed regimens and reduce costs will be the winners in the mobile health space in 2015 and the years to come.
+
+Jason Wang is chief executive of TrueVault. Prior to TrueVault, he was employee No. 1 and vice president of Technology at ScoreBig.

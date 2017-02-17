@@ -1,0 +1,33 @@
+Long looked upon warily by healthcare security experts, cloud technology could soon find more favor as new rules bring clarity and assign responsibility for privacy protections.
+
+That's one of the conclusions from a recent study conducted by Porter Research and sponsored by Covisint. The report, "Healthcare Industry Reaches Tipping Point: CIOs Now Demand the Cloud for Shared Savings and Interoperability," finds increasing confidence in the cloud among healthcare decision-makers, due in large part to the new specifications of the HIPAA Omnibus rule.
+
+"For a long time, the cloud was untrusted on multiple levels -- people weren’t familiar with it, they were afraid of the security aspect and, simply stated, it just wasn’t the safe career choice -- in other words, nobody got fired for not choosing the cloud in the past," says Covisint's Chief Medical Information Officer John Haughton, MD.
+
+"That’s all changing dramatically," he says.
+
+From a strategic point of view this shift in attitudes is being driven by the Affordable Care Act, says Haughton. "With the advent of accountable care initiatives, providers and payers need a way to share clean, secure private health information throughout the community of care."
+
+But another big factor has been the protections for providers brought about by the new HIPAA revisions, shifting burdens for liability to healthcare business associates, leaving cloud companies on the hook for keeping patient data secure.
+
+"The HIPAA Omnibus Rule dramatically increased the scope of HIPAA Privacy and Security policy and the enforcement activities supported," says Haughton. "We see this as a positive development as it helps improve stakeholder trust in the cloud as a mechanism for clean, portable data."
+
+As of this month, "Business associates, like Covisint, are held to a higher standard, and their liability under the rule is now more similar to the physician’s," he says.
+
+Among the new changes, business associates are now responsible for their subcontractors; business associates must comply with security and breach notification rules; physicians are liable for the actions of their BAs who are agents, but not for the actions of those BAs that are independent contractors.
+
+Also, says Haughton, "physicians are no longer to report failures of their BAs to the government when termination of the agreement is not feasible, as HHS has concluded that the BA’s direct liability for these violations is sufficient."
+
+
+
+That's all good news, he says. "In order for the cloud to gain the trust of providers and payers, cloud vendors needed to take on greater responsibility to protect patient privacy. As a result of this change, vendors like Covisint that share healthcare data in hybrid cloud environments need to completely re-assess their HIPAA policies and procedures to ensure they meet the new, more stringent requirements."
+
+Meanwhile, says Haughton, "They should also conduct independent audits with external consultants to review policies and procedures on a regular basis to make sure they remain in compliance. Our clients must share data among entities to support their HIE activities or accountable care initiatives. The ability to share data while keeping PHI private is not a 'nice-to-have' – it is a business imperative."
+
+The Covisint study was conducted by Porter Research, which conducted 50 interviews with qualified, mostly C-level participants for in-depth interviews.
+
+"We set out to determine where the true, industry game-changers were, and the results were eye-popping," said Cynthia Porter, president of Porter Research, in a press statement. "For instance, how revealing was it that 58 percent of the nation’s leading healthcare execs place a high importance in cloud-based technologies even though the industry is still greater than 70 percent paper-based?”
+
+Indeed, even as three-quarters of providers still rely on fax to handle incoming and outgoing information (76 percent and 74 percent, respectively), overall, 58 percent of respondents rated their confidence in cloud computing a 4 or 5, in using Cloud Computing to access information from disparate locations.
+
+Long story story short, "Healthcare CIOs now trust the cloud," says Haughton. "Previously, the safe answer was that the cloud just wasn’t ready and not secure. Now, CIOs are embracing the cloud as a way to help them transform their businesses and deliver accountable care – a true sea change in thinking."

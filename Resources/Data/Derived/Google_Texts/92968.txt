@@ -1,0 +1,147 @@
+It was a fascinating week at the HR Technology conference in Vegas. I heard a lot of pitches from excited Human Resources technology vendors. I heard some interesting questions from them, too. Foremost of the questions involved the uptake, or more specifically the lack of uptake, of HR analytic applications. But beneath this simple inquiry lie some powerful challenges for HR departments, their leaders and the correct composition of new skills those groups really need.
+
+I believe I had some variant of this discussion with at least five software executive teams and a consultancy. It goes something like this:
+
+HR leadership hasn’t changed in seven years – except to get smaller
+
+The composition of the HR leadership in many firms is probably unchanged since before the great recession of 2008. HR groups got savaged during the recession. Headcount was whacked hard as businesses needed smaller HR groups to handle the reduced size of their recession-oriented workforces.
+
+Unfortunately, as the recession fades away and businesses have been rehiring, expanding and rediscovering their pre-recession chops, HR departments are still starved for funding, headcount and relevant HR technology. It’s like the business is coming out of the recession but HR is still stuck in 2008. The post-recession HR organization is more often than not comprised of survivors who possess pre-recession skills and use pre-recession tools. It’s as if HR has entered the Twilight Zone of irrelevancy.
+
+HR professionals only buy HR tech that they understand
+
+It’s only logical that people, like HR people, are going to buy the technologies that they understand. The buyers at this show were clearly interested in Payroll, HRMS and other familiar applications. They understand these functions. Sure, some of the newest variants of these have radically improved UX (user experience)/mobile front-ends but they simply extend familiar applications and processes.
+
+Radical change is certainly scarier and more risky. It’s why Geoffrey Moore penned his classic “Crossing the Chasm” book all those years ago. It takes an innovator or early adopter to be one of the first buyers of a new technology. But many of the "new" technologies HR people should be buying aren’t really that new anymore. Case in point: Analytics.
+
+No, something else is afoot here. And, the answer may lie in the composition of the modern HR department.
+
+Case Study: The three kinds of analytics
+
+I would opine that there are three kinds of HR analytic solutions in the market today with each one appealing to a different kind of buyer. Unfortunately, there are many buyers for the basic solution and virtually no one for the really cool solutions. Briefly, these HR analytic solutions are:
+
+Get Out of Jail Analytics
+
+Motherhood, Apple Pie and the American Way (with apologies to non-US readers) solutions
+
+Sex, Drugs and Rock & Roll analytics
+
+Get Out of Jail Analytics (GOJA) are like catnip to HR technology buyers. Do you need to know where your firm’s ACA (Affordable Care Act) compliance stands today? There’s an analytic app for that. These applications sell for a couple of powerful reasons:
+
+The data for these applications rests entirely within the traditional HR applications.
+
+
+
+
+
+There’s no real new science or technology skill that traditional HR practitioners need to learn. The app has pre-formatted dashboards/reports that display your firm’s compliance or lack thereof.
+
+
+
+
+
+Not having one of these apps could be expensive and publicly humiliating for the company if the firm were outed for being out of compliance on fair pay, discrimination or some other matter.
+
+
+
+
+
+Not preventing one of these costly gaffes would potentially and permanently damage the career of the lead HR executive.
+
+A GOJA analytics example is the classic 3X3 grid map that depicts performance evaluation scores against salaries. Some of these get extra spiffing with cool graphs that plot the trend/direction that an individual’s performance and pay are moving.
+
+The problem with these "analytics" is that they rarely deliver more than what HR departments have been doing for years with internal HR data and a spreadsheet.
+
+Motherhood, Apple Pie and the American Way (MAPAW) analytics are less about compliance and more about gaining some incremental insights. Most of the data needed for these analytic apps comes from HR technologies although some may sneak in from the odd external system.
+
+There’s some market traction for these solutions as a firm that is recovering from the recession needs new insights but doesn’t want to add headcount in HR to get them.
+
+Some of the cooler and more advanced solutions in this space require access to external (i.e., non-HR) data. And this scares HR – big time! HR departments know that they can’t or won’t get help from their internal IT group to make these tools come alive. Alternatively, HR leaders know their team lacks the skills to integrate these critical divergent data sources to the analytic tools.
+
+An example might help here. A classic MAPAW app involves flight risk or retention prediction. To understand who’s likely to bolt and why, an HR department would need access to a number of HR and non-HR data sources. The traditional HR sources might find some of the at-risk individuals (e.g., if someone just got a new supervisor and suddenly went from a highly rated to poor worker status) but the non-HR data sources would provide more clues and possibly more certainty regarding the predictions. The non-HR sources might include:
+
+Stock option database (“Why has Suzie cashed in all of her stock options?”)
+
+
+
+
+
+Social Media (“Has Bill started to update his LinkedIn profile a lot lately?”)
+
+
+
+
+
+Social Media (“Has Esmerelda’s spouse/significant other taken a new job across the country?”)
+
+These non-HR data sources, especially the big data ones, scare the willies out of HR leaders. Don’t get me wrong, most every HR leader finds these tools seductive as all get out – but – they’re too timid to bring them home to their HR department.
+
+Sex, Drugs and Rock & Roll (SDRR) analytic applications are the “Look but Don’t Touch” analytic applications of the HR world. One purveyor of this kind of app told me that they get hundreds of people to show up for any webinar or demo of these tools – but – no one buys them.
+
+Imagine if you could understand how much student loan debt your workers have. Would that help your organization better understand what it needs to do to retain its workforce? There’s an app for that.
+
+So there’s the problem: HR Technology advanced during the recession but HR departments didn’t.
+
+What if you wanted to better understand what your firm’s employment brand and recruiting brand REALLY are? Well, you’d probably need a big data/in-memory database/analytics tri-part solution. You’d want some kind of access to social media (big data) and crunch the data in a tool (e.g., Hadoop) with possibly an analytics or data visualization tool to see/spot an emerging trend. Those are not traditional HR technologies and HR skill sets. If you did this, you’d see that job seekers are ridiculing your firm for its amateurish interview questions (Yes, people post your interview questions (and best possible answers) on discussion groups, social media and other sites). An HR executive can talk all they want about having a great recruiting brand but unless they check the Internet, it’s probably just wishful thinking or speculation on their part.
+
+And, this is where analytics truly come off the rails for HR. The data sources, underlying tools, implicit social sciences and more are not mainstay skills of the typical HR department. And they certainly weren’t common HR skillsets before the recession of 2008 hit.
+
+So there’s the problem: HR Technology advanced during the recession but HR departments didn’t.
+
+The needed changes
+
+I was a panelist/moderator for a very technical panel at last week’s HR Technology show. At one point, I asked my esteemed co-panelist colleagues what were the top 3 must have technologies every HR department needs to put on its shopping list. They all gave good answers.
+
+But, I asked the question as I felt that HR departments are not ready for new technology now. No. Before HR gets new technology, it needs new, additional people.
+
+HR departments are chock full of great HR transaction folks. Likewise, they have great recruiters, compliance people and more in these groups. However, is there anyone who understands data analysis, external/Big Data, etc.?
+
+Where are the quants in HR? Where are the statistics and math majors? Where are the social scientists who understand human behavior? Seriously, giving powerful analytic tools to many HR folks today (who lack awareness or skills in these technologies and disciplines) is like giving a chainsaw to a 4-year old. If they ever got it running, you’d have a bloody mess on your hands. If you don’t know the difference between causality and correlation, you have no business playing with analytics.
+
+A rebalancing of the talent within HR organizations is needed today. New skills, capabilities and insights are needed to make HR more relevant and able to exploit today’s new HR technologies.
+
+Irony
+
+At the completion of that panel, a couple of HR practitioners came forward to discuss this skills gap problem. One individual stated that they recently had someone give their two-week notice. Rather that refill this position with another payroll specialist, she’d like to hire ‘one of those of data analysis’ people. She was asking me for clues as to where she could find someone.
+
+Special Feature The Evolution of Enterprise Software Enterprise software represents the glue that ties together teams and business processes, especially in global organizations. See how enterprise software is simplifying, webifying, mobilizing, and getting a lot more social. Read More
+
+The irony for this is rich beyond belief – The group that finds new hires for their employer needs help finding the skills they need in their own department. That speaks volumes for size of change confronting HR departments and their leaders today.
+
+The needed skills
+
+HR teams will need depth in the following disciplines:
+
+Integration Skills – The numbers of technologies that HR departments will need to connect to will grow tremendously. Every day potentially dozens of new consumer applications pop up that help workers and job seekers find their next true employer. Businesses have to see that HR applications and data sources include way more than just the traditional compliance and processing applications of yore. Integrating the non-traditional, non-transactional data streams into HR (like social media data for sentiment analysis) will tax whatever existing integration skills that exist within an HR organization.
+
+
+
+
+
+– The numbers of technologies that HR departments will need to connect to will grow tremendously. Every day potentially dozens of new consumer applications pop up that help workers and job seekers find their next true employer. Businesses have to see that HR applications and data sources include way more than just the traditional compliance and processing applications of yore. Integrating the non-traditional, non-transactional data streams into HR (like social media data for sentiment analysis) will tax whatever existing integration skills that exist within an HR organization. Math/Quant/Statistic Skills – This is where the world of HR meets the STEM world headlong. I think I’ve covered the rationale for these skills above.
+
+
+
+
+
+– This is where the world of HR meets the STEM world headlong. I think I’ve covered the rationale for these skills above. Social Sciences – Analytic apps follow two paths. One path, search and discover, scans a large volume of data looking for anomalous results. The other relies on a savvy person crafting a number of hypotheses to test. The latter process requires one to determine what internal or external data source may possess clues to this theory. Personally, I think the latter is often the way to go as the former may find a lot of things that are interesting but not impactful or critical in the short-term. Who in your HR department understands how a sociopathic job applicant thinks or uses social media? Who can construct social science driven inquiries and analyses?
+
+
+
+
+
+– Analytic apps follow two paths. One path, search and discover, scans a large volume of data looking for anomalous results. The other relies on a savvy person crafting a number of hypotheses to test. The latter process requires one to determine what internal or external data source may possess clues to this theory. Personally, I think the latter is often the way to go as the former may find a lot of things that are interesting but not impactful or critical in the short-term. Who in your HR department understands how a sociopathic job applicant thinks or uses social media? Who can construct social science driven inquiries and analyses? Cosmopolitan/Curious/Continuous Learning Skills – I always find it refreshing to see so many HR practitioners at the HR Technology show. They are there to learn more about the technology that’s potentially rocking their world. HR needs more curious people like this. If your HR group waits until an HR vendor comes knocking on your office door in Cedar Rapids, you’re not cosmopolitan, curious, current or even relevant! Waiting for new tech to come to you was a luxury of the past. Today, it’s a business and competitive necessity to be right there with the coolest software developers and brilliant minds in HR. Can you really say your HR team is really current on the HR technology space today?
+
+
+
+
+
+– I always find it refreshing to see so many HR practitioners at the HR Technology show. They are there to learn more about the technology that’s potentially rocking their world. HR needs more curious people like this. If your HR group waits until an HR vendor comes knocking on your office door in Cedar Rapids, you’re not cosmopolitan, curious, current or even relevant! Waiting for new tech to come to you was a luxury of the past. Today, it’s a business and competitive necessity to be right there with the coolest software developers and brilliant minds in HR. Can you really say your HR team is really current on the HR technology space today? Business Savvy – The volatility of businesses today requires a more nimble HR group. Businesses need an HR organization that is anticipating future work plans, workforce changes, workforce needs, etc. Does your HR team have people with intense and current operational knowledge?
+
+HR’s relationship with IT and the executive committee
+
+It’s time for HR to mend fences with IT and the executive committee. The recession is over and HR needs some serious retooling. HR needs new/different/additional talent. HR needs new technology. HR data is no longer constrained to traditional HR transaction systems. The information needed to competitively hire and retain great people rests in digital water coolers, social media, powerful analytics and more.
+
+To reskill and make HR more relevant, HR will need help (financially) from the firm. It will need access to IT talent. It will need to grow. To do all of this, it needs the support of the executive committee and IT. A better HR group is what businesses need today.
+
+The company is the loser if HR doesn’t heal.

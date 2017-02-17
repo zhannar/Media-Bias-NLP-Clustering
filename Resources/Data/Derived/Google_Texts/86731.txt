@@ -1,0 +1,61 @@
+The U.S. Department of Homeland Security is investigating about two dozen cases of suspected cybersecurity flaws in medical devices and hospital equipment that officials fear could be exploited by hackers, a senior official at the agency told Reuters.
+
+The products under review by the agency's Industrial Control Systems Cyber Emergency Response Team, or ICS-CERT, include an infusion pump from Hospira Inc and implantable heart devices from Medtronic Inc and St Jude Medical Inc, according to other people familiar with the cases, who asked not to be identified because the probes are confidential.
+
+Related: Maybe Robots Should Run Our Cyber Security
+
+These people said they do not know of any instances of hackers attacking patients through these devices, so the cyber threat should not be overstated. Still, the agency is concerned that malicious actors may try to gain control of the devices remotely and create problems, such as instructing an infusion pump to overdose a patient with drugs, or forcing a heart implant to deliver a deadly jolt of electricity, the sources said.
+
+The senior DHS official said the agency is working with manufacturers to identify and repair software coding bugs and other vulnerabilities that hackers can potentially use to expose confidential data or attack hospital equipment. He declined to name the companies.
+
+"These are the things that shows like 'Homeland' are built from," said the official, referring to the U.S. television spy drama in which the fictional vice president of the United States is killed by a cyber attack on his pacemaker. "It isn't out of the realm of the possible to cause severe injury or death," said the official, who did not want to be identified due to the sensitive nature of his work.
+
+Hospira, Medtronic and St Jude Medical declined to comment on the DHS investigations. All three companies said they take cybersecurity seriously and have made changes to improve product safety, but declined to give details.
+
+Connected Devices
+
+ICS-CERT's mandate is to help protect critical U.S. infrastructure from cyber threats, whether they are introduced through human error, virus infections, or through attacks by criminals or extremists. According to the senior DHS official, the agency started examining healthcare equipment about two years ago, when cybersecurity researchers were becoming more interested in medical devices that increasingly contained computer chips, software, wireless technology and Internet connectivity, making them more susceptible to hacking.
+
+Related: Missing in Action: A Strong U.S. Cyber Offense
+
+The U.S. Food and Drug Administration, which regulates the sale of medical devices, recently released guidelines for manufacturers and healthcare providers to better secure medical devices and is holding its first public conference on the topic this week.
+
+"The conventional wisdom in the past was that products only had to be protected from unintentional threats. Now they also have to be protected from intentional threats too," said William Maisel, chief scientist at the FDA's Center for Devices and Radiological Health. He declined to comment on the DHS reviews.
+
+The senior DHS official said the two dozen cases currently under investigation cover a wide range of equipment, including medical imaging equipment and hospital networking systems. A DHS review does not imply the government thinks a company has done anything wrong - it means the agency is looking into a suspected vulnerability to try to help rectify it.
+
+One of the cases involves an alleged vulnerability in a type of infusion pump, a piece of hospital equipment that delivers medication directly into a patient's bloodstream. Private cybersecurity researcher Billy Rios said he discovered the alleged bug but declined to identify the manufacturer of the pump. Two people familiar with his research said the manufacturer was Hospira.
+
+Related: We're Training High Schoolers to Fight a Cyber War
+
+Rios said he wrote a program that could remotely force multiple pumps to dose patients with potentially lethal amounts of drugs. He submitted his analysis to the DHS. "This is a issue that is going to be extremely difficult to patch," said Rios, a former Marine platoon commander who has worked for several Silicon Valley technology firms and recently founded security startup Laconicly.
+
+Reuters was not able to independently review his research or identify the type of pump Rios studied from Hospira's line, which includes multiple models. Hospira spokeswoman Tareta Adams, while declining to comment on specifics, said the company is working to improve the security of its products.
+
+"Hospira has implemented software adjustments, distributed customer communications and made a commitment to evaluate other changes going forward, while ensuring we are not adversely impacting the ability of our devices to meet hospital and patient needs, and maintain compliance with FDA product requirements," Adams said in the statement.
+
+More Awareness
+
+Hospital security officers say there is increasing awareness about cyber threats, and medical centers around the country have been shoring up networks to better defend against hackers.
+
+Related: U.S. Plays Catch-Up with China on Cyber Warfare
+
+At the University of Texas MD Anderson Cancer Center, all medical devices will soon need to be tested to make sure they meet security standards before they can be put on the hospital's network, according to Lessley Stoltenberg, the center's chief information security officer. "I'm pretty concerned," said Stoltenberg. "Coming out of the block, medical devices don't really have security built into them."
+
+The DHS is also reviewing suspected vulnerabilities in implantable heart devices from Medtronic and St Jude Medical, according to two people familiar with the matter. They said the probe was based in part on research by Barnaby Jack, a well-known hacker who died in July 2013. Jack had said he could hack into wireless communications systems that link implanted pacemakers and defibrillators with bedside monitors.
+
+Medtronic spokeswoman Marie Yarroll said in an email that the company has "made changes to enhance the security" of its implantable cardiac devices, but declined to give specifics "in the interest of patient safety." St. Jude Medical spokeswoman Candace Steele Flippin also declined to discuss specific products but said the company has "an ongoing program to perform extensive security testing on our medical devices and networked equipment. If a risk is identified, we will issue patches for any known issues."
+
+Cheney's Defibrillator
+
+Experts said it is important that security vulnerabilities in medical devices are exposed so manufacturers can fix them, but many said there was no need for patients to panic. "It's very easy to sort of sensationalize these problems," said Kevin Fu, who runs the Archimedes Research Center for Medical Device Security at the University of Michigan.
+
+Still, worries about cybersecurity have made some individuals wary of medical devices with wireless and Internet connections.
+
+In 2007, then-U.S. Vice President Dick Cheney ordered some of the wireless features to be disabled on his defibrillator due to security concerns. When asked if he would recommend other patients do the same, Cheney said not necessarily. "You've got to look at all eventualities and do whatever you have to safeguard the capabilities of the individual," Cheney told Reuters on Tuesday. "In terms of how it would affect others, I think the president and vice president are in relatively unique circumstances."
+
+Cyber researcher Jay Radcliffe used to be among the hundreds of thousands of diabetics relying on computerized insulin pumps. He said he stopped using his Medtronic pump after he found that he could hack into its wireless communications system and potentially dump fatal doses of insulin into his body.
+
+"I don't feel safe wearing these devices," said Radcliffe, who works for Rapid7, a security software maker. "It's better for me to stick myself with a needle." Medtronic said it has made security improvements to its insulin pumps, though the company declined to give specifics.
+
+George Grunberger, who has led the insulin pump management task force of the American Association of Clinical Endocrynologists, said he believes the benefits of pumps far outweigh any cyber risks, so he would not advise patients to follow Radcliffe's example.

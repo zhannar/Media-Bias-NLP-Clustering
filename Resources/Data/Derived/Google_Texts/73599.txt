@@ -1,0 +1,21 @@
+The Office of Personnel Management breach continues to highlight the same themes as previous major attacks. If we respond the same way, with public shaming of officials and no new enablement, we will see the same results – more breaches. We cannot afford to make the same mistake and put a small band-aid on one of the most complex national security threats in recent time. The administration took a step in the right direction by launching the 30-day cybersecurity “sprint” calling for agencies to secure their networks.
+
+Cybersecurity is a continuous improvement process. The cybersecurity strategies, programs and tactics of today must be constantly reviewed, refined and updated to combat threats. In order to have continuous improvement, cybersecurity programs need agency and congressional funding to ensure that organizations have the technical and human resources to keep pace with the rapid development of malicious attackers. They also need a strong set of policies that incentivize good practices by government organizations.
+
+ADVERTISEMENT
+
+Patching vulnerabilities, deploying threat indicators, using multi-factor authentication and tracking credential usage as bulleted in the administrations fact sheet are all part of good practices. This latest call will bring these practices back to the top for the leaders in multiple agencies. But agencies most likely do not have the resources to act on these requirements – which is why breaches are common in the first place. Due to the size of most government organizations, many CIOs and CISOs have difficulty tracking all the connection points, applications, services and assets that run on or are connected to their networks. As agencies build out their cybersecurity strategy, visibility of connectivity and access is a primary foundation.
+
+To sufficiently protect sensitive information, agencies must understand and monitor who has access to the data; where they can access it and for how long they can access it. It is critical that agencies answer these questions as they identify mission-critical data, applications and services.
+
+Users often require different levels of access at different times. Take OPM for example, investigators require access to an applicant’s information while on the road, but once the process is completed there is no need to have anymore access to the individual’s information. How long information can be accessed is as important as who has access and the locations of access.
+
+There are government intelligence agencies doing a great job protecting national security information and we should look to them as examples. They understand the threat of connecting information to the network no matter how strong the security and thus make the most sensitive data, accessible only at a specific location. This enables authorized individuals to access the information they need and achieve their mission without compromising national security.
+
+Our government leadership needs to acknowledge that current policies and technical requirements are not in-line with the modern threat landscape. Requirements need to be updated. And those who try to advance their security programs need necessary funding and incentivizing policy. We need to put specific compliance requirements in place for cybersecurity that require measureable and continual vigilance and map specific funding to those requirements to ensure agencies can afford the necessary human and technical resources.
+
+While the administration’s 30-day sprint is helping make cybersecurity a priority issue, it won’t be effective in the long run unless it results in new legislation and funding requirements, which should be focused on enabling and incentivizing the defenders to be more effective.
+
+Cyber attacks will continue to be a national security threat that demand attention. As a general population, we are new to this threat landscape. We need to educate ourselves to make certain that our actions create new burdens for cyber attackers. It is time for us to be strategic with our cybersecurity approach in terms of legislation, policy and technology investments.
+
+Merza is the chief security evangelist at Splunk, a data analytics company that makes machine data accessible and usable.

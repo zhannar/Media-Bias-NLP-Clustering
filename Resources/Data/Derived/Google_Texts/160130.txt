@@ -1,0 +1,51 @@
+Illustration by Robert Neubecker
+
+At the Senate hearing on the Internet of Things earlier this month, innovation wasn’t just a hand-me-down buzzword from the Valley. It was an ideology. Sen. Cory Booker spoke of the nascent industry of connected devices as an evangelical preaches miracles. Concerns over destructive malware, colossal data breaches, and the brazen unraveling of privacy were given voice, but they were drowned out by the gospel of market efficiency. The path to riches may be paved by ubiquitous data capture, but policymakers are failing to see its ultimate costs.
+
+The worldwide market for the Internet of Things—sensor-based devices connected to the Internet—is expected to surpass $7 trillion by 2020, with the number of devices in the tens of billions. For consumers, pervasive data collection offers goods on the cheap, with increased agency and choice. But just as our newly trackable jobs, cars, homes, and bodies mark the frontier of economic and scientific practice, they’ll also serve as political frontlines over questions of consent, privacy, and fairness.
+
+Nowhere is this more evident than with health monitoring. Sold as the glorious passage to self-knowledge, the mass deployment of connected devices in health care represents far-seeing prevention. Quantifying your wellness is pushed as a practice in self-respect—fortified with the benevolent nudging of incentivized personal responsibility. It’s also a dependable way to signal your vitality to economic actors: employers, insurers, and retailers. Under the Affordable Care Act, employers can offer their workers up to a 30 percent discount on insurance premiums for participating in company wellness programs. Health and fitness trackers help ensure compliance. Insurance giants like Cigna and Humana reap the enriched data sets. And employers can try to snatch a piece of the nearly $2 trillion in health savings that can be realized through changed behavior.
+
+Advertisement
+
+
+
+As tech innovators rush to unlock our physiological secrets, it’s unclear what will happen to all the data generated from sensor-based devices. How will the data be secured? Who owns the rights to it? Can the information be sold to third parties? What restrictions exist for using health data in unexpected and potentially harmful ways? Our lawmakers haven’t answered these questions—and neither have the companies they’re meant to oversee.
+
+These apprehensions apply to seemingly innocuous step-counters but especially to sophisticated, clinical-grade sensors that measure stress levels, blood sugar, sleep quality, and brainwaves. As this year’s Consumer Electronics Show made clear, cutting-edge health tech is now available for public consumption.
+
+With wellness programs that utilize wearables and biometric information, economic incentives push employees to participate and to achieve activity goals. Scott Peppet, a professor at the University of Colorado School of Law and a leading scholar on health tracking regulation, isn’t opposed to these programs if employees choose to sign up. But he is concerned about wellness data being used for other things: if employers exploit this information to measure worker productivity; if they were to share biometric readings with third parties; or if they infer information about workers that can extend to other realms, like creditworthiness or auto insurance.
+
+Since the quiet consequences of tying wearables to insurance and the workplace don’t inspire the raging anxiety we save for massive criminal hacks, they fail to capture the attention of lawmakers. So persistent health tracking continues to gather momentum, even as many of us would consider our medical data to be our most sensitive information.
+
+Advertisement
+
+
+
+Peppet told me the data captured by wearables enables a finely tuned pricing model for health insurance that’s unprecedented. In the past, insurers couldn’t know how healthy their customers were—for example, what they were eating, how they were sleeping, or if they were exercising—so they’ve had to use proxies, roundabout ways for determining customers’ risk and price. With connected sensors that record previously unknowable behavior, consumers are now able to make themselves more visible to insurance providers, that are, in turn, able to more accurately price consumers’ risks.
+
+From one perspective, this eliminates the pricing imperfection of health and life insurance. The new information architecture of wearables and health tracking has “solved” this problem. And for consumers, this novel health-monitoring paradigm encourages personal responsibility and the potential for lowered costs. Self-actualization meets free-market evangelism!
+
+But the question that Peppet asks: What is society going to look like when that level of pricing imperfection goes away? What will it mean to our sense of shared social obligation, of distributing the cost of other people’s illnesses and genetic conditions through insurance, when suddenly things can be priced incredibly precisely and individually tailored? Righteous individualism quickly turns into an ugly kind of caste—an economic system that feeds off enduring prejudices and, through pervasive health monitoring, spawns new ones. Imagine a pricing scheme that would punish sleep-deprived single parents or the dietary habits of the working poor. And the financial incentives for giving insurers and others access to your health data might become so compelling that “choosing” to participate becomes the only viable choice.
+
+I also spoke to one of the expert witnesses at the Senate hearing, Adam Thierer, a senior research fellow at the Mercatus Center at George Mason University. Thierer acknowledges the dangers that some privacy advocates see in the world of biometric tracking. But he opposes top-down regulation, however, which he believes would limit innovative experimentation. Rather than apply data-use restrictions that are based on scenarios of potential harm, Thierer thinks we need a policy regime that’s responsive, dealing with dilemmas only after they’ve done damage or can be proven that they likely will.
+
+Advertisement
+
+
+
+Thierer’s vision of “permissionless innovation” stands opposed to the precautionary principle, which he believes privileges hypothetical and ephemeral fears. Thierer argues that enacting precautionary regulation will prevent life-saving and life-enriching innovations from coming to market. By prohibiting analytics firms and hardware companies from manipulating our health data in certain ways, Thierer believes we may be robbing ourselves of unforeseen scientific discovery.
+
+Peppet is someone who Thierer would label a precautionary principle thinker. “Essentially that critique is: ‘You’re jumping the gun. There is no problem yet, so why worry?’ ” Peppet told me. “That seems to me unhelpful or blind to the realities of the Internet’s ecosystem.”
+
+Peppet rightly observes that the Internet is defined by massive data aggregators that are always looking for ways to use and monetize data. So it’s safe for us to assume that the Internet of Things will operate in much the same way—except with much more invasive, accurate, and granular surveillance tools.
+
+For Sen. John Thune, chairman of the Commerce, Science, and Transportation Committee, privacy and security questions should be asked. But at the hearing he encouraged his fellow legislators to resist the urge to stifle the dynamic marketplace (the ultimate sin!). Instead, we ought to bid adieu to a government-knows-best mentality.
+
+Advertisement
+
+
+
+Serving as a foil in the congressional stage play, Sen. Bill Nelson, the committee’s ranking member, responded by politely setting fire to Thune’s straw man. He then presented us with near-future crime scenarios: a malevolent hacker taking control of a Web-enabled insulin pump, another hijacking a pacemaker, and the two black hats pressing big red buttons.
+
+Even when lawmakers do address unease within the world of health tracking, concerns that exist outside the innovation-deliverance sales pitch, they’re framed in a very narrow set of security issues. They stem mainly from illegal activity and blatantly bad actors.

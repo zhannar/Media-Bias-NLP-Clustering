@@ -1,0 +1,99 @@
+By Jacklyn Wille
+
+March 1 — The U.S. Supreme Court dealt a blow to state efforts to collect health data when it ruled 6-2 that Vermont's all-payer claims database is preempted by the Employee Retirement Income Security Act to the extent it seeks data from employer-sponsored health plans.
+
+According to Justice Anthony Kennedy's March 1 majority opinion, federal preemption is necessary to protect plans from having to comply with differing and conflicting regulations from state to state. Kennedy's opinion makes clear that the secretary of labor, and not the states, has the authority to require data reporting from ERISA-governed plans.
+
+This decision throws a wrench into efforts by more than half the states to create so-called all-payer claims databases (APCDs), which collect information from entities that pay for medical services.
+
+Proponents of these databases—including the Department of Labor, which filed a brief urging the justices to uphold Vermont's APCD—consider them a crucial tool in states' efforts to improve public health, control costs, aid research, provide transparency and foster competition among medical providers .
+
+While the court's decision doesn't entirely put an end to APCDs—they may still seek information from non-ERISA entities that pay for medical care, such as insurance companies—this decision is likely to render APCDs significantly less effective. The databases will now miss out on data concerning the large segment of the population that receives health insurance from an employer.
+
+Those who followed the oral arguments in the case closely may be surprised by the ruling, as several justices—in particular Justice Stephen G. Breyer—appeared convinced during oral arguments of the value provided by APCDs .
+
+Breyer, who repeatedly asked during oral arguments why the federal government didn't do more to facilitate APCDs, filed a concurring opinion saying he saw “no reason” why the DOL couldn't create a system for ERISA plans to report health claims data to the states, even one that involved authorizing particular states to collect state-specific data to be shared with the federal government.
+
+Justice Ruth Bader Ginsburg filed a 16-page dissent in which she argued that the Vermont APCD didn't run afoul of ERISA. Ginsburg is increasingly parting ways from the rest of the justices on ERISA issues, having provided the sole dissenting vote in January's decision on ERISA's equitable remedies provision. She also filed the sole concurrence in the court's unanimous 2015 opinion on retiree health benefits.
+
+Decision Broad, Yet Narrow?
+
+Carmel Shachar, a clinical instructor at Harvard Law School’s Center for Health Law & Policy Innovation who filed a pro-database amicus brief, told Bloomberg BNA March 1 that the decision was “a very broad application of ERISA, as well as the preemption clause.”
+
+On that point, Shachar said the justices found ERISA's preemptive powers to apply, even though the Vermont program in question concerned areas “very different” from those regulated by ERISA—specifically, health-care spending and financing.
+
+Ian Samuel, an attorney with Jones Day’s New York office who filed an amicus brief on behalf of the American Hospital Association, had a different take.
+
+“Although this is an unfortunate loss from the perspective of people who believe in the value of APCDs, it is a narrow one,” Samuel told Bloomberg BNA in a March 1 e-mail. “Nothing in the majority opinion purports to go beyond self-insured plans. And even as to those plans, it is clear that the Department of Labor can authorize the collection of claims data, pursuant to the Secretary of Labor's authority to establish ‘additional reporting and disclosure requirements for ERISA plans.'”
+
+In particular, Samuel said Breyer's concurrence makes clear that the DOL could take significant steps toward facilitating the creation of APCDs, including “deputizing” a particular state to obtain data related to that state while sharing it with the federal government.
+
+Turning to the practical effect of the ruling, Shachar said the decision will “significantly affect” the ability of databases like Vermont's to be useful. That's because it effectively bars them from seeking information about the large universe of individuals who receive health coverage through an employer-sponsored plan, she said.
+
+That will have important practical ramifications, Shachar said, because the exclusion of employer-sponsored plan data will make it more difficult to perform high-quality health-care research.
+
+“You're really undercutting the ability of these databases to be useful,” she said.
+
+No Losers
+
+Dr. William M. Sage, a physician and professor of health law at the University of Texas at Austin School of Law, called the decision “correct” and “not at all surprising,” given ERISA's purposes and prior case law.
+
+Sage told Bloomberg BNA in an e-mail March 1 that the decision “places responsibility for systematic health care data collection where I think it should be—on the federal government.”
+
+In particular, Sage said that the “patchwork” U.S. health insurance system has always involved a “variety of overseers,” and that this decision by the Supreme Court continues the trend of consolidation seen primarily in the Affordable Care Act.
+
+“The ACA made a real effort to change these silos into a coordinated whole, and the Gobeille decision reinforces that commitment,” Sage said. “Before the ACA, holding a state law preempted by ERISA meant that nothing replaced it. Today, one can expect DOL and the newly insurance-savvy HHS to work together, and with states, to systematize the collection of claims data (and hopefully non-claims data, which is far more meaningful) and to learn from it.”
+
+Because of this, Sage said, no one really “lost” today’s case.
+
+“Vermont and other states can’t go it alone, but they can expect to work collaboratively with the feds on approaches that will serve their individual goals as well as collective ones,” he said.
+
+Majority Finds Preemption
+
+In finding the Vermont database to be ERISA-preempted, Kennedy noted that ERISA itself imposes “extensive” reporting, disclosure and record-keeping requirements on health plans governed by the statute. Because the Vermont database also imposes reporting, disclosure and record-keeping requirements on ERISA-governed plans, it intrudes on “fundamental components” of ERISA's regulatory framework, Kennedy wrote.
+
+“Differing, or even parallel, regulations from multiple jurisdictions could create wasteful administrative costs and threaten to subject plans to wide-ranging liability,” he continued. “Pre-emption is necessary to prevent the States from imposing novel, inconsistent, and burdensome reporting requirements on plans.”
+
+Kennedy made clear that the court's ruling wouldn't prevent the Secretary of Labor from forcing ERISA plans to report some or all of the data sought through state APCDs.
+
+Five other justices joined Kennedy's opinion, which affirms a 2-1 split decision by a panel of judges on the U.S. Court of Appeals for the Second Circuit .
+
+Thomas Questions Everything
+
+One day after asking his first questions at oral arguments in more than a decade, Justice Clarence Thomas filed a concurring opinion questioning the Supreme Court's entire approach to ERISA preemption.
+
+Although Thomas wrote that Kennedy's majority opinion “faithfully applies” the court's prior ERISA decisions, he questioned whether ERISA's preemption provision—which he said “may be the most expansive express pre-emption provision in any federal statute”—was a “valid exercise of congressional power.”
+
+In particular, Thomas took issue with the idea that the Constitution's commerce clause gives Congress the authority to prohibit states from applying “generally applicable civil laws to ERISA plans.”
+
+“Just because Congress can regulate some aspects of ERISA plans pursuant to the Commerce Clause does not mean that Congress can exempt ERISA plans from state regulations that have nothing to do with inter-state commerce,” he wrote.
+
+Breyer Calls on Feds
+
+Breyer's concurring opinion picked up where he left off during the court's oral arguments: encouraging states to involve the federal government in their efforts to create APCDs.
+
+“I see no reason why the Secretary of Labor could not develop reporting requirements that satisfy the States’ needs, including some State-specific requirements, as appropriate,” Breyer wrote.
+
+Going even further, Breyer said there's nothing stopping the DOL from authorizing particular states to collect state-specific health data and share that information with the federal government.
+
+From a policy perspective, Breyer said federal involvement “may consequently secure for the States necessary information without unnecessarily creating costly conflicts—particularly when compared with such alternatives as giving each State free rein to go its own way or asking nonexpert federal courts to try to iron out, regulation by regulation, such conflicts.”
+
+Harvard Law School's Shachar said Breyer's suggestion for DOL action may not be feasible anytime soon, particularly in an election year in which a massive new regulation governing health databases would be difficult to pass.
+
+Another potential problem with Breyer's approach, Shachar said, is that the Department of Health and Human Services may be the federal agency better suited to regulating health-care databases.
+
+Ginsburg Dissent
+
+Ginsburg, joined by Justice Sonia Sotomayor, dissented from the majority opinion and its “retrieval of preemption doctrine that belongs in the discard bin.”
+
+In finding the Vermont program largely unrelated to ERISA, Ginsburg focused on the different goals advanced by the laws. While ERISA is concerned with vesting of benefits, claims processing and beneficiary designations, the Vermont program aims to improve health-care outcomes and costs through the collection and analysis of comprehensive data, Ginsburg reasoned.
+
+“Because ERISA’s reporting requirements and the Vermont law elicit different information and serve distinct purposes, there is no sensible reason to find the Vermont data-collection law preempted,” she wrote.
+
+Ginsburg also gave little weight to the argument that complying with programs like Vermont's would impose significant costs on ERISA plans. On that point, she said the associated costs of compliance “appear to be no more than everyday facets of modern regulatory compliance,” such as “installing and maintaining a software system to collect and remit data to the State.”
+
+The chair of the Vermont Green Mountain Care Board, who defended the database in court, was represented by Kellogg Huber Hansen Todd Evans & Figel PLLC, Stris & Maher LLP and the Vermont attorney general's office. The insurance company challenging the database, Liberty Mutual Insurance Co., was represented by McDermott Will & Emery LLP and Wilmer Cutler Pickering Hale & Dorr LLP.
+
+To contact the reporter on this story: Jacklyn Wille in Washington at jwille@bna.com
+
+To contact the editor responsible for this story: Jo-el J. Meyer at jmeyer@bna.com

@@ -1,0 +1,41 @@
+The U.S. Navy will launch up to 30 synchronized drones within one minute, possibly from a single cannon-like device, in what marks a significant advance in robot autonomy. The drones, when airborne, will then unfold their wings and conduct a series of maneuvers and simulated missions with very little human guidance over the course of 90 minutes.
+
+Navy officials announced on Tuesday that they intend to stage a key demonstration of the swarm bots from what the Navy is calling a “tube-based launcher,” essentially, a big cannon, next year.
+
+Related: The Duck Drone That Could Change the Navy
+
+The program, which the Navy is called Low-Cost UAV Swarming Technology, or LOCUST, marks a significant advance in applications for robotic swarming software. In August, the Office of Naval Research, or ONR, which is behind the program, demonstrated a swarming configuration of 13 robotic boats on Virginia’s James River. The boats were able to perform a variety of tasks to protect a high-value ship from incoming craft.
+
+Getting flying robots to coordinate maneuvers isn’t new. In this 2012 demo, University of Pennsylvania researchers show how they were able to turn a set of small quad helicopter drones into autonomous musicians.
+
+But preprograming a musical flight path for consumer quad bots is different from getting fast moving military drones, possibly armed, to spontaneously and autonomously collaborate and perform missions in the air. In conversation with Defense One at Navy League’s Sea Air Space conference outside of Washington, DC, Lee Mastroianni, director for theLOCUST program, discussed some of the complex differences between swarm boats and flying swarm bots. The Navy needs robots that can join together, break apart and conduct missions individually, collaboratively, and spontaneously.
+
+“In 3-D space you’re doing maneuvers, so that’s very complex. The other part of it is the ability to disaggregate and re-aggregate components,” he said. That means telling the drones “I need three of you to break off and go kill something or do some [intelligence, surveillance and reconnaissance, or ISR,] come back and reform,” said Mastroianni. “It’s very, very dynamic.”
+
+The challenge also represents an ambitious goal for shrinking onboard processing capabilities. “I can’t put a mainframe computer on there. It’s a case of needing very efficient processing,” he said.
+
+Related: This Lethal Laser Could Cripple ISIS and Other Enemies
+
+The Navy’s swarm boats were guided by lasers and radar, but run primarily by a Rubik’s Cube-sized processing unit called the Control Architecture for Robotic Agent Command and Sensing, or CARACaS. The LOCUST project will borrow from the pervious effort but the ultimate solution will be very different.
+
+For the LOCUST project, the Navy is relying on Coyote drones manufactured by Sensintel, an Arizona-based company recently acquired by Raytheon. Coyotes have proven especially useful to the special operations community as well as in various types of scientific research. Last September, the National Oceanic and Atmospheric Administration, or NOAA, dropped a Coyote drone from a canister into Hurricane Eduard to study the storm.
+
+Future flying swarms wouldn’t be limited to Coyotes. But the smaller the drone, the easer the wings can be folded into a capsule that can shot out of the cannon, er, “tube-based launcher.”
+
+“How do you get a lot of birds up in the air quickly? That drives you to a canister launch configuration,” said Mastroianni. “I’m platform agnostic. If you’re looking at a swarm of 20 or 30, there’s no reason why you couldn’t swarm Predators,” he said. “But when you get into something like the Predator, they want them back. They’re not going to be one-way missions.”
+
+Related: 9 ISIS Weapons That Will Shock You
+
+Some national security thinkers, most notably Paul Scharre at the Center for New American Security, or CNAS, argue that cheap swarm robots with increasing autonomy are key to maintaining air dominance in the new century.
+
+“Individually, robotic systems can provide warfighters significant advantages in a range of missions,” he writes in his report Robotics On the Battlefield Part II, the Coming Swarm, published last year. “Collectively, swarms of robotic systems have the potential for even more dramatic, disruptive change to military operations. Swarms of robotic systems can bring greater mass, coordination, intelligence and speed to the battlefield, enhancing the ability of warfighters to gain a decisive advantage over their adversaries.”
+
+This article originally appeared in Defense One.
+
+Read more at Defense One:
+
+Pentagon: We Can't Afford to Replace Aging ICBMs, Bombers
+
+Stand Down, Sen. Cotton
+
+Special Report: The Future of Bio Weapons

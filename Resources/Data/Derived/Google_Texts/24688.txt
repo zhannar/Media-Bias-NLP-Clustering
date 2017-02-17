@@ -1,0 +1,27 @@
+The Obamacare website's coding errors and security holes have raised concerns about the kind of information that could be stolen if the site were hacked.
+
+The fact is: Not much of any value. Healthcare.gov is not the treasure chest of personal information some make it out to be.
+
+Hijacking the account of Obamacare applicants would yield their addresses, birth dates and phone numbers. (Until last week, getting that would have been relatively easy, because of sloppy coding that left some of the website's communication unencrypted.)
+
+Although that's discomforting, that's where the flow of information ends. The government isn't actually selling insurance -- private companies are. So, if you trust private insurers with your data now, there's no reason to believe that would change because they're selling insurance to Obamacare applicants.
+
+Put bluntly, you don't have to worry that hackers can now target a creepy database that stores all of your health information.
+
+It doesn't exist.
+
+"It sounds like there's more scaremongering going on here than is warranted," said Justin Cappos, a computer science professor at the Polytechnic Institute of New York University.
+
+Related story: Security hole found in Obamacare website
+
+Congressional Republicans have also argued that holes in the Obamacare website could make applicants' information stored on other government sites more vulnerable to attack.
+
+That's because the newly created federal services data hub connects the Obamacare exchanges with databases at the Department of Homeland Security, Department of Defense, IRS, Office of Personnel Management, Peace Corps, Social Security Administration and Veterans Health Administration. The exchanges connect with the other agencies to verify your identity when you apply for insurance on Healthcare.gov.
+
+In reality, the data hub isn't a target because it's not even a physical entity. And it doesn't store information, Health and Human Services Department officials say. It's akin to an old phone switchboard that accepts calls and reroutes them.
+
+Security consultants say it's well designed -- and guarded. Breaking in to the hub would prove a formidable task, because it's under constant surveillance by the Centers for Medicare & Medicaid Services.
+
+Even if it is hacked, attackers will find nothing but encrypted messages leading to locked boxes.
+
+"While Healthcare.gov has the world's largest target painted on its back with regards to the quantity and quality of information it can access, the data is largely secure," said Chester Wisniewski, a senior advisor at security provider Sophos.

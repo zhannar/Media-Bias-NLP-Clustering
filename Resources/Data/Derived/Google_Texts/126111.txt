@@ -1,0 +1,35 @@
+This story comes to us from deep blue, Ben & Jerry's Vermont -- where the electorate is so liberal that they've green lit a single-payer system (although the legislature keeps delaying implementation because they can't even come close to paying for it). Jillian Kay Melchior reports at National Review Online that a Romanian hacker managed to penetrate the state's Obamacare exchange website on more than a dozen occasions, undetected...for a month. Details:
+
+
+
+
+
+
+
+A Romanian attacker hacked the Vermont health exchange’s development server last December, gaining access at least 15 times and going undetected for a month, according to records obtained by National Review Online. CGI Group, the tech firm hired to build Vermont Health Connect, described the risk as “high” in a report about the attack. It also found possible evidence of sophisticated “counter-forensics activity performed by the attacker to cover his/her tracks.” The report says that no private consumer information was stored on the hacked server, and that CGI Group had “verified that no additional servers [that may store private data] communicated with any of the identified attacker IP addresses.” But Michael Gregg, the CEO of the cyber-security consulting firm Superior Solutions, says it’s possible the hacker went on to access other parts of Vermont Health Connect, covering his tracks and remaining undetected to this day. “There is potential for consumer risk,” says Gregg, who has also testified to Congress about cyber-security risks for HealthCare.gov. “Best practices were not carried out in several respects. All those point to the possibility of further or additional breaches, because they have just not shown that they have done the due diligence, and without those controls in place, it’s hard to say. The attacker could have captured passwords on additional systems and used those to create different accounts that Vermont Health Connect doesn’t know about yet.”
+
+
+
+In case you're wondering, yes, CGI group was also the technology firm responsible for Healthcare.gov:
+
+
+
+
+
+
+
+Larry Seltzer, an independent security analyst and contributing editor at the information-technology publication ZDNet, says that CGI Group’s role in the breach is hardly surprising, given its involvement with the glitch-plagued HealthCare.gov, as well as with some of the state exchanges that ran into tech problems. “You can’t buy bad publicity like this,” Seltzer says. “It looks to me like whoever was administering the development servers didn’t take security for them very seriously. It’s not good, but it could have been a lot worse. I’d call [this incident] moderately embarrassing.” … This isn’t the first security breach at the Vermont health exchange. Last November, the Associated Press reported on an incident in which an enrollee received his own application in the mail, courtesy of an anonymous sender who had scrawled “VERMONT HEALTH CONNECT IS NOT A SECURE WEBSITE!” on both the envelope and the application. The unnamed sender had obtained paperwork that included the applicant’s Social Security number as well as other private information. Miller, the health-care reform chief, insists that Vermont residents should feel confident the health exchange has security measures in place to protect their private information.
+
+Feel confident, he insists. And I'm sure none of these vulnerabilities have been exploited on the federal website, even though IT security experts repeatedly raised red flags throughout the rollout. Sleep well, consumers. Yesterday, we ran through some fresh Obamacare headaches, including millions of instances of data "inconsistencies" that plagued the enrollment process, the vast majority of which have yet to be resolved. Though the nonpartisan Congressional Budget Office has quietly indicated it will no longer be able to track the law's long-term fiscal impact, its bombshell February report pointed to a much higher price tag than the public was initially sold (in addition to the nasty business about the law slowing hiring, impeding growth and reducing the US workforce). Several respected economists have taken a few stabs at estimating the true annual cost of Obamacare. Their findings:
+
+
+
+
+
+
+
+In fact, University of Chicago economist Casey Mulligan estimates ObamaCare lowers the return from working by 10%. As Harvard economics professor Greg Mankiw explains, that implies a long term loss to the economy on the order of 5% of GDP – or more than $800 billion a year at current prices. The indirect cost to the economy, then, equals more than $8,000 per household per year – or four times the size of the direct budget outlays.
+
+
+
+A Kaiser Family Foundation poll released this week shows Obamacare's popularity (still) underwater, with just one-third of voters saying Democrats' healthcare overhaul has made the country better off.

@@ -1,0 +1,43 @@
+Five High Profile Cloud-Based Failures
+
+
+
+For those who visit CloudTweaks on a regular basis know that we try to remain as neutral as possible in our coverage related to Cloud Computing. With all the tremendous upside, there is however the inevitable downside. Sadly, nothing is failsafe. When cloud services go offline or software and websites fail it can result in huge problems for the users who rely on them to conduct their day-to-day activities. For businesses it can mean lost revenues, lost clients, and lost reputation – the International Working Group on Cloud Computing Resiliency (IWGCR) believes downtime at 13 well-known cloud services has cost the economy more than $71.7 million dollars since 2007.
+
+Earlier this week Adobe’s online login system failed, resulting in its users being unable to log into the Creative Cloud suite and at least one national newspaper being unable to publish its online editions. Here we take a look at some of the most high profile failures of recent years…
+
+Adobe’s Security Breach
+
+Adobe is no strange to cloud services going awry. Back in October last year they suffered a major security breach, with final figures suggesting that as many as 38 million accounts had been compromised. It marked an embarrassing u-turn for the company, who originally claimed the attack only affected 3 million users.
+
+The attackers gained access to Adobe IDs, encrypted customer credit card records, and login data as the full range of Adobe’s software was compromised.
+
+After the attack Adobe made the seemingly positive gesture of offering the affected users a year’s worth of credit monitoring, only to stumble into another PR disaster. It was revealed the monitoring was provided by Experian – a company that was still recovering from a security breach in which the company was tricked into selling consumer records directly to an online identity theft service.
+
+Knight Capital
+
+A cloud-based automatic stock-trading software – what could possibly go wrong? Described as a “meltdown waiting to happen” by the New York Post, Knight Capital’s automated software was based on an incorrect algorithm which cost the firm a staggering $440 million in just forty five minutes. The incorrectly programmed software bought stocks at the market price resulting in several billion dollars of unwanted positions, before selling at the bid price for less money.
+
+The error wiped 75 percent off Knight Capital’s equity value, and in the fallout from the incident they were fined $12 million by the Securities and Exchange Commission. Eventually they had to sell their business to algorithmic trading company GETCO for a mere $3.75 per share.
+
+Microsoft’s Windows Azure
+
+In February 2013 Windows Azure suffered an outage for a mammoth twelve hours, with all attempts at secure access timing out as unavailable. At the same time other Microsoft services such as Xbox Live, Xbox Music, and Xbox Video all suffered with issues, as users were unable to access cloud-connected data or utilise any multimedia content tied to the products.
+
+What could have caused such a lengthy outage that would adversely affect individuals and businesses around the world? An expired SSL certificate apparently – leaving Microsoft truly embarrassed.
+
+Healthcare.gov
+
+Whether you agree with Obama’s Affordable Care Act or not, few can argue that the launch of the policy’s much-vaunted website was anything other than a massive failure.
+
+Costing $630 million, the website was beset with problems from the outset. With 2.8 million visitors on the first day alone, many users were unable to buy healthcare coverage due to website glitches and miscalculated federal subsidies. Some users in California reported waiting in a virtual queue for up to four hours to create an account, only for the website to inform them that the sign-up was unavailable.
+
+Amazon
+
+In January last year Amazon went offline for an hour. Not Amazon Web Services, which has been known to have occasional outages, but the main homepage of the web-shopping giant.
+
+Contrary to initial reports, a denial of service attack was not responsible – instead the company blamed an internal error – it didn’t sound like a major issue. At least not until industry experts calculated that one hour offline had cost the company an eye-watering $5 million in lost revenues.
+
+What are some high-profile cloud outages or software failures that have affected you? Let us know in the comments below.
+
+By Daniel Price

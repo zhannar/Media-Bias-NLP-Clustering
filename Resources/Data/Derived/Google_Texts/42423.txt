@@ -1,0 +1,35 @@
+Healthcare Reform
+
+CMS planned for paper processing before Obamacare launch
+
+The vendor charged with processing paper applications for health insurance under the 2010 health care law got a big addition to its contract just days before the online exchanges opened to the public. While there was no advance indication from officials that the Healthcare.gov launch would be riddled with IT failures, the government apparently ramped up its ability to process paper applications just days before open enrollment kicked off.
+
+On Sept. 26, Reston, Va.-based Serco received an $87 million amendment to its $114 million contract with the Centers for Medicare and Medicaid Services. It's not clear what is in the amendment, but Serco's initial contract, awarded in late June, called for the company to be able to process 6.2 million paper applications during the open enrollment period beginning Oct. 1, 2013 and ending March 31, 2014, according to government contracting database Govini.
+
+Serco program director John Lau told a House panel in a Sept. 10 hearing that the company was ready to execute on its contract and was in the process of hiring 2,000 new workers to handle the flood of paper applications. He noted in that testimony that an amendment was in the works but did not indicate what it was for. Inquiries to Serco were not answered by press time.
+
+Related Story HealthCare.gov needs less tech, more jugaad
+
+CMS did not directly address why Serco got more money at the last minute.
+
+"Serco is a highly-skilled company that has a proven track record in providing cost-effective services to numerous other federal agencies," the agency said in an emailed statement to FCW. "The company has provided exceptional records management and processing support to other federal agencies, similar to work they will do for the Marketplace. The selection met all of the requirements for a full and open competition, and the timing enables us to be ready for Marketplace open enrollment starting on October 1."
+
+The scope of the work was based on estimates from the Congressional Budget Office that the plans would attract an estimated 20 million applicants, with paper applications constituting about 30 percent of these. Despite the estimate, the CBO's expectation is that 7 million people will get coverage under the law by the end of the initial open-enrollment period.
+
+The paper versions of applications are used to determine eligibility. By contrast, the online system accessible via Healthcare.gov is designed to allow applicants to create an account, get an instant determination of their eligibility, and shop for insurance plans. As has been widely reported, the system is not working as advertised.
+
+The state-based exchanges are faring rather better. According to data compiled by the Advisory Board, as of Oct. 16 about 50,000 people had enrolled in health coverage in the nine states with their own exchanges that have released numbers. According to official spokespersons in Washington and Minnesota, two of the more successful states so far, the federal data hub which checks eligibility has not proved a drag on the process.
+
+However, the account creation process has been an early source of friction. As bad as the delays, error messages, and other tech problems have been, it's emerging that insurance carriers that are providing plans are getting hit with IT problems such as duplicate enrollment and incorrect or faulty data on applications.
+
+It's also becoming apparent that the system was not adequately tested, either on the front end for consumers or on the back end for insurance carriers. According to Aetna CEO Mark Bertolini, carriers weren't given new code until a month before the Oct. 1 open enrollment.
+
+"When you implement a project of this size, the first thing you do is unit testing, then you do application testing, then you do integrated testing, then you do scalability testing, then you do user testing, and that plan is usually a lot longer than some of the application development itself. That's happening on the fly," Bertolini said on CNBC.
+
+Despite all the problems, HHS Secretary Kathleen Sebelius still enjoys the confidence of President Barack Obama. The administration clearly isn't eager to take scalps, at least publicly, for the initial IT failure of its signature policy achievement.
+
+"There are certainly issues with the website and people have been working 24/7, around the clock to resolve them and make the consumer experience better," Jay Carney told reporters at an Oct. 16 briefing. He also was careful to decouple the law from the technology, saying that Obamacare "is not just a website."
+
+There's no timetable for fixes to Healthcare.gov, but CMS is facing a Dec. 15 enrollment deadline for those who want their coverage to begin Jan. 1. If the online problems aren't addressed as that date draws nearer, some health policy experts are predicting that there could be some delay to the launch -- either a delay in the individual mandate requiring those not covered to pay a penalty to the IRS insurance or an extension of the March 31 deadline for enrollment.
+
+Another option could be bypassing the IT altogether and putting an increased emphasis on paper-based enrollment. So far, Serco has set up facilities in Arkansas, Kentucky and Missouri to process enrollment forms. While it's not clear what the eleventh hour amendment to their contract was designed to accomplish, it is possible that growing evidence of IT problems in the Healthcare.gov interface drove the decision to expand paper processing capacity as a backstop.

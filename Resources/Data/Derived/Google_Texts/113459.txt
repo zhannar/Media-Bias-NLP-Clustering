@@ -1,0 +1,225 @@
+Editor’s note: A backlog of Medicaid applications has caused financial strain for nursing homes and put thousands of Kansans at risk for loss of medical care. State officials trace the beginnings of the backlog to a computer system switch. Sources who worked on the information technology project for the state and its contractor, Accenture, agreed on condition of anonymity to give Heartland Health Monitor partner KHI News Service documents and interviews to shed light on the problems that put it years behind schedule and tens of millions of dollars over budget.
+
+State officials called a news conference when they inked a $188 million contract in the summer of 2011 for a new high-tech Medicaid enrollment system with Accenture, a Dublin-based multinational professional services giant.
+
+They said the new Kansas Eligibility Enforcement System, or KEES, would replace a clunky paper-based enrollment system that sometimes took up to 45 days. The new system, they said, would allow Kansans who provided the correct information through an online portal to enroll within a day or two.
+
+That hasn’t happened.
+
+After years of missed deadlines, cost overruns and interagency squabbles, KEES still isn’t working as advertised. Medicaid applications are sometimes taking far longer than they did under the old system — some up to five months — and thousands of poor Kansans are being mistakenly denied coverage because of glitches in the system.
+
+Legislators who were frustrated by the delays ordered an audit that was published in December and revealed Accenture had promised more than it could deliver.
+
+Aaron Dunkel, deputy secretary of the Kansas Department of Health and Environment, said it’s important to put the KEES rollout in context. Medicaid is exceedingly complicated, he said, and the system programmers had to adjust the software on the fly as state and federal rules changed mid-project.
+
+“For the size of the project it is and for the complexity of what it has to determine and what it has to do, I think the project overall has been very successful,” Dunkel said.
+
+But most nursing homes rely heavily on Medicaid and have been hit particularly hard financially as residents struggle to get and maintain coverage.
+
+Cindy Luxem, chief executive of the Kansas Health Care Association, said her organization wants to know what went wrong.
+
+“Where did the train go off the tracks?” Luxem said. “It seemed like there was a lot of finger-pointing and a lot of ‘he said, she said’ kind of issues. That shouldn’t be. An online system is something that we’re all used to and that we all use every day. Why was it so difficult here in Kansas to get that figured out?”
+
+Internal emails and documents provided by a source who requested anonymity provide more details about how miscommunication, personality conflicts and staffing problems dogged the project from the beginning.
+
+Internal strife
+
+When the KEES project began in August 2011, the objective was to combine two computer systems: one for KDHE to process Medicaid applications and one for the Kansas Department of Social and Rehabilitation Services (now the Kansas Department for Children and Families) to process applications for other social services like cash assistance.
+
+Tensions surfaced almost immediately between the two agencies’ information technology leaders.
+
+Bob Hasslinger was serving as KDHE’s interim IT director, having been brought into the fold after working as a consultant on an earlier state IT project.
+
+In a September 2011 email to several colleagues, Hasslinger responded to concerns that he was steering Accenture’s subcontractor, Oracle, toward building KEES on a different software platform without informing the rest of the KEES team.
+
+“This is absolute Baloney (sic),” Hasslinger wrote.
+
+Hasslinger’s email was mainly directed to Ben Nelson, then the chief of information services for SRS.
+
+He wrote that he was tired of Nelson “complaining behind everyones (sic) back” and wanted to set the record straight about “the secret meetings you (Nelson) are referring to that are not true.”
+
+Hasslinger said he was only trying to ensure that Gov. Sam Brownback’s executive committee members had information about the pros and cons of various software platforms and that everyone on the KEES team knew that.
+
+Hasslinger also took issue with Nelson filing a formal request under the Kansas Open Records Act for information on the meetings in question.
+
+He said he’d never met with Oracle or Accenture without inviting the other team members.
+
+“We need to focus on the fundamentals of getting this project launched and worry about an on time, in budget delivery,” Hasslinger wrote. “If in the future, you still choose to make inaccurate accusations, please do it to my face and be advised that I can document every statement I have made above.”
+
+Nelson, who left his state job in May 2013 and has since moved to Florida, did not respond to a request for comment sent through his profile on the social networking website LinkedIn.
+
+Hasslinger died in December 2012.
+
+A former Accenture employee who worked on KEES and spoke on condition of anonymity said differences between the two agencies involved — mainly about the design and functions of the program — continued to dog the project after Hasslinger and Nelson left.
+
+Changing deadlines
+
+Glen Yancey took over for Hasslinger as chief information officer of KDHE in December 2011.
+
+He previously worked for the Department of Revenue, where he was involved in a Department of Motor Vehicles computer system switch that didn’t go smoothly. Problems with the rollout caused long lines at DMV offices in several Kansas counties.
+
+Yancey worked on KEES for more than a year and was named the project’s executive director in March 2013.
+
+By then the team had successfully implemented an online web portal for Medicaid information slightly ahead of schedule. But Accenture was struggling to work the kinks out of the eligibility determination software that was scheduled to go live before the end of the year.
+
+An independent evaluation by a firm named Software Engineering Services the previous year reported that the project deadlines were unrealistic from the start and a lack of communication between state officials and Accenture risked putting things further behind schedule.
+
+Accenture’s “out-of-the-box” software also required far more modifications than the company or the state anticipated.
+
+To buy time, company officials came up with a solution: Change project deadlines, apparently without notifying high-ranking state officials.
+
+In an email sent shortly before he became the project’s executive director, Yancey recounted a conversation between Mark Dugan, then the assistant secretary of KDHE, and Darin Bodenhamer, the state’s director of Medicaid eligibility.
+
+When Dugan asked about delays in the KEES project, Bodenhamer said the state was hitting all of its deadlines and he didn’t know what Dugan was talking about.
+
+In his email, Yancey warned other KEES team members that what Bodenhamer said was “factually incorrect.” Yancey attached a spreadsheet to the email showing that Accenture had changed deadlines to make it appear they were being met.
+
+“Look at the delta between when stuff was originally supposed to be done and how the dates just keep changing,” Yancey wrote. “It’s not hard to hit a deadline if you just keep changing it until you are actually there.”
+
+Accenture’s history
+
+Within weeks after signing the contract to develop KEES, Accenture agreed to pay $63.7 million to settle a federal lawsuit alleging the company committed fraud and took kickbacks on other government IT projects.
+
+By then Kansas officials were locked into a partnership that promised Accenture almost $200 million.
+
+Some of the funding for KEES went to pay state workers. But the majority was earmarked for Accenture.
+
+KEES originally was projected to cost $138 million to build and another $50 million over five years to maintain once it was up and running. Federal grants would be used for 85 percent of the build costs and 75 percent of the maintenance costs, in part because the system was intended to communicate with the federal insurance marketplace established by the Affordable Care Act.
+
+The state’s auditors later determined that KEES would be about $46 million over the budget from the original contract and unlikely to produce the $300 million in savings over 10 years that state officials projected.
+
+The state’s auditors also concluded that project management improved in the years after Yancey took control of KEES.
+
+But internal emails show that the initial transition was rocky.
+
+Soon after Yancey took over, he distributed a revised organizational chart that he said illustrated a “pivot” in KEES development. Some state workers saw their roles on the project change, some were moved to other buildings and some, like Bodenhamer, were dropped entirely.
+
+In a series of messages to Yancey, Bodenhamer criticized Yancey’s leadership style and questioned his assertion that team morale was high.
+
+“People are afraid of you, so I have no doubt they are telling you what you want to hear,” Bodenhamer said. “When you cancel people’s meetings and demean them constantly, they become afraid.”
+
+In another email Bodenhamer sent to Yancey and then-Medicaid Director Susan Mosier, who is now the KDHE secretary, Bodenhamer said the changes would result in a workforce going from being passionate about the project to “just being happy to have a job.” He predicted troubles ahead.
+
+“I don’t like what has happened here,” Bodenhamer said, “and I think that this whole ‘pivot’ has been handled very poorly.”
+
+Testing reveals problems
+
+Yancey had about five months from the time he took the lead to get KEES up and running by the initial October 2013 deadline.
+
+But emails show that throughout those months, IT workers from KDHE and DCF were raising alarms about the program’s inability to communicate well with the state’s Medicaid Management Information System, or MMIS.
+
+KEES was built to determine Medicaid eligibility, but the MMIS is the computer system that actually sends eligible Kansans their Medicaid cards and cuts checks to their Medicaid providers. So even if KEES worked perfectly as a standalone system, it would be functionally useless to the state if it could not transfer applications deemed eligible to the MMIS with a high rate of accuracy.
+
+State workers testing the system were finding that too many applications were getting lost along the way.
+
+Emails describe pressure to roll out the system anyway, with multiple state workers pushing back by asking whether it was better to be on time or to have a product that worked.
+
+The rollout was postponed and the October 2013 deadline passed.
+
+About three months after the missed deadline, Yancey appeared before the Senate Public Health and Welfare Committee to explain the delay.
+
+He cited the challenges of getting KEES to interface with the federal ACA exchange but said he was confident the system would be up and running in a matter of “weeks or months” rather than years.
+
+He also told the committee his team would not go live until it could “hold Kansans harmless” during the transition.
+
+“We’re going to use KEES when we can provide benefits timely and accurately to Kansans,” Yancey said.
+
+Yancey then went back to his team and instituted a new strategy for testing the system.
+
+The results, however, remained problematic.
+
+The original terms and conditions of the contract Accenture bid on called for KEES to have an error rate of no more than 0.1 percent in processing and delivering applications. By April 2014, emails show Yancey was willing to settle for 1 percent.
+
+But emails sent in the wake of the new testing protocols show that the system wasn’t meeting those lowered expectations.
+
+One email outlined about 16,000 errors in a monthly “fix” file of test applications that didn’t make it through the system — a rate of about 7 percent — and “fixes” for those errors that caused new problems.
+
+Another broke down the monthly file in precise numbers: 15,248 errors out of 236,663 records received — an error rate of about 6.4 percent.
+
+State IT staff worked with Accenture employees to develop upgraded versions of the software — called “builds” — with patches that were supposed to fix the bugs.
+
+But a May 6, 2014, email from Jenifer Telshaw, a KDHE employee who was the KEES business support manager, shows there were setbacks.
+
+“I just wanted to give you a heads up,” Telshaw wrote to Yancey in an email that was carbon copied to several other KDHE employees. “My staff is reporting that the last two builds (18 & 19) are not very good. They are finding that defects that were fixed are broken again.”
+
+Around that same time, California health officials were reporting a major Medicaid application backlog after rolling out a similar computer program, also developed by Accenture.
+
+Accenture offshores KEES work
+
+Spreadsheets from the testing period show that Accenture and the state were mitigating dozens of “critical” and “high” software defects each week in early 2014. In mid-May the number of defects fixed began to wane. Throughout July and August, it dropped off even more noticeably.
+
+That also was when Accenture began a major shift in staffing for the KEES project. Personnel records show that testers, developers and other staff in Topeka were being rolled off the project and replaced by employees in India.
+
+The shift coincided with a new phase of KEES. Yancey reported to federal officials that the system was built and tested, but the agency needed time for a pilot program to “verify system functional capacity” and train the state workers who would be using the program.
+
+In the new phase, Accenture relied more on foreign labor. Twenty-four Topeka-based employees — including seven testers — were rolled off the project and only five were added. Twenty-eight India-based employees — including 21 testers — were added.
+
+Another former Accenture employee who worked on the project and spoke on condition of anonymity said during that phase of KEES, some of his colleagues were sent to India to train the workers being added to the project. Management’s attitude, the former employee said, was that if employees overseas got it wrong several times, it still would be cheaper than paying U.S.-based employees to get it right the first time.
+
+Joe Dickie, a spokesman for Accenture, disputed that characterization, saying that the global company’s staffing is geared around matching the right skills to each phase of the job.
+
+“This is a very complex program and over the course of the program lifecycle, different levels of expertise and skill sets are required,” Dickie said of KEES via email. “At any given time on the program, we may have people in a project location roll-on or roll-off and there isn’t necessarily a correlation in those changes.”
+
+By the summer of 2014, the KEES team had eliminated most of the “critical” defects — showstoppers that could grind the whole program to a halt. But more than 100 “high” defects remained that would require workarounds, and they were being mitigated more slowly.
+
+Rollout pressure grows
+
+In October 2014, Telshaw emailed Yancey to let him know that it had become obvious to her that her team did not have the staff it needed to oversee the software fixes and get state workers ready to use the system with workarounds.
+
+“At this time, the team is struggling to complete all of the necessary preparation for Go-Live and it is an even greater hardship if even one person takes off or is sick,” Telshaw wrote. “It is a major setback when someone leaves the project.”
+
+By then the system was a year delayed and frustration was building among legislators — even those usually sympathetic to the Brownback administration.
+
+At a January 2015 hearing, Sen. Mary Pilcher-Cook, a Shawnee Republican who then was chairwoman of the Senate Public Health and Welfare Committee, requested Yancey provide detailed data about implementation dates and bug fixes.
+
+Yancey said at the time that there still were too many correspondence errors between KEES and the MMIS and the state’s workforce also was not ready to use KEES.
+
+But amid the state’s budget crisis, lawmakers scraping for every dollar were irritated that they had spent millions on the program with little to show for it.
+
+In March 2015, legislators voted to audit KEES.
+
+That same month, KDHE officials approved a substantial rewrite to the contract that extended Accenture’s partnership for five years of operations help while also adding language outlining the penalties for failing to remediate defects.
+
+In late June, the system went live and began processing Medicaid applications.
+
+Within months, organizations that serve Kansas Medicaid populations began reporting long waits.
+
+Then came what KDHE Division of Health Care Finance director Mike Randol would later call a “perfect storm.”
+
+An administration reorganization plan in January 2016 funneled all Medicaid applications through a single “KanCare Clearinghouse” in Topeka — including some applications for elderly and disabled Kansans that previously were handled by DCF workers throughout the state.
+
+That created a bottleneck at the same time the ACA’s open enrollment period was flooding the system with about 13,000 new applications.
+
+KEES was not equipped to handle it, and a backlog burgeoned.
+
+Medicaid applications have slowed since open enrollment ended. But state employees say KEES remains ponderous to use and even when applications are completed, the system is not guaranteed to process and send them to the MMIS correctly.
+
+A daily fix file for February provided by KDHE showed that the system filed 97 percent of applications without error on its best day and 88 percent on its worst day — far from the 99.9 percent envisioned in the original contract.
+
+In their bid for the contract, Accenture officials wrote that they were “proposing a fully integrated eligibility system with an online application and presumptive eligibility screening tool that increases customer satisfaction as it provides higher availability, reduces keying errors, and expedites the eligibility determination process.”
+
+The legislators’ auditors determined that Accenture overpromised and under-delivered, agreeing to an unrealistic timeline to develop KEES and promising features that never panned out.
+
+Accenture’s spokesman said it has not violated the contract.
+
+“We have been and are continuing to deliver according to the contract, which includes updates and amendments,” Dickie said.
+
+Yancey, Telshaw and Bodenhamer did not respond to an emailed request for comment.
+
+Cassie Sparks, a KDHE spokeswoman, said the state is working with Accenture to improve application processing times and has added employees and redeployed others to pare down the Medicaid application backlog.
+
+The state has not assessed any financial penalties against Accenture but is withholding its final acceptance payment of $1.85 million for the project.
+
+At a recent meeting, Randol said the backlog of applications that have been pending more than 45 days in violation of federal guidelines has been reduced from nearly 7,800 to about 7,300.
+
+“We’re hopeful we’ve kind of turned the corner, so to speak, and we’re moving downward in a positive direction,” he said.
+
+Even so, Randol couldn’t provide lawmakers with a target date for eliminating the backlog.
+
+When asked about KEES at a recent news conference, Brownback declined to evaluate how well the program was managed.
+
+“We’ve had difficulties with it,” Brownback said. “We are working on them. We are working on getting it out and implemented. And we’re going to stay on top of it. But it’s been difficult.”
+
+Jim McLean contributed to this story.
+
+Andy Marso is a reporter for KHI News Service in Topeka, a partner in the Heartland Health Monitor team. You can reach him on Twitter @andymarso

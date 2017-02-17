@@ -1,0 +1,89 @@
+Saturday, January 16, 2016
+
+The new private resale safe harbor is unlikely to gain traction in private offerings of asset-backed securities.
+
+On December 4, 2015, US President Barack Obama signed into law the Fixing America’s Surface Transportation Act (the “FAST Act”).[1] As its title suggests, the FAST Act’s main purpose is to provide long-term funding certainty for surface transportation. However, the FAST Act also made several changes to the federal securities laws, including a new registration exemption for private resales of securities. New Section 4(a)(7) of the Securities Act is essentially a nonexclusive safe harbor for private resales under the so-called “Section 4(a)(1½)” exemption, much like Rule 506 of Regulation D operates as a safe harbor for private issuer sales under Section 4(a)(2) of the Securities Act.
+
+Section 4(a)(7) imposes a variety of requirements, including at least two that are fundamentally incompatible with the common use of Section 4(a)(1½) in private offerings of asset-backed securities (“ABS”) to institutional accredited investors. Not only must the securities have been outstanding for at least 90 days, but the information required to be provided must include certain financial statements that ABS issuers virtually never prepare. For these reasons, we do not believe that Section 4(a)(7) will find widespread use in the ABS markets.
+
+Private Resales and Section 4(a)(1½)
+
+Under Section 5 of the Securities Act, all offers and sales of securities must be registered unless an exemption is available. There are several exemptions for resales of securities. For example, Section 4(a)(1) of the Securities Act provides an exemption for transactions by any person other than an issuer, underwriter or dealer. Most notably, this provision operates as an open market trading exemption, exempting resales of unrestricted securities (i.e., securities originally sold in a registered public offering) held by persons who are not affiliates of (i.e., controlling, controlled by, or under common control with) the issuer. Rule 144A provides an exemption for resales to “qualified institutional buyers,” or “QIBs,” the largest and most sophisticated types of institutional investors that own and invest on a discretionary basis at least $100 million in securities of unaffiliated issuers. Rule 144 provides a safe harbor for sales of securities, whether restricted or unrestricted, by or for the account of an affiliate of the issuer, as well as for sales of restricted securities by anyone, subject to strict volume limitations and information, manner-of-sale, and reporting requirements. Nonaffiliates are excused from these requirements once a specified holding period has passed.
+
+Historically, both regulators and practitioners have agreed that private resales of securities are exempt from registration, although the exact parameters of this exemption, and even its statutory basis, have been debated. In appropriate cases, the private resale exemption exempts the resale of restricted securities (i.e., securities whose resale is prohibited unless the resale itself is registered or a separate exemption is available), whether by an affiliate or otherwise, and the resale of any securities (whether restricted or unrestricted) by an affiliate of the issuer. The private resale exemption has become known as “Section 4(a)(1½)” because it is effectively a specialized application of Section 4(a)(1) in circumstances where the resale may be required to bear “private” characteristics similar to a private issuance under Section 4(a)(2).[2] Until the FAST Act, there was no statutory or regulatory codification of Section 4(a)(1½), and the little authority that existed was remarkably inconsistent and incomplete, perhaps because the requirements vary conceptually depending on the use made of the exemption.
+
+Note that resales by an “underwriter” are not exempt under Section 4(a)(1). An “underwriter” is anyone who purchases from an issuer with a view to, or offers or sells for an issuer in connection with, a “distribution,” which generally is synonymous with “public offering.” Those who purchase restricted securities with the appropriate investment intent, and whose securities “come to rest” in their hands before they sell them, are not underwriters on behalf of the issuer. Therefore, the most straightforward application of Section 4(a)(1½) exempts these resales. Under these facts, the purchaser must establish the issuer’s continued right to a private placement exemption to prove that it is not an underwriter (i.e., continuing a public distribution of shares by the issuer). To establish that right, the resale must take on most of the characteristics of a private placement by an issuer under Section 4(a)(2). Some practitioners would insist that the transaction be analyzed just as if it were a Section 4(a)(2) private placement by the issuer. Others would not require the purchaser to have full access to information regarding the issuer on the theory that the purchaser does not have control over the dissemination of this information.
+
+In contrast, when an affiliate of an issuer of unrestricted securities that were acquired on the public market resells those securities, the requirements for a private resale do not derive from an effort to ensure that the issuer's initial private offering retains its exempt character. Instead, the affiliate stands in the place of the issuer, with an independent obligation to register the resale or find an exemption from registration. Some practitioners would require that such a resale be analyzed by strict reference to all the factors of Section 4(a)(2). Others would conclude that Section 4(a)(2) and its multifactor test do not apply because there is no need to protect the issuer’s original private placement exemption.
+
+The complexity and lack of clarity of Section 4(a)(1½) mean that a legal opinion that a private resale is exempt from registration, which may be required by a broker-dealer, registrar, or transfer agent as a condition to effecting the resale, is likely to be fact intensive, difficult, and expensive.
+
+The FAST Act and Section 4(a)(7)
+
+The FAST Act attempts to address these issues by adding the new Section 4(a)(7) to the Securities Act. Section 4(a)(7) creates a new nonexclusive safe harbor for private resales, which effectively codifies many of the presumed requirements of Section 4(a)(1½) exemption in a manner similar to the way Rule 506 of Regulation D provides a safe harbor that codifies many of the requirements of Section 4(a)(2) of the Securities Act.
+
+A resale of securities is exempt under Section 4(a)(7) if the following conditions are met:
+
+The purchaser is an “accredited investor” within the meaning of Regulation D;
+
+Neither the seller, nor any person acting on its behalf, uses any form of general solicitation or advertising;
+
+The seller is not the issuer or a subsidiary of the issuer;
+
+Neither the seller nor any person who has been or will be paid for its participation in the transaction is qualified as a “bad actor” under Regulation D;
+
+The issuer is engaged in business, not in the organizational stage or in bankruptcy or receivership, and is not a blank check, blind pool, or shell company that has no specific business plan or purpose and has not indicated that its primary business plan is to engage in a merger with an unidentified person;
+
+The transaction does not relate to an unsold allotment to, or a subscription or participation by, a broker or dealer as an underwriter of the securities;
+
+The securities have been authorized and outstanding for at least 90 days; and
+
+For securities of issuers not subject to periodic reporting under the Securities Exchange Act, a variety of specified information has been delivered to prospective purchasers, including the issuer’s most recent balance sheet and statement of profit and loss and similar financial statements for the two preceding fiscal years during which the issuer has been in operation, prepared in accordance with generally accepted accounting principles (“GAAP”) or, in the case of a foreign private issuer, International Financial Reporting Standards (“IFRS”).[3]
+
+Securities acquired under Section 4(a)(7) are “restricted securities” and cannot be further transferred except pursuant to registration or another exemption from registration. Securities sold under Section 4(a)(7) are “covered securities” under Section 18 of the Securities Act, which means that any state blue sky restrictions are preempted and therefore inapplicable.
+
+Section 4(a)(1½), Section 4(a)(7), and ABS
+
+Although technically Rule 144A is a resale exemption, it is the primary exemption used for private offerings of ABS. A Rule 144A offering is accomplished through a financial intermediary acting as “initial purchaser,” a capacity similar to that of an underwriter in a public offering.[4] Rule 144A offers several advantages for private ABS offerings. Other than ensuring that purchasers are QIBs (or that the seller reasonably believes they are QIBs), Rule 144A is relatively simple to administer and does not impose many requirements.[5] Rule 144A securities qualify for book-entry registration via The Depository Trust Company. The JOBS Act eliminated the former implicit prohibition on the use of general solicitation in Rule 144A offerings. Finally, the types of institutions that qualify as QIBs largely overlap the natural market for ABS, which largely consists of sophisticated financial institutions.
+
+However, not all prospective purchasers of ABS qualify as QIBs. For this reason, many private offerings of ABS also have classes that may be offered and sold to a subset of accredited investors known as “institutional accredited investors.”[6] The exemption used for these offerings is Section 4(a)(1½). Institutional accredited investor status serves as a proxy for whether the purchasers can “fend for themselves” and whether they have the practical ability to demand and receive information about the issuer. Although offerings of these tranches may not make use of general solicitation, and the use of book-entry securities for these tranches may be impossible or impracticable, over long years of use the market has become comfortable with the imposition of very few other requirements in order to meet the requirements of Section 4(a)(1½).
+
+One might think that the use of the more certain safe harbor provided by Section 4(a)(7) would be preferable to the lack of clarity in Section 4(a)(1½). However, Section 4(a)(7) imposes two requirements that are fundamentally incompatible with its use in a private offering of ABS. First, the securities must have been authorized and outstanding for at least 90 days, a requirement that clearly cannot be met when an offering of ABS takes place simultaneously with their issuance. Second, the information required to be provided includes an issuer’s most recent balance sheet and statement of profit and loss and similar financial statements for the two preceding fiscal years during which the issuer has been in operation, prepared in accordance with GAAP or IFRS. ABS issuers routinely provide a wide variety of relevant financial information regarding the pool assets and the securities via the private offering memorandum and the monthly servicer’s report, but virtually never prepare financial statements, in accordance with GAAP, IFRS, or otherwise. Because Section 4(a)(7) is a nonexclusive safe harbor for private resales, we expect that institutional accredited investor tranches in private ABS offerings will continue to rely on Section 4(a)(1½) for their exemption from registration.
+
+[1] Read the full text of the FAST Act.
+
+[2] Historically, Section 4(a)(2) involved the consideration of several factors, including the following:
+
+The number of offerees and their relationship to one another and the issuer (the smaller the number and the more closely related to the issuer, the more likely the offering is to be a private placement);
+
+The number of units offered (the fewer offered, the more likely the offering is to be a private placement);
+
+The size of the offering (the smaller the offering, the more likely it is to be a private placement); and
+
+The manner of the offering (a directly negotiated transaction may be a private placement, but use of general solicitation or advertising or other mechanisms of public distribution are likely to be prohibited.
+
+The main determinants of the availability of the §4(a)(2) exemption are whether the offerees can “fend for themselves” and whether they have access to the same type of information about the issuer that registration would provide. The more sophisticated the offerees are, and the more information concerning the issuer and the offering to which they have access, the more likely the transaction is to be considered private.
+
+[3] Other required information includes the following:
+
+The name of the issuer (and any predecessor);
+
+The address of the issuer’s principal executive offices;
+
+The exact title and class of the security, its par or stated value, and the number of shares or total amount of the securities outstanding as of the end of the issuer’s most recent fiscal year;
+
+The name and address of the transfer agent, corporate secretary, or other person responsible for stock transfers;
+
+A statement of the nature of the issuer’s business and the products and services it offers as of 12 months before the transaction date;
+
+The names of the issuer’s officers and directors;
+
+The names of the broker, dealer, or agent to be paid any commission or compensation in connection with the transaction; and
+
+If the seller is a control person of the issuer, a brief statement regarding the nature of the affiliation and a certification that the seller has no reasonable grounds to believe that the issuer is in violation of the securities laws or regulations.
+
+[4] The sale from the issuer to the initial purchaser is made pursuant to section 4(a)(2) or some other issuer exemption from registration.
+
+[5] The seller must take reasonable steps to ensure that the purchaser is aware that the seller may be relying on Rule 144A. The securities sold cannot be of the same class as (or fungible with) any exchange-listed securities (publicly offered ABS are virtually never listed on a securities exchange). For issuers that are not required to file Exchange Act reports (as is the case with most newly issued ABS), the holder or any prospective purchaser of the securities must have the right to obtain certain specified financial and other information, a requirement that is usually addressed by a short covenant in the transaction documents.
+
+[6] These consist of

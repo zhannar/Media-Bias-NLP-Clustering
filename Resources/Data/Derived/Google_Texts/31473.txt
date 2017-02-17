@@ -1,0 +1,43 @@
+Electronic Healthcare Records , Healthcare Information Exchange (HIE)
+
+Why ACOs Rely on Secure Data Exchange
+
+New Rule Sets Expectations for Privacy, Security
+
+Federal regulators have been stressing for years the importance of using secure national health information exchange as a way to help improve the quality of care while controlling cost. Now, a new final rule from the Centers for Medicare and Medicaid Services illustrates the critical role data exchange will play for new accountable care organizations, or ACOs.
+
+See Also: The Future of IAM: Enterprise
+
+On June 9, a final rule was published in the Federal Register updating the Medicare Shared Savings Program, which was established under the Affordable Care Act.
+
+The Shared Savings Program called for the creation of ACOs, groups of healthcare providers who collaborate to provide care to Medicare patients in a region. The coordination of care is enabled by secure health information exchange among an ACO's participating providers. Under payment reforms tied to the Affordable Care Act, providers participating in ACOs get financial incentives tied to improving treatment outcomes.
+
+"We believe it is important for [ACO] applicants to explain how they will develop the health information technology tools and infrastructure to accomplish care coordination across and among physicians and providers," CMS notes in its final rule. "Adoption of health information technology is important for supporting care coordination by ACO participants and other providers outside the ACO in the following ways ... [including] secure, private sharing of patient information."
+
+CMS says more than 400 ACOs are participating in the Medicare Shared Savings Program, serving more than 7 million beneficiaries. The final rule provides regulations under which those ACOs, and those yet to be formed, will operate.
+
+"The security of the exchanged data should be a fundamental component of the exchange process, not an afterthought," says Chuck Christian, a former hospital CIO who recently became vice president of technology and engagement at the Indiana Health Information Exchange "Building in the security from the beginning and being vigilant in the oversight and maintenance against new and changing threats is the prudent approach."
+
+Secure, Timely Access
+
+Secure health information exchange also supports helping patients stay better informed about their care, the final rule notes.
+
+"Healthcare providers should have consistent and timely access to their health information in a standardized format that can be securely exchanged between the patient, providers and others involved in the patient's care," the rule notes. "HHS is committed to accelerating health information exchange through the use of electronic health records and other types of health information technology across the broader care continuum through a number of initiatives."
+
+Those initiatives listed in the final rule include:
+
+Clarifying privacy and security requirements that enable interoperability of records systems for sharing data;
+
+and security requirements that enable interoperability of records systems for sharing data; Establishing a coordinated governance framework and process for nationwide health IT interoperability;
+
+framework and process for nationwide health IT interoperability; Improving technical standards and implementation guidance for sharing and using a common clinical data set;
+
+Enhancing incentives for sharing electronic health information according to common technical standards, starting with a common clinical data set.
+
+Fleshing Out Details
+
+The final rule for the ACO Shared Savings Program doesn't specify the details on how those initiatives will be carried out. Instead, it defers to other work under way at HHS's Office of the National Coordinator for Health IT to flesh out an agenda and details for nationwide, secure and interoperable health data sharing. ONC released a draft of its 10-year roadmap for national health data interchange earlier this year (see A Roadmap For National Health Data Exchange).
+
+"In the near term, the roadmap focuses on actions that will enable a majority of individuals and providers across the care continuum to send, receive, find and use a common set of electronic clinical information at the nationwide level by the end of 2017," the rule notes. "We believe that HIE and the use of certified EHRs can effectively and efficiently help ACOs and participating providers improve internal care delivery practices, support management of patient care across the continuum, and support the reporting of electronically specified clinical quality measures."
+
+The Medicare shared savings program final rule also acknowledges varying levels of technology sophistication among healthcare providers that will potentially participate in the ACOs. "We understand that ACOs will differ in their ability to adopt the appropriate health information exchange technologies, but we continued to underscore the importance of robust health information exchange tools ineffective care coordination."

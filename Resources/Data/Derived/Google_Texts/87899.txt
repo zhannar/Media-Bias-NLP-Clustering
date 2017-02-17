@@ -1,0 +1,47 @@
+By Sean Trende - March 4, 2015
+
+One of the frustrating things about reporting on the King v. Burwell litigation is the difficulty explaining some relatively complicated legal concepts to an audience of non-lawyers. Jonathan Cohn of Huffington Post has come up with a pretty good analogy, though I don’t think it works quite the way he thinks it does.
+
+First, to recapitulate the legalese. The Affordable Care Act works by mandating that people buy health insurance. To help ensure accessibility of that insurance, the statute creates exchanges where people can shop for policies. This is done in three sections of the law. Section 1311 mandates that the states set up these exchanges, and defines what they have to look like.
+
+Congress, however, can’t constitutionally mandate that the states enact a law. So the law provides a backstop. Under section 1321, the federal government is authorized to set up and operate “such exchange” if a state fails to establish one.
+
+So far, so good. But insurance is now mandatory, and insurance is expensive. So, for people with lower incomes, the ACA provides them with subsidies.
+
+This is where things get tricky. The law provides subsidies for individuals who purchase insurance on exchanges “established by the state under 1311.”
+
+You can probably see the problem with subsidies for federal exchanges here, but let’s turn to Cohn’s Joy of Cooking analogy:
+
+“Page 795 of an older edition (the one that my in-laws own) has a recipe for pancakes. The ingredients include three tablespoons of butter and three tablespoons of sugar. The instructions call for mixing these ingredients with the others (eggs, milk and so on) to make a batter that will go on the griddle. If you want to make pancakes and lack either the butter or sugar -- and, critically, if you read only that section of the recipe -- you may think you are out of luck.
+
+“But you’ll know better if you read the whole thing. That’s because, on the prior page, there’s a section on substitutions. According to the cookbook, if you don’t have butter then you can use oil, and if you don’t have sugar you can use either brown sugar or various combinations of honey, molasses, and syrup. The result might not be exactly the same. Real butter makes for moister pancakes, for example. But the differences will be modest. Once you’re done cooking, you’ll still have pancakes.”
+
+Cohn continues:
+
+“[Y]ou shouldn’t read one part of a law in isolation any more than you should read one part of a recipe -- because, just like the Joy of Cooking, the Affordable Care Act allows for substitutions. Another passage in the law authorizes the federal government to “establish and operate such Exchange” within states that do not act on their own. The same section says that the HHS secretary should “take such actions as are necessary to implement such other requirements.
+
+“To extend the pancake analogy, a state-operated exchange is like butter –- and the federally run version is like the oil substitute. If the former is not available, the latter will work instead.”
+
+Let’s make this a bit more concrete. Suppose there was a law that stated that pancakes could only be sold if they were cooked with butter, and that the resulting mixture must be whipped with a blender at 300 rpm. An inspector comes to your restaurant, and finds that you are cooking with oil, and whipping the mix by hand.
+
+So you whip out your well-thumbed copy of Joy of Cooking and explain to the inspector, “But see, I can substitute oil.” Your inspector may be a bit perplexed at this. But I’m not sure he should be. Yes, Joy of Cooking allows you to use oil for butter; they are valid substitutes that have similar properties and achieve similar results. No one, however, would could reasonably claim that a pancake cooked with oil is actually cooked with butter, as the regulation demands. You should probably be fined.
+
+The government, however, effectively argues that butter and oil are, in fact, the same thing. It claims that when Congress authorized the federal government (in section 1321) to set up “such exchange,” it was effectively making a section 1321 exchange and section 1311 exchange substitutes. In other words, if you establish an exchange under section 1321, you’re really establishing one under section 1311. Hence, Cohn’s substitution argument.
+
+But plaintiffs would likely argue that Cohn’s example really only proves their point. Yes, the 1321 exchange is required to have the same features and function the same as a 1311 exchange. This doesn’t change the fact that a 1321 exchange is not a 1311 exchange, any more than a pancake cooked with oil is actually a pancake cooked with butter.
+
+Even if you convince the inspector of the rightness of your cause, however, you run into another, much more serious problem. Your pancake batter also has to be whipped with a blender at 300 rpm, but you whipped yours by hand. Here, there is no clear substitute provided. You’ve plainly violated the law.
+
+Remember, the government has two problems here: The subsidies are available for enrollees on exchanges established under 1311 by a State. “State” is pretty clearly defined as the 50 states plus the District of Columbia. So even if you are convinced that a federal exchange really is a state exchange, legally speaking, it isn’t established by the state. Your pancake batter is still mixed the wrong way.
+
+I have always thought that, if this argument were to get before the Supreme Court, it would be very difficult for the government to overcome. Yes, you are supposed to read a statute as a whole. So, when a financial regulation allows for prosecutions of the destruction of “tangible objects” and “tangible objects” is not further defined, the court might look to the context of the statute and conclude that “tangible objects” is a catch-all for financial instruments and does not cover, say, fish.
+
+But here “State” is pretty plainly defined. That is probably all the context that the court needs, and the conservative justices are going to be reluctant to read that as including “or the federal government.”
+
+A lot of the discussion in the commentariat has focused on two things, one of which is very relevant, and one of which is mostly not. The thing that is mostly not relevant is the ongoing discussion of intent. The discussions about interviewing members of Congress and their staff about whether they thought the law would provide subsidies to the federal exchange, as well as the so-called Grubergate comments, are relevant, but only to narrow points of law. The main question that the court will focus on is not whether Congress wanted to approve subsidies through federal exchanges, but whether they in fact did so.
+
+What is relevant is the second line of attack: That this is a major federal law, and that upending subsidies will be very disruptive. I’ve always said that if this were some obscure statute -- say, the Uranium Mill Tailings Radiation Control Act -- that the plaintiffs could be reasonably confident of victory. But it isn’t, and the court will think twice before acting.
+
+The problem, at least for the five conservative justices, is that the next case before it really might be the Uranium Mill Tailings Radiation Control Act, and if they find for the government here, that next case will be evaluated in the shadow of a decision holding that “oil” can mean “butter,” and that “whipped with a blender” can mean “whipped by hand” (notwithstanding a statutory definition in the latter instance). They are just going to be incredibly reluctant to do so, as that would undermine an awful lot of precedent on statutory interpretation that conservatives have worked hard to erect.
+
+If you’ve read that last part carefully, you’ll note that there are a lot of things that the justices will be reluctant to do, and that they point in different directions. That’s why I think it’s so important that there are also, floating on the periphery of these cases, interesting federalism and standing issues. These are very technical matters, well beyond the scope of this analysis, but they are also very serious ones, which could give conservative justices an “out” if they want it: They can preserve a rather strict rule of statutory interpretation, avoid the effective destruction of the law, and, if they choose, expand the court’s federalism jurisprudence. I suspect that if the government wins, this will be how it does so.

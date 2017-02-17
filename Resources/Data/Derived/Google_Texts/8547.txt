@@ -1,0 +1,19 @@
+Vaccines designed to protect against HIV backfire, leading to an increase, not decrease, in new infections; this may be due to the higher number of activated CD4+ T cells.
+
+Vaccines designed to protect against HIV backfire, leading to an increase, not decrease, in new infections; this may be due to the higher number of activated CD4+ T cells. NIAID
+
+The reason there’s no vaccine for HIV/AIDS, the National Institutes of Health explains, is because HIV has “unique ways of evading the immune system, and the human body seems incapable of mounting an effective immune response against it.” A recently published animal study further clarifies the problem by showing how vaccines designed to protect against HIV backfire, leading to an increase, not decrease, in new infections. Specifically, it is the higher number of activated CD4+ T cells which may be a possible cause for spiking rates of new infection among those already vaccinated.
+
+“The virus infects the very cells of the immune system that any vaccine is supposed to [activate],” Dr. Guido Silvestri, senior author and chief of microbiology and immunology at Yerkes National Primate Research Center, stated in a press release. The vaccines meant to prevent disease seem to make the target larger and therefore easier to hit.
+
+Killer Cells and Their Helpers
+
+T cells are a type of white blood cells that send signals to activate the body’s immune response whenever they detect an intruder, such as bacteria or viruses. T cells always work in pairs, and so scientists place them in two large categories based on their function (and the molecules found on their surfaces). CD4+ T cells, referred to as helper T cells, lead the fight by identifying an infection, while CD8+ T cells go in for the kill. It's an effective partnership, the basis of the immune system.
+
+However, this essential system breaks down in the presence of auto-immune diseases like AIDS. When a person becomes infected with HIV, the virus attacks CD4+ T cells and then uses the stolen parts of their machinery to multiply itself and spread throughout the body. When trying to develop a vaccine for AIDS, many scientists have decided to use CD4 + T cells as a potential target because of this key role in both HIV and SIV (simian immunodeficiency virus) infection.
+
+For Silvestri’s research project, he and his co-authors evaluated five different strategies for immunizing 36 rhesus macaques against SIV. After being given an initial shot of one of the five different vaccines, each of the monkeys received booster shots at 16 weeks and then again at 32 weeks. Next, the monkeys were exposed to a low-dose of SIV. In general, the researchers found none of the vaccines prevented an SIV infection. Oddly, all the immunized monkeys had detectable levels of circulating "killer" T cells — the CD8+ T cells — but these cells did not prevent infection. That said, at the beginning of their infections, the vaccinated animals showed a lower than expected initial viral load or level of SIV in their blood. What was the researchers’ most important finding? The monkeys had higher levels of activated CD4+T cells in their rectal mucosal tissues before becoming infected.
+
+“The possibility that certain immunization regimens designed to protect against HIV infection and AIDS result in increased risk of virus transmission is not just a theoretical concern, because three recent large-scale clinical trials … have shown a trend toward higher infection rates in vaccinated individuals than in placebo recipients,” noted the authors in their conclusion.
+
+Source: Carnathan DG, Wetzel KS, Yu J, et al. Activated CD4+CCR5+ T cells in the rectum predict increased SIV acquisition in SIVGag/Tat-vaccinated rhesus macaques. PNAS. 2014.

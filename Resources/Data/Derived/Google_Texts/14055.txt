@@ -1,0 +1,13 @@
+For years, we've speculated how the Internet of Things (IoT) will impact our lives. We predicted that household appliances would issue maintenance alerts before breaking, or send out e-mails if they needed to be serviced. We imagined a world in which the user experience would mean the dividing line between technology and humans would fade, one in which gadgets like Nest and the Apple Watch were part of our daily routines. These were mere possibilities a few short years ago, but the days of connected devices are finally here.
+
+However, health care, the most critical market for IoT technologies, has yet to reach its full potential.
+
+Aspect , health care is the industry most likely to adopt changes to technology during the next two years. In fact, 91 percent of health-care professionals believe in the positive impact of cloud technology investment. Clearly, health-care professionals recognize the potential of connected devices in improving the patient experience, but what exactly does the future of health care look like in this connected world?
+
+To answer that question, let's consider the Affordable Care Act (ACA), which places a new emphasis on the patient experience with a greater focus on decreasing avoidable readmissions after patient discharge. Readmissions not only are detrimental to patient health, but also represent a huge cost to care providers. Health-care experts estimate that in 2013, approximately $17 billion was spent on potentially avoidable readmissions. This is where the IoT can make an impact with remote patient monitoring through connected devices.
+
+Here are a few examples of how the Internet of Things can help improve patient health and lower health-care costs:
+
+Wearable connected devices: Patients recently discharged from a hospital can be issued a device to monitor vital signs (heart rate, respiration, blood pressure and temperature) and any other necessary readings, such as glucose levels. Data would be sent to a patient's health-care provider via a cloud-based service, and an alert would be triggered if the readings fell outside the acceptable range.
+
+Connected household devices: In a similar way, families may choose to keep a connected device in their home and use it as needed. Think of a more sophisticated Internet-enabled thermometer. Parents of a child feeling ill may connect the youth to the device and have his or her vital information sent to a doctor to determine whether or not an appointment is necessary. And with WebRTC, this child may even have a video consultation with the doctor before deciding whether or not to go in for a visit.

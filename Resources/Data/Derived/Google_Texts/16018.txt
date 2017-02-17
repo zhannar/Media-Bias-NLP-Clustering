@@ -1,0 +1,19 @@
+Saturday, October 4, 2014
+
+Pharmatech Solutions, Inc. v. LifeScan Scotland Ltd.
+
+In a final written decision addressing an obviousness challenge, the U.S. Patent and Trademark Office’s Patent Trial and Appeal Board (PTAB, the Board) found the challenged claims unpatentable as obvious, noting that the patent owner failed to respond to petitioner’s arguments regarding disclosures in certain prior art references. Pharmatech Solutions, Inc. v. LifeScan Scotland Ltd., Case IPR2013-00247 (PTAB, Aug. 6, 2014) (Kamholz, APJ).
+
+Pharmatech petitioned the Board for an inter partes review (IPR). The challenged patent was directed to methods for monitoring glucose levels in blood by measuring the electrical current created when blood is in contact with sensors positioned on a testing strip. In the ensuing proceeding, Pharmatech argued that the challenged claims were obvious in view of the combined teachings of references to Nankai and Schulman and of references to Winarta and Schulman.
+
+Concerning the combined teachings of Nankai and Schulman, petitioner, Pharmatech, argued that Nankai disclosed all claim limitations except three: the position of the sensors; the required step of comparing the currents from each sensor to establish a “difference parameter”; and providing an error indication when the “difference parameter” is beyond a threshold. Pharmatech further argued that since there were a finite number of ways to arrange the sensors, the claimed arrangement would have been obvious to try and that the remaining two limitations were taught by Schulman.
+
+LifeScan countered that the claimed positioning was critical. LifeScan also challenged the motivation to combine Nankai and Schulman, but it never directly addressed Pharmatech’s arguments about the teachings of Schulman.
+
+Noting that LifeScan did not point to any unexpected consequence of the claimed sensor arrangement, the Board agreed with Pharmatech and found the sensor positioning obvious. Also, as noted by the Board, Pharmatech relied on Schulman only for the “limited disclosure that multiple measurements of a sample can be compared to establish a difference parameter, and rejected if the difference exceeds a threshold” and rejected LifeScan’s argument on motivation to combine. As a result, the Board agreed with Pharmatech’s challenge.
+
+Regarding the combined teachings of Winarta and Schulman, Pharmatech argued that Winarta disclosed all claim limitations except measuring an electric current at a second working sensor and the limitations taught by Schulman discussed above. As before, Pharmatech argued that Schulman taught the missing limitations either directly or indirectly by motivating a skilled artisan to modify Winarta’s disclosures.
+
+LifeScan asserted that the sensors disclosed in Winarta could not perform the missing sensor claim element and that other claim limitations were missing from both Winarta and Schulman. The Board disagreed, noting that LifeScan was considering each reference separately rather than their combined teachings. Again, the Board noted that LifeScan did not address Pharmatech’s arguments concerning the combination with Schulman and found in favor of Pharmatech.
+
+LifeScan argued that there was objective evidence of non-obviousness, particularly copying by Pharmatech. Relying on LifeScan’s admission that Pharmatech’s product was designed to fit into a specific meter, the Board rejected this evidence. LifeScan did not show or explain how designing the strips for a particular meter related to the claimed subject matter. The Board thus concluded that petitioner had proved by a preponderance of the evidence that the challenged claims would have been obvious in view of each of the reference combinations.

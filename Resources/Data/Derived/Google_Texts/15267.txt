@@ -1,0 +1,71 @@
+The error, which The Inquirer discovered while running scores of income scenarios through Healthcare.gov, again raises questions about the site's accuracy that made daily headlines in early winter and that have cost President Obama considerable political capital.
+
+It also highlights what some public policy experts say is a troubling lack of transparency in the marketplace's eligibility determinations.
+
+"It is almost impossible to work back from a decision and see what they did," said Judy Solomon, vice president for health policy at the Center on Budget and Policy Priorities in Washington. Ideally, she said, a notice would say, "We have found that your income for 2014 will be X, and based on that income your tax credit will be Y."
+
+But the official determination letters simply state the amount of your tax credit and resulting insurance premium. "I would have no idea if it's right or wrong," Solomon said.
+
+Neither she nor other national and local health-policy analysts had noticed that the site's window-shopping tool was relying on poverty guidelines for the wrong year. Nor, apparently, had the Centers for Medicare and Medicaid Services (CMS), which oversee Healthcare.gov
+
+"This tool is intended only to be used as an unofficial estimate that consumers could use before completing their application, which is where they get their official determination," Richard Olague, a CMS spokesman, said in a brief statement Thursday night.
+
+"While there is a small difference between the poverty levels from year to year, we will change this tool for clarity. We encourage consumers to complete their marketplace application, where they will get an accurate determination of their tax credits."
+
+Analysts outside CMS, however, said many if not most visitors to the site probably heed the government's advice and use the tool before applying. If it responds "not eligible," they might not go any further.
+
+"I wonder if CMS has the capacity to recontact people," said Timothy Jost, a health specialist at Washington and Lee University law school.
+
+'It doesn't help'
+
+Most health-policy experts agreed with CMS's statement that formal applications would not be affected.
+
+"I think this will all reconcile. But it doesn't help somebody who doesn't think they are eligible," said Robert Laszewski, a former insurance-industry executive who is president of Health Policy and Strategy Associates. "It's just another one of those, 'Why did they do that?' "
+
+He predicted the public would react to the news with a sense of deja vu: "They screwed it up again. Can't do anything right."
+
+Though many of the website's early issues had to do with its complexity, in this case the error was simple: It's the wrong year's data.
+
+At issue is the set of federal poverty guidelines used to determine eligibility for financial assistance. The guidelines, based on a combination of income and household size, are raised every January to keep pace with inflation. Hundreds of state and federal programs are using the new 2014 poverty levels to assess eligibility on a particular date for public benefits like food stamps and Medicaid.
+
+The federal marketplace works more like commercial health insurance, and its open-enrollment period spans the last three months of last year and the first three of this year. The Affordable Care Act specified using 2013 poverty guidelines to determine subsidies this year.
+
+Healthcare.gov is using the higher 2014 guidelines for its window-shopping tool.
+
+In theory, tens of millions of people are getting wrong information nationwide. The new income guidelines are just 1.5 percent higher on average than the old, but the marketplace is designed so small income changes trigger corresponding subsidy differences.
+
+And consumers whose incomes slightly exceed the high end of eligibility initially discover they are eligible for tax credits to lower their premiums. In theory, accepting a tax credit for which you're not eligible could make you liable for unpaid income tax when the IRS processes the return, said Jocelyn Guyer, a director at Manatt Health Solutions who helped states that set up their own marketplaces.
+
+In practice, however, as people click through the website to view their insurance options, a different calculator gives more specifics - and correctly says financial assistance is not available.
+
+Though 400 percent of poverty is the ceiling for subsidies, 100 percent is the floor. A couple who enter an income of $15,600 - 101 percent of poverty in 2013 - into the window-shopping calculator get this response, in big, bold letters: "Not eligible for help paying for coverage."
+
+If they ignored the message and clicked through to view the plans, another tool would correctly indicate they may qualify for a tax credit of $760 a month to lower their premiums, or more than $9,000 a year. Additional cost-sharing savings in the form of discounted deductibles, co-pays, and coinsurance add up to $8,000 to $10,000 more, depending on the plan.
+
+"I hadn't seen that before," Brian Haile, senior vice president for health policy at Jackson Hewitt, said of the errors.
+
+Haile did some back-of-the-envelope calculations using data from the Census Bureau's Current Population Survey to estimate how many people might be seriously affected. He concluded about 70,000 uninsured with household incomes in the sliver that separates the 2013 and 2014 poverty levels live in states that have not expanded Medicaid, and so might have gotten the incorrect response. That includes 5,000 Pennsylvanians.
+
+In Pennsylvania and other non-expansion states, marketplace subsidies begin at 100 percent of poverty.
+
+But in states like New Jersey that accepted the law's expansion of Medicaid up to 138 percent of poverty, marketplace subsidies for most people begin where Medicaid ends.
+
+At other sites
+
+And because Medicaid determinations are based on 2014 poverty levels - the same year the marketplace uses in error - people at the low end of poverty in those states would not have encountered the problem. The website responds correctly with their Medicaid eligibility.
+
+Some states chose to run their own marketplaces. It was unknown Thursday night whether any had made the same error; a spot check of Covered California found that state-run marketplace was correct. All those states have opted to expand Medicaid, so the impact would be minimal anyway.
+
+Healthcare.gov is not the only website to make this mistake. The calculator at Independence Blue Cross' site also used the wrong guidelines until a reporter asked about them this week. A spokeswoman said its vendor had mistakenly included marketplace responses when it updated the tool with 2014 poverty guidelines for Medicaid.
+
+And HealthSherpa.com, a popular site that offers detailed information akin to the government site, discovered it was using the wrong year last week, a cofounder said.
+
+The Kaiser Family Foundation's calculator has been correct all along.
+
+But every applicant for financial assistance must go through the federal website to get a subsidy; the main exception is if people call the 800 number, and operators there work with Healthcare.gov.
+
+"I have to say, I probably would have made the same mistake if I were in charge," said Laszewski, the former industry executive. "But they're not supposed to make that mistake."
+
+dsapatkin@phillynews.com
+
+215-854-2617 @DonSapatkin

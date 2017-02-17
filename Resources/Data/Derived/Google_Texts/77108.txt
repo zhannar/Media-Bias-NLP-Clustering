@@ -1,0 +1,41 @@
+If you were to ask 10 people what should be done to fix the Obamacare website, you'd likely get 10 completely different answers. Part of the reasoning behind this assumption is that even government officials don't have a full bearing on what must happen to get the federally run health insurance exchange, Healthcare.gov, running smoothly for a majority of the country. In other words, why should we expect a single answer until we better understand the full scope of the problems?
+
+Since going live on Oct. 1, most of Obamacare's health exchanges have been nothing short of a Halloween horror story. There have been a few bright spots, including the state-run online insurance marketplaces of New York, Washington, and now California -- which have been able to work through minor errors and turn to their individual contractor for any fixes. But customers in the 36 states that are using the federal website have faced a myriad of glitches have kept the majority from completing their application for health insurance.
+
+I see three pathways -- each with its own positives and negatives -- that government officials can take to repair the faulty website. Let's have a look at these possible fixes and see how they might impact Obamacare, you, and your portfolio.
+
+Fix No. 1: Stay the course
+
+The first pathway is the one we're already on: staying the course. Right now, government officials are approaching the fix by throwing as many information-technology experts as possible at the problem in hopes of resolving the glitches before the end of November, per Jeffrey Zients, the former acting Office of Management and Budget director who was tapped to lead the Healthcare.gov save.
+
+Over the past week, the government has requested the assistance of middleware experts Oracle (NYSE: ORCL ) and Red Hat (NYSE: RHT ) to help bridge the gap between Healthcare.gov's software applications and end users. Google (NASDAQ: GOOGL ) has also been called in use its global networking expertise to assist in identifying the website's source code problems.
+
+The advantage of staying the course is that it instills confidence in Healthcare.gov by sticking to its deadlines, including the individual mandate set to take effect on Jan. 1, and should be good news for insurers like Aetna (NYSE: AET ) and Cigna (NYSE: CI ) that are counting on a large influx of online enrollees to boost membership figures over the next six months. Most health insurers, including Aetna and Cigna, have had lofty expectations built into their share price, so keeping to the current fix would be viewed as a possible short and long-term growth driver for these companies.
+
+The disadvantage of this method is that it doesn't give the aforementioned tech trio of Google, Oracle, and Red Hat, as well as the original contractors and subcontractors, a lot of time to get the system working. If the end-of-November deadline passes without resolution to the glitches, I doubt you'll see much change with the game plan to repair Healthcare.gov, but confidence in the website's primary contractors, such as CGI Group (NYSE: GIB ) , will almost assuredly be shaken.
+
+Fix No. 2: Delay implementation of the individual mandate
+
+Another potential fix still involves using every IT company under the sun to help diagnose Healthcare.gov, but it differs from the previous option based on the amount of time allotted for repairing the Obamacare website.
+
+More than five weeks out from the launch, we've seen only marginal improvements in website performance despite what's been an around-the-clock effort to fix the numerous source code issues. What this signals to me is the possibility that this month's deadline is not going to be met and that architectural issues will persist.
+
+The Obama administration could choose to push back implementation of the individual mandate -- the portion of the law that would penalize Americans for not having health insurance as of Jan. 1 -- for a few months, or perhaps even indefinitely until the website is operating properly.
+
+The advantage of delaying the individual mandate is that all consumers would be on a level playing field (i.e., no penalties would be levied until the site is working equally well for everyone), and the IT specialists could take their time to make sure repairs are done correctly. This prolonged effort could also result in somewhat meaningful contract awards for Google, Oracle, and Red Hat.
+
+The obvious downside is that this route would bring increased calls from Obamacare opponents to shelve the law altogether given that the Obama administration already delayed the employer mandate a full year to Jan. 1, 2015. It would also be a clear loss for insurers and hospital operators like HCA Holdings (NYSE: HCA ) which expects to see a larger number of insured patients pass through its hospital doors next year. HCA was forced to write off 10.3% of its revenue as uncollectable last year because of uninsured and underinsured patients' inability to pay for medical care. If the mandate gets pushed back indefinitely, HCA shareholders shouldn't expect that doubtful account provision to drop any time soon.
+
+Fix No. 3: Start from scratch
+
+Scrapping the existing Obamacare website and starting anew certainly isn't the most popular option, but it's still one that should be considered given that some 5 million lines of source code needing to be fixed, one Obama administration IT specialist noted in a New York Times report.
+
+On the bright side, starting fresh would allow the Obama administration to avoid repeating the mistake of hiring 55 contractors to piecemeal Healthcare.gov's construction, but instead work with just a few larger companies that could get the job done within a couple of months. This method should provide a more integrated and problem-free federally run website -- which would be better for consumers, and potentially even insurers and hospitals, in the long run.
+
+The downside here is that it would pummel consumer faith in the health reform effort by scrapping one of its most prominent symbols. In addition, it would be difficult to justify having thrown what could be $500 million or more into the construction and fixes associated with Healthcare.gov only to see the website be completely eliminated. Furthermore, it would almost certainly delay implementation of the individual mandate and would hurt practically all health-care companies that expected a near-term boost from the launch of Obamacare.
+
+Which is most likely?
+
+If you were to twist my arm, I lean toward the likelihood that there will be some leniency instituted as to when the individual mandate penalties will kick in. The good news for consumers is that the penalty isn't particularly painful this upcoming year -- the greater of $95 or 1% of annual income -- so even if it isn't moved, most still-uninsured Americans would not feel a great deal of pain. However, that penalty is set to increase annually through 2016, and by then it will be sizable (the greater of $695 or 2.5% of annual income).
+
+Given the enormity of the problems with the website and the stringing together of a number of tech experts, I find it difficult (not impossible ... just difficult) to see how the Obamacare website will be ready for an onslaught of enrollees by the end of November. Only time will tell if my prognostication is correct, but there are certainly more ways than one to get Healthcare.gov up and running.

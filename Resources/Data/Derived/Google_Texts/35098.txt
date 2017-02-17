@@ -1,0 +1,21 @@
+Patient Analy Navarro receives treatment from Doctor Leon Yeh in the Emergency Room at OSF Saint Francis Medical Center in Peoria, Ill., Nov. 26, 2013. (REUTERS/Jim Young)
+
+4099704
+
+A new study released Wednesday from a Silicon Valley cyber security company found that U.S. health care organizations are the targets of repeated and increasing successful cyber attacks.
+
+Security research institute SANS, working in partnership with Norse, found 375 health institutions were successfully hacked between September 2012 and October 2013, exposing patient information and bypassing firewalls to access sensitive devices like radiology software, mail servers, conference systems, webcams and printers.
+
+Attacks continue to increase as medical facilities adopt more devices equipped with Internet connectivity, and many of the successfully hacked systems are still compromised because the breaches haven’t been detected yet.
+
+“This level of compromise and control could easily lead to a wide range of criminal activities that are currently not being detected,” senior SANS analyst Barbara Filkins said in the study. “For example, hackers can engage in widespread theft of patient information that includes everything from medical conditions to social security numbers to home addresses, and they can even manipulate medical devices used to administer critical care.”
+
+In many cases the organizations themselves are to blame, as researchers discovered multiple instances of firewalls being left on default settings and single, simple passwords used across a range of devices.
+
+The increase in attacks come as more patient information is being placed online than ever before as a result of the federal and state health insurance exchanges mandated by Obamacare.
+
+In numerous instances, hackers were able to gain access to a range of devices by breaching just one, and proceeding to leapfrog across an organization’s network as a result of the poor security measures.
+
+The study found that many of the hacks could be easily prevented by adopting standard security measures, but researchers worry organizations are not moving fast enough to keep up with the frequency of attacks. As more Internet-equipped devices are adopted and more patient information goes online, the risk to patient information will continue to rise.
+
+Follow Giuseppe on Twitter

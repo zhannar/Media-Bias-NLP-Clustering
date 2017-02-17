@@ -1,0 +1,25 @@
+A new study from the University of California, San Diego finds that mothers time their smiles so they can share, for the longest possible time, a smiling moment with their babies. However, wily infants are playing another game, all together. Babies, say the researchers, time their smiles to receive the maximum amount of mommy-only smiling time. Apparently, they don't want to do any heavy-lifting "relationship work."
+
+"We found that infant (and mother) timed their smiles in a sophisticated manner that demonstrated mastery of the statistics of social interaction," wrote the team of computer scientists, roboticists, and developmental psychologists who conducted this National Science Foundation-funded study.
+
+"We do not claim, however, that either partner was aware of timing their smiles in order to achieve a specific goal," they added.
+
+Or so they were led to believe by a few crafty babies...
+
+Baby Machiavelli
+
+To find out what babies, scheming alone in their cribs all day, are up to, the researchers relied on optimal control theory. This methodology helps scientists design and program robots to perform a behavior based on specific goals. In this study, the tool helped the researchers reverse engineer the babies' goals based solely on their observed behavior.
+
+Using data from a previous study of 13 pairs of mothers and infants, the researchers focused on face to face interactions and more specifically, when and how often the mothers and babies smiled. Making their calculations, the researchers ran the data, and gathered their findings.
+
+Surprise! Though the sample size was small, the findings were statistically strong. Control theory data analysis found that 11 out of the 13 babies in the study showed clear signs of intentional smiling.
+
+Next, the researchers developed a program that mimicked the babies' actions and transferred it onto Diego San, a toddler-like robot developed by Dr. Javier Movellan, senior author and research scientist in the Machine Perception Laboratory. Then, 32 UCSD undergraduates were recruited to individually interact with Diego San during three-minute sessions. This step was meant to deepen their understanding of the raw data results.
+
+Diego San Courtesy of PLOS One, Javier Movellan
+
+In each interaction, Diego San displayed one of four different behaviors. The robot, for example, smiled back every time the undergraduates smiled — naturally, the undergrads loved this. However, when Diego San was programmed to behave exactly like the babies, the undergrads responded in the same way that the babies' mothers had: They smiled a lot even though the robot didn't smile as much.
+
+In other words, the robot manipulated the undergrads to smile as much as possible, while smiling as little as possible himself. Natch, those babies are up to something.
+
+Source: Ruvolo P, Messinger D, Movellan J. Infants Time Their Smiles to Make Their Moms Smile. PLOS One. 2015.

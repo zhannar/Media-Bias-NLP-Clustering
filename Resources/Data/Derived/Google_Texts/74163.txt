@@ -1,0 +1,9 @@
+Topics: code breaking, Edward Snowden, encryption, National Security Agency, NSA, quantum computer, Washington Post, Technology News, News
+
+According to documents leaked by Edward Snowden, the National Security Agency is working to build a “a cryptologically useful quantum computer” — a machine that could essentially break every type of encryption with hitherto unforeseen speed and ease.
+
+Reporting on the latest NSA revelation in the Washington Post, Steven Rich and Bart Gellman noted, “With such technology, all current forms of public key encryption would be broken, including those used on many secure Web sites as well as the type used to protect state secrets.”
+
+The quantum computer — types of which are also being developed in E.U. and Swiss labs — works on the assumption principle to quantum physics that a given object exists in all possible states at once, as opposed to the binary computing assumption that sees objects in either zeros or ones (but never both simultaneously).
+
+The Post explained why quantum computing efforts are of use to the NSA’s encryption breaking efforts:

@@ -1,0 +1,43 @@
+Back in March, 3DPrint.com reported on a device called the “Flexy-Hand“, a realistic looking 3D printed hand that was printed using FilaFlex flexible filament. Steve Wood, the designer of the hand, and founder of mechanical design consultancy company, Gyrobot Ltd. told us that he had created the hand to be used one day as a prosthetic device. At the time, however, it was not a functioning prosthetic hand, just a hand that could be manipulated by pulling cables (artificial tendons) attached at the wrist.
+
+As many of us know, there have been many 3D printed prosthetic devices created by both Robohand, and members of e-NABLE. Both are organizations that strive to create affordable 3D printed prosthetics for those in need. One thing you will notice when looking at the typical 3D printed prosthetic hand, is that they are very robotic looking. Designs such as the Cyborg Beast, and the Talon Hand work very well, but they look like they could be the hand of a 25th century cyborg beast (thus the name).
+
+Steve Wood, a self proclaimed “tinkerer, maker, breaker and fixer”, wanted to create something different. He wanted to create a 3D printed prosthetic hand that could act and look as close to the real thing as possible. “Since the launch of the (original) Flexy-Hand, I was instantly getting requests to try and turn the original concept into something more functional, but I originally thought this would be better left to the more experienced prosthetic builders out there to do,” Wood tells 3DPrint.com. “However, to date nothing significant has emerged so I thought about doing something myself.”
+
+The catalyst for getting Wood to reignite interest in advancing the Flexy-Hand to its next stage in development, came when Recreus, the manufacturers of Filaflex filament came to him and asked for his help in trying to come up with a prosthetic for a little girl named Vega.
+
+Just two week ago, Wood decided to set out and start designing the second iteration of the Flexy-Hand — one which could be used as a prosthetic device. Doing it himself, was not the easiest task in the world, but Wood managed. He had to take the concept of the original Flexy-Hand and create a device that could actually be put onto a human being’s arm and function like a real hand. What he came up with is beyond amazing.
+
+Just this morning, Wood contacted 3DPrint.com, with some good news:
+
+“The hand has just been launched and is still “hot off the print-bed”, so I am waiting for adoption by the community, and feedback from this will be important for improvements. However, the mechanism works as intended, in the same way as Robohand and Cyborg Beast, you flex your wrist and the fingers close. I have used nylon fishing line, which gives a little bit of stretch for an adaptive grip, however, traditional tendon cord would be better for increased grip strength. The CAD body of the hand can also be twisted/manipulated in Meshmixer so a more individualized grip position or socket shape can be achieved relatively easily.”
+
+Working from photos of the little Spanish girl, Vega, Wood re-modeled the Flexy-Hand, using Meshmixer and Blender to sculpt out the palm and provide a gauntlet attachment for the hand. Recreus has just began scaling down the hand and printing the parts out in Spain for little Vega. It should be interesting to see how she likes it.
+
+The majority of the Flexy-Hand 2 is 3D printed. It does consist of a few additional pieces which have not been produced on a 3D printer. They include the tendon cord, (5) M2 screws (used as tensioners), Velcro style straps, and foam padding (if needed). It only requires about 1/3 kg of filament to create, and an entire prosthetic hand can be created for less than £15 (approximately $25.75). Not bad for a prosthetic hand, when traditional prosthetics cost in the $50,000+ range.
+
+Some of interesting and exciting features of the Flexy-Hand 2 are:
+
+Gauntlet attachment via Filaflex hinges.
+
+Two lengths/widths of gauntlet available.
+
+Sculpted palm socket.
+
+Discrete internal tendon channels.
+
+Adjustable tensioners.
+
+Discrete glove attachment channels (or alternative “Chicago Fastener” method).
+
+Left and right hand versions.
+
+Scaleable.
+
+Wood has uploaded his design files for the Flexy-Hand 2 to thingiverse, making it free for anyone to download, modify and print out on their own. He has also recently become a member of e-NABLE where he hopes to help create these new prosthetic hands for more children in need.
+
+Wood would also like to thank Recreus, the maker of Filaflex filament, who donated a Witbox 3D printer to his cause, and all the people who provided ideas and suggestions to him along the way.
+
+It should be interesting to see how e-NABLE plans to utilize the Flexy-Hand 2 in the development of future prosthetic devices that they make for children. While the Cyborg Beast, and similar hands function very well, there will surely be children who prefer a more realistic looking/feeling hand. You have to love how far 3D printing has come in just a few years. Only 2 years ago, it was almost unheard of to hear about having 3D printed prosthetic devices. Now we are at a point, where the technology and methods used are advancing at a very rapid rate. Where will we be in another 2 years from now?
+
+Feel free to share your opinions on the Flex-Hand 2 with Steve Wood directly via his Flexy-Hand discussion thread on 3DPB.com, where he is constantly updating us on his progress, and exchanging ideas with other members of the 3D printing community. Check out the video below.

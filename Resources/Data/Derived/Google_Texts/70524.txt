@@ -1,0 +1,21 @@
+Four years ago Congress created a new Center for Medicare and Medicaid Innovation as part of its Patient Protection and Affordable Care Act. The Innovation Center's purpose was “to test innovative payment and service delivery models to reduce program expenditures... while preserving or enhancing quality of care.” Congress has allotted $10 billion to support the Innovation Center for its first ten years of existence and additional rounds of billions for subsequent decades. The Center has long been considered one of the most important initiatives for changing broken payment models in healthcare.
+
+Today the CMS Innovation Center categorizes its work into several key categories, including accountable care, bundled payments for care improvement, primary care transformation, initiatives focused on the Medicaid and CHIP population, and initiatives focused on Medicare-Medicaid enrollees. The remaining two areas of focus for the center are "initiatives to speed the adoption of best practices" and "initiatives to accelerate the development and testing of new payment and service delivery models."
+
+In other words the CMS Innovation Center was not only tasked with developing and piloting innovative payment and service delivery models, but also with finding ways to get those models that work into practice sooner.
+
+Shortly after plans for the center came to light, an editorial in Health Affairs in July 2010 helped put the need for the center in context: "The CMS already has the authority to conduct demonstrations and pilot programs, some of which have led to significant policy changes," Michael Barr and colleagues wrote at the time. "However, the agency’s activities to date have been limited by a host of political, legal, and budgetary constraints. Thus, the enabling statute for the Innovation Center strengthens the CMS’s authority and capacity to foster innovation. In doing so, it addresses some of the historical boundaries placed on the agency."
+
+Among those historical boundaries, Barr mentions mandatory randomized control trials: "Finally, the center is not required to use randomized controlled trials for evaluation, which permits the CMS to use other valid evaluation methods to facilitate rapid learning and to test models not well suited to randomization," he wrote.
+
+MobiHealthNews has previously tackled the question of whether randomized controlled trials are too slow for digital health-enabled services, which often leverage consumer technologies that may no longer be in use once results for the study finally publish.
+
+Earlier this week The New York Times ran a one-sided article, "Method of Study Is Criticized in Group's Health Policy Tests", on the CMS Innovation Center loaded with quotes from various evidence-based medicine groups lamenting the center's habit of not employing randomized control trials.
+
+Dr. Patrick Conway, the director of the CMS Innovation Center, told the Times the center would use RCTs when it was appropriate.
+
+The New York Times report both completely missed the center's mandate to move quickly, and almost exclusively quoted organizations whose mandate it is to push for wider adoption of RCTs. As one commenter on the piece astutely noted:
+
+"RCTs are not the be all and end all of research design," the reader wrote. "Of course, you are not going to hear that from the RCT-focused shops [The New York Times] chose to interview (not a product of random, but rather purposive sampling I presume). Pick up a research design text and you will find a menu of valid approaches particularly as regards policy research. Policy research does not test the effects of "chemical x" on lab rats. It studies very complex systems. While RCT is a great approach, it is not the only one -- and suffers from its own shortcomings."
+
+The CMS Innovation Center's mandate requires it to look beyond RCTs, because 17 years -- the average time it takes for medical innovations to come to market -- is far too long.

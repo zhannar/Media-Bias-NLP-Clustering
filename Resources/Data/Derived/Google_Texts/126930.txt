@@ -1,0 +1,19 @@
+Among the issues that President Obama did not address in his lukewarm call for "reform" of NSA spying practices are allegations that U.S. government officials have used their clout to compromise encryption technology and strongarm companies into inserting backdoors into their technology. That's not a small issue, because it gives the NSA and other agencies access to vast quantities of information at least as sensitive as what they gather from sucking up phone meta data. Last week, even before the president's speech, Brendan Eich, the Chief Technology Officer of Mozilla, the organization behind the Firefox Web browser, called on the public to help resist such threats.
+
+Wrote Eich in a blog post:
+
+As a result of laws in the US and elsewhere, prudent users must interact with Internet services knowing that despite how much any cloud-service company wants to protect privacy, at the end of the day most big companies must comply with the law. The government can legally access user data in ways that might violate the privacy expectations of law-abiding users. Worse, the government may force service operators to enable surveillance (something that seems to have happened in the Lavabit case). Worst of all, the government can do all of this without users ever finding out about it, due to gag orders. This creates a significant predicament for privacy and security on the Open Web. Every major browser today is distributed by an organization within reach of surveillance laws. As the Lavabit case suggests, the government may request that browser vendors secretly inject surveillance code into the browsers they distribute to users. We have no information that any browser vendor has ever received such a directive. However, if that were to happen, the public would likely not find out due to gag orders. The unfortunate consequence is that software vendors — including browser vendors — must not be blindly trusted. Not because such vendors don’t want to protect user privacy. Rather, because a law might force vendors to secretly violate their own principles and do things they don’t want to do.
+
+His proposed solution? Since Mozilla and its products are all open source, he wants tech savvy users around the world to:
+
+regularly audit Mozilla source and verified builds by all effective means;
+
+establish automated systems to verify official Mozilla builds from source; and
+
+raise an alert if the verified bits differ from official bits.
+
+That way, no matter what Mozilla is ordered to do by a government body, and forbidden to reveal, any compromises stand a good chance of being discovered. Even attempting them might deterred.
+
+Talk about watching the watchers.
+
+Eich is right—open source does have an inherent advantage over proprietary technology because it's open to public scrutiny. It stands to grow in importance for just that reason.

@@ -1,0 +1,25 @@
+President Barack Obama talks to the press after meeting with his team coordinating the government's Ebola response in the Oval Office of the White House in Washington, Oct. 16, 2014. (REUTERS/Larry Downing)
+
+4357004
+
+Personal taxpayer information given to state-run Obamacare exchanges could be at risk, according to a federal audit released Thursday.
+
+The Treasury Inspector General for Tax Administration said that the IRS is failing to ensure that the security of state-run Obamacare exchanges is up to snuff. The federal agency gave state websites private taxpayer information without checking independent security assessments.
+
+“The IRS must do more to ensure that federal tax information submitted to the ACA Exchanges is protected and prevent its unauthorized disclosure,” inspector general J. Russell George wrote in the audit.
+
+In order to determine whether customers are eligible for premium tax credits for Obamacare coverage, the IRS gives out limited tax information to state exchanges through a federal data hub, which routes data across a long list of federal and state agencies.
+
+But the IRS didn’t require state exchanges or other agencies that receive tax information to submit independent security assessments before handing out sensitive information. Although it requires the states to perform security assessments, in some cases, security authorizations didn’t always meet federal standards, TIGTA found.
+
+“IRS procedures did not require the Exchanges or other agencies to submit an initial independent security assessment report that could help to evaluate risk levels and the status of required security controls,” the report concluded. “TIGTA also found deficiencies in procedures related to obtaining signed system security authorizations and ensuring that on-site reviews of agencies that have deployed new systems occur in a timely manner.”
+
+The office visited two state exchanges, California and Connecticut, and found that neither had signed security authorizations, in which states formally accept the risks and responsibility of securing tax information.
+
+In response, the IRS agreed that it should have state exchanges submit security assessments and signed authorizations before giving states taxpayer data — but repeated the Obama administration’s mantra that no taxpayer data has been breached this far.
+
+Some security risks have already caused problems: Vermont’s state-run Obamacare exchange has been shut down since mid-September at the Obama administration’s request due to security fears. (RELATED: Vermont Shut Down Obamacare Website For Emergency Repairs)
+
+While the administration requested that Vermont disconnect from the federal Obamacare data hub and fix its security problems, the exchange was tapped into the system and active for close to a year while it had security weaknesses. National Review reported earlier this year that the exchange’s development server was hacked 15 times by a Romanian attacker last December, but the breaches went unnoticed for over a month.
+
+Follow Sarah on Twitter

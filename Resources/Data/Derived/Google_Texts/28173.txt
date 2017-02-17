@@ -1,0 +1,27 @@
+A magnifying glass is held in front of a computer screen in this picture illustration taken in Berlin May 21, 2013.
+
+WASHINGTON Malicious software likely linked to China was used to infect visitors to a wide range of official Afghan government websites, U.S. cybersecurity researchers say.
+
+ThreatConnect, a Virginia-based cybersecurity firm, said its researchers last week found a corrupted JavaScript file that was used to host content on "gov.af" websites, and there are no known antivirus protections available for the malware.
+
+Rich Barger, chief intelligence officer of ThreatConnect, told Reuters his company was confident the new campaign, "Operation Poisoned Helmand," was linked to the "Poisoned Hurricane" campaign detected this summer by another security firm, FireEye, that linked it to Chinese intelligence.
+
+He said the latest attack was very recent and one timestamp associated with the Java file was from Dec. 16, the same day Chinese Prime Minister Li Keqiang met with Afghanistan's chief executive officer, Abdullah Abdullah in Kazakhstan.
+
+China is seeking to take a more active role in Afghanistan as the United States and NATO reduce their military presence.
+
+"We found continued activity from Chinese specific actors that have used the Afghan government infrastructure as an attack platform," Barger said, adding that Chinese intelligence could use the malware to gain access to computer users who had checked the Afghan government sites for information.
+
+Barger said the attack was a variant of what he called a typical "watering-hole" attack in which the attackers infect a large number of victims, and then follow up with the most "promising" hits to extract data.
+
+He said researchers this summer saw a malicious Java file on the website of the Greek embassy in Beijing while a high-level delegation led by Keqiang was visiting Greek Prime Minister Antonis Samaras in Athens.
+
+The two events were not directly related, Barger said, and additional research was needed into the status of ministerial and official government websites on or around the dates of notable Chinese delegations and or bilateral meetings.
+
+In this case, the malware was created on Dec. 13, just days before the high-level meeting, Barger said.
+
+The malware was found on numerous Afghan government websites, including the ministries of justice, foreign affairs, education, commerce and industry, finance and women's affairs, and the Afghan embassy in Canberra, Australia, according to ThreatConnect, which was formerly known as Cyber Squared.
+
+By late Sunday, Barger said it appeared that the malicious Java file had either been inactivated by the attackers or "cleaned up" by the Afghan government.
+
+(Editing by Gunna Dickson and Eric Walsh)

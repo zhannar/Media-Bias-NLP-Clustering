@@ -1,0 +1,51 @@
+This evidence can come from a variety of sources — electronic medical records, genomic sequences, biospecimen repositories, insurance records, wearable sensors and social and environmental data. The challenge is to create methods to deliver this information to researchers and care providers in relevant and privacy-protected formats.
+
+“This isn’t rocket science, but there were no financial incentives to develop these tools until the Accountable Care Act came along,” said Cullen.
+
+The 2010 Patient Protection and Affordable Care Act includes cost-reduction and quality-improvement incentives that health-care institutions can take advantage of through the wise use of population-health data. There are incentives for hospitals that show improved outcomes for heart failure, pneumonia and surgery. And there are incentives for clinicians and hospitals to set up accountable care organizations to lower annual per-capita growth on health spending and improve health for large populations.
+
+Population-health scientists can be instrumental in creating the tools to more effectively and efficiently help institutions take advantage of these quality-focused incentives, said Cullen.
+
+We want to add intelligence to medical records in the same way that smartphone navigation apps have added real-time traffic alerts and alternate routes.
+
+During the last year, Lorene Nelson, PhD, associate professor of health research and policy and the center’s associate director, helped lay the foundation for the center, engaging more than 200 faculty members in a series of meetings and symposia. With the assistance of Spectrum staff, she also organized a distinguished lecture series to bring new ideas to the Stanford community, launched a website and Twitter feed to foster collaborations, and expanded the pilot grant program.
+
+To date, the center has awarded 26 project teams with grant awards ranging from $20,000 to $50,000. Funded by Spectrum’s Clinical and Translational Science Award from the National Institutes of Health and by Stanford Health Care, many of these projects are focused on developing a “learning health system,” in which clinical data can be linked to external information relevant to patient health, such as neighborhood locations and environmental conditions. Representative projects include:
+
+Design of an electronic clinical-decision support system to improve emergency care for children.
+
+Development of a personalized medicine practice using genomic data.
+
+Methodologies for using Google Street View to assess neighborhoods for population health research.
+
+“Today’s electronic medical records are like MapQuest a decade ago — they provide a snapshot of a chart without much added value,” said Cullen. “We want to add intelligence to medical records in the same way that smartphone navigation apps have added real-time traffic alerts and alternate routes. For example, when an asthmatic child comes to the emergency department, a physician’s dashboard might include information on air quality, viral outbreaks in the patient’s neighborhood and the child’s vaccination record.”
+
+Access to new data and study populations
+
+To better support the efforts of population-health scientists, the center is working on providing centralized access to a variety of U.S. and international health databases. Stanford population scientists say they are particularly excited about the pending acquisition of several large insurance-claims data sets from public and private insurers.
+
+“To understand the complex financial, social and regional incentives that drive health-care delivery in the United States, researchers need easier access to detailed information on what types of services patients are using, where they are accessing these services and how much they cost,” said Kate Bundorf, MBA, MPH, PhD, associate professor of health research and policy. “Developing a large repository of insurance claims will enable Stanford researchers to examine these types of questions.”
+
+Researchers need easier access to detailed information on what types of services patients are using, where they are accessing these services and how much they cost.
+
+The center plans to make these data sets available at very low cost to Stanford trainees and investigators at every level. But even more important, center staff will provide technical support to help users get access to the data needed to answer their research questions. Other data sets the center hopes to make available over time include those from the Google X Baseline Study and Indepth Network.
+
+The Google study is a five-year pilot study in which daily health information is being collected from healthy people in Southern California via a Google-designed web portal and with biometrics devices, such as glucose-measuring contact lenses and activity-measuring accelerometers. The study’s objective is to provide researchers with a comprehensive picture of human health and the transition to disease. Collaborators include the Stanford School of Medicine and Duke University School of Medicine. Baseline studies have just begun.
+
+Indepth Network is a coalition of health and demographic surveillance systems in 23 low- and middle-income countries in Africa and Asia. Negotiations are underway to enable Stanford researchers to initiate collaborative studies on geographically defined groups under regular surveillance by local scientific teams.
+
+In addition to large data sets, the center is developing easier access to clinical, volunteer and demographically segmented study populations. As with the databases, center staff will work with investigators to identify and facilitate connections with population groups that could be of importance to their research.
+
+Nationwide clinical data access
+
+Population-health researchers can also look forward to enhancements to STRIDE, the Stanford Translational Research Integrated Data Environment, a comprehensive warehouse of de-identified clinical notes, diagnoses and prescriptions for nearly 2 million patients treated since 1994 at Stanford Hospital & Clinics, now called Stanford Health Care, and Lucile Packard Children’s Hospital Stanford.
+
+The center is poised to take the next step in becoming the hub for research and educational activities related to population health across the university.
+
+Michael Halaas, chief information officer for the School of Medicine, has led the effort, initiated by Spectrum and other member institutions in the CTSA consortium, to connect STRIDE to a nationwide, scalable informatics framework called i2b2. When this project is complete, Stanford researchers will be able to access anonymized clinical data from participating health-care systems around the country for research and clinical trial recruitment.
+
+The i2b2 framework is based on the Research Patient Data Registry developed at Massachusetts General Hospital. It has a number of advantages, including extensive testing by the Boston-based Partners Health System and Harvard faculty; an easily understood database schema; release under an open-source license; an organized user group for sharing information and applications; and the capacity to share translational research data with collaborators across other i2b2 institutions.
+
+“I couldn’t be more pleased with the tremendous progress that all the faculty who have worked on this initiative have made over the last two years,” said Harry Greenberg, MD, senior associate dean of research for the medical school and director of Spectrum. “With the appointment of Mark Cullen, the center is poised to take the next step in becoming the hub for research and educational activities related to population health across the university. Perhaps most exciting to me, with all the marvelous talent we have at Stanford, we will be able to provide much-needed guidance to investigators, clinicians and policymakers concerning the very difficult task of drawing accurate inferential conclusions from the great wealth of new data now available at our fingertips. This data has the potential to improve the health and well-being of local, national and even global populations.”
+
+The Stanford Center for Population Health Sciences is supported by Spectrum, which is funded by the National Center for Advancing Translational Sciences at the NIH; Stanford Health Care; the dean’s office; and various clinical departments. Under the umbrella of Stanford’s Biomedical Data Science Initiative, this funding aims to help fuel transformations in human health and scientific discovery by fostering innovative collaborations among medical researchers, computer scientists, statisticians and physicians.

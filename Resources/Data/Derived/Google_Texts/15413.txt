@@ -1,0 +1,29 @@
+A new smartphone-based device is able to collect detailed and microscopic images of blood or tissue samples that permit detection of precancerous and cancerous cells.
+
+How do you use a smartphone to diagnose cancer and human papilloma virus (HPV)? Get inspired by hologram technology and add an algorithm, say a group of Massachusetts General Hospital investigators. Their new smartphone-based device is able to collect detailed and microscopic images of blood or tissue samples that permit the detection of precancerous and cancerous cells as well as cancer-linked DNA targets.
+
+"We couldn’t do this five years ago," Dr. Cesar M. Castro, an oncologist at Massachusetts General Hospital, told Medical Daily, explaining that advancements in cell phones made the device possible. “Because the system is compact, easy to operate, and readily integrated with the standard, portable smartphone, this approach could enable medical diagnostics in geographically and/or socioeconomically limited settings with pathology bottlenecks,” wrote Castro and his co-authors in the study.
+
+Context
+
+There’s more to health than just understanding the science of disease. For any medicine to be beneficial — whether it be a vaccine, a drug, or a system of prevention (such as first-rate sanitation) — it must be accessible to the people who need it. Currently, global cancer rates are rising, yet rapid and cheap screening techniques lag far behind. Despite the many recent advances in cancer treatment, then, many patients around the world simply are not receiving effective health care.
+
+In an era of super-expensive, high-tech diagnostic equipment, how do you bring a simple, low-cost diagnosis to people who live outside the borders of high-income countries?
+
+To address this need, the research team at MGH developed a device they call the D3 system: digital diffraction diagnosis system. The D3 system features an imaging module with a battery-powered LED light clipped onto a standard smartphone.
+
+To begin, you add microbeads (each is about 5 microns — human hair is, on average, about 100 microns in diameter) to a specimen, such as a blood or tissue sample. After about 10 minutes, these beads will bind to known cancer-related molecules within the sample cells.
+
+"At the end of those ten minutes you use the light from the smartphone," Castro told Medical Daily, and this "uniform illumination" scatters the light itself. The microbeads blending with the cells create unique diffraction signatures. The resulting diffraction images are then digitally reconstructed into object images and the bead-labeled target cells can be identified as precancerous or cancerous.
+
+Analyzing up to 10 MB of data in less than nine-hundredths of a second, “the algorithm itself is the computing power,” Castro told Medical Daily. “The algorithm itself does the reconstruction." In fact, the system is capable of recording high-resolution data on more than 100,000 cells from a specimen in a single image.
+
+The D3 System was field tested in rural areas of northern New England without problems. One pilot test of the system detected the presence of tumor proteins with an accuracy matching that of the current gold standard for molecular profiling. D3 analysis of cervical biopsy samples from 25 women with abnormal PAP smears also reliably categorized the samples as high-risk, low-risk, or benign, with results matching conventional pathologic analysis. D3 analysis of lymph node biopsy samples was accurate as well. Finally, the system successfully detected DNA from HPV.
+
+Most importantly, the results from pilot tests cost only $1.80 per assay, and this price is expected to drop as the system is refined.
+
+"As we improve the sensitivity, the device might have many more uses, including detecting drug concentrations," Castro told Medical Daily. He explained how, "as someone starts a new therapy, like a blood thinner, we can’t predict how much to give... and a lot of things can interfere with the dose," including other medications. Using the D3 system, people "would not have to come in once a week but they could monitor themselves," Castro said, adding, "This in many ways aligns with empowering patients."
+
+Having filed a patent application for the D3 technology, the researchers will further test the device in resource-limited areas. "Botswana is a country where we will start piloting this. They have less than 5 pathologists in the country," Castro told Medical Daily. In particular, he hopes to use the D3 System to test for cervical cancer. "There’s a big unmet need, it’s a third most prevalent cancer with most of that occurring outside the U.S.," he told Medical Daily. "This is a way to flag individuals who may need further testing."
+
+Source: Im H, Castro CM, Shao H, et al. Digital diffraction analysis enables low-cost molecular diagnostics on a smartphone. PNAS. 2015.

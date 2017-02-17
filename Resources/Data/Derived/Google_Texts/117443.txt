@@ -1,0 +1,47 @@
+AT&T Hosts Massive Caller Database For DEA
+
+Code-named the Hemisphere Project, it allows investigators armed with subpoenas to quickly mine the company's vast database.
+
+SEATTLE — For at least six years, federal drug and other agents have had near-immediate access to billions of phone call records dating back decades in a collaboration with AT&T that officials have taken pains to keep secret, newly released documents show.
+
+The program, previously reported by ABC News and The New York Times, is called the Hemisphere Project. It’s paid for by the U.S. Drug Enforcement Administration and the Office of National Drug Control Policy, and it allows investigators armed with subpoenas to quickly mine the company’s vast database to help track down drug traffickers or other suspects who switch cellphones to avoid detection.
+
+The details of the Hemisphere Project come amid a national debate about the federal government’s access to phone records, particularly the bulk collection of phone records for national security purposes. Hemisphere, however, takes a different approach from that of the National Security Agency, which maintains a database of call records handed over by phone companies as authorized by the USA Patriot Act.
+
+
+
+official MintPress sponsor official MintPress sponsor
+
+“Subpoenaing drug dealers’ phone records is a bread-and-butter tactic in the course of criminal investigations,” Justice Department spokesman Brian Fallon said in an email. “The records are maintained at all times by the phone company, not the government. This program simply streamlines the process of serving the subpoena to the phone company so law enforcement can quickly keep up with drug dealers when they switch phone numbers to try to avoid detection.”
+
+The Associated Press independently obtained a series of slides detailing Hemisphere. They show the database includes not just records of AT&T customers, but of any call that passes through an AT&T switch.
+
+The federal government pays the salaries of four AT&T employees who work in three federal anti-drug offices around the country to expedite subpoena requests, an Obama administration official told the AP on Monday. The official spoke on the condition of anonymity because he or she was not authorized to discuss the program, and said that two of the AT&T employees are based at the High Intensity Drug Trafficking Area office in Atlanta, one at the HIDTA office in Houston, and one at the office in Los Angeles.
+
+The Hemisphere database includes records that date back to 1987, the official said, but typical narcotics investigations focus on records no older than 18 months.
+
+To keep the program secret, investigators who request searches of the database are instructed to “never refer to Hemisphere in any official document,” one of the slides noted. Agents are told that when they obtain information through a Hemisphere program subpoena, they should “wall off” the program by filing a duplicative subpoena directly to target’s phone company or by simply writing that the information was obtained through an AT&T subpoena.
+
+It wasn’t immediately clear what percentage of U.S. calls are routed through AT&T switches and thus have records captured in Hemisphere. One slide says the program includes records “for a tremendous amount of international numbers that place calls through or roam on the AT&T network.”
+
+“While we cannot comment on any particular matter, we, like all other companies, must respond to valid subpoenas issued by law enforcement,” AT&T spokesman Mark Siegel said in an email.
+
+According to the slides, the program is useful for investigators trying to track down drug traffickers or other criminals who frequently change phones or use multiple phones. If agents become aware of a phone number previously used by a suspect, they can write an administrative subpoena, with no judicial oversight required, for records about that number.
+
+Hemisphere analysts can track the number’s call history or other characteristics and compare it to the history and characteristics of phones still in use — thus winnowing down a list of possible current phone numbers for the suspect, along with their location.
+
+“Hemisphere results can be returned via email within an hour of the subpoenaed request and include (call detail records) that are less than one hour old at the time of the search,” one slide said.
+
+Marc Rotenberg, executive director of the Electronic Privacy Information Center, said the program raises several privacy concerns, including that if a query returns call records that are similar to, but not, those of the suspect, agents could be reviewing call records of people who haven’t done anything wrong.
+
+“One of the points that occurred to me immediately is the very strong suspicion that there’s been very little judicial oversight of this program,” Rotenberg said. “The obvious question is: Who is determining whether these authorities have been properly used?”
+
+A Washington state peace activist named Drew Hendricks provided the slides to the AP on Monday. He said he obtained them in response to a series of public records requests he filed with West Coast police agencies, initially seeking information about a law enforcement conference that had been held in Spokane.
+
+In the Northwest, the DEA and Department of Homeland Security make most of the Hemisphere requests through administrative subpoenas, one slide noted. Since late last year, AT&T has also accepted requests by court orders from local police agencies in Washington state.
+
+As of June, Hemisphere had processed 679 requests from the Northwest High Intensity Drug Trafficking Area. And since 2007, the Los Angeles Hemisphere program had processed more than 4,400 requests.
+
+In connection with the controversy over the NSA’s sweeping up of call records, some lawmakers have suggested that phone companies store the records instead, and allow federal agents or analysts to request specific data when necessary.
+
+“This way each query would require a specific government warrant before the FISA Court, and Americans would have more confidence that their privacy is being protected, while achieving the same national security results,” Rep. Adam Schiff, D-Calif., said in a July 31 statement.

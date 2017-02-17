@@ -1,0 +1,23 @@
+An inspector general’s audit found information-security weaknesses in the state’s system.
+
+A federal audit has found information-technology security weaknesses at New Mexico’s health-insurance exchange, according to records obtained by National Review Online.
+
+The final audit report was completed by June 17, 2014, but because it contains such specific information about vulnerabilities, it is not public, according to a letter sent from the Department of Health and Human Services’ Office of Inspector General (DHHS OIG) to the health exchange.
+
+Mike Nuñez, the interim CEO of the New Mexico exchange, tells NRO, “The audit identified some high and critical issues that need to be addressed with our vendor.”
+
+Michael Gregg, a cyber-security expert who has testified to Congress about weaknesses of Healthcare.gov says: “Vulnerabilities are typically mapped to the Common Vulnerability Scoring System (CVSS) and can be ranked low, medium, high, or critical. Vulnerabilities that have scored as high or critical [like in this instance] are a real concern and indicate serious problems. These are items that should be immediately addressed without delay. It’s also a real concern that these critical issues were not discovered earlier and that customer data has potentially been exposed for such a long period of time.”
+
+The New Mexico health exchange launched as a hybrid, Nuñez explained: While the state ran the Small Business Health Options Program (SHOP) enrollment for around 125 employers, providing coverage for about 600 total residents, individuals within the state bought their coverage from HealthCare.gov, the federally run exchange, during the last enrollment period. New Mexico’s individual-enrollment marketplace is expected to open in November 2014.
+
+“We operate the SHOP, and to the extent that we have personal information there, we would protect it,” Nuñez says. He added: “We haven’t had any occurrences of any breaches or anything like that, so our vendor is just responding to the audit, and that’s what we know so far. . . . We are working to address the issues identified in the audit with our systems integrator and have every expectation of holding all of New Mexico citizens’ personal information in high regard and confidential.”
+
+A DHHS OIG spokesperson said he could not comment on the details of the report. NRO has filed a request under the Freedom of Information Act for a redacted copy, which is pending.
+
+Paul Gessing, president of the Rio Grande Foundation, a New Mexico–based free-market think tank, says that such vulnerabilities are “not a surprise, given the complexities and rushed nature of the project.”
+
+But, he says, “it’s always concerning any time consumer information may be unknowingly put out in public. It’s a very serious [risk] of identity theft.”
+
+HHS’s inspector general may later issue a modified version of the report “which does not contain sensitive information that would identify specific weaknesses attributed to the New Mexico Health Insurance Exchange,” according to records reviewed by NRO. The inspector general’s office said it could not supply such a report now.
+
+— Jillian Kay Melchior is a Thomas L. Rhodes Fellow for the Franklin Center for Government and Public Integrity. She is also a Senior Fellow at the Independent Women’s Forum.

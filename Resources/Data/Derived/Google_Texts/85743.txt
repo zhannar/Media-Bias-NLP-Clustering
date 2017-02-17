@@ -1,0 +1,45 @@
+Advertisement - Continue Reading Below
+
+Since HealthCare.gov went live in the beginning of October, the site has provided a perfect storm of problems for users, from incorrect information to inconvenient crashes, which have shut down the site for days. Bad omens began before launch; last June the Government Accountability Office warned that the project was running behind schedule and at risk for a failed execution. And debugging efforts have made the site erratic during the hours it is online.
+
+Most Popular
+
+Some mishaps are to be expected from a project tasked with uniting many government agencies on such a mammoth scale. But the site's shoddy rollout has some privacy experts worried as to whether it is secure enough to protect users' sensitive personal information from attack.
+
+"It is pretty well-known that extensive testing is needed to roll out something of this scale," writes Herbert Lin, chief scientist for the National Research Council's Computer Science and Telecommunications Board, in an email. "Whether the [U.S. government] had the time and money to do it is uncertain, especially with all of the government infighting going on with the sequester."
+
+Communication Breakdown
+
+Because of its size and scale, HealthCare.gov divided its launch work among an array of developers. And unlike most contemporary Web spaces, the site used two companies: Development Seed to build the front-end customer interaction space, and CGI Federal to handle the back-end system.
+
+It's hard enough to get two agencies to work toward a unified product that works. It's even more complicated to look for security vulnerabilities in a system composed of two different sets of code.
+
+Even now, the system split makes it difficult to track down errors. As Development Seed president Eric Gundersen told Slate last week: "The problem here is nobody knows what happened, and that's not acceptable."
+
+Final Testing Fail
+
+A memo sent within the Center for Medicare and Medicaid Services and obtained by CNN last week, warns that the developers failed to complete a full risk review before HealthCare.gov went live. "Due to system readiness issues, the SCA (security control assessment) was only partly completed," the memo says. "This constitutes a risk that must be accepted and mitigated to support the Marketplace Day 1 operations."
+
+And keep in mind that this memo references only the security-control assessment, which is the final phase of testing. The continued bugs could signify that only limited testing was done earlier, says Dennis Chu, a senior product manager at Coverity, a company that tests software code prerelease and has worked with clients that include NASA's Mars Rover. "As it looks now," he tells PopMech, "if there would have been more testing during the development of the website, rather than at the end, it might not be experiencing these issues."
+
+In situations where a website contains especially sensitive data—such as credit card numbers, Social Security numbers, or healthcare data—multiple rounds of testing are especially important to create a reinforced space. "We don't know how to build software that's perfectly secure," says Matthew Green, an assistant professor at Johns Hopkins Information Security Institute who studies cryptography. "What we do know is how to build software that's pretty resilient, by looking at the design and identifying places that are weak and then going in and hardening them.
+
+Security Breach
+
+Major worries about potential security leaks in HealthCare.gov started last week, when researcher Ben Simo uncovered an error loop allowing hackers to use the site's password-reset function to search for user names and obtain the corresponding emails. The glitch has since been fixed, but not before Simo discovered other security woes.
+
+For example: HealthCare.gov contains a narrow privacy policy that promises to keep information "only as long as needed to respond to your question or to fulfill the stated purpose of communication." However, after unpacking a few lines of retained code, Simo discovered that the site continued to hold on to identifying information and pass it along to analytics parties such as DoubleClick and Google Analytics. The risk here is minimal, since the analytics sites are harmless, and the information is encrypted while it's set. But last year the FTC fined Facebook and Myspace for similar infractions.
+
+Health and Human Services secretary Kathleen Sebelius addressed the rising interest in security concerns during a congressional oversight committee meeting last Wednesday. "The highest security standards are in place and people have every right to expect privacy," she said. "I do absolutely commit to protecting the privacy of the American public. We should be held accountable for protecting privacy."
+
+Yet Healthcare.gov's privacy policy originally included the statement that users "have no reasonable expectation of privacy regarding any communication or data transiting or stored on this information system." As the Weekly Standard reported, that policy was amended shortly after Sebelius's statement to delete that language.
+
+The initial privacy policy was inordinately strict. Plenty of websites operate under similar policies, because retaining user information is the norm. But the larger question is one of political hedging: If the administration reconsiders the policy at any sign of infraction, then what good is it?
+
+Too Big to Fail
+
+The Obama administration won't release data on how many people have purchased health insurance through the federal exchange until the end of November, but officials are quickening their pace to fix the bugs before the Affordable Care Act mandates health insurance by the beginning of 2014. The White House has brought in Jeffrey Zions, the former budget official who is known as a fixer within the White House, to stop the system shutdowns and debug the site by the end of November.
+
+Although the size and scale of HealthCare.gov makes it a uniquely difficult project, the developers of other sites that are digitizing large bodies of user data are wondering how to be fully insulated from an attack. "In the old days healthcare information was basically kept in filing cabinets in offices, and to steal stuff you'd literally have to break into an office and walk out with it," Green says. "Maybe you could steal a few files, but you wouldn't get away with stealing everything."
+
+"Every company has security problems, and the good news is HealthCare.gov hasn't had any actual ones," he says. "It's had some potential security problems—and a lot of people talking about potential security problems—but no real security leaks yet."

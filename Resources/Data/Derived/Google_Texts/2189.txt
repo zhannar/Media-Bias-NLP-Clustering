@@ -1,0 +1,83 @@
+8 Tech Trends Changing Health Care
+
+The health care industry has always been conservative in adopting technology, but that is beginning to change.
+
+Posted March 4, 2015 By Susan Hall
+
+While expensive technology has been part of health care for years, the industry has remained more conservative than other verticals in adopting technology for core business functions. The federal HITECH Act and Affordable Care Act, however, have been forcing providers – some kicking and screaming – to join the digital age.
+
+It’s been a rocky road so far, but an interesting one. Here are some key health care technology trends in play for 2015.
+
+Data Security Challenges
+
+Security and privacy are at the forefront of every health care CIO’s mind, said Jennifer Anderson, executive director of the North Carolina Healthcare Information & Communications Alliance (NCHICA), an organization focused on harnessing technology for health care transformation.
+
+"With the Anthem breach reportedly affecting 80 million individuals, estimates of cost in the billions and the massive amounts of data that will be stored by health organizations, health providers will be investigating sophisticated technologies to mitigate risk," she said.
+
+Experts warn about healthcare’s poor security preparedness, calling cyber preparations from federal agencies such the Department of Veterans Affairs "abysmal" and pointing to the industry’s many vulnerabilities.
+
+The Anthem hack has prompted lawmakers to consider whether the federal Health Insurance Portability and Accountability Act (HIPAA) should make encryption mandatory. Encryption likely wouldn’t have prevented the Anthem attack, though, which had more to do with poor access controls.
+
+A major problem in health care, experts say, is over-emphasis on HIPAA compliance rather than actual security. New technologies also present challenges such as privacy during image sharing – a trauma surgeon, for instance, sending a photo from his phone in the middle of the night to consult with a subspecialist at home – and secure texting. And Experian warns that organizations pay too little attention to the threat posed by their own employees.
+
+The myriad networked devices that hospitals use, such as monitors and pumps, also pose a vulnerability, especially considering the large number of hospitals still using unsupported software such as Microsoft XP.
+
+Meeting Mandate Deadlines
+
+Government and regulatory health care challenges are here to stay, said Linda Lockwood, solution director in advisory services for consultancy CTG Health Solutions. While many experts foresee the demise of the Meaningful Use program, designed to boost adoption of electric health records (EHRs), and another delay for the update to ICD-10 (international classification of diseases) coding system, those efforts must remain on the front burner for health care organizations in 2015.
+
+Congress has pushed back the ICD-10 deadline twice before, but officials keep promising they will hold fast to the Oct. 1, 2015 deadline.
+
+"Health care organizations will need to quickly assess their current state and develop programs that lean heavy on process and testing to get over the October 2015 finish line," Lockwood said.
+
+Health Insurance Exchanges
+
+With the U.S. Supreme Court now hearing arguments in the King v. Burwell case, some pundits see it as possible death knell to the Affordable Care Act legislation known as Obamacare. Essentially the case revolves around whether the language in the law is so narrow that federal subsidies are available only to people who buy health insurance in states that set up their own insurance marketplaces and not to those using the federal marketplace healthcare.gov.
+
+A few states set up their own health insurance marketplaces, with varying degrees of success. Kentucky is among those considered the poster child for doing it right, while Oregon is involved in lawsuits and countersuits with Oracle in trying to sort out its mess. Meanwhile, 37 states opted not to build their own exchanges, relying instead on the federal government's healthcare.gov.
+
+If federal subsidies on healthcare.gov are shot down, up to 8 million people could find health insurance too costly and lose it. The federal government says it has no backup plan for that, which will leave states scrambling as people with no coverage return to using emergency rooms for their care. States would have to consider whether it makes sense to build their own insurance marketplaces – something that can’t be done quickly or inexpensively.
+
+Wearable Health Care Tech
+
+More than a dozen U.S. hospitals have pilots under way with Apple’s HealthKit, which along with Apple Watch collects and stores patient data such as blood pressure, weight or heart rate. While the Apple Watch will reportedly debut in April without some of its advanced features due to glitches yet to be worked out and privacy challenges, the company now says none of the original health features have been dropped but will make their way into future iterations.
+
+Advances in sensor technologies and mobile Internet are driving huge growth for the wearable healthcare market, which is predicted to grow from $2 billion to $41 billion by 2020.
+
+Predictive Analytics and a Deluge of Data
+
+Population health involves using the data from subsets of patients – those with diabetes or chronic heart failure, for instance – to better coordinate care by determining the patients at risk for a health episode and intervening.
+
+CIOs and CMIOs will continue to evaluate systems to harvest data from various sources—clinical, financial and patient-generated—to perform predictive analytics to determine the most effective ways to reduce costs and improve quality.
+
+Key data sources will include EHRs and computerized provider order entry (CPOE) systems. Recent surveys found EHR systems in use in 84 percent of hospital emergency departments, 76 percent of outpatient departments and 62.8 percent of physician practices.
+
+Meanwhile 68 percent of U.S. hospitals have implemented a CPOE system along with the EHR. Future value-based purchasing programs and accountable care organizations will mean even more patient data will be available, bringing more IT concerns with storage, networking and availability – not to mention the challenges of analyzing the data.
+
+"With this onslaught of data comes even greater IT challenges, sparking increased need for strong governance, refined architectures and new tools to address volume and validity issues," said Lockwood.
+
+Telehealth
+
+Improved Internet connectivity and greater acceptance by both doctors and patients for consultations via video teleconferencing are fueling the rise of telehealth. The military and Veterans Administration have been pioneers in adopting remote care in fields such as dermatology and psychiatry. Telemedicine allows hospitals without specialists on staff to call on experts to effectively treat stroke, heart attacks and complicated pregnancies. Other telehealth efforts employ home monitoring for patients with pulmonary disease, heart failure and diabetes in an effort to intervene before an expensive crisis hits.
+
+The ECRI Institute listed telehealth among the healthcare technologies to watch for 2015, but noted the most successful efforts don’t merely try to take traditional processes online, but rather rethink and tweak health care processes, practices and products.
+
+The industry faces challenges, however, with issues surrounding reimbursement, cross-state medical licensure and a complicated patchwork of state laws.
+
+Sharing Health Care Data
+
+To effectively coordinate care, doctors, hospitals, public health agencies, payers and others must share patient records. Despite massive efforts, that’s not the reality yet. Black Book Research recently reported that robust data exchange is still a decade away. It says public health information exchange (HIE) efforts are stalling, while insurance companies are fueling a push toward private exchanges.
+
+Interoperability remains the primary hindrance to effective data sharing. Health care organizations often have dozens of different systems, which makes even in-house interoperability difficult – and often impossible with any other organization.
+
+However, technologies such as APIs and the SMART platform will make it easier for health providers to share information without the need for specific point-to-point interfaces which are costly to create and maintain, Anderson said.
+
+The Office of the National Coordinator for Health IT recently released a draft 10-year plan for the public and private sectors to work together to achieve interoperability and is taking comments on the proposal through April 3.
+
+Outsourcing IT Support Functions
+
+Hospital IT departments are overwhelmed with EHR implementations and other technology initiatives. More than one hospital has closed after a disastrously expensive EHR implementation.
+
+"We now have a scenario where there is more technology being implemented than can be supported by in-house resources, not to mention the cost prohibitive reality of 24/7 support for sometimes thousands of users," Anderson said, adding that hospital CIOs are evaluating the cost benefit of outsourcing basic functions like first-level help desk support.
+
+Susan Hall has been a journalist for more than 20 years at news outlets including the the Seattle Post-Intelligencer, Dallas Times Herald and MSNBC.com. She writes for Dice.com and FierceHealthIT.

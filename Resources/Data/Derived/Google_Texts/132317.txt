@@ -1,0 +1,35 @@
+Many healthcare providers have found that claims paid by virtual card have increased this year. As a result, the fees they pay for card acceptance have skyrocketed. Does your organization have a planned response to virtual card claims payments? Do you know your rights under the Affordable Care Act to a less expensive form of claims payment?
+
+Under the ACA, providers have a number of electronic payment options available to them for claims reimbursements. Options can include the healthcare EFT standard via ACH, credit and virtual card payments, and wire transfers. Each payment type has unique attributes and associated costs, and providers have the ability to choose the payment type that best suits their needs.
+
+The healthcare EFT standard
+
+Similar to Direct Deposit, EFT via ACH enables health plan-to-provider payments that are processed over the ACH Network using the healthcare EFT standard, or the NACHA CCD+ Addenda. Payments made this way include a TRN Reassociation Trace Number, which is used to tie the ACH payment to the appropriate Electronic Remittance Advice (ERA). This allows for the automatic reconciliation of the EFT payment with the ERA.
+
+Other EFT payment options
+
+Health plans may offer other EFT payment options, including wire transfer or virtual cards, in addition to the healthcare EFT standard via ACH. Some health plans are replacing all check claims payments with virtual card payments, without prior authorization from the provider. A virtual card is a single-use credit card transaction that must be manually entered into the provider’s point of sale terminal and manually reconciled with an explanation of benefits (EOB).
+
+Providers should make an informed decision on accepting virtual card claims payments, as these payments shift the cost of payment processing from the health plan to the provider. Credit card rules do not require a provider to accept virtual card payments just because they accept credit cards for patient payments.
+
+Costs of EFT payments
+
+The costs associated with EFT payments can vary widely. With ACH payments, providers – as small businesses – generally pay their financial institutions a per-transaction fee for each ACH payment directly deposited to their accounts. The average per-transaction cost is $0.34, regardless of the payment amount.
+
+Wire transfers and virtual cards are more costly. The fees associated with wire transfers vary, but the average provider will pay $10.73 regardless of the payment amount. With virtual cards, providers pay an average interchange fee of 3 percent plus a per-transaction fee to process the transactions. Some health plans are being incented by card issuers to switch from check to virtual card payments in exchange for a rebate of up to 1.75 percent of the interchange fee paid by the provider.
+
+Comparing EFT payment options
+
+Educated choice
+
+While HIPAA requires health plans to make EFT via ACH available upon request, providers should be cognizant of any restrictions in payment methods when contracting with health plans. They should also avoid signing contracts with inflexible payment terms.
+
+Providers who don’t wish to accept health plan virtual card payments should educate their office staff to recognize the difference between patient and health plan payments, in order to prevent undesired authorization of health plan virtual card payments.
+
+It is important for providers to understand their rights under HIPAA and the ACA and make an educated decision on how their organization will be paid for claims reimbursements. Lack of understanding and transparency can have a significant impact on a provider’s bottom line.
+
+For more resources on electronic payments, visit the NACHA.org website.
+
+1The Blue Book of Bank Prices 2012-2013 published by Phoenix-Hecht – http://www.phoenixhecht.com/treasuryresources/PDF/BBExecSumm.pdf
+
+2Ibid

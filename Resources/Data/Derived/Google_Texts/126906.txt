@@ -1,0 +1,497 @@
+Though the Affordable Care Act was enacted in 2010, access to health care remains a challenge in many parts of the country. The issue is getting more attention this year as a contentious talking point in the presidential race. Because Medicaid was not uniformly expanded, many states still have health care shortage areas and many people argue that more should be done.
+
+Vermont Sen. Bernie Sanders, for example, has made his proposed health care plan, Medicare for All, a cornerstone of his campaign. Though many of his supporters like the plan, experts can’t decide. It has been called everything from the “right way to ensure affordable heath care access,” per a document signed by more than 100 economists and health care experts in support of Sanders, to an “impossible pipe dream,” in the words of economist Henry Aaron of the Brookings Institute.
+
+Given the controversial state of health care in America, HealthGrove wanted to find the states with the worst health care access.
+
+Though there is no national “health care access” metric, HealthGrove used data from the Kaiser Family Foundation to look at the fundamental components of the term. These include physician density, dentist density, the percent of residents insured, the percent of mental health need met and the number of staffed hospital beds per capita.
+
+For the 25 worst states, we then used data from the Health Indicators Warehouse, the U.S. Census and the Centers for Medicare and Medicaid Services to create a Health Care Access Score and find the worst county in every state. This score looks at physician density, dentist density, percent insured, median household income, number of mental health care shortage areas and whether or not there is a medicare-registered hospital in the county. Each county in every state was scored on a scale from 0-100. The scores were distributed such that they had a mean of 50 and a standard deviation of 10. The lower the score, the worse the access.
+
+According to the data, rural, sparsely populated counties tend to have the lowest access to health care. The majority of counties on the list have 50,000 people or fewer, and thus qualify as rural. Unfortunately for these inhabitants, this trend is nothing new. This disparity in access has existed for decades.
+
+The attempt to expand Medicaid as part of the Affordable Care Act was supposed alleviate this problem. However, in June 2012, the Supreme Court passed a ruling that made Medicaid expansion voluntary by state. Of the 25 worst states for health care access, 14 of them either chose not to expand Medicaid (13) or are still discussing it (1). Even so, this does not mean that mandated Medicaid expansion in all states would have fixed the disparities in health care access.
+
+Because most Republicans didn’t support Medicaid’s expansion, one might assume conservative, southern states would be worst for health care access. However, some liberal, western states make the list, too. With its strong liberal leaning and expansion of Medicaid, it might come as a surprise that Oregon ranks as the 11th worst state for health care access. However, its large, rural population likely plays into this. We find that the majority of states on this list are usually conservative, more rural than average, or both.
+
+Note: Not all counties report data. If we do not have data for a particular metric or a particular county, it is not shown.
+
+#25. Louisiana
+
+Worst County for Health Care Access: Madison County
+
+County Health Care Access Score: 33.03 out of 100
+
+Physician Density per 100K: 49.4
+
+Dentists per 100K: 16.8
+
+Percent of People Insured: 77.3%
+
+Median Household Income: $26,732
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 16.7
+
+Population: 12,008
+
+#24. Alabama
+
+Worst County for Health Care Access: Lowndes County
+
+County Health Care Access Score: 39.05 out of 100
+
+Physician Density per 100K: 9.2
+
+Percent of People Insured: 84.7%
+
+Median Household Income: $30,675
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 9.2
+
+Population: 10,918
+
+#23. Maine
+
+Worst County for Health Care Access: Washington County
+
+County Health Care Access Score: 45.59 out of 100
+
+Physician Density per 100K: 52.4
+
+Dentists per 100K: 37.3
+
+Percent of People Insured: 81.5%
+
+Median Household Income: $38,057
+
+Medicare-Registered Hospital Within County? Yes
+
+Mental Health Care Shortage Areas per 100K: 30.9
+
+Population: 32,397
+
+#22. Wyoming
+
+Worst County for Health Care Access: Niobrara County
+
+County Health Care Access Score: 44.46 out of 100
+
+Physician Density per 100K: 40.7
+
+Percent of People Insured: 80.7%
+
+Median Household Income: $45,251
+
+Medicare-Registered Hospital Within County? Yes
+
+Mental Health Care Shortage Areas per 100K: 40.1
+
+Population: 2,492
+
+#21. South Dakota
+
+Worst County for Health Care Access: Corson County
+
+County Health Care Access Score: 32.49 out of 100
+
+Dentists per 100K: 23.7
+
+Percent of People Insured: 79.3%
+
+Median Household Income: $31,420
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 48.5
+
+Population: 4,122
+
+#20. Vermont
+
+Worst County for Health Care Access: Essex County
+
+County Health Care Access Score: 45.83 out of 100
+
+Physician Density per 100K: 32.1
+
+Dentists per 100K: 32.2
+
+Percent of People Insured: 86.4%
+
+Median Household Income: $35,570
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 16
+
+Population: 6,231
+
+#19. Kansas
+
+Worst County for Health Care Access: Elk County
+
+County Health Care Access Score: 37.71 out of 100
+
+Physician Density per 100K: 36.8
+
+Percent of People Insured: 79.5%
+
+Median Household Income: $36,471
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 36.6
+
+Population: 2,734
+
+#18. Arkansas
+
+Worst County for Health Care Access: Searcy County
+
+County Health Care Access Score: 29.88 out of 100
+
+Physician Density per 100K: 37.5
+
+Dentists per 100K: 24.9
+
+Percent of People Insured: 75.1%
+
+Median Household Income: $31,765
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 37.3
+
+Population: 8,036
+
+#17. Delaware
+
+Worst County for Health Care Access: Sussex County
+
+County Health Care Access Score: 53.16 out of 100
+
+Physician Density per 100K: 48.7
+
+Dentists per 100K: 22.7
+
+Percent of People Insured: 85.9%
+
+Median Household Income: $53,316
+
+Medicare-Registered Hospital Within County? Yes
+
+Mental Health Care Shortage Areas per 100K: 1.5
+
+Population: 203,737
+
+#15. Wisconsin
+
+Worst County for Health Care Access: Iron County
+
+County Health Care Access Score: 44.74 out of 100
+
+Physician Density per 100K: 16.9
+
+Dentists per 100K: 34
+
+Percent of People Insured: 86.6%
+
+Median Household Income: $39,408
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 33.7
+
+Population: 5,927
+
+#16. Florida
+
+Worst County for Health Care Access: Glades County
+
+County Health Care Access Score: 13.35 out of 100
+
+Dentists per 100K: 15
+
+Percent of People Insured: 65.7%
+
+Median Household Income: $38,783
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 15.2
+
+Population: 13,190
+
+#14. North Carolina
+
+Worst County for Health Care Access: Duplin County
+
+County Health Care Access Score: 34.64 out of 100
+
+Physician Density per 100K: 31.6
+
+Dentists per 100K: 18.3
+
+Percent of People Insured: 73.8%
+
+Median Household Income: $34,109
+
+Medicare-Registered Hospital Within County? Yes
+
+Mental Health Care Shortage Areas per 100K: 3.4
+
+Population: 59,455
+
+#13. South Carolina
+
+Worst County for Health Care Access: Lee County
+
+County Health Care Access Score: 34.47 out of 100
+
+Physician Density per 100K: 16.1
+
+Dentists per 100K: 10.9
+
+Percent of People Insured: 79.7%
+
+Median Household Income: $31,510
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 5.3
+
+Population: 18,708
+
+#12. Utah
+
+Worst County for Health Care Access: Garfield County
+
+County Health Care Access Score: 44.79 out of 100
+
+Physician Density per 100K: 19.6
+
+Dentists per 100K: 39.3
+
+Percent of People Insured: 79.8%
+
+Median Household Income: $45,666
+
+Medicare-Registered Hospital Within County? Yes
+
+Mental Health Care Shortage Areas per 100K: 19.6
+
+Population: 5,105
+
+#11. Oregon
+
+Worst County for Health Care Access: Lake County
+
+County Health Care Access Score: 43.21 out of 100
+
+Physician Density per 100K: 51.5
+
+Dentists per 100K: 25.6
+
+Percent of People Insured: 78.3%
+
+Median Household Income: $40,328
+
+Medicare-Registered Hospital Within County? Yes
+
+Mental Health Care Shortage Areas per 100K: 12.7
+
+Population: 7,854
+
+#10. Indiana
+
+Worst County for Health Care Access: Crawford County
+
+County Health Care Access Score: 38.39 out of 100
+
+Dentists per 100K: 9.4
+
+Percent of People Insured: 82.2%
+
+Median Household Income: $40,657
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 9.4
+
+Population: 10,646
+
+#9. Nevada
+
+Worst County for Health Care Access: Lincoln County
+
+County Health Care Access Score: 38.58 out of 100
+
+Physician Density per 100K: 3719.1
+
+Percent of People Insured: 74.7%
+
+Median Household Income: $45,629
+
+Medicare-Registered Hospital Within County? Yes
+
+Mental Health Care Shortage Areas per 100K: 18.9
+
+Population: 5,282
+
+#8. Alaska
+
+Worst County for Health Care Access: Aleutians East County
+
+County Health Care Access Score: 19.17 out of 100
+
+Dentists per 100K: 32.3
+
+Percent of People Insured: 59.5%
+
+Median Household Income: $55,462
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 30.3
+
+Population: 3,296
+
+#7. Arizona
+
+Worst County for Health Care Access: La Paz County
+
+County Health Care Access Score: 36.06 out of 100
+
+Physician Density per 100K: 34.5
+
+Dentists per 100K: 44.3
+
+Percent of People Insured: 72.6%
+
+Median Household Income: $32,533
+
+Medicare-Registered Hospital Within County? Yes
+
+Mental Health Care Shortage Areas per 100K: 14.7
+
+Population: 20,348
+
+#6. Montana
+
+Worst County for Health Care Access: Golden Valley County
+
+County Health Care Access Score: 31.69 out of 100
+
+Physician Density per 100K: 119.2
+
+Percent of People Insured: 69.2%
+
+Median Household Income: $37,316
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 135.5
+
+Population: 738
+
+#5. New Mexico
+
+Worst County for Health Care Access: Mora County
+
+County Health Care Access Score: 26.65 out of 100
+
+Dentists per 100K: 21.3
+
+Percent of People Insured: 76.3%
+
+Median Household Income: $27,627
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 42.4
+
+Population: 4,722
+
+#4. Oklahoma
+
+Worst County for Health Care Access: Pushmataha County
+
+County Health Care Access Score: 27.87 out of 100
+
+Physician Density per 100K: 8.9
+
+Dentists per 100K: 17.8
+
+Percent of People Insured: 73.2%
+
+Median Household Income: $32,215
+
+Medicare-Registered Hospital Within County? Yes
+
+Mental Health Care Shortage Areas per 100K: 26.5
+
+Population: 11,315
+
+#3. Idaho
+
+Worst County for Health Care Access: Owyhee County
+
+County Health Care Access Score: 22.06 out of 100
+
+Physician Density per 100K: 8.7
+
+Dentists per 100K: 17.4
+
+Percent of People Insured: 68.9%
+
+Median Household Income: $38,478
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 8.8
+
+Population: 11,412
+
+#2. Texas
+
+Worst County for Health Care Access: Mason County
+
+County Health Care Access Score: 0 out of 100
+
+Dentists per 100K: 24.2
+
+Percent of People Insured: 60.5%
+
+Median Household Income: $42,820
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 24.6
+
+Population: 4,061
+
+#1. Georgia
+
+Worst County for Health Care Access: Atkinson County
+
+County Health Care Access Score: 12.54 out of 100
+
+Dentists per 100K: 12.1
+
+Percent of People Insured: 68.1%
+
+Median Household Income: $31,740
+
+Medicare-Registered Hospital Within County? No
+
+Mental Health Care Shortage Areas per 100K: 12.1
+
+Population: 8,297
+
+Summary: How Do the States Compare?
+
+Research Health Care Providers on HealthGrove

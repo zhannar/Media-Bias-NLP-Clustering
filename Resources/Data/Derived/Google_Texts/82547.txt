@@ -1,0 +1,37 @@
+Healthcare.gov lacks several basic cybersecurity controls—including strong passwords and consistent security patching—nearly a year after the troubled launch of the insurance-shopping website, a government auditor said.
+
+The website, a centerpiece of the 2010 insurance reform package the Affordable Care Act, does not have a complete system security plan in place, said a report released Thursday by the U.S. Government Accountability Office.
+
+The U.S. Department of Health and Human Services, which operates Healthcare.gov, has not completed security testing at the site and allows some outside systems that connect to the website to access the Internet, “increasing the risk that unauthorized users could access data” from Healthcare.gov’s insurance marketplace, the report said.
+
+The HHS Centers for Medicare and Medicaid Services hasn’t required passwords of sufficient length or complexity on systems supporting the Healthcare.gov insurance marketplace, and the agency didn’t consistently apply security patches, the GAO report said. “Several critical systems had not been patched or were no longer supported by their vendors,” the report said.
+
+While CMS “has security and privacy-related protections in place for Healthcare.gov and related systems, weaknesses exist that put these systems and the sensitive personal information they contain at risk,” the report said.
+
+GAO’s recommended 28 changes that CMS could make at Healthcare.gov to improve the site’s security, including a comprehensive security assessment of its insurance marketplace and the creation of detailed security roles and responsibilities of contractors.
+
+The security problems GAO found “all can be corrected and resolved almost immediately,” said Greg Wilshusen, the GAO’s director of information security issues.
+
+The GAO report points to ongoing problems at Healthcare.gov after a disastrous launch last October, several Republican members of the U.S. House of Representatives Oversight and Government Reform said during a hearing Thursday.
+
+“What you found a year into this site is they were not using best practices,” said Representative Darrell Issa, a California Republican and committee chairman.
+
+Wilshusen didn’t respond directly, but said the GAO found “several weaknesses that increase the risk, and unnecessarily increase preventable risk.”
+
+Issa also asked Wilshusen if Healthcare.gov has advanced lock-out systems and intrusion detection. Wilshusen declined to answer, saying he didn’t want to make public the details of the website’s security systems.
+
+“We don’t want to tell how weak it still is,” Issa said. “I understand that.”
+
+Issa’s staff released a report this week detailing internal turf battles related to concerns about CMS oversight of the Healthcare.gov project before it launched. The report also alleges that CMS employees tried to cover up problems in the months before the site launched.
+
+CMS administrator Marilyn Tavenner and committee Democrats defended Healthcare.gov, saying the site has never had a data breach by malicious hackers that resulted in the loss of personal information. Issa and other Republicans noted that some website users were able to access the personal data of other users by mistake in the early weeks after Healthcare.gov’s launch.
+
+Information security is a top priority at Healthcare.gov, Tavenner said.
+
+Democratic lawmakers also noted that more than 7.3 million formerly uninsured U.S. residents have signed up for health insurance through the Affordable Care Act, commonly called Obamacare.
+
+With huge data breaches recently at Target, Home Depot and other private companies, the committee’s focus on Healthcare.gov is misguided, said Representative Jackie Speier, a California Democrat. The Oversight Committee has had nearly 30 hearings on the Affordable Care Act and Thursday’s was the sixth on Healthcare.gov, Democrats noted.
+
+The Target breach potentially affects a third of the U.S. population, Speier said. “But strangely, there wasn’t any interest by this committee to have a hearing on that,” she said. “Let’s see, 110 million people affected and no hearing. Zero people affected [by Healthcare.gov breaches], and we’ve had dozens of hearings. It seems like our priorities are not quite on what the American people would be interested in.”
+
+The Oversight Committee’s role is to focus on government operations, Issa countered. Other committees and government agencies are looking into recent breaches in the private sector, he said.

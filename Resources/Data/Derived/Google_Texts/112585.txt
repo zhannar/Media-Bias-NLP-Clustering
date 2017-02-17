@@ -1,0 +1,45 @@
+Each year, more than a million people suffer from medication errors in the United States. In recent years, the spread of barcode-based medication-administration systems has cut the rate of errors, but the barcode systems typically require a workstation on wheels that may be clumsy to maneuver through a hospital.
+
+An alternative approach using a computer tablet with near-field communication (NFC) wireless RFID tags has gotten the job done with far greater portability than the barcode workstation systems in test simulations at Boston’s Brigham and Women’s Hospital, says MIT research affiliate Stephen Miles of the MIT Auto-ID Lab and the MIT Center for Biomedical Innovation (CBI)
+
+Described in a recent paper in JMIR mHealth and uHealth, this approach using NFC serialized identifiers for medications could be extended to provide benefits far beyond basic drug administration, beginning with tracking whether a specific product did the patient any good, Miles points out.
+
+Such data will be increasingly in demand under the Affordable Care Act, and could be fed back far more directly into the drug-development innovation cycle, he says. Eventually, the approach also might help to confirm that patients at home actually take their medicine.
+
+Since joining MIT a decade ago, Miles has worked with industry collaborators to pursue such benefits by extending the “Internet of things” — integrating unique object identifiers, wireless sensors, and web technologies to improve manufacturing and supply-chain operations. He is now applying the lessons learned to biologics research, clinical trials, and the temperature-controlled logistics “cold chain” in efforts led by the CBI.
+
+The Auto-ID Lab developed the architecture for the Electronic Product Code (EPC), a serialized numbering system that extends barcodes by providing a unique identity for every physical object globally and works in conjunction with RFID and other wireless data-collection technologies. EPC specifications were licensed by GS1, the barcode association representing manufacturers in more than 100 countries. They are now part of an International Standards Organization standard promulgated around the world and have been widely adopted in efforts aimed at bringing new levels of visibility to supply-chain operations.
+
+Basic optical barcode scanning itself “has been a huge enabler for international commerce and research, and has enabled huge transformation in our productivity and our economy,” Miles says.
+
+One striking example in transforming health care practices was presented by Abhi Dhar, Walgreen’s chief information officer for e-commerce, at the 2012 Auto-ID Labs Big Data Conference. Normally, reordering patient prescriptions is a laborious and paper-intensive process. Now a patient, by scanning the medication’s barcode with a smartphone app and using a password for authentication, can generate a new order that can be sent back to the prescription system, without any personal information surfacing on the cell phone itself. “Today at Walgreens, 40 percent of their customers reorder their pharmaceuticals using that smartphone application,” Miles says.
+
+The increasing ubiquity of the barcode and serialized EPCs in health care affords huge new opportunities “to actually model physical systems from the world in IT systems, and use those models to better communicate, optimize, and devise new products and processes,” he says. “Part of the idea behind the 'Internet of things,' and all these sensors, is to instrument the process of data collection within workflows."
+
+Tackling tags for medical materials
+
+Three projects underway at the CBI look at applying EPC technologies to drug development, manufacturing, and distribution.
+
+Miles is closely engaged in an effort to develop and harmonize methods for biomaterials characterization, authentication, and process specifications. “In a lab environment or a manufacturing environment, how do we track and characterize the actual cells, antibodies, or other biomaterials?” he asks. “Solving this problem is a really important building block for the industry to go forward.”
+
+This challenge was highlighted at the CBI’s 2013 Biotechnology and Standards Conference. Among many issues, Miles says, the lack of validated biomaterials hinders the successful translation of research results from the lab into manufacturing processes, as Nature Publishing Group executive editor Véronique Klemer pointed out during the conference.
+
+Another project with the Food and Drug Administration (FDA) examines issues of economic adulteration, product security, and patient safety raised by the rapid move of production facilities for pharmaceutical raw ingredients and finished products outside the United States. About 40 percent of the prescription medical products consumed in the U.S. are created outside the FDA's jurisdiction, as are 80 percent of raw materials and active pharmaceutical ingredients. “So what can the FDA monitor and how can they measure the associated risks?” Miles asks. The agency is funding work coordinated by CBI to examine these issues with researchers across campus.
+
+A third CBI effort is emerging from discussions among CBI’s biomanufacturing consortium. “The production of pharmaceutical products increasingly is being distributed all over the world, and distinctions are blurring between what’s 'manufacturing' and what’s 'supply chain,'” Miles notes. “In one example specific to the vaccines industry, how should countries plan stockpiles to respond to new viruses?”
+
+As one innovative response, MIT biology professor Anthony Sinskey is leading a project to design small bioreactors that will produce vaccines locally, on demand — an approach requiring extremely tight control over the biomaterials supply chain, all the way to the point of care.
+
+Similarly, industry is seeking more effective ways to monitor safety and effectiveness as research moves from the laboratory through animal testing and clinical trials into production. Separating out information layers and formalizing protocols for exchanging this information in collaborative processes is critical to ensure product security and patient safety.
+
+Integrating data collection with workflow
+
+“It turns out that keeping track of serial numbers can be very helpful to organize massive amounts of data,” Miles stresses.
+
+“My favorite example of this came into focus in the Health Infoscape project, which colleagues worked on at the MIT Senseable Cities Lab with General Electric,” he says. “GE Healthcare had 7.2 million anonymized electronic medical records from across the country. Could you take that data and visualize, for example, the spread of diseases? It turns out that if you don’t track individual patients, a lot of reverse clustering analysis goes into estimating what is actually happening. Tracking individuals with unique identifiers offers a very powerful key to bringing together many layers of data about people in the world, and the products that surround them.”
+
+Miles emphasizes, however, that health care applications come with implementation issues that go far beyond the technology solution. “Health care data has been a very controversial area; there are many important considerations about patient privacy and who owns the data,” he points out. “In the United States we have a law against a national patient identifier, specifically out of concern that releasing somebody’s health data might jeopardize their ability to get insurance.” Under new capitation reimbursement models, Miles adds, we will need new more efficient ways of working together, where an "Internet of medical things" can facilitate the process of tracking key performance indicators.
+
+Another issue is that “mobile devices let you collect data in places you couldn’t in the past, but to do that at scale, you need to have the same kinds of rigor in information technology system security, safety, and privacy as for other projects in health care,” Miles comments. “When you enable smart devices in health care settings and provide a marketplace and application programming interfaces (APIs) for exchanging this information, you want to make sure that you’ve included key stakeholders and worked through all of those issues in specific information layers of the data to be exchanged, which is part of the innovation in these early projects.”
+
+“Overall, these identification and API specifications are extraordinarily important tools for allowing organizations to communicate effectively across application, enterprise and even national boundaries,” Miles says. “Communicating using the same identifiers actually can begin to give health care systems the ability to function together more effectively.”

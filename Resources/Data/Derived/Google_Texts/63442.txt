@@ -1,0 +1,69 @@
+EDITOR’S NOTE: Authors Wilson and Greene serve as the co-chairs of the Workgroup for Electronic Data Interchange (WEDI) Property & Casualty Subworkgroup.
+
+Just like “Where’s Waldo?” the property & casualty (P&C) industry that includes workers’ compensation and auto billing also requires the tracking of state healthcare requirements to highlight whether ICD-9 or ICD-10 is required when submitting bills to payers.
+
+Payers, vendors, and providers that bill P&C across states are required to comply with each state’s requirements. There are numerous questions yet to be answered, however – for example, what states are best positioned to move to ICD-10 from ICD-9? What is the contingency planning? And will the transition period match the HIPAA requirements?
+
+All of these questions are significant to all stakeholders, as the P&C industry is governed by state law rather than the federal HIPAA regulations. However, more and more states are adopting electronic medical billing (eBilling) and payment requirements that align with the HIPAA transactions, code sets, and operating rules to gain the benefits of the Patient Protection and Affordable Care Act’s (PPACA’s) administrative simplification.
+
+This is evident by the 20 states that planned to adopt the previous ICD-10 implementation date of Oct. 1, 2014. This also showed that it is possible for the healthcare industry to comply with the federally mandated implementation date, although it’s obviously a little challenging. With the recent announcement of the updated implementation date of Oct. 1, 2015, it’s time to play “Where’s Waldo?” or “Where’s ICD-10?” within each of the 50 states.
+
+The adoption of ICD-10 by a state may require regulation, administrative rulemaking, or other revisions to existing policy; without state action, ICD-9 will remain in effect for P&C coding, billing, and payment.
+
+There is an industrywide need to better understand states’ plans to continue with ICD-9 or move to ICD-10. The new implementation date leaves states less than 14 months for effective transition planning regardless of how they proceed. Unless all states transition, for the P&C industry to operate under ICD-10 effectively, syncing up with the federally mandated implementation date of Oct. 1, 2015, providers, payers, and vendors will be required to meet two sets of conflicting requirements, resulting in dual coding, billing, and payment systems issues.
+
+The adoption of standard transactions and code sets across all lines of business will enable stakeholders to realize the benefits of administrative simplification that include the following:
+
+Eliminating conflicting diagnosis and procedure coding requirements; Eliminating the need to maintain and store two different code sets by all stakeholders; Allowing for much greater specificity and accuracy in diagnosis; Introducing data standardization, which provides the ability to compare data within and across industries (providing quality and efficiency measurements that may lead to higher-quality medical care); and; Increasing stakeholder adoption.
+
+
+
+Additionally, P&C payers (and other non-group health plans) have been reporting to the Centers for Medicare & Medicaid Services (CMS) for Medicare’s Mandatory Insurer Reporting for Non Group Health Plans (Section 111), which contains reporting requirements for claims that may have impacted Medicare beneficiaries. This reporting requirement previously was updated to adopt ICD-10 for claims paid after Oct. 1, 2014, with such reporting made mandatory as of April 1, 2015. The industry needs clarification on a new CMS effective date as well as information on states’ ICD-10 readiness to meet this requirement.
+
+State action is necessary to address ICD-10 requirements; otherwise, hospitals and physician practices will be faced with conflicting requirements to report both ICD-9 and ICD-10 on different types of bills. Payers will be forced to use one set of codes to satisfy state billing requirements and a different set of codes to meet federal CMS reporting requirements.
+
+In summary, potential non-alignment of state and federal mandates will have a significant impact on the industry at large, unless all states transition. As things stand now, P&C (workers’ compensation and auto) stakeholders will be required to meet two sets of conflicting standards after Oct. 1, 2015.
+
+“Where’s ICD-10?” – State ICD-10 Readiness
+
+There remain numerous unanswered questions that stakeholders need to address in order to prepare for the transition to ICD-10. States that are not ICD-10-ready cause a lack of coding, billing, and payment continuity, and impact stakeholders’ contingency plans. Many states have not yet widely distributed this critical information to their stakeholders. Some of the questions we encourage you to ask your state about its ICD-10 readiness include the following:
+
+Will the state require new rulemaking to adopt ICD-10?
+
+If so, what is the expected timeline and state contingency plan to assist stakeholders in maintaining business continuity during this transition period?
+
+If ICD-10 is not adopted, what is the state’s stakeholder contingency plan for business continuity?
+
+If ICD-10 is adopted, what is the state’s contingency plan for stakeholders that will not be ICD-10-ready?
+
+Will stakeholders be allowed to process ICD-9 codes during the transition period and still be compliant?
+
+Will states align with the CMS requirement to split bills that span the ICD-10 implementation date?
+
+Will states include regulatory language that will allow bills submitted after Oct. 1, 2015 that includes dates of service prior to this date to contain ICD-9 codes?
+
+Will states’ ICD-10 rules have a specified cutoff date for ICD-9?
+
+Will state rules include the adopting the Version 1.1 CMS 1500 paper form to accommodate the reporting of ICD-10?
+
+Conclusion
+
+It is critical that the P&C and healthcare industries assess the status of states’ ICD-10 readiness in order to help all stakeholders determine an appropriate contingency action plan to comply with both state and federal implementation timelines, regardless of whether organizations are HIPAA-covered entities.
+
+Ensuring that all entities are implementing ICD-10 will help further the industry’s movement toward streamlining and automating end-to-end workflow processes in order to improve efficiency and lower costs for all.
+
+About the Authors
+
+Tina Greene is a senior regulatory affairs consultant at Mitchell International. She has 29 years of industry experience and serves in numerous leadership roles in national standard making organizations.
+
+Sherry Wilson is executive vice president and chief compliance officer for Jopari Solutions. She has more than30 years of industry experience and serves in varies leadership roles with the national standard organizations.
+
+Contact the Authors
+
+sherry_wilson@jopari.com
+
+Tina.Greene@mitchell.com
+
+Comment on this article
+
+editor@icd10monitor.com

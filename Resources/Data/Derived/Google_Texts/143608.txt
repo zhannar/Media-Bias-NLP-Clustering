@@ -1,0 +1,31 @@
+A predictive model similar to Netflix has the potential to improve preventive care, according to The Washington Post.
+
+Healthcare IT experts have long looked to big data as a potential tool for improving preventive care and identifying risk, and according to the article, the increased use of electronic health records at hospitals nationwide could aid risk assessments for cardiac arrest among patient populations. A similar analytics model has helped Netflix deliver customer-centric services, with the streaming video giant developing personalized algorithms based on customers' ratings and watch histories.
+
+It's never been easier for hospitals to pull up data on demand rather than hunt for it, pediatric oncologist Samuel Volchenboum, M.D., Ph.D., who directs the Center for Research Informatics at the University of Chicago, told the Post. The university has already put the idea to the test, using a predictive model for cardiac arrest risk called eCart based on data from 60,000 admissions. The model incorporates factors such as blood pressure, lab results and respiratory rates. If a patient's score according to the model indicates high risk of cardiac arrest, a response team conducts an intervention to de-escalate any factors contributing to the risk. "This system has been in use for several months and has been shown to be effective in alerting which patients are at the greatest risk of declining," Volchenboum said.
+
+While these applications of data are useful for identifying risk, Volchenboum said, they may be even more useful for potentially identifying relationships between factors that hospital leaders may not even have been considering before analyzing the data, such as the effect of traffic congestion on patient outcomes.
+
+Netflix offers further lessons for healthcare and health information technology beyond its algorithm model, FierceHealthIT previously reported; for example, the company launched with a focus on DVD delivery, as the market was dominated by video rental stores at the time. As the video store model fell out of fashion, Netflix went with the flow of the market and transitioned to a primarily streaming service.
+
+To learn more:
+
+- read the article
+
+Related Articles:
+
+Hospitals turn to big data to identify risks in the ICU
+
+Look beyond healthcare industry for patient engagement inspiration
+
+Hospital-acquired condition rates down but not as significant as first appears
+
+Infection prevention for ICU patients extends lives, saves hospitals thousands
+
+Massachusetts regulates nurse staffing levels in ICUs
+
+5 health IT terms every hospital CEO must know
+
+3 lessons for big data success in healthcare
+
+Big data's burgeoning healthcare role causes increased legal, ethical concerns

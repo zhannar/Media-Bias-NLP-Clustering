@@ -1,0 +1,63 @@
+Turns out, it's not just your personal financial information scammers and thieves are after--they're also looking for ways to get their hands on your private medical records.
+
+Continue Reading Below
+
+There are “new and expanded threats to the security and privacy of patient information in the U.S. health-care system,” according to the Fourth Annual Benchmark Study on Patient Privacy and Data Security by the Ponemon Institute.
+
+In the past four years, the number of criminal attacks on health providers has doubled with 90% of the hospitals and large regional health networks that participated in the study reporting at least one “data breach.” Thirty-eight percent have had five or more.
+
+A data breach involves the loss or theft of a patient's information, and includes such things as health records, insurance information, blood type and medications. Your medical file might also include personal financial information if, for instance, you used your credit card to cover your co-pay.
+
+It might come as a surprise to learn that medical data are actually worth more to cyber thieves than financial records. “On the black market, health information is more valuable than credit or debit card information,” according to Larry Ponemon, chairman of the Ponemon Institute. That’s because it includes a lot more than just details about your medical condition. For instance, by knowing your weight, height, eye color and other physical characteristics, “bad guys like Al Qaeda can create fake identities.”
+
+There’s No Taking It Back
+
+Continue Reading Below ADVERTISEMENT
+
+If a thief steals your financial information, you have to go through the hassle of closing credit cards, changing passwords on bank accounts, notifying lenders and the three major credit bureaus, etc. Granted, it’s a pain in the neck, but once you open new accounts, your financial data is again private.
+
+However, if your medical identity is stolen, you don’t have the opportunity for a clean start.
+
+“If it leaks out, it’s out forever,” says Ponemon. If there’s a negative stigma associated with your health data, you can’t undo it. Imagine the potential consequences if your medical records indicate you were once treated for a sexually-transmitted disease or had an abortion or underwent a sex change or have a slow-growing cancer or a body mass index (BMI) that indicates you are excessively obese.
+
+Even worse, the consequences of having your medical information fall into the hands of unscrupulous individuals can literally be life threatening. “In addition to the financial impact, there can be a medical impact, says Lisa Schifferle, an attorney in the Federal Trade Commission’s Division of Privacy and Identity Theft Protection. When a thief uses your identity to get medical care, the imposter’s information could end up on “your” medical record. If you are in an accident and rushed to the emergency room, doctors retrieving your electronic record could see the wrong blood type or not know that you are allergic to certain medications, or that you have a pre-existing condition. This could lead to misdiagnosis or mistreatment, with potentially deadly consequences.
+
+Diagnosing the Problem
+
+Unfortunately, the very organizations and individuals we turn to when we are sick--hospitals, doctors, nurses and medical personnel--are making the situation worse.
+
+Often, it's simple negligence: The receptionist leaves your file on the desk when s/he goes home at the end of the day--in plain sight of the office cleaning crew. Or patient records are simply thrown in the trash instead of being shredded. A growing issue is that doctors, nurses and other medical personnel are now communicating with patients and accessing medical records using their own personal devices- cell phones, home computers and tablets. These don’t have the level of security needed to protect patient information.
+
+Another factor is that hospitals are reluctant to spend money on the personnel or technology needed to stay ahead of potential threats because they feel it would be better spent on things that could directly improve patient care, like a new MRI machine, updated operating room equipment or increasing staff, according to Ponemon.
+
+“Medical providers don’t consider privacy and security a high priority. They’re not using state-of-the-art technology. A lot of these organizations really don’t have professional [IT] staff like other industries have. They don’t feel they’re a target of cyber crime. And they’re wrong.”
+
+Unintended Consequences
+
+The Ponemon study found that the Affordable Care Act (ACA) has also made Americans more susceptible to medical identity theft, citing “the documented insecure websites, databases and health information exchanges that are highly vulnerable to insider and outside threats.”
+
+Health information exchanges (HIEs), which are at the forefront of the trend toward creating a national digital database of patient information, are making us much more vulnerable. According to Healthit.gov, HIEs make it possible for “doctors, nurses, pharmacists, other health care providers and patients to appropriately access and securely share a patient’s vital medical information electronically.” This is supposed to result in faster and more accurate treatment and lower health-care costs. But HIEs contain the medical records of hundreds of millions of individuals; if identity thieves manage to break in, it will make the Target (TGT) hackers seem like amateurs.
+
+The scary part is that it would not be especially difficult to obtain the records, the data on these systems is only as secure as the weakest link. All an identity thief has to do is find one vulnerability--a hospital with a bad firewall, or a doctor’s office with out-dated security software--and this could open up hundreds of thousands of records.
+
+Uncle Sam Wants… Your Medical Data
+
+In addition, HIE’s send patient data to the federal government. In theory, the purpose is to supply information on such things as the number and types of surgeries performed, the rate of infection, complications, how many patients died and the costs involved so that the government can do economic modeling.
+
+But this information doesn’t just land in the hands of statisticians at the Department of Health and Human Services. Other government agencies- such as the Internal Revenue Service, which is charged with enforcing participation in the Affordable Care Act- also have access to it. In Ponemon’s words, “Your information may not be very secure when it is kept at a local hospital or medical network, but once it is shared with the federal government, it’s totally out of your control.”
+
+Health care is a scarce and expensive resource, and Ponemon suggests that at some point we as a society, “will have to make choices about who’s going to get treatment. You can’t help but think that older, less productive individuals won’t get it.”
+
+To help stay ahead of the scammers and protect your information, experts offer the following steps: :
+
+1.Inquire about what specific steps the hospital/doctor’s office takes to safeguard your medical and financial information.
+
+After his own mother was a victim of medical identity theft in a nursing home, this was one of the first questions Ponemon asked when looking for a new facility for her.
+
+2. Ask who on staff is in charge of maintaining the privacy of patient records. (Hint: If a provider doesn't know or don’t have such a person, consider other options)
+
+3. Don’t automatically provide your Social Security number when filling out a medical or new patient form. There’s no legal reason a doctor needs this, according to Ponemon. If they insist, compromise by giving just the last four numbers.
+
+4. If you are on Medicare, don’t carry your Social Security or Medicare card with you. For some reason, the Department of Health and Human Services doesn’t get it. Despite the danger, they insist on using your Social Security number on your Medicare card! “There’s no question they are putting us in harm’s way, providing the bad guys with rich information because they’re not smart enough to come up with an alternative,” says Ponemon.
+
+5. Visit the Federal Trade Commission for more about protecting yourself from medical identity theft and what to do if you feel you’ve been victimized.

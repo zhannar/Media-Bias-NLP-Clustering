@@ -1,0 +1,51 @@
+ECPA reform just got a bit harder — Hill draws criticism for NSA oversight — Mark Penn gets Microsoft promotion
+
+ECPA REFORM JUST GOT A BIT HARDER — Efforts to finally update one of the nation’s arcane email privacy laws this year have stayed relatively under the radar, but House Judiciary Chairman Bob Goodlatte continues to say that modernizing the Electronic Communications Privacy Act to require a warrant for law enforcement access to digital content is a committee priority. But Goodlatte wants to pursue “comprehensive reform” that would also address location privacy rules — like when law enforcement could access GPS information tied to a person’s cell phone — a committee aide told MT Friday.
+
+That could complicate the otherwise noncontroversial push to update the law, because while most of Congress is in agreement on the email privacy update, the location update is seen as more difficult to pass (and it’s not a component of the Senate Judiciary-passed ECPA reform bill.)
+
+Story Continued Below
+
+—BUT, A LOT OF CO-SPONSORS: The ECPA reform bill from Reps. Kevin Yoder and Tom Graves, though, now has 181 co-sponsors. “It is definitely on Goodlatte’s radar,” Yoder told us. “We’d love the Judiciary Committee to be able to take it up this year. What we’re trying to do is make it easier for them to move it to the top of the agenda and to support their efforts by showing the amount of support from members in the House,” he said, adding that he thinks the measure could potentially be a suspension candidate, especially if Goodlatte gives his blessing.
+
+But count Yoder in the camp of not wanting to complicate a potential email privacy update by adding in location issues. Even Rep. Jason Chaffetz, a location privacy crusader and sponsor of the GPS Act that would require a warrant for location information, said Friday he wouldn’t be opposed to separating the issues. “They don’t have to do device,” he said, referring to location privacy. “I think we should do both — but should it be combined, should it be separate? It’s procedural.”
+
+HILL DRAWS CRITICISM FOR NSA OVERSIGHT — Darren Samuelsohn has the story: “Cries of lax Capitol Hill oversight are piling up as Snowden-inspired stories continue to explode in the media, casting doubt on whether the legislative watchdogs can be trusted to oversee national security agencies that they’ve long defended.Intelligence Committee leaders from the House and Senate insist they’ve done their due diligence but acknowledge that lawmakers can glean only as much information as the president and his team will share. And even then, anything of such a highly classified nature can’t be legally disclosed anyway. Still, a ‘trust us’ promise from the lawmakers with the highest of high-security clearances isn’t satisfying critics.”
+
+“Many members of Congress have revolted out of frustration that the Obama administration and their fellow lawmakers haven’t done enough to address concerns about overreach in U.S. surveillance programs. Sen. Rand Paul (R-Ky.) sued the president. The House last summer came within a dozen votes of passing legislation to curb the NSA’s powers. And turf be damned, multiple House and Senate panels that share jurisdiction over intelligence and national security issues are forging ahead with their own inquiries.” MORE: http://politi.co/1cn4JFx
+
+GOOD MONDAY MORNING and welcome to Morning Tech, where we slapped together an 86 at East Potomac Park yesterday before the rain started. We’re taking all comers — hit us up at abyers@politico.com and @byersalex, and catch the rest of the team’s contact info after speed read.
+
+** We need a clean STELA reauthorization, not another vehicle to hike consumers’ cable bills. Pay-TV is trying to gouge consumers by taking the channels they watch most out of their basic package. They are ripping people off to boost record profits. **
+
+MARK PENN GETS MSFT PROMOTION — Bloomberg’s Dina Bass: “Microsoft Corp. Chief Executive Officer Satya Nadella, who replaced Steve Ballmer last month, is realigning management and appointing Executive Vice President Mark Penn to the new role of chief strategy officer, according to a person with knowledge of the matter.” http://bloom.bg/1oioXzT
+
+FRIDAY NEWS DUMP: FCC CANCELS CONTROVERSIAL MEDIA STUDY — Brooks has the story: “The Federal Communications Commission is pulling the plug on a controversial survey of TV newsroom activities that sparked a firestorm of criticism from Republicans. ‘The FCC will not move forward with the Critical Information Needs study,’ an FCC spokesman said Friday. ‘The Commission will reassess the best way to fulfill its obligation to Congress to identify barriers to entry into the communications marketplace faced by entrepreneurs and other small businesses.’ The study was to start this spring with a pilot test in Columbia, S.C., and it included questions about how TV stations determine what news stories to cover. It also sought insight into debates between journalists and management over news coverage.” http://politi.co/ORRu56
+
+WHAT WE’RE WATCHING TODAY — The snow’s already shutdown most of D.C., but don’t forget the first of three big data workshops being hosted by the White House as part of the John Podesta-led review. That’s up in Massachusetts today, and we expect it to go on. Podesta’s supposed to keynote in the 9 a.m. hour, with Commerce Secretary Penny Pritzker speaking at 12:45. Webcast and full agenda here, which also includes former W.H. tech aide Danny Weitzner, Intel’s David Hoffman, and FTC’s Latanya Sweeney: http://bit.ly/1ju0BmM
+
+ANOTHER COMCAST ACQUISITION — The WSJ’s Shalini Ramachandran and Mike Shields: “Comcast Corp. is near a deal to acquire FreeWheel Media Inc., a Web-video company for about $320 million, a person familiar with the matter said.FreeWheel helps media companies deliver ads in Web video. The company's technology, which is used by traditional TV networks' websites and online-only outlets, ensures that ads are seen by viewers they are aimed at, taking into account such variables as a person's location and recent viewing history.The acquisition is part of Comcast's effort to expand in online video. In recent years, the cable operator has invested in creating online video portals and applications to give its cable-TV subscribers ways to stream TV programming on devices such as computers, tablets and smartphones. Comcast also has been an advocate of an industrywide effort to offer cable-TV subscribers access to cable programming online.” http://on.wsj.com/1oins51
+
+MORE DATA SECURITY WORK TEED UP FOR HILL — If you didn’t get enough from the first four hearings, the data security debate is back on Capitol Hill this week. Two House subcommittees on Tuesday will examine how technology might protect Americans against international cybercriminals, and a House Financial Services subcommittee on Wednesday will look at data security and efforts to protect financial information. Lawmakers, eager to show movement in an immobile Congress, demanded hearings and dusted off legislation soon after the well-publicized breaches at Target and Neiman Marcus. And they show little sign of stopping — expect another hearing announcement from Senate Commerce in coming weeks.
+
+—BTW, TARGET INKS VENABLE LOBBY CONTRACT: As it continues to interface with Washington in the wake of its highly publicized security flap late last year, Target’s signed on Venable to work on “issues relating to data breach,” according to a filing made late last week. Robert Smith and William Norwind will work on the deal, which has been active since mid-January.
+
+ICYMI: MICROSOFT V. MICROSOFT IN 2014 — The Seattle Times’ Jim Brunner: “First-term Democratic U.S. Rep. Suzan DelBene will face a re-election challenge this year from a fellow ex-Microsoft employee. Republican Pedro Celis, a retired Microsoft software engineer from Redmond...The swing district is the state’s most evenly divided between Republican- and Democratic-leaning voters. As such, it’s likely the GOP’s best shot at flipping a congressional seat in the state in this year’s midterm elections. Celis cited DelBene’s support for policies such as the Affordable Care Act, also known as Obama­care, as a major reason he’s running.” http://bit.ly/Nldlkq
+
+SPEED READ
+
+REPORT: BETTER CYBER PROTECTIONS NEEDED FOR POWER GRID: Companies don’t like to share information with one another, the New York Times reports: http://nyti.ms/ORRC4O
+
+STARTUPS’ SECURITY FOCUS, OR LACK THEREOF: The focus early on is often on raising cash, not protecting data, the NYT reports: http://nyti.ms/ORSTsr
+
+IMMIGRATION DEBATE COMES HOME FOR GOODLATTE: The HJC chairman faces daunting demographics, the Washington Post reports: http://wapo.st/ORSYfJ
+
+Tips, comments, suggestions? Send them along via email to our team: Alex Byers (abyers@politico.com, @byersalex), Eric Nelson (enelson@politico.com), Eric Engleman (eengleman@politico.com, @ericengleman), Brooks Boliek (bboliek@politico.com, @technocowboy), Jessica Meyers (jmeyers@politico.com, @jessicameyers), Tony Romm (tromm@politico.com, @tonyromm) and Erin Mershon (emershon@politico.com, @eemershon).
+
+** Americans count on local TV stations to be included as part of their basic cable packages. Pay-TV wants to raise prices on tens of millions of TV viewers in the United States, including Spanish-speaking households, seniors on fixed incomes, and rural Americans.
+
+This is a pay-TV ripoff that takes broadcast programming away from people who already have it, so pay-TV can charge them even more money to get it back.
+
+Tell your member of Congress that we need a clean STELA Bill.
+
+Visit us at TVfreedom.org and follow us at @TVfreedomOrg. **

@@ -1,0 +1,61 @@
+Here we go again.
+
+Just as we have previously reported here in the ICD10monitor e-news about the industry’s half-hearted approach to 5010 adoption, new questions continue to be raised and concerns expressed about just how compliant the nation’s hospitals are. The current issue focuses on the inability of some providers and practices to see the version indicator field.
+
+More on that later; first, let’s take a trip back in time.
+
+Historically, we know that the introduction of 5010 was not an easy transition for many providers and hospitals in the U.S. As you recall, back in May 2009, the Centers for Medicare & Medicaid Services (CMS) told providers that Jan. 1, 2012 would be the deadline for submitting claims using HIPAA 5010 — a prerequisite for moving to ICD-10, as 5010 could accommodate the more detailed ICD-10 claims better than the older version, 4010.
+
+But then, on Nov. 17, 2011, the CMS Office of E-Health Standards and Services (OESS) announced that, for a 90-day period, it “would not initiate enforcement action against any covered entity that was not compliant with the updated versions of the standards by the Jan. 1, 2012 compliance date.”
+
+Then, on March 15, 2012, CMS again was forced to announce that it would not initiate enforcement action for an additional three months, moving the deadline for 5010 compliance to June 20, 2012.
+
+Compliance with the HIPAA 5010 electronic transactions standards is a federal mandate and marks a critical initial step toward ICD-10 compliance.
+
+We are hearing that many organizations still have issues today, and that after root cause analysis, it still may be difficult to tell whether the issue is with the clearinghouse, the payer, or both. It begs the question of whether 5010 compliance is truly a national standard, because as the industry heads into ICD-10 testing periods, many vendors and clearinghouses still may be having difficulties processing in 5010. The very idea poses significant difficulties for the industry and for individual practices.
+
+The original 5010 mandate that became effective Jan. 1, 2012 indicated that all types of claims and claim-related transactions must be 5010-compliant, and that payers would not be allowed to accept 4010 transactions dated on or after that date.
+
+Recall that conversion to HIPAA version 5010 was a crucial first step toward the adoption of the ICD-10 codes in an electronic environment. The transition to 5010 included three basic rules that were intended to help ready the industry for ICD-10; they included the following infrastructure changes introduced in order to ensure electronic transaction capabilities for ICD-10 codes. Specifically, the move was said to:
+
+Lengthen diagnostic field loop size for ICD codes from five digits to seven-digit alphanumeric codes.
+
+Increase the number of diagnosis codes allowed on a claim from 8 to 24 occurrences.
+
+Add a one-digit (two-bit) version indicator field to the ICD code to indicate ICD-9 versus ICD-10 code utilization.
+
+To ensure 5010 compliance, physician practices had to immediately allocate appropriate resources to ensure readiness. In a 2011 Medical Group Management Association (MGMA) study, it was found that the average cost for 5010 implementation was roughly $16,000 per physician, per practice. With this type of expense incurred, we are still hearing of practices that are not able to see their version indicator fields, with responses from vendors and clearinghouses indicating that this will be addressed in a “patch” at a future date. This is a disturbing trend as we move forward toward periods of heavy ICD-10 testing. A practice or hospital’s inability to see the version indicator could make testing with CMS and commercial payers difficult, if not impossible, until the field is viewable and useable in their electronic medical record (EMR) or vendor software.
+
+For practices still processing paper transactions, there is still time to make your transition to an EMR system (remember that penalties will be coming from Medicare in the next few years for anyone still processing on paper). Interested practices should take immediate action to check with state and local Regional Extension Centers to see if they qualify for any type of assistance in selecting and setting up an EMR system.
+
+The investment of human and financial resources to ensure 5010 compliance by Jan. 1, 2012 has helped practices take a step further toward true administrative simplification. It also has served as the groundwork for future federal regulations, like the operating rules and provisions of the Patient Protection and Affordable Care Act (PPACA).
+
+If compliance is still an issue for your organization, you can expect electronic business operations to be seriously challenged as we move toward ICD-10. Simply put, organizations that cannot demonstrate their compliance with the three basic 5010 rules (mentioned previously) should be questioned as to whether they are 5010-compliant at all. Simply demonstrating an increased diagnostic field size will not be enough for anyone to ensure that we will be able to successfully dual process both ICD-9 and ICD-10 claims as an industry next fall.
+
+HIPAA 5010 presented the nation with the perfect opportunity to eliminate costly, inefficient processes that had previously existed under the 4010 system. HIPAA 5010 aimed to reduce inefficiencies, to improve clarity, and to ensure consistent use of transactions across the healthcare industry, which should lead to reductions in administrative costs associated with many types of electronic transactions. CORE-certified EDI transactions conducted in the HIPAA 5010 format can lower turnaround times for payments by as much as 5-7 days while giving providers peace of mind in knowing their business is being conducted in a safe and secure manner.
+
+Peace of mind is as important for testing processes in ICD-10 as it was while we were ramping up for 5010. If you are planning on testing with any entity, it is time to inquire about the three basic 5010 requirements with your vendors and payers. Communication is paramount in achieving peace of mind. Often the biggest detriment to communication is a failure to understand what questions to ask to ensure IT readiness.
+
+Good places to start would be with vendor contract representatives, or even by calling a vendor customer service line. This will at least get organizations on the right path toward ensuring their vendors are fully compliant with all aspects of the 5010 regulations. Specifically:
+
+Ask where the version indicator field is (if you are not currently able to view it in your billing/vendor/clearinghouse software).
+
+Dig deeper on vendors’ ability to dual process transactions next fall.
+
+Inquire about their testing plans and how you may be able to participate.
+
+Too often we hear vendors tell clients “don’t worry, we have it covered” – that answer is simply not enough. We have come too far and there is too much at stake for vendors and clearinghouses to be secretive or complacent about how industry business will be transacted in the fall of 2015. The pressure can only come from industry stakeholders and participants.
+
+The earlier providers and practices begin, the sooner everyone can all rest easy going into 2015.
+
+About the Author
+
+Chuck Buck is the publisher of ICD10monitor and is the executive producer and host of Talk Ten Tuesdays.
+
+Contact the Author
+
+cbuck@panaceainc.com
+
+Comment on this article
+
+editor@icd10monitor.com

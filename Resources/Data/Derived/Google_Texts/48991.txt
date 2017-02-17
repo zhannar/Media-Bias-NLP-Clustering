@@ -1,0 +1,49 @@
+Billy Wynne
+
+February 26, 2016
+
+After a seemingly endless stream of stop-gap “doc fixes,” President Obama on April 14, 2015, signed into law a permanent repeal and replacement of Medicare’s Sustainable Growth Rate formula. The 2015 law, known as the Medicare Access and CHIP Reauthorization Act of 2015 (MACRA) (P.L. 114-10), permanently reformed Medicare physician payments and (finally) put to rest what had become a dreaded perennial legislative ritual of blocking reimbursement cuts. See my Health Affairs Blog post from last April for more on that.
+
+MACRA’s Two Physician Payment Pathways: MIPS And APMs
+
+MACRA replaced the Sustainable Growth Rate with annual 0.5 percent payment increases for each of the next five years, and creates two tracks for physician payment after that. Under one track, MACRA streamlines certain Medicare quality initiatives that affect reimbursement under a unified system known as the Merit-Based Incentive Payment System (MIPS). MIPS is the subject of this post.
+
+Under the other track, physicians can get bonus payments/incentives if they receive a “significant share” of their revenue through an alternative payment model (APM). Physicians who receive payment through their participation in an APM above a certain threshold will not be subject to payment adjustments under MIPS.
+
+MIPS 101
+
+MIPS reflects a doubling down on existing performance measurement and improvement initiatives. Beginning in calendar year 2019, Medicare payments will be adjusted based on provider performance in MIPS, rather than the previous individual quality and value programs. The programs to be consolidated under MIPS include:
+
+The Physician Quality Reporting System (PQRS), which incentivizes professionals to report on quality measures through positive or negative payment adjustments;
+
+The Value-Based Modifier Program, which adjusts payment based on performance on PQRS quality measures and Medicare cost data; and,
+
+“Meaningful Use” of electronic health records (EHRs), which details requirements for the use of certified EHR systems and incentivizes adoption with payment adjustments.
+
+These quality programs will sunset on December 31, 2018, and the MIPS program will start on January 1, 2019.
+
+MIPS will initially apply to eligible professionals, such as physicians, physician assistants, nurse practitioners, clinical nurse specialists, and certified registered nurse anesthetists, and to group practices that include such professionals. However, beginning in 2021, the Centers for Medicare and Medicaid Services (CMS) has the discretion to include additional eligible professionals.
+
+Each year, CMS will establish a list of MIPS quality measures through rulemaking. Eligible professionals will be assessed in four performance categories: quality (using new and existing measures); resource use (relying on current Value-Based Modifier program measures); EHR Meaningful Use (extending requirements under current regulation); and, clinical practice improvement activities, a new Secretarial-defined component that will address issues such as care coordination and population management. CMS will publish the full list of MIPS metrics by November 1 of each year.
+
+Eligible professionals will receive a composite score based on their performance in each of the four categories. They will then be subject to a payment adjustment (positive or negative) based on their score. They will know the target score they must achieve to avoid a negative adjustment prior to each performance period. MACRA also provides additional incentives to eligible professionals meeting exceptional performance thresholds, appropriating up to $500 million annually over the calendar year 2019-2024 period for this purpose.
+
+MIPS Implementation So Far
+
+In the July 2015 Physician Fee Schedule proposal, CMS solicited feedback on MACRA reforms. For MIPS, the agency was specifically interested in comments on the “low-volume threshold” for eligible professionals, a floor for the amount of Medicare patients treated that, if unmet by the provider, excludes them from MIPS requirements.
+
+CMS asked in the proposal for feedback on how it should shape the threshold, and whether it should apply existing low-volume thresholds currently used in other reporting programs. CMS also sought comment in the proposal on the scope of “clinical practice activities,” the new component of the overall composite score mentioned above. In the final Physician Fee Schedule rule, CMS noted that they received more than 90 “insightful and informative comments,” and said that the agency will consider the comments received through the proposal and other MACRA-related Requests for Information in future rulemaking.
+
+On September 28, 2015, CMS released a Request for Information on the physician payment reform provisions within MACRA. The agency sought feedback on a number of aspects of the MIPS, including: (1) specific identifier(s) for MIPS eligible professionals for purposes of determining eligibility, participation, and performance under the performance categories; (2) parameters for medical group participation; and, (3) the reporting mechanisms for each quality performance category. CMS also sought feedback on other considerations, such as whether the agency should require that certain types of measures (e.g., outcomes-based) be reported. Comments on the Request for Information were due November 17, 2015.
+
+On November 10, 2015, CMS requested comment on MACRA episode groups, including the process and methodology used to develop them for use in resource use measurement. The agency’s development of MACRA episode groups is informed by Affordable Care Act requirements, calling for groups that combine separate but clinically related items and services into a single bundle of services.
+
+CMS developed episode groups to represent the most costly and prevalent Medicare fee-for-service conditions and procedures. Groupings include episodes related to the following clinical areas: cardiovascular, cerebrovascular, gastrointestinal, genitourinary, infectious disease, metabolic, neurology, ophthalmology, breast, musculoskeletal, respiratory, and vascular. CMS seeks feedback on these episode groups by February 15, 2016. The agency intends to separately post a draft list of patient categories and codes by April 16, 2016.
+
+Though MIPS does not begin until January 1, 2019, CMS has already begun taking formative steps to provide for a smooth transition to the program. The agency intends to outline the initial MIPS policies in the forthcoming 2017 Medicare physician fee schedule proposed rule, due on or around June 30, 2016. However, there are a number of statutory deadlines in advance of formal MIPS rulemaking. There is also likely to be substantial provider outreach and education—via continued webinars and the issuance of FAQs and other guidance—to assist clinicians in transitioning to MIPS and subsequently to alternative payment models.
+
+Summing Up
+
+In addition to having another awkward acronym added to its lexicon, CMS may have its work cut out for it in implementing MIPS. Measuring quality and paying for it when it’s identified makes perfect sense, but our ability to do so accurately while avoiding unintended consequences remains to be proven. As with so much else in our health care system, we’ll likely continue to stumble along in a glorified version of trial and error.
+
+So, in this otherwise wonky post, I leave you with George Costanza’s prescient variation on the potentially flawed MIPS theme, wherein he vigorously maintains a demonstrably false position because of a typo on his Trivial Pursuit card. It was the Moors who invaded Spain in the 8th Century, not the Moops.

@@ -1,0 +1,65 @@
+The bust of an international hacking ring that spent years manipulating the stock market has many proclaiming a new, insidious era of insider trading.
+
+On Tuesday, federal authorities brought civil or criminal charges against 32 people and companies that allegedly conspired to steal unpublished financial press releases and shuttle that information to traders. Together, officials say the group made more than $100 million in profits off illegal trades.
+
+ADVERTISEMENT
+
+While investigators and prosecutors say they’ve been attuned to the threat for years, most thought the incidents were unaffiliated outliers.
+
+“It’s not that it wasn’t a huge concern,” said Andre McGregor, a former FBI special agent in the Cyber Division who’s now with Tanium, a security firm that works with top U.S. banks. “I think it was more that everyone thought that it was isolated to one particular incident for a company.”
+
+But experts now say the global enterprise revealed this week is likely one of multiple cyber crime groups digitally pilfering information to illegally play the stock market in a way that is barely perceptible to authorities.
+
+“Clearly there’s concern that if the government was unable to uncover this crime how many more are there?” said Austin Berglas, former head of the FBI’s New York Cyber Branch and a lead investigator into last fall’s breach at JPMorgan Chase.
+
+Former federal officials like McGregor and Berglas recounted coming across early hints of what hackers were doing as far back as 2006, with things picking up around 2010.
+
+“We had cases where people were using cyber techniques to hack into accounts and send out massive amounts of spam to artificially inflate the price of penny stocks, and then dump it and make their money,” Berglas said.
+
+Most recently, the four people arrested in relation to the JPMorgan hack were accused of using these tactics on at least five stocks between 2011 and 2012.
+
+Matthew Schwartz, a federal prosecutor in the Southern District of New York from 2005 to 2015 and senior member of the Securities and Commodities Fraud Task Force, recalled recently prosecuting an IT staffer at major law firm that did corporate work for Silicon Valley companies.
+
+“He used his access to the law firm’s computer systems and exceeded his authorized access to get access to all sorts of pending mergers activity and traded ahead of it,” Schwartz said.
+
+But the indictment unsealed Tuesday is staggering in comparison.
+
+“Something that we haven’t seen before,” said Berglas, now head of U.S. cyber investigations for security firm K2 Intelligence.
+
+According to authorities, the Ukrainian-based group regularly cracked computer networks at three of the top business newswire services, which publish earnings reports and press releases on mergers and acquisitions.
+
+The hackers would grab releases after they were uploaded but before they had been published. The information was then quickly fed to various traders and hedge fund managers, who would make tidy but conservative profits off advance trading, avoiding detection.
+
+The scheme was anything but haphazard, according to the indictment.
+
+The hackers had glossy videos of their digital break-ins that they used to impress and recruit traders. The organizers sent detailed tutorials to traders on how to clandestinely access a secret, overseas server that held the purloined releases.
+
+Traders could even create “shopping lists” or “wish lists” for the hackers, the FBI said.
+
+“The hackers were running a business,” said Schwartz, now a partner at Boies, Schiller & Flexner. “They were selling that information, they were taking orders.”
+
+Researchers have also seen evidence the criminal ring as a harbinger of things to come.
+
+Security firm FireEye last December published a report with the first public evidence of a coordinated hacking group working to exploit the market.
+
+That team, known as FIN4, posed as outside consultants, tricking employees into giving up confidential information or granting access to a company’s network.
+
+“FIN4 was the first time we really got a good glimpse into how these types of operations might work,” said Jen Weedon, FireEye threat intelligence manager.
+
+The hackers were so skilled at using industry jargon that Weedon suspects they had recruited people within these companies, or at least were “working with people who understood the market,” she said.
+
+“I do think that these more creative and multifaceted attacks will continue,” Weedon added. “It’s the beginning of what’s to come.”
+
+The two examples reveal how hackers can slowly gather data over time to subtly exploit the stock market. The operation broken up this week has allegedly been in business since at least 2010. FIN4 has existed since at least 2013, according to FireEye.
+
+This slow burn “is incredibly difficult to identify,” Berglas explained.
+
+For years, insider trading was relatively easy to spot: it often involved a big bet on a single stock, former federal officials said. But in a digital era, spotting insider trading involves mapping and detailing activity over several years to see if an individual or company is consistently beating the market.
+
+“That’s an awful lot of analysis,” Berglas said. “Devoting the resources to do that is significant.”
+
+Berglas worries foreign adversaries may use shell companies as fronts to play the market with stolen data. China, Russia and Iran are all widely believed to have strong digital footholds in many major American companies.
+
+The practice, he said, could go undetected for years.
+
+“That would be very, very difficult to uncover.”

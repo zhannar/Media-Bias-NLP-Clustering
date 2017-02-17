@@ -1,0 +1,13 @@
+The Internet has birthed a new useful tool to keep tabs on politicians. It's a browser plug-in called "Greenhouse" and it lets users easily access information on where our public servants get their campaign donations.
+
+For example, if you were reading recent news about Rep. Nancy Pelosi (D-Calif.) and her views on Obamacare, simply hovering a mouse over her name would bring up a political baseball card of sorts. Greenhouse lists the top 10 industries from which a politician receives money, and Pelosi's number one comes from health professionals. They gave her slightly over $200,000 in 2012 (see image right).
+
+The software, which launched early in June for browsers Safari and Google Chrome and just last week for Firefox, also highlights what percentage of a politician's funds come from presumably grassroots supporters, those who make donations of $200 or less. For Pelosi, that comes out to a mere 4.8 percent.
+
+Greenhouse's creator, Nicholas Rubin, explains on his website that "even though I am only 16 years old, not quite old enough to vote, I am old enough to know that our political system desperately needs fixing. I hope that this tool is one step in that direction."
+
+Rubin says the name of his plug-in comes from a desire for transparency, like the glass walls of a greenhouse. One may also infer something about politicians and hot gas as well, but he doesn't explicitly make that point. The young coder gives some insight into his own political philosophy and mission:
+
+The influence of money on our government isn't a partisan issue. Whether Democrat or Republican, we should all want a political system that is independent of the influence of big money and not dependent on endless cycles of fundraising from special interests. The United States of America was founded to serve individuals, not big interests or big industries. Yet every year we seem to move farther and farther away from our Founders' vision.
+
+Technology blog Engadget critiques the fact that the Rubin's data is a few years old. He replied that "the information in the popup is from the last full election cycle (ending in 2012) because it is most complete data available." Rubin pulls his information from the Center for Responsive Politics Open Secrets website, which tracks lobbying and campaign contributions, and "plan[s] to update the data in the popup itself later in this election cycle as 2014 contributions are more complete."

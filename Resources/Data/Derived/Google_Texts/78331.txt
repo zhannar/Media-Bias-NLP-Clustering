@@ -1,0 +1,37 @@
+The growing number of public and private accountable care organizations (ACOs) may bode well for the healthcare industry’s efforts to transform into a value-based, patient-centered care continuum, but big, bad data is still getting in the way of basic communication and care coordination.
+
+In a survey published this week by Premier, Inc. and the eHealth Initiative, ACOs reporting ongoing difficulties with data capture and governance, EHR interoperability, and developing the advanced big data analytics capabilities required to enable effective population health management.
+
+The vast majority of the 68 ACOs participating in the poll have already implemented many of the foundational tools for data-driven population health management.
+
+Eighty-four percent have some form of analytics software in place, while 61 percent are using a dedicated care management software package. Just 44 percent have a population health management dashboard, but 55 percent have stood up a data warehouse to collect information, even if they aren’t using it to its full capacity just yet.
+
+These adoptions rates are virtually unchanged from last year’s survey, which also identified health data interoperability as the biggest roadblock facing ACOs.
+
+Significantly fewer organizations have health information exchange infrastructure in place. While 44 percent have secure messaging capabilities, just a third of participants have direct connectivity to a private or enterprise HIE. A similar number said they are able to connect to a public health information exchange organization.
+
+The ACOs reported that integrating external data into their health IT systems was one of their most difficult tasks. Nearly 70 percent said collecting and using data from specialists brought “high levels of difficulty,” especially when the specialist was out-of-network.
+
+More than half of respondents said they do not currently integrate any data from behavioral health providers. Forty-eight percent said they cannot transmit or receive data from long-term care facilities, and 46 percent were unable to communicate effectively with hospice and palliative care providers.
+
+“These results are not surprising,” said Jennifer Covich Bordenick, CEO of the eHealth Initiative. “We know that it’s relatively simple for providers within the same organization using the same systems to share information about their patients.”
+
+“The real challenge is successfully moving and integrating that data across dozens of different systems, and we’ve found that out-of-network practices often lack the proper incentives to make investments in the data sharing agreements and interoperable interfaces necessary for success,” Bordenick added.
+
+Accountable care organizations aren’t letting interoperability difficulties get them down when it comes to big data analytics, however. Among the 84 percent of providers with analytics tools in place, the vast majority (96 percent) are performing claims-based analytics, while three-quarters are drawing on EHR data or other quality measurement systems to gain deeper insights into patient behaviors and outcomes.
+
+These organizations are using their big data analytics capabilities to identify gaps in care (84 percent), flag cost and utilization outliers (80 percent), and compare clinician performance or measure and report on quality (77 percent).
+
+ACOs are somewhat less likely to be using administrative data (52 percent), disease registry data (39 percent) and patient-generated health data (38 percent) for these tasks.
+
+In addition to investing in technologies that allow internal benchmarking and provider-level population health management, ACOs are making patient engagement and outreach a top priority. Sixty-five percent offer care coaching to their patient populations, and 58 percent use patient navigators, while 61 percent have a patient portal in place.
+
+Slightly fewer organizations offer notifications or reminders for preventative services and gaps in care – 55 percent and 48 percent respectively – and even fewer are using electronic forms to capture patient-generated health data or developing patient-specific educational programs.
+
+Telehealth and remote monitoring are also at the bottom of the list. Only one in five ACOs are currently investing in these offerings.
+
+Keeping tabs on all of these disparate systems is no easy task, the survey participants added. With 44 percent of respondents stating that they have between 11 and 50 health IT systems to worry about, interoperability remains a major concern.
+
+“Today, providers are doing the lion’s share of integration work themselves, making it difficult to establish interoperable connections with those that are not part of the ACO,” explained Mimi Huizinga, MD, vice president and chief medical officer of Premier’s Population Health Management (PHM) Collaborative.
+
+“Even when those connections exist, that’s really just the first step in a long process of establishing a technical environment to work with the data, create a full view of the care experience and then digest the results across the care team. We urgently need public policies to require interoperability standards in HIT so that providers can access data from any system and unlock the true potential of coordinated, high-quality, cost-effective healthcare.”

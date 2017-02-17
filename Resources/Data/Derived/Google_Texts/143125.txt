@@ -1,0 +1,31 @@
+An Obamacare network that will transmit patient health, financial and other personal information between federal agencies and state health care marketplaces completed a requisite security test earlier than anticipated but the work was not provided to an internal watchdog.
+
+On Wednesday afternoon, Kay Daly, Health and Human Services Department assistant inspector general, told lawmakers at a House hearing that a system security plan and risk assessment filed on July 16 was not made available to her office during a recent audit. The Data Services Hub, which is slated to open Oct.1, will verify personal information, when a patient visits a government website to enroll in health insurance plans.
+
+The July review was part of an independent security test completed August 23, a week ahead of the expected finish date.
+
+Former Social Security Administration Commissioner Michael Astrue noted that the review was due on July 15, and the IG audit report was from Aug. 2. "There must have been a draft at that point," Astrue, who observed the hub's development until he left government in Janauary, testified at the same hearing. "I'm just not used to the idea that the inspector general comes in and asks for things and you say, 'No.'"
+
+The House Homeland Security Subcommittee on Cybersecurity, Infrastructure Protection and Security Technologies hearing called for the session.
+
+Lawmakers have voiced concerns that the network could become a treasure map for hackers. Unauthorized users could use the information transmitted through the hub to determine a patient’s eligibility for enrollment – including income, citizenship, and immigration status data – to commit identity theft or alter health records, health information technology experts say.
+
+Steve Parente, a University of Minnesota health data academic who testified at the hearing, echoed concerns about the availability of the security assessment plan, which was developed by one of many contractors working on the project.
+
+"I personally find it unconscionable that this contractor is not at least going to have an executive summary that actually talks about . . .the safeguards that have been put in for vulnerability tests, for the white-hat types of operations that are supposed to be put in to place to make sure that all potential compromises have been taken into consideration" before HHS allows the hub to operate, Parente said.
+
+HHS senior leaders on Sept. 6 authorized the hub to operate, department officials said on Wednesday.
+
+Responding to criticisms about the IG audit, Daly said it is hard to evaluate technology that is still being built.
+
+"We were provided the data that we had requested -- if it had been created. That's one of the challenges," she said. "You're doing something that doesn't exist yet."
+
+HHS officials in a fact sheet released on Wednesday stressed that the hub is not a databank of personal information, but rather a conduit to separate federal and state databases that store the information. This setup, they said, eliminates doorways for hackers that would have existed otherwise. An alternative arrangement -- agency databases communicating separately with one another -- would have amounted to hundreds of separately installed connections, officials said.
+
+The network will connect to databases maintained by the Centers for Medicare and Medicaid Services, Social Security Administration, Internal Revenue Service, Office of Personnel Management, departments of Homeland Security, Veterans Affairs and Health and Human Services, among others.
+
+"It is important to point out that the hub will not retain or store personally identifiable information. Rather, the hub is a routing system that CMS is using to verify data against information contained in already existing, secure and trusted federal and state databases," CMS Administrator Marilyn Tavenner wrote in a Sept. 11 letter to Committee Ranking Democrat Rep. Bennie Thompson, D-Miss.
+
+Going forward, HHS officials will require that systems accessing the hub use sensors and software to identify abnormal network behavior and unauthorized system changes, according to the fact sheet. Government officials also will continue monitoring security by conducting automated vulnerability and active Web application scans; tracking system configurations; and hiring professional hackers to find weaknesses through "penetration testing."
+
+(Image via Maksim Kabakou/Shutterstock.com)

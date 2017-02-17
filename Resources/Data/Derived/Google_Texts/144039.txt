@@ -1,0 +1,9 @@
+Additional uncaught exception thrown while handling exception.
+
+Original
+
+RedisException: Redis server went away in Redis->select() (line 22 of /srv/5280.com7/sites/all/modules/redis/lib/Redis/Client/PhpRedis.php).
+
+Additional
+
+RedisException: Redis server went away in Redis->select() (line 22 of /srv/5280.com7/sites/all/modules/redis/lib/Redis/Client/PhpRedis.php).

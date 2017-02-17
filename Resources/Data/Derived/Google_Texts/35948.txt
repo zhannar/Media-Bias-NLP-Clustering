@@ -1,0 +1,29 @@
+Malicious code may lurk in HealthCare.gov.
+
+Fraudsters on the inside, hackers on the outside. Here we are, stuck in the middle with the security nightmare called Obamacare. Can it get any worse? Yes, it can.
+
+After the spectacular website crashes during last fall’s federal-health-insurance-exchange rollout, enrollees will soon wish the entire system had stayed down and dead. “404 Error” messages and convicted-felon Obamacare navigators may be the least of our health-care tech problems now. The latest? U.S. intelligence agencies notified the Department of Health and Human Services last week that the HealthCare.gov infrastructure could be infected with malicious code.
+
+Who’s responsible? Washington Free Beacon national-security reporter Bill Gertz writes that U.S. officials have “warned that programmers in Belarus, a former Soviet republic closely allied with Russia, were suspected” of possible sabotage. A government tech bureaucrat in the Belarusian regime bragged last summer on Russian radio that HHS is “one of our clients” and that “we are helping Obama complete his insurance reform.”
+
+Gulp. When an authoritarian minion from the country known as “Europe’s last dictatorship” boasts about “helping” the Obama White House, be afraid. One of our intel people spelled it out for Gertz: “The U.S. Affordable Care Act software was written in part in Belarus by software developers under state control, and that makes the software a potential target for cyber attacks.”
+
+No kidding. The friends of Vladimir Putin are not our friends. If you’ve been paying attention, you know that Belarus and other Eastern European hacking gangs have been at the center of several recent international cybercrimes. These aren’t merely schemes to steal credit-card numbers or vandalize websites with annoying graffiti. They’re acts of espionage and sabotage — like using malware in a phishing scheme aimed at White House employees to gather military intelligence and pilfer sensitive government documents.
+
+It’s not just the federal health-care system’s problem. Former Obamacare website contractor CGI still holds dozens of contracts with other federal agencies and state governments worth billions of dollars — and wide access to health and financial data. In my state of Colorado, for example, CGI has a $78 million contract to “modernize, host and manage” the state’s financial system. Have they checked to see whether Belarus hackers are standing by?
+
+For their part, Obamacare officials are making their usual “don’t worry about it, the problem’s under control” noises. But we already know the problem is far out of control. Last month, GOP oversight hearings exposed persistent failures by Obamacare overseers to fix security lapses.
+
+Former most-wanted cybercriminal Kevin Mitnick concluded in a letter to Capitol Hill: “It’s shameful the team that built the Healthcare.gov site implemented minimal, if any, security best practices to mitigate the significant risk of a system compromise.” If the latest warnings from our intel agencies are any indication, it appears that Obamacare Keystone Kops didn’t just leave out security protections, but also may have allowed foreign programmers to write in cyber-traps.
+
+David Kennedy, head of computer-security consulting firm TrustedSec LLC and a former cybersecurity official with the National Security Agency and the U.S. Marine Corps, warned that “HealthCare.gov is not secure today” and said nothing had changed since he gave Congress that assessment two months before. Among the vulnerabilities that the Obama administration still hasn’t fixed:
+
+TrustedSec “identified the ability to enumerate user information (first, last, email, user id, profile, etc.) through one of the sub-sites that directly integrates into the healthcare.gov website.”
+
+“Tens of thousands of user-based data appears to be vulnerable on the specified website and has not been addressed. There are a number of other exposures that have been reported privately that continue to expose users of the healthcare.gov website.”
+
+Another exposure identified is “the ability to perform an open redirect.” In fact, “there are multiple open redirects still vulnerable on the healthcare.gov website and supporting sub-sites.” What this means is that “an attacker can send a targeted email to an individual that has signed up for healthcare.gov or is looking to and have it appear valid and legitimate and originate from the healthcare.gov website.” These can open avenues so that victims click on links “redirecting to a malicious website that hacks the computer and takes complete control over it.”
+
+Out: “Got Covered?” In: “Got Hacked?”
+
+— Michelle Malkin is the author of Culture of Corruption: Obama and His Team of Tax Cheats, Crooks and Cronies (Regnery, 2010). Her e-mail address is[email protected]. © 2014 Creators.com

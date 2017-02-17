@@ -1,0 +1,19 @@
+Monday, August 17, 2015
+
+Situations abound in which a defendant has been sued in state court, and wants to get to federal court. In cases in which the plaintiff has not pled a federal claim, and where diversity of citizenship is absent, there may not be a ready avenue to get to federal court. In jurisdictions with a plaintiff-friendly reputation, or with a reputation as being unfavorable for litigating complex claims, this may tip the balance from a case being evaluated as defensible to being regarded as a losing proposition. But in at least one area of law, federal courts are providing another avenue out of state court: copyright preemption.
+
+The Spear Marketing Decision
+
+In its recent decision in Spear Marketing, Inc. v. BancorpSouth Bank, the Fifth Circuit Court of Appeals joined the majority of courts in holding that “state law claims based on ideas fixed in tangible media are preempted” by the federal Copyright Act. In Spear Marketing, Spear Marketing claimed that after a meeting with a larger competitor (ARGO) regarding a possible sale of the business, ARGO stole various elements of Spear Marketing’s software design and used those elements to poach one of Spear Marketing’s largest customers. Among other things, Spear Marketing brought claims for misappropriation of trade secrets, conversion, and violations of the Texas Theft Liability Act.
+
+The defendants removed the case to federal court, based on Copyright Act preemption. Spear Marketing amended its complaint to remove certain references to copying and distribution and moved to remand the case to state court, but the federal trial court nonetheless considered the original complaint and held that the Copyright Act completely preempted Spear Marketing’s conversion and Texas Theft Liability Act claims and that federal jurisdiction was therefore proper. (The trade secret claim itself was dismissed on other grounds.)
+
+The Fifth Circuit affirmed. First, it held that the trial court properly considered the original complaint—Spear Marketing’s post-hoc efforts to try to get out from under the Copyright Act were properly disregarded in favor of the pleadings in place at the time of removal. Second, it affirmed the trial court’s preemption ruling. The Fifth Circuit explained that if (1) a claim falls within the subject matter of copyright, and (2) the alleged cause of action seeks to protect rights equivalent to those protected by the Copyright Act, complete preemption applies and federal court jurisdiction exists.
+
+In this case, where the subject matter of the claims consisted of ideas that were “fixed” in the “tangible medium” of Spear Marketing’s software program, the Fifth Circuit found that the claims fell within the subject matter of copyright—even if certain aspects of the software program were not protected by copyright due to exclusions in the Copyright Act.
+
+Next, the Fifth Circuit held that Spear Marketing’s state law claims, variously alleging copying, theft, and conversion of the confidential information contained in its software, were equivalent to reproduction and distribution—exclusive rights granted by Section 106 of the Copyright Act. Because both elements of complete preemption were met, the federal court properly exercised jurisdiction.
+
+Conclusion
+
+Businesses in the automotive sector can face trade secret and related claims arising from similar facts: for example, where one party claims that the other misappropriated proprietary software from another. In this scenario, in the absence of a federal trade secret law, non-diverse parties that might not have another hook for federal jurisdiction may want to look to the Spear Marketing decision, as well as others like it across the country, to provide a path to the friendlier confines of federal court.

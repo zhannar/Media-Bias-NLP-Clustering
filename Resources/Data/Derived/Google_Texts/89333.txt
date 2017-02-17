@@ -1,0 +1,29 @@
+HealthBeat 2014 is behind us, but I’d wager that many of us who were in attendance are still thinking about some of the central themes discussed. Several of them kept coming up in the sessions and in conversations in the hallways.
+
+Our health system is broken; everybody knows that. Some of the discussion at HealthBeat centered on identifying the real problems, and some of it focused on new technology and tactics for fixing the problems.
+
+No. 1: Interoperability
+
+The interoperability of our clinical data systems is lacking, and the disconnects hold us back from addressing much of the waste in the system. (Some studies say that around 20 percent of our health care spend is waste.) Much of the information in the system still sits in silos and can’t be shared. The reasons for this are numerous, covering everything from competitiveness between providers or labs to simple lack of an integration standard.
+
+This isn’t helped by the fact that many of the legacy clinical information systems use older architecture that stores data in servers in the hospital or medical group. They’re not based in the cloud where sharing is easier.
+
+At the same time, we heard from a number of startups at HealthBeat, including UCSF’s CareWeb and Zephyr Health, that are actively working with systems like Epic to extract clinical data from patient records. This information can be studied at a macro level to understand things like which patients in which demographics get sick most often. In some cases, traditional clinical information is being combined with everyday stats, like location and travel data, to arrive at insights that might improve the provider’s ability to care for patients.
+
+Still, as Health and Human Services CTO Brian Sivak points out, the majority of physician practices in the U.S. are now just getting used to tracking care in electronic formats. The government is even paying these practices to go electronic in meaningful ways. But the next step in the government’s “meaningful use” guidelines is to get providers to start sharing data with each other — and that might prove harder still.
+
+No. 2: Too much data, not enough good analysis
+
+Regardless of whether you believe that the Affordable Care Act is actually bringing better access to affordable, quality health care, it’s hard to deny that health care reform has injected the digital health space with new energy and new investment money. The health care system’s focus on data as the cure for its ills is probably a good thing.
+
+But many of the people I spoke with (or watched speak on stage) at HealthBeat are worried that we are generating lots of data but have not yet found practical ways of gleaning meaningful insights from it. And even in cases where those insights are valuable, they are not being converted into clear and actionable decision-support guidelines that might help physicians treat patients more cost-effectively at the point of care.
+
+And we have a whole new wave of data coming in from consumer devices like fitness watches. It seems that we are still a long way from successfully integrating that sort of data into our clinical decision-support systems on a large scale.
+
+No. 3: Wearables have a long way to go
+
+Many in health care circles still believe that most of the people wearing fitness bracelets and watches are the relatively wealthy and the relatively well. That’s fine. But it’s the sick and at-risk who should be using them. In a sense, the real stakeholders in the “quantified self” movement are the health providers, insurers, and employers that have to pay for the care of the unhealthy class of people. How will they get their obese and diabetic patients or employees to use fitness wearables? That’s still very unclear.
+
+Many obese people might simply get offended if their insurer or employer asked them to start counting their steps and limiting their sedentary time. It would require a really smart — and really compassionate — wellness program to convince the obese that wearables would be an immediate benefit to them.
+
+And then there’s the devices themselves. At one breakout session Tuesday, representatives from three wearables companies seemed to agree that wearable devices are still in their early days. They lack the wearability and functionality needed to get people to try them out and keep wearing them. Without that, any hope of truly improving people’s health will be impossible.

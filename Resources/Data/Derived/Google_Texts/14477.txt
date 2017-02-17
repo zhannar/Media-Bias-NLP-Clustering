@@ -1,0 +1,75 @@
+People who work in IT grow accustomed to living under siege -- everyone wants everything at once, resources always fall short, priorities conflict, that kind of thing. But it's gotten worse: Today IT is in danger of being marginalized, consigned to keeping boring legacy systems running.
+
+What's changed? In many businesses, there's a growing realization that to stay competitive, you need to deploy all kinds Web and mobile applications for customers and see what sticks. This has created unprecedented pressure to build, build, build. And if IT responds the old-fashioned way, demanding stakeholders document every last requirement and get in the queue, those stakeholders have new alternatives: SaaS applications, cheap mobile apps, hotshot agile dev firms, and so on.
+
+[ Also on InfoWorld: 12 "best practices" IT should avoid at all costs. | For quick, smart takes on the news you'll be talking about, check out InfoWorld TechBrief -- subscribe today. ]
+
+How does IT not just avoid slipping into irrelevance, but also lead the way in addressing new challenges? Sven Gerjets is one IT exec who has gone to extraordinary lengths to help business set the agenda rather than play defense. As senior vice president of IT solutions delivery for DirecTV, he and his cohorts have given real meaning to the cliché term "agility" and have achieved a surprisingly deep level of integration with the business.
+
+In fact, when I interviewed Gerjets last week, it struck me that he was presenting a classic case of how good IT practice and good business practice can become almost indistinguishable. At DirecTV, IT's support of business goes beyond building solutions on demand to helping the business determine where it wants to go. Here are a few insights from the DirecTV example you may find useful:
+
+1. Collaborate from end to end
+
+Some IT organizations set themselves up almost as a separate business from the rest of the company. Best case, they clearly delineate the processes required for the business to get projects done and build solutions as efficiently as possible -- but that doesn't prevent solutions that were wrongheaded from the start from being built.
+
+Gerjets favors a much more collaborative approach that starts at the conception phase. A special caste of IT people is dedicated to "creating strategic blueprints with business management. We have a team that works with the business to create a multiyear road map that takes their business strategy and lines it out to technology chunks that are easily deliverable." Along the way, projects that would have crashed and burned if they'd simply gone through the pipe as originally conceived can be killed or altered to fit reality.
+
+As an example, Gerjets points to a project where "the business wanted to go into a new commercial market. They came and said, 'we need a billing system,' and once we did the blueprint, we figured out they actually needed to start selling before they started billing in order to reach their milestones." IT ended up deploying a sales system first.
+
+The structure of the organization nurtures this sort of collaborative decision-making. "We have the technology organizations matrixed with the program management organizations that are aligned with the business functions. They understand the business needs and the people and the direction, so as we manage project work and new project work comes in, we're not having to relearn. You're not going from doing a customer care initiative to a sales initiative to an infrastructure initiative. You're working with a team."
+
+2. Make agility real
+
+Working collaboratively with business is a founding principle of agile development -- along with breaking deliverables into smaller chunks and deploying an easily reconfigurable infrastructure for dev, test, and deployment (the latter is a basic idea behind the devops trend). As Gerjets puts it, "We've built a factory to deliver to the business" with quicker time-to-market than ever before.
+
+A key area where agile development has made an enormous difference is in developing new DirecTV offers for customers, where change is constant. A data-driven framework that allows "offer configuration" instead of coding allows for rapid development. "We're at the point where we can pound out offers faster than we need them," says Gerjets. "We put protections in the framework so we don't even need to test them."
+
+But almost as important as agile development itself is the recognition that the agile model doesn't apply to everything. "We work with the business to determine where time-to-market really matters," he says. "If you try to be agile across an enterprise when you have a lot of legacy, it's very difficult to do, because your technology can't be agile. You might have agile processes, but if you have a 20-year-old billing system, you're never going to be able to do iterative releases."
+
+3. Separate demand management from delivery
+
+From an IT perspective, a key part of integration with business is dedicating staff to that relationship. In the DirecTV organization, this layer is known as demand management, where IT strategists work with business stakeholders to sketch out initial requirements.
+
+"Demand management is solely focused on working with the business, trying to figure out where the business is heading and what the strategy is," says Gerjets. "When they come up with ideas they have a modeling tool they put them into to generate cost estimations and time estimations that the business can then use to say: 'That one doesn't come close to making sense and that one does.'"
+
+As it turns out, making demand management a discrete function has been crucial to realizing the benefits of agility. Here's why: "Generally, in your traditional IT delivery world, according to almost every peer I've ever talked to, their delivery folks -- their developers, their designers -- are constantly pulled off of what they're doing to go estimate something that's never going to see the light of day." When you keep the best and the brightest of those creatives actually working on projects, rather than running estimates, time to market can drop dramatically.
+
+4. Keep things transparent
+
+IT organizations -- like any other -- have a natural tendency to reveal information that makes them look good and to hide information that could be seen as politically damaging. At DirecTV, says Gerjets, they have an ethos of keeping information about projects and their status as open as possible.
+
+"Trying to keep secrets is devastating," says Gerjets. "It ultimately just breaks trust. So having complete transparency takes the political pressure off and puts it all on the table -- and we're all working against facts versus opinion, fiction, or perception."
+
+Gerjets believes this transparency has had a beneficial effect on the business at large: "Through exposing the costing data and understanding the capacity of the organization, and understanding the timelines of what could be done, I've actually seem more collaboration across business groups, from the standpoint of them working through this stuff and figuring out for the business what is ultimately right."
+
+5. Learn from failure
+
+A key aspect of agility is simply trying more things -- which inevitably means an increase in the number of failed projects. That's why Gerjets and his crew created the F12 program, a 12-step plan to recover from the fear of failure, where employees inside and outside IT are encouraged to share videos and quizzes related to failed projects and create a collaborative learning experience.
+
+"Culturally, we really struggle here with putting stuff out that's not perfect," says Gerjets. "Because of the way we're architected, we have one billing system and one CRM and 20 million customers, so if we mess something up, we can really impact a lot of people." As someone who has seen projects crash and burn, and accumulated insight from those experiences, Gerjets knew that encouraging employees across the company to share their stories could provide lessons from which both IT and the business could benefit.
+
+F12 is a rare example of a successful internal gamification play. Under the rubric "Fearless. Focused. Failure!" the initiative encourages users to upload material, then rewards them with badges and points. Along the way, the company runs sentiment analysis on its internal social media platform as a way of determining how F12 is faring. Celebrating failure may sound unintuitive, but Gerjets feels strongly that unless you quell the fear of failure, you simply can't achieve the high performance that agility promises.
+
+6. Make exploring new technology a habit
+
+When I met Gerjets, he was in San Francisco to check out a couple of startups to determine if their solutions would be appropriate for DirecTV -- including Capriza, which offers an easy solution to skin legacy apps as mobile applications.
+
+Today, DirecTV is in the process of migrating from a legacy ATG e-commerce platform to one built on more modern, Internet-native technology -- including MongoDB and Node.js. The company is also committed to delivering applications that adhere to responsive Web design principles, which promises a consistent user experience across the full range of desktop and mobile devices.
+
+In addition, to enrich DirecTV's partner program, where third parties resell DirecTV content and services, Gerjets is in the process of publishing machine-addressable APIs using the Apigee API Exchange. And those APIs go beyond e-commerce. "We're also using that layer to abstract the UI experience," says Gerjets.
+
+Cloud and open source, both of which enable you to wade in without up-front financial commitments, support DirecTV's culture of experimentation. "It's a little different than your classic getting in bed with Oracle. We always have the option of shifting gears."
+
+Old-fashioned IT: No longer an option
+
+Most of us already realize the time-honored IT approach of "tell us what to do and we'll do it" won't work anymore. Either IT management agrees to do way too much and slips further and further behind -- or it points to all the other stuff in the queue and pushes back with "wait your turn!" regardless of which projects may yield the greatest business value. Either way, business stakeholders may turn elsewhere, such as random cloud services.
+
+The risks of business doing an end-run around IT are high, says Gerjets. "What happens is the business units go get their own cloud solutions and then come back to IT and say, 'Hey, we need these integrated because we just figured out our business flow goes cross-system.' And then IT says, 'Oh, we can't integrate it,' and looks even worse. It's almost like a vicious cycle if it heads that way, especially for IT organizations that have a bad relationship with the business."
+
+Not that Gerjets categorically discourages the use of public cloud services, but again, collaboration up front is key. During the selection phase, IT helps business units choose cloud services that can be integrated effectively.
+
+In the end, it's all about understanding what the business is about and where it wants to go -- and anticipating what the business needs to make decisions and jump on new opportunities.
+
+If you hadn't noticed, fewer people these days run around proudly proclaiming they "work in IT." That's not because they don't want to be identified with technology. It's because the idea of IT as an entity separate from business is old hat.
+
+This article, "6 lessons to learn from a happy IT organization," originally appeared at InfoWorld.com. Read more of Eric Knorr's Modernizing IT blog. And for the latest business technology news, follow InfoWorld on Twitter.

@@ -1,0 +1,35 @@
+It sounded like the side-plot from a Thomas Pynchon novel or, at least, a cheap paperback Pan-Pacific spy thriller: A scrambled piece of first-century BC Latin text run through Google Translate seemed to be cryptically carrying messages about “China’s Internet,” “NATO,” and “the Company,” the latter being a common code word for the CIA.
+
+Was it a secret code intelligence agencies were using to send messages in plain sight? A glitch? A hoax? Or worse, another viral marketing campaign? The computer security researchers who happened across the Lorem Ipsum Google Translate mystery, weren’t sure. And before they figured it out, the hidden messages suddenly stopped.
+
+Lorem Ipsum is placeholder text used in templates, mock-ups of web-pages, and typesetting in general. It’s typically made up of a section from Roman philosopher Cicero’s tract on good and evil De finibus bonorum at malorum, with Latin words added and removed so that its meaning becomes jibberish. It made the news recently showing up on buggy Affordable Care Act webpages.
+
+But even more recently, just a couple months ago, a cyber-security researcher who wants to be identified only as "Kraeh3n" was proofreading a document for a colleague that featured some normal Lorem Ipsum filler text when she noticed something peculiar. Google Translate was auto-detecting the Latin and translating "lorem ipsum" into the English word “China.”
+
+Kraeh3n started seeing other words too, like “Internet,” “government,” “police,” and “freedom” and immediately contacted another researcher, Michael Shoukry. The two played around with putting different combinations of the two words lorem and ipsum capitalized and uncapitalized into Google Translate, to similarly strange results.
+
+Variations on 'Lorem ipsum' and their equivalents, until recently, in Google Translate. Image via Krebs on Security
+
+For example, “lorem ipsum ipsum ipsum ipsum/Lorem ipsum ipsum ipsum lorem” translated to: “China is the winner/Thank you to the Internet.” Then they started experimenting by adding the Latin words “dolor,” “sit,” and “consectetur,” producing results like “consectetur Sit Sit Dolor” translating to “Russia May Be Suffering,” and “Lorem Sit Sit Lorem” to “China May Be Home.”
+
+In a way, the Lorem Ipsum mystery reveals our desire to read meaning into the meaningless.
+
+Google Translate works through crowdsourcing and hunting patterns in texts online that have already been translated by a human. For a language like Latin, there are fewer translated texts available and Google is likely to give more peculiar and buggy translations than for a more common language like French.
+
+Kraeh3n, though, was convinced this was not mere glitch or coincidence but something intentional. She told Brian Krebs, a computer security writer who later blogged about the phenomenon, “Translate [is] designed to be able to evolve and to learn from crowd-sourced input to reflect adaptations in language use over time. Someone out there learned to game that ability and use an obscure piece of text no one in their right mind would ever type in to create totally random alternate meanings that could, potentially, be used to transmit messages covertly.”
+
+All the more suspicious, at least for the conspiracy-theorists at heart, is the fact that on August 16, Google Translate changed. Now, “lorem” simply translated to “lorem.”
+
+In a way, the Lorem Ipsum mystery reveals our desire to read meaning into the meaningless. It’s like a 21st-century Voynich Manuscript, the medieval book written in either code or jibberish that’s vexed keen minds for centuries. Contemporary emporers thought the manuscript held alchemical secrets and elixir recipees, but they couldn’t deciper its alien alphabet. Neither could the same WWII cryptographers who had no problem cracking enemy codes.
+
+Although it’s debatable whether there is a real message in some unknown language or it’s just a 600 year old hoax, amateur cryptographers who tend toward the Romantic and obsessive still try. “At the heart of the drive to decode the document,” writes Reed Johnson, one such wannabe codecracker, “is a deep and secret desire for transcendent meaning.” That desire is strong in the drive to find some code within Lorem Ipsum too. It’s just state secrets rather than alchemical ones that seem to capture our imaginations today. Unfortunately though, the mystery of Lorem Ipsum seems to have been solved.
+
+According to an update from Tech Crunch, the strange results on Google Translate were part of the Def Con badge puzzle contest, a cryptographic Easter egg hunt that hacker 1o57 puts on every summer as a part of the annual convention in Las Vegas. As laid out by recaps of the challenge, one of the steps in the cryptographic game was a Lorem Ipsum poem that when run through Google Translate was converted into: “Let’s see if/We give/Pussycat Dolls/The Free Love/It can be used/Our goal is to ame/Our goal is to/vehicle dimensions/Free of pain/China, elsewhere/Free Internet/China loves/NATO.”
+
+'Pussycat Dolls' and 'NATO' were just clues in a scavenger hunt for cypherpunks.
+
+Since the challenge, this translation no longer works. Though it’s unconfirmed how or whether 1o57 hacked Translate prior to the tournament—so far he hasn’t replied to my request for comment—it seems that the hidden meanings in Lorem Ipsum were just part of the game. “Pussycat Dolls” and “NATO” were just clues in a scavenger hunt for cypherpunks.
+
+At the end of Cicero’s text on good and evil that Lorem Ipsum bastardizes, the philosopher fails to come to a conclusion about what the best definition of good is—is it the absence of pain? A virtuous life? Happiness? Although there wasn’t any message or hidden code in the Lorem Ipsum translations beyond a jibberish poem, maybe there still is some meaning and a clue at the enigmatic concept of goodness in the very nature of the puzzle game it was a part of.
+
+There isn’t really a point to the game, although there’s a point to decentralizing the skills the game uses. There’s a point to these skills not being monopolized by centralized security agencies with nefarious aims. Maybe there’s a message there about one idea of the nature of good and evil, bonorum at malorum, today. Or maybe, I’m just likewise reading meaning into something meaningless.

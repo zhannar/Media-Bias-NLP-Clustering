@@ -1,0 +1,59 @@
+It’s clear that American tech companies are pushing their respective cloud services abroad as fast as possible at a time when suspicion of American tech companies abroad is growing thanks to the never-ending Edward Snowden revelations.
+
+This poses an interesting problem both for those companies and the U.S. government that appears bent on being able to unencrypt the best encryption those companies (or anyone else for that matter) brings to bear.
+
+Advertisement
+
+We know that US tech companies feel that news of NSA snooping is hurting their prospects both at home and abroad. We also know the government thinks it needs to protect us. But news of the last few weeks — Amazon(s amzn) and IBM(s ibm) planning to open up cloud services in China, for example — seems to indicate that things are moving along.
+
+Advertisement
+
+Amazon Web Services CTO Werner Vogels recently told Om that international expansion is hot, hot, hot for the company which, including its new China operation, fields full regions out of Tokyo, Singapore, Sydney, Dublin, and Sao Paulo in addition to its North America regions.
+
+Advertisement
+
+Advertisement
+
+The theory is that just as countries without good fixed-line telephony were able to soar past that problem with the mobile phone revolution, the advent of cloud services and cheap endpoints will help these countries progress fast.
+
+Advertisement
+
+“The cloud is eliminating the need for IT infrastructure and as a result we are starting to see cloud just catch up internationally, and how businesses are changing as a result,” Vogels said.
+
+Advertisement
+
+It’s not too difficult to conclude that China is just the beginning of planned new AWS regions around the world I’ve bet in the past that, given data sovereignty concerns spiked by NSA gate, Amazon will set up a slew of localized GovCloud type regions where it can guarantee that data that’s mandated to stay in country will, in fact, stay in country. The new Beijing-based AWS region sounds a lot like that.
+
+Advertisement
+
+Of course, China has some huge companies forging into cloud as well. China Telcom, China Unicom, Alibaba’s Alyun division — will all compete with AWS both inside China and beyond.
+
+Advertisement
+
+Open Data and what it can do for you
+
+Advertisement
+
+Jonathan Reichental, the CIO of the city of Palo Alto, talked to us about the government’s Open Data push and why it could be a very big deal for citizens. Check out the most recent Structure Show podcast to see why.
+
+Advertisement
+
+Advertisement
+
+More cloud computing news from around the web
+
+Advertisement
+
+Can Paypal help make this the year OpenStack grows up? A 2014 forecast for cloud computing
+
+Advertisement
+
+Global IT spending outlook better but sub-par for 2014, Forrester says
+
+Advertisement
+
+OpenStack needs more than Red Hat
+
+Advertisement
+
+The best and worst performing cloud computing stocks of 2013

@@ -1,0 +1,21 @@
+Two of the biggest names in the venture capital world announced today that they're getting behind a libertarian-themed tech project—a vote of confidence for an experimental enterprise that aims to facilitate free and "censorship resistant" trade.
+
+OpenBazaar, a decentralized peer-to-peer marketplace that utilizes the Bitcoin blockchain, is getting $1 million in backing from Andreessen Horowitz and Union Square Ventures, two of the most influential backers in the cryptocurrency space. Toronto-based angel investor William Mougayar has contributed additional seed funding to the venture.
+
+The goal of OpenBazaar is to give everyone in the world "the ability to directly engage in trade with anyone in the world, for free," says the 32-year-old project leader, Brian Hoffman. With OpenBazaar, "the market participants decide what happens on the network, instead of eBay, Etsy, or some guy in an office building," Hoffman said in a phone interview.
+
+OpenBazaar is one of several decentralized peer-to-peer marketplaces that takes advantage of recent breakthroughs in computer science to allow individuals to transact with each other without the oversight of a third party. In the same way that the Internet enabled individuals to share information without going through a news organization or a publishing company, these platforms seek to remove the middleman from all forms of trade. The hope is that they'll eventually eliminate the need for marketplace operators like eBay, Uber, and even the New York Stock Exchange.
+
+OpenBazaar is built on code written by the virtuoso software developer Amir Taaki at the 2014 Toronto Bitcoin Hackathon. It enables peer-to-peer transactions by integrating aspects of the Bitcoin blockchain with a file-sharing system that's similar to BitTorrent. It's initially being developed as an ecommerce platform—a decentralized version of eBay—but in the future, its protocol could be adapted to facilitate peer-to-peer transactions of all sorts.
+
+The purpose of OpenBazaar is to promote unfettered trade. When I first interviewed him last December, Hoffman told me that he was inspired in part by getting to know his wife's Iranian family. "It gave me a first-hand look at how hard it is for people to conduct any kind of online commerce across borders," he said. "Just to get an iPhone in Iran is such an encumbering process."
+
+Hoffman and his team faced a problem that's common to all developers of decentralized applications: If nobody's making money running the show, who's going to pay the salaries of the core developers? Up until now, OpenBazaar's programmers have been volunteering their nights and weekends, but that "wasn't cutting it," Hoffman says.
+
+So the OpenBazaar team formed a for-profit venture called "OB1," which is the direct recipient of the venture capital funding that was announced today. Hoffman says that OB1 will eventually provide ancillary services on the platform, such as hosting listings and arbitrating disputes between buyers and sellers for a fee. But until it has customers for these services, the company will focus full time on core development.
+
+The biggest hurdle ahead will be enticing merchants to start selling their products through this decentralized marketplace. eBay takes about a 10 percent cut of every sale, while OpenBazaar is free to use. But there are network effects at play. The OpenBazaar team will need to convince sellers that a critical mass of customers will find their products if they list them on its experimental platform.
+
+Hoffman says he hopes to raise more funding for advertising and promotion, and having the imprimatur of Andreessen Horowitz and Union Square Ventures should help with that considerably.
+
+For more on the promises and pitfalls of decentralized peer-to-peer marketplaces, and a description of how the OpenBazaar protocol works, check out my feature story from Reason's May 2015 issue: "Bitcoin and the Cyperpunks: Will recent breakthroughs in computer science make truly free markets a reality?"

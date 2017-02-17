@@ -1,0 +1,75 @@
+SANTA CLARA, Calif.--(BUSINESS WIRE)--Running a smooth infusion center can be difficult — long patient wait times, unexpected delays, unhappy nurses and high overtime levels seem to be the norm. However, lean practices and data analytics, proven successful in other industries like automobile manufacturing, are now transforming healthcare.
+
+Click to tweet this news.
+
+LeanTaaS Inc., a healthcare analytics software company, today released the LeanTaaS ROI Calculator to help its customers and prospects — hospitals, cancer centers and infusion clinics — estimate and then measure the performance impact of applying LeanTaaS iQueue to a cancer center’s infusion operations. By deploying iQueue for Infusion, LeanTaaS customers have been able to serve 20 percent more patients at lower costs while reducing patient wait times more than 30 percent. The average annual per chair financial margin improvement of using iQueue for Infusion is $20,000. So, an infusion center with 30 chairs should be able to improve its bottom line by an estimated $600,000.
+
+The LeanTaaS ROI Calculator can be found at http://leantaas.com/iqueue_for_infusion/roi-calculator.
+
+Healthcare Operations Are Like Playing Tetris
+
+“Running an optimized healthcare operation doesn’t mean adding more chairs or hiring more nurses,” explained Mohan Giridharadas, founder and CEO at LeanTaaS. “It’s playing Tetris with very large numbers well.”
+
+Case in point: A typical daily pattern in an infusion center is that the day starts slow, then things get really busy in the middle of the day, and then it slows down again.
+
+Underlying this pattern are the three bigger systemic problems:
+
+Long patient wait times, which translate to unhappy patients and overworked nurses
+
+Fewer patients served, which results from underutilized resources
+
+Higher labor costs, due to increased staffing levels during peak periods
+
+Over the last couple of years, LeanTaaS has worked with several infusion centers on solving this problem. Solving it requires moving from a peak “triangular” profile of chair utilization to a level-loaded, flatter “trapezoid” profile, similar to strategically playing Tetris. Getting to this flatter utilization profile can help healthcare organizations serve 20 percent more patients with reduced labor costs on a per-treatment basis, similar to winning at Tetris. The aggregate financial impact can be as much as $20,000 per chair per year.
+
+“If you want to get to a flat utilization profile and see more patients every day, you need to steer patient appointments into a precise “fingerprint” pattern that is unique for each center for each hour of each day,” added Giridharadas.
+
+How to Win at Tetris — and Healthcare Operations
+
+The solution to this problem lies in understanding and employing the game of Tetris. If an institution can “slot” all treatments in a day perfectly without any “gaps,” underutilization would be avoided in the mornings and evenings, and overutilization would be avoided in the afternoons. That means more unlocked capacity (and hence, more patients seen), higher revenue, less operational cost, and happy patients and providers.
+
+Optimizing Patient Scheduling Frees Up Capacity and Has Large Benefits
+
+First Step: Mine the pattern of prior appointments in order to develop a realistic estimate of the volume and mix of appointment types for each day of the week going forward.
+
+Second Step: Impose the real operational constraints in the clinic (e.g., the hours of operation, doctor and nurse schedules, the number of chairs, various “rules” that depend on clinic schedules, as well as patient-centric policies such as treatments longer than four hours should be assigned to a bed and not a chair).
+
+Third Step: Constraint-based optimization techniques can be applied to create the optimal “fingerprint pattern” of “slots,” which reflects the number of appointments for each duration for each hour of each day of the week.
+
+In the case of an infusion center, that means a revised scheduling template that helps schedulers see how many one-hour duration, three-hour duration and five-hour duration slots can be made available at each possible start time.
+
+Doing this optimally results in moving the chair utilization graph from the “triangle” that peaks somewhere between 11:00 a.m. and 2:00 p.m. to a “trapezoid” that ramps up smoothly between 7:00 a.m. and 9:00 a.m., stays mostly flat from 9:00 a.m. until 4:00 p.m. and then ramps down smoothly from 4:00 p.m. onward.
+
+Estimating the Potential Impact from “Playing Tetris Right”
+
+Drawing on a mid-sized North American university infusion center, the following facts were collected:
+
+30 infusion chairs
+
+$300 reimbursement per treatment
+
+70 treatments on a typical weekday
+
+8 nurses on the floor in the middle of a typical weekday
+
+20 percent overtime pay on average
+
+$80,000 salary per year per nurse
+
+10 percent growth in projected patient volumes per year
+
+After running the LeanTaaS ROI Calculator, a Tetris-approach to patient scheduling was measured to deliver the following operational improvements:
+
+20 percent higher patient volumes 30 percent reduction in patient wait times at the peak $546,000 increase in revenue $128,000 reduced labor costs from dramatically lowering overtime levels $674,000 total savings ($22,466 per chair per year)
+
+“Optimized slotting or ‘level loading’ of patients, if done right, can be the easiest way to improve patient access and your bottom line — driving more revenue by avoiding underutilization and reducing operational cost by avoiding overutilization,” concluded Giridharadas.
+
+For more information about LeanTaaS, please visit http://www.leantaas.com. To get breaking LeanTaaS news, follow the company on Twitter @LeanTaaS, Facebook at https://www.facebook.com/LeanTaaS and LinkedIn at https://www.linkedin.com/company/leantaas.
+
+About LeanTaaS
+
+LeanTaaS is a Silicon Valley software company using advanced data science to significantly improve operational performance. Its healthcare analytics products include LeanTaaS iQueue™ Healthcare Suite, which is being used by healthcare institutions to optimize scheduling that can rapidly reduce patient wait times and operating costs while increasing patient access, asset utilization, and overall patient and care provider satisfaction ratings. For more information about LeanTaaS, please visit http://www.leantaas.com. To get breaking LeanTaaS news, follow the company on Twitter @LeanTaaS, Facebook at https://www.facebook.com/LeanTaaS and LinkedIn at https://www.linkedin.com/company/leantaas.
+
+LeanTaaS and LeanTaaS iQueue are trademarks of LeanTaaS. All other brand names and product names are trademarks or registered trademarks of their respective companies.
+
+Tags: LeanTaaS, iQueue, healthcare, healthcare analytics, healthcare operations, ROI, hospitals, cancer centers, infusion centers, oncology, Affordable Care Act, Obamacare, data science, data analytics, big data, scheduling, patient flow, lean practices, optimization, risk analytics, risk management

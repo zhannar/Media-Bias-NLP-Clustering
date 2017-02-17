@@ -1,0 +1,55 @@
+For decades, medical technology firms have searched for ways to let diabetics check blood sugar easily, with scant success. Now, the world's largest mobile technology firms are getting in on the act.
+
+Apple Inc (AAPL.O), Samsung Electronics Co (005930.KS) and Google Inc (GOOG.O), searching for applications that could turn nascent wearable technology like smartwatches and bracelets from curiosities into must-have items, have all set their sites on monitoring blood sugar, several people familiar with the plans say.
+
+Related: Smartwatches - Must-Have Wearable or Niche Product?
+
+These firms are variously hiring medical scientists and engineers, asking U.S. regulators about oversight and developing glucose-measuring features in future wearable devices, the sources said. The first round of technology may be limited, but eventually the companies could compete in a global blood-sugar tracking market worth over $12 billion by 2017, according to research firm GlobalData.
+
+Diabetes afflicts 29 million Americans and costs the economy some $245 billion in 2012, a 41 percent rise in five years. Many diabetics prick their fingers as much as 10 times daily in order to check levels of a type of sugar called glucose. Non-invasive technology could take many forms. Electricity or ultrasound could pull glucose through the skin for measurement, for instance, or a light could be shined through the skin so that a spectroscope could measure for indications of glucose.
+
+"All the biggies want glucose on their phone," said John Smith, former chief scientific officer of Johnson & Johnson's LifeScan, which makes blood glucose monitoring supplies. "Get it right, and there's an enormous payoff."
+
+Related: Wearable Health Record Debuts on Google Glass
+
+Apple, Google and Samsung declined to comment, but Courtney Lias, director at the U.S. Food and Drug Administration's chemistry and toxicology devices division, told Reuters a marriage between mobile devices and glucose-sensing is "made in heaven." In a December meeting with Apple executives, the FDA described how it may regulate a glucometer that measures blood sugar, according to an FDA summary of the discussion.
+
+Such a device could avoid regulation if used for nutrition, but if marketed to diabetics, it likely would be regulated as a medical device, according to the summary, first reported by the Apple Toolbox blog. The tech companies are likely to start off focusing on non-medical applications, such as fitness and education.
+
+Even an educational device would need a breakthrough from current technology, though, and some in the medical industry say the tech firms, new to the medical world, don't understand the core challenges.
+
+"There is a cemetery full of efforts" to measure glucose in a non-invasive way, said DexCom chief executive Terrance Gregg, whose firm is known for minimally invasive techniques. To succeed would require "several hundred million dollars or even a billion dollars," he said.
+
+Poaching
+
+Silicon Valley is already opening its vast wallet. Medtronic Inc (MDT.N) Senior Vice President of Medicine and Technology Stephen Oesterle recently said he now considers Google to be the medical device firm's next great rival, thanks to its funding for research and development, or R&D. “We spend $1.5 billion a year on R&D at Medtronic – and it’s mostly D,” he told the audience at a recent conference. “Google is spending $8 billion a year on R&D and, as far as I can tell, it’s mostly R.”
+
+Related: Is Wearable Tech Already Going Out of Fashion?
+
+
+
+Google has been public about some of its plans: it has developed a "smart" contact lens that measures glucose. In a blog post detailing plans for its smart contact lens, Google described an LED system that could warn of high or low blood sugar by flashing tiny lights. It has recently said it is looking for partners to bring the lens to market.
+
+The device, which uses tiny chips and sensors that resemble bits of glitter to measure glucose levels in tears, is expected to be years away from commercial development, and skeptics wonder if it will ever be ready.
+
+Previous attempts at accurate non-invasive measurement have been foiled by body movement, and fluctuations in hydration and temperature. Tears also have lower concentrations of glucose, which are harder to track. But the Life Sciences team in charge of the lens and other related research is housed at the Google X facility, where it works on major breakthroughs such as the self-driving car, a former employee who requested anonymity said.
+
+Apple's efforts center on its iWatch, which is on track to ship in October, three sources at leading supply chain firms told Reuters. It is not clear whether the initial release will incorporate glucose-tracking sensors.
+
+Still, Apple has poached executives and bio-sensor engineers from such medical technology firms as Masimo Corp (MASI.O), Vital Connect, and the now-defunct glucose monitoring startup C8 Medisensors.
+
+"It has scooped up many of the most talented people with glucose-sensing expertise," said George Palikaras, CEO of Mediwise, a startup that hopes to measure blood sugar levels beneath the skin's surface by transmitting radio waves through a section of the human body.
+
+The tech companies are also drawing mainstream interest to the field, he said. "When Google announced its smart contact lens, that was one of the best days of my career. We started getting a ton of emails," Palikaras said.
+
+Samsung was among the first tech companies to produce a smartwatch, which failed to catch on widely. It since has introduced a platform for mobile health, called Simband, which could be used on smart wrist bands and other mobile devices. Samsung is looking for partners and will allow developers to try out different sensors and software. One Samsung employee, who declined to be named, said the company expects to foster noninvasive glucose monitoring.
+
+Sources said Samsung is working with startups to implement a “traffic light” system in future Galaxy Gear smartwatches that flashes blood-sugar warnings. Samsung Ventures has made a number of investments in the field, including in Glooko, a startup that helps physicians access their patients' glucose readings, and in an Israeli glucose monitoring startup through its $50 million Digital Health Fund.
+
+Ted Driscoll, a health investor with Claremont Creek Ventures, told Reuters he's heard pitches from potentially promising glucose monitoring startups, over a dozen in recent memory.
+
+Software developers say they hope to incorporate blood glucose data into health apps, which is of particular interest to athletes and health-conscious users. "We're paying close attention to research around how sugar impacts weight loss," said Mike Lee, cofounder of MyFitnessPal.
+
+After decades of false starts, many medical scientists are confident about a breakthrough on glucose monitoring. Processing power allows quick testing of complex ideas, and the miniaturization of sensors, the low cost of electronics, and the rapid proliferation of mobile devices have given rise to new opportunities.
+
+One optimist is Jay Subhash, a recently-departed senior product manager for Samsung Electronics. "I wouldn't be at all surprised to see it one of these days," he said.

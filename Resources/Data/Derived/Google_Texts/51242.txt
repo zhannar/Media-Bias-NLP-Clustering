@@ -1,0 +1,29 @@
+Topics: Dream City, lyft, ride-sharing, sharing economy, taxis, uber, Innovation News, Sustainability News, News
+
+There’s a popular meme that circulates among the Internet’s urbanists every few months. Taken from above a city street, the photo shows a small crowd of pedestrians alongside a bus. Behind them is a pack of cyclists. Stretching into the background is a long line of cars.
+
+The image and its many variations illustrate how different modes of movement require vastly different amounts of space. A block-long traffic jam has the human population of a bus, or a busy crosswalk.
+
+That depends, of course, on a fact of car use in the developed world: Cars fit five, but people mostly drive alone. In 2009, according to the American Community Survey, nearly nine in 10 U.S. car commuters drove to work by themselves.
+
+How much space and time could be saved if urbanites were willing and able to share rides? How much traffic and pollution avoided?
+
+A groundbreaking study from the Massachusetts Institute of Technology goes some way toward answering those questions. The researchers, led by Dr. Paolo Santi, developed and applied a “shareability” algorithm to a year-long record of New York City taxi rides.
+
+The average cab ride, they found, could be shared with any of a hundred other riders.
+
+If New Yorkers were willing to share a taxi with just one other party, and tolerate a maximum of 150 seconds of additional travel time, approximately 70 percent of NYC cab rides could be shared. Taxi travel time would drop by 25 percent. The total distance traveled by New York City cabs would fall by 40 percent, relieving traffic, reducing air pollution and speeding up travel for everyone else on the road.
+
+To put that 40 percent figure in perspective, consider that when Paris instituted alternate driving days in March (odd-numbered plates one day, evens the next), traffic dropped by a comparatively meager 20 percent. Though New York has only 13,500 registered cabs, they are nearly always in motion. With 400,000 rides into, out of and within Manhattan per day, cabs make up a sizable share of traffic in the most congested part of the city.
+
+Sharing a ride is common practice elsewhere in the world. In Algiers, taxi collectifs heading to popular destinations pick up passengers en route as a matter of course. In Nairobi, the colorful mutatu fleet is a fixture on the roads. Nearly every city in the world (including New York) has some form of transportation that operates as a cross between a bus and a taxi.
+
+A more tech-savvy form of car-sharing has begun to work for long-distance trips — witness the success of Germany’s Carpooling, Canada’s Kangaride, or Britain’s Liftshare. And then there’s always the non-monetary car-share economy: carpooling and hitchhiking.
+
+But as smartphones revolutionize the transportation industry, New York has the potential to inaugurate a rather unique taxi-share program, with rides as prompt, direct and trustworthy as in a cab — but for as little as half the price.
+
+The research was made possible by a unique experiment the city performed in 2011. That year, 150 million cab trips started or ended in Manhattan. The city tracked the time and location of every pickup and drop-off. You can see it visualized at the study’s website, and watch how ride-share possibilities fluctuate based on time of day and rider preferences.
+
+A number of variables are at play here. How much time is a passenger willing to add to his or her trip? How many parties can share one cab? And how much time elapses until a taxi route stops considering possible pickups?
+
+The researchers graph these and other variables in the study, published this week in the Proceedings of the National Academy of the Sciences. If passengers were willing to add up to five minutes to a journey, for example, approximately 90 percent of New York cab rides could be shared. Interestingly, there’s no sizable benefit to sharing a ride between three parties as opposed to two, at least with “delay times” under three minutes.

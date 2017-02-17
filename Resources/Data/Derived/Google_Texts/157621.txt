@@ -1,0 +1,29 @@
+“When he hugged me with two hands, he just didn’t let go!”
+
+Those were the words from the mother of a 6 year old boy, named Alex, who just became the recipient of the world’s first ever 3D printed myoelectric prosthetic arm. Thanks to a man named Albert Manero, one little boy has finally realized his dream of being able to hug his mother using two arms – his first ever “real hug”, according to him.
+
+Albert Manero is an Aerospace Engineer Doctoral student at the University of Central Florida. He was put in contact with Alex via e-NABLE, a community of volunteers that share ideas and design files for 3D printing prosthetics, as well as stories, in hopes of providing as many quality 3D printed prosthetic hands and arms, to as many children that they possibly can. We’ve done countless stories on e-NABLE in the past, where children have been given the opportunity to utilize both hands for the first time in their lives.
+
+This story is a bit different though because Alex was born missing, not only his hand, but his entire right arm from just above his elbow. What Manero did was something that has not been done ever before. He created a 3D printed myoelectric arm, that responds to the electromyography muscle energy in Alex’s bicep. “He flexes his bicep and it opens or closes his hand,” Manero told 3DPrint.com.
+
+Growing up as a little boy without an arm certainly is not an easy thing to do. Alex was happy being himself though, and even though he was missing one of his arms, he always would try his best to participate in the same activities as his friends, using the one arm he was given. Unfortunately though, Alex said that as he has grown older, it was beginning to get quite a bit harder to keep up with those friends.
+
+Children fall victim to insurance companies that typically don’t cover prosthetic devices for individuals who are under 18 years of age. This is because children are constantly outgrowing any devices that they are fitted with, thus causing medical bills to add up very quickly. Also devices for children must be produced on a smaller scale, using smaller electronics and more difficult assembly methods.
+
+When Albert Manero heard about Alex’s story, he decided to put a team together of individuals who he believed would be able to help him create a myoelectric prosthetic arm for the little boy. Thanks in part to 3D printer manufacturer Stratasys, who donated some of the supplies, Manero and his team were able to 3D print, and assemble an entire working myoelectric arm for under $350. Similar prosthetic arms would cost over $40,000 to purchase, without the backing of health insurance.
+
+To construct the hand, Manero told us that they used a Stratasys Dimension Elite FDM 3D Printer, and the entire process took between 6-8 weeks to accomplish. The design for the hand was taken from Steve Wood’s open source Flexy-Hand.
+
+Manero told us that he is in the process of uploading the design files and instructions to Thingiverse, so that anyone can download and print out their own arm. The electronic portion of the arm was created using off-the-shelf servos and several batteries.
+
+“My mother taught us that we’re supposed to help change the world,” explained Manero. “We’re supposed to help make it better. That’s why we did it. The look on Alex’s face when he used it for the first time was priceless.”
+
+Manero hopes that his design will help many more children and adults in need of prosthetic arms, find a quality, totally customizable solution that is extremely affordable. I know for a fact that it will.
+
+“We’ve already heard from another family who needs an arm,” Manero stated. “We’re committed to helping who we can and I’ll be working with my team even when in Germany. I think 3-D printing is revolutionizing our world in many ways. I believe changing the world of prosthetics is very real. There’s no reason why this approach shouldn’t work on adults too.”
+
+I’ve been covering e-NABLE for almost a year now, and it is amazing to see just how quickly the 3D printed prosthetic hands and arms have developed, thanks to the open sourcing of the available designs. Individuals have created several innovative designs, and due to these designs being open source, others have taken them and improved upon them. Now thanks to the 1,000 plus e-NABLE members, Steve Wood for his Flexy-Hand invention, and Albert Manero, now anyone will be able to download and 3D print their own myoelectric prosthetic arms. I’m anxious to see what happens next….
+
+What do you think about this incredible breakthrough in 3D printed prosthetics? Discuss in the 3D Printed Myoelectric Arm forum thread on 3DPB.com
+
+[Via ucf e-NABLE ] [Images by Kt Crabb Photography

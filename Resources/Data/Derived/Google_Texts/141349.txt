@@ -1,0 +1,31 @@
+The smartphone is already an incredible device. Besides the standard fare of calling, texting, and sending pictures of cats, the app ecosystem has extended the abilities of phones in surprising ways. Now, in just a few years, Waze has replaced the GPS, Google Maps has replaced old paper road maps, and the broadsheet newspaper has been shrunk down and folded neatly into e-reading apps like InstaPaper and Pocket.
+
+But you probably already knew all that. After all, “There’s an app for that” became Apple’s ubiquitous catchphrase during the smartphone boom a few years ago as developers piled into the Apple App Store and Google Play. What you may not have known is that while both app stores still remain bustling economies, a few really handy features lurk by default in the Apple and Android operating systems. Getting a hang of these native-but-hidden features can really help you get the most out of your phone:
+
+Related: Look, Ma, No Wires—Tables That Can Charge Smartphones
+
+Tethering: Say goodbye to unreliable coffee shop Wi-Fi forever. Tethering turns your phone into a miniature router, creating a personal wireless hotspot that sucks from your data plan. It’s handy for airports, bus rides, hotels, and pretty much anywhere else where Wi-Fi is pay-walled or otherwise unavailable. Combine with an unlimited data plan for best results.
+
+While this is natively part of Apple and Android’s software, some wireless carriers may block access to it, though the block can be circumvented with a little jailbreaking tweak. More on that later.
+
+On an iPhone, enable tethering via Settings -> Personal Hotspot. If such a setting doesn’t exist, it may be blocked by your carrier. Also, be aware that turning your phone into a miniature router can be a massive battery suck, so only use it when you need it.
+
+Wi-Fi Calling: Let’s say you know you’re about to have a very drawn-out phone call, maybe to Grandma or the DMV. You might want to enable this handy-dandy option, which can be enabled on T-Mobile and Sprint iPhones. It does pretty much what it says on the tin – connects to your home’s Wi-Fi and uses that connection to make the call, rather than using your cell service. Why would you want to do this? Well, for areas with somewhat weak service, this will prevent dropped calls and garbled speech. Additionally, under some plans, calls placed through Wi-Fi don’t eat into your plan’s minutes.
+
+On an iPhone, you can enable Wi-Fi Calling by going to Settings -> Phone -> Wi-Fi Calls and switching the setting to the “on” position.
+
+Related: We’re All Becoming Distracted Victims of Smartphones
+
+Other photography buttons: Not everyone is a fan of taking selfies, but if you are, you might find the standard “take picture” button a little tricky to press with your arm crooked towards your gleaming mug. Luckily, Apple has built in a solution to this conundrum by adding some more accessible ways of taking a picture (without forcing you to resort to the dreaded selfie stick). The raise/lower volume buttons will also take a photograph when in photo mode. If you use the standard Apple headphones, the volume controls on there will also snap a pic.
+
+iPhone Spirit Level People are often surprised to learn that their iPhone contains a fully-functioning compass, even though it lurks by default in the home screen under “utilities.” But hidden within that little function is something else: swipe right once on the compass tool and voila! A perfectly-functioning level that uses your phone’s built-in gyroscope. A handy tool to have when hanging a picture or shelf – just be careful your phone doesn’t fall off and crack.
+
+Accessibility Button Hidden in the depths of your iPhone’s settings lurks a setting entitled “Accessibility Shortcut.” This handy setting allows you to assign an action to three presses of your iPhone’s “Home” button. For example, you can set the phone to “invert colors” to switch your phone’s display to a white-text-on-black-background setup, handy for reading at night or glancing at your phone in a movie theater.
+
+The accessibility shortcut can be found under Settings -> General -> Accessibility.
+
+Related: The Amazingly Stupid Things Smartphone Users Do While Driving
+
+Jailbreaking (We do not recommend you try this unless you understand the risks involved): Okay, so this one breaks the mold a bit, but it had to be mentioned. It may not be 100 percent supported by Apple, can void your warranty, and also stands a teensy chance of turning your phone into a very expensive paperweight, but Jailbreaking is a surefire way of getting more out of your phone. And yes, it is legal, at least in the United States. Jailbreaking your phone gives you access to the Cydia app store – an unofficial black market of apps not allowed in Apple’s default app store for various reasons. These include F.lux, which alters the color balance of your phone to mitigate the insomniac effects of blue light, a host apps to modify the look and feel of your phone, as well as TetherMe, an app that works around the carrier-enforced block on tethering.
+
+Given the fact that jailbreaking can wreck your phone or delete data if done improperly, we’re not going to explain how it’s done here, though it’s easy to find a wealth of info through the magic of Google.

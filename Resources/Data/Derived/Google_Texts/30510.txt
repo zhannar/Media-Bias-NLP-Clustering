@@ -1,0 +1,27 @@
+This image of a human glioblastoma brain tumor in the brain of a mouse was made with stimulated Raman scattering, or SRS, microscopy. The technique allows the tumor (blue) to be easily distinguished from normal tissue (green) based on faint signals emitted by tissue with different cellular structures.
+
+This image of a human glioblastoma brain tumor in the brain of a mouse was made with stimulated Raman scattering, or SRS, microscopy. The technique allows the tumor (blue) to be easily distinguished from normal tissue (green) based on faint signals emitted by tissue with different cellular structures. Xie lab, Harvard University | Science Translational Medicine
+
+Harvard and University of Michigan (U-M) scientists have developed a high-resolution imaging technique with a laser that makes it easier to identify and surgically remove brain tumors, according to a report in the journal Science Translational Medicine.
+
+"Though brain tumor surgery has advanced in many ways, survival for many patients is still poor, in part because surgeons can't be sure that they've removed all tumor tissue before the operation is over," said co-lead author Dr. Daniel Orringer, a lecturer in the U-M Department of Neurosurgery.
+
+The discovery relies on Raman scattering, a physics phenomena whereby shining a laser on an object emits a unique color pattern of scattered light that represents its chemical composition.
+
+Dubbed stimulated Raman scattering (SRS) microscopy, the new imaging system provided a color-coded map that the researchers used to distinguish between healthy brain tissue and gliobastoma, the most common and most lethal form of primary brain cancer.
+
+Tumor cells underneath the high-powered laser became blue, while normal cells remained green, providing an accurate and faster guide for removing the cancer tissue from the mouse brains. The laser even yielded enough resolution for the scientists to observe invading tumor cells as they poked and prodded a path into fallow parts of the brain.
+
+When they first switched on the laser, the resulting image was too weak, but with a little tweaking they were able to boost it 10,000-fold. The laser is non-invasive, meaning it doesn’t cause any damage to the tissue when shined onto the brain.
+
+SRS microscopy had the same level of accuracy when double-checked with a standard procedure called H&E staining. In addition, it could distinguish between biopsied human samples of gliobastoma and regular tissue placed in a Petri dish.
+
+"For more than 100 years, Hematoxylin and eosin (H&E) stain has been the gold standard for this type of imaging," said co-lead author Dr. Xiaoliang Sunney Xie, the Mallinckrodt Professor of Chemistry and Chemical Biology at Harvard University.
+
+"But with this technology, we don't need to freeze the tissue, we don't need to stain tissue, and we don't need to biopsy — this acts like an optical biopsy, and allows us to identify the tumor margins at a cellular level. With this paper, we now have the proof of principle that this can be done in human brains in situ."
+
+These promising results suggest that SRS microscopy could soon make its way into the hospital.
+
+"We need better tools for visualizing tumor during surgery, and SRS microscopy is highly promising," Orringer continued. "With SRS we can see something that's invisible through conventional surgical microscopy."
+
+Source: Ji M, Orringer DA, Freudiger CW, et al. Rapid, Label-Free Detection of Brain Tumors with Stimulated Raman Scattering Microscopy. Science Translational Medicine. 2013.

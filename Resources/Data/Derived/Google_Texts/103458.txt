@@ -1,0 +1,15 @@
+Stanford University researchers Jonathon Mayer and Patrick Mutchler were skeptical when President Obama told the nation that the NSA is just collecting metadata and thus not violating Americans' privacy — so they investigated how easy it would be for someone to match metadata, which includes information about a caller's location, length, and number calls, with a caller's identity. They found it is "trivially" simple to do, even for those with limited funds and software.
+
+Mayer and Mutchler, computer scientists who study technology policy, decided to run an experiment testing the ease with which one can connect metadata to names. For the experiment, volunteers agree to use an Android app, MetaPhone, that allows the researchers access to their metadata. Mayer and Mutchler say that it was hardly any trouble figuring out who the phone numbers belonged to — and they did it in a few hours.
+
+From their blog:
+
+So, just how easy is it to identify a phone number? Trivial, we found. We randomly sampled 5,000 numbers from our crowdsourced MetaPhone dataset and queried the Yelp, Google Places, and Facebook directories. With little marginal effort and just those three sources—all free and public—we matched 1,356 (27.1%) of the numbers. Specifically, there were 378 hits (7.6%) on Yelp, 684 (13.7%) on Google Places, and 618 (12.3%) on Facebook. What about if an organization were willing to put in some manpower? To conservatively approximate human analysis, we randomly sampled 100 numbers from our dataset, then ran Google searches on each. In under an hour, we were able to associate an individual or a business with 60 of the 100 numbers. When we added in our three initial sources, we were up to 73. How about if money were no object? We don’t have the budget or credentials to access a premium data aggregator, so we ran our 100 numbers with Intelius, a cheap consumer-oriented service. 74 matched. Between Intelius, Google search, and our three initial sources, we associated a name with 91 of the 100 numbers.
+
+The researchers conclude that, "If a few academic researchers can get this far this quickly, it’s difficult to believe the NSA would have any trouble identifying the overwhelming majority of American phone numbers."
+
+The study confirms what numerous critics of the NSA have been saying. A professor speaking on behalf of the ACLU, for instance, said in an August court hearing testifying against the program:
+
+Although officials have insisted that the orders issued under the telephony metadata program do not compel the production of customers’ names, it would be trivial for the government to correlate many telephone numbers with subscriber names using publicly available sources. The government also has available to it a number of legal tools to compel service providers to produce their customer’s information, including their names.
+
+Some government officials also aren't buying the story that bulk collection of "just metadata" is harmless. In his preliminary injunction against the program last week, Judge Richard Leon said:

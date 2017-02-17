@@ -1,0 +1,37 @@
+10 Ways To Strengthen Healthcare Security
+
+As recent hacks show, keeping a healthcare organization safe from security threats takes planning, technical expertise, and business knowledge. Has your team taken these 10 steps?
+
+1 of 11
+
+In the wake of the Community Health Systems breach and FBI warnings about healthcare organizations' vulnerability, security has advanced to the top of many industry executives' to-do lists.
+
+Real safeguards and policy implementations, however, speak louder than any number of crisis meetings. Securing any healthcare organization -- from a solo practice to multi-location hospital systems -- takes measured planning, technical expertise, and business knowledge. It's the only way security professionals can balance their quest for impenetrable devices and software against medical users' demand for easy, accessible data and tools.
+
+"New regulations tied to the Affordable Care Act are now in effect regarding protected health information and electronic health records, which only underscores the need for data security to ensure privacy among patients," said Fred Chang, director of Darwin Deason Institute for Cyber Security, and Bobby B. Lyle, Endowed Centennial Distinguished Chair in Cyber Security at the Lyle School of Engineering at Southern Methodist University, in a statement. "Cyberspace can be a pretty bad neighborhood, with too few barriers standing between hackers and their targets. Healthcare providers recognize that data security is of vital importance to their business."
+
+Healthcare organizations are particularly vulnerable. They house both personal health and payment information, plus intellectual property -- all lucrative targets for hackers. But most employees want to heal people, not become technologists, and might view technology protections as healthcare speed bumps. As providers, payers, employees, patients, and partners become increasingly intertwined through shared data, transparency, and analytics, the opportunities for loss, error, or theft grow exponentially.
+
+Within healthcare, 46% of all breaches occurred via theft or loss, while insider abuse caused 15% of incidents, and point-of-sale intrusion generated 9% of events, according to the "2014 Data Breach Investigations Report" from Verizon. Compared to other verticals, healthcare had the highest percentage of incidents from theft or loss, the study found, suggesting room for improvement.
+
+Healthcare also performed poorly in "miscellaneous errors," a hodgepodge category of misidentified emails and faxes or neglected software patches, the Verizon study found. But employees don't deserve all the blame. Outsiders -- such as business associates, contractors, and suppliers -- accounted for 68% of the top 10 miscellaneous errors.
+
+Education and regular checks and balances decrease the frequency of incidents. Technologies such as data-loss-prevention software monitor emails and faxes, while mandating that IT alone disposes of equipment helps ensure fewer data-laden devices end up marked for recycling, eBay, or the trash.
+
+Policies are critical to ensuring that an organization's security message permeates departments and shifts. It is one reason a growing number of healthcare organizations are hiring chief security officers (CSOs) or chief information security officers (CISOs) to oversee and govern all areas of protection.
+
+These technology professionals play an important role; security knowledge is vital, but they also require business expertise in healthcare, said Prof. Amit Basu, Carr P. Collins Chair in MIS and chairman of the ITOM Department at the Cox School of Business at Southern Methodist University. Partnering with HITRUST, the school developed a weeklong Healthcare Information Security and Technology Risk Management Graduate Certificate Program for upper and middle managers, he told InformationWeek.
+
+"We do find that a number of healthcare organizations appoint people... whose training has been primarily in the domain role of healthcare or healthcare management and perhaps not as much the information security or security management roles. The goal of the program is not directly to influence hiring practices or priorities," Basu said. "[This program] will enable these folks who are primarily technology professionals to get an appreciation for management challenges, and perhaps this will increase the comfort of senior execs who are choosing professionals to fill these [C-level] roles."
+
+With appropriate resources at their disposal, healthcare security professionals can expand their existing policies and technologies. Click through our slideshow to see the top 10 security improvements we believe healthcare must make if it is to withstand the growing threat of data theft.
+
+Alison Diana has written about technology and business for more than 20 years. She was editor, contributors, at Internet Evolution; editor-in-chief of 21st Century IT; and managing editor, sections, at CRN. She has also written for eWeek, Baseline Magazine, Redmond Channel ... View Full Bio
+
+1 of 11
+
+Comment |
+
+Email This |
+
+Print |

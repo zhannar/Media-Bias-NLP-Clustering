@@ -1,0 +1,55 @@
+Partners HealthCare CIO: Inside Our Clinical Transformation
+
+CIO James Noga says the largest healthcare system in Massachusetts is proud of its technological leadership, but still needs to do better.
+
+As CIO of Partners Healthcare, James Noga leads an IT organization poised to replace a generation's worth of hospital software with an industry-standard electronic medical record and revenue management system -- and that's only the beginning.
+
+James Noga
+
+In May 2012, Partners announced what the press release called "a historic commitment to, and investment in a health information technology infrastructure of the future," with software from Epic Systems at its core. In its annual report for 2012, the healthcare non-profit talked up the promise of this new enterprise system, dubbed Partners eCare, calling it "a new, fully-integrated system that will provide a single, complete and up-to-date electronic record for all Partners patients and providers" that when fully implemented "will enable a seamless flow of clinical and administrative information, reduce duplication of services, and avoid unnecessary tests -- while assuring quality, safety, and access."
+
+However, as 2013 comes to a close, the eCare project is just getting started on a five-year rollout plan, with a first phase of deployment scheduled for 2014, and clinical systems initially untouched. The initial implementations at Massachusetts General Hospital and Newton-Wellesley Hospital will be limited to revenue cycle management -- the billing and collections side of a hospital's enterprise system -- while Brigham and Women's Hospital will be the first to field both revenue management and clinical software.
+
+Noga said this software overhaul is important, but not really the point. "What I say is, Epic is one of the enabling tools of Partners eCare, but eCare is really about clinical transformation," he said.
+
+Still, this will be a major technological change for the largest healthcare organization in Massachusetts -- actually, the largest private employer in the state -- an organization with a rich heritage of IT innovation. Partners was built around two Harvard-affiliated teaching hospitals, Massachusetts General Hospital and Brigham and Women’s Hospital, the largest private hospital recipients of National Institutes of Health funding in the nation. From that core, Partners expanded to encompass hospitals and other healthcare facilities across the state.
+
+Massachusetts General in particular pioneered the development of information systems that are commonly used across the healthcare industry today -- even if they may sometimes be derided as "legacy." Over the past 10 years, Partners says it has invested more than $2 billion in improving healthcare IT at its facilities, moving all doctors to electronic medical records and implementing online medication orders at its major hospitals and most other facilities.
+
+Noga went to work at Massachusetts General in 1990 as Director of Clinical Applications, and in 1997 was promoted to CIO for the hospital. He became Partners' corporate CIO in 2011, succeeding John Glaser, who left to become CEO of Health Services at Siemens Healthcare.
+
+Noga spoke with InformationWeek from Partners headquarters in the Prudential Tower in downtown Boston.
+
+Epic just the beginning
+
+When Noga speaks of clinical transformation being more important than any one computer system, what he is really talking about is coping with change in the healthcare industry and all the pressures it is under from regulators and insurance companies. Partners is a pioneer Accountable Care Organization -- one of only 32 organizations chosen by the federal government to explore how to do business under new ground rules where payment is based on the quality of care delivered and the actual health of patients rather than fees for each service delivered. That's a framework being pushed hard by the Centers for Medicare and Medicaid Services and it is destined to be imitated by other payers under the influence of the Affordable Care Act and other regulations.
+
+Those new ground rules are translating into new systems requirements.
+
+Previously, Partners had a custom-built enterprise electronic medical records (EMR) system for ambulatory care -- that is, walk-in patients -- at all its facilities. On the other hand, different Partners hospitals had their own systems for tracking patients who had been admitted for inpatient care. Epic will replace both.
+
+Partners has long had a strategy of feeding data from all its clinical systems into a common repository for analysis. "That really served us well for many years," Noga said. "But there were just limitations to that approach once we started trying to really bend the curve on medical expenses. We realized we needed more seamless integration." To implement a "population health" approach to maximizing the wellness of all patients, admitted or outpatient, across all facilities, Partners recognized "we need to have that one record, one patient view" of all care delivered, he said.
+
+Yet it's a mistake to focus too much on the effort and expense of implementing an enterprise hospital system, whether from Epic or a competitor like Cerner, because the software is only the beginning of what's required.
+
+"If I was just doing meat-and-potatoes HIT, I could do it -- I don't want to say inexpensively, but probably for a third of the expense," Noga said. "If you really do it correctly and take on the clinical transformation -- that's really where the expense lies. It's in the people. It's not in the hardware, and it's not in the software."
+
+To maintain that focus on the ultimate clinical goals, Noga works closely with Chief Health Information Officer O'Neil Britton, an MD who is the executive leader of the eCare program. "It's really important to have a clinical leader of that program," Noga said, adding that this is just a healthcare-specific version of the rule all CIOs should follow to always have a clear customer with a stake in the success of any big IT initiative.
+
+"I don't see Partners eCare as an IT initiative at all," he added. "We're just providing enabling technology."
+
+Yet the first round of enabling technology will be enabling collections, not clinicians. Noga said the revenue cycle part of the implementation isn't necessarily easier to tackle, but it will be faster, and getting it done first will allow Partners to establish a stable foundation to build on as clinical components are added. "It means we'll have a base to work with," he said. The alternative, "going big bang, across the board," would mean deploying more interlocking software components, making it harder to track down any problems that might arise.
+
+Also, by implementing Epic's revenue module, the Massachusetts General IT team will avoid the necessity of rewriting the billing software in use there for compatibility with the new ICD-10 diagnosis and billing codes, Noga said.
+
+Besides, as important as the clinical components may be, "you've heard the adage no margin no mission -- we do need to make sure we're still able to get cash in the door," he said.
+
+Once the clinical software starts to roll out, it will be implemented "in one fell swoop" at each hospital, for both ambulatory and inpatient use.
+
+1 of 2
+
+Comment |
+
+Email This |
+
+Print |

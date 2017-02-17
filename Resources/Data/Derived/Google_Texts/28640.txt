@@ -1,0 +1,77 @@
+Sunday, September 6, 2015
+
+In response to the soaring volume of crude oil moving by rail, the Lac-Mégantic tragedy, and several other high-profile derailments, the Pipeline and Hazardous Material Safety Administration and the Federal Railroad Administration issued their final rule (the New Rule) on May 1, 2015 designed to improve the safety of transportation of certain flammable liquid shipments by rail. The New Rule, titled "Hazardous Materials: Enhanced Tank Car Standards and Operational Controls for HHFTs," amends the existing hazardous materials regulations (HMRs) by mandating enhanced safety features for tank cars transporting flammable liquids and designating new operational protocols for High-Hazard Flammable Trains (HHFTs)1utilizing the U.S. rail network. The New Rule went into effect on July 7, 2015, although several groups are challenging its implementation in court.
+
+Transport Canada (TC) issued similar regulations for tank cars transporting flammable liquids in Canada, but the content and the time frame for implementing the regulations, particularly with respect to the new tank car standards, are not identical to the New Rule analogue. A summary comparison of the differences in the time frames for implementation follows at the end of this article. Although this article primarily addresses the New Rule, references to the analogous Canadian regulation are also cited, as applicable.
+
+Heightened Tank Car Standards
+
+Under the New Rule, existing U.S. Department of Transportation (DOT) Specification 1112tanks cars (including tank cars built to the CPC-1232 industry standard) are prohibited from transporting Class 3 flammable liquids in Packing Group I, II, or III for use in HHFT service unless retrofitted to DOT Specification 117R or 117P standards.3 Retrofits must be completed in accordance with DOT and TC (if used in Canada) imposed retrofit schedules.4 Tank cars constructed after October 1, 2015 must meet the enhanced DOT Specification 117 design or performance criteria for use in HHFT service. The enhanced design features include: a wall thickness of at least 9/16 inch, a tank head puncture resistance system, a thermal protection system covered with a metal jacket, and a reclosing pressure relief device.5
+
+Enhanced Braking and Speed Restrictions6
+
+In addition to enhanced tank car safety standards, the New Rule requires all HHFTs operating at speeds exceeding 30 mph to immediately have a functioning two-way end- of-train (EOT) or distributive power (DP) braking system.7 HHFTs are limited to a maximum speed of 50 mph, and further limited to 40 mph while traveling within high-threat urban areas, unless all tank cars in the HHFT meet the enhanced tank car standards. By January 1, 2021, High Hazard Flammable Unit Trains (HHFUTs)8 transporting one or more cars with a Packaging Group I material at speeds exceeding 30 mph must be equipped with electronically controlled pneumatic (ECP) brakes. All other HHFUTs operating at speeds exceeding 30 mph must have ECP brakes installed by May 1, 2023.9
+
+Improved Sampling/Testing Regime
+
+Under existing DOT and TC regulations, shippers of hazardous materials must classify and describe the hazardous materials they offer for transportation.10 Based on this classification, the shipper selects the appropriate packaging group and applies the relevant packing label. The New Rule requires shippers of unrefined petroleum products to implement a sampling and testing program to improve the classification process.11 Each sampling and testing program must satisfy the following requirements (among others):
+
+materials must be sampled prior to their initial offering for transportation and again at any time that changes may affect the properties of the material;
+
+sampling methods must ensure that a representative sample is collected and must include quality control measures;
+
+testing methods should enable proper classification of the material under the HMRs and identify properties of the mixture relevant to packaging requirements; and
+
+the program should include criteria for its modification as well as duplicate sampling methods or equivalent measures for quality assurance. After the shipper has properly classified the material, selected the appropriate packaging and applied the relevant packing label, it must certify that the material meets the requirements of the HMRs.12
+
+Once the sampling and testing program is developed, it must be documented in writing and retained for as long as the program remains in effect, or a minimum of one year. The program must be reviewed at least annually and revised and/or updated as circumstances require. Program documentation must be accessible by authorized DOT officials upon request at a reasonable time and location.13
+
+Routing and Notice Requirements
+
+Routing
+
+The existing HMRs require rail carriers transporting certain explosives, poisonous materials, or radioactive substances to compile annual data on shipments of those materials. The data is used to analyze safety and security risks along the routes where those materials are transported. Rail carriers must then assess alternative routing options and select the route posing the least overall safety and security risk.14 The New Rule adds HHFTs to the list of categories requiring enhanced analysis in route selection.15
+
+Notice
+
+On May 7, 2014, the DOT issued an emergency order (the Emergency Order) requiring railroads transporting one million gallons or more of Bakken crude on a single train to notify the State Emergency Response Commission (SERC) in each state where the train operated. Several months later, the DOT proposed regulations that, in essence, would have made permanent the requirements of the Emergency Order. Many commentators thought the one million gallon threshold was too lenient and that the new rule should cover all flammable liquids, not just Bakken shale-sourced crude oil. As a result, the DOT scrapped its proposed rule and replaced it with one that utilizes the existing regulatory framework. Under this framework, rail carriers are required to provide a railroad point of contact to specified state, local, and tribal officials for information related to the movement of hazardous materials through their jurisdictions.16 Despite the New Rule, the Emergency Order remains in full force and effect until further notice from the DOT.17
+
+The following chart compares the U.S. and Canadian time frames for retrofitting tank cars transporting flammable liquids in those countries.18
+
+1 An HHFT is "a single train transporting 20 or more loaded tank cars of a Class 3 flammable liquid in a continuous block or a single train carrying 35 or more loaded tank cars of a Class 3 flammable liquid throughout the train." 49 CFR § 171.8.
+
+2 As defined in the HMRs and Transportation of Dangerous Goods Regulations.
+
+3 49 CFR §§ 173.241(a), 173.242(a), 173.243(a); Transportation of Dangerous Goods Regulations, SOR/2015-100, §§ 5.14, 5.15.
+
+4 As mentioned above, the U.S. and Canadian implementation timetables are not identical.
+
+5 49 CFR § 179.202(4)-(8); Transportation of Dangerous Goods Regulations, SOR/2015-100, § 5.15.9.
+
+6 Transport Canada has indicated that it will issue new braking regulations in a future rule.
+
+7 49 CFR § 174.310(3).
+
+8 Defined in 49 CFR § 171.8 as "a single train transporting 70 or more loaded tank cars containing Class 3 flammable liquid."
+
+9 49 CFR § 179.202-10(a), (b).
+
+10 49 CFR § 173.22a(a); Transportation of Dangerous Goods Regulations, SOR/2015-100, §§ 2.2, 3.1.
+
+11 49 CFR § 173.41(a); Transportation of Dangerous Goods Regulations, SOR/2015-100, § 2.2.1.
+
+12 49 CFR § 173.41(b); Transportation of Dangerous Goods Regulations, SOR/2015-100, § 3.6.1.
+
+13 49 CFR § 173.41(c), (d); Transportation of Dangerous Goods Regulations, SOR/2015-100, § 2.2.1.
+
+14 49 CFR § 172.820(b), (c), (e); Railway Safety Management System Regulations, 2015, SOR/2015-26, §§ 13, 15.
+
+15 49 CFR § 172.820(a)(4).16 49 CFR § 172.820(g); Transportation of Dangerous Goods Regulations, SOR/2015-100, § 7.2.
+
+16 49 CFR § 172.820(g); Transportation of Dangerous Goods Regulations, SOR/2015-100, § 7.2.
+
+17 "PHMSA Notice regarding Emergency Response Notifications for Shipments of Petroleum Crude Oil by Rail" dated May 28, 2015 available at http://phmsa.dot.gov/hazmat/phmsa-notice-regarding-emergency- response-notifications-for-shipments-of-petroleum-crude-oil-by-rail.
+
+18 Source: "Rule Summary: Enhanced Tank Car Standards and Operational Controls for High-Hazard Flammable Trains." Department of Transportation, 01 May 2015, available at http://www.transportation.gov/ mission/safety/rail-rule-summary.
+
+19 Source: "Hazardous Materials: Enhanced Tank Car Standards and Operational Controls for High-Hazard Flammable Trains." pp. 10-11, 01 May 2015, available at http://www.transportation.gov/sites/dot.gov/files/ docs/final-rule-flammable-liquids-by-rail_0.pdf.

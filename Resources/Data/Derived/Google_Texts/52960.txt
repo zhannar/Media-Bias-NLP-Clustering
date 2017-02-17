@@ -1,0 +1,65 @@
+Not only did the Affordable Care Act ("ACA") create a new employer "play or pay" requirement with respect to health coverage, it also requires new types of annual tax information reporting. All employers that offer self-insured health plans must report on every individual covered under the plan. Large employers that are subject to the play or pay requirement must report to the IRS each year on every individual who was a full-time employee for one month or more during the year. The IRS delayed the new requirements for a year, but it has now issued final regulations and expects employers to gather data in 2015 and submit the first set of information reports in 2016. Employers need to work quickly because it will be challenging to build systems that can capture all the data required starting January 1, 2015.
+
+Information Reporting on Employer-Sponsored Coverage
+
+The ACA added section 6055 to the Internal Revenue Code. It requires insurers and self-insured employers that provide minimum essential coverage to submit annual information reports to the IRS each year identifying who is covered. If an employer offers a fully insured group health plan, the health insurance issuer is required to submit the returns. If the employer offers a self-insured group health plan, the employer is required to submit the returns. Note that the common law employer, rather than the plan sponsor, is responsible for this reporting, although a third party may prepare the return. Enforcement of this requirement has been delayed until January 1, 2015. Thus, the first year for which reporting is due is 2015, and the first reports must be submitted in early 2016. The returns must be furnished to employees by January 31, 2016 and filed with the IRS by February 28, 2016 if filed on paper or March 31, 2016 if filed electronically.
+
+"Minimum essential coverage" is defined as it is for the individual coverage requirement. The coverage provided to current employees through a self-insured major medical plan is minimum essential coverage. Limited scope vision and dental coverage, and other similar coverage that constitutes "excepted benefits," is not minimum essential coverage. Minimum essential coverage includes COBRA coverage, major medical coverage provided through a retiree-only plan, and also retiree-only health reimbursement arrangements ("HRAs"). The regulations do not require reporting for coverage that provides benefits in addition or as a supplement to a health plan or arrangement that constitutes minimum essential coverage. This exclusion means that reporting is not required for HRAs that are integrated with the employer's medical plan or for Medicare supplemental coverage offered to retirees. Whether reporting is required for stand-alone retiree HRAs is not clear.
+
+A self-insured employer that is an applicable large employer (either by itself or as a member of a controlled group that is treated in the aggregate as an applicable large employer) for purposes of the play or pay requirement must submit the reports on Form 1095-C (which, as discussed below, will also have a section to capture the information employers are required to report with respect to offers of coverage). Insurance companies, small employers, and others must report minimum essential coverage on Form 1095-B. The statute and accompanying regulations describe what the self-insured employer or insurance company must report. The data elements include the following:
+
+The name, address, and employee identification number ("EIN") of the employer;
+
+The name, address, and taxpayer identification number ("TIN"), or date of birth if a TIN is not available, of the employee and the name and TIN, or date of birth, of each spouse or dependent of the employee who is also covered under the plan; and
+
+For each individual listed on the return as covered, the months during which the individual was covered during the calendar year. An individual is treated as covered for the month if the individual was covered for at least one day during the month.
+
+Forms and instructions may specify additional information. The following graphic conveys the nature of the information a self-insured employer will need to report. This graphic shows what a self-insured employer would report on an information return for an employee receiving coverage under its self-insured plan for the entire year and the employee's dependent receiving coverage under the plan for the last four months of the year.
+
+An employer sponsoring a self-insured plan must provide a copy of the return to the employee by January 31 of the year following the year in which the coverage was provided. No additional copies are required even if other individuals are listed on the return. For employee relations purposes, note that, for example, where a divorced parent is covering a child under the employer's plan, and the non-employee ex-spouse claims the child as a dependent for tax purposes, the ex-spouse is going to want a copy of the return showing that the child has coverage. The tax law does not oblige the employer to provide a copy to the ex-spouse. Presumably, the two former spouses will have to work it out between them.
+
+Employers will be required to file returns electronically if they file 250 or more of Form 1095-C or 1095-B. The statements may be furnished to employees electronically if they have consented to that means of delivery.
+
+Employers are generally subject to penalties for failure to file timely accurate returns. However, the IRS committed in the preamble to the final regulations that it will not impose penalties for incomplete or incorrect information for the 2015 reporting year on employers that have made a good faith effort to comply.
+
+Employers have been concerned about their ability to collect Social Security numbers ("SSNs") from spouses and dependents. The preamble to the final regulations makes clear that an employer with missing SSNs will qualify for an existing reasonable cause exception for missing taxpayer identification numbers that applies when an employer can show that it solicited the numbers in at least two annual solicitations.
+
+Information Reporting on Offers of Coverage by Large Employers
+
+The ACA also added section 6056 to the Internal Revenue Code. It requires all large employers to report to the IRS each year on anyone who was a full-time employee for one month or more, whether that person was offered health coverage, and, if so, the lowest amount an employee could pay to get coverage that meets minimum value requirements. Enforcement of this requirement has also been delayed until January 1, 2015. Thus, the first year for which reporting is due is 2015, and the first reports must be furnished to employees by January 31, 2016 and submitted electronically to the IRS by March 31, 2016.
+
+The large employers that must report are the same employers that are large enough to be subject to the employer play or pay requirement. The statute defines an entire controlled group as a single applicable large employer. However, for purposes of the reporting—consistent with how the members of the controlled group are evaluated for penalty liability—each member of the controlled group reports separately. Third parties may prepare returns, but it is not possible, for example, to have the equivalent of a common paymaster that files under its name and EIN for multiple members of a controlled group, as is possible for employment tax purposes.
+
+Reporting is required for each individual who was a full-time employee for one month or more during the year. The standard for who is a full-time employee is the same as for the play or pay penalty: a common-law employee working an average of 30 hours per week or 130 hours per month. Where an individual works for more than one member of a controlled group, and the combined hours of service are sufficient to make the worker a full-time employee, only the member for whom the individual provides the greatest number of hours of service must treat the employee as its full-time employee for that month. An employer is required to report with respect to full-time employees who receive offers of coverage through a multiemployer plan to which the employer contributes.
+
+The final regulations present a general method for reporting and two alternative methods that are intended to simplify reporting in some cases. Under the general method, a return for each individual who is a full-time employee for one month or more during the calendar year is filed on Form 1095-C. This form will have one section to cover information about offers of coverage and another section to cover information about any coverage the employee elects to take. The section on coverage offered is required to contain the following information:
+
+The name, address, and EIN of the employer;
+
+The name and telephone number of the employer's contact person;
+
+The calendar year for which the information is reported;
+
+A certification, month by month, as to whether the employer offered the full-time employee (and his or her dependents) the opportunity to enroll in employer-sponsored coverage;
+
+The months for which coverage was available;
+
+The amount of the employee contribution for the lowest cost monthly premium (self-only coverage);
+
+The number of full-time employees for each month;
+
+The name, address, and SSN of the full-time employee and the months, if any, during which the employee was covered.
+
+Other information may be required by Form 1095-C and instructions. The preamble to the final regulations discusses requirements for indicator codes that will provide additional information about whether a plan meets minimum value; whether an employee is in a waiting period, not employed or working part-time for a given month; and whether the employer claimed to be in an affordability safe harbor for the month.
+
+The following graphic conveys the nature of the information a large employer using the general method will need to report. This illustrates what the employer would report on an information return for an employee who starts employment with the company in March, works full-time for every month from March through December, and is first offered coverage in June after completing a waiting period.
+
+There are two alternative methods of reporting available. The first method relieves the employer of the need to report month-by-month information for employees who received a "qualifying offer" for all 12 months of the year. The employer still must report identifying information for each employee, regardless of whether he or she receives a qualifying offer. For those who do not receive such an offer for all 12 months of the year, the employer must report all the information required month by month under the general method. A qualifying offer is an offer to an employee and his or her spouse and children of coverage that provides minimum value and for which the employee's share of the self-only premium does not exceed 9.5 percent of the single federal poverty level, for an individual in the lower 48 states.
+
+The second method relieves the employer of needing to identify which employees are full-time. An employer may use this method if it offers to at least 98 percent of its employees and their children minimum essential coverage that provides minimum value and is affordable. The employer still must report identifying information for each employee, regardless of whether he or she was in fact full-time, and the employer must report all the information required month by month under the general method.
+
+Employers will be required to file the returns electronically if they file 250 or more Forms 1095-C. The statements may be furnished to employees electronically if they have consented to that means of delivery.
+
+Employers are generally subject to penalties for failure to file timely, accurate returns. However, the IRS committed in the preamble to the final regulations that it will not impose penalties for incorrect or incomplete information for the 2015 reporting year on employers that have made a good faith effort to comply.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

@@ -1,0 +1,25 @@
+There’s a lot of ways companies are trying to store and analyze data today, but one of the most compelling involves graph analytics. MarkLogic, which supports a variant of the graph database known as a semantic triple store, hopes that a recent update puts this type of big data analysis on the map for more customers.
+
+MarkLogic develops a so-called multi-modal database that can shapeshift depending on the problem at hand. Its document store and search engine capabilities shined when MarkLogic was brought in to replace an Oracle database for the big federal healthcare marketplace created by the Affordable Care Act.
+
+But the MarkLogic database can also store data using the RDF (resource description framework) method, which facilitates making rapid connections between so-called “linked data” sets. An RDF database such as MarkLogic’s stores data using a “subject-predicate-object” format, which collectively is known as a semantic triple.
+
+MarkLogic has supported this triple store since the launch of version 7 of its database nearly two years ago. Today the company bolstered its triple store with the launch of MarkLogic 8+, which introduces the MarkLogic Semantics feature that the company says will make it easier for customers to build smart applications using the triple store.
+
+Specifically, MarkLogic added API support for two semantic frameworks, including Apache Jena and Sesame. Apache Jena is a Java framework for building semantic Web and linked data applications, whereas Sesame is a framework for processing RDF data, supporting both memory-based and a disk-based storage, according to DB-Engines.com. Both have been available for more than 10 years.
+
+Semantic tools like MarkLogic’s database are important to getting value of unstructured and semi-structured data, says David Schubmehl, a research director in Content Analytics, Discovery and Cognitive Systems at IDC.
+
+“Using content analytics in concert with ontologies, triple stores and data standards like RDF are crucial to be able to extract, understand and use the hidden value in big data,” he tells Datanami. “In my opinion, semantic technologies like RDF and SPARQL are very important components of intelligent data and can basically work hand-in-hand with technologies such as graph databases, machine learning and cognitive systems to deliver the next generation of ‘smart’ applications that often rely on that data to provide predictions, recommendations, etc.”
+
+The San Carlos, California company maintains that its implementation of the semantic RDF data store–sitting alongside its document and search capabilities—gives it an ideal position relative to its competitors. And since it’s built semantics capabilities directly into the database, it says customers aren’t burdened by the need to integrate multiple systems with ETL processes and standardize the data into a single format.
+
+Schubmehl likes what MarkLogic is doing in the RDF scheme of things. “I think MarkLogic is well situated to be the one of the standard computing platforms for this type of intelligent data as they offer great access capabilities ranging from SQL to search to semantic processing as well as strong transactional features that are often difficult to come by for unstructured or semi-structured data,” he says. “I also see the use of this kind of platform increasing as organizations begin to develop the next generation of these ‘smart’ applications.”
+
+Related Items:
+
+Hadoop, Triple Stores, and the Semantic Data Lake
+
+Multi-Dimensional Graph Data Opens the Door to New Applications
+
+MarkLogic Rolls Out the Red Carpet for Semantic Triples

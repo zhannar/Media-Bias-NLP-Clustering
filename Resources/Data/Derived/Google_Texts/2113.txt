@@ -1,0 +1,33 @@
+Trackers Spotted by Ghostery on ConnectForHealthCO.com on January 28, 2015
+
+People visiting Healthcare.gov, Colorado's ConnectForHealthCO, California's CoveredCA or NYStateofHealth lately might get more than information on health insurance plans: they might get ads on Facebook or just about anywhere else they're traveling online, based on the fact that they visited the health sites.
+
+In the wake of an Associated Press report revealing that the federal government's Healthcare.gov site was exposing personal user data, that site along with 16 state healthcare sites still have lots of ad trackers installed from companies including Facebook, Twitter and Google's Doubleclick.
+
+During the week of Jan. 24 through Jan. 29, the federal healthcare site had 25 tracking technologies embedded, according to Ghostery, which evaluates the amount of tracking technologies on sites and can show where that information flows in real-time. That period follows reports that the Centers for Medicare and Medicaid Services said it had enhanced site encryption and limited the amount of information flowing to third-party technologies used for site analytics and advertising.
+
+Between Jan. 7 and 14, Healthcare.gov had far more tracking systems installed -- 52 as observed by Ghostery. By January 30, though, ad trackers including Twitter Advertising, RocketFuel, and Advertising.com were still spotted on pages where people can submit personal information.
+
+The White House referred Ad Age to a statement made by The Centers for Medicare and Medicaid Service on January 24: "One of the most cost-effective and best ways to reach the uninsured is through digital media and advertising," stated Kevin Counihan, director and marketplace CEO at CMS. "To do this well, we have contracts with companies that help us to connect interested consumers to HealthCare.gov and continuously measure and improve site performance and our outreach efforts." He went on to say the agency is evaluating additional actions to improve consumer privacy.
+
+Justin Brookman, director of the Consumer Privacy Project at the Center for Democracy and Technology, called it "bad site design," noting, "Given that they collect such sensitive data, and given that they're government services where people might not have a choice about visiting, I feel like these sites should really only share data with third parties when absolutely necessary."
+
+Several statewide sites established as a result of the Affordable Care Act are also flooded with outside commercial technologies that cookie site visitors and pass that data along to ad-tech partners. Ghostery data reveals that between the period of January 7-14 and January 24-29, the number of tracking technologies spotted on Colorado's ConnectForHealthCO.com actually rose from 25 to 32.
+
+One tracker added to the Colorado site in that time is LiveRamp, a company owned by data-services giant Acxiom that connects online user data to information companies have about their consumers from offline sources -- such as purchasing data or information from retail loyalty programs -- for online ad targeting and ad-campaign measurement. A LiveRamp tag seen on Healthcare.gov in early January was removed by Jan. 24, according to Ghostery.
+
+California, a state whose Attorney General Kamala Harris has been outspoken on digital privacy issues, had the LiveRamp technology installed on its healthcare site throughout the month of January, during which time the number of trackers it had embedded dropped from 30 to 23. In late January, tags from ad platforms including Doubleclick, BlueKai and Advertising.com appeared on the California site, according to Ghostery.
+
+California, New York and Colorado did not respond to requests for comment for this story.
+
+Ghostery tracked several pages on Healthcare.gov and the 16 state sites, including pages where people supply sensitive personal information. Rhode Island's and Oregon's healthcare sites had eight and seven trackers in the last week of January, respectively. The remaining state sites had five or fewer trackers, some used for site measurement and analytics and some that pass information to advertising exchanges.
+
+Advertisement
+
+Yet one thing is clear: many of the technologies whose tags are embedded on these sites are not used for site operations or analytics purposes, but for advertising. That means at the most basic level, ad technologies tracking visitors to the federal and state health sites can help advertisers such as insurance brokers or other health or medical companies target ads to people who visited government healthcare sites, adding them to audience segments based on interest in health insurance or specific health and medical services.
+
+For instance, both New York's and Colorado's health sites were spotted with Facebook Exchange tags in the last week of January. At the very least, that would enable the state sites themselves to send ads to people who have visited those sites, while they're on Facebook.
+
+Simply expressing interest in health coverage and providing contact information to some state sites including CoverOregon, can result in a barrage of phone calls from health insurance brokers that receive those sales leads through the site.
+
+"Each of these sites is clearly marketed and any sophisticated marketer is going to use a multichannel strategy," said Ghostery CEO Scott Meyer. "This is what you'd expect to see with a big digital marketing campaign."

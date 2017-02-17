@@ -1,0 +1,23 @@
+A new, non-invasive therapy could soon be used to thwart breast cancer in its early stages, according to a new study. Scientists from the Wyss Institute of Biologically Inspired Engineering at Harvard University have shown that the silencing of a single gene inhibits the formation of tumors in lab mice afflicted with a breast cancer model. According to the authors, the research represents a significant step forward for oncological treatment and diagnosis as well as systems biology.
+
+Although recent scientific breakthroughs have brought with them a range of sophisticated therapies, breast cancer remains a difficult condition to treat, as chemotherapy, radiotherapy, and surgery typically carry debilitating side effects. This is in part because mammary tumors, like all tumors, are involved with healthy neighboring tissue in a manner that pretty much ensures collateral damage during the delivery of cytotoxic agents. Healthy tissue will take a hit, and the body will respond accordingly.
+
+Undoing Tumor Growth
+
+The current study, which is published in the journal Science Translational Medicine, sought to do what a number of other oncological research efforts have already done or tried to do: identify new methods of circumventing this type of inadvertent cell death. Specifically, the team was interested in ways of precluding tumor development altogether. To do this, they had to do some reverse engineering on a molecular level.
+
+The goal was to track down individual genes that drive tumor growth. With the help of a systems biologist, the researchers began combing through the thousands of genes that are expressed in cancerous cells. Sophisticated computational models eventually helped them single out 100 genes implicated in cancerous activity.
+
+Further analysis winnowed this set to six “master genes” that turn the other genes on and off. In the end, the researchers decided to target HoxA1 — the gene with the strongest statistical link to cancer. To test these findings, the team designed an experiment with a mouse model of breast cancer.
+
+Subjects in the treatment group were injected with a so-called small interfering RNA (siRNA), an agent that basically instructs a particular gene to stop whatever it is doing. After a couple of weeks, the results were clear: while the untreated control group developed breast cancer, the treatment group did not. "There was no aha moment," study author Amy Brock said of the experiment. "But after enough evidence builds up, you turn to each other and say this is really doing something here.”
+
+Identifying Genetic Culprits
+
+Although the cancerous activity HoxA1 gene may be limited to mammary tumors, the mathematical model used to find it could come to benefit the treatment and diagnosis of virtually all cancers. According to Jim Collins, the systems biology expert who developed the model, the targeting technique can theoretically be applied across a wide range of tumors. "We were delighted that we could reverse-engineer mammalian gene networks to identify key disease-causing genes, and we're hopeful that our approach can help uncover new drug targets for many hard-to-treat cancers," he told reporters. "Combining computational, engineering and biological approaches has led to a new way to identify drugs that prevent cancer development and progression."
+
+The current study adds to the growing number of individual genes implicated in tumor growth. In another paper published earlier this year, researchers from Washington University described their isolation of 127 genetic mutations that appear to drive cancerous activity in 12 major types of the disease. Collectively, these efforts may soon retire problematic treatments like chemotherapy and radiotherapy.
+
+"The findings open up the possibility of someday treating patients who have a genetic propensity for cancer, which could change people's lives and alleviate great anxiety," study author Don Ingber said in a press release. "The idea would be start giving it early on and sustain treatment throughout life to prevent cancer development or progression."
+
+Source: Amy Brock, Silva Krause, Hu Li, Marek Kowalski et al. "Silencing HoxA1 by Intraductal Injection of siRNA Lipidoid Nanoparticles Prevents Mammary Tumor Progression in Mice." Sci Transl Med 1 January 2014 6:217ra2. [DOI:10.1126/scitranslmed.3007048]

@@ -1,0 +1,15 @@
+CVS Health has become the first private company to integrate the federal government’s HealthFinder.gov service into its website via a public application programming interface. The pharmacy chain calls its version myHealthFinder and makes it available either through cvs.com or through minuteclinic.com, the website of its MinuteClinic chain of convenience clinics.
+
+HealthFinder.gov is a consumer-facing website that provides recommendations on health screenings and preventive care based on age, gender and other health factors, as well as information on benefits available under the Affordable Care Act and a provider directory. “It informs people of care that they can get now that they are covered,” national health IT coordinator Dr. Karen DeSalvo told MedCity News.
+
+She also agreed with an assessment that the site is a bit of clinical decision support for consumer health.
+
+DeSalvo announced CVS’s participation while speaking Tuesday at the sixth annual Health Datapalooza event in Washington and in a post on the Department of Health and Human Services’ blog. Shortly thereafter, CVS put out a press release.
+
+“People didn’t want to go to a government website, so we opened it up with an API,” said DeSalvo, who has been nominated to be assistant secretary of HHS.
+
+We know that prevention is key to helping families stay healthy, so we are pleased to work with the U.S. Department of Health and Human Services to give people easy access to more information about the preventive services clinically recommended for them,” said Dr. Andrew Sussman, president of MinuteClinic and associate CMO of CVS Health.
+
+DeSalvo told MedCity News that “this is the beginning” of a series of integrations of HealthFinder.gov. “We want to let others amplify,” DeSalvo said.
+
+Photo: CVS

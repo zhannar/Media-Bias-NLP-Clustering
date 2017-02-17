@@ -1,0 +1,85 @@
+Terry Ragon’s knees ache. Age and love of marathons have taken their toll on the 64-year-old billionaire owner of InterSystems, a Cambridge, Mass., database software company.
+
+Little known outside the niche its technology dominates, InterSystems underpins health-related information for the national health services of England, Scotland and Wales and the U.S. Defense Department, as well as trading systems at Credit Suisse and the efforts of the European Space Agency to map the Milky Way.
+
+Ragon, who prefers Terry to his first name, Phillip, isn’t complaining in his sun-drenched office overlooking Boston. He’s mentioning his knees for a reason.
+
+“I saw two doctors at two different facilities on the same day,” he says. “Both did X-rays. I can’t believe that the way they like to do them is so different they couldn’t share one. But each one got reimbursed.”
+
+The duplication adds time, cost and inconvenience. The solution — that the doctors review the same X-ray — is so easy it hardly needs mentioning. This being health care, simplicity ends there.
+
+Ragon watched the fumbled rollout of HealthCare.gov with keen interest.
+
+“Health care is a lot more complicated than everybody thinks,” he says. “Large-scale IT projects are a lot more complicated than everybody thinks. When you put the two together, you have a recipe for disaster.” Still, he says, “as health-care applications go, that one was pretty simple.” The United States replaced IT provider CGI in March with Dublin-based Accenture when Montreal-based CGI’s contract for the patient sign-up site expired.
+
+Ragon has reason for confidence. He has expanded InterSystems into the dominant player in health-care information technology from a shop that 20 years ago battled over a stagnant $50 million market. The company, which had $463 million in revenue last year, employs 1,300 and has offices in 25 countries from Chile to China. Ragon had a net worth of $3.1 billion on July 1, largely from his sole ownership of InterSystems, according to the Bloomberg Billionaires Index.
+
+Ragon is competing in a field that’s taking off thanks to the Patient Protection and Affordable Care Act, a.k.a. Obamacare. Doctors and hospitals are also going digital after the federal economic stimulus package of 2009 provided more than $31 billion for computerized medical efforts. The market for electronic health records totals $23 billion in annual sales, not including health information exchanges, according to researcher Kalorama Information, a division of MarketResearch.com of Rockville, Md.
+
+In the case of Ragon’s knees, an electronic record would be one of the X-ray and his health history. The exchange would be the network that lets his doctors share that X-ray and other information.
+
+InterSystems makes money three ways. It licenses database technology that Epic Systems and other developers use as platforms for their own software. The more sales Epic makes, the more revenue Ragon gets. InterSystems also sells its software platforms starting at $107,000. These are launched off the shelf by hospitals or modified by vendors. A large percentage of business comes from national and state health systems. InterSystems has secured 170 federal contracts totaling $97.9 million since 2001, according to the USASpending.gov database.
+
+Not everyone is sold on private medical records circulating in cyberspace. Viruses can compromise files, prompting concerns about potential unauthorized access to confidential information, according to Mark Hickman, chief operating officer of WinMagic, a data security firm.
+
+In April, the Rhode Island Department of Health settled a lawsuit brought by the state’s American Civil Liberties Union over how Rhode Island would disclose matters of patient confidentiality related to the state’s health exchange. The health information exchange is based on an InterSystems product that enables different technologies to share information.
+
+Ragon plans to expand his market share even as database billionaire Larry Ellison and others vie to increase their piece of the medical industry.
+
+Ragon in late 2013 reorganized InterSystems into three divisions, two focused on health care. HealthShare enables software applications to work together throughout hospitals and networks of doctors. An international unit, TrakCare, caters to customers such as the government-run health system of Brasilia, Brazil’s federal district. The third focuses on InterSystems databases and platforms, called Caché and Ensemble, which developers use to store and retrieve data.
+
+Today, InterSystems software is running health exchanges in Illinois, Missouri, New York, Rhode Island and Texas.
+
+“InterSystems has been in this market for a very long time,” says John Moore, founder and managing partner of Chilmark Research, an analysis firm also based in Cambridge. “They’re a well-run company, very technology savvy, and they fly under the radar.”
+
+Competitors are making some headway in the medical field. EMC, Microsoft, Oracle and VMware have had success selling their Web site and data-storage software to health-care providers, says Steve Flammini, chief technology officer with the Partners HealthCare system, a Boston-based collection of hospitals, research institutes and doctor practices.
+
+“But when Microsoft, Oracle and others have tried to drive their health-care-specific offerings, it’s been very difficult for them to compete with the established vendors,” he says.
+
+That’s because designing a health-care system is like flying a passenger jet — only so much reduction of complexity is possible, Flammini says. Doctors, like pilots, have a low tolerance for unpredictability. Ragon can satisfy administrators who want gastroenterologists and podiatrists to share the same software and make that software work in old networks.
+
+“This is what makes InterSystems a unique company,” Flammini says.
+
+Ragon, a native of Arizona, didn’t have his mind on health care when he arrived as a freshman at MIT. In his senior year, the physics major decided he wanted to be a rock star, so he taught himself guitar. He left for London upon graduation in 1972, instrument in hand. He made ends meet by reselling Indian clothing he picked up in Britain to boutiques on Boston’s Newbury Street. When the economy went south, so did demand for Nehru jackets.
+
+Ragon returned stateside to start his tech business. Boston’s Brighton neighborhood became his base. His landlord gave him and fellow MIT alumnus Paul Egerman free use of basement space. Ragon wrote code and tinkered with an out-of-tune piano stored there.
+
+The pair sold the company they founded, now called IDX, in 1978. Ragon started InterSystems while Egerman stayed on with IDX and later formed eScription, a medical transcription service.
+
+Ragon found himself in the middle of three efforts that remain at the core of health-care technology. While working on a federal contract, he refined code on a database program called “Mumps.” The name is an acronym for Massachusetts General Hospital Utility Multi-Programming System, a reference to the place where it was developed.
+
+Ragon went on to do programming work for two companies that commercialized Mumps and made it the standard: Digital Equipment and Meditech. Fire up a medical software program from the 1980s, and there’s a good chance it’ll work on Caché or Ensemble, Ragon says.
+
+InterSystems grew even as the medical IT industry foundered. A competitor gave Ragon an opening. Digital Equipment’s board wanted the company to turn a profit in the last quarter of 1994, Ragon says. The solution: Sell Ragon the same database division he’d worked with more than 15 years earlier.
+
+Ragon says he persuaded his bankers to stay late on Christmas Eve to wire Digital the funds. Chief executive Robert Palmer got his profit, $18.9 million — roughly equal to what InterSystems paid for Digital’s Mumps business, Ragon says, confirming only that the purchase price was $10 million to $20 million.
+
+Ragon doubled InterSystems’ sales to about $33 million a year, a big chunk of the $50 million market. That gave InterSystems the heft to break a logjam of small, entrenched rivals. Sales tripled in the eight years through 2002.
+
+Ragon’s next big experience was with the Department of Veterans Affairs. In the 1970s and 1980s, patient care was at the center of an effort among department programmers who were nicknamed the Underground Railway, according to George Timson’s “History of the Hardhats,” posted on a Mumps user Web site.
+
+These techies covertly built and installed applications based on the Mumps technology Ragon helped develop. He weighed in with some ideas the programmers used. The agency at first didn’t back the endeavor. “Let’s say it was more than unsanctioned,” Ragon recalls.
+
+The work gained support because VA doctors were able to summon computerized records in seconds, vital for treating vets hustled into an emergency room, according to Ragon’s 2006 testimony before the Senate Committee on Commerce, Science and Transportation.
+
+InterSystems went on to build a platform for Veterans Affairs that allowed 130 computer systems to communicate, winning contracts for technology that was rolled out nationwide.
+
+Today, the department is embroiled in a scandal over patients waiting for doctor appointments. A May 28 inspector general’s report found mismanagement and falsified records in hospitals that treat 8.3 million veterans. VA Secretary Eric K. Shinseki resigned May 30.
+
+House Veterans Affairs’ Committee Chairman Jeff Miller (R-Fla.) said in a June 9 statement that recent deaths of at least 23 veterans have been linked to delayed VA medical care; an additional 35 veterans have died while awaiting care in the Phoenix area alone, he said.
+
+President Obama has nominated former Procter & Gamble chief Robert A. McDonald to head the department.
+
+Paul Grabscheid, vice president of strategic planning at InterSystems, says Veterans Affairs probably built its electronic patient queue on the company’s technology. The patient waiting times aren’t caused by flawed technology, he says.
+
+“I don’t think the problem there is the appointment system,” he says. “The problem is people behaving badly.”
+
+Grabscheid adds that InterSystems hasn’t been affected by the situation.
+
+Today’s federally mandated push to computerize records is complicated because the industry is so fragmented, Chilmark’s Moore says. “It’s very much a cottage industry,” he says.
+
+Ragon is more blunt, even as he adopts the same metaphor.
+
+“If you see the U.S. as a cottage industry, you’ve got to do one of two things: consolidate the cottages or find a mechanism where the cottages can work together,” he says. “This country is on the latter path.”
+
+The full version of this Bloomberg Markets article appears in the magazine’s August issue.

@@ -1,0 +1,19 @@
+Nearly a year after making the discovery, a federal agency has reported that the database used to hold personal information from Obamacare enrollees had more than 100 security vulnerabilities at least until February of this year, which left the information vulnerable to hacking.
+
+The analysis, conducted between August and December of 2014, was released on Monday by the Office of Inspector General for the Department of Health and Human Services. The report found there were security deficiencies in the Multidimensional Insurance Data Analytics System that included 22 high, 62 medium, and 51 low-risk vulnerabilities, for a total of 135.
+
+The OIG describes the secretive MIDAS system, which was created under Obamacare and contains information for anyone who signs up on healthcare.gov, as "a central repository for insurance-related data intended to provide reporting and performance metrics to the Department of Health and Human Services for various initiatives mandated by the Patient Protection and Affordable Care Act."
+
+It also "collects, generates, and stores a high volume of sensitive consumer information," the OIG added. That can include Social Security numbers, passport numbers, financial information, telephone numbers, and e-mail addresses, in addition to other personally identifying information.
+
+Stay abreast of the latest developments from nation's capital and beyond with curated News Alerts from the Washington Examiner news desk and delivered to your inbox. Sorry, there was a problem processing your email signup. Please try again later. Processing... Thank you for signing up for Washington Examiner News Alerts. You should receive your first alert soon!
+
+"Analytics and database systems that are not secured properly create vulnerabilities that could be exploited by unauthorized individuals to compromise the confidentiality of personally identifiable information (PII) or other sensitive data," the OIG explained.
+
+In conducting the report, the OIG looked at the Centers for Medicare and Medicaid Services and their procedures for safeguarding consumer information. Among its findings were that CMS did not conduct a number of assessments that would have revealed password vulnerabilities, it did not encrypt user sessions, and it used a shared account for access to the database that contained personal information.
+
+In addition to those who have gone through the process of enrolling in insurance through healthcare.gov, the database retains information on anyone who starts an application on the site but decides not to finish, and information on anyone deemed eligible for Medicaid.
+
+The findings were presented to CMS first, which "reported that it remediated all vulnerabilities and addressed all findings" in February of 2015. Though it follows a year later, the findings corroborate a study by the Government Accountability Office released in September of 2014 that criticized MIDAS for launching with "incomplete security plans and privacy documentation."
+
+In a statement to the Washington Examiner, Meaghan Smith, a spokesperson for HHS, stressed that no information had been lost as a result of the MIDAS vulnerabilities. "The privacy and security of consumers' information is a top priority," Smith said. "Operational and analytical databases are a part of any data-driven operation, and Marketplace data is protected by stringent security measures that adhere to industry best practices and meet or exceed federal standards.

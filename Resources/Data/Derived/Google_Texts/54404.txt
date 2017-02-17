@@ -1,0 +1,47 @@
+Premera hack puts renewed focus on securing sensitive healthcare info.
+
+As Tuesday's news about the Premera Blue Cross hack shows, healthcare organizations are vulnerable to cyberattacks, and the fix can be costly.
+
+“The average Fortune 500 company budgets $44 million a year for security, including networking and all other aspects,” said Larry Ponemon, chairman of the Ponemon Institute, a research center focused on data security. “(Most) hospitals have less than a million to budget on cyber security.”
+
+Already, at least two class action lawsuits have been brought against insurer Anthem, which saw a major data breach in January affect 80 million people. There’s also the cost to the health plan’s reputation and the logistics of notifying 80 million customers, Ponemon said. It's still unknown what will come after 11 million people's information was accesed in the Premera hack.
+
+[Also: More about the Premera hack]
+
+Until Anthem's hack in January, high profile security breaches focused on large retailers such as Target and Home Depot.
+
+This doesn’t mean healthcare organizations have been sitting on their hands believing it can’t happen to them, Ponemon said. A survey of 91 healthcare organizations in 2013 showed that 90 percent experienced at least one data breach that year.
+
+“Even if a hospital is reasonably secure, if may not be enough in this world,” he said.
+
+Medical records are extremely valuable on the black market, Ponemon said. They contain Social Security numbers, health ID numbers, addresses and possibly credit or debit card information – everything needed to create a fake identity.
+
+“Basically it’s a rich data source for bad guys,” he said, such as terrorists seeking travel credentials.
+
+The hackers may wait months and years before exploiting the data, he said.
+
+[Also: Running list of notable 2015 healthcare frauds]
+
+“This is where we see the most serious ID theft crimes,” he said. “A lot of the 80 million will become identity theft victims.”
+
+Ponemon was in the intelligence field for 45 years prior to founding the Ponemon Institute 14 years ago.
+
+HITRUST, the Health Information Trust Alliance, works with healthcare organizations to improve their data security. It has partnered with the U.S. Department of Health and Human Services to conduct monthly briefings on cyber threats relevant to the healthcare industry, and to share best practices for defense and response.
+
+HITRUST offers healthcare organizations a cyber threat alerting system of threats targeted at the industry. The C3 Alert is coordinated with the Healthcare and Public Health Sector and Government Coordinating Councils, according to HITRUST chief executive and founder Daniel Nutkis.
+
+What hospitals can do:
+
+As most security breaches are due to human error, maintain a good data structure to prevent data leakage, Ponemon said.
+
+Encrypt data. The Wall Street Journal reported Anthem did not encrypt the personal data of its customers.
+
+Ban the use of personal devices for storing patient information. Some doctors routinely send clinical records through personal e-mail, their own smartphones or tablets.
+
+Rent a network intelligence system instead of buying one, Ponemon advises. It’s secure.
+
+Collaborate with partners on exchanging information during and after a cyberattack, according to the National Institute of Standards and Technology’s 2014 “Draft Guide to Cyber Threat Information Sharing.” While this may seem counter-intuitive, providers need to learn the types of systems and information being targeted and the techniques used to gain access.
+
+Use standard data formats to facilitate interoperability and fast information exchanges, the NIST recommends.
+
+Twitter: @SusanMorseHFN

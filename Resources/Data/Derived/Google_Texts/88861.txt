@@ -1,0 +1,49 @@
+A surge of malicious software hit news media websites during the first half of 2014, unleashing a threat to federal agencies that rely on those sites to get information, cybersecurity researchers say.
+
+Media networks were almost four times as likely to attract malware as the average enterprise network, likely because of an increasingly popular hacking tactic called "malvertising," according to a new Cisco threat intelligence report.
+
+Related: We're Training High Schoolers to Fight a Cyber War
+
+Web publications are magnets for online ads that harbor malware and pass it on to readers. The media industry depends on advertising for revenue, but ads are hardly ever vetted for subversive code.
+
+"Even folks in federal government-land use the web to do their job - they are using the same sites that we all use,” Levi Gundert, a technical leader for Cisco's threat research, analysis and communications team, said in an interview. “And because of the way malvertising works, they are just as susceptible to being automatically redirected to some exploit kit site or some other malicious-type sites really seamlessly.”
+
+A malvertiser who wants to target a specific population at a certain time — for example, government officials following the November elections — can pay a legitimate ad exchange to place malicious ads on news sites during that time. Sometimes, the hacker pays up and instructs the exchange to serve the ad as quickly as possible, leaving little time for vulnerability testing, Cisco researchers found.
+
+The infection is invisible to the user. "There is no user click involved. Just load the page and the next thing you know, you are redirected, and that's because of the relationship these websites have with the ad exchanges," Gundert said.
+
+Related: The Internet Scam That Hijacks Your Hard Drive
+
+During the past six months, between 5 and 10 percent of Cisco customers' malicious traffic was related to malvertising. The scheme has been around for years, but the acceleration in ad exchange abuse is pretty significant, he said.
+
+"Adversaries launching exploits and other scams around high-profile events, such as the 2014 Winter Olympic Games and the Academy Awards, and big news stories, such as the Malaysia Airlines Flight 370 mystery and the South Korean ferry disaster, are likely reasons for the increase in encounters for the media and publishing industry," states the report, which is slated for release Tuesday.
+
+Last month, malvertising apparently showed up on radio host Glenn Beck's publication TheBlaze.com, and there were reports in January of poisonous advertising on The Moscow Times newspaper.
+
+No government defense plan for malvertising really exists, said Gundert, a former Secret Service special agent. Some computer security tools prevent ads from appearing, but they are not always effective.
+
+Related: Porn, Drugs, Hitmen, Hackers - This Is the Deep Web
+
+"If you are requesting CNN.com, it is probably not going to block the request, and if the advertisement that's coming in gets served up with CNN.com, it is probably not going to block that because it's a legitimate advertisement," he said.
+
+Some departments, such as Homeland Security and Justice, impose stricter surfing restrictions – but, again, not with the best outcomes. Access controls are put in place "so they can lower the attack surface based on what they believe is reasonable for your job function," Gundert said. "Even after all of that, they are not going to block certain news sites . . . and ultimately, those ads can end up there. It's a very tricky problem to solve without blocking legitimate content."
+
+Elsewhere in the world, governments were more successful at containing malware during the first half of 2014. The number of crimeware kits sold in online black markets dropped by 87 percent after Russian authorities last fall arrested "Paunch," the alleged creator of the “Blackhole” kit.
+
+Gundert called the apprehension "a huge coup," adding that "Paunch had the market locked up for exploit kits.” It might strike some as odd for Russia, which recently urged its citizens wanted by U.S. authorities for cybercrimes to take a staycation or risk extradition, to take down a hacker.
+
+
+
+"They don't really have an interest in apprehending cybercriminals that are targeting the West, but what we've seen historically is that if you decide you are going to target Russian citizens, Russian banks, Russian businesses, then all the sudden, you are fair game to Russian law enforcement," Gundert said. "My guess is that Paunch was targeting and-or victimizing Russians, and that's what ultimately led to his downfall."
+
+This article originally appeared in NextGov.
+
+
+
+Read more at NextGov:
+
+This Hacker Breached NOAA Satellite Data Contractor's PC
+
+A Russian Gang Probably Has All Your Online Passwords
+
+Heartbleed Means Healthcare.gov Users Must Reset Passwords

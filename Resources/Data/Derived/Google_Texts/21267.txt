@@ -1,0 +1,39 @@
+Imagine you are a car mechanic, and the government offers to help you buy a new computerized tool to make it easier to fix cars. The tool improves automobile safety, it says, by giving you the latest evidence on the most effective repairs and immediate access to all prior work that has been done on the car. If you buy a tool that meets government standards, you will get a government subsidy to help pay for it, but if you don’t, you’ll be fined.
+
+Imagine you buy the tool, and discover it that makes it harder for you to do your job. The tool requires that you review a digitalized record of everything that was done on the car in the past, relevant or not, before you are allowed to pop open the hood to take a look at it. Before you can, say, replace a failing fuel pump, you have to document that you reviewed the last time the car’s tires were replaced.
+
+The tool then takes you through a series of “decision support” questions before you are allowed to order the replacement pump. Do you know that you are replacing the current pump sooner than the accepted standard of car repair? Have considered less expensive repairs? Only after you say yes again, and again, does it allow you to order the part.
+
+You then attempt to use the digital tool to order the replacement fuel pump directly from your usual parts supplier, but your supplier has a different digital system, so you have to phone it in. Once you finish the repair, you have to enter into the digital record everything you did on the car before you can move onto the next repair, a process that adds 20 minutes for every car you see.
+
+Now, imagine that you have become so fed up with using the tool that you decide to quit. Many other mechanics in your town are doing the same, resulting in consumers having to wait weeks to get their cars repaired by the diminishing pool of mechanics who remain in business.
+
+None of this is really true for car mechanics, of course, but it is for medical doctors and their electronic health records (EHRs). A combination of government carrots-and-sticks—subsidies for buying approved EHRs, Medicare fines if they do not—has forced many physicians to buy and use EHRs that, many say, are making their lives miserable.
+
+The Rand Corporation, a highly respected research outfit, recently found that EHRs outranked all other factors as a cause of career dissatisfaction among physicians. “Physicians approved of EHRs in concept and appreciated having better ability to remotely access patient information and improvements in quality of care” the researchers reported. “However, for many physicians, the current state of EHR technology significantly worsened professional satisfaction in multiple ways. Aspects of current EHRs that were particularly common sources of dissatisfaction included poor usability, time-consuming data entry, interference with face-to-face patient care, inefficient and less fulfilling work content, inability to exchange health information, and degradation of clinical documentation.”
+
+It might be tempting to dismiss the doctors complaining about EHRs as technophobes who are unwilling to embrace new technologies, but the Rand investigators say that this isn’t the case:
+
+“First, our study does not suggest that physicians are Luddites, technophobes, or dinosaurs. Physicians recognized the important advances that EHRs have enabled, particularly in accessing information remotely (like checking a patient’s test results from home) and improving compliance with guideline-based care.”
+
+The overarching problem, the authors contend, is that “no other industry, to our knowledge, has been under a universal mandate to adopt a new technology before its effects are fully understood, and before the technology has reached a level of usability that is acceptable to its core users.”
+
+The solution isn’t going back to paper records, but designing EHRs that work for doctors and patients. Here are some obvious steps:
+
+EHRs should provide physicians with abstracted, relevant clinical data in the most user-friendly way possible, rather than dumping reams of data on them that make it hard to extract the useful from the extraneous.
+
+EHRs should supplement but not substitute for physician decision-making, providing doctors with evidence on the effectiveness of different drugs and tests in the least intrusive and least repetitive manner possible.
+
+EHRs should facilitate face-to-face interactions between doctors and their patients not detract from them. (In my most recent visit to my own primary care doctor. he spent almost the entire time looking at his EHR, rather than making eye contact with me).
+
+EHRs should make it as easy and quick as possible for physicians to document in the record the care provided to the patient.
+
+EHRs must become fully interoperable, able to seamlessly exchange secure patient data with other EHRs.
+
+The government has a lot of EHR standards, but the only one that really should matter is how useful EHRs are are in helping physicians take better care of patients.
+
+-----
+
+Have a health care question or frustration? Share your story »
+
+Read more of The Field Clinic »

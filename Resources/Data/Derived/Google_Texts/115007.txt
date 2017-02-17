@@ -1,0 +1,47 @@
+Still buying cigarettes but told your doctor you quit? That old ruse might not work for long.
+
+Some hospitals and health insurers have started buying consumers' personal data in order to identify "high-risk" patients and curtail bad health habits.
+
+Consumers may know that their online activities are tracked. But most don't realize the mountain of personal information that is being collected, analyzed and sold by companies called data brokers.
+
+While your actual medical records are protected by HIPAA, lots of personal health information can be inferred from your credit or debit card purchase history, as well as other sources, which may reveal whether you buy fast food or have a gym membership or go to the drug store regularly.
+
+You may not mind that Amazon makes recommendations based on your previous purchases. But how would you feel if your doctor and insurer did the same?
+
+Why They Want Your Data
+
+Don't worry, your doctor probably isn't looking at your individual credit card purchases just yet. But health systems are using data to try and predict the health of their members.
+
+For example, Carolinas HealthCare, which operates the largest group of medical centers in North and South Carolina, started building predictive models around 8 years ago.
+
+"The first data projects looked at the need for primary care access at the community level," Michael Dulin, chief clinical officer for analytics and outcomes research at Carolinas HealthCare told Business Insider in an email. The model used information like socioeconomic status, population density, and emergency department use to assess whether a community had access to primary care services.
+
+For a new modeling project, Carolinas HealthCare recently bought data on 2 million consumers, Bloomberg Businessweek reported. The goal is to create an algorithim that will generate a patient's "risk score," which identifies risk factors. For example, the risk score could identify whether the neighborhood the patient lives in has a high pollen count, which would be a risk for an asthmatic. The score is then passed on to the nurses and doctors who interact with the patient.
+
+Dulin says Carolinas' primary goal in purchasing consumer data is improving the hospital's ability to identify who is at risk for what — something that can be hard to piece together from patients' voluntary disclosures alone.
+
+"Adding new sources of data to the models helps them to become more accurate, and the consumer data complements our existing information," Dulin said. But he stresses that they "are not currently looking at health habits based on the consumer data," meaning that they are not combing through information about individual patients, like their credit card purchases.
+
+While healthcare companies are defending the trend as a means to improve patient health, the financial motivations cannot be overlooked. From the health insurer or hospital perspective, healthier patients mean less money spent on patient care.
+
+Here's The Kind Of Personal Data They Have About You
+
+Using purchased data, especially when it's information the patient hasn't knowingly shared, is murky as far as privacy is concerned. And the amount of information that data brokers have on American consumers is terrifying.
+
+"The extent of consumer profiling today means that data brokers often know as much – or even more – about us than our family and friends, including our online and in-store purchases, our political and religious affiliations, our income and socioeconomic status, and more," said Federal Trade Commission (FTC) Chairwoman Edith Ramirez in a statement.
+
+According to an FTC report of nine data brokers released in May, credit card companies aren't sharing your purchase data — it's the retailers.
+
+The report found that data brokers bought information about the "purchase history of 190 million individual consumers from more than 2600 merchants."
+
+"If you are using any kind of credit card or debit card for a transaction, that has the potential of being sold," Pam Dixon, the founder and executive director of the World Privacy Forum, told Business Insider.
+
+And retailers aren't the only ones selling your personal information. Magazines sell your subscription information. The Department of Motor Vehicles sells your personal information. Experian, a credit reporting agency, sells lists of parents who are expecting newborns, according to ProPublica.
+
+Then there's also all of the publicly available data, like real estate records, voting data, and birth records.
+
+The billions of data elements on American consumers that are being stored and sold is of national concern. The White House released a statement in May of this year that raised concerns about "digital redlining," meaning that all of the stored information could lead to discriminatory outcomes.
+
+As far as your health is concerned, the Affordable Care Act prevents insurers from denying coverage based on preexisting conditions. However, they could potentially track your purchases to find people lying about their health habits or buying copious junk food in spite of a diabetes diagnosis.
+
+The only true opt-out at this point: pay in cash.

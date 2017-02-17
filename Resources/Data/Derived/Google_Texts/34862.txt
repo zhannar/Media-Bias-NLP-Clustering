@@ -1,0 +1,57 @@
+Michigan and Illinois shared MMIS project is moving along slower than anticipated. Shutterstock
+
+To gauge the level of trouble state governments continue to have with the implementation of Medicaid Management Information Systems (MMIS), just do a Google News search on the topic. There is no shortage of recent local newspaper stories about cost overruns, critical audits, lawsuits and finger pointing between states and IT vendors.
+
+What led to this perfect storm? For one thing, Medicaid IT systems are complex, with thousands of business rules, and the federal and state requirements for what the systems must do keep changing. Because there are only 50 such systems in the country, only a handful of software vendors respond to procurements for new systems.
+
+Though the list of problems continues, there are some promising developments in the Medicaid IT world.
+
+MMIS Troubles
+
+Within state government, there is management turnover in health and human services agencies almost every election cycle. “It is not just the Medicaid director or CIO who leaves,” said Jim Joyce, general manager of health consulting services for Cognosante, which helps states with their MMIS implementations.
+
+Often, when those positions turn over, the new officials bring in their own trusted staff. So in the midst of a three-year implementation, the state goes through waves of change, not only at the policy level, but also at the personnel level. That is a lot of change for a large IT process to handle, Joyce said.
+
+“When I was hired by the state of Oregon to work on its MMIS, I went through three different DHS [Department of Human Services] directors, four Medicaid directors and three CIOs. I was the only stable piece.”
+
+Nicole McNeal, a consultant with Federal Way, Wash.-based Public Knowledge, has done considerable research on the pain points of MMIS implementations across the country. One common issue she sees is that vendors customize the systems to meet the needs of one state and then try to transfer that system to another state.
+
+“The more customizations you make to a particular system, the less flexible it is,” she said. “So I think the states are sold systems that they expect to be flexible and configurable, but they end up having more spaghetti code than they actually realized.”
+
+Cognosante’s Joyce agrees. When an MMIS developed for one state is ported over to another, the vendor has to modify 25 to 40 percent of the system to meet the new state’s specific regulatory requirements.
+
+“That modification becomes the project,” he said. And often, the vendor begins the work and finds the amount of change is larger than it had expected. Then during a three-year implementation process, new legislative changes are introduced that add more business rules and complexity. “Many states get caught up in adding new changes, which adds more time to the project,” Joyce said. “It can become a vicious circle.”
+
+Tony Rodgers, a principal with consulting firm Health Management Associates and former Medicaid director for the state of Arizona, said better project leadership could help mitigate the problems that often crop up with MMIS replacements.
+
+“You need to create a unit of analysts who understand the business processes and have a deep understanding of key functions of the MMIS,” he said. Projects often run into difficulty because there is an organizational culture of people being afraid to bring up problems. In some cases, he said, agency leaders intentionally stay in the dark.
+
+“They perceive MMIS as very risky,” he said. “If the project is going south, no one wants to take responsibility. People start backing away so that they have deniability.” The project team has to be able to identify and bring to leadership what is happening and the key decisions that have to be made, he said. “They must harvest issues and translate them and escalate them to management to make decisions.”
+
+Rodgers said that when Arizona did an MMIS replacement, he acted as a super project manager. “I felt I had to change the culture. If people know a change isn’t going to work, I don’t want them afraid to say so because the culture has been to shoot the messenger.”
+
+Joyce said another challenge has been that the Affordable Care Act (ACA) has been a “people drain” for many states. “They have so many ACA-compliant projects to work on that they send a lot of their best people to work on those. When they try to replace or modernize their MMIS, they don’t have the resources.”
+
+Both Joyce and Rodgers argue that more resources and better project management can make a huge difference.
+
+Rodgers also said it was valuable to bring in a third-party evaluator on the project. “I brought in Gartner to observe. They had no stake in the project,” he said. “They could validate the risk factors and how we were addressing them.”
+
+Joyce mentioned that Cognosante played a similar role on a successful MMIS implementation in New Mexico. But Jim Plane, McNeal’s colleague at Public Knowledge, called the overall system of implementing state MMIS systems broken.
+
+“State and federal executives continue to believe that better project management or more project management will fix the problems,” he said. “I think that that has proven not to be true. What is broken is that states no longer need to acquire these highly customized systems. For most of their computing needs around claims processing, states can get those services from commercial entities at a much lower cost and risk, and states should focus their efforts on acquiring analytical systems rather than transaction processing systems.”
+
+Taking a Different Approach
+
+Despite all the problems, there are some positive developments in the Medicaid IT world. The federal Centers for Medicare & Medicaid Services has urged states to create modular systems so that they can replace segments of their MMIS rather than the whole thing at once.
+
+“The analogy often used around modularity has to do with a car,” Joyce said, explaining that some people buy a brand new car every eight years, but they may only need to replace the tires or transmission. The idea is that instead of replacing the whole MMIS system, states should just replace modules. “But the vendors have been reluctant to chop their systems up into parts because then states could go to an auto parts store and purchase segments,” he added.
+
+Nevertheless, some states are working on modules. For instance, in February, Arkansas implemented a data warehouse system and in March a pharmacy system. Now it is working on the core MMIS. “The idea is to do one at a time, and don’t try to bite off the whole thing at once,” Joyce said. “More states are doing that and that model is much more successful.”
+
+Another type of innovation is that states such as Michigan and Illinois have banded together on MMIS implementation. And Florida recently announced it would collaborate with Puerto Rico on MMIS. But the model isn’t proven yet. “It does get pretty complicated when you have to do a memorandum of understanding with another state and don’t have direct control of the system,” McNeal said.
+
+Some states are starting to look at purchasing Medicaid claims processing as a service rather than building their own systems. “I think this year you will see a state go through a procurement for MMIS services,” Plane said. “And once one state paves the way, you'll likely see other states follow suit.”
+
+But since each state is so different, how will vendors provide a generic service that matches up with each state’s individual needs? “That is the challenge,” Joyce said. “I am not saying it can’t be overcome, but it is a pretty large barrier.”
+
+States trying to get to that services model have to look closely at their policies and payment rules to simplify them, McNeal said. “The more you can streamline,” she said, “the more you are able to take advantage of a services approach.”

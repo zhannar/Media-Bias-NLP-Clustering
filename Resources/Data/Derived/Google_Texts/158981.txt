@@ -1,0 +1,35 @@
+Image: Josh Miller
+
+"We are essentially undergoing the most entrepreneurial period in healthcare history," Aneesh Chopra told the crowd at the Louisville Innovation Summit on Thursday.
+
+In his keynote speech, From Innovation to Integration: Understanding the interdependence on people and data, Chopra the former (and first) Chief Technology Officer for the White House, presented his vision of the future of healthcare. That future, Chopra explained, is dependent on the careful management and integration of data into patient care.
+
+Chopra, author of Innovative State: How New Technologies can Transform Government, is interested in how to take advantage of this pivotal moment in healthcare to tackle the challenge of streamlining care. He presented three forces that are integral to a future of healthcare that focuses on individual needs:
+
+A new payment model: The change in our payment system, Chopra said, should not be underestimated. "We are now at an absolute inflection point. The payment system is moving." The "most powerful weapon in affordable care act wasn't top down litany of provisions," Chopra said. "It's that Congress bequeathed the authority to test any payment model, and a process to see how that payment model could work in the future without it having to go back to Congress." You can't go from innovation to integration, Chopra said, without the payment model to make it happen. Organizing our own data: "The way forward," Chopra said, "is to stitch data records together. We each have the right, and responsibility, to organize our own data." Chopra envisions a future where "each and every one of is given a valet key to their data." The valet key, Chopra said, is not unlike how Netflix determines your user preferences. "This is how the internet operates today." It may, he said, have certain rules. These valet keys can be distributed to patients. "They can be handed to an entity that the patient trusts to organize and manage their healthcare. The patient gets to designate a digital secure endpoint for their health information. It's up to the patient to decide who gets the valet key and under which circumstance." Managing the options: The third piece of the future of healthcare, Chopra said, is about managing options. He envisions a system where patients will have advisors, acting in their interests, to help them figure out their best plan. "I see the rise of an entirely new job description that doesn't exist in health care," Chopra said. With all the choice we have, we will need what he calls an "information fiduciary"—a person to entrust our data with, who can offer help making smarter decisions. "Which plan should I choose? Which primary care doctor?" asked Chopra. "What's missing today from our delivery system is this muscle of being able to interpret and organize and advise individuals. We need someone to connect the dots."
+
+What these three factors can lead to, Chopra said, is a sort of "MagicBand" of data, like Disney World uses. "We opt to disclose our data, our GPS signal," Chopra said, "to broadcast where we are. What we get is seamless user experience." Translating this model to healthcare, he said, could do a lot of good. "Take a patient using home healthcare today," Chopra said. "The nurse may have no clue what happened in last interaction. No one knows anything. The risk of a suboptimal experience is higher.
+
+"We each have the right, and responsibility, to organize our own data." Aneesh Chopra
+
+What this MagicBand will give us, he said, is a feedback loop. "You need information to create a more thoughtful response," Chopra said. "And then, the next time someone like that patient shows up, I know how to treat them. We have these feedback loops at Amazon—why don't we have them in healthcare?"
+
+TechRepublic caught up with Chopra after the talk for a few follow-up questions.
+
+How far in the future do you believe your vision will become a reality?
+
+It's being tested right now. It's the idea of an industry open standard, an API that a patient can use. It's designing the user experience and testing if these standards works. "I want the patient's blood pressure, meds list, demographics list. How do i connect to the database?" We are testing the underlying plumbing. Under the meaningful use requirements, they have to be in production by 2018.
+
+Will the "information fiduciary" only be for the wealthiest patients?
+
+I think it'll be cut both ways. It'll be less about wealth and more about need. If you're a really sick patient where the estimated expenditure will be north of 15, 20, 30K, an organization responsible for your care may invest in this. today we have nurse case managers that are clinically-driven. This is a data manager. The nurse may be 1 for 100 patients and this may be 1 for 500.
+
+How can you manage stitching together the data that is currently in silos?
+
+I visit hospital, they treat me, I'm discharged, I'm stable. A week later, whether I pick up my drug or not is not stored in the hospital database. If the hospital is worried about re-admission, they should know if I picked up my medicine. But today that information is siloed. Generally speaking, when you try to move information from one organization to the next, you need the patient's consent. I think the cleanest way to do that is that the hospital asks the patient for their "valet key" so they can find out from the pharmacy whether the medication is picked up. Instead, right now, we rely on convoluted methods to get that data out.
+
+Do you have any concerns about how this data will be used?
+
+Of course. That's why the fiduciary regulation is so critical. I think there should be an industry code of conduct that's enforceable by the Federal Trade Commision so that these fiduciaries pledge to treat people in the right way and violating the pledge is punishable. If you look at the stock market and brokers, they're under these obligations. If your stock broker puts you in a Ponzi Scheme without you knowing, they get sued.
+
+Also see

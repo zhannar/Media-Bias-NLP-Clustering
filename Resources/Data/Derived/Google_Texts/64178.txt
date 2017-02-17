@@ -1,0 +1,21 @@
+Question:
+
+
+
+Can individuals upload immigration verification documents on http://healthcare.gov/, and who reviews the documents that individuals upload on http://healthcare.gov/?
+
+
+
+Answer:
+
+
+
+Yes, consumers can upload documents supporting their attestation of an eligible immigration status if asked to provide more information to the Marketplace.
+
+
+
+Consumers who attest to an eligible immigration status while completing the application for coverage will be asked to provide the Marketplace with information about the type of immigration document that they have supporting their status. The Marketplace will attempt to match the information provided with information contained in data sources used for eligibility verification. If any of the information provided does not match information contained in data sources used for eligibility verification, it’s called an application inconsistency.
+
+
+
+If there is an application inconsistency, the Marketplace will provide the consumer with eligibility while the inconsistency is being resolved based on the information provided on the application. The Marketplace may ask the consumer to provide additional information to the Marketplace to review in order to resolve the inconsistency. Consumers can either upload a copy of the requested document(s) showing their information to their My Account on Healthcare.gov or mail in a copy of their document(s) to the Marketplace at [the appropriate address].

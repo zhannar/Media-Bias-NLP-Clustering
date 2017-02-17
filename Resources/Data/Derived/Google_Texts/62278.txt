@@ -1,0 +1,63 @@
+Vinod Khosla, sassy VC and legendary co-founder of Sun Microsystems, has predicted the future of health.
+
+In essence, he has said, our medical lives will become increasingly automated, with ultra-intelligent systems prescribing fine-grain recommendations to nurse us back to health. According to a newly released report, he predicts:
+
+1. 80 percent of what doctors do, diagnostics, will be replaced by machines
+
+2. Medicine will become tailor-made for each patient
+
+3. Consumer-driven tech will create better incentives to keep people healthy
+
+For good measure, we think Khosla missed one important aspect of the future: we’ll move from disease care to actual health care. That is, thanks to pervasive monitoring, our goals won’t simply be to not be sick but to become the best person we can be.
+
+A fidelity to science
+
+“In the past, the data to make more rigorous and scientific conclusions has simply not been available,” reads Khosla’s most recent draft report [PDF].
+
+“And as a result, medical literature is rife with studies about how the practice of medicine does not meet expectations for what would constitute sufficient, correct care.”
+
+In one case, he notes, a major meta-analysis contradicted advice on the use of beta-blockers to prevent those at risk of stroke. “Despite being discredited, the AHA guideline has not been retracted as of 2013,” he concludes. The sheer volume of information is difficult to keep up with, even for the smartest doctors.
+
+Smart diagnostic robots will able to apply the most advanced science to common problems. “That’s not to say 80 percent of doctors will go away. It’s that systems and consumers (directly) will handle 80 percent of their current work, so the role of the doctor will adapt dramatically to add value.”
+
+In this case, think about IBM’s Jeopardy champion, Watson, which is already showing signs that it can diagnose cancer better than some doctors.
+
+Tailor-made for you
+
+Advanced manufacturing will combine with big data to make tailor-made recommendations and drug prescriptions.
+
+“Data science will start to tell us how to measure the effectiveness of a particular drug for a particular patient’s specific conditions/genomics, environment/ethnicity, as opposed to the status quo of having drug companies develop one drug for all seven billion people on the planet,” Khosla predicts.
+
+Doctors are already using genomic sequencing to target treatment more precisely. And chemists have tested existing 3D printers to replicate drugs. So, instead of all patients taking the same pill, measured out in oddly convenient integers, a home printer will delivery print a drug has precisely the amount of medicine you need.
+
+Check out this TED talk on the subject:
+
+Still, Khosla may have overlooked the controversial key needed to unlock this precision: public health data. In order to use all available health data collected, we have to combine health datasets. But combining that information has recently been used to re-identify anonymized data.
+
+Consumer tech & better incentives
+
+It is true that the Affordable Care Act (“Obamacare”) attempts to reward doctors for the outcomes of their patients, but that isn’t the case with the entire medical innovation industry.
+
+Diagnostic devices are getting cheaper and cheaper; entrepreneurs may have different incentives to build tools that are both cheaper and more accurate, unlike hospitals.
+
+“Medical device manufacturers, like those that build and sell huge scanning systems, don’t want to cannibalize sales of their expensive equipment by providing cheaper, more accessible monitoring devices, such as a $29 ECG monitor,” reads the report.
+
+Once expensive electrocardiograms can now fit on the back of an iPhone, Khosla continues, “Health insurance could give people similar financial rewards for improving their health and further making the consumer the CEO of his own health.”
+
+Optimal health
+
+Khosla’s otherwise fascinating look at the future of health has one important oversight: The overarching theme is still curing diseases, not optimizing health. The current health system assumes that as long as we’re not sick, there’s no reason to see a doctor.
+
+But consumer devices are showing how improvements in meditation, nutrition, and exercise can make us each better versions of ourselves.
+
+Computer-guided meditation headsets can already help novice yogis learn the amazing benefits of mindfulness. The upcoming Muse headband will be able to read our brain waves throughout the day. This available technology will soon able to show us how our eating and sleeping habits influence our stress and focus all day long.
+
+The Jawbone Up, once a simple pedometer, now has an app to measure how caffeine intake affects our sleep. Very soon, we’ll be immersed in technology that can show us in real time how to feel as refreshed and energetic as we can possibly be. Once people get a taste, they’ll want even more.
+
+Moreover, ocular wearables like Google Glass will be able to automatically analyze the nutritional content of food from a picture and then correlate that to weight gain measured by Internet-connected scales. We’ll know immediately what foods leave us drifting towards heart failure or vitamin deficiencies or closer to wellness and whole-body health.
+
+Hybrid medical/sports startups, such as blood-diagnostics company WellnessFX, are beginning to cater to consumers who treat optimal living as their personal medical strategy. Genetrainer connects to genetics testing startup 23andMe and tells budding athletes how to optimize their regiment for their particular genes.
+
+Optimal health, with any luck, will increasingly be part of the medical industry.
+
+You can read Khosla’s very thorough forecast in this PDF.

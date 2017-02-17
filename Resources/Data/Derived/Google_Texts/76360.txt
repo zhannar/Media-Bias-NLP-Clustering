@@ -1,0 +1,15 @@
+Instagram’s food pictures have taken on an art form; from filter to angle, everything is deliberate. But it’s also only used to aesthetically please followers, foodies, and friends. Google’s artificial intelligence team wants to give you another reason to capture the food — calorie counting.
+
+At Boston’s Re-Work Deep Learning Summit meeting last week, 200 attendees and 50 speakers gathered to showcase and see the opportunities and advances in artificial intelligence and how to successfully implement them into modern business and society. Data scientists, engineers, developers, entrepreneurs, and big data experts watched as Google research scientist Kevin Murphy and his team presented project Im2Calories. The experimental project can detect your meal’s calorie information by analyzing the pixels in a photo of food.
+
+The new technology “marries visual analysis — in this case, determining the depth of each pixel in an image — with pattern recognition,” wrote Popular Science attendee Erik Sofge. The purpose of providing caloric data to its users and followers isn’t to publicly shame them, but instead to simplify and revolutionize food diaries. Algorithms for Im2Calories currently only work on lower quality photos, such as Instagram posts, because of the easily detectable pixel resolution. But Google’s AI team plans on pushing forward to one day make them usable for any type of photo.
+
+“We semi-automate,” Murphy said during the summit. “If it only works 30 percent of the time, it's enough that people will start using it, we'll collect data, and it'll get better over time.”
+
+Even though this “deep learning” technology is in its earlier stages, Murphy and his team have already filed patents on the technology. Once the algorithms have been more finely tuned, Google may have ownership of the technology so no other company can rival.
+
+"To me, it's obvious that people really want this and this is really useful," Murphy said. "OK, fine. Maybe we get the calories off by 20 percent. It doesn't matter. We're going to average over a week or a month or a year. And now we can start to potentially join information from multiple people and start to do population level statistics."
+
+America is currently undergoing a nationwide obesity epidemic, and calorie counting remains as one of the easier ways to track and apply weight loss approaches. But it doesn’t have to stop nutritional supervision. Food apps and technology are not Google’s forte, so to speak, but by reconfiguring the target, Google will be able to use the visual data collection and interpretation on other types of photos.
+
+“If we can do this for food, that's just the killer app,” Murphy said. “Suppose we did street scene analysis. We don't want to just say there are cars in this intersection. That's boring. We want to do things like localize cars, count the cars, get attributes of the cars, which way are they facing. Then we can do things like traffic scene analysis, predict where the most likely parking spot is. And since this is all learned from data, the technology is the same, you just change the data.”

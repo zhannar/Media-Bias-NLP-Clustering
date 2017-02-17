@@ -1,0 +1,49 @@
+Last fall, RCP Election Analyst David Byler and I put together an index of party strength. While most journalists look at presidential performance as a measure of party strength (see the ubiquitous “Republicans have lost the popular vote in five of the last six elections”), we take a broader view of party strength. Rather than look simply at presidential performance, we look at party dominance at the federal, congressional, and state levels. One need only look at fights over voter identification laws, redistricting, food stamp benefits, Obamacare expansion, and a multitude of other battles from the last few years alone to understand the importance of non-federal elections. We therefore believe this approach gives a more complete measure of party strength.
+
+In this article, we do three things. First, we recap our methodology. Second, we update the methodology for 2014, and we look forward to 2016. Finally, we run some diagnostics on our index, answering various objections that have been raised.
+
+Our index is the sum of five parts: presidential performance, House performance, Senate performance, gubernatorial performance and state legislative performance. The first is measured by the party’s performance in the previous presidential popular vote (NB: In this, and all other measurements, third parties are excluded).
+
+House performance is the average of the popular vote for the House and the average of the share of the House won by the party. This helps mitigate the effects of gerrymandering. Senate performance is the share of the Senate held by the party.
+
+Gubernatorial performance is the party’s share of governorships (again, with third party candidates excluded). We do not weight for population, for reasons explored further below. For state legislatures, we average four numbers: the share of state Houses and state Senates held by each party along with the share of state House seats and state Senate seats held by each party.
+
+This gives us five metrics, all of which run on a scale from 0 to 100. Adding them together gives us a scale from 0 to 500. We then subtract 250 from the total. All this does is assign a score of zero to a situation where the parties are evenly matched, rather than 250. A positive score then means that the Republican Party is stronger while a negative score means the Democratic Party is stronger.
+
+We ran the scale back to the founding of the Republican Party in 1856. The average score is -4 and the median is -6, suggesting that over time the parties have been pretty evenly matched. The low score for the Republicans came in 1936, when they hit a bottom of -119. Their strongest performance was 108 in 1866 (post-Reconstruction, their strongest performance was 79 in 1920). The standard deviation was 45.6 – in plain English, that means when a party rises above 45 it can be thought of as doing unusually well, and when it rises above 90 or so it is doing exceptionally well. About 60 percent of the results fall between -30 and 30.
+
+Before the 2014 elections, the parties were pretty close to parity: The index stood at 7.98. This indicated an insignificant advantage for the Republicans, although it placed them well above their post-World War II average of -20.
+
+It goes without saying that Republicans improved upon their showing in the 2014 elections. Their 54 Senate seats represent the second-best tally for the party since 1928. Their 247 House seats is the most the party has won since 1928, although when combined with the popular vote percentage, it drops to the second-highest since then (in 1946, the party did slightly better).
+
+At the state level, the GOP’s share of governorships is the ninth-highest since Reconstruction, and the third-highest in the post-war era (1996 and 1998 were higher). The party’s showing in state legislatures is the highest since 1920, the ninth-highest ever, and the third-highest since the end of Reconstruction.
+
+Overall, this gives the Republicans an index score of 33.8. This is the Republican Party’s best showing in the index since 1928, and marks only the third time that the party has been above 15 in the index since the end of World War II. You can see the full trend, taken back to 1928, here:
+
+Obviously, this interpretation is at odds with the prevailing theme of a Republican Party with serious demographic problems. One can argue that these problems make it difficult for the GOP to win the presidency. But those same shifts have strengthened it in the states, which is where most lawmaking takes place.
+
+Going forward, we’ve projected three possible outcomes for the Republicans in 2016: A “good year,” a “so-so” year, and a “bad year” (these are similar to the outcomes we explored in our initial article). They are set forth here:
+
+As you can see, another good GOP year would give Republicans a score just above 50, which would represent their strongest showing since 1920. This is unsurprising: Winning three out of four elections (2010, 2014, 2016) should give a party such a result. A “so-so” year would likely result in some degradation in the party’s showing in the Senate, House and in state legislatures, but it would still be at historic strength. On the other hand, a bad Republican year could place the party “in the red,” with its share of the presidential vote, Senate, House and state legislatures falling precipitously.
+
+We received three major criticisms of our index, and we will address all three here. The strongest criticism came from our refusal to weight governorships by population. We certainly understand the argument for doing so: Winning the governorship in California seems more important than winning the governorship in Wyoming.
+
+But we do not weight the governorships by population for three reasons. First, in a federal system, each individual unit does carry equal weight. The so-called “small-state bias” has endured much criticism (and received vigorous defense), but it is simply a fact of life, and one that is unlikely to go anywhere. Much like we would not think of weighting Senate seats by population, we do not weight governorships by population.
+
+Second, this is consistent with the way that people report on governorships. Every site we surveyed in 2014 simply reported “governorships gained.” This is unlike House races, where popular vote is often reported.
+
+Third, weighting by population can create wild shifts on the basis of small changes, which we sought to avoid. Imagine an election where the Republican candidate manages to win the governorship in California, but GOP candidates lose the governorships of Alaska, Arkansas, Delaware, Hawaii, Idaho, Iowa, Kansas, Maine, Mississippi, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Dakota, Rhode Island, South Dakota, Utah, Vermont, West Virginia and Wyoming. Weighting by population would suggest no net change in party strength in governorships. This seemed to give an awful lot of leverage to a single state, and to results between a single pair of individuals.
+
+Perhaps most importantly, it doesn’t change the outcome. We’ve reproduced the results below, going back to 1946, both with the original index and the index with weighting by population for governors. Note that the shapes of the line are more or less the same. Interestingly, failing to weight governorships by population actually creates a small bias toward Democrats overall, but it is mostly inconsequential.
+
+Second, some people have argued that we underweight the presidency. We’ve created a second index, which we call “presidency versus everyone else.” In other words, we take the share of the popular vote for president, average the other four metrics together, then average these two metrics together. Interestingly, using this metric, the average score is .02, and the median is .35, again suggesting that there is no advantage for one party or the other over time. The Republicans’ worst score is -39.2, in 1936, while their strongest showing is 32.5 in 1862 (the best post-Reconstruction is 30, in 1920).
+
+Using this measure, the present Republican score is 6.97. This still represents the second-best showing for Republicans since 1930 (it was 10.3 in 1952). In other words, it would not affect our overall conclusions.
+
+Third, some have argued that we ought to have normalized the results. This is a bit technical, but the idea is this: It is extremely rare for a party to win more than 65 percent of the two-party vote for president. But it is relatively common for this to occur under some of the other metrics: It has happened 18 times in the Senate, seven times in the House, and 19 times in the governorships. As we noted above, this can cause the portions of the index with larger ranges to exert more leverage on the index overall, skewing their importance. Again, this is one reason we opted not to weight governorships by state.
+
+We have gone ahead and “normalized” the five pieces of the index by, in effect, stretching them to similar lengths. Happily, it does not substantially affect the results.
+
+None of this is to say that Republicans are building a permanent majority of any sort. It is simply to say that when one takes account of the full political picture, the Republican Party is stronger than it has been in most of our readers’ lifetimes. This is important, and more analysis should take account of this fact.
+
+Sean Trende is senior elections analyst for RealClearPolitics. He is a co-author of the 2014 Almanac of American Politics and author of The Lost Majority. He can be reached at strende@realclearpolitics.com. Follow him on Twitter @SeanTrende.

@@ -1,0 +1,51 @@
+Topics: email, internet privacy, intro, Linkedin, National security, NSA, Privacy, the daily dot, Social News, Technology News, Business News, Life News
+
+bishopfox.com and was reposted with permission on The Daily Dot. This article originally appeared on
+
+Don’t make the mistake of thinking you’re [the] customer, you’re not – you’re the product.
+
+– BRUCE SCHNEIER
+
+LinkedIn released a new product today called Intro. They call it “doing the impossible”, but some might call it “hijacking email”. Why do we say this? Consider the following:
+
+Intro reconfigures your iOS device (e.g. iPhone, iPad) so that all of your emails go through LinkedIn’s servers. You read that right. Once you install the Intro app, all of your emails, both sent and received, are transmitted via LinkedIn’s servers. LinkedIn is forcing all your IMAP and SMTP data through their own servers and then analyzing and scraping your emails for data pertaining to…whatever they feel like.
+
+“But that sounds like a man-in-the-middle attack!” I hear you cry. Yes. Yes it does. Because it is. That’s exactly what it is. And this is a bad thing. If your employees are checking their company email, it’s an especially bad thing.
+
+Why is this so bad? Here’s a list of 10 reasons to start:
+
+1. Attorney-client privilege.
+
+You use your email to stay in touch with everyone in your life from your family to your friends to your business associates. And you may exchange particularly sensitive messages with certain people like your lawyer, doctor, psychotherapist, or spiritual advisor. These communications are generally legally privileged and can’t be used as evidence in court – but only if you keep the messages confidential.
+
+“If you let a third party have access to your privileged email, you could be waiving important legal protections,”
+
+–MARCIA HOFMANN, ATTORNEY AND FORMER SENIOR STAFF ATTORNEY AT THE EFF
+
+To be certain if you’re concerned about the legal effect of letting LinkedIn have unfettered access to your email, you should check with your counsel…on a system that doesn’t have Intro installed.
+
+2. By default, LinkedIn changes the content of your emails.
+
+Be aware that outgoing emails receive an additional signature. Incoming emails receive additional LinkedIn profile data. The introduction of new data sources into a medium rife with security issues such as email is a dream for attackers. We’re curious how long until someone finds an innovative way to phish through Intro.
+
+3. Intro breaks secure email.
+
+Cryptographic signatures will break because LinkedIn is rewriting your outgoing emails by appending a signature on the end. This means email signatures can no longer be verified.
+
+Encrypted emails are likely to break because of the same reason – extra data being appended to your messages.
+
+If you forward an email to someone else, the LinkedIn profile data stays in the email. What if you don’t want it to? What if they don’t want you to and it pisses them off?
+
+4. LinkedIn got owned.
+
+This happened last year, and estimates of 6.5 million usernames and hashed passwords were leaked to a Russian message board. They were using unsalted hashed passwords, which is a terrible design decision. LinkedIn has a documented history of insecure design practice. So as anybody who has ever assessed a vendor would want to know:
+
+a. Who did the security review of the Intro app?
+
+b. Are there outstanding security vulnerabilities?
+
+c. Can we see a copy of a Letter of Assessment?
+
+5. LinkedIn is storing your email communications.
+
+It’s metadata, or so they claim. In particular, the list of people with whom you communicated is saved because “If you are not connected with the person on LinkedIn, we may later suggest them as a connection on the LinkedIn website and in our other mobile apps.”

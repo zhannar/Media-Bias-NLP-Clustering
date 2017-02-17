@@ -1,0 +1,37 @@
+DHAKA (Reuters) - Investigators suspect unknown hackers managed to install malware in the Bangladesh central bank's computer systems and watched, probably for weeks, how to go about withdrawing money from its U.S. account, two bank officials briefed on the matter said on Friday.
+
+More than a month after hackers breached Bangladesh Bank's systems and attempted to steal nearly $1 billion from its account at the Federal Reserve Bank of New York, cyber security experts are trying to find out how the hackers got in.
+
+FireEye Inc's Mandiant forensics division is helping investigate the cyber heist, which netted hackers more than $80 million before it was uncovered.
+
+Investigators now suspect that malware that allowed hackers to learn how to withdraw the money could have been installed several weeks before the incident, which took place between Feb. 4 and Feb. 5, the officials said.
+
+Investigators suspect the attack was sophisticated, describing the use of a "zero day" and referring to an "advanced persistent threat", the officials said.
+
+A zero day is a vulnerability in software that has yet to be identified or patched. Hackers leverage this hole to plant malware on the target computer.
+
+Advanced persistent threat is a long-term attack on a system, where hackers remain inside the target, for months, and sometimes even years.
+
+So far investigators have not found any proof of involvement of the central bank staff in Bangladesh, one of the officials said, but added that the probe was continuing.
+
+Unraveling the mystery behind one of the largest cyber heists in history is crucial for security in a connected world. Understanding how it happened could help banks shore up security of their computer systems and payment networks that form the backbone of global commerce.
+
+Security experts say the perpetrators had deep knowledge of the Bangladeshi institution's internal workings, likely gained by spying on bank workers.
+
+Bangladesh Bank officials have said hackers appeared to have stolen their credentials for the SWIFT messaging system, which banks around the world use for secure financial communication.
+
+The Fed, which provides banking services to some 250 central banks and other institutions, has said its systems were not compromised.
+
+The Bangladesh central bank had billions of dollars in its current account, which it used for international settlements, officials have said.
+
+The money stolen from the Bangladesh central bank made its way to the other side of the world.
+
+Some $80 million are believed to have ended in the Philippines, and further diverted to casinos and then to Hong Kong, according to bank officials.
+
+One $20 million transaction was directed to a non-profit organization in Sri Lanka.
+
+But the unusually large transaction for the island nation and a misspelling of the NGO's name raised red flags that helped bring the robbery to light. The transaction was blocked as was another huge payment instruction that was for between $850 million and $870 million.
+
+(This story has been refiled to correct garbled text in last paragraph)
+
+(Writing by Paritosh Bansal; Editing by Jeremy Wagstaff and Raju Gopalakrishnan)

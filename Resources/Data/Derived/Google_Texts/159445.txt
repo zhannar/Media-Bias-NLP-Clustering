@@ -1,0 +1,95 @@
+That promise of savings has a lot of health care specialists taking a harder look at predictive computer formulas.
+
+The first thing out of John Iovine’s mouth is an apology.
+
+“You got to forgive me if I don’t remember too much,” he says. “I had a stroke.”
+
+Signs of that stroke are everywhere — the bed in the dining room, a shower installed in the pantry. John is thin and sits in blue pajama pants in the wheelchair he uses to get around.
+
+He may, however, have overstated his memory problems.
+
+[Also: Baptist Health sees big payoff using predictive analytics]
+
+“We went to Harding … that’s the school right up here,” he says. It was 1952, and that’s where he saw the woman who would become his wife — “this girl, in this long red sweater, and her red hair. And I said, ‘That’s the girl for me,’ ” he says of Carol Iovine.
+
+“I came out on top,” he says, laughing.
+
+Carol, who is sitting next to her husband, explains that John’s stroke came in the middle of a bad run of health. First, he developed an ulcer, she says. Then he needed an abdominal surgery. After that came the stroke — and more.
+
+“He had pneumonia, jaundice, sepsis; clot in the right lung,” she adds. All of that hit between October 2013 and January 2014.
+
+John, a former house painter, spent 79 days in the hospital — some of that unconscious, and nearly all of it stuck in a bed.
+
+“Aw, man — it was hell,” he says.
+
+Sink or Swim
+
+John Iovine finally went home in April 2014, after several months in a rehab facility.
+
+And this point in patients’ recovery — when they’ve been discharged and have to sink or swim on their own — is the stage that everyone in the health system is paying special attention to right now. For too long, too many people like John Iovine would take a dive at this stage and end up back in the hospital again.
+
+[Also: Predictive analytics can help solve hospital problems, CFOs say]
+
+The industry calls these returns to the hospital preventable readmissions, and they are a huge drain on finances, costing Medicare alone $15 billion annually. That’s why Medicare launched an initiative a few years ago that penalizes hospitals that see too many patients readmitted too soon. And in turn, that spurred many hospitals to pay more attention to the problem.
+
+Now insurance companies are also taking a stab at a solution.
+
+“We are trying to identify which patients are likely to be hospitalized in the next three months — so that’s our target,” says Somesh Nigam. He’s the chief informatics officer for Independence Blue Cross, a Philadelphia-based insurance firm.
+
+Independence Blue Cross, he says, is working to identify all those among its customers who are sick or frail enough to be on the edge of hospitalization.
+
+To do so, the company runs algorithms on the huge amounts of health data at its disposal: billing claims, lab readings, medications, height, weight and family history. It also throws in information about the client’s neighborhood, including poverty rates.
+
+“The health care data we provided to build these algorithms is equivalent, I think, to [all the data in] five Wikipedias,” says Nigam.
+
+The computer algorithm sifts through all that information and pops out a score for each individual patient, identifying those it deems at highest risk.
+
+Independence Blue Cross then assigns each high scorer a staff member — what it calls a “health coach,” who will work at no charge to the client to see what extra services may be helpful.
+
+“This coordinated effort then works for the patient,” Nigam says. The coach may assemble health information tailored to the patient’s needs; make medical appointments; resolve medication issues, or maybe help arrange transportation to the doctor’s office. Sometimes the coach helps arrange for a home care nurse.
+
+“And all of that,” Nigam says, “is beginning to show a pretty significant drop in hospitalization rates in our region.”
+
+Independence Blue Cross has identified 18,000 clients for this sort of extra attention and, as just one sign of success, has already seen a 40 to 50 percent reduction in expected hospital admission rates for people with congestive heart failure.
+
+Early successes include the Iovines.
+
+Life Changing
+
+Carol Iovine’s life changed, too, after her husband’s stroke: She’s having to manage his new medications, and she helps John shower and get to the toilet. They need to hire a wheelchair-accessible van for each appointment and therapy session, and there are many.
+
+She says having the support of John’s health coach has made a big difference in helping her manage her husband’s needs.
+
+“He was supposed to get blood work, and they wanted me to take him to the ER to get blood work,” Carol remembers. ” ‘Uh-uh,’ I said. ‘No way.’ ”
+
+She called their health coach Donna Crockett, and told her the problem. “And the next thing,” Carol Iovine says, “a nurse was here taking blood.”
+
+Big picture: The money the health insurance plan spends on having Crockett arrange a visiting nurse, or streamline appointments is nothing compared to the cost of a hospital admission.
+
+Writing the Rules
+
+That promise of savings has a lot of health care specialists taking a harder look at the useful potential — and possible drawbacks — of these predictive computer formulas.
+
+“There is a lot of interest in the area right now,” says Glenn Cohen, a professor at Harvard’s law school, who has written about the legal and ethical concerns raised by the collision of health care and big data. “It is a great coming together of the health care world and the computer science world, as well as the patient experience world.”
+
+Still, he has some qualms.
+
+“There are questions of whether people whose data is going to be used to build the engine have the right to opt out,” Cohen says. “Do they have to affirmatively opt in? Do they have to even be notified it’s being used?” These are still gray areas, he says.
+
+The field is so new it doesn’t yet have established standards for how this information should be handled, Cohen says.
+
+Independence Blue Cross says it follows federal health privacy guidelines regarding anonymity, and is only using the information to better serve its members. But it doesn’t ask the clients who subscribe to its health plans if they want to opt in.
+
+“The data is only used to improve or coordinate care,” Nigam says. “And that is something that you would agree is our role.”
+
+Like Healthcare Finance on Facebook
+
+Health-wise, coordinated care seems to have made all the difference for John Iovine. He hasn’t been hospitalized in the year since Independence Blue Cross assigned him a health coach.
+
+The insurer says the early results from its hospitalization efforts are so promising that the company is expanding its efforts. The firm is partnering with New York University’s Langone Medical Center on a next target — Type 2 diabetes. The goal is to spot those most at risk of getting diabetes before they start showing symptoms — and then intervene, in hopes of preventing the illness.
+
+This story is part of a partnership that includes WHYY, NPR and Kaiser Health News.
+
+Kaiser Health News is a national health policy news service. It is an editorially independent program of the Henry J. Kaiser Family Foundation.
+
+Twitter: @HFNewsTweet

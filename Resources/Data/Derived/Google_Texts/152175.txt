@@ -1,0 +1,69 @@
+WASHINGTON — Kurt DelBene’s office is on the sixth floor of the fortress-like Department of Health and Human Services, overlooking the Capitol reflecting pool. With little but a desk, a laptop, and monitor, it looks barren, like someone just moved out.
+
+But DelBene, a longtime Microsoft executive, moved in six weeks ago. He came from the other Washington, after President Barack Obama named him HealthCare.gov’s new fix-it guy — the successor to “tech-surge czar” Jeff Zients. DelBene is here to shore up the famously flawed Obamacare website, not decorate an office. The most telling evidence of DelBene’s arrival hangs on the wall to the right of his workstation: A large whiteboard, covered with scribbled notes about databases, security features, website capacity, and the like. It’s a big list of lists.
+
+His move east is symbolic of government’s growing need to reach beyond the Beltway for the sort of technical expertise honed over years in the private sector
+
+“I’m a list guy. I like to make lists of everything. It’s a great thought process for me if I can write the list over and over again,” says the 53-year-old DelBene in his first detailed interview since taking the job. “The process…is therapeutic.”
+
+It’s a strategy that has served DelBene well in the past, as he rejiggered Microsoft Office from a desktop application into an online service. He’s taking a similar approach here as he helps define the next stage in the reinvention of HealthCare.gov, after its disastrous debut rocked the Obama presidency. In a sense, his move east is symbolic of government’s growing need to reach beyond the Beltway for the sort of technical expertise honed over years in the private sector. HealthCare.gov proved it: Consumers expect websites to work, and they get mad when they don’t.
+
+Among the tasks high on the list: upping the capacity of the website, improving security, and fixing the back end of a system still having trouble sealing enrollees’ deals with insurers. His job is about triage, curing the sickest parts first. And like any good triage doc, he’s meticulous, purposeful, and pragmatic — plus he likes to move fast. The job may last just six months.
+
+“He creates a very high sense of urgency. In the tech industry, speed is of the essence, and sometimes we all collectively need to stop and prioritize as opposed to trying to solve every problem at once,” says Jeff Teper, Microsoft’s corporate vice president for Office servers and services, who worked under DelBene at Microsoft in Redmond, Washington. “It wasn’t that he was micromanaging us — that was just not his style, but he was leading with a commitment to attention to detail and excellence.”
+
+Underlings say DelBene has ensured the team always has a clear strategy — something critics say was sorely lacking in the initial buildup to HealthCare.gov’s October 1 launch. As early as May 2010, members of the National Economic Council had urged the White House to bring on an adviser with management, insurance, and tech know-how to help build the website. Instead, the policy wonks took over, an ill-fated decision that resulted in a botched website.
+
+DelBene isn’t a healthcare guy, but his business and tech savvy run deep. A former consultant at McKinsey & Co., he joined Microsoft in 1992 and rose to Office division chief, helping it grow from less than $5 billion in revenue to more than $22 billion. His lists kept his team of executives and 6,000 engineers focused, accountable and on track to deliver products used by millions. He led the software giant’s shift to the cloud, a massive overhaul for a company traditionally focused on desktop software. “That’s something that took a huge amount of push to make happen,” says Tara Roth, Microsoft’s corporate vice president for Office Test. “It changed everything.”
+
+Under the Hood
+
+A software engineer by training, DelBene (his name is pronounced Del-BEN-ay) has a long history of fixing things that don’t quite work. He has long enjoyed restoring British cars from the 1960s in the garage at his home in Medina, a Seattle suburb. As a kid, he watched James Garner drive a Formula One car in the 1966 movie Grand Prix, and he’s been obsessed ever since.
+
+At five, he jacked up the rear of a car, just to figure out how. About 10 years ago, he bought himself an old Formula One car, a prop from Grand Prix. And, eventually, he began competing in vintage car races. Today, he drives a 1967 Mini Cooper he hot-rodded himself. Ken Glass, who has known DelBene since they met at AT&T’s Bell Labs in 1982, says the ex-Microsoft man especially loves cars that don’t work. “It’s about the hunt of solving a problem,” he says of DelBene.
+
+For years, he’s been restoring British clunkers from the 1960s in the garage at his home in Medina, a Seattle suburb
+
+Now, he’s using that fix-it philosophy to help usher a traditional — some might say antiquated — industry like health care into the internet age, where simplicity and ease-of-use are critical. “You should be able to use software without an instruction manual. I think it’s great to have online help, but the goal should be to never have to use that help,” he says.
+
+His road to this job was a long one. It began in July — about 12 weeks before the launch of HealthCare.gov — when Microsoft CEO Steve Ballmer announced a massive reorganization. Ballmer offered DelBene a new role, but DelBene turned it down — “amicably,” he says. “It was an important role, but it wasn’t one that I could get passionate about,” DelBene says, keeping mum on the specifics. He agreed to stay on until the end of 2013, then considered advising budding startups or working for tech companies and nonprofits.
+
+In mid-November, as even Democratic senators started complaining about HealthCare.gov’s failings, his wife of nearly 17 years, Suzan DelBene, a freshman Democratic U.S. Representative from Washington, told the Obama administration her husband might be able to help. Zients was moving on to lead the National Economic Council. “It seemed like there was a natural time to move from somebody who’s more business oriented to someone who’s more balanced between the business and the tech side of things,” DelBene says.
+
+DelBene called Zients, and a few days later, he was on a plane to Washington to meet with HHS Secretary Kathleen Sebelius. On December 17, the White House announced DelBene would succeed Zients, pointing to his expertise in building consumer and enterprise software. (DelBene, who earned roughly $7.6 million last year at Microsoft, is donating his salary to the government.)
+
+His lack of healthcare experience didn’t seem to matter. “He will be surrounded by healthcare policy experts,” says Bob Kocher, a partner at Venrock and a former special assistant to the President for healthcare on the National Economic Council. “We know that technology experience is what has been lacking thus far in D.C.”
+
+On the Job
+
+DelBene, who has two grown kids, splits his time between his home in Medina and an apartment he and his wife rented about a mile away from the Capitol. His days start early, around 7:30 am, sometimes with a cafeteria run for coffee, which he totes from one meeting to the next. As he talks — in calm, measured, Tom-Brokaw-like tones — he checks his lists, taking his glasses on and off.
+
+In meetings last week with Secretary Sebelius and Marilyn Tavenner, the administrator of the Centers for Medicare & Medicaid Services — the agency overseeing HealthCare.gov — he discussed optimizing software, booting up new servers, and adding more computing power to existing ones to raise the system’s capacity.
+
+One of his top priorities, he says, is making the back-end system for transferring customer information to insurers more reliable, even as customer data changes.
+
+Everyone at CMS is focused on the run-up to March 31, when open enrollment for 2014 is set to close. In the days and weeks beforehand, traffic is expected to surge. DelBene is mindful of the problems that sank HealthCare.gov’s initial launch — insufficient testing and myriad glitches that caused the system to move glacially or crash.
+
+He worries, he told Tavenner on Thursday, that contractors like Optum/QSSI are waiting too long to test the new configuration. “We should really push them to do incremental testing,” he said. “You’re not going to turn things on at the new capacity level and expect it all to work.” And he stressed the importance of “bug triage” — resolving code problems that make the system stall.
+
+One of his top priorities, he says, is making the back-end system for transferring customer information to insurers more reliable, even as customer data changes. That entails building an interconnected system that can beam customer information correctly to insurance companies.
+
+So far, that data transfer has been riddled with errors. And the payment systems that send federal subsidies to insurance companies to cover customers aren’t running, critics say. “The fact remains: neither the law nor the website are ready for prime time,” says Marsha Blackburn (R-Tenn), the vice chairwoman of the Energy and Commerce Committee. “Anyone and everyone involved in ‘fixing’ the completely flawed and still incomplete HealthCare.gov has a tall task.”
+
+Others say it’s unfair to expect such a complex system to work immediately. DelBene is pushing to make HealthCare.gov’s development more fluid, in line with how web giants Google and Facebook do things. The days of the “big bang release” are mostly past. Systems are rolled out and improved over time.
+
+“As we found, it is hard to get things right on day one,” says Instagram co-founder Mike Krieger, who does not know DelBene. “The discipline around understanding what the problems are, fixing them really quickly, testing them ahead of time, admitting you’re wrong…all that is pretty embedded in the culture for someone who is scaling a startup.” But, in government, he says, “it’s probably more difficult.”
+
+‘The New Guy’
+
+DelBene’s process is collaborative and open, his colleagues say — which is important in his new role. “You can see him evolve his positions as he gets more data. It’s not like he’s established his positions and [listening] is just a formality — just Kabuki ritual theater,” says U.S. Chief Technology Officer Todd Park.
+
+It’s DelBene’s job to observe, digest, and persuade Washington bureaucrats that his vision for making sure HealthCare.gov works is sound, all in a politically charged environment in which he doesn’t call the shots. CMS and its many contractors are ultimately driving the decisions. “It’s very much a role of leading by influence and networking,” DelBene says. “So I had obvious apprehensions about that.”
+
+Whatever his apprehensions, he tries not to take himself too seriously. In the White House’s Roosevelt Room, DelBene recently gave President Obama his first briefing on the website’s progress. “He was very engaged,” says DelBene of the President, “and [he] liked the direction we were taking things.”
+
+After finishing up his part of the presentation to the President, DelBene felt a “tingle” at the back of his throat, as though he was going to start coughing. He didn’t want to disturb anyone, so he headed for the door to the hallway — or so he thought. “I started opening the door to the closet!” he recalls. As he realized his mistake, there was laughter all around. “Oh! The new guy!” the President said.
+
+Additional reporting by WIRED Senior Editor Cade Metz
+
+Kaiser Health News is an editorially independent program of the Henry J. Kaiser Family Foundation, a nonprofit, nonpartisan health policy research and communication organization not affiliated with Kaiser Permanente.

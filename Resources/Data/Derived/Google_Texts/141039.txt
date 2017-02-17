@@ -1,0 +1,33 @@
+On February 4, you'll be able to get Internet domain names with such new generic top-level domains (gTLDs) names as .CHEAP, .NINJA, or .SEXY. So, yes, if you really wanted to, you could have such domain names as dirt.cheap, joethe.ninja or imvery.sexy. Ack!
+
+GTLDs are part of the Domain Name System (DNS). They're the last label of fully qualified domain names such as .com, .edu, and .gov. These are used to give human-readable addresses to the Internet's cryptic IPv4 and IPv6 addresses. So far, so good.
+
+The Internet Corporation for Assigned Names and Numbers (ICANN) decided in 2012 that the 22 existing gTLDs weren't enough. So, ICANN decided to give us up to 1,400 new TLDs. ICANN claimed that "These additional gTLDs will enhance competition, innovation and choice in the Domain Name space, providing a wider variety of organizations, communities and brands new ways to communicate with their audiences."
+
+In a statement, Akram Atallah, president of ICANN's Generic Domains Division, said that adding these hundreds of new gTLDs is "the biggest change to the Internet since its inception." And, that these will be "bringing people, communities and businesses together in ways we never imagined. It's this type of innovation that will continue to drive our global society."
+
+I don't think so.
+
+I see this just as a way for ICANN and domain registrants to make money. For ICANN, each bid for a new gTLD brought in $185,000 plus whatever they make from other fees. Of course, if a domain registrant ends up owning what proves to be a popular gTLD they can make a handsome profit from registering sites that use that gTLD.
+
+I really doubt, however, that many of these new gTLDs will be all that popular. For example, remember the big flap when dot-xxx gTLDs were first allowed? It turned out few people really wanted them.
+
+ZDNet's Violet Blue found in 2012 that there were only 27,555 dot-xxx sites after six months and none of them were getting much traffic. By April 2013, according to ICANN records, there were just over 108,000 dot-xxx domains. Worse still for dot-xxx site owners, Alexa, the Web site information company, reports that even in the adult sub-category, there was not a single dot-xxx site in the top 500 most popular porn sites.
+
+Will it really be any different for such gTLDs as .BUZZ, .WANG, or .SINGLES? I don't think so. Sure gTLDs combinations such as .SEXY.NINJA.SINGLES are funny, but it's not worth spending the money on a domain name just for a joke.
+
+A few of the new gTLDs make some sense. I can see some businesses wanting a .LIMO, .COFFEE, or a .BERLIN domain name. For the most part, though, I think these gTLDs are a waste of a company's money.
+
+So why am I even bothering to talk about this if I think that instead of being a big change it will be a big nothing? Because it can still end up costing your company a lot of money. For example, what are you going to do if your company is named Joe's Computers and someone registers JoesComputer.cheap, JoesComputer.club, or JoesComputer.build. The "cheap" solution is you'll need to buy those domains names. The average price for a domain name is about $8 to $10 a year per domain. It adds up.
+
+It may not be that easy. As several lawyers from the top international law firm K&L Gates recently observed in a blog posting, "A virtually limitless number of domain names will very soon open for registration under these new TLDs, with the potential for widespread abusive registrations and cybersquatting."
+
+They're right.
+
+True, you can use the ICANN 'Trademark Clearinghouse' a centralized database of trademarks, to protect your trademarks at the second level of new gTLDs. The second-level is the word before the .gTLD. This will cost you $150 per trademark per year.
+
+Even then, as K&L Gates pointed out, there's "considerable debate has surrounded whether the Clearinghouse goes far enough to protect intellectual property rights." For example, the "Clearinghouse will only protect against abusive registration of an 'Identical Match' to a trademark. An 'Identical Match' is determined according to strict rules, with only domain names using varied spacing, hyphens and other punctuation being recognized as a match. Unfortunately, domain names which are deceptively similar to trademarks or which intentionally capitalize on obvious misspellings (a practice known as 'typosquatting' – for example, 'klgate.gtld' (without the 's') – will not be caught by the Clearinghouse."
+
+Put it all together and -- while I may joke about funny domain names -- the serious truth is that these new gTLDs have the potential to cost your company serious money, and there's nothing funny about that.
+
+Related Stories:

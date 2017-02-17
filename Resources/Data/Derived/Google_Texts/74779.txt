@@ -1,0 +1,27 @@
+When it comes to health IT policy mandates, provider organizations have long questioned what’s behind the rulemaking process, with many showing further concern regarding federal leaders’ expertise levels and their lack of willingness to change based on public opinion. At the Centers for Medicare & Medicaid Services (CMS), senior technical director of Medicaid health IT Jason McNamara pays no attention these criticisms. “Those types of comments are tied to the old 1970s and 1980s way of thinking about the government, which was slow and hard to move, which sort of like a battleship in the ocean, took time to change. That’s not part of the government I’m with now,” McNamara says.
+
+McNamara has a wide variety of skills and projects he works on at CMS, ranging from Medicaid electronic health record (EHR) incentive programs to meaningful use rule development to health information exchange (HIE) strategies to consulting on state health IT development under the state innovation model (SIM) grants. McNamara, who focuses on the Medicaid side at CMS, recently spoke with HCI Associate Editor Rajiv Leventhal further about the perception of the government in the health IT landscape, as well as current trends and challenges he’s seeing in the industry from a policy perspective. Below are excerpts from that interview.
+
+Tell me about how you got involved with CMS and what your current role there is?
+
+I work in the data systems group, and if you think about the data systems group, in the context of Medicaid, we essentially work on anything IT related as long as it touches the administration of a Medicaid program or Medicaid beneficiaries. So I like to loosely interpret that as the IT arm of Medicaid. I am a technologist by trade; I spent five years in the Marine Corps, and have trained in communications and technology. I set myself up for a public safety IT focus, which evolved into health IT over the years, and 15 years later, here I am. I also did work as a consultant implementing EHRs, building proprietary systems for large hospital systems, eventually moving over to the Department of Defense (DoD) and Veterans Administration (VA), having worked on their clinical applications as well. I was clinical operations director for ALTA, the DoD EHR system. Then in 2012 with HITECH legislation coming down, I have been managing EHR incentive programs ever since.
+
+Jason McNamara
+
+What are your insider thoughts on the DoD EHR contract bid?
+
+Well it’s needed, it’s time to modernize that infrastructure. If you look at the infrastructure that’s in place, it’s antiquated. Some of those legacy systems were developed in the 1970s and 80s. Clearly it’s time to change the way they’re deploying their clinical technologies. This proposal will give us an opportunity to modernize a much needed environment. I have to maintain vendor neutrality here, but folks know some of the largest vendors that have partnered to help develop interoperable solutions, and it’s good that they have come to the table here.
+
+What are the biggest priorities right now for you at CMS?
+
+We have been very focused on Affordable Care Act work; we spent a lot of time deploying that, and now we’re breathing easier and are more focused on modernizing our systems on the Medicaid side, moving them into a real-time, progressive, shared-service model across Medicaid states. We are also heavily focused on data, deploying systems both at the state and federal levels to help analyze the massive amounts of Medicaid data we have. That is huge for us over the next 12 months. And then we are of course continuing to work on health IT an HIE, an area that has lot of area for growth both from a policy and deployment perspective.
+
+Ideally, in a perfect world, what would be the role of the government in this industry?
+
+It depends on the topic. If you look at the National Health Information Network (NHIN), that was an Office of the National Coordinator for Health Information Technology (ONC) program, and they managed it 100 percent at the federal level. As time progressed, they changed that and it got run over to a non-profit, Healtheway, who has since taken it over. In that regard, the government was widely used as a kickstarter to deploy that program, which is now self-sustaining in the private market. So I think it was important to push that forward. We took a step back and let the market drive that, and it’s been successful.
+
+Standards are an interesting topic as to what role the government plays, and we’re still trying to figure that part out. There has been a lot of conversation around open source products, as we have been playing with this idea in the Medicaid space. But how do we administer those open source products? What is our role? We have started to dabble in that market, but how do we translate that back into the community and let them market-ize the platform?
+
+Basically, there isn’t one answer to this question. Everyone would agree that government has an important role, and we have to figure out what that looks like in each separate scenario.
+
+How would you respond to the criticism that federal leaders aren’t appropriately apt to make such impactful health IT policy decisions?

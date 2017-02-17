@@ -1,0 +1,23 @@
+Federal officials have been lucky until now, but the Affordable Care Act’s Internet web portal could become a hacker’s playground — with plenty of sensitive data compromised — without a significant tightening of security, according to a new report by the Government Accountability Office.
+
+The new warning comes on the sixth anniversary of the enactment of the ACA and addresses security problems related to the personal information — including names, addresses, Social Security numbers and sensitive income and tax details — of literally millions of Americans who have enrolled in the insurance program online through HealthCare.gov.
+
+Related: Obamacare Fraud Is Rampant and Unchecked, GAO Warns
+
+The Centers for Medicare & Medicaid Services (CMS), which operates Obamacare, has already reported 316 “security-related incidents” between October 2013 and March 2015 involving the communication of data through a federal data services “hub,” according to the GAO report released on Wednesday. The “hub” was designed to electronically connect insurance marketplaces across the country with a handful of federal agencies, including the Department of Health and Human Services, the Internal Revenue Service and the Social Security Administration, in order to determine the identity and eligibility of applicants for coverage.
+
+The majority of these incidents during the 17-month period studied involved the electronic probing of CMS systems by “potential attackers” and the electronic mailing of sensitive information to the wrong recipients. While GAO investigators failed to turn up evidence that outside hackers had succeeded in compromising the system or extracting personally identifiable information, the federal watchdog clearly views the situation as a disaster waiting to happen.
+
+The Office of Personnel Management and other major federal agencies have been victimized by hackers in the past, as have major private insurance companies. Last October, OPM notified 21.5 million people that their personal data may have been stolen in a massive data breach. GAO has raised concerns about the potential for similar data thefts from HealthCare.gov, which has been wracked by computer problems from the time of its formal launching in October 2013.
+
+Related: Here’s Why Obamacare Is So Important to Hillary Clinton
+
+Late last year, GAO pinpointed “significant weaknesses” in the data security controls at three selected state-operated Obamacare insurance marketplaces. The shortcomings that GAO turned up included “insufficient encryption and inadequately configured firewalls,” among others. The three states responded that they generally agreed with the GAO and were taking steps to address the problems.
+
+CMS has also responded with a number of fixes to previous complaints from GAO. However, the new GAO report identifies other problems and vulnerabilities in the technical controls that protect the highly sensitive information that flows through the data hub. Those problems include “insufficiently restricted administrator privileges” for the hub system, “inconsistent application of security patches” and “insecure configuration of an administrative network.”
+
+Related: Two Big Problems for Obamacare: Cost and Confusion
+
+CMS officials insisted that none of the 316 incidents cited by GAO could be classified as having “extensive” or “widespread” impact, although they agreed that one episode clearly had potential for “significant” or “large impact. In that case, “a list of CMS employee account IDs, including passwords that had not yet been assigned to employees and phone numbers, was transmitted to CMS staff via an unencrypted e-mail message.”
+
+In order to address the problem, CMS technicians created new passwords for the impacted employees and advised them to log on and change their passwords. But the snafu had left the government vulnerable to hacking — if ever so briefly.

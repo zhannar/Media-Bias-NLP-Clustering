@@ -1,0 +1,39 @@
+Joe Raedle / Getty Images file A cash register screen indicates a customer is entering their PIN number at a Target store on Dec. 19 in Miami.
+
+The malware used to steal the personal data of 70 million Target customers was an altered version of an “off-the-shelf” hacker tool known as “BlackPOS” that apparently was used to infect the computer networks of six other retailers, a computer security firm reported Friday.
+
+The Los Angeles-based firm, IntelCrawler, said the malware – also believed to have been used to attack the computer network of Neiman Marcus -- was created in March 2013 by a young Russian hacker known as “ree4” and first reported later in the spring by CEO Andrew Komarov, who was then working at another security firm.
+
+Detailed information on the hacker tool and a reverse engineering report were shared with VISA and several major U.S. banks, the company said in a press release, but by that time the author had sold more than 40 versions of the malware to cybercriminals in Eastern Europe and other regions.
+
+It was not clear when the information about the malware was shared with VISA.
+
+VISA, a global payment technology company, did not immediately respond to NBC News’ request for comment on Friday.
+
+IntelCrawler President Dan Clements said it was the author’s customers who were able to access Target and Nieman Marcus’ cash register systems and steal customers’ data – including data on 40 million credit or debit cards -- before it was encrypted. He said the company had detected other similar “brute-force attacks on Point-of-Sales terminals” in the U.S., Canada and Australia before the holiday seasons attacks on Target and Nieman Marcus.
+
+Clements told NBC News that company researchers also determined that "BlackPOS," also known as "Kaptoxa" (pronounced “cartosha,” Russian slang for “potato”), had been installed on at least six other Internet Protocol addresses, indicating that other retailers were apparently targeted.
+
+Clements said the company had not identified the other targets of the malware, and could not say whether they were major retailers like Target – no. 3 in the U.S. – or small operators.
+
+IntelCrawler’s report closely matches a report by another cybersecurity firm provided Thursday to NBC News and reported by Investigative Correspondent Jeff Rossen on TODAY on Friday.
+
+That report on the Target intrusion specifically, prepared for the U.S. Secret Service by iSIGHT Partners, also indicated that the malware was a variation of “BlackPOS” that had been re-engineered to snatch the data from networked cash registers during a brief period when it is decrypted during the authorization process.
+
+The report said the hack was both technically and operationally sophisticated and that the retailer’s cyber defenses had no chance of detecting the intrusion.
+
+“At the time of discovery and analysis, the malware had a zero percent anti-virus detection rate, which means that fully updated anti-virus engines on fully patched computers could not identify the malware as malicious,” it said.
+
+Target did not respond to NBC News’ request for comment. The Secret Service declined comment.
+
+Related: Massive Target data breach strategy 'new to eCrime': security report
+
+It remains unclear how the thieves were able to insert the malware into the retail systems, but IntelCrawler’s Clements said the crooks most often “scan for certain parameters looking for easy passwords or they use brute force password hacking."
+
+Cyberthieves have increasingly focused on developing malicious software to attack point-of-sale, or POS, terminals in recent years, Clements said.
+
+"This niche has become one of the most attractive for modern cybercriminals," he said.
+
+More from NBC News Investigations:
+
+Follow NBC News Investigations on Twitter and Facebook

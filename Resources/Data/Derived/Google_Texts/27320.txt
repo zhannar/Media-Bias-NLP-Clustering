@@ -1,0 +1,61 @@
+Reuters
+
+The Morning Download will take a break on Monday to celebrate Labor Day and fire up the grill. We will be back on Tuesday, Sept. 8.
+
+Good morning. UBS, the Swiss bank, is developing a prototype virtual currency based on blockchain, a sign that financial institutions could be on the cusp of a technology-driven wave of change. Unlike bitcoin, the UBS “utility settlement coin” would be linked to real-world currencies and central bank accounts, the Journal’s Anna Irrera reports.
+
+CIO Oliver Bussmann says the coin could be the first building block in the widespread adoption of blockchain-based platforms in mainstream financial markets. The currency, being developed with London-based Clearmatics, could reduce settlement times, which currently take two to three days, to a matter of seconds, UBS and other banks believe.
+
+Clearing, settling and managing post-trade processes costs between $65 billion and $80 billion a year globally, the WSJ says. Blockchain technology could reduce the bank’s infrastructure costs in cross-border payments, securities trading and regulatory compliance by as much as $20 billion a year by 2022, the WSJ says. As WSJ columnist Irving Wladawsky-Berger notes, the march toward digital money could lead to huge economic and social changes.
+
+Boards monitor bench strength of the tech team. Directors are increasingly making it their business to monitor the development of technology talent at the companies where they serve on the board. They are not only approving executive hires, but reviewing metrics for turnover, training and employee satisfaction. This high-level interest reflects board recognition that technology and business strategies must be intertwined to be successful, David Thompson, executive vice president of global operations and CIO at Western Union Co., tells CIO Journal.
+
+Norfolk Southern Corp. reshuffles org chart as CIO Deborah Butler prepares to retire. Effective Oct. 1, the railroad’s IT department will report to Cindy Earhart, executive vice president for administration. The company’s strategic planning group will report to CEO James Squires.
+
+U.S. government finds agreement on federal-spending data. The federal government finalized 57 data standards for agencies to report financial information, a milestone in ongoing efforts to create one big dataset of government-wide spending data. Hudson Hollister, executive director of the Data Transparency Coalition, a DC-based open-data advocacy group, tells CIO Journal the standards will help federal agency CIOs manage and share data.
+
+TECHNOLOGY NEWS
+
+Bloomberg News
+
+Intel to invest $50 million in quantum computers. The chipmaker will partner with Netherlands-based QuTech to speed up advances in quantum technology, a field aiming to leverage the strange properties of matter at the subatomic scale for faster, more powerful computing. Researchers at companies such as International Business Machines Corp., Microsoft Corp. and Google Inc. are also actively working in the field, the WSJ’s Don Clark reports.
+
+Amazon to acquire tech to boost AWS video. Amazon.com Inc. is buying will is buying Elemental Technologies Inc., provider of technology that formats videos for mobile distribution, BloombergBusiness reports. Amazon, which also streams movies and TV shows to customers, said the acquisition will boost the video capabilities of Amazon Web Services.
+
+Automakers, Google take different roads to automated cars. Google Inc.‘s “all-in” approach to self-driving cars differs from the rest of the automotive industry which is tackling the challenge in stages, starting with self-parking and hands-free highway cruising, Reuters reports. The rush to semi-automated driving has made it hard for regulators to keep up. Some experts, including those at Google, think that drivers may not respond well to cars that require them to retake control at certain times. “The better the technology gets,” says Chris Urmson, head of Google’s self-driving program, “the less reliable the driver is going to get.”
+
+Facing protests worldwide, Uber gets secretive about Europe press event. Uber Technologies Inc. kept secret until the last minute the location of press event announcing its expanded offerings in the EU capital, the WSJ’s Natalia Drozdiak reports.”For our safety and your safety we thought we would be as smart as possible,” said Mark MacGann, Uber’s head of public policy for Europe, the Middle East and Africa. The company faces legal actions in courts throughout Europe.
+
+Wearables are for hefty bovines. In the country’s Farm Belt, where the health of animals can make the difference between a profitable year and going bust, there’s budding interest in wearables for cows to check for signs of bovine respiratory disease and other common ailments, the WSJ’s Timothy Hay reports. One advantage for vendors: Cows don’t have thumbs and can’t take put the device in a drawer and forget about it.
+
+Blessed with abundant energy, Iceland woos data center operators. Iceland is hoping its cool temperatures, and massive energy-generating capacity thanks to hydro and geothermal projects, will make it a top choice for data center operators, Reuters reports. But its remoteness limits the country from hosting certain operations, such as high-frequency trading.
+
+How Colombia Built a Massive Surveillance ‘Shadow State.’ Colombia has spent millions over the last decade expanding a surveillance network to include technology that can monitor cellphone conversations, Vice reports. Although the country has been engaged in a decades-long conflict with guerrillas, critics don’t trust the government to confine activities to criminal and military activity.
+
+Epic Fail: Tech Tricks Are No Fix for Developing-World Problems. Every year another group of do-gooders with the latest gadget, software or app, shows up in places like India to do a pilot project that will prove how smartphones, drones or social media are going to change the developing world. Every year they fail. The problem, writes the WSJ’s Eric Bellman, is that there is usually no shortcut to building the government, educational, cultural and economic structures needed to improve people’s lives.
+
+All-night push after glitch hit BNY Mellon. Bank of New York Mellon Corp. is reviewing its relationship with SunGard Systems Inc., after a glitch last week in the system that keeps more than a thousand mutual funds running slowed trading. Mutual-fund and exchange-traded fund companies are examining their funds to see whether their investors were shortchanged by differences between manual calculations of their funds’ values and the revised totals they eventually received from BNY Mellon, the Journal’s Kirsten Grind reports. SunGard has blamed the glitch on routine maintenance.
+
+Is Sphero’s new droid the most awesome Star Wars toy ever? Want (it’s for the kids) .
+
+WHAT YOUR CEO IS READING
+
+Bloomberg News
+
+Every week, CIO Journal offers a glimpse into the mind of the CEO, whose view of technology is shaped by stories in management journals, general interest magazines and, of course, in-flight publications.
+
+Is Silicon Valley in another bubble? The jury’s out on whether the Silicon Valley bubble exists. But there’s no question on the emergence of a bubble in stories about tech bubbles. Nick Bilton files the a Vanity Fair dispatch on the local fauna. Parties with tigers? All-cash real-estate offers? VC’s denying existence of said bubble in a flurry of tweets. A sea of cranes erecting buildings financed by “bubble-gotten gains”? Check, check, check and check. “All of this exuberance is magnetizing the same diaspora of Wall Street bankers, models, college dropouts, and anyone else with a start-up idea who came to Silicon Valley in the mid-90s,” he writes. “‘You know there’s a bubble,’ the saying goes, ‘when the pretty people show up.’”
+
+The death and life of Atlantic City. The killer app that originally put Atlantic City on the map was its location–the closest bit of seashore to Philadelphia. About 100 years later AC found gambling, which briefly helped stem decline. But cities, like companies, can ride those killer apps for only so long. Having never fully recovered from the rise of cheap air travel and suffering from the effects of decades of mismanagement and corruption, the city, more than ever, has come to rely on various individual financiers and their nutty schemes. The New Yorker’s Nick Paumgarten tracks the “financial mastodons and big-eyed dreamers” haggling over the Revel hotel and casino, at $2.4 billion, the most expensive private construction project in the history of the state. “Atlantic City formerly a breeding ground for big ideas, was now a tar pit,” he writes.
+
+Blythe Masters tells banks the blockchain changes everything. The Wall Street “wunderkind” who, at the age of 28, helped develop the credit-default swap—the financial instrument that provided the gasoline to 2008′s economic conflagration—is back leading a startup pushing blockchain technology to banks. Time to panic? Blythe Masters, now CEO of Digital Asset Holdings, says she was unfairly tarnished by the earlier episode. A recent BloombergBusiness cover story, the one with the photo of Ms. Masters posing on a white couch with three of her dogs, recounts her move from JP Morgan Chase to startup land and the emergence of blockchain, a decentralized ledger used to verify digital currency transactions, into a possible solution for a number of real-world financial transactions.
+
+EVERYTHING ELSE YOU NEED TO KNOW
+
+Japanese Banks Eye GE’s Local Commercial Finance Operations. Japanese megabanks were among bidders Friday for General Electric Co.’s Japanese commercial finance operations, which are expected to fetch several billion dollars. The bidders will conduct due diligence over the next several weeks and determine the value of the operations, with the price likely to be several billion dollars, they said.
+
+IMF Says China Slowdown, Other Risks Threaten Global Outlook. China’s slowdown and a host of other downside risks threaten to push the global economy into much deeper trouble without concerted action by the world’s largest economies, the International Monetary Fund warned Wednesday.
+
+Highmark Is Latest to Trim Offerings Under Health Law. Highmark Health said it would reduce its range of offerings on the Affordable Care Act marketplaces, becoming the latest insurer to retrench amid steep financial losses. The big Pittsburgh-based nonprofit company said it would continue to sell plans related to the federal health overhaul in all of the areas it currently serves, which span Pennsylvania, Delaware and West Virginia.
+
+The Morning Download comes from the editors of CIO Journal and cues up the most important news in business technology every weekday morning. Send us your tips, compliments and complaints. You can get The Morning Download emailed to you each weekday morning by clicking http://on.wsj.com/TheMorningDownloadSignup.

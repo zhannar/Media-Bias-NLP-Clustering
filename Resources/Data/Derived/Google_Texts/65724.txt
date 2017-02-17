@@ -1,0 +1,13 @@
+NASA is set to begin testing an air-traffic-control system for drones, the Las Vegas Sun reports:
+
+Researchers at [the University of Nevada, Reno] are collaborating with NASA and two drone companies to test an air traffic control system for low-flying unmanned aircraft. Later this month, a university team will be one of 12 groups testing software that lets drones communicate with the system NASA is developing.
+
+The Unmanned Aerial System (UAS) Traffic Management (UTM) system, developed in partnership with Google, Amazon, and a handful of other companies, will be akin to the air-traffic-control system used with traditional aircraft, but designed to work with small, unmanned aerial vehicles (UAVs) traveling at lower altitudes.
+
+The system will allow for geofencing (blocking off airspace, like around airports), collision detection, and guidance based on weather conditions, among other things. Ultimately, the goal is a system that functions semiautonomously, with computers handling things like collision avoidance without human intervention.
+
+While the use of consumer drones continues to raise privacy and safety concerns, companies like Google and Amazon are anxious to work out the logistics of filling the skies with UAVs. Google received a patent for a drone "ambulance" in June, and Amazon wants to use drones to deliver packages to its customers.
+
+The online retail giant says it plans to launch its program when the "regulatory support needed" is in place. Unfortunately, the Federal Aviation Administration (FAA) has been dragging its feet in actually providing such support.
+
+"NASA’s effort comes as the FAA has promised to integrate commercial drones into the national airspace," according to the Sun article quoted above. The chief engineer on the UNR team said, ultimately, the goal is provide the system to the FAA.

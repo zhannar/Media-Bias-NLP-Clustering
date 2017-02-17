@@ -1,0 +1,29 @@
+While the government seems to think it's OK to take a vacation at the taxpayer's expense, cybercriminals are taking this silly holiday as a means to reel distraught Americans into forking over their personal information. Two separate methods have been uncovered by Symantec and Trend Micro, one that focuses on related clearance sales of vehicles, and another that focuses on the Health Insurance Exchange websites.
+
+For starters, Symantec reports that the Symantec Probe Network has detected a large number of email scams using the government shutdown theme, most of which center around clearance sales of cars and trucks. By clicking on the included URL, unsuspecting shoppers looking for a good deal are directed to a website providing the bogus offer.
+
+MORE: 5 Free PC Security Programs Worth Downloading
+
+Symantec reports that these email messages are using random headers in order to evade spam filters. That means cybercrooks are able to slip into the main inbox folder to present their bogus deals. Web surfers are advised to keep an eye out for the following subjects: "Half-off our autos for each day the US Govt is shut down" and "Get half off MSRP on new autos for each day of govt. shut down". Sender addresses include shut.down, short.term, very.limited and limited.event.
+
+Trend Micro paints a scarier picture. However for starters, we need to set the stage first. President Obama's Affordable Care Act (Obamacare) began on Monday, and includes Health Insurance Exchange websites for Americans to sign up for healthcare coverage themselves rather than through their employer. This batch of portals includes one provided by the federal government, and one provided within each state. Then within each state, there can also be legitimate third-party sites that provide assistance and even broker coverage.
+
+Therein lies the problem. At this time, all of these sites supposedly have no official markings certifying them as government-backed websites. Even more, the state and third-party sites aren't even required to provide the ability to verify the site using SSL: many don't even use SSL for verification at all save for the Federal portal. That said, insurance shoppers will be faced with thousands of sites claiming to be legit Affordable Act Care portals.
+
+The trouble doesn't stop there. Typically most of us refrain from dishing out social security numbers. Technically you have the right to refrain from providing this information to anyone except for the government. However the healthcare system still relies on social security numbers, so customers are accustomed to handing over the number to doctors, dentists and so forth. Now imagine entering those numbers into a fake Affordable Care Act website.
+
+Trend Micro suggests that insurance shoppers interested in the government's new program refrain from using search engines. Head to the Federal Government or state government websites and follow the links from there. And of course, having the proper security software installed helps reduce the chance of visiting a bogus website as well.
+
+Stu Sjouwerman, CEO of KnowBe4, provides even more insight into how cybercrooks are taking advantage of the government shutdown and new healthcare initiative. These include scams to that use a social engineering tactic that coerces an employee to give out personal information or even send money without foreseen consequences. Subjects include "You are going to get in trouble if you don't sign up", or "You will get fined by the Federal Government if you don't comply". There are even scams that use the guise of a (non-existent) 'New Health ID Card' or 'Discount Cards'.
+
+"An example is a scammer who will claim to be calling or sending a phishing email on behalf of Medicare and will ask for your Social Security number, driver’s license number, bank account number or credit card information for your new National Insurance Card," Sjouwerman states. "Employees need to delete any email related to this, and hang up the phone if they get a live cold call or a robo-call promoting a toll-free hotline promising they can be signed up right now. Especially if scammers ask for a wire transfer over the phone, hang up. Those are all Red Flags and these new marketplaces and exchanges are a hotbed for scams."
+
+As Sjouwerman suggests, web surfers investigating the new healthcare coverage need to stop, look and think before clicking. And as previously indicated, keep an eye out for suspicious emails slipping past the spam filter, and don't use search engines. If employees fall victim and their information is stolen, businesses need to assume that their network has already been compromised, and focus on incident response skills like detection and remediation.
+
+"The same is true of employees," Sjouwerman states. "They really are the weak link and that link has been substantially weakened with news that came out this week. The major data brokers like Lexis-Nexis, Dun & Bradstreet and Kroll have been owned by the bad guys for a (very) long time."
+
+"Stealing a few hundred million records when you have pwned the network is not all that hard," he adds. "So here is the bad news. It is highly likely that all employees' identities have been compromised, but the bad guys just have not gotten around to them yet."
+
+Scary stuff.
+
+Follow us @tomsguide, on Facebook and on Google+.

@@ -1,0 +1,27 @@
+From L to R: David Linthicum, SVP, Cloud Technology Partners, Eric Brewer, VP of Infrastructure at Google and Alex Polvi, CEO of CoreOS, speak at the Structure Conference in San Francisco, Wednesday, Nov. 18. Rachael King/WSJ
+
+Google Inc. has an open-source software hit on its hands.
+
+Google has capitalized on the growing popularity of so-called containers, which are standardized building blocks of code that easily can be moved around the Internet and across a broad range of devices. In June 2014, as containers were taking off in the world of software development, Google open sourced Kubernetes, its technology for managing clusters of containers. Since then, Google has captured about 80% of the market for cluster managers, according to consulting firm Cloud Technology Partners Inc.
+
+Kubernetes has been adopted by a widening range of companies including financial services firms and tire manufacturers. Google has used this software internally for years to manage its own containers on a large scale.
+
+Corporations increasingly view containers, building blocks of code that contain a small application and its dependencies and are designed to work across platforms and servers, as a way to become more agile in a market where digital natives set the pace. The technology is hot, in other words, and not something the search giant would normally want to open source, the company admitted last week at the Structure Conference in San Francisco.
+
+“Google isn’t historically focused on open source, especially of things that are considered new and innovative,” said Eric Brewer, vice president of infrastructure at Google. “But in Kubernetes, it’s very important because we actually want the hybrid use cases and the on premise cases in the sense that people can control part of their destiny,” he said.
+
+Kubernetes is technically a cluster manager that’s able to take containers and automatically add or delete resources. A container encloses a program (or a piece of one) in a layer of software that connects seamlessly to the operating system and other computing resources. One advantage is that it can be moved easily from one computer or server to another. If traffic to a certain application spikes, Kubernetes is able to automatically replicate containers and expand capacity without manual intervention. The software can schedule containers, allocate them and make sure the computing environment has enough memory, disk space and storage, David Linthicum, senior vice president of Cloud Technology Partners told CIO Journal. The software also works with other clouds besides Google’s.
+
+These small containers work well with DevOps, the process that more and more companies are using to develop software. DevOps departs from the traditional practice of massive corporate IT development projects written to management spec, which are followed by periods of testing and operation conducted by separate teams. DevOps breaks projects into smaller,quickly executed pieces, with single teams developing and testing software, gathering user feedback, and revising their work as they go.
+
+“Instead of putting out a big monolithic application, we can build an application out of hundreds of containers that do different things,” said Mr. Linthicum. “We can put them in a cluster manager like Kubernetes and have them automatically scaled and managed,” he said.
+
+Companies such as eBay and e-commerce business Zulily are starting to speak publicly about working with the software. Zulily, which was acquired in October by the QVC division of Liberty Interactive, said one team had tried to use Docker containers in production in May 2014 but abandoned it soon after because it was complex to manage, said Steve Reed, principal software engineer of core engineering at the retailer, speaking at the OSCON conference in July. “The hardest part is operating the container, especially in a production environment,” he said.
+
+The team began working with Docker containers again once it had access to Kubernetes and found the management was much easier. “Kubernetes is production ready, even for a deployment like ours at Zulily where we’re not talking about hundreds of nodes,” he said. Zulily CIO Luke Friang told CIOJournal in August of 2014 that the retailer works at a fast pace and has begun developing its own software because commercial software can’t keep pace with growth of its online business. Zulily confirmed that the company is working with Kubernetes software to manage Docker containers.
+
+Docker, which makes among other things a container manager of its own called Docker Swarm, said that the third-party reports it has seen indicate that Docker Swarm is in the lead. One survey, conducted by O’Reilly Media of 138 respondents said that 38% indicated they used Docker Swarm, while 22% are using or plan to use Kubernetes. The report, released in September 2015, said that those who are using Kubernetes tended to be from larger organizations.
+
+Kubernetes represents one part of the search giant’s effort to get serious about the enterprise cloud. Urs Hölzle, head of the Google Cloud Platform business , speaking at the same event on Wednesday predicted that Google’s cloud platform revenues could surpass its advertising revenues by 2020. A day later, the company tapped enterprise-technology veteran Diane Greene to run its cloud-computing businesses, including Google for Work, Cloud Platform and Google Apps. Mr. Hölzle will report to Ms. Greene.
+
+Write to rachael.king@wsj.com

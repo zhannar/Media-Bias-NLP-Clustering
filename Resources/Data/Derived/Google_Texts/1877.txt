@@ -1,0 +1,33 @@
+SEOUL (Reuters) - Google's artificial intelligence (AI) program on Tuesday beat South Korean professional Lee Sedol in the ancient board game Go, recovering from Sunday's loss to win its fourth match in a five-game series.
+
+AlphaGo, developed by Google subsidiary DeepMind, had already clinched a series victory with its third win on Saturday, in a result that shocked the world.
+
+The program made history last year by becoming the first machine to beat a human pro player, but 33-year-old Lee, one of the world's top players, was seen as a much more formidable opponent.
+
+"I am disappointed that the matches are over, and also disappointed that I could not end the series on a high note," Lee told reporters, thanking fans for their support and adding that he had wholeheartedly enjoyed the games.
+
+"I think the humans still have a good chance," he added.
+
+Go, most popular in countries such as China, South Korea and Japan, involves two contestants moving black and white stones across a square grid, aiming to seize the most territory.
+
+It is perfect for artificial intelligence research because there are simply too many moves for a machine to win by brute-force calculations, the route IBM's Deep Blue used to famously beat former world chess champion Garry Kasparov in 1997.
+
+"It was just an incredible game," DeepMind founder Demis Hassabis told reporters.
+
+Until AlphaGo's victory last year, experts had not expected an artificial intelligence program to beat a human professional for at least a decade.
+
+The program's developers overcame the hurdles it faced with a design that enabled it to learn on its own, hoping it would be able to approximate human intuition by studying old matches and using simulated games to hone itself.
+
+"AlphaGo's win is important, because, unlike techniques used in previous programs, it is applicable generally, and can be used for many other things," said Daniel Sleator, a computer science professor at Carnegie Mellon University.
+
+Google executives say they aim to apply the technology underlying AlphaGo to create algorithms and programs to assist humans in fields from medical care to scientific research and robotics.
+
+Last week, Eric Schmidt, executive chairman of Google parent Alphabet Inc, told reporters he expected the technology would eventually be deployed across all of Google's services.
+
+"Artificial Intelligence can help find new strategies in fields such as health care or law," said Lee Sang-wan, a professor of brain and cognitive engineering at the Korea Advanced Institute of Science and Technology.
+
+The Korea Baduk Association on Tuesday awarded AlphaGo an honorary professional 9-dan title, the highest possible rank and the same as that held by Lee, for exhibiting creative and brilliant skills and contributing to the game's progress.
+
+Go Ratings, a website that ranks Go players worldwide, placed AlphaGo as fourth best, with Lee Sedol following, in fifth place.
+
+(Reporting by Jee Heun Kahng and Se Young Lee; Editing by Nick Macfie and Clarence Fernandez)

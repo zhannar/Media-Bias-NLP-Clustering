@@ -1,0 +1,69 @@
+Involuntary Part-Time Work: Here to Stay?
+
+The incidence of involuntary part-time work surged during the Great Recession and has stayed unusually high during the recovery. This may reflect more labor market slack than is captured by the unemployment rate alone. Analysis across states and over time indicates that a substantial part of the increase is related to the business cycle. However, structural factors such as changes in industry composition, population demographics, and labor costs have also contributed. This suggests that involuntary part-time work may remain significantly above its pre-recession level as the labor market continues to recover.
+
+People who work part time but would prefer to work full time make up a small but important portion of the labor force. The prevalence of such involuntary part-time work has remained unusually high in the aftermath of the Great Recession. One interpretation is that this is a cyclical phenomenon associated with general weakness in the labor market. From this perspective, involuntary part-time employment represents idle labor resources, or labor market slack, that is relevant for assessing how close the economy is to the Federal Reserve’s maximum employment goal. Alternatively, the high level of involuntary part-time work may reflect structural changes in the labor market that have caused employers to shift away from full-time workers on a more permanent basis (Yellen 2014 provides a concise summary of these alternatives).
+
+Distinguishing between cyclical and structural factors is difficult using conventional aggregate measures of part-time work and other labor market indicators. In this Economic Letter we take a different approach, analyzing the substantial differences in the prevalence of involuntary part-time work and general labor market conditions across U.S. states and over time. Our findings suggest that the high level of involuntary part-time employment since 2006 reflects both cyclical and structural influences.
+
+Understanding involuntary part-time work
+
+The U.S. Bureau of Labor Statistics (BLS) distinguishes between two broad groups of part-time workers. The first is those working part-time for “noneconomic” reasons, or voluntarily. These are workers whose part-time status represents a labor supply decision (hence “noneconomic reasons” is a slight misnomer): They prefer a part-time job for personal reasons such as family obligations, school, or partial retirement. Of the nearly 20% of employed people who work part time, about three-fourths are in this category. The incidence of voluntary part-time work has been trending downward slightly over the past few decades and was largely unchanged during the Great Recession and its aftermath (Valletta and Bengali 2013).
+
+By contrast, the share of people employed part-time for economic reasons, or involuntarily, rose substantially during the Great Recession and has come down only slowly since then (Figure 1). This includes workers who report that they would like a full-time job but cannot find one due to constraints on the employer side of the labor market, such as a cutback in hours at their current job or a lack of available full-time jobs. As such, involuntary part-time work primarily reflects labor demand.
+
+Figure 1
+
+Involuntary part-time work vs. unemployment Source: BLS and authors’ calculations. Series are measured as shares of civilian labor force. Gray bars denote NBER recession dates.
+
+The labor demand underpinnings of involuntary part-time work support its interpretation as a form of labor market slack. Additional hours desired but not worked by involuntary part-timers represent available but unused labor resources, similar to unemployed people who must report active job search to be identified as unemployed in official BLS statistics. This interpretation of involuntary part-time work highlights its potential relevance for the Federal Reserve’s maximum employment goal.
+
+Figure 1 shows that the level of involuntary part-time work largely tracks the unemployment rate, implying a substantial cyclical component. It has been very high since the Great Recession, potentially representing significant labor market slack. Before the recession, when the unemployment rate was around 4½%, the involuntary part-time work rate was just under 3% of the labor force. Both shot up during the recession, but the subsequent decline in unemployment has been more rapid. The May 2015 unemployment rate remained somewhat elevated at 5.5% compared with pre-recession levels and slightly above the Federal Reserve Bank of San Francisco’s 5.2% estimate of its natural rate, that is, the lowest unemployment rate the economy can sustain over the long run. In relative terms, however, the rate of involuntary part-time work is substantially more elevated, about 30–40% above its level in earlier recoveries. In particular, when the unemployment rate was at its current level of 5.5% in the last two recoveries—mid-1996 and late 2004—the rate of involuntary part-time work was about 3.2%, well below the May 2015 reading of 4.2%.
+
+More generally, the ratio of the rate of involuntary part-time work to the unemployment rate has been rising over time, especially since 2010 but also during the 2002–07 recovery. The ratio rose from about 0.55–0.60 during the late 1990s to about 0.75 in early 2015. This trend increase in the prevalence of involuntary part-time work relative to the unemployment rate suggests that long-term structural factors may be boosting employers’ reliance on part-time work.
+
+Cyclical and structural determinants of involuntary part-time work
+
+Given the issues and these basic patterns, distinguishing between cyclical and structural influences on involuntary part-time work is crucial. Aggregate time-series data yield limited insights in this regard, but additional information can be gleaned from a comparison across states.
+
+We focus first on the cyclical component. Figure 2 displays the correlation between the unemployment rate on the vertical axis and involuntary part-time work on the horizontal axis for all 50 states and the District of Columbia in 2013. Each observation is weighted by the state’s employment, shown by the size of the circles. The fitted line shows the expected strong positive relationship between unemployment and involuntary part-time work. This relationship is not perfect, however; some states have higher or lower rates of involuntary part-time work relative to the general pattern. For example, among states with large labor forces, California and Michigan had similar unemployment rates in 2013, but the prevalence of involuntary part-time employment was about 2 percentage points higher in California.
+
+Figure 2
+
+Involuntary part-time work and unemployment by state Source: BLS and authors’ calculations, 2013 data. Circle size is proportional to each state’s employment.
+
+The imperfect cross-state relationship raises the possibility that structural factors, which are largely independent of business cycle conditions, also play a role. For example, the prevalence of part-time work is especially high in selected service industries, notably the retail and leisure/hospitality sectors, and low in others, such as wholesale trade (Robertson and Terry 2014). Differences or shifts in the industry composition of employment therefore may directly alter demand for part-time workers. Moreover, if employers cannot meet their demand for part-time workers from the voluntary group, they may increase their reliance on involuntary part-time workers. This suggests that demographic factors that affect the number of voluntary part-time workers may also affect the level of involuntary part-time work. Workers under age 25 are a primary source of voluntary part-time work, but their share of the labor force has declined substantially over the past three decades (Valletta and Bengali 2013). With fewer young workers available for part-time jobs, employers may shift part-time work towards groups for whom it is less likely to be voluntary.
+
+Businesses may increasingly prefer to employ part-time rather than full-time workers for various other reasons. Tax rules generally allow employers to exclude part-time workers from company benefit plans. Rising costs for health benefits therefore may prompt employers to shift toward part-time work to hold labor costs down. This could be intensified by the Affordable Care Act’s requirement that medium-sized and large employers provide health benefits, which is being rolled out in 2015–16 (Valletta and Bengali 2013). Employers in states with a high minimum wage or high wages in general may rely more heavily on part-time work to hold labor costs down. New scheduling technologies also may have reduced the cost for employers to arrange part-time schedules, prompting a general shift toward involuntary part-time work (Greenhouse 2012).
+
+Statistical analysis of state data
+
+To analyze the influence of these factors, we combined our state-level data on involuntary part-time work and unemployment with state data on health benefit costs, median and legislated minimum wages, industry employment shares, and the demographic (age/gender) composition of the state population. These data are available annually for 2006 and 2008–13 (data on health benefit costs are missing for 2007). Each of these series exhibits substantial variation across states and generally over time, except for the industry and demographic variables, which are relatively fixed. We analyze the relationship between involuntary part-time work and other factors using a statistical method that accounts for state-specific effects that are constant over time, known as a fixed-effects regression. The results therefore reflect the impact of factors that vary over time within states; the results are similar but more statistically precise when we also allow variation across states, particularly for the industry and demographic factors. Changes in work scheduling technology are not directly measured but are incorporated through general time effects in the model.
+
+The results confirm the predominant role of the unemployment rate, or business cycle effects, in determining the level of involuntary part-time employment. The state unemployment rate is by far the most important factor explaining variation in involuntary part-time work over time within states. The wage structure matters, in that high wages generally increase the number of involuntary part-timers; however, the minimum wage only influences the period from 2010 to 2013. Industry structure also exerts a meaningful influence, in particular the share of the wholesale trade and leisure and hospitality sectors in total employment. Demographics matter as well: A lower share of young people in the population significantly boosts involuntary part-time work. Higher health benefit costs do not tend to increase reliance on involuntary part-timers; evidence for 2010–13 instead suggests that they may reduce it, perhaps because many employers provide health benefits to part-time as well as full-time workers. Importantly, the general time effects do not have a noticeable impact after accounting for directly observed structural factors.
+
+Our model enables us to separately identify the change in involuntary part-time work over time that is attributable to cyclical factors, such as state unemployment rates, versus structural factors. This breakdown is not exact, but it gives us a relatively narrow range of estimates. Figure 3 depicts the midpoint of the range of estimated cyclical and structural components. From the base level of just under 3% in 2006, cyclical factors raised the rate of involuntary part-time work by slightly more than 2 percentage points at the peak in 2010, while structural factors raised it by a little over 1 percentage point. The cyclical component declined after 2010 and is likely to have continued falling beyond our sample period, while the structural component was relatively stable from 2009 through 2013.
+
+Figure 3
+
+Components of involuntary part-time employment Source: Authors’ calculations from fixed-effects regressions. Series are measured as shares of civilian employment.
+
+Conclusion
+
+The findings discussed in this Letter suggest that the elevated level of involuntary part-time employment since the Great Recession reflects mainly cyclical factors but also has an important structural component, consistent with Cajner et al. (2014). The structural component is reflected in the effects of industry composition, population demographics, and general wage levels. These factors have raised the rate of involuntary part-time work around 1–1¼ percentage points since 2006. How permanent such structural factors are is unclear. If they persist, they may keep the level of involuntary part-time work associated with the Federal Reserve’s maximum employment goal above the levels observed before the Great Recession by a similar amount.
+
+Rob Valletta is a vice president in the Economic Research Department of the Federal Reserve Bank of San Francisco.
+
+Catherine van der List is a research associate in the Economic Research Department of the Federal Reserve Bank of San Francisco.
+
+References
+
+Cajner, Tomaz, Dennis Mawhirter, Christopher Nekarda, and David Ratner. 2014. “Why Is Involuntary Part-Time Work Elevated?” Board of Governors FEDS Notes, April 14.
+
+Greenhouse, Steven. 2012. “A Part-Time Life, as Hours Shrink and Shift.” New York Times, Oct. 27.
+
+Robertson, John, and Ellyn Terry. 2014. “Part-Time for Economic Reasons: A Cross-Industry Comparison” FRB Atlanta Macroblog, July 18.
+
+Valletta, Rob, and Leila Bengali. 2013. “What’s Behind the Increase in Part-Time Work?” FRBSF Economic Letter 2013-24 (August 26).
+
+Yellen, Janet. 2014. “Labor Market Dynamics and Monetary Policy.” Speech at the FRB Kansas City Economic Symposium, Jackson Hole, Wyoming (August 22).

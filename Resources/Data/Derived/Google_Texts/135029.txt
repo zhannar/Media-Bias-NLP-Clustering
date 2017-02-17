@@ -1,0 +1,79 @@
+The cloud market is nothing if not fluid. Businesses must weigh concerns sparked by Edward Snowden’s disclosures of government scooping up customer data from cloud providers and the agility and flexibility that cloud computing offers. There is appeal in renting, not buying, compute and storage, especially for spiky workloads but … you have to worry about all that data.
+
+Given all that, it the move to cloud still seems inexorable.
+
+Advertisement
+
+Last week, the federal Centers for Medicare and Medicaid Services (CMS) told health insurers that they can use Amazon(s amzn) Web Services to store data they need to share with it, according to CNBC.com. AWS storage costs would be between $6,000 and $24,000 annually per insurer.
+
+Advertisement
+
+According to CNBC, Aaron Albright, CMS spokesman said:
+
+Advertisement
+
+“Based on feedback from stakeholders, CMS is offering issuers a new option for data reporting under the risk adjustment and reinsurance program … Issuers may select the option that best works for them for reporting data that is expected to begin later this year.”
+
+Advertisement
+
+This was probably welcome news to some, but not all, of the insurers since some had already bought the hardware they were told they’d need to handle their workloads.
+
+Advertisement
+
+This is apparently just part of a broader re-design of healthcare.gov, by a swat team called Marketplace 2.0 consists of techies from the Obama for America campaign who have parachuted “into the federal bureaucracy to rescue the site and help exceed the goal of 8 million insured households nationwide” according to Steven Levy at Wired.
+
+Advertisement
+
+Reached for comment, Teresa Carlson, VP of world wide public sector for AWS said via email that the company was “pleased to be helping with the redesigned portions of Healthcare.gov to deliver reliable, highly scalable, and low cost services.”
+
+Advertisement
+
+Health insurance is one of those highly regulated vertical industries that pose special issues for public clouds. Vendors must show that data is secure and private despite the use of shared infrastructure. This will be a topic front and center next week at Structure, where Amazon.com CTO Werner Vogels will be on stage.
+
+Advertisement
+
+Here’s more on what to expect from the big show.
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Lance Crosby, the IBM exec driving that company’s massive cloud effort will also be on hand at Structure. But for a sneak peek, check out his guest segment on the Structure podcast. He starts at around minute 18.
+
+Advertisement
+
+Advertisement
+
+More cloud computing news
+
+Advertisement
+
+Microsoft to U.S.: Stop your snooping and behave
+
+Advertisement
+
+Vodafone puts out wide-ranging transparency report hinting at secret surveillance programs
+
+Advertisement
+
+SEC not to recommend action against IBM on cloud revenue
+
+Advertisement
+
+SAP unveils plan for ‘simple’ cloud financial app suite
+
+Advertisement
+
+Dropbox acquires Droptalk, another stealth messaging startup
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+This story was updated at 5:31 a.m. PDT June 9 with more context about Healthcare.gov redesign efforts and with Amazon’s comment.

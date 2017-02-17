@@ -1,0 +1,23 @@
+Imagine it’s a beautiful spring day. Winter has finally passed, and you’re out for a long walk. You decide to try that new Italian place up the street. As you look over the menu, you receive a text message from your doctor. This can’t be good. She congratulates you on the healthy exercise, but warns you about adding too many carbs to your meal. She notes that your blood pressure is not looking good over the last week and suggests a slight uptick in medication.
+
+Sound intrusive? Instead, it could be the future of medicine. Nurses and doctors will one day serve as “care traffic controllers,” similar to how an airport keeps track of planes from a central command center. The idea is to monitor your health and, ultimately, keep you out of the emergency room, lower healthcare costs in the US, and save lives.
+
+The term “care traffic control” was coined by Dr. John Halamka, a Professor of Medicine at Harvard Medical School and the CIO of Beth Israel Deaconess Medical Center (BIDMC) in Boston.
+
+“We’re seeing a rise in readmissions for congestive heart failure exacerbations,” Halamka told FoxNews.com. “You go to the football game and have the chile con queso with nachos, but the hot sauce creates fluid retention and you wind up in the Emergency Room.”
+
+Care traffic control is one answer to offer a quick and efficient response. A caregiver monitors your vitals and warns you about potential problems or even adjusts your medication. Currently, it’s already possible to have hospitals and clinics closely monitor patients from a central command center. Wearable gadgets can track our activity, our weight, and our blood pressure and report this data already.
+
+Halamka said there are two hurdles to making it happen. One is that the medical field is designed around a “pay as you go” model. We visit the doctor only when we get sick. It’s better to monitor people and keep them out of the ER altogether. He added that this fits nicely with Affordable Care Act incentives and what President Obama called “precision medicine.” One caveat – hospitals and clinics get paid more as part of an Accountable Care Organization when people stay healthy.
+
+The second hurdle is technical. Most of the gadgets we use today are islands unto themselves. The Fitbit Aria Wi-Fi Smart Scale doesn’t share data with the Samsung Gear Fit smartwatch. Fortunately, Apple HealthKit and Google Fit are two emerging development platforms that can feed data into one repository in the cloud. As a result, hospitals only have to track one set of data.
+
+As a bonus, this personal health data is “opt-in” and controlled by the patient, so it does not fall under strict healthcare regulations such as the Health Insurance Portability and Accountability Act (HIPPA), said Alex Moazed, the CEO of Applico, a mobile app platform. According to Moazed, this framework is what makes care traffic control even possible.
+
+Other medical institutions are experimenting with patient monitoring, Moazed told FoxNews.com. Right now, the Hackensack University Medical Center is tracking heart attack patients, Stanford Healthcare uses an app that works with HealthKit, the Lucille Packard Children’s Hospital tracks diabetes patients using blood sugar monitoring, and the Mayo Clinic University of Pennsylvania Health System is looking at ways to collect data from patients on an ongoing basis.
+
+Halamka is already putting his theories about patient monitoring to the test. Members of his own staff have volunteered to use a smart scale to record their weight with a custom iPhone app developed at the hospital. This data is then fed to a computer using Apple HealthKit.
+
+With this data, Halamka can monitor weight changes and even predict health problems. Eventually, the app could capture blood pressure and blood sugar data, which are two additional predictors of serious health issues.
+
+That means the next time you order that chile con queso at the game, be aware — your doctor or nurse might be watching your every move.

@@ -1,0 +1,83 @@
+CIO Perspective
+
+In my previous column, I outlined five elements that are foundational for successfully delivering large-scale IT programs in government. In this and subsequent columns, I will cover each element in more detail and provide implementation approaches.
+
+The single most important element to program success is the team of leaders running the program as part of what is typically called the program management office (PMO) or integrated program team. There is usually significant focus on the program manager position, and having a skilled and experienced executive in that role is vital for large, complex IT programs. What I find surprising, however, is how many programs set up shop without all the key management disciplines in place.
+
+IT programs vary greatly, so there is not one model that fits every PMO. The following positions, however, are typically essential, and in my opinion, programs that lack solid individuals in these positions are at high risk of failure.
+
+Business lead -- A senior official from the mission or business organization who has ultimate responsibility for ensuring that the functional requirements are properly scoped and met by the delivered system.
+
+-- A senior official from the mission or business organization who has ultimate responsibility for ensuring that the functional requirements are properly scoped and met by the delivered system. System architect -- Someone who is both a technologist and an engineer and who can develop a technical solution to meet the requirements. He or she fully understands the agency's enterprise architecture and how the new system will interoperate with internal and external systems.
+
+-- Someone who is both a technologist and an engineer and who can develop a technical solution to meet the requirements. He or she fully understands the agency's enterprise architecture and how the new system will interoperate with internal and external systems. Security architect -- Someone who can ensure there is a proper security design and integration with the agency's architecture.
+
+-- Someone who can ensure there is a proper security design and integration with the agency's architecture. Data architect -- An absolute must for any highly data-centric system to ensure the proper integration of data from multiple, unrelated sources.
+
+-- An absolute must for any highly data-centric system to ensure the proper integration of data from multiple, unrelated sources. Requirements manager -- Not the business lead but the individual who understands the life cycle of managing requirements, from elicitation to the change management process to test and evaluation.
+
+-- Not the business lead but the individual who understands the life cycle of managing requirements, from elicitation to the change management process to test and evaluation. Development and integration manager -- Someone who is too often missing from the team. If you are developing software or implementing a complex configuration of a commercial package, you need such an individual.
+
+-- Someone who is too often missing from the team. If you are developing software or implementing a complex configuration of a commercial package, you need such an individual. Test manager -- The person who brings a solid, end-to-end view of the testing process.
+
+-- The person who brings a solid, end-to-end view of the testing process. Configuration manager -- The person who accounts for everything and runs a tight change-control process.
+
+-- The person who accounts for everything and runs a tight change-control process. Operations manager -- The one who knows how to field and operate systems. This individual is always required and is even more critical as the government moves toward incremental delivery. It is not unusual for programs to simultaneously have a release in production, another in development and testing, and a third in requirements definition and design.
+
+-- The one who knows how to field and operate systems. This individual is always required and is even more critical as the government moves toward incremental delivery. It is not unusual for programs to simultaneously have a release in production, another in development and testing, and a third in requirements definition and design. Contracting officer -- The leader from the procurement organization that handles the processes for procurements and resultant contracts.
+
+Too often, the program manager cannot point to the individuals filling each of those key roles, or too many of the roles are filled by contractor personnel. Many successful systems have been delivered with contractors in a number of the above roles. In my experience, however, it adds risk to a program if contractors fill most of the roles.
+
+Naming names: PMO linchpins This list is far from comprehensive, but these individuals are real-life examples of the exceptional talent agencies need. Program manager:
+
+Col. Patrick Burden
+
+Project Manager, General Fund Enterprise Business System, Army Business lead:
+
+Deborah Nolan
+
+Former Commissioner, Large and Mid-Size Business Division, Internal Revenue Service System architect:
+
+Tom Lucas
+
+Former Senior Adviser for Enterprise Architecture, IRS Security architect:
+
+David Carroll
+
+Chief Security Architect, DHS Data architect:
+
+Michael Simcock
+
+Chief Data Architect, Department of Homeland Security Requirements manager:
+
+Marla Somerville
+
+Associate CIO, Affordable Care Act PMO, IRS Development and integration manager:
+
+Tracy Hollis
+
+Solutions Engineering Manager for the Homeland Security Information Network, DHS Test manager:
+
+Ross McDonald
+
+Former Senior Technical Adviser, IRS Operations manager:
+
+Damon Bragg
+
+Former Services Operations Manager, DHS Contracting officer:
+
+Tiffany Hixson
+
+Regional Commissioner, General Services Administration Note: This list includes several retired feds and even then lacks a name for one key role -- evidence of just how hard it is to assemble and keep top program management talent. Know someone else we should have included? Let us know on Twitter at @FCWnow.
+
+It is not that the contractor employees do not possess the necessary competence, and the PMO can certainly include contractor personnel in support roles. But the goal is for a PMO to be integrated, and that is difficult to do with contractor personnel holding most of the key roles. The government needs strong contractor teams to help it execute large, complex programs. But even more important, we need strong government-led PMOs to provide leadership and oversight of the work.
+
+Another key to success is ensuring the involvement of the right mission or business organization. Having full-time mission representatives who can successfully work within the PMO to define the system's requirements is crucial. In assessing a program, I look for individuals on the PMO team who are steeped in the current process end-to-end, who have true credibility with senior management, and who demonstrate flexibility to deal with unending change as a program unfolds and matures.
+
+Unfortunately, those crucial individuals are all too often absent in federal IT programs. The business does not give up the star players to fill those roles. You will often have specialists in particular business areas, but no one who has an end-to-end view. That impinges on a program's change management process and ultimately affects its schedule and cost. It does not in and of itself doom a program, but it is a predictor of failure.
+
+Finally, all members of the PMO should report to the program manager and should be measured and assessed on a shared set of objectives -- outcomes that support meeting the mission or business objectives that spawned the need for the program.
+
+Too often members of the PMO are measured on process results rather than on beneficial outcomes. The federal government would improve its ability to buy IT substantially if the contracting officers reported to the program managers and were measured not just on following the procurement regulations but on deliverables provided by the contractor and the success of the program. Program managers are often stuck with contract vehicles that are ill suited to the work that needs to be done, and they have no recourse.
+
+Can a well-staffed PMO guarantee success? Of course not. But a PMO stocked with qualified leaders in the required disciplines who are working toward a common set of outcome-based success measures is the most important element for any complex IT program. It is where every agency should start.

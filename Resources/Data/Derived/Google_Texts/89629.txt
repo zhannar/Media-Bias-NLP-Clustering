@@ -1,0 +1,27 @@
+Modern, Internet-enabled aircraft may be susceptible to hacking, according to a new government report.
+
+“Modern aircraft are increasingly connected to the Internet,” warns the Government Accountability Office report. “This interconnectedness can potentially provide unauthorized remote access to aircraft avionics systems.”
+
+Much like your own computer, if a plane’s Internet-connected safety systems aren’t protected by firewalls, it could be breached by a hacker or a virus.
+
+On a modern plane, however, vital systems are linked to the same Wi-Fi system that passengers use. Therefore, a hacker could potentially access these systems.
+
+According to the report, the Federal Aviation Administration “faces cybersecurity challenges” in several different areas, including securing air-traffic control information systems and avionics, and “clarifying cybersecurity roles and responsibilities among multiple FAA offices.”
+
+Gerald Dillingham, one of the authors of the report, told The Daily Signal in an interview the report is “forward looking,” and that there is “very little, if any” impact for civilian day-to-day travel at the current time.
+
+He said newer, modern aircraft such as the Boeing 787 Dreamliner or the Airbus A350 are “very Internet protocol based,” and that an individual with nefarious intent might be able to access vital controls by breaching firewalls with a virus if proper protocols are not in place.
+
+Dillingham said the intent of the report is to call attention to the need for a standard set of regulations for Internet-connected aircraft going forward.
+
+“Hackers are always trying to find the next way in,” said Dillingham.
+
+He added that since the report was released on April 14, there have already been steps taken to “mitigate” the risks.
+
+Rep. Peter DeFazio, D-Ore., ranking member of the House Transportation and Infrastructure Committee, told CNN the report “exposed a real and serious threat—cyberattacks on an aircraft in flight.”
+
+“[The Federal Aviation Administration] must focus on aircraft certification standards that would prevent a terrorist with a laptop in the cabin or on the ground from taking control of an airplane through the passenger Wi-Fi system. That’s a serious vulnerability,” said DeFazio.
+
+David Inserra, an expert on cybersecurity at The Heritage Foundation, said the report “points to the new trend: security in the so-called Internet of Things.”
+
+“Increasingly, normal objects are becoming connected to the Internet, ranging from your coffee maker to the airplane you fly on, bringing new opportunities and benefits, but also real security concerns,” said Inserra. “Moving forward, the United States needs to be more security conscious, not just accepting the benefits of technology, but also realizing that security is necessary to maximize those benefits and minimize potential harm.”

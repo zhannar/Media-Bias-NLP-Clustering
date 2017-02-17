@@ -1,0 +1,69 @@
+Suzanne Delbanco, Robert Berenson, Divvy Upadhyay, and Roslyn Murray
+
+May 25, 2016
+
+There is a lot of commotion around payment reform, with a proliferation of ways to pay health care providers and many different definitions of similar terms. This has led to efforts by experts and stakeholders in health care to define or classify payment methods — e.g. Harold Miller’s Payment Reform Glossary and the Learning and Action Network’s Framework. However, none of these has both defined and critically analyzed the various payment methods, or examined how they may interact with each other as well as the insurance benefit designs to which providers’ patients are subject.
+
+Speaking of benefit designs, they are evolving at almost the same rate; however, they have not been the focus of health care reform discussions, other than recently in the context of the Affordable Care Act (ACA) marketplaces. This is perhaps because Medicare and Medicaid benefit design is set by law and effectively frozen, whereas private health care purchasers are able to innovate freely. Thus, unlike for payment methods, there has been little to no effort to define and categorize benefit designs, and similarly no attempt to analyze their nuances.
+
+Creating Typologies
+
+With the help of a Technical Expert Panel, the Urban Institute and Catalyst for Payment Reform (CPR) partnered to define and categorize the payment methods and benefit designs available in the market into two “typologies” based on their characteristics.
+
+Our typology of payment methods classifies payments into two major categories: base or incremental. A base payment is a provider’s underlying compensation. Base payments can be fixed (salary), activity-based (fee schedules or case rates), and population-based (capitation). Incremental payments are those that are layered on top of base payments. For example, pay-for-performance may be paid in addition to the fee schedule and standard hospital payment, or shared risk can be layered on top of capitation to a provider group.
+
+We also classified benefit designs into two categories: cost sharing and contingent coverage. Benefit designs in the “cost sharing” category utilize basic forms of cost sharing (co-payments, co-insurance, deductibles) as well as more directive forms to encourage consumers to use particular providers or services. Benefit designs in the “contingent coverage” category require consumers to receive approval from a qualified entity (payer or provider) to utilize their insurance coverage.
+
+Payment Methods and Benefit Designs: How They Work
+
+Many of those experimenting with or interested in implementing reforms don’t understand the nuances of the payment methods and or benefit designs involved: their strengths and weaknesses; how to combat potential weaknesses; what performance measures should be used to counter possible unintended consequences; and how these incentives may affect provider pricing. Having a greater understanding of the nuances inherent in provider and consumer incentives can help implementers determine where their reforms fall short and how they can address those challenges.
+
+In particular, the nine payment methods either in common use or proposed as reform methods that warrant close examination include:
+
+fee schedules;
+
+primary care capitation:
+
+per diems;
+
+diagnosis-related groups;
+
+global budgets;
+
+bundled episodes;
+
+global capitation;
+
+shared savings; and,
+
+pay for performance.
+
+On the benefit design side, those approaches that utilize cost differentials to encourage consumers to use particular providers or services require in-depth exploration, particularly because they are newer methods that employers and other purchasers are looking to implement. These include:
+
+narrow networks;
+
+tiered networks;
+
+reference pricing;
+
+high deductible health plans;
+
+centers of excellence;
+
+value-based insurance design; and,
+
+incentives to use alternative sites of care.
+
+Analyzing these payment methods and benefit designs will help implementers understand how they might complement each other and support more informed consumerism among patients.
+
+How Payment Methods and Benefit Designs Support Health Care Delivery
+
+Understanding how payment methods and benefit designs work can serve another purpose. With the flurry of activity, many stakeholders have not yet made time to examine how these methods can act together to align the incentives of providers and consumers in the design of health care delivery models.
+
+For example, for accountable care organizations (ACOs) that take on financial risk in the form of shared risk and/or capitation, a narrow network might best drive consumers to seek care from the ACO’s providers only. This makes it easier for the ACO to manage and coordinate attributed patients’ care. ACOs may be less willing to take on risk if their patients have the ability to seek care from providers who are not in the ACO; therefore, a broad network would not lend support to a risk-based payment method for an ACO.
+
+For patient-centered medical homes (PCMHs), value-based insurance design (V-BID) could reduce financial barriers to high-value care, thereby aligning the interests of the patient and practice. Additionally, because V-BID lowers consumer cost sharing for services with well-established positive impacts on the quality of care, this sets the provider up for practice patterns that may serve as the basis for potential bonuses. In addition, capitated payments to providers in the PCMH would support its ability to make care more accessible to patients through, for example, telehealth visits, which can be less expensive to provide and less costly for patients.
+
+Focused factories are a uniform approach to delivering a limited set of high-quality services efficiently, such as a center of excellence for joint replacement. When providers are paid essentially a package price for bundled episodes, consumers can calculate their portion of that price up front and select a provider accordingly. Reference pricing, which establishes a standard price and requires the plan member to pay any allowable charges above that price, could also steer consumers to these expert providers.
+
+As many forces push the health care system to experiment with and expand newer health care delivery models, such as PCMHs, ACOs, and focused factories, it is critical to think about how we can best align provider and consumer incentives. It will take more work than thinking about each reform in isolation, but the time has come.

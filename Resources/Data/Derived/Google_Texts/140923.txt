@@ -1,0 +1,31 @@
+Trifacta, the data-transformation startup that launched in 2012 with a promise to blend machine learning and user experience, has finally released its first product, the Data Transformation Platform. The idea behind the company was simple — people spend way too much time cleaning messy data before they actually can do any meaningful analysis on it — and the software seems to be simple, too.
+
+The process is relatively straightforward: import data sample from Hadoop to desktop; train Trifacta’s software to know what you want to do with the data; make sure it got everything, and train it again if not; set the resulting JavaScript or Pig script loose on the data; and then download the JSON or CSV file with the end result and upload it to analytic software. Of course, the magic happens under the surface.
+
+Advertisement
+
+Trifacta’s software uses machine learning to try and predict the types of data each field represents, even in the messiest data sets. As users go through and click on a certain value or field, the software will try to predict what they want to do next (e.g, extract whole rows and columns, or perhaps just certain parts of any given value, like the operating system without the version number). Users can see the script being generated as they’re doing the training.
+
+Advertisement
+
+Trifacta uses scripts rather than algorithms, Co-founder and CEO Joe Hellerstein said, “[B]ecause you never really know what you want to do with your data and a computer certainly doesn’t.”
+
+Advertisement
+
+Right now, Trifacta’s software assumes there’s a Hadoop cluster already in place as the primary data source, although Hellerstein said it could work with other sources pretty easily should customers demand them. Among Trifacta’s early customers is Lockheed Martin, which is using it to transform data for the Centers for Medicare and Medicaid Services, the government agency that administers those services as well as federal exchanges under the Affordable Care Act. Another customer, also in the health care space, is Accretive Health.
+
+Advertisement
+
+The problem Trifacta is trying to solve is significant, especially at the scale that most Hadoop users — which now includes a large portion of major companies — are operating. If you’re taking in lots of log data, mainframe data or anything else that’s not a neatly organized table, getting it to a place where a business analyst can actually use it in a service like Tableau or R becomes a headache that requires writing a lot of custom code. We’re going to talk a lot about using new types of data to do new things at our Structure Data conference in March, and many of those use cases, even if they don’t involve reporting, require companies being able to transform their source data into something machine-readable.
+
+Advertisement
+
+That’s why Accel Partners, an investor in Trifacta, is also backing a similar startup in Paxata (which is also a Structure Data award winner) and why even consumer-based startups like DataHero are trying to build in data-transformation intelligence. The latter use case could actually be really beneficial as we move toward a data democracy where all citizens have some access to easy data analysis tools, but even though Trifacta can run on a desktop using JavaScript, it can be a tough way to make a living so Trifacta isn’t pushing that capability too hard.
+
+Advertisement
+
+Because you need a lot of paying customers to make up for the small amount most individuals are willing to pay for software, Hellerstein explained, “The Excel market is much less forgiving to a startup company.”
+
+Advertisement
+
+Thumbnail image from Thinkstock/Goodphotos

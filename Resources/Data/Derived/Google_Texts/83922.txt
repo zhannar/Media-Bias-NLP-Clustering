@@ -1,0 +1,105 @@
+Timothy Jost
+
+February 26, 2016
+
+Implementing Health Reform (February 29 update). There have been a couple of recent litigation developments respecting the Affordable Care Act. First, on February 29, 2016, the Supreme Court refused to review Hotze v. Burwell. This case had alleged that the ACA was unconstitutional as it was adopted in violation of the Origination Clause, which requires that bills to raise revenue must originate in the House of Representatives.
+
+The district court had held that Congress had not violated the Origination Clause in adopting the ACA because the ACA was not a bill to raise revenue and because the ACA had been properly amended by the Senate, which in fact took a House revenue raising bill and stripped it of its content, replacing it with the ACA. The Fifth Circuit dismissed the Hotze case for lack of jurisdiction, and the Supreme Court refused to grant certiorari, thus the case is over.
+
+In January the Supreme Court had refused to review a decision of the District of Columbia Circuit Court of Appeals rejecting another Origination Clause ACA challenge. It would seem that whatever challenges may lay ahead for the ACA, a court decision that it violates the Origination Clause is not among them.
+
+On February 24, 2016, Health Republic Insurance Company, a defunct Oregon health insurance CO-OP filed a class action in the Court of Federal Claims claiming damages and injunctive relief against the federal government for its failure to fund the ACA risk corridor program. Section 1342 of the ACA states that the Department of Health and Human Services (HHS) “shall establish and administer a program of risk corridors for calendar years 2014, 2015, and 2016,” and that HHS “shall provide under [this program] that if—
+
+(A) a participating plan’s allowable costs for any plan year are more than 103 percent but not more than 108 percent of the target amount, the Secretary shall pay to the plan an amount equal to 50 percent of the target amount in excess of 103 percent of the target amount; and (B) a participating plan’s allowable costs for any plan year are more than 108 percent of the target amount, the Secretary shall pay to the plan an amount equal to the sum of 2.5 percent of the target amount plus 80 percent of allowable costs in excess of 108 percent of the target amount.
+
+Despite the mandatory language of the statute, Congress limited risk corridor programs in the 2015 budget bill to the amount collected from insurers who had excessive profits under the program receipts, causing HHS to be only able to pay out 12.6 percent of program obligations. Congress has similarly restricted payment to receipts for 2016.
+
+The plaintiffs allege that the underpayments caused them, and similarly situated insurers, to suffer massive losses, and, in the case of Health Republic, to be forced out of business. They ask that the court award them the amount they were entitled to under the statute, other damages and interest, declaratory, and injunctive relief.
+
+Although this case will take some time to work its way through the courts, it seems to me that the mandatory language of section 1342 is quite clear and the plaintiffs’ argument for relief is quite strong. Moreover, the payment of damages by the Court of Claims from the judgment fund would not be limited by the appropriations riders that Congress placed on the HHS appropriations bills.
+
+As the complaint alleges, the appropriations riders have already caused great damage, driving a number of insurance companies out of business and depriving their employees of their jobs. The closure of these insurers have also deprived their enrollees of the coverage they chose and probably caused many of them to have to change health care providers as they had to enroll in a different insurer with a different network. Any ultimate judgment for the insurers will come too late to rectify these injuries.
+
+Original Post.
+
+Section 2715 of the Affordable Care Act directs the Secretary of Health and Human Services to:
+
+develop standards for use by a group health plan and a health insurance issuer offering group or individual health insurance coverage, in compiling and providing to applicants, enrollees, and policyholders or certificate holders a summary of benefits and coverage explanation that accurately describes the benefits and coverage under the applicable plan or coverage.
+
+The uniform summaries of benefits and coverage (SBCs) developed under this provision allow health insurance shoppers to make apples-to-apples comparisons among available health plans and assist enrollees to better understand and use their own coverage. Section 2715 also requires the development by HHS of a uniform glossary of medical and insurance terms to be used in tandem with the SBC. The SBC requirement applies to all health coverage, including group and individual plans, self-insured and insured plans, and grandfathered and transitional plans.
+
+Background
+
+Section 2715 required HHS to issue these standards within a year of the enactment of the ACA, but also to consult with a stakeholder group, which was convened by the National Association of Insurance Commissioners (NAIC). The initial regulations and SBC template were issued by HHS and by the Departments of Labor and Treasury in February of 2012.
+
+In December of 2014 the departments issued a notice of proposed rulemaking (NPRM), proposing changes both in the SBC rule and in the template (hereafter referred to as the NPRM template”). The rule, which primarily addresses issues involving the distribution of SBCs, was finalized in June of 2015 . In March of 2015, however, the departments stated that they would bifurcate the process and hold up on issuing the template until pending further input from the NAIC and consumer testing.
+
+The NAIC again convened a stakeholder group (of which I was a member) that met twice a week for 60 to 120 minutes by conference call throughout the spring, summer, and fall of 2015 working on improving the proposed SBC template, instructions, and uniform glossary. In August of 2015, the NAIC consumer tested its modified SBC template. After further revisions in light of the consumer test results, the NAIC sent its proposed SBC template to the departments in October. The NAIC stakeholder group continued to work on the uniform glossary, which it completed and forwarded to the departments in early December.
+
+At this point, however, the NAIC was informed that it had been proceeding on an assumption not shared by the departments. Section 2715 requires that “the standards shall ensure that the summary of benefits and coverage is presented in a uniform format that does not exceed 4 pages in length.” The NAIC had reasonably interpreted that to mean that the “uniform format,”—that is, the template—must not exceed four pages.” (The departments had already concluded that four pages meant four double-sided pages, that is eight pages). But the departments were advised by their general counsels that the filled-out form could not exceed eight pages. The NAIC stakeholder SBC, therefore, had to be cut.
+
+The New Proposed SBC Template
+
+On February 25, 2016 the departments released a proposed revised SBC template, proposed individual and group instructions, and a proposed uniform glossary. The proposed template is shorter than the NAIC-recommended SBC template. The documents are exposed for a thirty-day comment period. They will presumably not be effective for marketplace coverage beginning January 1, 2017, but could be effective for plan years beginning with the second quarter of 2017.
+
+Pre-Deductible Services
+
+The proposed revised template adopts many of the NAIC stakeholder group recommendations and is a distinct improvement over the original NPRM template. It includes a new question—“Are there services covered before you meet your deductible?”—to identify the growing number of health plans that cover some primary care, generic or preferred drugs, and even specialist services before the deductible applies. These before-the-deductible services are also identified in the common medical events section.
+
+Embedded Deductibles
+
+The instructions to the proposed revised template, unlike those that accompanied the NPRM template, require family coverage plans to disclose whether the plan has “embedded” deductibles or out-of-pocket limits (under which family members can meet individual deductibles or out-of-pocket limits before the family deductible or out-of-pocket limit is met), or “non-embedded” deductibles and out-of-pocket limits (where the full family deductible or out-of-pocket limit must be met before any family member benefits).
+
+Tiered Networks
+
+The proposed revised instructions require the disclosure of tiered networks in response to the front page question, “Will you pay less if you use a network provider?” with more information in the common medical events chart. Plans must make clear which provider tiers are most and least expensive. The SBC warns consumers that they may receive services from out-of-network providers while in in-network facilities and urges consumers to check with their providers to make sure services are covered. Consumers are told that they might receive balance bills from out-of-network providers.
+
+Unlike the current and NPRM versions, the proposed revised template notes that information on the premium is provided separately. The revised template contains somewhat more granular data on pregnancy claims. It contains clearer explanations of the meaning of minimum essential coverage and of the minimum value standard.
+
+“Core” Limitations And Exceptions
+
+The proposed revised instructions require disclosure of certain “core” limitations and exceptions not required by the NPRM instructions, including:
+
+When a service category or substantial part of a category is not covered,
+
+When cost sharing for covered in-network services does not count toward the out-of-pocket limit,
+
+When limits are placed on the number of visits or specific dollar amounts payable under the plan, and
+
+When prior authorization is required for a service.
+
+The instructions do provide, however, that when these disclosures would cause the SBC to exceed eight pages, disclosures can be provided by referencing a specific page or section of a plan document, such as the summary plan description, where more information can be found.
+
+Abortion
+
+Consumers have long complained that it is difficult to tell whether health plans cover abortion or not. Under the proposed revised instructions, qualified health plans offered through the marketplaces are required to disclose whether or not they cover abortion services. Plans that cover excepted abortions (in cases of rape or incest and when the mother’s life is at stake) and non-excepted abortion services must list “abortion” in the covered services box. Plans that exclude all abortions must list “abortion” in the excluded services box. Plans that cover only excepted abortions must list in the excluded services box “abortion (except in cases of rape, incest, or when the life of the mother is endangered)” and may also cross-reference another plan document that more fully describes the exceptions.
+
+Health plans other than qualified health plans are not required to disclose abortion coverage but may do it in the same way. Multi-state plans are subject to separate Office of Personnel Management rules on abortion coverage and disclosure.
+
+Coverage Examples
+
+Section 2715 requires SBCs to include “a coverage facts label that includes examples to illustrate common benefits scenarios, including pregnancy and serious or chronic medical conditions and related cost sharing.” The proposed revised SBC includes three coverage examples: maternity, diabetes, and a simple fracture. The proposed revised SBC tracks the NAIC stakeholder recommended format for the coverage examples, which is somewhat less misleading and confusing than the NPRM version. It focuses on cost-sharing parameters that would apply to services received for these conditions and on what consumers would spend in cost sharing for these services.
+
+Significantly, the coverage examples are to be calculated by plans that have wellness programs assuming that enrollees are not participating in the wellness program, although the plan can also indicate that costs may be reduced if enrollees do participate. The departments have also revised the coverage example calculator to make it more accurate.
+
+Glossary And Hyperlinks To Definitions
+
+The revised glossary tracks closely the NAIC stakeholder group recommendations rather than the NPRM. The changes are mostly technical and aimed at achieving greater readability or accuracy. In a few instances, however, changed definitions do serve a more substantive purpose, such as clarifying that balance bills are not necessarily consumer obligations and that habilitation services can be medically necessary. The glossary contains helpful illustrations showing how common cost-sharing features work.
+
+The departments seem to have adopted the NAIC stakeholder group’s recommendation that the departments underline all terms used in the SBC that are defined in the glossary and permit insurers and health plans that issue electronic SBCs to hyperlink these terms in the SBC to a federal website where the terms are defined. This should make the glossary much more useful.
+
+Languages Other Than English
+
+The departments provide the SBC and uniform glossary in English, Spanish, Navaho (written and oral) and Tagalog. QHP insurers are also required to provide taglines in the top fifteen languages in their state on the SBC. These taglines are not subject to the otherwise absolute eight page limit.
+
+Explanatory Coverage Page Dropped
+
+While the departments by and large followed the NAIC’s template recommendations, they did not adopt them entirely. Most importantly, the proposed revised template drops a cover page that the NAIC stakeholder group added after consumer testing to explain the purpose of the SBC and how to use it. The departments believed that the extra page of explanations would make it too difficult for plans to stay within the eight page limit.
+
+On the whole the proposed revised SBC is a distinct improvement over both the current SBC and the NPRM version. It is unfortunate, however, that consumers in the marketplaces will have to wait until the 2018 open enrollment period for these changes to be put in place.
+
+Basic Health Plan Funding Methodology
+
+On February 25, 2016, HHS also published its final basic health plan program federal funding methodology for 2017 and 2018. The ACA included the basic health program as a choice for states that choose to provide a simpler and possibly more affordable option for individuals with incomes between the Medicaid eligibility level and 200 percent of the federal poverty level. The methodology is of more than theoretical interest now that Minnesota and New York have implemented basic health programs.
+
+HHS received virtually no comments on the 2017 and 2018 funding methodology it had proposed in the fall of 2015 and adopted it unchanged. The funding methodology is also essentially identical to that used in 2015 and 2016 except for minor updates.

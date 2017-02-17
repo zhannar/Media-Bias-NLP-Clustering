@@ -1,0 +1,19 @@
+It’s one for the weird section of the history books.
+
+On April 5, researchers from the National Heart Lung and Blood Institute (NHLBI) announced a milestone in the field of organ transplantation: The longest stretch of survival for a beating transplanted heart originally belonging to another species. The team, led by Dr. Muhammad Mohiuddin, transplanted the hearts of five genetically modified pigs into test baboons and then placed the baboons on a newly developed regimen of transplant drugs — one that additionally suppressed the production of an antibody thought crucial to organ rejection called CD40.
+
+The median length of survival for the hearts was 298 days, and the longest lasted 945 days; the previous record for both was 180 and 500 days respectively. The researchers’ efforts, formally published in the journal Nature Communications, mark one of the biggest leaps taken in cross-species- or xenotransplantation.
+
+“People used to think that this was just some wild experiment and it has no implications,” Dr. Mohiuddin, chief of the transplantation section in the Cardiothoracic Surgery Research Program at NHLBI, told Science Magazine. “I think now we’re all learning that [xenotransplantation in humans] can actually happen.”
+
+The pigs were bred without the ability to produce the Gal gene, responsible for creating a carbohydrate that triggers a strong immune response from humans and other primates. But they were also gifted the ability to produce two human proteins, CD46 and human thrombomodulin. These modifications all served to decrease the chances of their transplanted hearts causing inadvertent blood clotting once inside the baboons — the baboons were also given the blood thinner heparin as further prevention.
+
+The hearts themselves were hooked up to the baboons’ cardiovascular system and placed inside their abdomens, but didn’t actually replace their original hearts. That allowed the researchers to more safely monitor the progress of the hearts and let the baboons survive even if the hearts failed. On the flip side, that also means the researchers didn't prove that these transplanted hearts can really work as replacements.
+
+Still, Mohiuddin and his colleagues are hopeful about the implications of their research. While the hearts began to fail once the baboons were gradually weaned off the anti-CD40 therapy, meaning that long-term survival can only happen with a dedicated treatment regimen, the study notes there are new anti-CD40 drugs in the pipeline that may improve the process in the near future. They plan to conduct new baboon trials that replace the heart entirely. Outside scientists like Dr. Willard Eyestone, a specialist in developmental biology and animal genetic modification at Virginia Tech, are optimistic as well.
+
+“The good news emanating from these findings is that the system used to achieve these results, perhaps with some modifications, should be applicable to early-stage human trials using pig hearts with similar genetic modifications,” Eyestone told Genetic Expert News Services. “Refinement of these promising results should go a long way to translating xenograft technology for human medicine, and relieve the vast shortage of human hearts, kidneys and livers required to save the many patients who die every day waiting for an organ that never comes.”
+
+So-called “humanized pigs” have also been considered possible lung donors, and scientists elsewhere have used gene-editing methods such as CRISPR to create safer donor pigs.
+
+Source: Mohiuddin M, Singh A, Corcoran P, et al.Chimeric 2C10R4 anti-CD40 antibody therapy is critical for long-term survival of GTKO.hCD46.hTBMpig-to-primate cardiac xenograft. Nature Communications. 2016.

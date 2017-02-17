@@ -1,0 +1,35 @@
+Aaron Levie, co-founder and chief executive officer at Box Inc., speaks during a featured session at the South By Southwest (David Paul Morris/Bloomberg)
+
+Cloud file-storage site Box announced Monday that it's tapped the country's first chief technology officer, Aneesh Chopra, to serve as an adviser for its growing work in the health-care space. The firm has also hired Glen Tullman, former chief executive officer of electronic health record company Allscripts, to help that effort.
+
+Chopra, who resigned as the country's first CTO in January, will help Box as it continues to build out its cloud services to health-care providers. Box announced last spring that its service was compliant with the Health Information Portability and Accountability Act, or HIPAA, the main privacy and security health law for the United States. That set the stage for high-profile partnerships with hospitals and universities including the Wake Forest Baptist Medical Center, to help physicians and other medical professionals easily access health records in the cloud.
+
+Aaron Levie, Box's co-founder and chief executive, said that the interest the firm has seen from medical companies has been stunning.
+
+"It's our fastest growing vertical," he said. "That speaks for itself in terms of adoption and how quickly things are transforming."
+
+Levie said that Box decided to become HIPAA-compliant after hearing that many of its customers were using Box in an "unsanctioned" way, to upload and access medical data for convenience's sake.
+
+Chopra said that since the passage of the Health Information Technology for Economic and Clinical Health Act, or HITECH Act, the government has found that many health data breaches are the result of human error, because people "go rogue" and download health record information onto thumb drives and inadvertently pose a risk to the security of those data.
+
+Having a company like Box smoothing the path to sharing medical information is critical, said Chopra, particularly in light of the government's pushes to move records to a "cloud-first" model and the fact that the behavior was already happening.
+
+"It addresses head-on that rogue behavior," he said. "We want people to have the data they need to be sharing."
+
+Chopra also said that, due to payment reforms in the Affordable Care Act, there's now an economic incentive for physicians and health-care providers to collaborate, and being able to access cloud-based records can help with that process.
+
+The boom in medical and health-care technology is showing up across the technology industry -- perhaps one of the hottest sectors for growth this year -- which can be a bit surprising given its stodgy image.
+
+"If you were to say to me that health-care technology was going to be the hottest sector for innovative technology, five or seven years ago, I would not have believed you," Chopra said.
+
+But Tullman noted that this is a critical time for innovation in the health-care space, specifically because health-care professionals need those sharing tools, and also because individuals are collecting more information about themselves and need help both parsing and storing that information.
+
+Alone, he said, information from something like a smart glucometer doesn't provide a whole lot of valuable information.
+
+"Now, if you pair that glucometer information with the number of steps [a patient] has taken, that becomes incredibly valuable data," he said. "The question is how do you keep it secure." Those problems, he said, will be the type of issues that will come up as technology evolves.
+
+Levie said that he hopes, in the long-term, that Box will be able to become a broader platform for all health-care services.
+
+"What you'll see as the first step is file-sharing and collaboration, whether it's a doctor who needs information or to share something with a patient," he said. Over time, however, he said that Box wants to provide underlying technology for all types of services in the sector.
+
+The appetite, he said, is there. "Everybody wants to drive innovation, every institution wants to see more technology innovation," Levie said. "In the past it’s been a case of either misunderstanding the regulatory environment, or of having the tech players with enough knowledge to get the regulatory realities. That is probably what is constraining more of the innovation in this market."

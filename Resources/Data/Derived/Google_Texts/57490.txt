@@ -1,0 +1,29 @@
+The public release of roughly 33 million people's personal information from cheating site Ashley Madison on Tuesday, while likely mortifying for the outed users, is more than just an act of public shaming. It's a very real security threat.
+
+With the information made public, hackers can and likely will leverage the database to get into other password-protected sites and systems.
+
+And since the Ashley Madison data dump also included thousands of government email addresses, criminals also have access to personal information about military and intelligence officials.
+
+The technique is simple but effective: many websites allow users to access restricted areas without a password if they can provide multiple pieces of personal information to verify their identity. Using a database like the one from Ashley Madison, stitched together with some of the countless other databases of stolen information that are easily accessible on the dark corners of the Internet, a hacker can assemble a fairly complete snapshot of an Internet user's profile that can then be used to bypass security steps on a website or computer system.
+
+That's likely how Russian hackers gained entry into more than 300,000 U.S. taxpayers' records on the Internal Revenue Service website earlier this year. The intruders accurately answered identity-based questions about those taxpayers to gain access to their tax history and IRS transcripts, and used that information to file more than $50 million in fraudulent tax returns.
+
+The Ashley Madison hack revealed only relatively basic information—things like names, online usernames, street addresses, phone numbers, and the last four digits of payment cards—but even those innocuous records could be enough for hackers.
+
+Other hacks, like the breach of more than 20 million individuals' records at the Office of Personnel Management, have compromised much more sensitive pieces of information. Some of the information accessed in the OPM attacks included Social Security numbers, financial and health history, and even more than a million fingerprint files.
+
+Experts say the spoils of the OPM breaches have not appeared for sale or for free on the Internet, likely because the hackers, which U.S. officials say were tied to the Chinese government, would rather keep the information for their own use.
+
+But other large-scale hacks, like the breaches at health insurance companies Anthem and Premera, also included sensitive personal information. Soon after large hacks like these, databases of stolen information usually begins to pop up on online marketplaces for would-be hackers to purchase. A Quartz investigation found that the going rate for a complete stolen identity on the Internet is about $20.
+
+But while the average Ashley Madison user should be worried that his or her information, now public, could make identity fraud easier for a hacker to pull off, a subset of Ashley Madison users could be in an even riskier position.
+
+A preliminary look at the Ashley Madison data dump revealed that about 10,000 emails belonged to U.S. officials, including employees of the Department of Justice and the National Security Agency. A Twitter user that goes by t0x0 uploaded a count of all the .gov and .mil email addresses in the Ashley Madison database.
+
+Since the site did not rigorously confirm its users email addresses, it's likely many of the government emails are fake. Forty-four email addresses in the database are on the domain "whitehouse.gov," for example, whereas most White House employees have addresses that end in "who.eop.gov."
+
+But for those among the 10,000 addresses in the leak that were real, the consequences could be bigger than just personal embarrassment or a few fraudulent data charges.
+
+It's easy for hacks of federal databases to snowball, just like hacks of commercial or retail websites do. One of the breaches at OPM, for example, began when a hacker got into the system using a compromised credential from an earlier cyberattack on an OPM contractor.
+
+(Image via DeeaF/Shutterstock.com)

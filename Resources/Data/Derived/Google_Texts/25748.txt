@@ -1,0 +1,15 @@
+The U.S. government’s healthcare insurance sign-up site HealthCare.gov is quietly handing over deeply personal information to advertising and social networks, according to a Tuesday Associated Press report.
+
+The Electronic Frontier Foundation (EFF) followed up by checking out what’s being passed on, and discovered it includes things like pregnancy status, income level, zipcode, smoking status, parental status and age. The information is being sent in the referrer header, which lets requested resources linked to from within HeathCare.gov know which page the request is coming from. It’s also sometimes “embedded in the request string itself,” the EFF said.
+
+Advertisement
+
+The EFF found that the information is being sent in both the referrer header and request string to analytics sites [company]Chartbeat[/company] and [company]Optimizely[/company], [company]Google[/company]’s DoubleClick ad service, and Google itself. Personal-data-rich referrer headers are also finding their way to services such as [company]Twitter[/company], [company]Yahoo[/company], [company]YouTube[/company], [company]Akamai[/company] and – according to AP – [company]Facebook[/company]. HealthCare.gov does this even if the user has turned on Do Not Track.
+
+Advertisement
+
+HealthCare.gov spokesman Aaron Albright told AP that outside vendors “are prohibited from using information from these tools on HealthCare.gov for their companies’ purposes,” and they’re only there for site performance measurement purposes. There is indeed no evidence of the data being misused.
+
+Advertisement
+
+However, experts questioned why the likes of Facebook and Google had to get this information (Google itself denied allowing its systems to target ads based on medical history information.) As the EFF’s Cooper Quintin pointed out, there are enormous opportunities for a service like DoubleClick to match up the data with other tracking information about the target. He also noted that the use of third-party resources creates more of an “attack surface” that hackers could use to gain access to the site.

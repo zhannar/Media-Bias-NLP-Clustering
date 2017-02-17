@@ -1,0 +1,133 @@
+I read the recent GeekWire article about how dozens of tech, education and nonprofit execs urge passage of Washington computer science bill. I’m a natural supporter of that.
+
+I’m a big fan of one of the organizations behind this push — Code.org. My entire family has used their site. Funding computer science education seems like a no-brainer given the gap versus the need.
+
+However, I’ve had enough personal experience with elected officials and partisan politics that I’m not optimistic elected officials will see the light.
+
+Further, when you look at state budgets like Bill Gates did in the TED talk embedded below, it’s clear that we need a more radical approach if we want a long-term solution to education funding in general and computer science specifically. Make no mistake, I’m supportive of House Bill 1813 – I’m just sober about whether that will solve the issue long-term.
+
+The GeekWire article inspired a tweetstorm that got a common reaction that healthcare is too complex to solve and is an issue disconnected from education funding. Both are common misconceptions. The following is the tweetstorm and exchange I had with the head of Code.org, Hadi Partovi.
+
+1. Tech CEOs: Want to fund STEM Education or any other cause, remove the >$1 trillion waste in healthcare @pmarca @hadip
+
+2. Biggest chunk paid by corps – 36%
+
+3. CFOs: Your 2nd/3rd biggest cost is health benefits. Would you allow anything else you buy to have 1/3 – 1/2 be utter waste?
+
+4. Employer-based healthcare is the original sin & source of redemption
+
+5. 9 straightforward items in your benefits plans would solve the waste. Most of your plans have 2 or fewer of the 9 core. List of 9 follow
+
+6. Primary care paid via a monthly retainer rather than fee-for-service (DPC is ideal model)
+
+7. Extensive Care primary care for 5% of sickest employees.
+
+8. Access to world class acute care hospitals for the most complex, high risk & high cost procedures (~80% of hc costs & >40% avoidable)
+
+9. Transparent network/price for everyday things (MRIs, rotator cuffs, etc…) & easy to find where to get them
+
+10. Direct resources to evidence based tools: Choosing Wisely, Healthinsight.org, etc…
+
+11. Value Based Plan Design will encourage appropriate health-seeking behavior
+
+12. Concierge style employee customer service designed to help optimize the employee experience & outcomes in a terrain that is unfamiliar
+
+13. In-depth Rx management. Move beyond focusing on just generic utilization & make sure your plan is built correctly from the ground up
+
+14. Disease specific care pathways that’s easy to understand & removes all the financial barriers that make things hard/expensive
+
+This generated this response from Hadi Partovi:
+
+@chasedave @pmarca 2/ It’s $50M/year to bring CS to every school by 2025. Far easier than solving the $2T/year healthcare issue. — Hadi Partovi (@hadip) March 5, 2015
+
+Hadi correctly pointed out that I mistakenly conflated STEM and computer science education. However, like most people, he thinks healthcare is more difficult to solve than a legislative fix.
+
+In some ways that’s true, but it’s actually a lot easier than one might think as I’ll point out below. Hadi also made a point that healthcare and education aren’t connected, which is a common misconception.
+
+@hadip @pmarca None other than BillG made HC/edu linkage in TED talk http://t.co/wXD3V0xbsa — Dave Chase (@chasedave) March 5, 2015
+
+In Bill Gates’ TED talk embedded below, he powerfully explains that out-of-control healthcare costs are devastating education budgets and that that this situation is going to get much worse.
+
+Gates looks at data from California, but it’s not a problem unique to California. Only $3 million has been set aside for retiree health benefits whereas $62 billion has been promised – far worse than the car companies.
+
+It’s bad today but will only get worse over time. If we don’t solve education funding on a sustainable basis, we’re only putting a Band-Aid on a growing, gaping wound.
+
+You may have noticed how we lurch from one education-funding crisis to another. In states such as Massachusetts, they passed legislation to pay teachers more. Guess what? Teachers didn’t take home one more dime. Every new dollar allocated to teacher salaries got eaten up by healthcare costs.
+
+Gates pointed out how it will get worse and the dreams we have to improve schools will be impossible.
+
+The State of Washington Should Continue its Healthcare Leadership
+
+Fortunately, thanks to Qliance (whose early backers included Rich Barton, Jeff Bezos, Michael Dell and Nick Hanauer), no state is further ahead than Washington. They addressed the first of the nine items I listed in my tweetstorm – retainer (not fee-for-service) based primary care. You can read about it more in The Marcus Welby/Steve Jobs Solution to the Medicaid-driven State & County Budget Crisis.
+
+Without a need for more legislation, Governor Inslee could direct his Secretary of Health, John Wiesman, to aggressively pursue the other eight items on the list. Addressing these items can yield immediate savings and that “dividend” could be used to fund computer science education without needing to pass new legislation. I’m not close enough to the Washington legislature to know if there has been regulatory capture by the incumbent industry.
+
+For a time, regulatory capture thwarted Direct Primary Care (DPC) from taking off in Washington. Fortunately, that was overcome and Washington’s inclusion of DPC extended into the Affordable Care Act so other states can take advantage of federal support (it’s noteworthy that DPC has had bipartisan support).
+
+Some of the items are easier than others with some yielding virtually immediate results. The first two can be addressed by Direct Primary Care.
+
+As you can see in the Marcus Welby article, that drives double-digit cost savings while dramatically improving outcomes and patient satisfaction. Having written about and spoken to leaders on the third and fourth items, I know they’d be on the next plane to meet with Secretary Wiesman to explain how they could implement their programs that can save peoples’ lives and financial devastation. See VP HR & Benefits Should Get Big Bonuses for Saving 50-90% on Big Ticket Healthcare for more.
+
+Healthcare Industry Uses Common Tech Industry Tactic – FUD
+
+I’ve been around industry long enough to see the old Fear, Uncertainty & Doubt (FUD) tactic be used many times to try to fight off new entrants.
+
+As I said in my tweet, “Healthcare Industry FUD snookering corporations to think fixing healthcare is complex. Great way to preserve status quo.” I highlighted the “preservatives” that are hell-bent on protecting the status quo as well as those who are fighting back in this piece — Mr. President: The Deficit Problem was Solved Last Week but for the Preservatives.
+
+One simple example is how straightforward it is to take control of one’s health benefits. I’ve advised a trade association that had been told by their insurance company partner that they weren’t big enough to be self-insured and thus be able to take more control of what was offered to their members. It is utter BS.
+
+The insurance company was using the trade association to skim cream (i.e., acquire low-risk covered lives to pad their margin) so naturally, they didn’t want to lose that. The insurance company did a great job of spooking them about the complexity and risk.
+
+Fortunately, they are now on a track where they can save their members a tremendous amount of money. More importantly, they can get a higher quality of care using the tactics outlined in my tweetstorm that they hadn’t had previously as part of their program.
+
+Rampant Healthcare Waste Ignored by Some Companies
+
+Fortunately, the opportunity to gain new resources to fund computer science education doesn’t stop at the state. Companies are spending (and wasting) huge sums of money on healthcare.
+
+Imagine if Amazon or Microsoft found that one out of every two or three servers they installed in their datacenters was non-functioning. Or worse, they harmed other servers in their datacenter.
+
+That’s what they are doing with their healthcare spending. Conservative organizations such as pwc and the Institute of Medicine have found that between one-third and one-half of all spending in healthcare is waste or even harmful. Nationwide, that is over $1 trillion (with a “T”) of waste.
+
+While federal government spending on healthcare understandably gets a lot of attention, in reality, the single biggest purchaser of healthcare are companies. Further, health benefit costs are the second or third largest expenditure after payroll. Unfortunately, most CEOs and CFOs of public companies are failing in their fiduciary responsibility to purchase healthcare in a wise manner.
+
+Let me give one example of how wise companies such as Lowes, Pepsico and GE are avoiding high risk procedures that also happen to be extremely expensive.
+
+They have instituted a Centers of Excellence (CoE) program where employees who are on the cusp of high risk/cost procedures such as organ transplants and neurological procedures, can go to one of the six CoE facilities such as the Mayo and Cleveland Clinic as well as Virginia Mason.
+
+The highest risk/cost of these are transplants. Fully 40 percent of the second opinions they received from these prestigious institutions found they were medically unnecessary. Given that these are extremely high-risk procedures, that is appalling. Had I not heard it with my own ears, I might not have believed it.
+
+You may think that these types of procedures are outliers and thus not worthy of focus. At one level, that is true – they aren’t common.
+
+However, in a given year between 6-8% of an organization’s employees account for 80% of the healthcare costs. The smart company both helps their employee avoid these medically unnecessary and risky procedures and saves a tremendous amount of money. If the employee needs the procedure, they are able to get the procedure done at a world class facility and the employee doesn’t pay a dime (including any travel and lodging for that employee and their significant other).
+
+It’s worth it for the corporation as they save money in the long run. Even if the world-class institution might be more expensive on a unit basis, they don’t do medically unnecessary procedures and they have far lower complication rates which results in net savings.
+
+Doing back-of-the envelope calculations, I’d estimate that Microsoft alone unwittingly wastes more than $100 million per year on healthcare. I’ve seen it first hand both as someone who has spent a lot of time in healthcare as well as an employee at Microsoft and other tech companies.
+
+Boeing and Expedia Stimulating HealthTech Innovation
+
+“The future is already here — it’s just not very evenly distributed.”— William Gibson
+
+The good news is that every one of the elements outlined above is in place in the Seattle area. They simply haven’t been deployed at scale. I’m sober about how instituting this kind of change isn’t easy – not because it’s technically challenging but because most people assume any health benefits change is for the worse. Fortunately, the consumer satisfaction rates go through roof with these new models. Further, if desired, they can be phased in gradually.
+
+While the Seattle area is forward-looking, many people aren’t thrilled with the typical health insurance plan. With leadership, there is a way to explain how much better things can be.
+
+Speaking personally, I just shifted my elderly parents to one of these new models and they have been pleasantly shocked just how much better their care is than before – and it wasn’t like they were in a “bad” plan before.
+
+Explaining to employees these changes can’t be anymore difficult than convincing an elderly person to change doctors and leave a teacher retirement health plan that they perceived as good.
+
+Boeing and Expedia are two examples of companies that are starting to purchase some healthcare services in a smarter manner while indirectly stimulating healthtech innovation. When employers step away from the status quo, they are creating a new market for startups on both the healthtech and healthcare delivery side. By definition, when providers stick to the status quo, the old-line healthIT is a good fit.
+
+Unfortunately, when they do that collectively some local health systems are spending billions to prepare for the “last battle.” These disruptive new healthcare delivery startups understand this very clearly and are using modern EHR technology to outmaneuver incumbent providers stuck in their old ways.
+
+We have a growing cluster of healthtech startups in Seattle. Some have already had nice exits while others are getting great traction and are able to raise more money. Nothing holds back these healthtech startups more employers sticking with the than status quo.
+
+When the state and local employers purchase healthcare in a smarter way, the following benefits can be realized:
+
+The “health dividend” can fund computer science education
+
+The business community becomes more competitive. See how regions like Tampa are evaluating healthcare innovation as a new type of economic development tool
+
+We foster a healthtech cluster. Given that a trillion dollars of annual revenues are expected to shift from one set of players to another in healthcare, the stakes couldn’t be higher.
+
+Dave Chase is a leader in digital health, previously founding Microsoft’s health platform business and co-founding Avado, which sold to WebMD in 2013. He is the co-author of Engage! Transforming Healthcare Through Digital Patient Engagement).

@@ -1,0 +1,35 @@
+SAN FRANCISCO (Reuters) - The FBI's method for breaking into a locked iPhone 5c is unlikely to stay secret for long, according to senior Apple Inc engineers and outside experts.
+
+Once it is exposed, Apple should be able to plug the encryption hole, comforting iPhone users worried that losing physical possession of their devices will leave them vulnerable to hackers.
+
+When Apple does fix the flaw, it is expected to announce it to customers and thereby extend the rare public battle over security holes, a debate that typically rages out of public view.
+
+The Federal Bureau of Investigation last week dropped its courtroom quest to force Apple to hack into the iPhone of one of the San Bernardino shooters, saying an unidentified party provided a method for getting around the deceased killer's unknown passcode.
+
+If the government pursues a similar case seeking Apple’s help in New York, the court could make the FBI disclose its new trick.
+
+But even if the government walks away from that battle, the growing number of state and local authorities seeking the FBI’s help with locked phones in criminal probes increases the likelihood that the FBI will have to provide it. When that happens, defense attorneys will cross-examine the experts involved.
+
+Although each lawyer would mainly be interested in whether evidence-tampering may have occurred, the process would likely reveal enough about the method for Apple to block it in future versions of its phones, an Apple employee said.
+
+"The FBI would need to resign itself to the fact that such an exploit would only be viable for a few months, if released to other departments," said Jonathan Zdziarski, an independent forensics expert who has helped police get into many devices. "It would be a temporary Vegas jackpot that would quickly get squandered on the case backlog."
+
+In a memo to police obtained by Reuters on Friday, the FBI said it would share the tool "consistent with our legal and policy constraints."
+
+Even if the FBI hoards the information - despite a White House policy that tilts toward disclosure to manufacturers - if it is not revealed to Apple, there are other ways the method could come to light or be rendered ineffective over time, according to Zdziarski and senior Apple engineers who spoke on condition of anonymity.
+
+The FBI may use the same method on phones in cases in which the suspects are still alive, presenting the same opportunity for defense lawyers to pry.
+
+In addition, the contractor who sold the FBI the technique might sell it to another agency or country. The more widely it circulates, the more likely it will be leaked.
+
+“Flaws of this nature have a pretty short life cycle,” one senior Apple engineer said. “Most of these things do come to light.”
+
+The temporary nature of flaws is borne out in the pricing of tools for exploiting security holes in the government-dominated market for “zero-days,” called that because the companies whose products are targets have had zero days’ warning of the flaw.
+
+Many of the attack programs that are sold to defense and intelligence contractors and then to government buyers are purchased over six months, with payments spaced apart in case the flaw is discovered or the hole is patched incidentally with an update from the manufacturer, market participants told Reuters.
+
+Although Apple is concerned about consumer perception, employees said the company had made no major recent changes in policy. Instead, its engineers take pride in the fact that a program for breaking into an iPhone via the web was recently purchased by a defense contractor for $1 million, and that even that program is likely to be short-lived.
+
+They said most iPhone users have more to fear from criminals than from countries, and few crooks can afford anything like what it costs to break into a fully up-to-date iPhone.
+
+(Reporting by Joseph Menn; Editing by Dan Grebler)

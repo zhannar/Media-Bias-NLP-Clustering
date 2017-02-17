@@ -1,0 +1,53 @@
+Federal regulators are weighing reforms to widespread workplace wellness programs that could affect how personal data from consumer-grade fitness bands and smartwatches is kept confidential.
+
+The U.S. Equal Employment Opportunity Commission (EEOC) issued a proposed rule that would amend regulations in Title 1 of the Americans with Disabilities Act (ADA) of 1990 as it relates to employer wellness programs used by as many as 580,000 U.S. companies. Public comments are being accepted online through today.
+
+The proposed rule and supporting documentation, while lengthy, don't directly refer to worker data obtained from fitness bands like the Fitbit or smartwatches like the Moto 360 or Apple Watch. Still, the data gathered as part of a company-sponsored fitness program could fall under the proposed rule, depending on whether it is deemed "medical information," according to an EEOC spokesman.
+
+Apple
+
+"If the information the employer is obtaining is considered 'medical information' (e.g., a person's heart rate over a period of time), then the information would be subject to the ADA's confidentiality requirements regardless of how the employer obtains this information," said EEOC spokesman James Ryan in an email. "By contrast, information that would not be deemed medical information (e.g., how many steps a person takes per day, number of active minutes or calories burned) is not subject to the ADA's restrictions on disclosure."
+
+It isn't clear how often such medical information is gathered by companies from employees participating in wellness programs and wear fitness devices that transmit data to seemingly confidential databases. However, recording a person's heart rate over a workout or several workouts is a feature of many new smartwatches and fitness apps.
+
+At data management company Iron Mountain, 1,600 workers use a variety of consumer-grade wearables to collect data, such as steps walked over a year, that is used in a company wellness program called LiveWell. There's been a concerted effort to keep employees' fitness data confidential and out of company hands. The data is stored in the database of a third-party wellness software company called Limeade, said Scott Kirschner, director of benefits strategy at Iron Mountain.
+
+The fitness wearables used at Iron Mountain are "in the early stages and they are offering an indicator of fitness levels, but still they are not taking biometric markers," Kirschner said in an interview. "They are not being used to tell somebody they have symptoms like asthma or diabetes, and those things fall into protected health information under HIPAA," also known as the federal Health Insurance Portability and Accountability Act of 1996.
+
+EEOC rule could mean the end Iron Mountain's wellness plan
+
+In public online comments, Kirschner objected to the EEOC's proposed rule, saying if the proposed regulation is made permanent, "our recourse would probably be to eliminate this [wellness] plan or dramatically increase employee cost-sharing for it…"
+
+Kirschner argued the EEOC proposed rule would not be in line with health care insurance eligibility rules that are linked to voluntary wellness programs like the one at Iron Mountain.
+
+The state of Kentucky, which also filed suggestions to the EEOC, operates a LivingWell wellness program used by more than 137,000 employees who agree to undergo a health assessment or biometric screening, with the data kept confidential with HumanaVitality, a third party. Participants in LivingWell earn Vitality points, which can be redeemed for prizes such as movie tickets, digital cameras and hotel stays, with values of up to $300.
+
+Fitbit
+
+The proposed EEOC rule has generated controversy. Of more than 80 online comments, most asked the EEOC for more information, raised objections or made suggestions. Part of the EEOC's intent is to offer guidance to companies on the extent that employers can use financial and other incentives to get workers to participate in wellness programs so that they are truly considered voluntary and not coerced.
+
+"I'm concerned about the proliferation of employee wellness programs that seem to be coming ever-more intrusive and coercive," wrote one commenter to the EEOC, identified only as Ann Kelly. "If employers may lawfully discriminate against people on the basis of intimate, personal health matters, where will that end?"
+
+Compelled to join a wellness plan?
+
+Concerns have been raised that if a company offers a worker a free fitness band, the worker might feel compelled to join the company's wellness program. Half of all U.S. shipments of fitness bands, such as those from Jawbone and Fitbit, are sold to companies, which often use them to promote wellness plans, said JP Gownder, an analyst at research firm Forrester.
+
+"There may be instances where people are ostracized for not participating in a wellness plan, and they may pay more for insurance," Gownder said in an interview. "Wearables have a lot to offer, and it's fantastic if an organization improves the health of its employees and engineers discounts with lower rates for the firm. But the dark side of this is that if enough people cede their rights to privacy and part of a system is tracked … it could put those who didn't participate at a disadvantage."
+
+Gownder said an employee might have a legitimate reason not to be physically active, because of a disability, including a mental illness, for example. "We're moving down this road in the absence of regulation," he added. As more employees join a wellness program, he said, it switches from offering advantages to active people to becoming a requirement for everyone.
+
+Employers 'up in arms'
+
+Timothy Collins, a lawyer specializing in employee benefits with the law firm Duane Morris LLP, said businesses are widely concerned that the proposed EEOC rule will impose more federal regulation on top of non-discrimination rules that are already part of HIPAA and the Affordable Care Act.
+
+"Employers are up in arms about this proposed rule," Collins said in an interview. "I think wearables would be subject to the rule, especially if employers are handing them out for free and using them to gather data on the habits of workers." He predicted the EEOC will take time to study public comments and concerns and won't act until well into 2016.
+
+Employers don’t want to have more hurdles to overcome, Collins said. "Businesses would like it to be easier to weed out the workers who are raising health care premiums. So I'd expect you'll see challenges from employer organizations as well as individuals challenging wellness as discriminatory."
+
+Irina Raicu, director of the Internet Ethics Program at the Markkula Center for Applied Ethics at Santa Clara University, said concerns about the use of wearables in company wellness programs are understandable.
+
+"Even if wellness programs are voluntary, if a high enough percentage of workers opt-in, then the ones who don't are marked, in a way," Raicu said. "It's a valid concern, and we should avoid thinking about the rosy P.R. scenarios associated with using a device like a new Fitbit.
+
+"For some people, a free Fitbit would encourage them to get fit," Raicu said. "Yes, some people think new technology is interesting, but there's even a backlash now. Tech people love these new devices and assume everybody does, but there are some people who try them and stop later. They say things like, 'I just rode my bike and I don't know how far I rode and how many calories I burned, but it really was fun.' "
+
+Next: Wearables and company wellness programs go hand-in-hand.

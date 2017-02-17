@@ -1,0 +1,43 @@
+If you’ve ever been to a doctor in the U.S., you know the befuddling bundle of bills that awaits at the end of the road for your treatment.
+
+The ugly truth is that those bills aren’t just confusing to you. Even most hospitals don’t know how much a given procedure is supposed to cost, according to a 2013 study from the Journal of the American Medical Association.
+
+It’s gotten so bad that even health insurance executives are writing opinion pieces about ways to reduce waste on healthcare payments, which totaled $765 billion in 2009 alone.
+
+Investors in the new $8.5 million round for Aver Informatics thinks that the company’s new billing management software can provide some semblance of a solution.
+
+The Green Bay, Wis.-based company sells software that groups treatments into what it calls “episodes of care”, and then generates a bill for the entire process of treating a health condition, rather than generating a separate charge for each discrete step in the process.
+
+Launched by Kurt Brenkus, a former auditor with a boutique claims audit firm who also worked at United Healthcare, in June 2010, Aver Informatics’ approach stems from Brenkus’ own knowledge of the healthcare system.
+
+“The way that the healthcare system works today is a volume-based system,” says Brenkus. “And there’s a perverse incentive in a volume-based system to do more services to make more money.”
+
+Despite the government’s steps to curtail healthcare spending through the Affordable Care Act, healthcare spending in the U.S. is still projected to amount to one-quarter of the economy by 2022.
+
+Brenkus says that this is one instance where big data analytics can make a difference, saving millions of dollars for health insurers and patients.
+
+The savings were apparent to Aver’s customers from the very beginning. “The first client was a small insurance firm out of Madison, Wis. Within the first three months of working with them we saved them a half a million bucks,” says Brenkus.
+
+Aver was able to parlay its first successes into a stint with the healthcare accelerator and advisor Startup Health through its joint venture with GE Ventures — the investment arm of General Electric, one of the biggest healthcare technology companies in the world and a huge employer in the U.S.
+
+It was GE Ventures and Drive Capital that led the Series A investment for Aver Informatics. “Healthcare payment reform is one of our top themes,” says Ned Schwartz, a partner with Drive Capital, who previously worked for General Atlantic and Norwest Venture Partners.
+
+Here’s what’s drawing investors and companies to the Aver service. “Our analytics go over this fee-for-service data and we recreate the way that data works as events-based data. What we do is we add this element of time and we can find information that looks at the type of treatment to determine that treatments are related to either a knee replacement, or a pregnancy, or a heart attack.”
+
+By determining what are standard progressions of care with positive outcomes, Aver Informatics can create defined processes for the ideal course of treatment at the lowest cost, Schwartz says.
+
+In some cases, it’s not that the healthcare system is willfully opaque or obfuscating the cost of procedures, it’s that hospitals really don’t know, or are confused themselves about treatment options. “They have made the equivalent of a Rube Goldberg machine for healthcare payments,” says Berkus. Reimbursement from insurers depends on a series of codes that healthcare providers have to enter and there’s an almost unlimited combination of codes possible for a single treatment.
+
+“There are so many codes that happen — for a particular kind of knee surgery there’s probably roughly 100 different codes that you could use depending on the type of knee surgery that you’re doing. We’ve made it so completely complicated,” says Brenkus.
+
+In the current system, health insurers can only determine whether claims were paid in a timely fashion or not, they have no idea how many heart attack treatments they paid for, according to Berkus.
+
+There are already 15 customers using Aver Informatics’ software, according to Brenkus, and they’re saving 10% to 50% on payments for treatments across their entire patient populations. In fact, in addition to the new financing, Aver has also added two new customers — the University of Pittsburgh Medical Center and Molina Healthcare.
+
+“What it comes down to is that there are these billing systems running on these green-screen systems from the 1990s [and updating them] is like trying to change a jet engine in mid-flight,” says Brenkus. “You’ve got all of this legacy architecture and we’re literally reconfiguring this information on the fly.”
+
+In many ways, the adoption of technologies like Aver is a direct result of federal and state initiatives, according to a Molina Healthcare executive.
+
+“By leveraging technology we can align best with federal and state initiatives toward value-based payments. In Ohio, we are working in collaboration with the Ohio Department of Medicaid and the Ohio Office of Health Transformation to further the state’s objective of providing value based health care by implementing a new episode-based payment model,” said Martin Portillo, MD, Chief Medical Officer for Molina Healthcare of Ohio. “The goal is to develop a program that would incentivize and pay our providers while improving quality and managing costs.”
+
+Photo via Flickr user TaxRebate.org.uk

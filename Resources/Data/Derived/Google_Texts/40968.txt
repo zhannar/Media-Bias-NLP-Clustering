@@ -1,0 +1,39 @@
+Scientists discover a brain process that explains why some fear-related memories may not be accessible to traumatized patients. TraumaAndDissociation, CC by 2.0
+
+While some victims of trauma too easily remember what causes their pain, other victims suffer tremendous anxiety for no apparent reason whenever they’re in some innocuous-seeming place — a room in their grandparents’ house, for example. Some mysterious event clearly happened there, yet no memory exists. In a new study (conducted on mice), scientists discovered a brain process that explains why some fear-related memories may not be available.
+
+“Distinct neurobiological mechanisms can explain why some trauma victims go on to remember and re-experience their trauma, whereas [other victims] develop dissociative amnesia (an inability to consciously access a stored memory),” Dr. Jelena Radulovic, principal investigator and a professor at Northwestern University Feinberg School of Medicine, told Medical Daily in an email.
+
+Scientists have long understood that there’s more than one pathway through the brain to the storage closet of memory. Now, Radulovic and her colleagues track a unique trail directly related to trauma. In fact, the microRNA-GABA pathway they describe in their new study may also indicate how susceptible each of us is to developing amnesia after a traumatic event.
+
+They discovered this pathway by exploring a special phenomenon of learning.
+
+What Influences Memory?
+
+Learning is a state-dependent process, which means that when we learn something new in a particular situation or state of consciousness, we’re able to remember it best when we place ourselves back in the original circumstance or state of mind. Students, then, who learn information in one room will get higher scores if they are tested in the same room. Not only place, but time of day as well as common drugs also influence memory abilities. If students learn something while drinking coffee, for instance, they will remember it best when they return to their original caffeinated state.
+
+Based on this phenomenon, various researchers have used drugs to try and access hidden memories. But while some pharmaceuticals may return the brain to the state of consciousness that occurred during encoding — the first step in memory storage — they haven’t done well in excavating traumatic memories. A drug targeting different processes in the brain, then, would be necessary for fear-based recall.
+
+So, Radulovic and her colleagues focused on two amino acids in the brain: glutamate and GABA. These work in tandem to control levels of excitation and inhibition in the brain, and, under normal conditions, remain balanced. Hyper-arousal, however, which occurs when we are terrified, causes glutamate to surge.
+
+Glutamate, is known as the excitable amino acid; it’s also the primary chemical that helps store memories across distributed brain networks. GABA, on the other hand, is calming and partly works by blocking glutamate and its excitable actions. Synaptic GABA receptors, in particular, will balance glutamate receptors in the presence of stress. Yet, extra-synaptic GABA receptors also exist. These work independently, responding to levels of a variety of neurochemicals, including sex hormones and micro RNAs.
+
+Between the drugs amobarbital and diazepam, only amobarbital, which binds to all GABA receptors is able to stimulate memory recall — diazepam is ineffective, due to the fact it only binds to synaptic GABA receptors. Knowing this, Radulovic and her colleagues hypothesized the ability to remember stressful experiences might be mediated by the extra-synaptic GABA receptors.
+
+For its experiment, the research team injected the mice with gaboxadol, a drug that stimulates extra-synaptic GABA receptors. Next, they placed the mice in a box and gave them an electric shock. When the mice returned to the same box the next day, they moved about freely and without fear. Clearly, the rodents did not remember the electric shock.
+
+Then, the scientists injected the mice with the drug once again and returned them to the box. This time, the rodents froze in anticipation of another shock.
+
+Rerouting Painful Memories
+
+When extra-synaptic GABA receptors were activated by a drug, the researchers said, the brain used completely different molecular pathways and neuronal circuits to store the memory. The brain rerouted the memory so that it couldn't be accessed. The researchers say their findings imply that in response to trauma, some people will not activate the glutamate system but instead the extra-synaptic GABA system.
+
+This system is regulated by a small microRNA: miR-33. Some patients with psychiatric illnesses have different levels of miR-33 compared to healthy individuals.
+
+The power of any memory lies, to a large extent, in the amount of processors within the cells creating a pathway through the brain, explained Dr. Vladimir Jovasevic, lead study author and a former postdoc in Radulovic's lab.
+
+“The role of microRNAs is to fine-tune the amount of the processors, so they can function at optimal level,” said Jovasevic, and “miR-33 sets the optimal amount of processors involved in state-dependent learning.” But when levels of miR-33 change, this “results in an increased predisposition to psychiatric disorders caused by improper processing of state-dependent memories.”
+
+Evidence from the new study, Radulovic and Jovasevic said, may lead to new treatments for patients with psychiatric disorders who cannot recover unless they gain conscious access to the memory of what caused their trauma.
+
+Source: Jovasevic V, Corcoran KA, Leaderbrand K, et al. GABAergic mechanisms regulated by miR-33 encode state-dependent fear. Nature Neuroscience. 2015.

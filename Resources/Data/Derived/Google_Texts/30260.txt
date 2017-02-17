@@ -1,0 +1,123 @@
+Jarred by the defect-riddled rollout of the Obamacare website, Obama administration officials signed up a technology company to rid HealthCare.gov of its bugs.
+
+Now, though, congressional Republicans are scrutinizing that outfit for a potential conflict of interest because its sister company, UnitedHealthcare, is among insurance companies selling plans to Americans through online marketplaces, or “exchanges.”
+
+“If I was a competitor, I would be extremely concerned about this company having access to confidential information that we’ve had to give to the government,” Heritage Foundation legal scholar Hans von Spakovsky told The Daily Signal.
+
+Quality Software Systems Inc., or QSSI, is the tech firm the Department of Health and Human Services picked in October 2013 to straighten out HealthCare.gov.
+
+Maryland-based QSSI was awarded an $84.5 million contract with HHS’s Centers for Medicare and Medicaid Services in January 2012 to build the part of HealthCare.gov known as the federal data hub.
+
+The purpose of the data hub: connect multiple government agencies to streamline verification of crucial consumer information—including Social Security number and immigration status—when Americans log into the federal and state exchanges and apply for Obamacare subsidies.
+
+An article in The Hill outlined the responsibilities QSSI assumed by winning the contract to build the federal data hub, as detailed in a draft statement of work issued by HHS to companies bidding for the contract:
+
+It reveals QSSI will finalize technical and systems requirements to develop and deliver plan management services, which includes the certifying and decertifying of health plans offered on the exchange. Plan management services also entails monitoring agreements with health plans to ensure compliance.
+
+Lawmakers Flag Potential Conflicts
+
+In September 2012, two months before President Obama’s re-election, UnitedHealth Group acquired QSSI through a subsidiary, OptumInsight, in a deal consummated with little fanfare. UnitedHealth Group is also the parent of UnitedHealthcare, which offers plans on the exchanges set up by the Affordable Care Act.
+
+As The Washington Post noted, neither UnitedHealth nor OptumInsight put out press releases announcing the purchase—and because the deal was relatively small, it didn’t require a filing with the Securities and Exchange Commission.
+
+The only public evidence of the acquisition appeared on the website for Jenner & Block, the law firm that represented QSSI in the deal.
+
+Afterward, a group of Republican lawmakers sent letters to UnitedHealth and HHS asking for further information on why QSSI got the $84.5 million government contract to work on the federal data hub.
+
+Led by Sen. Orrin Hatch of Utah and Rep. Darrell Issa of California, the lawmakers questioned then-HHS Secretary Kathleen Sebelius about a potential conflict of interest in UnitedHealth’s ownership of OptumInsight and QSSI. Their letter cited the “considerable media attention” the deal attracted and pointed to UnitedHealth’s “large financial stake in the operation of federal exchanges.”
+
+Von Spakovsky, a senior fellow at Heritage’s Meese Center for Legal and Judicial Studies, points to the unfair advantage UnitedHealthcare appears to have over competitors in access to data because of the OptumInsight/QSSI contract with HHS:
+
+The potential conflict there is that they have a subsidiary that may get access to the information that competitors normally wouldn’t allow out into the marketplace. That’s the inherent conflict in what they’re doing.
+
+HHS Halts Firewall Work
+
+The Weekly Standard reported that HHS was aware of the conflict presented by its contract with OptumInsight/QSSI and went to work designing a firewall to prevent UnitedHealth from accessing the data obtained by its subsidiary in its work with HealthCare.gov and the federal data hub.
+
+HHS, however, discontinued that work for fear “word could too easily get out about the firewall project,” the magazine reported. “If it did, it would alert people to UnitedHealth Group’s having gained a potentially huge competitive advantage.”
+
+Von Spakovsky, who worked as a corporate lawyer in the health insurance industry, said the lack of a firewall in the government’s Obamacare system should be a red flag for health insurance providers that compete with UnitedHealthcare. If he were a competing insurance company, he said:
+
+I would want concrete assurances from the government that our information is not going to this competitor and is not going to be used to undercut us in the market. If the government can’t give those assurances, they shouldn’t be allowing the subsidiary to be doing this kind of work and getting access to this information.
+
+Also of note for Hatch and Issa was the July 2012 departure, for a job at OptumInsight, of Steven Larsen, director of the Center for Consumer Information and Insurance Oversight. The agency is part of HHS’s Centers for Medicare and Medicaid Services, which oversees HealthCare.gov, and crafted the rules for the federal exchange.
+
+In their letter to Sebelius, the Republican lawmakers said:
+
+The degree to which Mr. Larsen was involved in the QSSI acquisition is unclear, but the timing of his career change raises several questions about CCIIO [the agency he left].
+
+Larsen’s “career change,” Issa and Hatch wrote, could present another conflict of interest.
+
+HHS did not respond to the lawmakers’ questions and refused comment on the suspended work on creating a firewall.
+
+The Government Hires Some Experts
+
+Although implementation of the federal data hub went smoothly, the main Obamacare website, HealthCare.gov, rolled out last October to much-publicized system malfunctions and failures.
+
+As Obamacare’s near-disastrous implementation was being well documented by multiple congressional hearings and investigations and extensive media reports, the Obama administration sought to hire a private company to fix HealthCare.gov.
+
+On Oct. 25, HHS announced OptumInsight/QSSI would take over managing the federal insurance exchange.
+
+“QSSI will help monitor, assess, prioritize and manage the technical operations of HealthCare.gov to enhance the consumer experience,” a QSSI spokesman said.
+
+In January, HHS signed a new contract with OptumInsight/QSSI solidifying the tech company’s role as a “senior advisor.”
+
+In a statement praising the duo’s partnership, Sebelius said:
+
+Optum/QSSI, which stepped up in October to serve as our general contractor, has been integral in fixing HealthCare.gov. We are pleased Optum/QSSI will remain a key part of our leadership team and will continue to advise us as we work together to help millions of Americans sign up for quality, affordable health insurance.
+
+With implementation of HealthCare.gov came the rollout of individual state-run online exchanges.
+
+After being called in to help with the federal exchange, OptumInsight/QSSI was awarded contracts to work on three state-run exchanges: Maryland, Massachusetts and Minnesota.
+
+UnitedHealthcare is “one of the nation’s largest providers of health plans.” It offers insurance plans on 10 exchanges: Alabama, Colorado, Connecticut, Kentucky, Maryland, Michigan, Nevada, New York, Rhode Island and the District of Columbia.
+
+By next year, according to a letter sent last month from Hatch and Sen. Chuck Grassley, R-Iowa, UnitedHealthcare is looking into expanding from state-run exchanges into the federal exchanges operated by HealthCare.gov.
+
+During an earnings call UnitedHealth held with industry analysts last week, executives said they plan to expand to more than 20 state exchanges by 2015, with more to be added to its portfolio in the future.
+
+“By participating moderately this year and then watching closely and listening, we have learned about pricing, networks, regulatory structure, distribution, and the consumer’s mindset regarding public exchanges,” UnitedHealth CEO Stephen Hemsley said.
+
+The company reported a 7 percent increase in revenue to $32.6 billion—exceeding Wall Street’s expectations.
+
+Senators Ask Questions
+
+In their letter sent June 20, Hatch and Grassley sought answers to several questions about UnitedHealthcare and OptumInsight/QSSI from Hemsley and Marilyn Tavenner, administrator of the Centers for Medicare and Medicaid Services. The senators wrote:
+
+Given the role of its fellow subsidiary [of UnitedHealth Group], we have serious questions about any conflicts of interest between the two entities.
+
+The senators asked Hemsley and Tavenner for:
+
+documents related to OptumInsight/QSSI’s contract with HHS,
+
+documents from CMS regarding any evaluation of potential conflicts of interest between the two companies,
+
+documents regarding any disclosure requirements for conflicts of interest,
+
+descriptions of any firewalls or infrastructure put in place to protect the integrity of the data available to OptumInsight/QSSI, and
+
+a description of the data OptumInsight/QSSI is expected to access in carrying out the scope of its contract.
+
+Hatch and Grassley also sought information about the “movement of individuals in senior leadership positions between Optum/QSSI and UnitedHealthcare.” The senators wrote:
+
+It is our understanding that several key personnel have recently transitioned from executive level positions at UnitedHealthcare to executive level positions at Optum/QSSI, and vice versa. We would like to ensure that all potential conflicts of interest were mitigated.
+
+Last month, new HHS Secretary Sylvia Mathews Burwell announced the hiring of Andrew Slavitt, an Optum group executive vice president, as principal deputy administrator of CMS. His post makes Slavitt second-in-command under Tavenner at CMS, which runs Obamacare and HealthCare.gov.
+
+Tavenner praised Slavitt, who in 2012 gave the maximum campaign contributions allowed to President Obama’s Victory Fund and Obama for America—now Organizing for Action. In a statement, she said:
+
+Andy’s breadth of experience throughout the health care sector makes him the right person for this role, and I am excited for our partnership across all of the CMS programs.
+
+‘Reserving Judgment’
+
+Hatch and Grassley imposed a June 30 deadline on UnitedHealth and CMS to respond. So far, neither the insurance company nor the Obamacare agency has answered their questions, Hatch’s staff on the Senate Finance Committee said.
+
+In a statement to The Daily Signal, Hatch said:
+
+I am reserving judgment about these new CMS positions and appointees, but you don’t solve big government problems by creating more layers of bureaucracy.
+
+CMS spokesman Aaron Albright told The Daily Signal that the agency “ensured that Optum/QSSI has taken steps to meet standards required by Federal Acquisition Regulations to prevent organizational conflicts of interest.”
+
+The FAR system governs the process for agencies in acquiring goods and services. Albright did not respond to questions regarding construction of a firewall.
+
+OptumInsight spokeswoman Christine Farazi told The Daily Signal said that the company ensures that customers’ information is protected:

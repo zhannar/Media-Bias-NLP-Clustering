@@ -1,0 +1,23 @@
+Thanks to changes in technology and security advances, a lot of the viruses and attacks that worked on computers a decade ago don't work today. However, there's one that keeps coming back, and it has to do with Microsoft Office.
+
+Microsoft Office lets you create macros, which are small programs that run inside Word or Excel to automate tasks. For example, you might have a macro in Excel that moves information from one area to another or perform complex calculations. A long time ago, hackers found they could use macros to attack computers.
+
+-advertisement-
+
+In times past, the only thing a hacker needed for a macro attack was to trick someone into opening a malicious Word or Excel file. The macro would run and the attack would be finished.
+
+Eventually, Microsoft countered by turning macros off by default in Office. Since most people didn't use them, this wasn't a problem.
+
+If a hacker wanted to use a macro attack, they had to give the target a compelling reason, and the instructions, to turn macros on. While that might seem like a tall order, the number of successful macro attacks, especially in corporate environments where people email Office documents regularly, is skyrocketing.
+
+That's why Microsoft has added a new feature of Office 2016. The new feature gives system administrators greater control over when and how individual computers on the network run macros. Even if an individual is tricked into turning on macros, they can't if the system thinks it's unsafe.
+
+While that's good for companies, it doesn't do you much good if you don't have the latest version of Office 2016 or skill in changing Office's management policies. Fortunately, you don't need either.
+
+As we said, macros are turned off by default. If you want to verify that they are for your copy of Word and Excel, click the Office button in the upper-left corner and select "Word Options" or "Excel Options."
+
+Select "Trust Center" in the left column and on the right click the "Trust Center Settings" button. Then select the "Macro Settings" area and make sure it's set to "Disable all macros with notification." If a file requires macros, you'll get a notice, but the macros won't run automatically.
+
+The rest of staying safe from this attack is the same advice we give for avoiding phishing attacks. Don't click on links or download attachments from unsolicited or suspicious emails.
+
+If you do run a document that appears legitimate and it says it requires you to turn on macros, don't do it. Contact the person who sent you the file and find out why it needs macros. Unless the macro is vital for the files to be useful, such as a budgeting spreadsheet, and you fully trust the source, don't use the file.

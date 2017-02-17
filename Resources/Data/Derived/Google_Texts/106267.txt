@@ -1,0 +1,31 @@
+A 30-year-old computer hacker has claimed responsibility for anti-Semitic fliers appearing this week in the printer trays of computer labs at colleges nationwide, which prompted officials at several campuses to launch investigations amid heightened security concerns.
+
+As of Friday afternoon, students and staff at seven colleges said they had found fliers in computer printers and fax machines advertising Daily Stormer, a white supremacist website described as a “neo-Nazi cesspool” by the Southern Poverty Law Center.
+
+“White man … are you sick and tired of the Jews destroying your country through mass immigration and degeneracy? Join us in the struggle for global white supremacy at The Daily Stormer,” the fliers read in bold, black font. A pair of large swastikas, as well as the web address, are displayed on the printouts as well.
+
+Andrew Auernheimer, better known by the alias “weev,” told The Washington Times he was behind the breach, using a freely available tool to scour “basically … the whole English-speaking Internet” for vulnerable devices that could be remotely accessed.
+
+He claims to have within minutes identified roughly 29,000 printers that were connected to the Internet and could be exploited through an open port, then automated a procedure that asked each vulnerable machine to print the Daily Stormer ad.
+
+The fliers were discovered this week at Princeton University, Northeastern University,UMass Amherst, Smith College,Mt. Holyoke, University of California at Berkley and Depaulia.
+
+No entities were specifically targeted, Mr. Auernheimer said, but coincidentally several colleges had printers where he could send commands to port 9100.
+
+“This is not the worst that could happen, and is a serious indictment of the complete incompetence of the universities network administrators,” Darren Martyn, an Irish security researcher, told The Times.
+
+Though Mr. Auernheimer’s actions demonstrated the vulnerability of the devices, he said that wasn’t his intention.
+
+“This isn’t a security issue,” Mr. Auernheimer told The Times. “I am communicating a political message solely by transmitting something incendiary. All the devices in the chain are acting in the exact manner of their designers.
+
+“People are now calling the cops and crying hacking and hate crimes as a response,” he said. “This flies in the face of our traditions of free speech and the marketplace of ideas. I have the right to send you a message you dislike in an envelope. It’s your right to decide how to process that message, which may include throwing it in the trash.”
+
+Describing his exploits online, Mr. Auernheimer called his experiment “a lesson in how positively hilarious the IoT will be in the future,” referring to the Internet-of-Things, or the phenomena in which devices are exponentially designed to be Internet-ready.
+
+Robert Graham, the owner of Errata Security and developer of the “masscan” tool Mr. Aurenheimer used to find vulnerable devices, said the Internet is “end-to-end” and that if printers are publicly-accessible, “people will print things to it.”
+
+“Also, I support free speech,” he said. “While I deeply dislike this speech, I have no reason to condemn this use of masscan versus printing anything else.”
+
+Andrew Anglin, founder of The Daily Stormer, said Friday he favored what the hacker had done.
+
+“Of course I endorse it. Six million percent, I endorse this glorious action,” he said.

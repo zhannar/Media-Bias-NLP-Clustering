@@ -1,0 +1,103 @@
+Electronic health record usability might not have been the hottest topic at HIMSS16 this past week – our polling shows big data and interoperability tied for that honor, with privacy/security just nudging population health for the second spot – but it was certainly top of mind for many.
+
+The multi-day User Experience Forum, for instance, explored the human factor and design choices that can directly impact the use and efficacy of health information technology, examining UX from the perspective of physicians, nurses, patients, vendors and more. Sessions gave voice to end-user frustrations, looked to tear down the barriers to innovation and tracked the clinical and financial return that can be gained from improved software interfaces.
+
+In a provocative prime-time speech, meanwhile, Acting CMS Administrator Andy Slavitt threw down the gauntlet: "I'm certainly not bashful about what we need to do better, and I'm not going to be bashful here, even in the face of some very good reasons for optimism, about ways we need to take our game up across the board.”
+
+[Also: Slavitt, DeSalvo: Health IT has to work better for doctors]
+
+The health IT industry has done very well in the years since the HITECH Act, said Slavitt. "But we're still at the stage where technology often hurts rather than helps physicians providing better care."
+
+To bolster his case, he rattled off a series of actual quotes from frustrated clinicians. One complained that in his EHR, "to order aspirin takes eight clicks; to order full-strength aspirin takes 16."
+
+Slavitt said CMS is newly committed to taking a "user-centered approach to designing policy." He asked vendors to do the same, with a similar spirit of empathy: "Step back and look at what you don't think is working, and make it better."
+
+
+
+In recognizing that health IT still "often hurts rather than helps physicians," Acting CMS Administrator Andy Slavitt said at HIMSS16 that the agency is newly committed to taking a "user-centered approach to designing policy." He asked vendors to do the same, with a similar spirit of empathy: "Step back and look at what you don't think is working, and make it better."
+
+'Dissatisfaction with EHRs has been immense'
+
+The rigors of federal policy requirements, combined with the suboptimal UX of many EHR products has left doctors and nurses feeling less like clinicians and more like clerks, said one chief medical information officer at HIMSS16. Ceaseless data entry is bad enough. But even worse when done through a clunky or dated user interface.
+
+"Dissatisfaction with EHRs has been immense," said George Gellert, MD, associate system CMIO at CHRISTUS Health. "Understandably, physicians are looking for release."
+
+Increasingly, many of them are finding it by using unlicensed medical scribes, who often have minimal training, as data-entry workarounds. If that poses obvious patient safety risks, it also hinders the progress of EHR product improvement, he argued.
+
+"If you insert a scribe permanently between the physician and the EHR, and the physician totally disengages from using the EHR, you are going to have a significant deceleration of technological advancement because there's no market pressure," said Gellert.
+
+[Also: Doctors like EHRs even less than they did five years ago]
+
+As problematic as UX often still is, many IT vendors have made big design and usability improvements in recent years, as a direct result of pointed and specific clinical feedback – including at CHRISTUS, where docs and nurses now enjoy an updated EHR made better thanks to the health system's commitment to capture "every single physician complaint" and relay them to its vendor.
+
+Market pressure works, said Gellert, and a rising sub-industry of scribes could be counterproductive as doctors' dissatisfaction comes to a boil.
+
+At least scribes still engage with technology, in contrast with one New York Times item that garnered a bit of attention in health IT circles this past December. "In Age of Digital Records, Paper Still Carries Weight," was the headline.
+
+The good news? We've come a long way in a short time: "In 2009, fewer than 10 percent of hospitals had any kind of electronic medical records," wrote Abigail Zuger, MD. "By 2014, 75 percent had at least a basic system."
+
+The bad news? That "rushing" has led to some severely problematic products that often have care providers gnashing their teeth in frustration. Or, sometimes, making use of workarounds that defeat the purpose of well-meaning federal policies such as the Affordable Care Act and meaningful use.
+
+"Paper has become our lingua franca, our fallback and standby," wrote Zuger. "In our new digital universe, we have peculiarly seen a retro explosion of paper. We may no longer write paper prescriptions, but we fax or hand-deliver paper versions of our electronic dealings routinely now. When you don’t know what electronic language the receiver speaks (and you never do) you go with paper."
+
+While her primary complaint was about systems' lack of interoperability, it's a safe bet that she and many of her colleagues would add poor usability to their list of EHR gripes.
+
+That dissatisfaction is getting worse, not better. A study published this summer by the American Medical Association and the American College of Physicians found that physicians are more frustrated with EHRs than they were five years ago.
+
+Forty-two percent of respondents said their EHR system’s ability to improve efficiency was "difficult or very difficult." Some 72 percent said the same about its ability to decrease workload.
+
+We saw similar feedback in Healthcare IT News' first-ever EHR Satisfaction Survey this past fall. In addition to numerical scores, we also asked for anecdotal feedback from more than 400 people who took the poll. Opinions such as "not very intuitive," "cumbersome" and "too many clicks" cropped up over and over again.
+
+
+
+At Irving, Texas-based CHRISTUS Health, physicians and nurses now enjoy an updated EHR made better thanks to the health system's commitment to capture "every single physician complaint" and relay them to the vendor, said the health system's associate CMIO, George Gellert, MD.
+
+'Limited in their understanding of people'
+
+In his landmark book, The Design of Everyday Things, Don Norman, director of The Design Lab at University of California San Diego wrote:
+
+"The reasons for the deficiencies in human-machine interaction are numerous. Some come from the limitations of today's technology. Some come from self-imposed restrictions by the designers, often to hold down cost. But most of the problems come from a complete lack of understanding of the design principles necessary for effective human-machine interaction. Why this deficiency? Because much of the design is done by engineers who are experts in technology but limited in their understanding of people."
+
+Of course, in healthcare IT there are other challenges. EHR vendors would probably love to have all their products look as sleek and intuitive as the latest iOS release. But they also have to ensure they check all the boxes to comply with certification criteria from the Office of the National Coordinator – all 560 detailed pages of the 2015 Edition.
+
+"I know some people inside big EMR companies who want to do excellent design, but in an organization that's owned by IT, it's difficult for even a design advocate to have their voice heard and affect the process," Amy Cueva, co-founder of the design-centric Health Experience Refactored conference, told Healthcare IT News in 2013.
+
+[Also: Amy Cueva talks user-centered design]
+
+Meaningful use spurred uptake, of course, but that doesn't necessarily mean the end-users are looking at EHRs with joy in their hearts.
+
+"You don't have to pay people to use Facebook or Google or their iPhone," Cueva said. "They use it because it's valuable and meaningful and it gives them something they can't get anywhere else." In many cases there was too much of a rush to get hospitals online – to the point where many were "just sort of throwing software out there,” she said.
+
+That's changing, thankfully, as more and more efforts are being made industry-wide to make EHRs easier to use and perhaps a bit better-looking. One of those ONC certification criteria, after all, is that vendors employ a user-centered design process when developing their tools, and report the results of usability testing.
+
+A study published this past November in the Journal of the American Medical Informatics Association took a look at UCD processes at 11 unnamed vendors, seeking to understand the challenges and opportunities for better design practices.
+
+"Our analysis demonstrates a diverse range of vendors’ UCD practices that fall into 3 categories: well-developed UCD, basic UCD, and misconceptions of UCD," wrote researchers from MedStar Health's National Center for Human Factors in Healthcare, noting that the latter category might refer, say, to the mistaken belief that responding to end-users' requests and complaints qualifies as user-centered design.
+
+"Specific challenges to practicing UCD include conducting contextually rich studies of clinical workflow, recruiting participants for usability studies, and having support from leadership within the vendor organization," the researchers wrote.
+
+Dishearteningly, the researchers found some respondents still didn't see the business case for investing in UCD processes. It even found that some smaller EHR vendors didn't even have any usability experts on their staff.
+
+But there’s evidence that many are moving in the right direction. In December, for instance, the EHR Association and American College of Physicians joined forces for a workshop to discuss ways to improve EHR usability – enlisting clinicians, developers and usability experts to explore ways to improve the experience.
+
+“The workshop also included a ‘design-a-whirl’ where the group rotated through examples of different techniques for obtaining and validating clinician feedback during the development process, which was an important opportunity for the attending clinicians to learn more about the software development life cycle,” according to a brief in Politico.
+
+Meanwhile, a recent report looking at EHR usability and clinical decision support called upon AHRQ research to explore ways improved health IT interfaces – websites, apps, dashboards – can lead to better patient care.
+
+It's "promising that electronic health records and clinical decision support tools are rapidly being implemented in hospitals and clinics nationwide," wrote Thomas McGinn, MD, chair of medicine at Hofstra North Shore-LIJ School of Medicine, in the study's introduction.
+
+But implementing EHR and CDS into clinical workflow "continues to be challenging," he added. Poor integration runs the risk of "substantially reducing adoption and use."
+
+Lately, there has been some movement toward thinking a bit more closely about the clinical users of these technologies. "It is believed that thoughtful systems engineering approaches, including consideration of user experience and improvements in user interface, can greatly improve the ability of CDS tools to reach their potential to improve quality of care and patient outcomes," wrote McGinn.
+
+Exploring topics such as UX and system redesign, EHR-based visualization tools and integration patient-reported data, the multi-part study aims to spur some rethinking about the ways EHR decision support is presented to clinicians.
+
+"We are at the very early stages of the science of usability," wrote McGinn. "Much more research and funding is needed in this area if we hope to improve the dissemination and implementation of evidence in practice."
+
+
+
+"The reasons for the deficiencies in human-machine interaction are numerous," writes design guru Don Norman. One of the biggest, he says, is that "much of the design is done by engineers who are experts in technology but limited in their understanding of people."
+
+Twitter: @MikeMiliardHITN
+
+This story is part of our ongoing coverage of the HIMSS16 conference. Follow our live blog for real-time updates, and visit Destination HIMSS16 for a full rundown of our reporting from the show. For a selection of some of the best social media posts of the show, visit our Trending at #HIMSS16 hub.

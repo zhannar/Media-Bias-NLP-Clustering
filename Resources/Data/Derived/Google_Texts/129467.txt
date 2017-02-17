@@ -1,0 +1,27 @@
+It’s no secret that medical research and health care have already benefited pretty significantly from the technologies and analytic techniques that comprise big data, and two new partnerships underscore the promise.
+
+One is a five-year research partnership between the Berg pharmaceutical company and the Icahn School of Medicine at Mount Sinai, which is focused on using data to derive new therapies for cancer, as well as central nervous system and endocrine disorders. The other is a $2 million grant from the National Institutes of Health to IBM, Sutter Health and Geisinger Health System to study how electronic health records can help predict heart failure.
+
+Advertisement
+
+The Berg-Mount Sinai partnership is particularly interesting because of its scope. It’s focused on analyzing so-called “multi-omic” biology, which means the study of various systems and fields, including genomics, proteomics and metabolomics. According to Icahn professor Eric Schadt, in the press release announcing the partnership, “Working with Berg, we plan to analyze big data and create predictive models to discern similarities and differences in disease patterns, identify the most effective treatment and diagnostics, and ultimately, provide better care for our patients.”
+
+Advertisement
+
+The IBM-Sutter-Geisinger partnership is actually an extension of earlier work into this same area — identifying symptoms that often result in heart failure years before any serious issues might occur. According to that press release, “The NIH funding allows the team to look deeper into the progression of factors that are predictors of heart failure so clinicians can implement timely care-management plans to improve health outcomes. They will begin testing predictive methods for heart failure in clinical practice over the next several years.”
+
+Advertisement
+
+Seton Healthcare (an IBM customer, actually) has already reaped the benefits of this exact type of analysis. I wrote about it in 2012:
+
+Advertisement
+
+“Following a CEO mandate to find better ways to detect congestive heart failure early in order to save the exorbitant costs of treatment as the disease progresses, [Seton Healthcare VP of Analytics Ryan] Leslie’s team analyzed a stockpile of data ranging from billing records to patient charts. It found that a distended jugular vein — something that can be spotted during any routine physical exam — is a particularly high risk factor.”
+
+Advertisement
+
+It’s likely we’re just seeing the tip of the iceberg of what’s possible with big data and health care, though. Obamacare places a heavy emphasis on electronic health records and better data collection, generally, and patients are now able to track an increasing number of potentially valuable data points using smartphones and wearable devices. Health care is huge business tied to lots of IT spending, so if there’s data that can help health care organizations do their jobs better, there will be plenty of researchers and companies willing to help analyze it.
+
+Advertisement
+
+Feature image courtesy of Shutterstock user lenetstan.

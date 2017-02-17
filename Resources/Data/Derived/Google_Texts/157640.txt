@@ -1,0 +1,67 @@
+We had a number of queries in response to the Lifelines special on U.S. taxation a few weeks back (“Making your U.S. filing that little bit less taxing,” Jan. 29), so we’ll try and cover them here, again with help from taxation specialist Calvin Tong.
+
+First up, thank you to this reader for pointing out an error in the column:
+
+In the “How do I report interest from my Japanese bank and post office accounts?” section of the “Frequently asked questions” section, the instruction for calculating gross interest is to divide the net interest amount by 0.20315 (the Japanese withholding tax rate). Following this instruction would lead to a major overstatement of gross interest earned. The proper way to calculate gross interest earned would be to divide the net interest amount by 0.79685, i.e., one minus the withholding tax rate of 0.20315.
+
+Calvin Tong: Yes, thank you, you are right! To calculate the gross interest if the net is given, a divisor of 0.79685 should be used.
+
+Also, apologies for giving the link for the 2015 rates, not the 2014 ones, which are needed for the 2015 tax return. Here is the link to the 2014 information: bit.ly/taxratesfor2014.
+
+ITINs for Japanese spouses
+
+Next are two queries related to individual tax identification numbers (ITIN) for Japanese spouses:
+
+I have a comment regarding the question “Must I apply for a tax ID for my spouse, even though he/she has no income in the U.S. and has never been a resident?”
+
+The author said the answer is “No,” but the answer is really “Yes” if you want an exemption, because the Internal Revenue Service won’t allow the exemption if you do not have an ITIN number for him/her (which is used in place of a social security number, which the foreign spouse of course doesn’t have).
+
+I found this out the hard way by just listing my wife’s name on my tax return without an ITIN and then having the IRS come back and say I owed more tax because they wouldn’t allow the exemption without an ITIN number.
+
+Thank you for this timely and informative article. Although I am married filing separately, and my Japanese husband has, over 40 years, only made a few short visits to the USA, has never lived there nor had any income or work associations of any kind with the USA, the IRS insisted he get an ITIN and I have to enter it on my 1040 [tax filing form] every year. My husband doesn’t speak English, so I handled all the paperwork and just got his signature on it and I have the card in my papers. I am certain he has forgotten that he has an ITIN or even what it is.
+
+CT : I believe that the answer I gave was perhaps too simple. A filer is not required to provide an individual tax identification number for the spouse, except in the following cases:
+
+• filing a joint tax return;
+
+• claiming a personal exemption for that spouse;
+
+• the spouse is filing a separate tax return, perhaps to report investments in the U.S. (see Page 12, third column of the “Line Instructions for Form 1040″ for this, at www.irs.gov/pub/irs-pdf/i1040gi.pdf)
+
+For those who aren’t doing any of the above, writing “NRA” (nonresident alien) in the slot for the tax ID number is sufficient.
+
+Social Security is an entirely different subject under its own set of rules. Like “Obamacare,” the IRS is merely the collecting and settling agency. As with income taxes, a bilateral agreement exists between the two countries to resolve differences caused by contradictions in their respective domestic rules.
+
+Declaring cash held abroad
+
+Here’s a question about declaring money in accounts overseas:
+
+It seems there are not only new rules for Americans about declaring money in accounts abroad: As I understand it, there are also new rules for Japanese (and foreign residents) to declare money in accounts abroad, also with heavy penalties for noncompliance. I am a retired expat permanent resident in Japan and was told that I am also required to file the 1040 form, even though I am not a U.S. citizen. Besides, I also am obliged to report income from the sale of U.S. stocks, and dividend income (through a U.S.-based Internet brokerage, registered in Japan). My question is, do I have to declare capital gains from U.S. stock and dividends in my Japanese tax declaration even if my total yearly income will not result in any income taxes? I believe there are many interested non-U.S. citizens among your readership who would be interested in this kind of information.
+
+CT : For non-U.S. persons, U.S. taxes on dividends are normally settled by final withholding at source (similar to the practice of Japanese banks and brokerages). Sales of stocks for non-U.S. persons are not subject to a U.S. capital gains tax, per IRS domestic rules. However, you may have to file to report the transaction or to claim a refund if withholding tax was taken.
+
+Have you submitted a Form W-8BEN form to your financial institution? This is the equivalent of the Form W-9, but is for non-U.S. persons to complete and submit to their financial institutions. It is supposed to ensure that the proper amount of withholding tax on dividend income is taken and no withholding on capital gain transactions. If done correctly, you should not have to file a tax return.
+
+This inquiry touches on a number of matters and can go in different directions, so this is just basic information.
+
+Dealing with W-9 forms
+
+And those pesky W-9 forms again:
+
+I am a U.S. citizen who has been living here many years and am in full compliance with the IRS and Treasury. I have a bank and three brokerage accounts here but only one firm has sent me a W-9 form to fill out. Do I need to ask the other firms to follow through or may I safely assume it is their business alone and I won’t be penalized if they fail to file?
+
+CT : Under FATCA (Foreign Account Tax Compliance Act) rules, the account holder is obligated to report on the Form 8938, “Statement of Specified Foreign Financial Assets,” if the minimum thresholds are met. The financial institution is responsible for its side of the reporting — namely, identifying and obtaining Form W-9s from the account holders who are U.S. persons. The Form W-9 has been updated as of December 2014 to take into account FATCA and foreign financial institution reporting. Here is the link: www.irs.gov/pub/irs-pdf/fw9.pdf
+
+For good measure, here is guidance from Shinsei Bank and HSBC, written for their customers in simpler terms: www.shinseibank.com/info/news140606_fatca_e.html and fatca.hsbc.com/en/cmb/hongkong/frequently-asked-questions.
+
+I have inquired at the account opening desks of about half a dozen institutions in recent months, including those I have accounts with, to ask if they needed anything extra from me due to my being a U.S. person and FATCA. None have answered in the affirmative. (If readers have insights or experiences on the W-9 submittal process with a local institution, please let Lifelines know!)
+
+Filing your FBAR
+
+And finally, two questions on FBAR (Report of Foreign Bank and Financial Accounts) filing:
+
+The last time I filed taxes was for my 2009 return — my last working year before I became a stay-at-home mom. I am four years behind and plan to file for this year to start keeping up to date again. I do have two bank accounts but they never exceed more than $10,000 during a taxable year, so would I still have to file an FBAR? Also, I have had no income from 2010 to now. Should I worry about filing back taxes for 2010 through to 2013?
+
+CT : You are below the reporting requirements on both counts. Breathe easy!
+
+Calvin Tong is affiliated with ExpatTax, LLC. He can be contacted at cwt@expattaxjapan.com or via www.expattaxjapan.com. Comments, questions ideas here: community@japantimes.co.jp

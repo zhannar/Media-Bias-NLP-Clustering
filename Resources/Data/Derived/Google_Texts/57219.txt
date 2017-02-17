@@ -1,0 +1,45 @@
+WASHINGTON -- The CIO of the federal government recently referred to the botched rollout of the federal health care website as a "teachable moment."
+
+But what was the lesson?
+
+In a panel discussion on Capitol Hill yesterday, senior tech executives from the private sector diagnosed what they considered a top-to-bottom failure in the planning and execution of Healthcare.gov, beginning with the ambitious scope of the project.
+
+[Related: U.S. CIO Sees Healthcare.gov Glitches as a 'Teachable Moment']
+
+"I don't think there's a lesson here that we haven't already learned more than once," said Doug Bourgeois, vice president of solutions and services with VMware's U.S. public sector division. "The big bang approach never worked, and yet here we are again with the big bang approach."
+
+Iterate to Success
+
+Bourgeois and other panelists advised federal IT leaders to adopt a more iterative development model for future technology projects, as has become commonplace in industry.
+
+John Landwehr, vice president of digital government solutions at Adobe, recalled a time when the software vendor worked on a long-term release schedule, like a complete overhaul of Photoshop that could take a year-and-a-half of development or longer.
+
+[Related: 6 IT Outsourcing Lessons Learned From Healthcare.gov's Troubled Launch]
+
+"We used to do big releases," Landwehr said, but over time the company moved away from that approach and now pushes out more minor product updates more frequently.
+
+But the problems identified with the rollout of the federal health care website go well beyond the initial scoping of the project, the panelists argued.
+
+[Related: Healthcare.gov's Problems: What We Know So Far]
+
+The procurement process that the Department of Health and Human Services oversaw, by contracting with numerous private-sector firms, also gave the project little chance of succeeding, according to Mark Forman, founder of Government Transaction Services, a firm that provides tools for federal contractors, and the former administrator for e-government at the Office of Management and Budget.
+
+Making a Mockery of Modular
+
+"They made a mockery of modular procurement," Forman said. "Modular procurement means you should be able to buy the pieces easily, fast and they should fit together. Fifty-five pieces from different vendors do not fit together."
+
+Panelists also described the cultural and organizational issues in the federal government that can derail large-scale IT deployments. They stressed that the technology aspects of the launch, daunting as they were, were compounded by the too-common failure of federal project managers to communicate effectively with their commercial suppliers or their colleagues in other segments of the department or agency. That could mean ignoring warning signs about glitches in a website, or rebuffing suggestions by the vendor to take an alternative development approach.
+
+"There's multiple layers of the challenge. Some are architectural, meaning there could have been a different technological approach to providing an integration framework for tying the information together and ensuring that it was going to perform. There is [also] a project-management practice approach," Bourgeois said.
+
+"The project management method that works is in many ways dependent on the scope and the size and the severity and the constraints of the challenge at hand," Bourgeois said
+
+Forman cautioned not to view the problems with the healthcare site as a perfect microcosm of the federal procurement system, pointing to other shortfalls in the government's work with vendors, including contract administration and the process of managing vendors after the contract has been awarded.
+
+In that system he said he sees a blighted culture where purchasing decisions are too heavily guided by cost considerations, and program managers are often dogmatic in their demands from vendors.
+
+As a consequence, suppliers can be compelled to meet an unreasonable time table for deliverables or build systems to the specifications of the agency, even if they realize that modifications to the design would produce a superior product.
+
+"There's a big focus today in government procurement on lowest price, technically acceptable. It's created a cancer in the government IT industry," Forman said. "We have a very screwed up incentive structure right now in government contracting, and it's not benefiting anybody."
+
+Kenneth Corbin is a Washington, D.C.-based writer who covers government and regulatory issues for CIO.com. Follow Kenneth on Twitter @kecorb. Follow everything from CIO.com on Twitter @CIOonline, Facebook, Google + and LinkedIn.

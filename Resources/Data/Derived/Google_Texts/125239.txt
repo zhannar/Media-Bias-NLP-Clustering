@@ -1,0 +1,35 @@
+Americans who have enrolled in health coverage — or even thought about it — beware: The federal government is storing your personal information in a massive database that can be accessed by a variety of government agencies, private companies, and contractors. And as of now, that data will be retained forever.
+
+According to the Associated Press, anyone who sets up an account on Healthcare.gov, even if he doesn’t end up buying coverage there, will have his personal information stored in the Multidimensional Insurance Data Analytics System (MIDAS), a database owned by the Centers for Medicare and Medicaid Services (CMS).
+
+“MIDAS contains at least the following data elements: name, address, email, phone, date of birth, Social Security number, self-reported income, financial accounts information, ethnicity, citizenship status, military status, employment status, passport number, and taxpayer identification number,” former federal official Michael Astrue wrote in an op-ed for the Cleveland Plain Dealer. “There are conflicting accounts as to what extent contractors create and retain records in MIDAS … about their phone conversations with Americans who call www.healthcare.gov.”
+
+Astrue, who served as general counsel for the Department of Health and Human Services (HHS) from 1989 to 1992 and commissioner of the Social Security Administration from 2007 to 2013, harshly criticized the lack of concern by the CMS about Americans’ privacy.
+
+To begin with, he cited a September 2014 Government Accountability Office report that found MIDAS was launched with “incomplete security plans and privacy documentation.” “The same report documents that HHS disclosed the data of millions of Americans to Equifax, a corporate credit bureau, without any finalized agreement protecting the privacy rights of the individuals whose data HHS disclosed — a clear violation of the Privacy Act,” he added.
+
+When the privacy assessment was finally completed in January, well into the enrollment period for ObamaCare’s second year, it was “vague on key details,” reported the AP. In particular, it states merely that there are “1 million or more” individuals with personal information in MIDAS. The actual number, needless to say, is considerably higher. “In addition to the 10 million currently enrolled,” the AP wrote, “MIDAS also keeps information on former customers, on consumers who started applications but never finished them and on people determined eligible for Medicaid.” The administration won’t reveal the exact number of people in the database, which “raises a red flag,” Electronic Frontier Foundation senior staff attorney Lee Tien told the AP.
+
+Astrue pointed to further actual or potential Privacy Act violations. “HHS,” he stated, “is illegally expanding MIDAS by adding data from state-run health care exchanges without the consents required by the Privacy Act.” In addition, he suggested the department might be “enforcing a nondisclosure policy of MIDAS data,” though he couldn’t confirm that since “senior officials of both CACI [the contractor that operates the database] and HHS refused to respond to [his] written questions about the public’s right to access MIDAS data.” (CACI, by the way, is now set to rake in more than $110 million in taxpayer cash through 2017 — more than 85 percent higher than the value of the contract when it was awarded in 2011.)
+
+MIDAS isn’t even mentioned in the Healthcare.gov privacy policy, Michelle De Mooy, deputy director for consumer privacy at the Center for Democracy and Technology, told the AP. The administration countered that the general functions of the database are described even if its name isn’t.
+
+Prior to the implementation of Healthcare.gov, of course, the Obama administration tried to convince Americans that very little of their personal information would be stored and that it would be safe. Then-CMS administrator Marilyn Tavenner told a congressional hearing in 2013 that CMS was “especially focused on storing the minimum amount of personal data possible” and sought “to minimize all possible security vulnerability.”
+
+But not only are vast amounts of data being retained; they are also being made available to a wide variety of entities, from HHS to state agencies, private insurers, and contractors. MIDAS also “gathers information from many other systems, including federal and state insurance exchanges, the federal ‘data hub’ that verifies eligibility for benefits, insurance companies and the government’s casework system for consumer complaints,” according to the AP. “The MIDAS privacy assessment says policies about personal data have changed over time to allow additional uses and disclosures beyond what is needed for the minimum functions of the insurance exchanges. The scope of data collected also has been widened.” As per standard procedure, the administration isn’t saying how many people actually have direct access to MIDAS.
+
+“The sheer number of contract research organizations that now access MIDAS data increases exponentially the security risk of every American with data in the system,” averred Astrue.
+
+The feds’ record on data security is hardly reassuring. Just recently, Chinese hackers managed to obtain the personnel records for four million federal employees and contractors, including background data for their security clearances. Last summer, Healthcare.gov was infected by malware that went undetected for weeks, though officials claim no one’s personal data was compromised. Moreover, the federal data hub to which MIDAS is connected is itself a security disaster waiting to happen.
+
+Some of these security fears could be mitigated if the data were retained only for as long as necessary to verify eligibility for Medicaid or insurance subsidies.
+
+“A basic privacy principle is that you don’t retain data any longer than you have to,” Tien told the AP. “The more data you keep, the more harm an attacker or unauthorized person can do.”
+
+Unsurprisingly, given the federal government’s typical disregard for Americans’ privacy, MIDAS does not adhere to this principle; it keeps data forever. One of the official documents for the MIDAS project describes it as “the perpetual central repository for capturing, aggregating, and analyzing information on health insurance coverage.” The January privacy assessment confirms this, stating, “Data in MIDAS is maintained indefinitely at this time.”
+
+Based on the fact that “longitudinal studies” of MIDAS data have already begun, “it will be years before HHS even considers destruction of our personal data,” warned Astrue.
+
+“HHS,” he declared, “still does not take its role of protecting privacy seriously.”
+
+Despite all promises to the contrary, ObamaCare is sapping Americans’ privacy at a fast clip. Vast amounts of personal data are being stored indefinitely with countless individuals having access to the data — and all of it sitting there in MIDAS, waiting for hackers to exploit it. Considering this is but one of ObamaCare’s numerous negative outcomes, is it any wonder that just five years after it became law, only half the Democrats who voted for it are still in office?

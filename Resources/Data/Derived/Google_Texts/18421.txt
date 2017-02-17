@@ -1,0 +1,15 @@
+Wednesday, October 8, 2014
+
+Under the former Beverly-Killea Limited Liability Company Act, a limited liability company was dissolved upon the first to occur of any of the following three events:
+
+The occurrence of an event specified in its governing documents;
+
+A majority vote of the members to dissolve; or
+
+A judicial decree of dissolution.
+
+Cal. Corp. Code § 17350 (repealed). The California Revised Uniform Limited Liability Company Act adds a forth casus dissolutionis: the passage of 90 consecutive days during which the LLC has no members (except on the death of a natural person who is the sole member of a LLC, the status of the member, including a membership interest, may pass to the heirs, successors, and assigns of the member by will or applicable law). Cal. Corp. Code § 17707.01. Dissolution pursuant to either of these statutes might characterized as de jure.
+
+CB Richard Ellis, Inc. v. Terra Nostra Consultants, Cal. Ct. of Appeal Case No. G049803 (Oct. 7, 2014), the plaintiff had obtained an arbitral award against an LLC for commissions due under a listing agreement. The LLC had no assets because it had distributed the sales proceeds before the award was issued. The plaintiff therefore pursued an action under former Corporations Code Section 17355 which authorizes actions against members of a dissolved LLC to the extent of distributions of LLC assets upon dissolution. (The Court applied the former Beverly-Killea Act because the dispute arose before the effective date of the RULLCA, but noted that current Section 17707.07(a)(1) “is nearly identical” to Section 17355.) The question, therefore, became whether dissolution was limited to the occurrence of one of the events specified in former Section 17355.
+
+While acknowledging that it is “unclear” whether the legislature intended former Section 17350 to preclude a determination that an LLC dissolved prior to the occurrence of any of the three events specified in the statute, the court found that the plain language of the statute did not preclude that possibility. The Court then interpreted the statute in accordance with its understanding of the statute’s purpose – “to prevent the unjust enrichment of members of limited liability companies, when such members have received assets the dissolved company needs to pay creditors.” The Court further noted that if suits against members were limited to only cases of de jure dissolution, then LLCs and their members could avoid the force of Section 17355 by the “simple expedient of transferring assets out of the company the day before voting to dissolve”.

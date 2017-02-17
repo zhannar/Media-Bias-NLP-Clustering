@@ -1,0 +1,57 @@
+Getty
+
+The Spitzer-Stringer race stays close in NYC. A poll about polls finds distrust of polls, and maybe some perverse good news too. This is HuffPollster for Wednesday, September 4, 2013.
+
+POLLS ARE SEEN AS BIASED, POLL FINDS - Elizabeth Wilner, summarizing a poll on the challenges facing modern pollsters: “Three out of four Americans see polling as biased. This is the case across all demographic subgroups with little variance. Traditional polling is becoming more and more challenging. Even as phone polls need to account for exploding cell phone usership, cell users are more guarded about participating than landline users. The public's increasing access to opinion data through online survey tools and poll aggregators also raises the stakes for the industry to adapt to technology and trends in order to continue conducting research and be seen as a trusted resource. Social media is not yet seen by the public as a useful source on public opinion despite recent hype about sentiment analysis and predictive ability.” [Kantar]
+
+-The National Journal's Ron Fournier: "LET'S FOCUS GROUP THIS! RT @nationaljournal: Poll: Americans don't trust polls." [@Ron_Fournier]
+
+-Republican pollster Logan Dobson: "'Six out of 10 report either positive or neutral feelings about pollsters'...love you guys too =)" [@LoganDobson]
+
+KANTAR'S PANEL Kantar invited several pollsters to discuss the results of their survey in a panel held in Washington on Wednesday and covered by C-SPAN. The panel was moderated by Amy Walter of the National Journal and included Kantar's Ken Goldstein, Obama pollster Joel Benenson, Republican pollster Bill McInturff, Pew Research Center president Allen Murray and yours truly. What follows is my take on one intriguing wrinkle in the Kantar survey findings.
+
+-- Mark Blumenthal
+
+(Watch the panel on C-SPAN)
+
+Per the tweets above, there is something a bit "beyond the looking glass" about using a public opinion poll to ask people about...polling. If that juxtaposition alone seems odd, consider the potential for what pollsters call "nonresponse bias" -- errors resulting from sampled respondents who the pollster could not reach or that refused to participate -- in a poll about polls.
+
+A low response rate does not create an error unless there is also a big difference between respondents and nonrespondents on at least one of the questions asked. When that happens, the resulting error is called nonresponse bias.
+
+The risk of such bias is high for this survey, as it is for most contemporary telephone polls, because response rates have fallen to single digits. By our calculation, using data kindly shared with HuffPollster by the Kantar researchers, the AAPOR 3 response rate for this survey was just 3 percent -- which means that the pollsters were unable to reach or interview an adult respondent at 97 percent of the working, residential landline or cell phones that they dialed. Much of the shortfall was due to their inability to contact anyone at at all at roughly 3 out of 4 of the sampled residential numbers (due to no answers, voice mail, caller ID, etc). Even where they were able to speak to someone and identify an eligible adult, only 1 in 8 respondents ultimately completed the survey. [AAPOR response rates explained]
+
+It may come as a surprise -- because few pollsters typically disclose these data -- but low single digit response rates have become the norm for surveys conducted by commercial interviewing services. Surveys conducted by universities, prominent non-profits like the Pew Research Center and some media outlets can obtain better cooperation as a result of well known and trusted brand names, yet even Pew Research reported an average response rate of just 9 percent in 2012.
+
+What survey researchers have learned over the years, however, is that lower response rates do not automatically translate into greater nonresponse bias. A study published six years ago by the highly respected survey methodologist Robert Groves (who went on to serve as director of the U.S. Census and is now the provost of Georgetown University) examined 235 separate studies that were able to estimate survey nonresponse bias. While "there is ample evidence that nonresponse bias does occur," he concluded, "there is little empirical support for the notion that low response rate surveys de facto produce estimates with high nonresponse bias." [POQ]
+
+Where can nonresponse bias occur? Last year, an extensive Pew Research Center study found that their phone surveys "continue to provide accurate data on most political, social and economic measures," yet they also found that people who "are more engaged in civic activity," in particular, "people who volunteer are more likely to agree to take part in surveys than those who do not do these things." [Pew Research]
+
+More to the point, a study published in 2004 by Groves and two academic colleagues found that in several experimental surveys, "persons cooperated at higher rates to surveys on topics of interest to them." Teachers were more likely to participate in a survey on "education and schools," campaign contributors were more likely to participate in a survey on “voting and elections," and so on. [POQ]
+
+All of which raises the question: Would a poll about polls be more likely to attract too many people who like and trust..polls?
+
+In that respect, the distrust in polling measured by the Kantar survey comes as something of a pleasant surprise. Consider it this way: If the survey had produced overwhelming expressions of trust in polls and pollsters, we would have had good reason to dismiss the results, assuming that only fans of polling had participated.
+
+But that's not what happened. Three out of four (75 percent) said they perceive polling to be biased. Only 4 percent reported "a lot of trust" in polling companies -- and nearly half (46 percent) expressed distrust -- in the midst of a conversation with an employee of a polling company.
+
+As such, the perceptions of bias may not signal further doom and gloom for pollsters. If anything, they suggest that the few who do participate in surveys will share their true beliefs, even when it might offend the pollster. And that, in a perverse way, may amount to a bit of good news.
+
+NO CLEAR LEAD IN COMPTROLLER POLL - Christopher Mathias: “With less than a week left before election day, the race for the Democratic nomination for New York City comptroller, is ‘too close to call.’ The latest poll from Quinnipiac University, released Wednesday, has Manhattan Borough President Scott Stringer with 47 percent support among likely Democratic voters, slightly above Spitzer's 45 percent. The poll has a margin of error of 3.6 percentage points….A previous poll had the two candidates virtually tied at 46 percent, a dramatic shift in a race that earlier this summer had Spitzer leading by 19 points.” [HuffPost]
+
+HuffPollster is off tomorrow for Rosh Hashanah - L'Shana Tova to those who celebrate, and a happy post-Labor Day short week to all.
+
+WEDNESDAY'S OUTLIERS' - Links to more news at the intersection of polling, politics and political data:
+
+-Ipsos finds no change in opposition to a military strike in Syria since last week. [Reuters]
+
+-Josh Tucker doubts public opinion on Syria will matter to whether Congress votes to approve military action. [The Monkey Cage]
+
+-Neil Newhouse finds murky attitudes on taking military actions in Syria. [POS]
+
+-Kristen Soltis Anderson blogs 100 facts on Syria, foreign intervention and public opinion. [kristensoltisanderson.com]
+
+-David Hill argues that Republicans will lose in attempting to completely defund Obamacare. [The Hill]
+
+-Jef Pollock concludes the voters hear capitulation in "compromise." [WaPost]
+
+-Tom Edsall rounds up data to explain how Barack Obama could win fewer counties but a greater share of the popular vote than Michael Dukakis in 1988. [NYTimes]

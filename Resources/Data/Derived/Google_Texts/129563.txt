@@ -1,0 +1,25 @@
+Sunday, November 8, 2015
+
+Following the judgment of the Court of Justice of the EU of October 6 in the Schrems case (Case C-362/14), today, the European Commission issued guidance on transfers of personal data from the EU to the U.S. post Schrems. For the press release see here, Q&As here and the Commission Communication here.
+
+In large, the guidance confirms the status quo and summarizes existing guidance of the Article 29 Data Protection Working Party (“WP29”), the EU advisory body on privacy comprised of representatives of the national data protection authorities (“DPAs”), the European Data Protection Supervisor and the Commission, and the WP29’s statement of October 16 (see our previous blog post here). Most notably, the Commission joins the WP29 in the position that alternative tools authorizing data flows can still be used by companies for lawful data transfers to third countries, including to the U.S. The Commission then further explains each of these alternative tools in more detail:
+
+Standard Contractual Clauses (“SSCs”) : There are currently three sets of SCCs which have been approved by a Commission decision (see here). Since Commission decisions are binding in their entirety in the Member States, incorporating the SCCs in a contract means that national authorities are in principle obliged to accept those clauses. In other words, where authorization is required under national law, the national authorities must, in principle, grant such authorization automatically. This is without prejudice to the supervision of the national data protection authorities (“DPAs”). Aside from SCCs, companies may also rely on ad hoc contractual arrangements, which require approval by the DPAs on a case-by-case basis.
+
+Binding Corporate Rules (“BCRs”) : BCRs are an alternative tool to ensure compliance with the transfer requirements under Article 26 (2) of the EU Data Protection Directive (Directive 95/46/EC). Under most EU Member States’ laws, data transfers on the basis of BCRs have to be authorized by the DPAs in each Member State from which the multinational company intends to transfer data (this approval process has been facilitated by the ‘mutual recognition’ and ‘cooperation’ procedures).
+
+Derogations : Personal data may also be transferred using one of the derogations set out in Article 26 (1) of Directive 95/46/EC, including unambiguous consent, necessity for the performance of a contract, etc. The Commission guidance essentially echoes the existing guidance and best practice rules of the WP29.
+
+Pursuant to the Commission guidance, reliance on the alternative tools is subject to two conditions:
+
+the original data collection and processing must have been lawful in the first place; and
+
+the controllers remain responsible for verifying that the personal data is effectively protected when using alternative tools. Similar to the WP29’s statement of October 16, the Commission considers that controllers may need to take additional safeguards to complement those afforded by the SCCs or BCRs, ranging from “technical, organisational, business-model related or legal measures to the possibility to suspend the data transfer or to terminate the contract.”
+
+Adequacy Decisions Relating to Third Countries
+
+The Commission recalls that the Schrems judgment is limited to the Commission’s Safe Harbor Decision. However, it also notes that all the other adequacy decisions that the European Commission has issued for third countries pursuant to Article 25 (6) of Directive 95/46/EC (for a list see here) contain a limitation on the powers of the DPAs identical to that in Article 3 of the Safe Harbor Decision, which the CJEU considered invalid. Therefore, the Commission will prepare a decision replacing that provision in all existing adequacy decisions and also engage in a regular assessment of existing and future adequacy decisions, as the CJEU had required.
+
+Safe Harbor Negotiations
+
+In the Commission’s view, a renewed and sound framework for transfers of personal data to the U.S. remains a key priority. The Commission hopes to conclude the negotiations with the U.S. government on a new arrangement for transatlantic data transfers within three months, coinciding with the end of the ‘grace period’ which the WP29 has implicitly granted until the end of January 2016. If no appropriate solution is found with the U.S. authorities by the end of January 2016, there is a risk that individual DPAs may begin enforcement actions.

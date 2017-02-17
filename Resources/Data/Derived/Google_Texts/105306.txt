@@ -1,0 +1,63 @@
+When popular Chinese handset maker Xiaomi Inc admitted that its devices were sending users' personal information back to a server in China, it prompted howls of protest and an investigation by Taiwan's government.
+
+The affair has also drawn attention to just how little we know about what happens between our smartphone and the outside world. In short: it might be in your pocket, but you don't call the shots.
+
+Related: How Your Smartphone Can and Will Be Used Against You in a Court of Law
+
+As long as a device is switched on, it could be communicating with at least three different masters: the company that built it, the telephone company it connects to, and the developers of any third party applications you installed on the device - or were pre-installed before you bought it.
+
+All these companies could have programed the device to send data 'back home' to them over a wireless or cellular network - with or without the user's knowledge or consent. In Xiaomi's case, as soon as a user booted up their device it started sending personal data 'back home.'
+
+This, Xiaomi said, was to allow users to send SMS messages without having to pay operator charges by routing the messages through Xiaomi's servers. To do that, the company said, it needed to know the contents of users' address books.
+
+"What Xiaomi did originally was clearly wrong: they were collecting your address book and sending it to themselves without you ever agreeing to it," said Mikko Hypponen, whose computer security company F-Secure helped uncover the problem. "What's more, it was sent unencrypted."
+
+Related: Why a Smartphone Knows You're Sick Before You Do
+
+Xiaomi has said it since fixed the problem by seeking users' permission first, and only sending data over encrypted connections, he noted.
+
+Industry Issue
+
+Xiaomi is by no means alone in grabbing data from your phone as soon as you switch it on. A cellular operator may collect data from you, ostensibly to improve how you set up your phone for the first time, says Bryce Boland, Asia Pacific chief technology officer at FireEye, an internet security firm. Handset makers, he said, may also be collecting information, from your location to how long it takes you to set up the phone.
+
+"It's not that it's specific to any handset maker or telco," said Boland. "It's more of an industry problem, where organizations are taking steps to collect data they can use for a variety of purposes, which may be legitimate but potentially also have some privacy concerns."
+
+Many carriers, for example, include in their terms of service the right to collect personal data about the device, computer and online activities - including what web sites users visit. One case study by Hewlett-Packard (HPQ.N) and Qosmos, a French internet security company, was able to track individual devices to, for example, identify how many Facebook (FB.O) messages a user sent. The goal: using all this data to pitch users highly personalized advertising.
+
+Related: The $5.6B ID Theft That Can Literally Kill You
+
+But some users fear it's not just the carriers collecting such detailed data. Three years ago, users were alarmed to hear that U.S. carriers pre-installed an app from a company called Carrier IQ that appeared to transmit personal data to the carrier. Users filed a class-action lawsuit, not against the carriers but against handset makers including HTC Corp (2498.TW), Samsung Electronics (005930.KS) and LG Electronics (066570.KS) which, they say, used the software to go beyond collecting diagnostic data the carriers needed.
+
+The suit alleges the handset firms used the Carrier IQ software to intercept private information for themselves, including recording users' email and text messages without their permission - data the users claim may also have been shared with third parties. The companies are contesting the case.
+
+And then there are the apps that users install. Each requires your permission to be able to access data or functions on your device - the microphone, say, if you want that device to record audio, or locational data if you want it to provide suggestions about nearby restaurants.
+
+Shedding Some Light
+
+But it isn't always easy for a user to figure out just what information or functions are being accessed, what data is then being sent back to the developers' servers - and what happens to that data once it gets there. Bitdefender, a Romania-based antivirus manufacturer, found last year that one in three of Android smartphone apps upload personal information to "third party companies, without specifically letting you know."
+
+Related: The Dark Side of Today's Big Data Revolution
+
+Not only is this hidden from the user, it's often unrelated to the app's purpose.
+
+Take for example, an Android app that turns your device into a torch by turning on all its lights - from the camera flash to the keyboard backlight. When users complained about it also sending location-based data, the U.S. Federal Trade Commission forced the app's Idaho-based developer to make clear the free app was also collecting data so it could target users with location-specific ads. Even so, the app has been installed more than 50 million times and has overwhelmingly positive user reviews.
+
+While most concerns are about phones running Android, Apple Inc's (AAPL.O) devices aren't free from privacy concerns.
+
+Carriers control the code on the SIM, for example, and this is one possible way to access data on the phone. And, despite stricter controls over apps in Apple's app store, FireEye's Boland says his company continues to find malicious apps for the iOS platform, and apps that send sensitive data without the user knowing. "The iPhone platform is more secure than the Android platform, but it's certainly not perfect," he said.
+
+Apple says its iOS protects users' data by ensuring apps are digitally signed and verified by Apple's own security system.
+
+Back in Driver's Seat
+
+The problem, then, often isn't about whether handset makers, app developers and phone companies are grabbing data from your phone, but what kind of data, when, and for what.
+
+"If we look at the content sent by many apps it's mindboggling how much is actually sent," said Boland. "It's impossible for someone to really know whether something is good or bad unless they know the context."
+
+Handset makers need to be clear with users about what they're doing and why, said Carl Pei, director at OnePlus, a Shenzhen, China-based upstart rival to Xiaomi. OnePlus collects "anonymous statistical information" such as where a phone is activated, the model and the version of software that runs on it, Pei said, which helps them make better decisions about servicing customers and where to focus production.
+
+Unlike Xiaomi, Pei said, OnePlus' servers are based in the United States, which in the light of recent privacy concerns, he said, "gives people greater peace of mind than having them based out of China."
+
+That peace of mind may be elusive as long as there's money to be made, says David Rogers, who teaches mobile systems security at the University of Oxford and chairs the Device Security Group at the GSMA, a global mobile industry trade association.
+
+"Users are often sacrificed to very poor security design and a lack of consideration for privacy," he said. "At the same time, taking user data is part of a profit model for many corporations so they don't make it easy for users to prevent what is essentially data theft."

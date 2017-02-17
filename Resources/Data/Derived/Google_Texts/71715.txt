@@ -1,0 +1,23 @@
+Photo by Joshua Lott/Getty Images
+
+A month ago I said that the goal of the Obama administration was to get healthcare.gov sufficiently stable so that it would work for “a vast majority of users.” This didn’t mean fixing all the bugs on healthcare.gov, since you never know for sure when you’ve done that. It just meant getting to a point where the site worked well enough. Did they make it?
+
+David Auerbach David Auerbach is a writer and software engineer based in New York, and a fellow at New America.
+
+
+
+Amid a lot of horse-race analysis, a New York Times article from Sunday does offer some concrete, heartening details near its end. Monitoring has been set up so that the status of the site is known. They evidently can track logon errors and crashes. When Google engineer Michael Dickerson, who was part of the Obama administration’s “tech surge,” “announced that the day had ended with no major crashes and no one who could not log in, the engineers erupted in applause,” the Times said. This is all good news. And apparently the administration’s relationship with CGI Federal, who had shamelessly passed the buck at congressional hearings, “soured over the summer.” So if it’s forward progress you’re looking for, we have it. The system can be fixed.
+
+But how fixed is it right now? We’ll have a better idea once we have the signup and enrollment numbers for December. But the Progress Report published by the administration on Sunday offers a couple of clues. The Progress Report is itself a good sign: While selective in what it presents, the information it offers is meaningful and relevant, and none of it seems blatantly fishy to me. This is a drastic change from anything the administration or the contractors were offering even a month ago, and they should get credit for making these numbers available (assuming they’re true).
+
+Advertisement
+
+
+
+System uptime appears to be hanging around 95 percent, which equates to the system being down about eight hours per week (“*excluding scheduled maintenance”). That’s not a fantastic number, but it’ll do, compared with the embarrassingly low 42 percent uptime the administration gave for the week ending Nov. 2. The administration evidently no longer sees a reason to sugarcoat performance statistics from October, and indeed, they are appalling. Response times and per-page error rates are considerably better as well. By mid-November, it seems that the site’s scalability problems really had been addressed in some substantive fashion—far from perfectly, but way better than detractors had feared (or hoped).
+
+That leaves questions of functionality, and here the Progress Report is a lot vaguer. It appears that basic signup and registration functionality is in place, but what about generating proper insurance applications, validating eligibility, and the like? The report says little about what work is ahead of the engineering team, but at least one graph suggests there’s some ways to go:
+
+Aside from confirming that it took the administration until early November just to start making significant progress on functionality fixes, the graph also indicates that engineers are still frantically fixing the site. If the site were anywhere near stability, you would expect the number of fixes to start to level off close to the administration’s self-imposed Nov. 30, signaling that they were ramping down crisis mode and making fewer fixes per day. But it doesn’t, indicating that they are still in the hump of this bug-fixing graph:
+
+I have updated my original graph to reflect the new information, though I’m proud to say no changes were needed to the guesses I’d made. The government’s graph reflects my graph quite closely. My graph is the derivative of the government’s graph, so in order to reach the point marked “Relative Stability,” when bug-fixing slows down because the site is comprehensively working correctly, the line of the government’s graph would need to go much flatter. So that puts us somewhere in the middle of the hump of my graph, signaling that stability is still a fair ways away.

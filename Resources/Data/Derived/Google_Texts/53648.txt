@@ -1,0 +1,13 @@
+Saturday, November 15, 2014
+
+Traveling business executives have been falling prey to cybercriminals acting through hotel Internet networks since at least 2009. In an ongoing, sophisticated “espionage campaign” nicknamed “Darkhotel,” thousands of people traveling through Asia have been targeted and hacked through infected hotel WiFi, cybersecurity company Kapersky Lab reported Monday. About two-thirds of the attacks took place in Japan, while others occurred in Taiwan, China and other Asian countries.
+
+“For the past few years, a strong actor named Darkhotel has performed a number of successful attacks against high-profile individuals, employing methods and techniques that go well beyond typical cybercriminal behavior,” said Kurt Baumgartner, principal security researcher at Kaspersky Lab. “This threat actor has operational competence, mathematical and crypto-analytical offensive capabilities, and other resources that are sufficient to abuse trusted commercial networks and target specific victim categories with strategic precision.”
+
+So strategic, in fact, that the hackers appear to know the names, arrival and departure times, and room numbers of the targets. While maintaining an intrusion on hotel networks, the hackers used this information, waiting until the victim checked in and logged on to the hotel Wi-Fi, then submitting their room number and surname to log in. When the hackers saw the victim on the network, they would trick the executive into downloading and installing a “backdoor” with the Darkhorse spying software disguised as an update for legitimate software like Google Toolbar, Adobe Flash or Windows messenger. Once installed, the backdoor can be used to download other spying tools, such as an advanced keylogger and an information-stealing module.
+
+“These tools collect data about the system and the anti-malware software installed on it, steal all keystrokes, and hunt for cached passwords in Firefox, Chrome and Internet Explorer; login credentials for Gmail Notifier, Twitter, Facebook, Yahoo! and Google; and other private information,” Kapersky explained. “Victims lose sensitive information likely to be the intellectual property of the business entities they represent.”
+
+While the company has identified the means of attack and many of the victims, the hackers carrying them out remain active, the company warned. The attackers did leave a footprint in part of the malicious code—two Korean characters—but, while the cryptographic skills suggest there may be a government entity behind it, some elements of the attacks could be performed by the most basic cybercriminals, and no one has been identified.
+
+Kapersky Lab offered tips to guard against Darkhotel and other cybersecurity threats targeting travelers:

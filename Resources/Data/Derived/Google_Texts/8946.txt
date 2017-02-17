@@ -1,0 +1,67 @@
+Donald Trump said the following in an interview with Time magazine:
+
+Don’t forget in the meantime we have a real unemployment rate that’s probably 21%. It’s not 6. [It's] not 5.2 and 5.5. Our real unemployment rate—in fact, I saw a chart the other day, our real unemployment—because you have ninety million people that aren’t working. Ninety-three million to be exact.
+
+If you start adding it up, our real unemployment rate is 42%.
+
+This set off a good deal of chuckling in many camps, but assertions about the "real unemployment rate" (often discussed as if hidden by conspiracy) are a mainstay of US politics, Left and Right. You can see the real unemployment rate discussed on Fox News as well as Democracy Now. Most of the time, these discussions use the U6 rate as the definition of the real unemployment rate, but you do occasionally see other measures used, such as the inverse of the labor force participation rate or the inverse of the employment-to-population ratio.
+
+Because people toss around "real" unemployment rates all the time, I figured it might be helpful to actually explain how the labor force statistics work.
+
+Calculating Unemployment
+
+The official unemployment rate (and related rates) are calculated using the following categories (indents indicate the category is a subset).
+
+Population. Number of people in the group being analyzed.
+
+Employed. Number of people with a job.
+
+Involuntarily Part-Time. Employed part-time for economic reasons.
+
+Unemployed. Number of people without a job who want a job and either a) have looked for work in the last 4 weeks, or b) expect to be recalled from a temporary layoff.
+
+Not In Labor Force. Those not Employed or Unemployed.
+
+Marginally Attached. Number of people not in the labor force who want a job and who have looked for work a) in the last 12 months, or b) since they lost their last job if they lost that job in the last 12 months.
+
+Discouraged. Number of marginally attached people who say they are not looking for work for one of five specific reasons listed here.
+
+From these categories, you can derive all the basic unemployment and labor force statistics:
+
+Labor Force: Employed + Unemployed.
+
+
+
+Employed + Unemployed. Labor Force Participation (LFP) Rate: Labor Force / Population.
+
+
+
+Labor Force / Population. Employment Rate (EPOP): Employed / Population.
+
+
+
+Employed / Population. U3 Rate (Official Unemployment): Unemployed / Labor Force.
+
+
+
+Unemployed / Labor Force. U4 Rate: (Unemployed + Discouraged) / (Labor Force + Discouraged)
+
+
+
+(Unemployed + Discouraged) / (Labor Force + Discouraged) U5 Rate: (Unemployed + Marginally Attached) / (Labor Force + Marginally Attached).
+
+
+
+(Unemployed + Marginally Attached) / (Labor Force + Marginally Attached). U6 Rate: (Unemployed + Marginally Attached + Involuntarily Part-Time) / (Labor Force + Marginally Attached).
+
+The official unemployment and labor force statistics are based on the population of people aged 16 and above. But you can run these same statistics on any population, including prime working-age people (ages 25-54), a specific gender, a specific race, disabled people, and so on.
+
+The lowest of the various rates listed above is the U3 Rate. In the June 2015 CPS that I used for this post, the non-seasonally-adjusted U3 Rate was 5.5%. Generally this is what will be pointed at to "debunk" people who say the "real" unemployment rate is much higher.
+
+The U6 rate will reliably be the highest of the officially-sanctioned unemployment rates. In July 2015, it was 10.8%. This is probably the most common "real" unemployment rate given by those partial to that parlance.
+
+If you want to produce the absolute highest unemployment rate, what you generally do is take the EPOP and present the inverse of it. So, for instance, in the June 2015 CPS, the EPOP was 59.7%. This means therefore that 40.3% of people were either unemployed or not in the labor force. Thus, you could say the real unemployment rate was 40.3%. Though I've never seen anyone do this, you also could take the EPOP and subtract people who are Involuntarily Part-Time to get an even higher number. In July 2015, fully 43% of people aged 16+ were either unemployed, out of the labor force, or working part-time for economic reasons. This, you notice, is actually slightly higher than the Trump rate.
+
+When I am trying to produce high unemployment rates (which I mainly do to prove my point that we live in a dependency entitlement society), what I like to do is produce the Total Population EPOP. That is, instead of finding the EPOP for ages 16+, I find the EPOP for the entire population, including children. In July 2015, the Total Population EPOP was 47.7%, meaning that the real unemployment rate so defined was 52.3%! Greater than half the people in the country in any given month do not know the dignity of market labor!
+
+While it would be nice to conclude this by pointing to the actual best unemployment rate, the reality is that it just depends on what you are talking about. If you want to talk about the percentage of people aged 16+ who want more work but don't have it, the U6 rate is probably the way to go. If you want to try to figure out if we are close to "overheating" or whatever (NAIRU-related concerns), you probably tend to go with the U3 rate, though I've noticed the closer we get to 4-5% U3 unemployment, the more people are looking elsewhere for indicators of labor slack. If you want to just describe who is working and in the labor force, you go with the EPOP or LFP (however, if you are going that route, you probably should use the EPOP and LFP of the total population or prime-age adults (25-54) as the 16+ EPOP and LFP you get in the official releases is basically meaningless).

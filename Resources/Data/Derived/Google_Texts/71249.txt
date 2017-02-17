@@ -1,0 +1,45 @@
+Many payments to doctors made by pharmaceutical and medical device companies will not be included in the public release of the database next month. Federal officials cite data inconsistencies, say records will be posted next June.
+
+ProPublica is investigating the financial ties between the medical community and the drug and device industry. In October 2010, ProPublica compiled the list of payments that drug companies make to physicians and built a publicly searchable database so that patients could look up their doctors.
+
+Next month, when the federal government releases data about payments to physicians from pharmaceutical and medical device makers, one-third of the records will be withheld because of data inconsistencies, an official told ProPublica.
+
+The issue is the latest hurdle for the federal government as it seeks to launch the already-delayed Open Payments database mandated under the Physician Payment Sunshine Act, a provision of the 2010 Affordable Care Act. Making this information public is a crucial step in promoting greater transparency about conflicts of interest in medicine.
+
+The Centers for Medicare and Medicaid Services first turned up flaws in the data in the past two weeks, while investigating a physician's complaint that payments were being attributed to him even though they were made to another physician with the same name. In the process of reviewing that issue, it found "intermingled data," meaning physicians were being linked to medical license numbers or national provider identification numbers that were not theirs.
+
+"CMS is returning about one-third of submitted records to the manufacturers and [group purchasing organizations] because of intermingled data, and will include these records in the next reporting cycle," CMS spokesman Aaron Albright said by email. These records won't be posted until June 2015.
+
+CMS didn't say how many records were involved, but the number of records withheld could be in the millions, if not tens of millions.
+
+The first release, slated for Sept. 30, will include payments made from Aug. 1 to Dec. 31, 2013.
+
+Before CMS makes the data public, it has been allowing physicians 45 days to review it and contest it, if they believe the payments attributed to them were in error. Earlier this month, Louisville, Kentucky, electrophysiologist David E. Mann noticed payments attributed to him that were actually made to another doctor with the same name in Florida.
+
+When ProPublica informed CMS of the problem, they temporarily suspended the verification system for 11 days while officials investigated. The system went back online on Thursday and CMS said physicians will have more time, until Sept. 8, to review their data. CMS reaffirmed its commitment to posting the data for the public on Sept. 30.
+
+"CMS takes data integrity very seriously and took swift action after a physician reported a problem," said Dr. Shantanu Agrawal, CMS Deputy Administrator and Director of the Center for Program Integrity, in a written statement. "We have identified the root cause of the problem and have instituted a system fix to prevent similar errors."
+
+In a press release, CMS said it validated all the data in the system to ensure it was accurate and that "incorrect payment transactions have been removed from the current review and dispute process and this data will not be published."
+
+But the release made no mention that, as a part of the fix, a hefty chunk of the records will not see the light of day next month.
+
+Some physicians have told ProPublica that some data being removed from the system was actually accurate.
+
+Mann, whose initial complaint took the system offline, said he logged into the verification system yesterday and discovered that payments that had been legitimately credited to him were no longer visible. He said only three entries currently show up, even though there were several other legitimate ones from device maker Medtronic that disappeared.
+
+Another electrophysiologist, Edward J. Schloss of Cincinnati, said that some seemingly legitimate payments attributed to him from Medtronic, Boston Scientific and Pfizer disappeared when he logged in yesterday. "It's a big change," he said. "Three of the four companies that have reported payments for me have now disappeared."
+
+Sen. Charles Grassley, R-Iowa, one of the main authors of the Sunshine Act, called on CMS to come clean about what’s happening.
+
+"CMS needs to be transparent about what will be public and what won't be public September 30," he said in a statement. "Incomplete information won't give the public a full picture of payment data. CMS and the companies have had plenty of time to work this out. It will be disappointing if the database is missing one-third of its data by the deadline."
+
+CMS' Albright said consumers will be provided with an explanation about the missing payments when the public database is launched. Doctors said they did not see such a notice on the verification site.
+
+Separately, CMS also appears to have fixed a message that had appeared on the verification site for physicians who have no payments attributed to them. Weeks ago, an error message appeared that said, "You have the following errors on the page: There are no results that match the specified search criteria."
+
+Now the site says, "There are no payments or other transfers of value or ownership or investment interests reported for you or your family members."
+
+ProPublica has been tracking payments from pharmaceutical companies to doctors since 2010 in our Dollars for Docs news application. The site shows payments by companies that have made this information public, typically under settlement agreements with the government to resolve allegations of improper marketing. Dollars for Docs currently lists $2.5 billion in payments through 2012 from 15 companies representing about 43 percent of U.S. drug sales.
+
+ProPublica is looking to talk to doctors who've logged into the Open Payments website and checked their entries. Contact reporter Charles Ornstein at charles.ornstein@propublica.org.

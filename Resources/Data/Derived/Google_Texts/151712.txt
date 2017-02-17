@@ -1,0 +1,69 @@
+By Ariana Eunjung Cha
+
+Candida Vitale and the other fellows at MD Anderson’s leukemia treatment center had known each other for only a few months, but they already were very tight. The nine of them shared a small office and were always hanging out on weekends.
+
+But she wasn’t quite sure what to make of the new guy.
+
+Rumor had it that he had finished med school in two years and had a photographic memory of thousands of journal articles and relevant clinical trials. When the fellows were asked to summarize patients’ records for the senior faculty in the mornings, he always seemed to have the best answers.
+
+“I was surprised,” said Vitale, a 31-year-old who received her medical degree in Italy. “Even if you work all night, it would be impossible to be able to put this much information together like that.”
+
+The new guy’s name was a mouthful, so many of his colleagues simply called him by his nickname: Watson.
+
+Four years after destroying human competitors on “Jeopardy!” to win a suspense-filled tournament watched by millions, the IBM computer brain is everywhere. It’s done stints as a call center operator and hotel concierge. It’s even published its own cookbook, with 231 pages of what the company calls “recipes for innovation.” (The reviews haven’t been flattering — one foodie declared one of Chef Watson’s creations “the worst burrito I’ve ever had.”) But these feats were essentially gimmicks.
+
+IBM is now training Watson to be a cancer specialist. The idea is to use Watson’s increasingly sophisticated artificial intelligence to find personalized treatments for every cancer patient, by comparing disease and treatment histories, genetic data, scans and symptoms against the vast universe of medical knowledge.
+
+Such precision targeting is possible to a limited extent, but it can take weeks of dedicated sleuthing by a team of researchers. Watson would be able to make this type of treatment recommendation in mere minutes.
+
+The IBM program is one of several new aggressive health-care projects that aim to sift through the huge pools of data created by people’s records and daily routines and then identify patterns and connections to predict needs.
+
+Lynda Chin, a physician-scientist and associate vice chancellor for the University of Texas System who is overseeing the Watson project at MD Anderson Cancer Center, said these types of programs are key to “democratizing” medical treatment and eliminating the disparity between those with access to the best doctors and those without. Instead of having to find specialists in a different city, photocopy and send all the patient’s files to them, and spend countless hours researching the medical literature, a doctor could simply consult Watson, she said.
+
+“I see technology like this as a way to really break free from our current health-care system, which is very much limited by the community providers. If you want expert care you have to go to an expert center,” she said, “but there are never enough of those to go around.”
+
+The big data theory
+
+Jho Low, the 33-year-old billionaire who is bankrolling MD Anderson’s $50 million Watson project, said the effort grew out of his grandfather’s treatment for leukemia in Malaysia. Low said he felt fortunate to be able to connect his grandfather’s doctors remotely with MD Anderson specialists. He believes everyone, rich or poor, should have the same access to that kind of expertise.
+
+“This is very personal to my family. It is really something we have gone through and seen what kind of difference it can make,” said Low, a graduate of the Wharton School at the University of Pennsylvania who runs one of Asia’s most successful investment firms.
+
+Low is part of an influential new movement in scientific research driven by young philanthropists and tech titans who have faith that the chips, software programs, algorithms and big data that powered the information revolution can also be used to understand, upgrade and heal the human body.
+
+But the Watson project and similar initiatives also have raised speculation — and alarm — that companies are seeking to replace the nation’s approximately 900,000 physicians with software that will have access to everyone’s sensitive personal health information.
+
+“I think a lot of folks in medicine, quite frankly, tend to be afraid of technology like this,” said Iltifat Husain, an assistant professor at the Wake Forest School of Medicine.
+
+Husain, who directs the mobile app curriculum at Wake Forest, agrees that computer systems like Watson are likely to vastly improve quality of care. But he is emphatic that computers will never replace human doctors.
+
+“There are a lot of things you can deduce by what a patient is not telling you, how they interact with their families, their mood, their mannerisms. They don’t look at the patient as a whole,” Husain said. “This is where algorithms fail you.”
+
+Watson in residence
+
+Named after Thomas Watson, IBM’s first chief executive, Watson was designed to be a substantial leap forward from Deep Blue, the supercomputer that beat chess grandmaster Garry Kasparov in 1997.
+
+One of the top priorities was to give Watson power to understand natural language. Much like the human brain, Watson has become smarter over time by learning from its successes and failures. Watson is literally evolving.
+
+Rob Merkel, who leads IBM Watson’s health group, said the company estimates that a single person will generate 1 million gigabytes of health-related data across a lifetime. That’s as much data as in 300 million books.
+
+“You are deep into a realm where no human being could ever make sense of this information,” Merkel said. That’s where Watson comes in to create a “collective intelligence model between machine and man.”
+
+“We’re not advocating that Watson replace physicians,” he explained. “We are advocating that Watson does a lot of reading on behalf of physicians and provides them with timely insights.”
+
+IBM has highlighted health care as Watson’s priority and said it will dedicate at least 2,000 medical practitioners, clinicians, developers and researchers to the effort — partnering with Apple, Johnson & Johnson and Medtronic to collect patient information that consumers had consented to share.
+
+Among the most ambitious projects is a partnership with 14 cancer centers to use Watson to help choose therapies based on a tumor’s genetic fingerprints. Doctors have known for years that some treatments work miraculously on some patients but not at all on others. But the expense and complexity in identifying genetic mutations has made it difficult for more than a handful of patients to benefit from this new approach. The service is scheduled to launch this year.
+
+In 2011, IBM announced that Watson had learned as much as a second-year medical student. Since then it’s graduated and has been doing residencies at some of the nation’s top cancer centers. In late September, Watson achieved another training milestone: It began its first fellowship in a specialty — leukemia — at MD Anderson.
+
+A team from MD Anderson and IBM spent months feeding the computer program the names, ages and genders, and medications, lab tests, imaging results and notes for thousands of leukemia patients. Watson was tripped up by little things at first. It sometimes had trouble telling whether the word “cold” in a doctor’s notes referred to the virus or the temperature. Or whether T2 was referring to a type of MRI scan or a stage of cancer. Moreover, Watson’s recommendations were often a little wacky.
+
+“When we first started, he was like a little baby,” said Tapan Kadia, an assistant professor in the leukemia department. “You would put in a diagnosis, and he would return a random treatment.”
+
+To teach Watson, the doctors would have to manually type in what they believed the “right” treatments should be and why. They also handpicked journal articles for Watson and started giving it access to newly published material.
+
+Koichi Takahashi, at the top of last year’s class of fellows and recently appointed an assistant professor, said he’s been impressed so far. Watson’s ability to synthesize a patient’s history is “amazing,” Takahashi said. “He beats me.”
+
+Vitale, who did her residency in hematology in Italy, said she thought it was “a little bit strange” that a computer program would be in her class of fellows. But now, she said, she regularly tells Watson about journal articles that might be helpful, by inputting a citation and highlighting key passages, and Watson helps her delve into patient records much faster than she could on her own.
+
+“We are still learning trust,” she said.

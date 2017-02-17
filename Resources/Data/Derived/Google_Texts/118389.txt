@@ -1,0 +1,19 @@
+App-enabled electronic health records could reshape the practice of medicine if standards to enforce cross-platform communications are established.
+
+App-enabled electronic health records could reshape the practice of medicine if standards to enforce cross-platform communications are established. Intel Free Press, CC by 2.0
+
+With health apps, you can track your heartbeat and your steps, your sleep patterns, and your calories. While this already may be very interesting to you, when does your doctor get to look at all this useful information? A new published commentary from Harvard researchers says that mobile devices easily might reshape the entire practice of medicine… so shouldn’t we create standards, ahead of time, to enforce cross-platform communications?
+
+More compellingly, they say, our individual genetic information — which appears to be on the brink of becoming available to each of us — will be of greater use only if linked to an app-fueled, electronic health record system.
+
+It’s time to rev up the software!
+
+The illustration shows an ecosystem of apps supported by a uniform public application programming interface for healthcare data. A third party app written once can run anywhere. The app can be reused on multiple EHRs and other forms of health information technology. The end user can select apps from a gallery or ''app store'' and, just as on a smart phone, one app can be readily be substituted for another. Mandl et al./Cell Systems 2015
+
+“Agreement on, implementation of, and adherence to a standard, public, free, and open API will promote a new form of interoperability transforming healthcare into a modular plug and play system,” wrote the authors. And this, they argue, would “dramatically” increase the rate of progress while reducing the cost of change.
+
+In particular, the researchers say, we must address challenges related to efficacy, accuracy, utility, safety, privacy, and security. In particular, they highlight the fact that electronic health record systems do not support standardized interfaces. They also note that it is time consuming and costly to develop tools for using system data plus any resulting tools is difficult to transfer between clinics.
+
+Still, there’s hope as evidenced by recent collaborations between major hospitals, technology vendors, federal committees, and industry organizations. Together these organizations are accelerating the adoption of standard application programming interfaces.
+
+Source: Mandl KD, Mandel JC, Kohane IS. Driving Innovation in Health Systems through an Apps-Based Information Economy. Cell Systems. 2015.

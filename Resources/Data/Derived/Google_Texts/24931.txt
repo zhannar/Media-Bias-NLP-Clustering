@@ -1,0 +1,27 @@
+When scientists reversed the cell-level damage caused by a Shank3 genetic mutation, they restored normal behavior in mice with the symptoms of autism.
+
+About 84 percent of people with a Shank3 genetic mutation have an autism spectrum disorder. Now, researchers at SUNY Buffalo have pulled back the curtain to reveal the link between this risk factor and the neurodevelopmental disorder. In a new study using mice, they demonstrated the ways in which a Shank3 mutation can disrupt communication between neurons, which then leads to social deficits. More surprisingly, the scientists found they were able to restore normal behavior by simply reversing or cleaning up the cellular damage.
+
+Dr. Zhen Yan, a professor at SUNY Buffalo School of Medicine and Biomedical Sciences and lead researcher, began the new study with mice bred to have a Shank3 mutation. Comparing these mice to wild mice, the scientists conducted various experiments, including a social interaction test.
+
+For this test, the mice experience and respond to three phases of stimuli appearing in side-by-side chambers. In the first phase, they encounter two identical nonsocial stimuli; in the second phase, they encounter a nonsocial stimulus and a social stimulus (another mouse); and in the third phase, they encounter a familiar social stimulus and a new social stimulus. Meanwhile, the researchers record the rodents’ preferences for one stimulus over the other in each phase.
+
+The mice with a Shank3 deficiency showed a drastically reduced interest in the social stimuli (other mice) compared to the inanimate objects. They also spent significantly more time in repetitive self-grooming than the wild mice.
+
+Investigating their brains, the researchers discovered the Shank3 deficiency plays a role in how neurons communicate.
+
+Trail of Damage
+
+Specifically, the Shank3 deficiency disrupts the activation of the NMDA (n-methyl-D-aspartate) receptor, which is crucial to learning and memory, at critical transmission sites in the brain. Going deeper, the researchers found this disruption is caused by the dysregulation of actin filaments in the brain’s prefrontal cortex. (The prefrontal cortex, which is implicated in autism, controls intense emotions, impulses, and so-called executive function.)
+
+Numerous regulators control the normal processes of actin filaments, which to fulfill their function, assemble and disassemble continuously. When actin filament assembly is disrupted, cellular functions fall apart and cellular communication breaks down.
+
+“[Shank3 deficiency] upsets the equilibrium of actin filament assembly, which, in turn, disrupts the normal delivery and maintenance of NMDA and other critical receptors,” Yan explained. This impacts the synapses, which are key to communication between individual cells, and this leads to autistic behavior.
+
+In their final experiment with the mice, the researchers found a way to reverse the process. Returning the activity of some key regulators to normal, the research group found they were able to restore normal actin dynamics, and this resulted in normal functioning of NMDA receptors.
+
+The ultimate result was the Shank3-deficient mice began to behave normally.
+
+“This research is the first to show that, in animals, abnormal actin regulation causes autism-like behaviors," said Yan. "Once actin filaments and NMDA receptors returned to normal, we observed a robust and long-lasting rescue of the social interaction deficits and repetitive behavior in the Shank3-deficient mice.” Yan and her colleagues believe their results might someday lead to new drugs for treating autism.
+
+Source: Duffney LJ, Zhong P, Wei J, et al. Autism-like Deficits in Shank3-Deficient Mice Are Rescued by Targeting Actin Regulators. Cell Reports. 2015.

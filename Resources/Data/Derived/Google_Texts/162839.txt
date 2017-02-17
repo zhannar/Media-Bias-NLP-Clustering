@@ -1,0 +1,15 @@
+Disasters, natural and man-made, threaten more than hospital property. With many healthcare information technology systems integrated and focused on patient care, the threat of an IT or communications shutdown can be both dangerous to patients and costly to the health system.
+
+At Schneck Medical Center in Seymour, Indiana, the risks of a technology failure from a natural disaster has risen on the radar screen. In 2013, the Seymour, Indiana-based hospital rewrote its emergency preparedness plan to elevate the response to a technology shutdown. As we go into our next budget cycle, we’re looking to enhance our capabilities to where we have two hot sites for our technology systems,” said Craig Rice, Schneck’s director of IT.
+
+Not just a hurricane or tornado can shut down the IT infrastructure. The theft of private patient personal information and financial data from malware, a devastating virus, a DDOS (distributed denial of service) event and phishing attack are other rising concerns, he added.
+
+At present, Schneck utilizes a basic backup to its system, which works just fine but is deemed too slow from a recovery standpoint. “If we experienced a disaster, it would take 24 hours to two days to get the system back up and running, whereas with a hot site it would take an hour or less,” Rice said. “We know this will cost us more money, but in the long run it is worth it.”
+
+Susquehanna Health is pursuing a similar strategy, migrating more of its clinical and financial systems to a hosted environment. “We’re working with Siemens to have them host our data center,” said Timothy Schoener, vice president and CIO of the Williamsport, Pa.-based four-hospital system. “They can withstand the impact of a natural disaster, since their hot site is literally a bunker.”
+
+For the technology systems Susquehanna Health does not outsource, it backs up at an owned recovery hot site in Reading, Pa., managed by data protection vendor IPR International. The site handles about 15 systems that are important to the organization’s laboratory, radiology, pharmacy and other units, and is designed to bring these systems back up as fast as possible. “If we were to lose Internet connections in the region, IPR has a link to the Siemens data center that is almost like a redundant LAN (Local Area Network),” Schoener noted.
+
+At Schneck, technology continuity is so important that the organization’s disaster preparedness group has developed a subcommittee within it focused on the subject. “Whether the cause of the technology disruption is a virus, a tornado or a bomb, the subcommittee has developed particular responses,” Rice said. “This has been elevated as a core strategic concern.”
+
+This is the second in a two-part series on hospital disaster planning. See the first article here.

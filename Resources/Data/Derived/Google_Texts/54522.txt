@@ -1,0 +1,145 @@
+“Inside the Reporter’s Notebook,” is a biweekly dispatch of news and information you may have missed or that slipped through the cracks at conferences, hearings and the like.
+
+This is not a column nor commentary — it’s news tidbits, strongly sourced buzz and other items of interest that have happened or are happening in the federal IT and acquisition communities.
+
+As always, I encourage you to submit ideas, suggestions, and, of course, news to me at jpmiller@federalnewsradio.com.
+
+T he Labor Department is paying for its own data.
+
+Yes, that’s right. Labor issued a sole source justification to GCE to obtain its financial management data, which the company hosts in its commercial cloud.
+
+Advertisement
+
+The agency has issued a new contract to GCE on Dec. 3. In it, the agency says GCE must transmit 624 data reports and associated documentation, and build an interface to a new DoL managed data warehouse.
+
+“As such, all applications and data are hosted by the contractor at its site, and the government does not have access to the ‘back end’ of the system. Since June 5, 2012, the government has been seeking access to the full DOL dataset hosted by GCE to no avail, therefore at this point in time GCE is the only source available to perform this service,” Labor wrote in the notice on FedBizOpps.gov.
+
+This is an example every agency should take notice. Labor failed to put in its contract a stipulation that the contractor would have to build a way to extract the data and return it to the agency in a usable format. So now, Labor must pay extra for that service.
+
+Sources say Labor has been trying to work with GCE for more than a year to get access to the data, including sending official letters requesting the information. Sources say GCE has been hesitant to give Labor its data because it wasn’t something they could do easily and it could compromise proprietary information.
+
+So, Labor had no choice but to issue this sole source justification and pay GCE for its own data.
+
+Labor didn’t issue a total cost for the sole source contract, but sources say it’s not too expensive.
+
+“The labor categories used in this requirement are an average of the Alliant GSA schedule published rates for the same categories. GSA rates are considered fair and reasonable since they are determined by competition,” the sole source notice stated.
+
+Labor was one of the first agencies to put its financial management system in a private sector cloud, hosted and managed by GCE.
+
+Labor CFO Jim Taylor previously has talked about his plan to recompete the contract. He said in September at an event on shared services that Labor is finalizing a requirements analysis and the RFP should follow in a few months.
+
+A nd speaking of Taylor, sources also say he is leaving Labor and heading to the IRS on a detail. Taylor, who has been Labor CFO for more than three years and worked for government since 1980 as an intern, will be the senior director for the Affordable Care Act operations.
+
+He will take over for Sarah Hall Ingram, who has worn multiple hats including overseeing the roll out of the tax agency’s portion of the ACA.
+
+One government source said the IRS met its deadlines and Taylor, by no means, is “parachuting in to rescue the program.”
+
+Instead, Taylor is helping the IRS create a vision and strategy for its continued role with the Affordable Care Act.
+
+Under the law, the IRS provides information to the portal around everything from letting employers report the health care they provide through the W-2 form to providing tax disclosure information to the Department of Health and Human Services to carry out eligibility determinations.
+
+Karen Tekleberhan, Labor’s deputy CFO, will take over for Taylor on interim basis.
+
+
+
+D eadlines, deadlines, deadlines…the government is full of them. Every time you turn around there is another one and the Office of Management and Budget or Congress or whomever is waiting for something.
+
+The most recent one that just passed this week was for shared services.
+
+Industry and government sources confirmed agencies had to submit to the Treasury Department’s Office of Financial Innovation and Transformation part one of a two- part application to be a financial management shared service provider.
+
+For part 1, according to sources, agencies must submit to OFIT a letter of intent that is signed by a senior official explaining why they plan on offering shared services.
+
+Once OFIT and OMB decide which agencies meet a set of criteria, then comes part 2: submitting the full application to be a federal shared service provider.
+
+Sources say OFIT will create an evaluation team to review the applications and decide which agencies will be able to offer financial management services to others.
+
+One industry source said there is some speculation or rumor that several agencies would submit applications as an approach to self-preservation. Among those agencies interested in becoming a shared service provider are the Environmental Protection Agency, the Veterans Affairs Department and NASA.
+
+For those agencies not interested in being a shared service provider, OFIT continues to figure out how to ensure they move to the best managed system.
+
+Sources say how the private sector fits into this initiative still is unknown, as OFIT is focused on getting the federal shared service providers in place first.
+
+
+
+T he other recent deadline that passed last week was around President Barack Obama’s open government executive order.
+
+OMB extended the deadline by which agencies must submit an enterprise data inventory and release a list of their data via “/data” page on their websites to Nov. 30, because of the shutdown.
+
+The Sunlight Foundation issued a report card on how agencies complied with the milestones and found mixed results.
+
+“We had hopes that some agencies might choose to publicly release their entire Enterprise Data Inventories, providing a full picture of their data holdings,” wrote Matthew Rumsey and Ginger McCall in a blog posted Dec. 3. “Unfortunately, so far, that does not seem to have happened. Until the full inventories are available, the public will still be stuck in the dark, not knowing what we don’t know about government data holdings.”
+
+Sunlight found 13 out of 26 agencies fully complied with the requirement to update their “/data” page.
+
+Agencies did a better job updating their digital strategies, with 17 out of 26 complying with the mandate.
+
+Sunlight specifically highlighted the Education Department and EPA for their efforts to meet the spirit and intent of the open data policy.
+
+The foundation chided the departments of Commerce, Defense and Veterans Affairs for their failure to release data or update their web pages with new information.
+
+“This utter lack of compliance is a sign that these agencies either don’t care, or aren’t competent enough, to comply with the wishes of the White House,” Rumsey and McCall stated.
+
+Requests to OMB for an update on how agencies did in meeting the milestones was not returned.
+
+A nd speaking of Sunlight, they have sued the General Services Administration.
+
+The good-government group announced Nov. 18 it submitted a Freedom of Information Act request six months ago for all the contract notices posted on FedBizOpps.gov since 2000.
+
+GSA has not responded, so Sunlight is taking them to court.
+
+“These notices would allow Sunlight Labs developers (and members of the press or researchers) to analyze government-spending patterns for inaccuracies, corruption and waste,” the foundation said in a release.
+
+McCall said in a blog post that when Sunlight gets the data, the goal is to “figure out where government money is going and look for patterns related to no bid or low bid contracts. Once we get the notices, we plan to make the data available to the public so that others can analyze it as well.”
+
+It makes one wonder if GSA, like Labor, doesn’t have access to the government’s data from the vendor who runs FedBizOpps.gov?
+
+
+
+M ore computers were infected in 2012 by malicious code or from other types of cyber attacks for one basic reason: poor decision-making by users.
+
+The Homeland Security Department’s National Cybersecurity and Communications Integration Center found in a new report released last week that 20 percent of all infections were caused by users clicking on a link and installing malicious code on their PCs.
+
+The report suggests that 56 percent of all malware threats came from the virus Sality, with the Zeus virus a close second at 54 percent.
+
+“In order to bolster an effective cybersecurity posture, U.S. network defenders need to understand Internet activity affecting U.S. networks, such as network scanning and reconnaissance,” the report stated. “US-CERT surveys trends visible to U.S. civilian government networks to provide such information. This information, coupled with the knowledge of communication protocols and the tactics through which they are established, helps prepare network defenders by providing situational awareness. This report examines the relationship between malware and its domains, IP addresses, user-agent (UA) strings, and geo-location data to shed light on malicious communication traffic. Furthermore, information within this report provides an in-depth look at how U.S. Government data is routed globally — and the protocols through which the routing occurs-to show which geographic points serve as international hubs of information exchange.”
+
+The report is a fascinating in-depth look into the types of and amount of cyber attacks users face every day. It’s the first time NCCIC released a trends report.
+
+DHS NCCIC found that the malware found its way onto users’ network in the first place through something called user-agent strings. These are used to negotiate the user’s experience between the client and server. Malware often uses these unique strings to turn computers into botnets.
+
+NCCIC said if agencies blocked malformed strings, that would reduce the number of malicious Web connections by almost 50 percent.
+
+Another interesting statistic is the United States, China and Russia accounted for nearly half of all network scans to assess the security of user systems.
+
+There was limited data on federal agency networks. But one interesting tidbit came out about Internet Protocol version 6 (IPv6).
+
+DHS said agencies have adopted IPv6 at a faster rate than others. DHS found 41 percent of all government networks met IPv6 standards, up from 21.7 percent the year before. Adoption of IPv6 by non-government networks increased to 15.6 percent from 12.5 percent.
+
+Of course, OMB in 2010 set a deadline of the end of 2014 for agencies to upgrade their internal client applications and communications infrastructure.
+
+DHS NCCIC concluded the malicious software problem continues to get worse across geography, number of domains and IP addresses contacted, the diversity of signatures and the number and breadth of phishing and spam attacks.
+
+“The defender community must scale its efforts to address, contain, and thwart these activities,” the report concluded. “Dedicated financial theft Trojans (Section 1c), including Zeus, Citadel, and Ice IX, continue to grow in popularity. These are kits that are purchased, configured and launched by a multitude of independent actors. The breadth of targets, the wide variety of versions, and the number of actors using these kits continue to grow as cybercrime’s criminal element grows. The scale of botnets continues to grow as well. While new botnets have appeared, many of the old botnets such as Conficker, Grum, Virut, and others have not gone away, continuing to strain defenders’ resources.”
+
+OUT&ABOUT
+
+The Professional Services Council is hosting a breakfast Tuesday with several high-profile federal acquisition experts, including Joe Jordan, administrator of the Office of Federal Procurement Policy, and Nick Nayak, DHS chief procurement officer. AFCEA’s Northern Virginia chapter hosts its annual Air Force IT day on Wednesday. Among those scheduled to speak are CIO Lt. Gen. Michael Basla and Gen. William Shelton, commander of the Air Force Space Command. AFCEA’s Bethesda, Md. Chapter holds its monthly breakfast on Thursday on “Standards-Driven Application Development for Workforce Mobility.” Among those scheduled to speak are GSA’s Jacob Parcell and Labor’s Mike Pulsifer.
+
+RELATED STORIES:
+
+Nov. 15–Inside the Reporter’s Notebook: 3 takeaways from HealthCare.gov IT hearing, first task order for continuous monitoring is out
+
+Nov. 4–Inside the Reporter’s Notebook: DATA Act substitute minus accountability provisions; OFPP testing prices paid portal
+
+Oct. 18–Inside the Reporter’s Notebook: Acquisition, IT trends; Is cybersecurity awareness month still necessary?
+
+Oct. 4–Inside the Reporter’s Notebook: OMB adds clarity to new cyber policy; Cyber risks during shutdown overstated; OASIS delayed indefinitely
+
+Sept. 13–Inside the Reporter’s Notebook: FEMA to name Gardner as CIO; new DHS CIO close; NASA struggles with HSPD-12
+
+Aug. 16–Inside the Reporter’s Notebook: A new job for a former VA senior official; Countdown to cloud credential pilot begins
+
+Aug. 2–Inside the Reporter’s Notebook: Shining a light on GSA contract awards; Congress continues battle over E-Gov Fund
+
+July 12–Inside the Reporter’s Notebook: DHS cyber contract awards delayed; musical chairs in federal IT ranks

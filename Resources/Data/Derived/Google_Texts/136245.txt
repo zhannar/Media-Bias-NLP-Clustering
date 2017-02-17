@@ -1,0 +1,27 @@
+The Department of Homeland Security (DHS) has begun sharing cyber threat data with federal agencies and private companies in accordance with a major cybersecurity bill passed last year, The Associated Press reported.
+
+ADVERTISEMENT
+
+"This is the 'if you see something, say something' of cybersecurity," Homeland Security Secretary Jeh Johnson said in remarks at the agency’s data-sharing hub in Northern Virginia, the National Cybersecurity and Communications Integration Center (NCCIC).
+
+The NCCIC will receive data on possible cyber threats from program participants, scrub it for personal information and disseminate it.
+
+The new law, the Cybersecurity Act of 2015, is intended to help defend against cyberattacks by boosting information sharing between private companies and the government.
+
+The program is voluntary, and how many companies will participate, we well as how useful the information will be, remains unclear.
+
+Approximately six organizations had signed up as of Thursday, with others expressing interest, according to assistant cybersecurity secretary Andy Ozment.
+
+"This is a big deal," Ozment said. "We're not going to launch out the gates ... and have thousands of companies sharing all sorts of information. We want to make sure we're providing value and growing."
+
+The bill requires any personally identifiable information that is shared through the program to be directly related to a cybersecurity threat, a safeguard meant to protect citizens’ privacy.
+
+But whether the government can be trusted to adequately protect the information it receives and shares was a major sticking point in the passage of the bill, and a recent internal review of the DHS’s threat-sharing system cast some doubt on its adequacy.
+
+Despite safeguards to prevent personally identifiable information from being transmitted, there is a "residual privacy risk that these processes may not always identify and remove unrelated [personal information], thereby disseminating more [information] than is directly related to the cybersecurity threat," the Homeland Security report revealed.
+
+The system is ultimately intended to be fully automated, though right now some data still requires human attention.
+
+If a field contains information that the system doesn’t recognize, it will flag it for a human analyst who can determine whether it contains personal information before it is shared.
+
+"As companies come on board, we'll learn more about what's useful," and how to more effectively streamline the process, said Suzanne Spaulding, a top Homeland Security cyber official.

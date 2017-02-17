@@ -1,0 +1,59 @@
+Prilosec is one of several medications in a class of drugs called proton pump inhibitors associated with an increased risk of heart attack. ( Getty Images )
+
+Some of the most commonly used drugs in the world to treat heartburn are associated with a 16 to 20 percent increased risk of heart attack, a large data mining study of electronic health records from Stanford researchers shows.
+
+The class of drugs, called proton pump inhibitors or PPIs, are sold under the name Prilosec and Nexium, among others. These drugs are available by prescription as well as over the counter and generate an estimated $13 billion in annual sales globally.
+
+More than 20 million Americans use a PPI, according to the study, which was published online in Plos One.
+
+Dr. Nick Leeper, a cardiologist at Stanford and senior author of the study, stressed the research could not prove causation, “but I will say the association looks to be fairly compelling. What we have seen in this study is that PPI usage is very clearly associated with increased risk of heart attack.” He said that only a randomized control trial, where patients either get the drug or a placebo, could prove causation.
+
+Still, the increased risk is “above baseline” Leeper said. So if your personal risk is low — let’s use 1 in 1,000 as an example — then increasing that risk 20 percent now makes your risk 1.2 in 1,000. The concern is that when that increased risk is multiplied across the millions of people taking the drug, some of whom are likely to be at higher risk of a heart attack.
+
+Combing Through Doctors’ Notes
+
+The researchers used a novel research technique. They designed algorithms to comb through the electronic health records (EHRs) of 3 million people across different data sets. This analysis looked beyond checked boxes that doctors often complain about when discussing EHRs.
+
+“We figured out a way to analyze the notes that doctors write about their patients during the course of care,” said Nigam Shah, a study author and professor of bioinformatics at Stanford, “and created a data structure which we (could) then analyze for associations that may have clinical significance.”
+
+Doctors have known that people who take a PPI and also take the anti-platelet drug clopidogrel, known commercially as Plavix, are at increased risk of heart attack. This study excluded those patients and found the association among people not taking the second drug. The study did not show increased risk of heart attack in people taking a drug that fights heartburn in a different way, called an H2 blocker. That drug is sold under the name Zantac or Pepcid, among others.
+
+The authors theorize that PPIs alter the metabolism of nitric oxide, which helps to regulate blood vessel function. “It’s widely accepted that having reduced levels of nitric oxide is a bad thing and is associated with risks for cardiovascular events,” Leeper said.
+
+Still, he cautioned that the research can only generate a hypothesis, which needs to be confirmed through additional studies.
+
+Barb Kochanowski is vice president of regulatory and scientific affairs with the Consumer Healthcare Products Association, a trade group for over-the-counter drug manufacturers. In a statement, she said that millions of consumers use these drugs. As with all over-the-counter medications, she said, “consumers should read the label and follow directions closely to understand what the medicine is used for, to ensure appropriate dosing and to avoid drug interactions.”
+
+AstraZeneca, maker of Nexium, also issued a statement noting that all its medicines “are generally safe and effective when used in accordance with the label. … AstraZeneca was not consulted during the research and we cannot comment further on this data.”
+
+New Tool for Drug Safety Surveillance
+
+Leeper stressed that this study should not be seen as critical of pharmaceutical companies, which “simply can’t identify every harm,” he said. “That’s why we think these new approaches, where you can have post-approval surveillance, pharmacovigilance, this is where we really have the potential to figure out who’s at risk, who’s not, who’s going to have an adverse outcome, who should be on different medicines.”
+
+Other industries such as banking and airlines have been “learning from the behavior and response of their customers” for years, Shah said.
+
+“Health care is one of the few areas of the economy where we don’t learn from routine (visits). You go in with acid reflux. I go in with acid reflux, 50,000 people go in with acid reflux, but the evidence on which doctors are making decisions are based on the 500 or 1,000 people who were enrolled in the randomized control trial. Why would we not learn from the collective record of what patients had and what doctors did to them that we’re already collecting in the electronic health record?”
+
+Dr. Bob Wachter is chief of the division of hospital medicine at UC San Francisco Medical Center and author of “The Digital Doctor.” He was not involved in the research.
+
+He said the study “is a big deal clinically” and provides “reasonably strong evidence” that PPIs can cause harm.
+
+He also had praise for the methods used — sifting through doctors’ actual notes from millions of patient encounters. “It’s a little surprising that this is novel in health care, when you think about Google’s ability to read text or plagiarism detectors. It’s now commonplace to sift through natural language and analyze it in the rest of our lives, but it’s new in medicine.”
+
+Six years ago just 10 percent of doctors and hospitals used electronic health records, he said. Today, that number has shot up to 75 percent, after the federal government’s stimulus package included $30 billion to incentivize providers to adapt electronic health records systems.
+
+Wachter said the implementation of health records has “been somewhat maligned.” But, “it’s clear that the promise of computerization is real.”
+
+Check With Your Doctor
+
+Yet Dr. Alan Go, director of the Comprehensive Clinical Research Unit at Kaiser’s Division of Research in Oakland, found the association between PPIs and heart attack risk to be “very weak overall” in the study.
+
+“More rigorous data are needed before we make a clinical recommendation to stop using these medications,” he said.
+
+He cautioned that the study did not look at the full range of variables that could affect the result — what researchers call “confounders.” For example, behavior and lifestyle of individual patients were not accounted for.
+
+Still, all the doctors interviewed for this article agreed that this news provides a reminder that patients should check with their doctor about whether the need for a PPI is really there.
+
+Study authors Shah and Leeper say that if this technology — electronic health records combined with data-combing algorithms — had been developed sooner, the association between PPIs and heart attack risk would have been identified in the year 2000.
+
+“And so we could have started a prospective study back then to figure out the truth,” Leeper said.

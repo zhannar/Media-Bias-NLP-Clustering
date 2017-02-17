@@ -1,0 +1,59 @@
+Tech experts say the Obama administration faces a daunting challenge in trying to fix the troubled ObamaCare enrollment website by the end of November.
+
+ADVERTISEMENT
+
+Trying to fix a complex website once it’s already online is like liking trying to repair a car while it's driving 50 miles per hour, one observer said.
+
+“You can probably make corrections in the code, but if they needed months to test the process before, I don't see how you can say that you're going to be able to have it up and running in a couple weeks,” said Jon Wu, an analyst and co-founder of consumer finance site Value Penguin.
+
+Technical problems have prevented people from signing up for insurance through the exchanges, threatening to derail the implementation of the president's signature policy achievement.
+
+The administration on Friday said it would have the site fixed by Nov. 30, which would allow people enough time to obtain health insurance by Jan. 1. Applicants must enroll by Dec. 15 in order to receive health plans that take effect at the beginning of 2014.
+
+Based on public reports, Wu said it appears that many of the glitches are the result of problems in how different government systems interact with each other. Those problems will be more difficult to identify and fix than simple errors in code or a shortage of server capacity, he said.
+
+“It's definitely past the point where it's a superficial problem,” Wu said.
+
+But Aneesh Chopra, the former White House chief technology officer, said he is confident the administration will be able to iron out the technical problems.
+
+“My hope is that we’ll see progress every day, and we’ll look back on this period as an unfortunate footnote on the story of the Affordable Care Act,” he said.
+
+The Obama administration appears to recognize the danger the website’s problems mean for ObamaCare, and the challenge confronting them.
+
+President Obama this week promised a “tech surge” of additional experts who will work to fix the site. He appointed former Office of Management and Budget Director Jeff Zients to lead the effort.
+
+Zients emphasized Friday that the website does not need to be scrapped and said his team is working off an initial “punch list” that includes more than two dozen must-do repairs.
+
+One high priority is fixing part of the system that is sending error-ridden application data to health insurers, Zients said, as well as improving the basic user experience.
+
+As part of the triage effort, the Centers for Medicare and Medicaid Services (CMS) announced that it has hired one of the companies behind HealthCare.gov as a contractor for the repairs.
+
+That company, QSSI, was the one that built the site's account registration tool and its data hub. Officials admit the registration tool has been plagued by problems but say the data hub has been running smoothly.
+
+The data hub’s main purpose is to help verify people’s personal information when they apply for health insurance via the new online insurance marketplaces. The data hub will verify an applicant's identity by checking the information they entered into the insurance marketplace with records from federal agency databases.
+
+For example, the data hub may check whether an applicant is in the country illegally or eligible for a tax subsidy.
+
+“The fact that that [data hub] system appears to be working, or at least working reasonably well based on the publicly reported feedback, gives me greater comfort that the challenges are fixable and mostly associated with the marketplace,” Chopra said.
+
+But Wu said that even though the transmission of information through the data hub seems to be working, the system is still struggling to verify eligibility.
+
+“The two systems that it connects—do they process the information that's being sent correctly? And that seems to be an issue,” Wu said.
+
+He also questioned how useful the “surge” of additional information technology experts will be. He noted that any new programmers will have to be brought up to speed on the existing code.
+
+“You can't throw a hundred surgeons into a room and expect it to take one one-hundredth of the time,” Wu said.
+
+Clay Johnson, a former Presidential Innovation Fellow and the CEO of the Department of Better Technology, said the problems with HealthCare.gov stem from the way the government hires outside contractors.
+
+He said the process, which involves lengthy forms and technical language, rewards firms with the best lawyers, rather than the firms with the best programmers.
+
+He also noted that a host of regulations make it more difficult to build a government website than a private one. For example, regulations require that all government websites be accessible to the blind and meet a host of security requirements.
+
+“All of the regulations are well-intended,” he said, but he argued the regulations and contract system lead many projects to come in late, over-budget and full of technical problems.
+
+Franklin Reeder, the former chief of information policy at the Office of Management and Budget, said it is “hard to understand” how the software wasn't tested better and the problems weren't identified sooner.
+
+“That said, the important thing at this point is to focus first on fixing the problems and then, in a more dispassionate way, to look at causes and lessons learned,” Reeder said in an email. “My worry is that, in the current political climate, we will do exactly the opposite and engage in a witch hunt.”
+
+Elise Viebeck contributed.

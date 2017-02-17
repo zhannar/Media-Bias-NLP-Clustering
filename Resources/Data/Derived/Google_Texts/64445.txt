@@ -1,0 +1,19 @@
+DNA sequencing is much faster now thanks to a new technology invented by a team of scientists at UC Berkeley.
+
+DNA sequencing is much faster now thanks to a new technology invented by a team of scientists at UC Berkeley. Heino Boekhout CC BY-NC-ND 2.0
+
+Science is a slow process. It took 18 years to get to Pluto. We’ve had our brains for millennia and we still haven’t unlocked all its secrets. We still don’t know why quacks don’t echo. So when a new technology comes around that makes things cheaper, faster, and more portable, scientists jump on it immediately.
+
+The new technology in question greatly expands upon the clinical and research applications of the polymerase chain reaction (PCR) test. It accelerates the heating and cooling process of genetic samples with the switch of a light. It is called thermal charged cycling and shows results for a process that used to take hours in a matter of minutes.
+
+"PCR is powerful, and it is widely used in many fields, but existing PCR systems are relatively slow," said study senior author Luke Lee, a professor of bioengineering at UC Berkeley, where the study took place. "It is usually done in a lab because the conventional heater used for this test requires a lot of power and is expensive. Because it takes an hour or longer to complete each test, it is not practical for use for point-of-care diagnostics. Our system can generate results within minutes."
+
+The PCR test amplifies a single copy of a DNA sequence to produce millions of copies, which is used to identify early diagnosis of hereditary and infectious diseases, as well as analyze ancient DNA samples of things like mammoths and mummies. It has become a vital part of genomic applications and earned the 1993 Nobel Peace Prize in Chemistry for its inventors, Kary Mullis and Michael Smith.
+
+The slowdown of PCR tests comes from the heating and cooling of the DNA solution. The test requires an average of 30 thermal cycles at three different temperatures to amplify the genetic sequence. With each heating/cooling cycle, the DNA sequence is doubled. To combat the heating/cooling process, the researchers used the interactions between light and free electrons on a metal surface, known as plasmonics. When exposed to light, the free electrons oscillated, which generated heat. When the light is switched off the electrons stop oscillating and cool down.
+
+Using LEDs, the researchers heated thin films of gold deposited onto a plastic chip with microfluidic wells to hold the PCR mixture with the DNA sample. They were able to cycle between 131 degrees and 203 degrees Fahrenheit 30 times in under five minutes.
+
+"This photonic PCR system is fast, sensitive and low-cost," Lee said. "It can be integrated into an ultrafast genomic diagnostic chip, which we are developing for practical use in the field. Because this technology yields point-of-care results, we can use this in a wide range of settings, from rural Africa to a hospital ER."
+
+Source: Jun Ho Son, Byungrae Cho, SoonGweon Hong, Sang Hun Lee, Ori Hoxha, Amanda J Haack, and Luke P Lee. Ultrafast photonic PCR. Light: Science & Application. 2015.

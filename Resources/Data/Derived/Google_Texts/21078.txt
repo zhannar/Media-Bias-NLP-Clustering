@@ -1,0 +1,19 @@
+The Internet is a sprawling and mysterious place, as anyone who’s spent two minutes on Google – and certainly anyone involved with web publishing – can attest. It’s a thrumming hive filled with vast amounts of data, knowledge, commerce and media and an equally vast number of gloriously bizarre arguments, grumpy cats and adorable sloths. Also, bots. Lots and lots of bots.
+
+Bots are software applications built to perform automated tasks. They can be valuable, as with search engines crawling and indexing websites. They can also be malicious, like those used by hackers and spammers.
+
+A report released this week by Incapsula, a cloud-based web-security service, found that 61.5 percent of all website traffic now comes from these non-human visitors. If you’re reading this and you’re human, you’re apparently in the minority.
+
+Related: Amazon Plans Delivery by Drones: The Best Tweets
+
+Incapsula based its findings on 1.45 billion bot visits, over a 90-day period, to 20,000 sites on its own network. That network may not be perfectly representative of the entire web, but it offers a sense of who, or what, is out there.
+
+Bot traffic is up by a fifth from last year, according to Incapsula. Most of that growth comes from “good bots,” like those from analytics companies and search engines that are crawling sites more frequently. Legitimate bot activity has jumped 55 percent, which Incapsula suggests is largely the result of new online services and increased crawling by search engines seeking the timeliest results. Those search engines and other good bots account for 31 percent of web traffic.
+
+Another 30.5 percent of traffic comes from malicious bots, including “scrapers,” which look to steal content or email addresses; “hacking tools”; a shrinking pool of spammers; and a growing group of what Incapsula calls “other impersonators” and describes as “unclassified bots with hostile intentions.”
+
+Malicious bot traffic as a percentage of overall traffic hasn’t changed, but the specific kinds of bot activity has shifted, Incapsula said. Spam bots have decreased from two percent of traffic in 2012 to 0.5 percent this year. “The most plausible explanation for this steep decrease is Google’s anti-spam campaign,” the report said.
+
+Activity by more sophisticated impersonator bots – “the tools of top-tier hackers who are proficient enough to create their own malware” – has risen, though. These impersonators are usually custom-made for a specific activity that involves penetrating a website’s security, according to the report. “The 8 percent increase in the number of such bots highlights the increased activity of such hackers,” Incapsula said, “as well as the rise in targeted cyber-attacks.”
+
+Top Reads from The Fiscal Times:

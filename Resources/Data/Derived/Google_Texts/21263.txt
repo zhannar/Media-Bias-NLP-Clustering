@@ -1,0 +1,19 @@
+It bobs and weaves with the dexterity of a bird. It is… the military’s newest experimental drone. The Defense Advanced Research Projects agency, or DARPA, on Friday released new footage from it’s Fast Lightweight Autonomy, or FLA, program and announced that the program had achieved a major milestone: a lightweight drone capable of flying 20 meters per second while carrying a high-resolution camera,LIDAR, sonar, and inertial measurement sensors.
+
+The demo took place at an airplane hanger at Otis Air National Guard Base, in Cape Cod, Mass. The drone in that video is a super-charged DJIFlamewheel 450. The FLA program, which DARPA launched in December of 2014, isn’t looking for new platforms so much as for new algorithms to help smaller drones fly better, on their own, and without GPS. The recent test confirmed that the platform could hit those speeds. One of the three research teams also used the test as an opportunity to show that their drone could do a bit of navigating and maneuvering around objects on its own, albeit not that fast.
+
+“The fact that some teams also demonstrated basic autonomous flight ahead of schedule was an added bonus,”DARPA program manager Mark Micire, said in a statement. “The challenge for the teams now is to advance the algorithms and onboard computational efficiency to extend the [unmanned aerial vehicles’] perception range and compensate for the vehicles’ mass to make extremely tight turns and abrupt maneuvers at high speeds.”
+
+But why does the military need fast-flying bird-robots? “Military teams patrolling dangerous overseas urban environments and rescue teams responding to disasters such as earthquakes or floods currently can use remotely piloted unmanned aerial vehicles (UAVs) to provide a bird’s-eye view of the situation, but to know what’s going on inside an unstable building or a threatening indoor space often requires physical entry, which can put troops or civilian response teams in danger,” DARPAwrote in a press release.
+
+“The program seeks to develop and demonstrate autonomous UAVs small enough to fit through an open window and able to fly at speeds up to 20 meters per second (45 miles per hour, while avoiding objects within complex indoor spaces independent of communication with outside operators or sensors and without reliance on GPS.”
+
+In other words, the tiny drones have to not only fly fast, but display some very rudimentary understanding of where they are going. That’s no easy technological feat, as a group ofNASA and IEEE scientists write in this paper titled “Towards Autonomous Navigation of Miniature UAV.“
+
+“A major algorithmic challenge is to process sensor information at high rate to provide vehicle control and higher level tasks with real-time position information and vehicle states,” the group wrote.Since micro rotorcrafts can only carry a few grams of payload including batteries, this has to be accomplished with a very small weight and power budget.”
+
+The smaller the frame, the harder it is to fit a computer on it that can crunch all of the video data that the machine needs to fly—if it’s not going to fly without GPS or remote guidance.
+
+The recent demonstration shows the feasibility of that goal.
+
+This article originally appeared at Defense One.

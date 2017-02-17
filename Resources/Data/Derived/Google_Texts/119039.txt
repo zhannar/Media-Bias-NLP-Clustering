@@ -1,0 +1,33 @@
+INGA IVANOVA/ISTOCK
+
+JOHN SOTOS: Without doubt, electronic medical records are killing and injuring people, for some of the same reasons that airplanes crash.
+
+It isn’t surprising. Aviation engineers have long known that the interface between humans and technology can contribute to accidents. But because doctors and patients are less aware, I’d like to share two true tales—one today and one tomorrow—in which a family member I’ll call Alex was harmed by the electronic-medical-record system at a world famous university hospital.
+
+RELATED: WHAT MEDICINE COULD LEARN FROM THE AVIATION INDUSTRY
+
+In the first tale, we find the hospital staff botching the brainlessly simple orders for Alex’s intravenous fluids, not once, but three times in three days. On the first day, when she couldn’t eat or drink, the staff failed to order the fluids that would substitute. On the second day, they gave her three times the I.V. fluid she needed. On the third day, when she again couldn’t drink, they again omitted I.V. fluids.
+
+Although not catastrophic, these errors did have consequences. On day two, Alex had venous catheters in both legs, forcing her to use a bedpan—which she did every 20 minutes, thanks to the excess fluids. Naturally, these gymnastics triggered brisk bleeding around the catheter sites (she was on blood thinners), which soaked a blanket, which brought a physician from home at 1 a.m. to assess and re-bandage her.
+
+When a knowledgeable staff commits stupid errors like these, there is only one explanation: inadequate attention.
+
+Physician inattention to routine fluid orders is inexcusable, but hardly news. Nurses are forever reminding physicians to write such orders because they, the nurses, are far more hands-on with fluid issues. They tell the patient “No eating or drinking,” they monitor I.V. fluid bags emptying out, and they independently review every fluid order that physicians write.
+
+But, when three different nurses, on three different wards, on three different days miss obvious fluid mismanagement, something deeper is awry. I cannot imagine the sharp-eyed university nurses of 20 years ago letting me make these errors… and that is where the electronic medical record (EMR) comes in.
+
+Today, nurses at Alex’s hospital are, almost literally, chained to a computer station with wheels that runs the EMR and goes with them from patient-room to patient-room. A basic nursing task, such as documenting a patient’s urination, requires the nurse to walk to the computer, sign on to the EMR (itself a chore), grasp the mouse, select the patient, click a “urination” tab (eventually), move hands to keyboard, type the volume of urine, then click “save.” Any new data, alerts or orders on the screen will distract the nurse from thinking about the significance of the urine volume just produced.
+
+Before EMRs, a nurse would lift the clipboard hanging at the foot of the bed, grasp a pen hanging around his or her neck, write the time and the volume of urine produced, then rehang the clipboard. Time elapsed: less than four seconds—six if the nurse reviewed earlier urination values recorded on the clipboard.
+
+Obviously, the EMR demands more attention from the nurse than the clipboard. In aviation-speak, the EMR “channelizes” attention to itself. Alex’s nurses devoted less attention to Alex and her fluid status because their attention was channelized to the EMR system.
+
+Channelized attention is a major human-factors cause of airplane accidents. A pilot fiddling with a broken intercom is paying less attention to flying the plane. Usually, he or she will get away with it… but not always.
+
+EMR proponents argue that presenting timely, complete information to the nurse at the bedside more than offsets any cost in attention. I doubt it. Detecting Alex’s fluid mismanagement required only a glance at her, a glance at the I.V. pole next to her, and a modicum of thought. Obviously, the glances and thought didn’t happen… three times.
+
+EMR vendors must realize that the human-computer interface in their systems is more than a marketing differentiator. It is instead, like cockpit controls, a critical component in a critical system that must be designed to be undemanding of attention and cognition. Anything less will create new cemetery plots, as surely as poor cockpit controls create smoking holes.
+
+Dr. John Sotos, a cardiologist and flight surgeon, was a medical technical adviser to the television series “House.” He is currently CEO of the medical-expertise search company Expertscape (www.expertscape.comand @expertscapenews).
+
+Read the latest Health Report.

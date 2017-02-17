@@ -1,0 +1,71 @@
+This interview with Margret Schmidt, a vice president of design and engineering at TiVo, Inc. was conducted and condensed by the Peninsula Press. San Jose-based TiVo is best known for its iconic DVR hardware and software.
+
+Margret Schmidt still remembers the time when — just a teenager at that point — a Harvard dean of admissions for the university’s summer program approached her in the school’s cafeteria.
+
+“Oh, you’re Margret,” the woman said, according to Schmidt. “You’re the only girl that’s ever applied to the electronics course!”
+
+More than twenty years later, Schmidt, now 42 and vice president of design and engineering at TiVo, Inc. and the company’s chief design officer, is accustomed to being the only female in the room.
+
+The Peninsula Press had the chance to catch up with Schmidt recently at TiVo’s headquarters in San Jose, Calif. Schmidt spoke about her career path and how women might better navigate careers in technology. What follows is an edited version of the conversation, as well as additional information from email exchanges.
+
+Tell me a little bit about your early career path, in your words.
+
+I’ve always been a nerd growing up, both in terms of math and programming. I got to take a Logo course in elementary school. Actually in middle school, my dad had an Apple Lisa, and I got to use it at home for reports and stuff. Then I got a CS degree at Berkeley, in 1992, and for reasons I can’t really explain, I sold real estate for six years.
+
+I had worked at Stanford in high school, in their knowledge systems laboratory helping maintain, like, a hundred Macs, and I think if maybe I had had an internship at Apple or something it all would have all been different. But I just couldn’t imagine a programming job after that, going sitting in a cube and programing for eight hours a day.
+
+How did you end up at TiVo?
+
+Well, [after working for the Multiple Listings Service], I took a job during the dot-com boom at Bamboo.com, which became iPics. The company did virtual real-estate tours on the web. I took a product manager job … but there were no UI designers there, and none of the products looked like they came from the same company. So I created the usability engineering group. And then they went through their dot-com bust, and started laying people off in Palo Alto, which is where I was.
+
+I had had a TiVo for about six months; at this point it was 2001. I thought it was amazing. And I knew I was getting laid off the next day.
+
+So I went to Monster.com, saw that TiVo was looking for a manager of UI design and usability, so I applied and had the job two weeks later. At that point I came to the conclusion that the part of tech that I liked was creating something that was easy for consumers to use. I’ve been here 13 years now.
+
+What are some of the challenges you’ve faced on the job?
+
+I’ve held a variety of roles, from UI [user interface] design to user experience to consumer and technical documentations. I became a VP in about 2006. Then a few years ago, I volunteered to start running software releases. So my boss was the COO.
+
+I felt like the way we were shipping products was a consensus approach. So many different roles trying to negotiate what to do, and I said: let me step in there and help facilitate these decisions, hear from all the stakeholders and push through more feature-filled, quality releases. I think I’ve now had VP of engineering in my title since May of 2012.
+
+I never could have predicted this path, but this is what I’ve found in my career. One of my greatest fears originally was, “Will she come from this design perspective where nothing will ship until it’s perfect?” And now they see me in a different light here. If what we have created is enough better than the last thing our customers had, then ship it. And then iterate. Things change. You have to move quickly.
+
+What’s your experience, or your observations, in terms of gender roles in your field?
+
+I’ve certainly become used to sometimes being the only woman in the room, or one of few. I did a summer program at Harvard when I was in high school and I signed up for an electronics course, and I was the only girl in the room. So I’ve always been kind of used to that.
+
+One of the things I find interesting now is that I have 10 direct reports, and five of them are women. Only two of them I hired, and the others had been hired elsewhere in the organization and just ended up in my org [as the result of re-orgs], so it’s not like it’s my agenda to try to do that. TiVo has always seemed to be very open.
+
+That said … I’d like to see more women in management and in engineering. I think we all suffer from the same problem — the pool that feeds in isn’t as big.
+
+A recent report from Joint Venture Silicon Valley’s annual Silicon Valley Index, underscored the idea of the pay gap between women and men in the area. What do you think might be a cause of that gap?
+
+One of the organizations I belong to is Advancing Women Executives, and they have these talks. And one of the guests was a Stanford professor — her talk was all about negotiation — and, some of the interesting things I learned is that women are far less likely to negotiate than men. There can be a stigma attached, and [women are] worried about how they’re perceived … but when they do negotiate, they are no less successful in negotiating than men. So one of her theories on the salary gap was if women negotiated as much as men did, that would help make up for a lot of it.
+
+I do think, in my experience, that women are less likely to bring up money … I think, also — if you don’t ask for more in the beginning, you’re always going to trail.
+
+Have you ever been in a position where you’ve had to negotiate?
+
+I guess I’ve never been afraid to negotiate. I guess that’s just one of those things I do. If I feel like my role is changing and my value is changing — well, first you have to be really good at your job, but then you can say, I feel like the value I provide here is worth this. And of course you have to be prepared to hear “no,” so you have to be in an OK mental state to possibly hear that. But yeah, I guess I’ve never been afraid to negotiate.
+
+Let’s talk about home stuff. You mentioned you’ve been married for a long time, and that you have a good support system. Do you have kids?
+
+Yes, we have a ten-and-a-half-year-old son, and my husband is a stay-at-home dad, which is awesome and insanely helpful in a how-do-you-balance way. The first year, [my husband] took care of our little sweet one-year-old, although at the end of the first year, he said, “I think I might die of a heart attack!” And so, we did some part-time day care after that. He’s still a stay-at-home dad.
+
+Did your husband work in tech?
+
+I met him back when I worked at Stanford in high school, and he was an employee. We both worked at the Knowledge Systems Laboratory. I was a high school senior helping to support the Macs used by the faculty/staff/students, and Christopher was a member of the technical staff. We got married a couple years later. We are two nerd parents raising a nerd child in the Valley.
+
+What are some of the reactions you get from people when you tell them about the “role reversal” at home? Or is this becoming more the norm among your friends and colleagues?
+
+Actually, my sister is a law professor, and for the past couple years her husband, who has a Ph.D. in philosophy, has been taking care of the kids. And so it’s interesting that in my family, that that’s a thing. We were raised by nerd parents, just like I am. So I guess we were raised to be strong women, [with] careers, family, all that.
+
+Who are your role models in tech?
+
+My role models in tech are those that have made great design important to how their company thinks about their products and services, such as Kaaren Hanson at Intuit, Catherine Courage at Citrix, Justin Miller at Comcast/Plaxo and Eva Manolis at Amazon.
+
+What’s your biggest piece of advice to women getting started in the technology field right now?
+
+You have to find that thing you’re really passionate about, whether it’s solving a problem or creating a great product. Find what gets you excited, and find the ways to navigate towards that. Try to get an internship in a company that you’re passionate about. Even if the role isn’t what you’re thinking, just do a really good job at that, and then people are much more open to letting you try something different. We do that all the time here. We’ve had researchers move to design and designers move to research.
+
+Look for opportunities to volunteer, and then I think it comes back to the salary and negotiation. Don’t ask for more and say, “OK, I’m going to do this new thing and you owe me now,” until you’ve proven you can do the new thing. You do that and then say, “OK, now that I’ve been doing a really good job on this, as well as what I’ve been doing before, I think my value has increased. Can we talk about that?”

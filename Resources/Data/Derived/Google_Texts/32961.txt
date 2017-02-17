@@ -1,0 +1,41 @@
+Darryn Graham is chief architect at Software AG Government Solutions.
+
+As government agencies continue to try to be more agile and seek efficiencies across their environments, many are gaining ground by modernizing their business processes. Yet, evolving agency processes is not an easy task. One way to facilitate achieving business process improvement is to keep in mind these four guiding principles.
+
+1. Evolving Processes is a Team Sport
+
+Who would oppose more streamlined workflows, more trusted analytics and cost-savings to boot? As it turns out, many stakeholders may get in the way of progress if they are not involved, informed and incentivized to support process improvement initiatives.
+
+Effective system design and workflow improvements no longer are the sole domain of enterprise architects or IT professionals. Today, these efforts require a host of participants collaborating to understand their “as-is” state and what it will take to arrive at the desired “to-be” processes that meet current requirements of service providers and beneficiaries.
+
+But how do agency professionals foster this team effort in a large and complex enterprise? One method to guide improvements across multistakeholder workgroups is leveraging business process analytics. By effectively analyzing business processes, agencies can better understand how their processes are conducted step by step, define alternate approaches and desired outcomes, and consider the impact of contemplated process changes across their organization and affected teams.
+
+
+
+2. Prepare the Design Team for the Unexpected
+
+As part of an April 2015 dialogue held at the ModernGOV Summit in Washington, D.C., James Martin, BoldNote executive vice president, observed that in many cases, no one person really understands end to end what happens in complex processes involving numerous organizations, departments and constituents. This reality complicates the ability of organizations to demonstrate return on investment for new processes, as they lack a reliable baseline for the original process metrics.
+
+Nitin Naik, director for strategic planning and technical direction with the IRS Enterprise Services group, added that federal agencies need to use business processes and corresponding analytics to address evolving requirements.
+
+As an example, he cited two significant legislative updates that came into effect for the 2015 tax season that “fundamentally changed” the agency’s tax processing. Specifically, the Affordable Care Act and the Foreign Account Tax Compliance Act required the IRS to redesign a number of business processes to comply with these new laws.
+
+Naik’s advice for those facing the significant task of updating long-standing business processes, particularly those dependent on legacy systems and complex programming, is that all members of the design team be prepared to understand processes from beginning to end. The team also should involve those who created the original code and processes when possible, and perhaps most importantly, be prepared to negotiate how workflows will be handled in the future.
+
+3. “To-be” or “Not-to-be” is Still the Big Question
+
+Many organizations fall into the trap of automating “as-is” processes, rather than taking the opportunity to rethink the “to-be” state and how they might consolidate or eliminate steps or entire processes.
+
+Naik observed that often the “as-is” state was directly tied to technology limitations that existed when the process was designed. With the pace of technology evolution and user expectations, the “to-be” processes by definition can and should evolve and leverage current technology maturity.
+
+To illustrate his point, Naik noted that the application response time tolerated by the average online customer today is 5 seconds -- or less, down from 20 seconds just a few years ago. Agencies must be prepared to deliver their information and services in accordance with these evolving industry standard practices and norms for performance, security, privacy and more.
+
+Another key factor that can influence the “to-be” process decision is what Martin referred to as the influence of the “heavy-weight champion” -- the internal senior leader who helps business process optimization teams drive improvement, create innovative approaches and ultimately, foster internal cooperation. Getting the primary stakeholders on board to design how things will work in the future is essential to realizing the inherent efficiencies that can result from streamlined processes.
+
+4. There Needs to Be a Measurable Feedback Mechanism
+
+“It’s amazing how much can be shaved off when you get down to what really needs to be done,” Martin remarked when reflecting on recent process improvement initiatives. A number of tools exist to support automation, monitor transactions and ensure the usability of new processes. Additionally, there are a range of methods for collecting and determining end-user sentiment and feedback to support continuous process review and adjustment.
+
+As agencies continue to balance budget constraints with increasing mission scope, continued optimization of business processes may prove a fruitful path. With a bit of planning, agencies can set a foundation for not only accommodating today’s requirements, but also preparing to more easily adapt to tomorrow’s demands.
+
+(Image via Tsyhun/ Shutterstock.com)

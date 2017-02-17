@@ -1,0 +1,33 @@
+Oracle claims Oregon's attorney general leaked confidential court-protected company documents amid a bitter battle over a disastrous healthcare insurance portal.
+
+Way back in 2012, the California tech giant was tasked with building the healthcare exchange website Cover Oregon, a $300m marketplace that was never completed, missed a string of launch deadlines, and was ultimately scrapped in 2015.
+
+A review [PDF] of the project in early 2014 by federal IT experts found problems within the team of engineers Oracle assigned to the website and among state officials overseeing Cover Oregon. The report highlighted poor people management, poor software configuration controls, and daily reboots of production systems that should have been running 24/7.
+
+In the aftermath of the fiasco, the state sought to claw back the roughly $160m already paid to Oracle. The company doesn't want to hand over the cash and blames the Oregonian government's mismanagement for screwing up the portal. Oregon's lawyers hope to reach out-of-court settlements with Oracle. If no deal is brokered, the battle will be taken to a public trial.
+
+To prove the state is in the right, and Oracle is in the wrong and should pay back the money, Oregon's attorney general Ellen Rosenblum and her lawyers subpoenaed [PDF] Oracle. They demanded internal company memos and documents discussing the healthcare marketplace in hope of finding a smoking gun: an admission that the database giant was at fault.
+
+Oracle handed over a ton of documents but insisted they are confidential or contained trade secret, and thus must not be made public. Last month, Rosenblum asked the Marion County Circuit Court to unseal the files and provided examples of correspondence that should be revealed. The attorney general's request will be considered in March.
+
+The examples given in Rosenblum's motion have been redacted by the court. However, earlier this week, the Portland Tribune revealed it had obtained unredacted copies of Oracle's memos – which, it is claimed, demonstrate that Oracle failed to warn the state that it was struggling to build the Cover Oregon portal.
+
+The newspaper says the "attorney eyes' only" documents indicate that Oracle knew the project was in trouble and yet resisted efforts to hire an outside contractor to oversee the entire project.
+
+The redacted material, covered by a protective court order, includes internal email exchanges that, it is reported, show Oracle's own developers knew the healthcare site would be dead on arrival.
+
+Oracle isn't having any of it. In an explosive statement, the IT giant told The Reg on Tuesday:
+
+In a desperate attempt to mislead Oregonians and influence the jury pool, Attorney General Rosenblum and her outside attorneys at the Markowitz firm disclosed confidential information to the press in violation of a court order. The Attorney General and her lawyers cherry-picked the most inflammatory quotes she could find out of more than 2 million documents. They know these documents are neither representative nor complete, and are quoted wildly out of context. There are thousands of documents that tell the true story that the State was responsible for the outcome of Cover Oregon. If this is the best they have, we are more confident than ever in our position. Oracle will seek sanctions for the lawyers’ unethical conduct.
+
+A spokesperson for the attorney general's office told us last night:
+
+These allegations by Oracle are outrageous, and they are in line with similarly disparaging comments they have made about Oregon.
+
+A spokesperson for Markowitz Herbold PC declined to comment.
+
+The Cover Oregon healthcare insurance portal was enabled by President Obama's Affordable Care Act – otherwise known as Obamacare. When the project was shut down, the state was forced to move people over to the federal healthcare.gov site. Amid the drama and embarrassment, Oregon was ridiculed on national television, rubbing more salt into its wounds.
+
+Oracle has maintained that it held up its end of the bargain, and that the project was doomed by blundering state officials. Most recently, the two sides have been engaged in a back-and-forth over what Oracle says was a settlement deal it struck with since-departed government officials. ®
+
+Sponsored: Navigating the threat landscape

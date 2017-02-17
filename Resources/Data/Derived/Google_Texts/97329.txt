@@ -1,0 +1,37 @@
+This profile is under review.
+
+This profile is only shared with friends.
+
+This profile is private.
+
+Your bio is currently empty. Now is a great time to fill in your profile .
+
+We were unable to request friendship with this user.
+
+We were unable to request friendship with this user. Are you logged in?
+
+Your friendship request has been sent to this user.
+
+We were unable to terminate friendship with this user.
+
+We were unable to terminate friendship with this user. Are you logged in?
+
+You are no longer friends with this user.
+
+We were unable to ignore this user.
+
+We were unable to ignore this user. Are you logged in?
+
+This user is now ignored.
+
+We were unable to stop ignoring this user.
+
+We were unable to stop ignoring this user. Are you logged in?
+
+This user is no longer ignored.
+
+We encountered a problem recommending this user.
+
+pluck_user_recommend_permission
+
+You have recommended this user.

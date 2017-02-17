@@ -1,0 +1,51 @@
+Mother Jones piece hits Epic hard: 5 criticisms of the EHR vendor
+
+For a company that is notorious for its lack of media interaction, Epic Systems often finds itself in headlines, for better or for worse. The latest Epic media storm was delivered by a Mother Jones piece in which the author criticized the vendor and the health IT marketplace as failing in its mission to help patients and save money through digitization.
+
+Author Patrick Caldwell wrote the healthcare industry has largely underachieved in its goal to digitize medical records and cut waste and costs associated with paper records. "In some ways, our medical records aren't in any better shape today than they were before," he wrote in his piece called "Epic Fail."
+
+Mr. Caldwell directed much of these shortcomings at Epic in particular. Here are five criticisms of Epic from the Mother Jones piece.
+
+1. Epic may be comprehensive, but the system's individual modules are below average. Epic's EHR has numerous modules and solutions that run the gamut of the healthcare continuum. Different specialties have their own modules, like Stork for deliveries and prenatal care and ASAP for emergency room visits. While comprehensive, the individual modules aren't all that great, according to the report.
+
+"What you hear is that, if you were to buy the best of breed — the best cardiology system, or the best chemotherapy system — no one would ever choose Epic," said Julia Adler-Milstein, in the article. Ms. Adler-Milstein is a researcher with the University of Michigan who focuses on health IT. She added that it's easier to select Epic for its holistic offerings than pull the best options from various vendors.
+
+2. There is no interoperability. This lament is nothing new, and Mr. Caldwell also notes that Epic isn't the only vendor with interoperability issues. "What [Epic] doesn't have — and ditto systems created by competitors Cerner and Meditech, the other bigwigs in EHR — is a framework to connect to other facilities using competing EHR systems," he wrote.
+
+Mr. Caldwell cited a 2014 RAND report which identified Epic as a single roadblock to interoperability. Researchers said the government was subsidizing hospitals and health systems for simple digitization of records instead of looking forward to where connectivity could go. "By subsidizing 'where the industry is' rather than where it needed to go, [the government rewarded a market] that did not have the level of connectivity envisioned by the authors of the HITECH Act," according to the RAND report.
+
+3. Epic focuses on Epic-to-Epic data exchange. Mr. Caldwell argues Epic is more interested in facilitating record exchange between Epic clients instead of with hospitals using other vendors. He mentions the CommonWell Health Alliance, a partnership of EHR vendors including Cerner and athenahealth focused on creating standards for health information exchange. Epic is not a member of CommonWell.
+
+Until recently, Epic users could exchange records with other Epic users free of charge, but users wanting to exchange records with providers using other vendors had to pay a fee.
+
+However, Epic announced in April it would waive this record sharing fee for providers using non-Epic EHRs. In a previous interview with Becker's Hospital Review, Eric Helsher, Epic's vice president of client success, said the vendor had been considering waiving the fee for several years. "We felt the fee was small and, in our opinion, fair and one of the least expensive, but it was confusing to our customers and others in understanding how it worked," he said. "There was logic to it, but it confused people, so we decided to end the fee until at least 2020 when we'll consider reevaluating."
+
+Mr. Helsher did not disclose the fee to Becker's at that time, but the Mother Jones article quoted Epic Director of Interoperability Peter DeVault telling a Senate committee the fee was $2.35 per patient, per year.
+
+4. Judy Faulkner's political leanings come under fire. Judy Faulkner, founder and CEO of Epic, was named to President Obama's 2009 Health IT Policy Committee. Many are circumspect about this appointment as Ms. Faulkner is known to donate to the Democratic party. Conservative research think tank The Heritage Foundation reported in 2011 Epic employees donated nearly $300,000 to Democrats since 2006, citing the Center for Responsive Politics, which tracks money in U.S. politics.
+
+In 2014, Ms. Faulkner donated $10,000 to then Wisconsin Democratic gubernatorial candidate Mary Burke, according to a Star Tribune report.
+
+Mr. Caldwell questioned Ms. Faulkner's position on the Health IT Policy Committee, as it 'helped shape the regulations guiding healthcare software and pushed to rapidly implement EHR in hospitals without first figuring out how to trade records between different systems."
+
+5. Is the government fed up with Epic? Mr. Caldwell suggested the government is reaching its tipping point with the EHR vendor. The ONC submitted a report to the Senate highlighting concerns of information blocking by vendors as a means to control referrals and boost market share. What's more, the report indicated vendors had incorporated "gag clauses" in contracts with clients forbidding clients from discussing contract terms, opinions or conclusions about the functionality of their EHRs.
+
+Additionally, Mr. Caldwell mentioned the Department of Defense contract to overhaul the military health record system, which ultimately was awarded to Cerner even though Epic was projected to be the winner.
+
+Final thoughts
+
+While Epic remains a key player in the EHR space, the industry's view on the company isn't always positive.
+
+Mr. Caldwell wrote that Epic only makes good on two out of the three points of the company's motto: "Do good. Have fun. Make money."
+
+"[Ms. Faulkner is] solid on the second two points," he wrote.
+
+More articles on Epic:
+
+Epic leads in interoperability, athenahealth launches 'Let Doctors Be Doctors', IBM reports falling revenues — 6 health IT key notes
+
+Former Epic engineers raise $3.5M for health IT startup Redox: 4 insights
+
+Southcoast Health live on Epic EHR after layoffs, $30M operating loss
+
+© Copyright ASC COMMUNICATIONS 2016. Interested in LINKING to or REPRINTING this content? View our policies by clicking here.

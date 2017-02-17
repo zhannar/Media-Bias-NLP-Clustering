@@ -1,0 +1,31 @@
+5 Ways To Transition To Pay For Performance
+
+By Christine Kern, contributing writer
+
+Health IT companies making the switch from fee for service to pay for performance a little less painful
+
+The Affordable Care Act means hospitals are facing increasing pressure to move from a fee for service model to an accountable care model, where payment is made according to value-based outcomes. This means integrated health systems should be looking to take advantage of the newest developments in sophisticated analytical tools to improve their care coordination. Many such tools were displayed at HIMSS, ranging from care coordination to those that quantify outcomes or improve interoperability.
+
+MedCityNews writes on five ways to help reduce the challenges of that transition in patient safety, collaborative care, cost analysis, data warehousing, and interoperability. Here are the highlights in each category.
+
+Patient safety
+
+Certify Data Systems has concentrated its efforts on software for private HIE and recently unveiled a population health data analytics tool as part of the HealthLogix platform. "It’s designed to improve patient safety such as by helping doctors see medication prescribed by other physicians and alerting them to conflicts on a patient’s medical profile in real time. That’s the sort of information that can help avoid adverse events."
+
+Collaborative care
+
+In the category of collaborative care, Orion Health developed a software program that helps clinicians in ACOs better collaborate. Called Rhapsody, it enables complete interoperability between healthcare organizations for fast, accurate and efficient exchange of electronic data. It also helps them acquire and aggregate patient-centric data, and enables doctors and patients to access the data.
+
+Cost analysis
+
+Deloitte has rolled out a group of data analytics tools called ConvergeHealth. One of them Insight, is a “suite of solutions to support care planning, care delivery and performance evaluation in a value-based care setting. The tools from the Insight suite perform encompassing analysis beginning with initial identification and stratification of the patient population, followed by the definition and selection of measurement metrics and ending with customized reports that highlight care gaps and enable care gap analysis. This lifecycle is supported across the stages by high quality clinical content such as rules, metrics, benchmarks, and leading care delivery practices sourced form top healthcare providers worldwide.” Another tool in the platform, Intellect, has a revenue cycle optimization component to better understand the costs surrounding each patient.
+
+Data warehousing
+
+Health Catalyst has developed an electronic data warehousing platform that helps hospitals use multiple data sets to add context and to analyze hypothetical outcomes for a particular condition in certain patient populations. Although it builds applications to support the platform, the company also works with hospitals to help them solve specific challenges. It helps hospitals visualize the data.
+
+Interoperability
+
+Hospitals have been challenged when trying to share patient information between disparate EMH and EHR systems. It remains one of the healthcare industry’s biggest challenges. Epic Systems recently formed Carequality with 20 other Healthegen stakeholders to share patient information.
+
+Alere, historically known for its diagnostic tools under the name Inverness Medical Technologies, moved into the accountable care software realm a few years ago with its acquisition of Wellogic. Its health information solutions division has created a technology that is currently helping connect hospitals in Southeast Pennsylvania’s regional health information exchange, HSX. The goal is to help them share patient information stemming from referrals or other sources, and is an important step toward satisfying Meaningful Use requirements outline din the HITECH Act.

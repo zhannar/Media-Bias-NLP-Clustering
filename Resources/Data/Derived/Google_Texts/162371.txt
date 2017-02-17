@@ -1,0 +1,51 @@
+Complex interventions from hospital settings mapped to Omaha System terms commonly used in community care; demonstrating its potential as a tool for interoperability across settings.
+
+Karen A. Monsen, PhD, RN, FAAN; Elizabeth Schenk, PhD, MHI, RN; Ruth Schleyer, BSN, MSN, RN-BC; and Martin Schiavenato, PhD, RN
+
+ABSTRACT
+
+Objectives: To improve the interoperability and exchange of electronic healthcare data, methods are needed to specify healthcare interventions across disciplines and settings. To that end, this study evaluated the applicability for acute care of a multidisciplinary interface terminology commonly used in community settings: the Omaha System.
+
+
+
+Study Design and Methods: Descriptions of acute care nursing from interviews and the literature were mapped to 121 defined Omaha System terms and were validated by clinical and terminology experts.
+
+
+
+Results: Mapping results showed that 86% of Omaha System terms were applicable in acute care for medical-surgical and intensive care unit settings. Phrases were also identified that were not represented by an Omaha System term, such as “presence,” “critical thinking,” and “rapid response."
+
+
+
+Conclusions: Further research is needed to evaluate additional phrases identified during the mapping process and to determine the acceptability and usefulness of the Omaha System for nursing documentation in acute care electronic health records. Use of the Omaha System as a multidisciplinary terminology may bridge acute and community care settings and serve as a strategy for improving healthcare information interoperability and exchange in the era of accountable care.
+
+The US healthcare system is experiencing rapid changes in business models, reporting requirements, and regulatory oversight.1-2 Drivers of this change are high costs of healthcare and governmental regulations designed to reduce cost, leverage the benefits of technology, and improve quality.1-4 As evidence of this changes under the Affordable Care Act, government reimbursement becomes linked to healthcare facilities, contingent on quality indicators such as: 1) improved health outcomes, 2) prevention of hospital readmissions, 3) improved patient safety and reduced medical errors, and 4) promotion of wellness and health.3 Similarly, the American Recovery and Reinvestment Act of 2009 has driven healthcare delivery to adopt electronic health records (EHRs).4
+
+
+
+Collectively, these concerns for efficiency and improvement of healthcare delivery and outcomes highlight the need for standards and platforms for documenting healthcare interventions. Within this context, nursing leaders assert the need to more clearly specify and evaluate the impact of nursing care.5,6 This is essential to promoting data-driven decision making, interoperability across systems, and the exchange of data across clinical settings, healthcare systems, and clinical data repositories for research, such as those funded through US Clinical Translational Science Awards.7,8
+
+
+
+Specific to nursing, there has been a growing movement over the last few decades to construct, apply, and evaluate standardized nursing terminologies. There are 4 interface terminologies that have been recognized by the American Nurses Association for documenting nursing interventions: Nursing Interventions Classification, the International Classification for Nursing Practice, the Clinical Care Classification, and the Omaha System.5,9 Of these, the Omaha System is the only multidisciplinary terminology.
+
+
+
+The Omaha System is a standardized interface terminology that exists in the public domain.10 It was developed beginning in 1975 with the support of 4 federally funded grants and was first published in 1992 (later revised in 2005). It originated at the Visiting Nurses Association in Omaha, Nebraska, and is widely used in community care EHRs to document patient care.10-12 The Omaha System is organized around a structured “Problem” list, and is suitable for documentation at the point of care; its use has been explored and evaluated in various community and outpatient settings for multiple disciplines.13-20 Numerous studies describe use of the Omaha System for clinical decision support, including dissemination of clinical guidelines for evidence-based practice in diverse populations and varied clinical settings.20-23 Exchange of Omaha System data in continuity of care documents (CCDs) using the consolidated-clinical document architecture has been demonstrated in working CCDs, demonstrating interoperability and exchange across systems.2,24 The ontological structure of the Omaha System is unique among interface terminologies, and its central problem list concept enables relational data collection of assessments, interventions, and outcomes.10
+
+
+
+The Omaha System consists of 3 relational components: the Problem Classification Scheme, the Intervention Scheme, and the Problem Rating Scale for Outcomes (as shown in Figure 1 ).10,11 The Problem Classification Scheme consists of 42 problems that comprehensively and holistically describe health. Each Problem has a definition and unique signs/symptoms. The Intervention Scheme of the Omaha System is a 3-level hierarchical arrangement of terms that relate to a patient Problem.10,11 The Problem Rating Scale for Outcomes measures Problem-specific Knowledge, Behavior, and Status using a Likert-type ordinal scale (1 = lowest, 5 = highest). The Omaha System terms and outcome measures may be used on paper or embedded within software with emphasis on avoiding customization of the hierarchy or defined terms in order to maintain the taxonomic structure to ensure rigor and interoperability.12
+
+
+
+The following description of the Intervention Scheme with a nursing intervention example is provided for demonstration purposes. In the Omaha System, interventions are related to a single Problem concept. The example addresses the “Skin” Problem, which includes signs/symptoms such as a lesion or rash (definition in Table 1 ). As shown in Table 2 , at the first level, a “Category” term specifies the action of the intervention. There are 4 Category terms: 1) Teaching, guidance, and counseling; 2) Treatments and procedures; 3) Case management; and 4) Surveillance (definitions in Table 2). In this example, a nurse might perform “Treatments and procedures” for a wound. At the second level of the Intervention Scheme, 75 defined “Target” terms further specify the nature of the intervention. In this example, the applicable Omaha System Target is “dressing change/wound care” (definition in Table 3 ). At the third level of the Intervention Scheme are suggested care description terms. This level is fully customizable, and therefore, the facility protocol or other evidence-based wound care guideline may be referenced as needed at the care description level with the appropriate granularity for clinical guidance. Thus, the intervention in this example consists of 4 linked terms that are data points (Problem [1]-Category [2]-Target [3]-Care description [4]): “Skin-Treatments and procedures-dressing change/wound care-guideline name.” The linguistic syntax of these 4 linked terms/data points may be expressed in sentence form as follows: “I (the nurse) addressed the Skin Problem (1) by performing Treatments and procedures (2)-dressing change/wound care (3), and I used the facility guideline (4).”25 In any software that enables Omaha System documentation, these 4 terms may be aggregated and abbreviated for single-click documentation of the intervention’s 4 linked terms/data points that can then be stored or used in predictive algorithms. Numerous studies highlight uses of the Omaha System Intervention Scheme for practice, education, and research.11,26 Evidence-based Omaha System guidelines have been developed by experts, are available online, and have been incorporated in clinical software for clinical decision support and documentation.20-22
+
+
+
+
+
+
+
+
+
+PDF is available on the last page.

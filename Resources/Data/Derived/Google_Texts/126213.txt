@@ -1,0 +1,17 @@
+2014 GCN AWARDS
+
+kynect: Made from scratch … with flexibility baked in
+
+Kentucky often ranks low among states across a wide range of statistics on the health of its population. So when the Affordable Care Act (ACA) mandated health insurance for all Americans, the commonwealth used the opportunity to build the Kentucky Health Benefit Exchange, a health care and technology platform envisioned as a springboard for major improvements.
+
+Project at a glance Project: Kentucky Health Benefit Exchange (kynect) Office: Office of Administrative and Technology Services, Cabinet for Health and Family Services Technology used: Service Oriented Architecture, virtualization, various best-of-breed commercial off-the-shelf solutions, existing products modified to meet ACA requirements. Time To Implementation: 16 months Before: Kentucky was one of the worst states in the country as far as the health of its citizens were concerned with 15 percent of its population uninsured. It relied on a 20-year old, Cobol-based system to establish the eligibility of its citizens for state-provided benefits. After: Many of those previously uninsured had health coverage for the first time. Eventually, the exchange will be integrated with other government benefits programs, giving the state a holistic way to view the health needs of its citizens.
+
+Just getting basic health care insurance to people was the first priority. Before the health insurance exchange, known as kynect, started up on Oct. 1, 2013, some 640,000 Kentuckians, 15 percent of the population, had no coverage. By late April 2014, more than 413,000 of them were covered, many for the first time.
+
+The commonwealth planned from the beginning to build its own exchange to meet the mandate of the ACA. The goal was to eventually integrate it with other state health-related programs such as food stamps and Temporary Assistance for Needy Families (TANF) and finally, by the end of 2015, with the rest of the state’s Medicaid.
+
+It ended up building the new exchange from scratch after a gap analysis found that the 20-year old, Cobol-based legacy benefits eligibility system couldn’t meet all the ACA rules. The new kynect uses a service-oriented architecture (SOA) developed on Microsoft’s .NET framework, and an infrastructure that’s virtualized end-to-end using VMware’s ESX.
+
+“Those are our enterprise standards at Kentucky,” said Chris Clarke, kynect’s technology program manager. “So, by virtue of that, the exchange matches all of the other infrastructure we have, which lends itself to a much easier exchange of information and interaction between various parts of the government.”
+
+Virtualization proved vital from the beginning, giving kynect the ability to quickly add capacity when it was most needed, at the beginning and end of the open enrollment period and, equally important, to quickly decommission and re-allocate it when it was no longer needed.

@@ -1,0 +1,43 @@
+Healthcare economics are screwed up in this country. We take that as a given. It's a sinking feeling we all get as patients, helplessly watching premiums, deductibles and costs rising each year.
+
+Download this free guide Download Our Guide: mHealth Security Best Practices There’s no doubt that mobile health technology improves patient care, engagement, and physician productivity. But, the security risks are vast. Learn how to protect your mHealth devices and data in this exclusive e-guide. Start Download Corporate E-mail Address: You forgot to provide an Email Address. This email address doesn’t appear to be valid. This email address is already registered. Please login. You have exceeded the maximum character limit. Please provide a Corporate E-mail Address.
+
+By submitting my Email address I confirm that I have read and accepted the Terms of Use and Declaration of Consent. By submitting your email address, you agree to receive emails regarding relevant topic offers from TechTarget and its partners. You can withdraw your consent at any time. Contact TechTarget at 275 Grove Street, Newton, MA. You also agree that your personal information may be transferred and processed in the United States, and that you have read and agree to the Terms of Use and the Privacy Policy.
+
+But why? There are so many different villains one could finger: Usual suspects include the President, profiteering executives at payers, profiteering executives at hospitals, profiteering medical equipment and IT vendors, Big Pharma, CMS, uninsured patients, tax-and-spend legislators, and their vote-no-on-everything cousins. All of them may bear some slice of the bitter blame pie served on both sides of the political fence. From my roost, it looks like a completely public-private, bipartisan disaster.
+
+At the Radiological Society of North America's 2013 annual meeting in Chicago, a study presented by Richard Duszak Jr., M.D., the chief medical officer for the American College of Radiology Harvey L. Neiman Health Policy Institute, gave some concrete numbers that quantified at least part of the problem. Among the findings of a study of 2009-2012 data conducted by radiology billing company Zotec Partners, as reported in the RSNA on-site Daily Bulletin:
+
+Radiologists received no compensation at all for 28.4% of radiological services rendered for emergency department patients.
+
+Chest X-ray was the most common test ordered (one-view went uncompensated 20.8% of the time and two-view, 28.3%), followed by non-contrast brain CT scans (28.3% uncompensated).
+
+X-rays overall were the most frequently ordered modality (27.4% uncompensated), followed by CT scans (29.1% uncompensated) and ultrasound (33.5% uncompensated).
+
+Pricier CT scans represented only a third of emergency department (ED) tests ordered but accounted for two-thirds of the uncompensated dollars.
+
+Uninsured patients accounted for 52.3% of uncompensated services. If these services were reimbursed at Medicare rates (setting the bar low for estimating lost income) practitioners lost an average of $2,584 per month.
+
+Providers have no choice but to raise prices to cover the costs. These numbers should open some eyes on Capitol Hill, demonstrating the scope and depth of a problem that needs to be addressed right now: Healthcare economics, once again proven in statistics, are driving uninsured patients to the ED. And while radiology services are in decline overall as the U.S. healthcare system works to eliminate redundant and often expensive tests, the ED remains a financial sieve driving up costs for hospitals, practitioners and ultimately, the insured patient.
+
+But will such concrete numbers finally show pols and their health policymakers on the left and right that it's time to ignore their differences and together forge a sensible solution to the problem? They could at least put their heads together to port transparent pricing data to smartphones so we patients can see what something is going to cost before we book an appointment, and can shop around, as we would for a set of car tires or a flat-screen TV -- right?
+
+If you believe that can happen, I've got a copy of Epic 1.0 running on a PCjr to sell you that'll solve all your meaningful use needs.
+
+In all likelihood, healthcare providers are going to have to save their radiologists -- and other specialists encountering similar economic icebergs -- themselves. CIOs, while they can't enact public health policy to turn U.S. healthcare around, can help ease these economic pressures. Quality-based reimbursement plans, be they the Affordable Care Act's accountable care organizations or commercial models such as Blue Cross Blue Shield of Massachusetts' Alternative Quality Contract, or AQC, are what public and private payers are pinning their hopes on. These IT-heavy programs only impact the costs of insured patients' care. But providers can apply much of the IT support for these programs, as well as meaningful use criteria, to help improve uninsured patients' care, too. For instance:
+
+Clinical decision support tools that help find the least-cost, yet effective treatment can be used for both groups of patients.
+
+Health information exchanges that can help find previous radiology tests not only save costs, but with many modalities can prevent additional radiation exposure for the patient.
+
+Analytics and business intelligence systems can help drive patients to community hospitals and away from more expensive facilities, where they can get the same test, closer to home, for less cost.
+
+The problem is, health IT vendors have created such proprietary systems over the years that the disparate data output is like comparing apples to alfalfa. Only through normalizing it all can analytics yield the results these clinical decision support systems need. Until the politicians and economists finally wake up and find patients a way out of the money pit of American healthcare, however, providers' IT teams might be the brightest hope for recalibrating the system.
+
+Finding new efficiencies by creating interoperability among data systems, shedding light on out-of-whack cost trends through analytics, and giving physicians real-time advice with data- and evidence-driven support might be all we've got. It begins with data governance.
+
+The data geeks can't solve the whole problem, but at least they can get started while the suits who hold the votes in D.C. ignore the problem in favor of spewing invective at each other. It's unconscionable, the legislative inertia, while tens of thousands more patients face medical bankruptcies each year.
+
+You've got your mission, CIOs. Your patients and practitioners are counting on you. It's a good day for your new data governance plan to save the world.
+
+Let us know what you think about the story; email Don Fluckinger, news directoror contact @DonFluckinger on Twitter.

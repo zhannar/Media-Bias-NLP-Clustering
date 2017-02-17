@@ -1,0 +1,127 @@
+5 Ways The Brain Stymies Scientists And 5 New Tools To Crack It
+
+In past lives, Dr. Steven Hyman has been the director of the National Institute of Mental Health and the provost of Harvard. He’s currently the president-elect of the Society for Neuroscience, and he directs the Stanley Center for Psychiatric Research at the Broad Institute in Cambridge, where we spoke, and where he demonstrated a preternatural professorial ability to speak off-the-cuff in structured outlines. Our conversation, lightly edited and broken down into what seemed to be its natural numbering scheme:
+
+The Obama BRAIN initiative. We’ve had a ‘decade of the brain’ before, in the 1990s —
+
+It accomplished nothing. Because it was a media blitz, it wasn’t based on new science.
+
+So — Why this? Why now? What’s different?
+
+Part of the growing public interest in the brain, and certainly much media attention, is a little bit unfortunate because it focuses on people applying tools, such as brain imaging, in ways that are untutored and underpowered but yield interesting — if not really scientifically valid — ideas about say, why a certain person is liberal or conservative, or why a certain person takes risks or is very self-protective. A subset of those may be scientifically addressable questions, but we’re a long way from understanding them deeply. Nonetheless they’re irresistible to the public and then of course it’s given rise to a new generation of debunkers — fair enough. So maybe we can set aside this false interest, this prurient interest in the brain and focus on the serious matters at hand.
+
+In terms of political will, the question is not why now but why so late?
+
+The bottom line is the brain is well recognized to be the linchpin of being human in the sense that it is the substrate of thought, emotion, control of behavior, and therefore, undergirds our life trajectories, our actions, our morality. And when the brain gets sick in any way we realize that it exacts an extraordinarily severe toll on the sufferer, on families, on society. Just think about Alzheimer’s disease, heroin addiction, major depression, schizophrenia, autism, intellectual disability — these are common conditions in which people can no longer exert reliable, effective agency on their own behalf and therefore society often has to step in for them at great cost and often really great pain.
+
+Tragically, for the longest time there wasn’t so much we could do about it. Using medications that were really discovered by luck, by prepared serendipity; using, in more recent years, the few psychotherapies, especially Cognitive Behavioral Therapies, which have been empirically tested, we have been able to help a lot of people manage their symptoms, in some cases to become better stoics. With imaging technologies we began some decades ago — though at really still very relatively poor resolution — to get spatial maps of what’s happening in the brain. But we were really stymied in terms of getting a deeper understanding, a better picture, for several reasons:
+
+1. The brain is new
+
+The first, which is really important, is that the human brain is evolutionarily very recent in terms of many of its higher functions. What this means is that although we can learn an enormous amount from studying animals the way we do in the rest of biology and medicine, animal models are ultimately limited. Anything that requires language, just to take one example, we can’t model in animals. I think I understand my dog, but I wouldn’t publish it. There are really very many important functions — language, morality, certain kinds of creativity, the arts, humor, not to mention human mental illnesses, that really have not been well modeled in animals.
+
+2. It’s hard to get at
+
+The second thing is that the brain is inviolable. It’s encased in a bony skull. So unlike people studying the liver or the blood, where they can draw blood or do a liver biopsy, we can almost never do that — and if we ever get brain tissue it’s because there are dire abnormalities, like a cancer, and that doesn’t give us much insight into normal function.
+
+3. It’s about networks
+
+And then, the brain doesn’t produce thought or emotion cell by cell, but in networks. So a cancer biologist receives, from a surgeon doing a resection, the actual disease, the very cells that are sick. Even if we could do a human brain biopsy we might not learn that much because everything we care about, whether it’s variations on normal function or whether it is illness, have to do with many many cells separated by great distances linked by neural networks that perform literally computations about our world in a language that we still don’t fully understand.
+
+4. The genes are complex
+
+And then — we’ve recognized that many mental disorders, including autism, schizophrenia, ADHD and mood disorders, run in families. People have studied twins, they’ve studied adoptees and they recognize that heredity and therefore genes plays a large role in these illnesses. Genes are not fate but they play a large role. And they could give us important clues to what has gone wrong in the brain, but prior attempts to understand the genes failed because just like everything else about the brain, the genetics contributing to say schizophrenia or mental abilities are nothing like Mendel’s peas, which you might have learned about in high school biology where one gene determines whether a pea plant is tall or short, whether the flowers are white or pink and so forth. In fact, I wouldn’t be surprised, given what we’re learning, if between 5 and 10 percent of our genomes were involved in modulating the risk of a schizophrenia, bipolar disorder or autism.
+
+That much?
+
+The issue is: We might imagine that there is a normal human genome and then there are deviations. In fact there are 8 billion human genomes on the planet and every one of those genomes has significant variation even from close relatives. Differences in DNA sequences are most often neither normal nor abnormal, it’s just variation. And some of those variations in some combinations can protect against certain conditions, can be beneficial in some circumstances; and variation which may be beneficial in one circumstance creates risk in another circumstance.
+
+There are certainly some nasty mutations in the genome, but most differences shouldn’t be thought of as mutations — just different flavors of our 20,000 some-odd genes and of the huge expanses of DNA sequences that do not encode genes but regulate them. And the risk of, say, bipolar disorder or schizophrenia is mediated by hundreds, maybe many hundreds of variants, overall in populations maybe more than a thousand — tiny little tweaks in the genes that build and operate the brain. And in most combinations those cause no trouble. But in other combinations they create risk of schizophrenia when combined with bad luck in brain development and some environmental events that we still don’t fully understand.
+
+The point is, given this complexity the genetics was beyond our ability to analyze.
+
+5. Brute overall complexity
+
+I’ve talked about the genetics but then there’s just the brute complexity of the brain itself. The fact that it might have 80 billion neurons and maybe a larger number of supporting cells, the glia, doesn’t say that much because the liver has an awful lot of cells. The difference is the brain has many thousand, maybe ten thousand, distinct cell types with specific functions. And part of the proposed BRAIN project that President Obama has championed is actually to come up with a cell census, to know what the participants are. But of course the cell is not the unit of communication, it’s special connections called synapses. And the human brain has perhaps 100 trillion synapses, which are highly dynamic. The way we develop, the way we learn, has to do with altering the structure and function of synapses.
+
+Despite the remarkable progress of neuroscience over the last 100 years, investigation of the brain needed special tools that were simply not available in the past. So when you say why now, part of it is simply the accreted progress of 100 years of neuroscience, but the important inflection point has to do with tool-building. And a lot of wonderful new technology based on crossing boundaries, based on bringing together biology, chemistry, engineering, physics, mathematics and computer science.
+
+So what are the tools?
+
+1. Genes again
+
+I’ve already mentioned genetics. The cost of sequencing DNA has come down by more than a million-fold in the last decade. So if we talk about the truly staggering complexity of the genetic contribution to our normal cognitive and emotional traits and to mental illness, there was no way of getting to the bottom of it even five years ago. The technology was too slow, too inaccurate and too expensive.
+
+But now, given the declining cost of sequencing DNA, the cheap microarrays commonly known as gene chips that allow you to spot common forms of DNA sequence variation, it’s now becoming routine to study tens of thousands of patients. So in the case of schizophrenia, we now know with high levels of confidence of more than 100 regions of the genome that are associated with the disease — and we know that there are far more to be discovered. To succeed, new technology was wed to a highly collaborative global genomics consortium that was able to recruit and study large numbers of individuals affected by mental illness. To date, nearly 40,000 individuals with schizophrenia and 40,000 healthy controls subjects have been analyzed. Because the genetic risks are heterogeneous, large data sets are absolutely necessary.
+
+And now we know of about 100 genes that in certain flavors contribute some increment of risk for schizophrenia. And as we find the many hundreds that are still undiscovered, it’s like putting together the pieces of a jigsaw puzzle and we hope that patterns will emerge that will help us understand the underlying biology with a view to treatment. So technology — genomic technology — and I should add computing have made this possible, and I should add also a new organization of science, which is when you’re dealing in these numbers you need a very, very large consortium.
+
+You can’t understand the genetics of autism or schizophrenia or mood disorders unless you attack the problems at the needed scale, and the needed scale is many tens of thousands of patients. And to do that in a really good and effective and cost effective way and remembering that people suffering with these disorders are waiting for progress. This requires large global consortia.
+
+2. Stem cells
+
+Another really important set of tools — I feel lucky that these tools have emerged at around the same time in history — is the ability to use stem cell technologies to make good human neurons in a dish.
+
+One of the reasons the human brain has been so hard to understand is its inviolability. Whether from animals or from human postmortem tissue, there are many cell types and they’re so interdigitated with each other in the brain that we do violence to them when we try to purify them.
+
+But stem cell technologies allow us to take people’s skin fibroblasts — the cells from the dermal layer or increasingly, blood cells — and make them pluripotent, that is make them able to become any cell. And we’re getting increasingly good at turning those cells into specific kinds of nerve cells that we think are involved in disease. People are now very good at making motor neurons to study Lou Gehrig’s disease, ALS, and making real progress. It’s harder to know which cells are involved in schizophrenia or bipolar disorder but we have some ideas and we’re getting better and better at making those cells as well and those cells come in part from the cerebral cortex.
+
+3. Gene engineering
+
+Along with the ability to make these cells, there are remarkable new technologies for engineering genomes, and when I say remarkable, I mean the ability to specifically take a cell, including the germ cells of animals, and insert genes of interest, and remove other genes of interest. That has gone from a very challenging, expensive set of technologies to almost a routine matter. Our colleague next door, Feng Zhang, has had a lot to do with this, with a technology called CRISPR.
+
+We can use CRISPR to make neural progenitors or some form of stem cells out of fibroblasts of people unaffected by disease — of course, remember, all of us will have some risk genes. We can add variants, we can add any variants we want. We can also make stem cells from patient fibroblasts, people who have autism or schizophrenia or bipolar disorder or Lou Gehrig’s or Alzheimer’s diseases — and we can try to remove or change those variations that we think are contributing to disease and begin to draw a bead — at least at the level of cells in a dish — on what these disease-risk variants are actually doing. So this is marvelous and then combined with work done by biologists together with engineers and chemists and so forth, we are working on turning these individual cells or small groups of cells into small circuits because that way we’ll be able to interrogate healthy and diseased synapses.
+
+4. Understanding circuits
+
+If these technologies were not blessings enough, we now have several technologies to begin to understand the function of brain circuits. One — optogenetics — allows scientists using gene engineering technologies of the kind I’ve just mentioned, to insert genes that allow the control of important cell types in the brain, and you gain control — you can make them fire using stimuli such as light or you can inhibit them using other wavelengths of light. You can also do the same using drugs. they act on a slower time course, but which might become cell therapies for people one day. But we’re beginning to understand the function of circuits in ways that were previously unimaginable.
+
+5. Molecular tools
+
+And then across all of biology, not just neuroscience, there’s this whole host of molecular tools that would make it possible to think about getting a cell census, knowing what are the cell types in the brain, by looking cell by cell at all the genes that are on or off in a given cell type.
+
+There are neurons and glia; there are also vascular cells… The blood supply in the brain is critical, and it’s controlled by neurons and glia because when your neurons fire they need oxygen, they need glucose, they need to get rid of carbon dioxide, they generate heat and in fact clever ways of exploiting these changes in blood vessels are basis of most functional imaging technologies.
+
+There are maybe 10,000 different cell types in the brain. What we mean by the cell type — that’s partly an issue, but they have a certain shape, a morphology, that is functional. They express certain genes to do certain functions which allows them to make one or two or 10 of many different kinds of neurotransmitters or neurotransmitter receptors, which is like: You do a radio show, the receptors tune them in to a certain band. If they don’t have a receptor for a particular neurotransmitter, the signal just goes right by them. And besides their chemical composition and their shape, their location in the brain, their precise connections to other cells, and their differential vulnerability to disease processes are all part of what we need to learn.
+
+You know, most of Lou Gehrig’s disease is sporadic, meaning there’s probably some underlying modest-to-moderate genetic risk but then something else happens, something environmental. Increasingly we think one of the causes might be an injury to the nervous system — but a small percentage of the cases are due to single severe genetic mutations, which markedly increase risk. This is familial ALS. And in those cases, even though the mutation is in every cell in the body, it’s the motor neurons that become affected and that die, leading to the terrible symptoms of the disease. So one important question is why the motor neurons? And why do they seem to get sick in near synchrony? So even selective vulnerability is a property of certain subtypes of cells.
+
+So there’s a convergence of rising awareness of brain disease and the rise of these amazing new tools, resulting in the BRAIN initiative. But do you see a specific trigger? Why now?
+
+I would say that we have known ever since modern social science methods were used to develop the concept of ‘disease burden’ — and to quantify it, that the [brain disease] burden to individuals, families, to society, dwarfs everything else. The key recognition was that the burden of disease to societies results not only from premature mortality but from years of healthy life lost to disability. While brain disorders are causes of death, they create their outsize damage to societies by causing severe and persistent disability.
+
+I think there’s a way that our relationship to our own brains and minds somehow interferes with proper decision-making.
+
+As a matter of burden in light of disability, neurodegenerative disorders cause greater burden than heart disease and cancer combined. Now, heart disease and cancer are the two leading causes of mortality and I don’t want to deny their importance, but if you look down the road at costs to families, direct health care costs and costs to public treasuries, if we don’t do something about Alzheimer’s disease and other forms of dementia as the population ages, it will literally crush any health systems. Moreover, neurodegenerative diseases take caregivers out of the workforce, and also the stress it causes them often makes caregivers ill.
+
+So we’ve known about brain disease for a long time, but I think the interesting political fact of the world is how it got swept under the rug for so long. Maybe it was just the scientific difficulty. But I think there’s something else. I think there’s a way that our relationship to our own brains and minds somehow interferes with proper decision-making. If I break my leg, it’s my leg. If I have a viral infection, it’s infecting my respiratory system. But my brain is me. And people have had a lot of trouble over time understanding that while our sense of ourselves is so critical, the brain at the same time is an organ, it’s a machine, like the liver, like the heart.
+
+Thus for depression, schizophrenia and many other brain diseases, there’s a stigma attached as if the disease represents some moral flaw. And while it’s difficult to change ingrained attitudes, we had better be doing something about these diseases. And so perhaps the emergence of our new technologies and understandings has made it seem more possible. Perhaps the recognition that as the population ages, the burden on society will become unsupportable if we don’t make progress. Perhaps taking neurodevelopmental disorders a bit out of the shadows, thanks to parent advocacy — intellectual disability, autism, many many developmental disorders and then teen-onset disorders like schizophrenia — we’ve increasingly recognized that we’ve hidden these problems away but they’ve been taking an enormous toll.
+
+Maybe somehow these have all come together. The interesting question scientifically is why now, and I think it’s new technologies and tools and organization of science. I think in terms of political will, the question is not why now, but why so late?
+
+So what is it realistic to expect at the end of 10 years of the BRAIN project President Obama is launching?
+
+We still need more tool-building but there is much benefit in putting the remarkable tools we now have to work. So we will have a better understanding of both animal model brains, but to me very importantly, the human brain that makes discoveries relevant to disease actionable. And also advances basic neuroscience. We’ve been focusing on brain disease but in the end basic science is the well from which everything comes, and we should not forget it. But that said, understanding all the different cells, understanding how they’re wired together, understanding the language of neurons — that is, when they fire, what are they saying to each other? Understanding how this information integrates. Understanding how activity spreads in the brain and how it’s decoded is much more than a 10-year project. But I think a focused push like this could lead to a platform of ideas, of tools, of testable hypotheses, of new observations, that could power both basic neuroscience and translational neuroscience interested in disease and therapeutics.
+
+This would be the dream. It isn’t science fiction, though.
+
+I would hope that with enough funds and the tools we have and with the right kind of collaboration, I would say in the next three to five years we should be nearing the end of our genetic catalogue for schizophrenia, for autism, for bipolar disorders. The number of variants that lead to risk of these illnesses is enormous but it’s also finite, and the number of different flavors is also finite. We’re not going to get every rare variant in every human being that might contribute, but you reach a point where you have the picture and you’re reaching diminishing returns. And if we can organize it — and we being really the whole world — because we need to engage with diverse populations everywhere and collect samples and collaborate and analyze things together — but if we do this well, we’ll have the parts list — where this variant or that variant contributes to autism or schizophrenia.
+
+And then at the same time, if we’re understanding cell types better, and the technology’s moving along, we can ask: Well, what does this variant do in this cell that we think is involved in schizophrenia? And we can use a cell census and an activity map to help us make sure we’ve got the right suspects, in terms of which cells are most affected. And then using emerging tools — some of us will be doing more molecular work, trying to understand how these little tweaks in many genes come together in protein networks in certain cells that we might target with new therapeutics — but other people might be looking at how circuit function and how overall brain activity is altered with a view toward developing biomarkers that might help guide treatment trials of schizophrenia.
+
+And that would be your dream, using biomarkers in psychiatry?
+
+This would be the dream — it’s not science fiction, though. I think getting the genetics to the point of saying ‘We’ve gotten much of the value out of it,’ in, let’s say, five years, that really ought to be feasible if we can organize the world to do it. But we don’t have to wait for that to end — we should be putting it to work — as we are even today — in stem cell models, in animal models, in computational models and in many other ways.
+
+You know, I always think of scientists, we’re a bit like gamblers, and a bit not. When we start any of these projects, we have to be optimistic, we have to be all in, because they’re very, very hard, and especially as you go beyond your own small lab to these enormous collaborations, there’s an enormous amount of energy that goes into maintaining the good will, the trust, the exchange of data, the analysis. But then, we’re not like gamblers because in the end, when you look at the data, you’ve got to be really clear-eyed and critical, and maybe a lot of hard effort pays off, but we really have to test our ideas and throw out what’s not working. It’s unfair to the scientific community, and above all unfair to patients and families, to limitlessly write a legal brief for your own theories. You should be really out there, once the data starts to come in, being your own toughest critic.
+
+But at least you know the treasure is there somewhere: You know there’s a genetic element in mental illness.
+
+We do know that, yes.
+
+Postscript: It was just a side-question, but along with the big-picture analysis, it is what lingered most in my own mind. The question: What is computational psychiatry? Part of the explanation:
+
+We say we understand when I explain something to you like this: ‘She is like that because her mother was always ambivalent about her intellectual capacities and so she’s overcompensating.’ That is a reductive, non-computational story. Or, ‘He is depressed because his serotonin levels must be low.’ That is another false, simplistic, reductive story. As opposed to saying, ‘OK, how was this decision computed by the brain? What neural circuits were involved? How did those neural circuits “know” or process the organism’s intentions and track whether those intentions are being achieved by the actions, and whether there has to be a change of course instituted?’
+
+And we can explain those things in words but really, the underlying science is so complex that it can only be gathered in a series of equations and algorithms into which we have fed data, and then out of which we can draw the kind of conclusion that you and I can understand in conversation. Much of psychiatry has treated unutterably complex matters as if it were billiards, as Newtonian mechanics, when in fact the way the brain works is noisy, probabilistic and involves — well in the end, there’s 100 trillion synapses, so I can’t tell you a story about those.

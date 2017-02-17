@@ -1,0 +1,19 @@
+Use of certain components of electronic health records (EHRs), such as EHR-based alerting systems (EASs), might reduce provider satisfaction, a strong precursor to turnover. We examined the impact of factors likely to influence providers’ acceptance of an alerting system, designed to facilitate electronic communication in outpatient settings, on provider satisfaction, intentions to quit, and turnover.
+
+Study Design and Methods
+
+We conducted a cross-sectional Web-based survey of EAS-related practices from a nationwide sample of primary care providers (PCPs) practicing at Department of Veterans Affairs (VA) medical facilities. Of 5001 invited VA PCPs, 2590 completed the survey.
+
+
+
+We relied on Venkatesh’s Unified Theory of Acceptance and Use ofTechnology to create survey measures of 4 factors likely to impact user acceptance of EAS: supportive norms, monitoring/ feedback, training, and providers’ perceptions of the value (PPOV) of EASs to provider effectiveness. Facility-level PCP turnover was measured via the VA’s Service Support Center Human Re- sources Cube. Hypotheses were tested using structural equation modeling.
+
+Results
+
+After accounting for intercorrelations among predictors, monitoring/feedback regarding EASs significantly predicted intention to quit (b = 0.30, P <.01), and PPOV of EASs predicted both overall provider satisfaction (b = 0.58, P <.01) and facility-level provider turnover levels (b = –0.19, P <.05), all without relying on any intervening mechanisms.
+
+Conclusions
+
+Design, implementation, and use of EASs might impact provider satisfaction and retention. Institutions should consider strategies to help providers perceive greater value in these clinical tools.
+
+Am J Manag Care. 2014;20(11 Spec No. 17):SP520-SP530

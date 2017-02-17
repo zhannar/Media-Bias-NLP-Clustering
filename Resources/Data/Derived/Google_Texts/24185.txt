@@ -1,0 +1,35 @@
+Ed. note: This is cross-posted from The Health Care Blog. See the original post here.
+
+We continue to see progress in improving the nation’s health care system, and a key tool to helping achieve that goal is the increased use of electronic health records by the nation’s doctors, hospitals, and other health care providers. These electronic tools serve as the infrastructure to implementing reforms that improve care – many of which are part of the Affordable Care Act.
+
+Doctors and hospitals are using these tools to reduce mistakes and hospital readmissions, provide patients with more information that enable them to stay healthy, and allow for rewarding health care providers for delivering quality, not quantity, of care.
+
+The adoption of those tools is reflected today in a release from the Centers for Disease Control and Prevention’s National Center for Health Statistics which provides a view of the Medicare and Medicaid EHR Incentive Program and indicates the program is healthy and growing steadily.
+
+The 2013 data from the annual National Ambulatory Medical Care Survey are encouraging:
+
+Nearly 80% of office-based physicians used some type of electronic health record system, an increase of 60 percentage points since 2001 and nearly double the percent in 2008 (42%), the year before the Health Information Technology and Economic and Clinical Health Act passed as part of the Recovery Act in 2009.
+
+About half of office-based physicians surveyed said they use a system that qualifies as a “basic system,” up from just 11% in 2006.
+
+Almost 70% of office-based physicians noted their intent to participate in the EHR incentive program.
+
+Figure 1. Percentage of office-based physicians with EHR systems: United States, 2001-2013
+
+The report also noted that 13% of physicians who responded said they both intended to participate in the incentive program and had a system that could support 14 of the Meaningful Use Stage 2 “core set of objectives,” ahead of target dates. This survey was performed in early 2013 – before 2014 certified products were even available.
+
+The deadline to begin attesting for Meaningful Use Stage 2 is October 2014 for the earliest adopters of Meaningful Use Stage 1, so more than one in ten physicians decided on their own to participate Meaningful Use Stage 2 capabilities more than a year earlier than necessary. These are early adopters who recognize the benefits of EHRs.
+
+“From 2010 through 2013, physician adoption of 7 of the 17 capabilities required for Stage 2 core objectives for meaningful use increased significantly,” according to National Center for Health Statistics health-policy researcher and lead author Chun-Ju Hsiao, PhD. Electronic prescribing through an EHR and adverse drug event/contraindication alerts had the largest increase among the stage 2 capabilities, Hsiao wrote.
+
+In 2013, Meaningful Use related functionalities with the highest adoption rates included capabilities for recording key patient health information and functionalities related to medication management and safety. About three-quarters or more of physicians had these types of computerized capabilities.
+
+Notably, physician respondents to another national survey also noted the clinical benefits in using EHRs, including that they helped physicians access records remotely (81%), and alerted providers of a critical lab value (62%). Most importantly, 78% of respondents said that EHRs “overall, enhanced patient care”.
+
+Overall, we are encouraged to see that physician adoption of EHRs meeting Meaningful Use Stage 2 is increasing significantly and that physicians are recognizing the value of EHRs in the care setting. The report does also tell us there is more to do and we agree. Fewer than one in three respondents (30%) said their EHR facilitated acommunication with a patient via e-mail/secure instant messaging.
+
+At ONC we look forward to continuing to work on key issues such as usability and improving functionalities so we can all see the promise of EHRs and health IT to improve care and eventually health.
+
+Figure 2: Percent of physicians with selected computerized capabilities related to Meaningful Use objectives, 2013
+
+Data Source: CDC/NCHS, National Ambulatory Medical Care Survey, Electronic Health Record Survey. Notes: VDT is “view online, download or transmit”. Data represent non-federal office-based physicians providing direct patient care in the 50 states and the District of Columbia, excluding radiologists, anesthesiologists, and pathologists.

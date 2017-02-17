@@ -1,0 +1,43 @@
+A rapidly changing landscape continues to challenge strategic and financial planning activities in healthcare organizations. The shift to value-based payment, downward pressure on revenue, and efforts to treat patients in the least intensive appropriate setting all test the traditional structures and operations of healthcare organizations.
+
+As a result, financial planning is no longer simply a forecasting and budgeting exercise, but needs to reflect the effect of various initiatives and scenarios contained in increasingly complex strategic plans.
+
+Best practices for initiatives-based planning
+
+Initiatives-based planning has become a common method for forecasting the effect of organizational strategies. However, many organizations have struggled to effectively implement this approach. Virtually every budget and forecast contains a number of initiatives to be introduced during the plan timeframe. Initiatives may increase or decrease revenue and reimbursements, raise or lower volumes, and drive up or down the cost of delivering care.
+
+The challenge for healthcare providers lies in identifying the key drivers associated with each proposed initiative and modeling the financial and operational impacts of that initiative over time.
+
+The following practices can help ensure the effectiveness of initiatives-based planning.
+
+Develop a baseline financial forecast prior to including new initiatives
+
+The foundation for the financial plan is a baseline financial forecast, also referred to as a same-store projection. This forecast should include the effect of known internal and external business drivers on the organization’s financial performance over the next three to five years. Typically, this forecast is presented at a summary level, incorporating a manageable number of planning inputs, to ensure the plan is efficient to update and maintain across a full set of financial statements, including income statement, balance sheet, and cash flow effects.
+
+Model initiatives independently and then layer on combinations of initiatives
+
+The goal of initiatives modeling is to understand the incremental impact of various growth or cost-containment strategies across financial and statistical measures. By first modeling each initiative independently, planners can identify its detailed resource requirements and bottom-line effects, and then compare these among the various initiatives. After modeling initiatives independently, the model should allow planners to test various combinations of scenarios on the organization's baseline financial forecast. Planners should be able to turn on or off each proposed initiative within the model in order to assess the effect of initiatives independently and in concert with other initiatives. Testing scenarios in this way helps planners evaluate the right mix of activities to support business and financial goals.
+
+Consider data elements when designing the planning model
+
+When establishing an initiatives-based planning model, it is important to consider data flow and points of control. Ideally, the planning model allows changes in volume, rate, and mix to intelligently flow through the model to make appropriate changes to net patient revenue and overall expense plans. As needed, finance professionals can then share with department managers how each initiative might affect their departments at more granular levels.
+
+Below are four elements to weave into a planning model:
+
+Identify with each department the statistic that represents its workload intensity (for example, acuity-adjusted patient days, weighted RVUs)
+
+Establish the relationship between each department workload statistic and global drivers such as acute admissions
+
+Ensure that calculation methods are intuitive; managers should clearly see the impact of volume and rate changes on variable dollars/hours
+
+In nursing floors, accommodate step functions so changes in volume adjust daily census and flex hours using staffing grids
+
+Overcoming challenges to initiatives-based planning
+
+Once initiatives to be considered are identified, the proper statistical relationships between volume, workload, revenue, costs, and departmental plans should be established to allow the plan to adjust during the planning process. Assumptions related to global volumes, reimbursement rates, inflation factors, labor rates, and efficiency targets should all cascade down to adjust revenue and expense plans. Understanding and establishing these relationships can be challenging to organizations that don’t have a good handle on the financial and operational drivers in their organization.
+
+For many organizations, the use of stand-alone spreadsheets or rigid planning applications for modeling initiatives has forced the planning function to be more of a bottom-up data collection activity. In turn, the ability to adjust the plans and account for strategic initiatives (such as adding hospital capacity) or baseline projections related to volume or rate changes across revenue and expense plans becomes a time-consuming manual process. This situation can lead organizations to turn back to more basic forms of planning that don’t offer the same level of accuracy and precision.
+
+Initiatives-planning is a great way to translate high-level strategy into actionable operational plans. The use of planning technology solutions can help organizations efficiently establish drivers, model the financial and operational impacts of initiatives, and apply those initiatives to budgets and forecasts. This capability helps financial professionals in their evolving role as strategic advisors in their organizations, and it helps organizations prepare to succeed in a rapidly changing environment.
+
+Jay Spence is vice president of solutions marketing with Kaufman Hall's Software Division.

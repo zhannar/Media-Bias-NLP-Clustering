@@ -1,0 +1,31 @@
+Manhattan district attorney Cyrus Vance on Wednesday released a paper calling on Congress to require that tech companies make encrypted data accessible to government searches.
+
+The paper comes in the heat of a pitched battle sparked by unconfirmed reports that the terrorists involved in the deadly attacks in Paris may have used encrypted devices to plan their plot.
+
+ADVERTISEMENT
+
+“...it is a government’s principal responsibility to keep its residents safe, and… a government cannot fulfill that responsibility if huge amounts of vital information directly related to public safety are inaccessible to the government,” Vance’s report reads.
+
+Vance seeks to distance his proposal from any suggestion that he is demanding that tech firms provide a much-maligned “backdoor” or special access key to law enforcement — although some security bloggers have already damned the proposal with that critique.
+
+“The legislation would provide that any smartphone manufactured, leased, or sold in the U.S. must be able to be unlocked, or its data accessed, by the operating system designer,” the proposal reads. “It would require, simply, that designers and makers of operating systems not design or build them to be impregnable to lawful governmental searches.”
+
+The keys to unlock the devices would be held by the manufacturers themselves, not the government, according to Vance’s proposal.
+
+Law enforcement and intelligence officials have long insisted that impregnable encryption technology shields terrorists and other criminals from needed surveillance, as well as interfering with the execution of lawful search warrants.
+
+Privacy advocates and technologists say that undermining encryption — building a so-called backdoor for authorities — undermines overall security and infringes on individual privacy.
+
+Speaking at an event in Ireland last week, Apple CEO Tim Cook reiterated that “There is no such thing as a back door for good guys only. We believe that the safest approach for the world is to encrypt end-to-end with no backdoor. We think that protects the most people."
+
+According to data outlined in Vance’s paper, encryption on Apple devices running iOS 8 stymied as many as 111 prosecutions in his office over a 12-month period. The charges were for crimes like homicide, attempted murder, sexual abuse of a child, sex trafficking, assault and robbery, the paper says.
+
+The encryption on Apple devices running iOS 8 or later is so strong that the company itself says it cannot de-encrypt a given user’s phone.
+
+Vance insists that his report is only calling for a return to the status quo before the release of Apple’s iOS 8 and Android’s Lollipop 5.0, which offers a similar level of protection.
+
+“This paper does not propose any new technology, nor does it propose that governments hold a key to smartphones,” Vance’s paper reads. “It proposes an arrangement that worked without any significant, documented security problems before iOS 8 and Lollipop 5.0.”
+
+Apple has complained that routinely helping law enforcement to decrypt data would be an unduly onerous tax on its resources.
+
+“This burden increases as the number of government requests increases,” it argued in a recent legal brief.

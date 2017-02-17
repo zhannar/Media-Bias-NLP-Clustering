@@ -1,0 +1,51 @@
+Depending on who you ask, opinions on the health and efficiency of the U.S. healthcare system vary wildly.
+
+Ask consumers whether they have a favorable or unfavorable review of the new health reform law, Obamacare (officially the Affordable Care Act), and you'll get a decidedly negative tone. By a similar token, and before Obamacare was put into effect, a 2012 Commonwealth Fund International Health Policy Survey found that a mere 15% of physicians were happy with the U.S. healthcare system.
+
+Yet ask those same consumers who don't particularly care for Obamacare as a whole whether or not they like their own health insurance plan, and their frown probably gets turned upside down. A Gallup poll released in November suggests that 70% of respondents are happy with their health insurance plan. In fact, poll any group of Americans and you'll find that a vast majority will state that they need health insurance and access to medical care.
+
+Any way you look at it, improving our healthcare system is clearly an important issue.
+
+The good news is a technological and innovative revolution is currently under way within the healthcare sector which looks to completely change the way we interact with our doctors, receive diagnoses, and ultimately get treatment.
+
+Slowly dwindling away are the one-size-fits-all physician-patient relationships that have persisted for decades. Instead, we're now witnessing technology and medical innovation individualizing treatments for patients, and allowing physicians access to patient data in a more efficient manner than ever before.
+
+The way I view it, there are three major ways that personalized medicine is set to completely transform your life.
+
+1. Improved doctor-patient interaction
+
+One of the biggest challenges for physicians is getting their patients to open up and be honest about their health history. Conversely, the biggest challenge a patient might face is merely getting their doctor's time and attention. The latest survey from the Association of American Medical Colleges predicts that there will be a shortage of as much as 90,000 physicians by 2025. Thus, time is becoming an increasingly scarce commodity for our nation's doctors.
+
+Personalized technology may be the solution to alleviating some, if not most, of these concerns.
+
+The rise of wearable technology holds the potential to be a major step forward in health maintenance. We tell our doctors we exercise daily, eat right, sleep well, and are keeping up on whatever health measurements we should be following (e.g., blood glucose levels for diabetics). Yet when push comes to shove we probably don't have this data handy to share with our physician. It makes a proper diagnosis or even disease treatment maintenance tough on our doctors.
+
+However, wearable devices such as the Apple (NASDAQ:AAPL) Watch and its health applications (which are found on its smartphones) could give our physicians critical insights into our true health. Apple's HealthKit service, with your permission, can interact with other apps that you use to track your fitness and health data and aggregate that data within Apple's Health app. This health data vault can be shared with your physician, potentially before your visit, to help expedite and narrow any potential diagnosis and treatment. There's still some work to be done, as Apple's Health app isn't compatible with a handful of major fitness tracking apps currently in use, but it's showing incredible promise.
+
+Telemedicine is a second way personalized medicine is taking shape and transforming your relationship with your primary care physician, or PCP. Routine visits and checkups may be able to be performed from home on a video conference. In fact, a survey of businesses from Towers Watson and the National Business Group in 2015 found that 52% planned to introduce telemedicine as an option for their employees, up from 28% in 2014. Overall, telemedicine could lead to quicker diagnoses and reduce congestion at hospitals and the doctor's office.
+
+Finally, adaptive cloud-based software from companies such as Cerner (NASDAQ:CERN) are being developed and implemented in hospitals and doctor's offices to make your visit more efficient. Everything from payroll, billing services, scheduling of patients and staff, product reordering, and data analytics can be run through these cloud-based programs. And since they're in the cloud, your PCP has access to them from anywhere on any device.
+
+2. Revolutionary diagnostic tools
+
+But it's not just how you and your doctor interact that's going to change. It's how you're diagnosed, too.
+
+Advancements in life sciences and in diagnostic tests have allowed researchers to hone on specific biomarkers that could increase your risk for certain diseases, or signify the presence of a disease.
+
+One example is the approval last year of Exact Sciences' (NASDAQ:EXAS) noninvasive DNA-based colon cancer screening test known as Cologuard. Cologuard allows a patient to mail a stool sample to ExactSciences headquarters, where its highly specific technology analyzes the sample for any DNA abnormalities.
+
+Specifically, Cologuard examines cells shed from the intestinal wall. Cancerous and advanced adenoma cells have an abnormal DNA structure, signaling to the patient that it's time to get a colonoscopy. The test isn't perfect, but at a cancer-positive sensitivity of 92% and with a 42% success rate in identifying advanced adenomas, or polyps, it was a marked improvement over the prior noninvasive test on the market.
+
+Additionally, life sciences companies such as Illumina (NASDAQ:ILMN) and its HiSeq and MiSeq platforms allow for the rapid analysis of the human genome. What once took weeks and cost upwards of $50 million can now be done in about a day and costs closer to $1,000. These efficiencies may make it almost practical for the majority of the population to one day get their genome mapped in order to identify and monitor high-risk health factors.
+
+3. Targeted therapies
+
+Lastly, your PCP will be able to tie in his or her more intricate involvement with your health history and diagnosis history by prescribing therapies or medical devices geared toward an individual's needs.
+
+For instance, Myriad Genetics (NASDAQ:MYGN) developed a variant of its BRACAnalysis test for identifying the BRCA 1 or 2 genes, which are known to increase a woman's chances of developing breast or ovarian cancer. Known as BRACAnalysis CDx, this test analyzes a patient for genetic variants that would qualify a patient to take Lynparza, a cancer drug geared toward patients with defective BRCA genes.
+
+Currently the list of companion diagnostic tests that correspond with specific targeted therapies is fairly short -- less than two dozen therapies. However, this list is expected to explode in size as the technology behind genome identification and the drug development process itself become more refined.
+
+Of course, we can't talk about targeted therapies without mentioning the work biopharmaceutical companies have done with immunotherapy vaccines. By harvesting some of a patient's white blood cells and "retraining" them to identify cancer cells, researchers and vaccines developers have had modest to fantastic success in improving the cancer-killing response in patients and in reigniting patients' immune systems. This isn't a foolproof cancer-beating therapy by any means, but it's a way of boosting a patient's immune system using their own white blood cells in order to allow them to have a better quality of life.
+
+The tools to change our quality of life and longevity are finally here and starting to be implemented. Look for this transformation to continue over the coming years and be prepared for what will likely be a more efficient and effective healthcare system than you could have ever imagined.

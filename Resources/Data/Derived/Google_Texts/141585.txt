@@ -1,0 +1,49 @@
+by
+
+By SUSAN LAHEY
+
+Reporter with Silicon Hills News
+
+Entrepreneurs are going to be the ones who shape the data revolution, but they’re going to face some weighty opposition from the legacy data holders. That was the conclusion of a lively, rapid-fire panel Tuesday morning at SXSW Interactive called “How to Capitalize on Open Data.”
+
+The panel, assembled by Susan Strausberg, founder of 9W Search and previous founder of Edgar Online, included Aman Bhandari, global director of strategic alliances at Merck and a senior advisor to the U.S. Chief Technology Officer at the White House; data journalist Ashish Patel, founder of The DocGraph Journal; and moderated by Michael Atkin, managing director of the Enterprise Data Management Council.
+
+Atkin started the conversation with a brief history of data, beginning with data tagging and keyword searching which “unshackled” data from previous formats such as spreadsheets. “This precisely defined the meaning of data as separate knowledge from format, from content.”
+
+The next big breakthrough was OWL, the Web Ontology Language, which helped people understand the relations between data.
+
+And now the data world is developing toward transparency, collaboration, paying for volume and paying for value. Consumer demand of data.
+
+Atkin said venture funding in data was close to $2 billion. The trend is away from legacy systems—governments and industries like healthcare hoarding the data—and toward transparency. This provides a huge opportunity for entrepreneurs to capitalize on data analysis products.
+
+But, as Strausberg pointed out, there are a lot of mistakes waiting in the opportunity in terms of making sure the data is accurate.
+
+So the question, Atkin said, is “How do we deal with intersection of opportunity and chaos?”
+
+“In the healthcare side, entrepreneurs are leading the way to solving the problem and making order out of chaos.”
+
+From Silos to Open Data
+
+When she came out with Edgar Online, Strausberg said, the reception was negative. “Accountants believe in Generally Accepted Accounting Principles,” she said. “They’re absolutely subjective about their own information.” Companies view the new, more open XBRL standards as a burden.
+
+In healthcare, insurance and other industries where information was previously siloed, panelists said, it is now being shared. But neither those industries, nor the government, have quite figured out what the demand or proper use case for that data will be.
+
+“When the Affordable Care Act was passed, there was no chief data officer at Medicare,” said Bhandari. “A year and a half after it passed, now there is a chief data officer. There are new animals in the kingdom that weren’t there before.” And that makes room for entrepreneurs. As Atkin said, we now have the capacity to do data science “on hardware you have at home.”
+
+One of those opportunities, said Patel, comes from interoperability of data management systems. If a patient wants to move his medical records digitally from one medical facility to another with a different data model, it can’t be done.
+
+In terms of a business model, Atkin said, “Data is a factor of input. You don’t make money on factors. You make money on creativity and innovation.”
+
+Billing and healthcare records and patient care research, Bhandari said, are areas on the forefront of data management innovation.
+
+Opportunities and Risks
+
+Privacy is a factor, of course. When she was running Edgar Online, with millions of users getting alerts on the companies they were following, Strausberg said, only one person asked if they were protecting his privacy. Now privacy is a whole different issue, especially with the risks of criminals and cyberterrorists attacking network security. One audience member has an online prescription ordering firm and recently had a spate of people creating false doctor profiles and prescriptions. Since the company was small, it was able to identify and stop the problem quickly.
+
+When she founded Edgar Online, Strausberg said, she and her husband were doing research on over-valued IPOS and learned that the Edgar system of tracking company information was going digitally. “It was something of Carnac (the Magnificent) moment.” Everyone in the supply chain had been involved in some way in creating the standard. “It seemed pretty clear to us that this was going to change Wall Street, everthing. We thought ‘There’s a pony there’ and we, being entrepreneurs are always undaunted by the fact that nobody else is doing something.”
+
+The powers that be threatened to shut her down, as she expects other legacy data holders to do to entrepreneurs today. But they failed.
+
+Data is going to get increasingly open but currently startups may have to get their foot in the door of the data holders by offering added value such as analytics.
+
+As Bhandari said “There will never be a better time to be an entrepreneur in health care.

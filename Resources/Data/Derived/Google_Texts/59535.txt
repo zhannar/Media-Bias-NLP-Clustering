@@ -1,0 +1,23 @@
+Healthcare.gov, the federal website where you sign up for Obamacare, is quietly sharing your personal information with private companies.
+
+The evidence is in the computer code on the website itself. It shows that Healthcare.gov is relaying certain information, such as your zip code, income level, pregnancy status and whether or not you smoke.
+
+That information is being shared with several third parties. DoubleClick is a Google (GOOG) subsidiary that serves up advertisements and tracks your movements online. Healthcare.gov also shares your data with Google, Twitter (TWTR, Tech30), Yahoo (YHOO, Tech30), YouTube and others.
+
+Then there's Chartbeat and Optimizely, which track what you click while you're on Healthcare.gov. These are popular services that help improve a website's design (CNNMoney uses them).
+
+The Associated Press was the first to report these details on Tuesday.
+
+When CNNMoney learned that the Health and Human Services Department was sending information to third parties in 2013, HHS would only assure that the data being shared with DoubleClick and others is transmitted to them securely.
+
+"When consumers fill out their online Marketplace applications, they can trust that the information they're providing is protected by stringent security standards and that the technology underlying the application process has been tested and is secure," HHS said.
+
+But this doesn't explain why these companies see your data in the first place.
+
+Federal health officials did not provide additional comment to CNNMoney on Wednesday morning.
+
+It's worth noting that the Obamacare website shares this information with private companies even if you enable the "Do Not Track" feature in your Web browser, according to researchers at the Electronic Frontier Foundation. That means the government is choosing to ignore Internet users' requests for privacy.
+
+"People's private medical data should not be available to third party companies without consent from the user," EFF staff technologist Cooper Quintin argued in a blog post. "This practice is negligent at best."
+
+Related: President's committee says software alone can't replace spying on everyone

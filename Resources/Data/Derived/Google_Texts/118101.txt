@@ -1,0 +1,43 @@
+One of the most significant enhancements in Version 6.1 is the concept of "edit packages," which give users full control over which business rules are applied when claims are processed. With this enhancement, users can configure and monitor their own complex business rules through an easy-to-use interface. The system provides a complete audit trail, tracking who made changes, when, and to which business rules. This capability makes tracing potential issues back to the source quick and easy.
+
+"Payers are facing many challenges today that weren't on their radars even 10 years ago, much less 40 years ago when many of their technology systems were first implemented," said Darrin Haehle, chief information officer and president of Wonderbox Technologies. "The shift to value-based care, the addition of 20 million new members into the system through the Affordable Care Act, and the widespread use of the Internet are all straining the manual processes they have in place. The new functionality and enhancements in Version 6.1 are designed to help them become more agile so they can meet these challenges and succeed in a very volatile landscape."
+
+Another key enhancement in Version 6.1 is an internal knowledge base designed to automate data matching for electronic data interchange (EDI) transactions and reduce the number of incomplete claims. With this functionality, users can verify and confirm missing or mismatched data just once. The system stores alternate provider, location, and payee data in the knowledge base and automatically uses that additional data to match against subsequent EDI transactions, dramatically reducing the number of incomplete claims that must be manually reviewed and resolved.
+
+For example, a payer with a provider record set up as "John O. Smith" may receive a claim from provider "Johnny Smythe." Rather than rejecting the claim or creating a duplicate provider record, the payer can confirm just once that "Johnny Smythe" should automatically match against "John O. Smith." From that point forward, the system matches the two names automatically, eliminating the need for further manual review. Automated data matching reduces errors, eliminates duplication, improves claim payment accuracy, and ultimately reduces calls to the call center, benefiting both payers and providers.
+
+Enterprise System Version 6.1 also introduces a complete redesign of the authorization data warehouse. This enhancement streamlines authorization reporting and improves how dashboards visually present the information. The redesigned dashboards provide compelling new summary graphics and key statistics for a clear and comprehensive overview of authorization trends.
+
+"The release of Enterprise System 6.1 furthers our mission of using technology to give health payers a distinct competitive advantage in managing their businesses," said Craig Kasten, chairman of the board and co-founder of SKYGEN USA. "It helps them leverage new opportunities while recognizing the realities they're facing, especially the need to do more with fewer resources. In the last few years it has become very clear that the old ways of doing things are insufficient here in the 21st century. Enterprise System 6.1 gives payers an easy path to modernizing their operations and ensuring they remain relevant in the years ahead."
+
+Tweet this: .@WonderboxTech enhances automation, transparency with Enterprise System 6.1. | #healthinsurance #benefitmanagement http://bit.ly/26fiYEM
+
+About Wonderbox Technologies
+
+Wonderbox Technologies, part of the SKYGEN USA family of companies that specialize in benefit management solutions, is a distinguished, agile software company focused on building next-generation technology for the specialty payer market. This technology enables healthcare payers to remain at the forefront of benefit management by using one of the world's most innovative and flexible technology platforms to dramatically improve automation, achieve compliance and reduce the cost of delivering healthcare benefits. To learn more, visit www.wonderboxtech.com.
+
+About SKYGEN USA
+
+SKYGEN USA is a collection of benefit solution companies that brings together a distinguished mix of next-generation benefit management and technology tools for healthcare organizations. Business units under the SKYGEN USA brand include Wonderbox Technologies, Scion Dental, Vestica Healthcare, American Therapy Administrators, and Ocular Benefits, all of which are recognized leaders in their market niches. The joining of these respected organizations under the SKYGEN USA umbrella enables them to drive process improvements and dramatically reduce the cost of delivering benefits in an advancing healthcare economy. Payers may select the comprehensive solution or individual offerings to fit their requirements. For more information, please go to www.skygenusa.com.
+
+For media inquiries, please contact:
+
+Christine Rudella
+
+Director of Marketing
+
+SKYGEN USA Family of Companies
+
+262-834-4145
+
+Christine.Rudella@SKYGENUSA.com
+
+Logo - http://photos.prnewswire.com/prnh/20141017/152919LOGO
+
+To view the original version on PR Newswire, visit:http://www.prnewswire.com/news-releases/payers-gain-enhanced-levels-of-automation-and-transparency-with-release-of-wonderbox-technologies-enterprise-system-61-300254980.html
+
+SOURCE Wonderbox
+
+Related Links
+
+http://www.wonderboxtech.com

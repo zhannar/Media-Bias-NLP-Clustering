@@ -1,0 +1,57 @@
+Thought you might find this interesting Submit
+
+The next evolution of population health management will demand a greater focus on three key data truths. Janice Nicholson, Founder & CEO of i2i Systems shares her definition of Population Health Management 2.0.
+
+If you believe that Population Health Management is about reporting and analytics then you only know half the story. Yes, having the right Population Health Management tools eases the pain associated with delivering performance or compliance reports, demonstrating Meaningful Use and meeting Patient Centered Medical Home requirements. The right tools will also allow you to view and analyze data from targeted populations and compare your organization’s performance against others in your peer group.
+
+That’s a good start, but it’s just the beginning, or what I call Population Health Management 1.0. In today’s complex, shifting healthcare landscape, much more is required to truly manage Population Health in fulfillment of the Triple Aim—improving patient health, improving patient experience and reducing healthcare costs.
+
+The next evolution of Population Health Management, what I refer to as Population Health 2.0, will demand a greater focus on these three key truths:
+
+Data is the new currency.
+
+Data enables smarter decisions in real time.
+
+Data makes a care team more efficient.
+
+1. Data is the new Currency
+
+If we accept that data is the new currency, then it follows that how we treat that currency determines how well we will survive the transformation to a value-based healthcare system. That’s because to truly leverage data internal improvement, health information exchange or performance incentives, we need clean data.
+
+Ensuring clean data starts with recognizing how people are entering data and standardizing how that data is entered. I’ve seen too many examples of EMR data fields filled with unusable information. For example, an allergies field that contained all of the following values, among hundreds of other names of medications and food:
+
+“Yes.”
+
+“None that he knows of.”
+
+“A million pollens.”
+
+“A medicine for ear infection, pink”
+
+Data like this is not useful for any reporting or evaluation. It’s tempting to throw ones hands up in frustration when thinking about how much time and money is put into a system that is missing the very information we need to make a difference in patient care.
+
+Instead of getting disheartened, I encourage organizations to spend their energy looking forward. In other words, don’t waste time looking for and correcting the data mistakes of the past, but put the focus and energy into data governance and becoming good Data Stewards moving forward. As I’ve discussed before, the role of a Data Steward is critical for ensuring clean data, which is vital to the health of your organization.
+
+2. Data enables smarter decisions in real time
+
+The next evolution of Population Health Management will also require us to make smarter care decisions in real time based on the data. Care teams will need to focus on proactive care with fuller engagement from patients prior to and during an office visit. As we shift to value-based care models, the care team needs to be able to interact with health record data in more intelligent ways that optimize care planning and improve health outcomes. In other words, they need to leverage data through the entire care cycle in ways that engage and activate patients to improve their health.
+
+Population Health 2.0 also means using critical information about each patient to automatically inform care teams before they see their patients. Before a clinic session begins, the care team should know about the high-risk patient with CHF, the chronically ill patient with asthma and the diabetic patient who has co-morbidities, weight gain since their last visit and is overdue for a check of their A1C levels.
+
+Without ever having to query a system, Population Health 2.0 means delivering this information automatically to the care team so they can be fully prepared for each patient before they arrive and deliver the highest quality of care.
+
+In the past, I’ve talked about how analytics tools help you use your data to uncover new opportunities for care. By changing the way we interact with data, we can move beyond, or rather ahead of, measuring performance after the fact, and toward using data to proactively drive the team’s performance at the point of care.
+
+You have probably heard the saying that, “what we can measure, we can improve.” I believe this is especially true in the healthcare setting. As an example, when an organization starts measuring and reporting on errors, care teams receive daily performance feedback enabling them to see what they have missed and make the appropriate corrections immediately. This way they are able to quickly implement new processes to ensure accuracy the next time. That’s how an organization makes a real impact on the health of each patient who comes through its doors.
+
+3. Data makes a care team more efficient
+
+Lastly, PHM 2.0 demands a greater focus on using data to make a care team more efficient. By enabling care teams to interact more intelligently with data, members of the team can be utilized more efficiently, empowering them to work to their skill level. A medical assistant can support the team in ways that free up providers to practice medicine with greater impact. This model has the ability to lower costs and create efficiencies that will drive Population Health Management to new levels envisioned through the Triple Aim.
+
+By adhering to these three data truths, practices will be able to increase revenue and survive payment reform. While patient outcomes are the most important aspect of the Triple Aim—without good outcomes, there will be no income—using data to meet revenue goals goes even further. Leveraging analytics in the right way is critical to driving a practice’s profitability.
+
+Thanks to the Affordable Care Act, practices are now competing for the millions of newly insured patients that, previously, no one wanted. To retain existing patients, as well as gain new ones, high-performing healthcare practices need to be able offer competitive services—especially now that many sources of funding from the federal government as well as other private sources are disappearing. Learning to run a medical practice as a profitable business is essential to every healthcare organization’s survival.
+
+Integrating data, turning it into information and transforming that information into actionable insights that have the ability to improve the health of the patient and the practice is what we do at i2i Systems. This is the future of Population Health Management the way I see it.
+
+Janice Nicholson is the Co-founder and CEO of i2i Systems. Janice is known in the health care industry as a thought leader and visionary in the area of information technology. She has played a major role in developing a patient management system for private practice; has successfully managed more than 10 major product releases; and, prior to its acquisition by WebMD, was Vice President of Product Engineering at HealthPro Solutions.

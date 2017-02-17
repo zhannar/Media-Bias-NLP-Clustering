@@ -1,0 +1,53 @@
+When the Patient Protection and Affordable Care Act, which is known as Obamacare for short, was signed into law by President Obama in 2010, pretty much everyone knew that the transition from the old healthcare system to the new wasn't going to be easy.
+
+Obamacare's rocky launch
+
+The PPACA completely transformed how many Americans shop for health insurance, making the process more transparent than ever by providing simpler side-by-side comparisons in an online marketplace. The law also altered how patients were covered, removing the ability for insurers to deny coverage to patients with pre-existing conditions. In turn, Americans were introduced to the coercive individual mandate which requires them to purchase health insurance or face a monetary penalty unless they qualified for one of nearly a dozen exemptions.
+
+The initial implementation of the PPACA in Oct. 2013 was a nightmare. Technological glitches far and wide brought the federal exchange, known as Healthcare.gov, to a crashing halt, while a number of state-run exchanges also experienced technical difficulties. Two months into enrollment, fewer than 370,000 had signed up, versus a Congressional Budget Office estimate of 1.4 million by that time.
+
+Of course, you probably know the rest of this story, too, as Obamacare enrollment did surge once the technology behind Healthcare.gov's marketplace exchange was fixed. Total paying customers stood at 6.7 million in mid-October and rose to nearly 12 million by the time the second-year enrollment closed on Feb. 15, 2015.
+
+Throwing money down the drain
+
+Despite rebounding from its poor start, the performance of a few individual states has been less than encouraging. The total number of states under the scope of the federal exchange has been swelling since 2013 as a direct result of select states' inability to feasibly, and profitably, operate their own exchanges.
+
+Recently, Hawaii became the seventh state to throw in the towel on its state exchange, the Hawaii Health Connector, and announced it'd be joining Healthcare.gov's network. Over two enrollment periods, Hawaii's marketplace exchange managed to enroll just over 37,000 people when at least 70,000 were needed to make the exchange profitable.
+
+But here's the real kicker: Hawaii had been handed $205 million in federal grant money from the Department of Health and Human Services to set up and support its exchanges. This was part of a nearly $4.5 billion pot of federal grant money that was divvied out by the HHS to help select states set up the IT infrastructure needed to develop and maintain their own individual marketplace exchange. Not only did Hawaii burn through this $205 million in federal grant money, but taxpayers will have to foot the bill for the roughly $30 million more it'll cost for Hawaii to move its network over to Healthcare.gov.
+
+Don't feel bad, Aloha-state residents -- you have plenty of company. On top of Hawaii's $205 million in wasted federal funds, the following six states also accepted federal money to set up a their own "Obamacare exchange" and failed in one way or another to do so.
+
+Cover Oregon received around $305 million in federal grant money.
+
+Massachusetts Health Connector accepted some $176 million in federal money for its exchange setup. Note, Massachusetts chose to start over on its health exchange rather than join the federal exchange.
+
+Vermont Health Connect received just shy of $200 million in federal grant money.
+
+Maryland Health Connection was divvied out roughly $183 million by the HHS.
+
+BeWellNM (New Mexico) was given approximately $122 million to construct its marketplace.
+
+Nevada's Health Link accepted roughly $100 million to develop its state-run exchange.
+
+Altogether, these seven states wasted very close to $1.3 billion in federal funds attempting to and failing to set up a state-run exchange.
+
+Who's to blame?
+
+Generally, when close to $1.3 billion in federal funds go up in smoke the finger has to point somewhere. Ultimately, I see it landing on two crowds.
+
+First, some of the states, and even members of the HHS doling out these federal funds, made some pretty poor guesses as to how many people would actually enroll. Hawaii, for instance, only netting a little more than half of its breakeven point demonstrates that the forecasters behind these estimates might as well have been guessing blind.
+
+In partial defense of these states, though, the Congressional Budget Office recently lowered its long-term 10-year cost forecast on implementing Obamacare over a 10-year period from $1.76 trillion back in 2012, to approximately $1.2 trillion. One of the big reasons for the $556 billion cost reduction has to do with its recent findings that more people already had insurance than initially forecast. This could certainly explain some of the enrollment discrepancies in states such as Hawaii.
+
+However, the other portion of blame lies squarely with the contracted marketplace developers who failed to get the job done.
+
+Front and center among the failures was CGI Group (NYSE:GIB) which was the primary architect behind Hawaii's, Massachusetts', and Vermont's state-run exchanges, as well as the initial contractor given the task of developing Healthcare.gov. Following two months of problems with Healthcare.gov CGI Group lost its contract to Accenture (NYSE:ACN), while Vermont, Hawaii, and Massachusetts all said goodbye to CGI Group shortly thereafter. The one feather in CGI's cap is Colorado's state exchange which has had few problems since day one.
+
+Cloud and software behemoth Oracle (NYSE:ORCL) can take the rap for the poor performance of Oregon's marketplace exchange. Thankfully, the company did somewhat redeem itself as being part of a consortium of technology companies tasked with fixing CGI Group's mess at Healthcare.gov. Still, Oracle's inability to fix Cover Oregon certainly stands out as a red mark on its resume.
+
+Even Xerox (NYSE:XRX) takes some blame as the marketplace exchange contractor behind Nevada Health Link. In May of last year Nevada's Silver State Insurance Exchange Board voted unanimously to end its relationship with Xerox after failing to see significant improvement in its marketplace exchange. As with CGI Group and Oracle, perhaps the biggest ding here is Xerox's reputation for handling large-scale contracting jobs.
+
+Looking ahead
+
+Although a good chunk of the exchange grants doled out by the HHS are likely in the rearview mirror, the entire process serves as a nearly $1.3 billion learning experience for the HHS that more strings need to be attached to federal grant money. Both the HHS and states need to do a better job of ensuring some level of consequences are in place for contractors who fail to deliver -- at least in my opinion. Looking forward I'd expect HHS grants based on the PPACA to be under significantly more scrutiny.

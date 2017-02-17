@@ -1,0 +1,47 @@
+Reprinted from REPORT ON MEDICARE COMPLIANCE , the nation's leading source of news and strategic information on Medicare compliance, Stark and other big-dollar issues of concern to health care compliance officers. Sign up for a $92 two-month trial subscription today .
+
+It’s possible that some of the 724 hospitals that lost a piece of their inpatient reimbursement because of hospital-acquired conditions (HACs) have more of a coding and documentation problem than a quality breakdown, experts say. Either way, they lost 1% of their total Medicare DRG payments — and other hospitals could take the same financial hit down the road — under the HAC Reduction Program, which was created by the Affordable Care Act. With the amount of dollars at stake, hospitals may want to take a close look at how coding and documentation are affecting their HAC scores.
+
+The HAC Reduction Program is one of a series of pay-for-performance programs designed to encourage better quality of care by linking payment to value instead of volume of services (RMC 10/20/14, p. 1). Every year starting in 2015, CMS identifies the 25% of hospitals with the most HACs and docks their DRG reimbursement. Performance now will shape the penalties for 2017.
+
+The assumption is these hospitals have a systemic deficiency in the conditions selected for the HAC Reduction Program, and that some financial pain will motivate quality improvement. But compliance experts have some doubts. “Possibly this is more a documentation problem than a quality problem,” says William Malm, senior manager of revenue integrity communications at Craneware. With deficiencies in electronic health records, Malm adds, “you have to wonder whether coders, who have to code HACs, don’t see this as part of coding the claim.” If that’s the case, part of the calculus of improving the HAC picture is documentation and coding, he says. “People in hospitals are wildly shifting processes to meet the crisis of the day, like the two-midnight rule, and this is overlooked.”
+
+HACs May Be Partly a Coding Issue
+
+HACs are conditions that CMS considers reasonably preventable as opposed to conditions that are present on admission. CMS finalized two domains in the 2015 inpatient prospective payment system regulation, and bases 35% of the HAC score on the first and 65% on the second. The first domain is PSI-90, a composite of eight Agency for Healthcare Research and Quality measures (e.g., pressure ulcers, postoperative sepsis). The second domain includes catheter-associated urinary tract infections; surgical site infections (colon, abdominal hysterectomy); and central-line associated bloodstream infections, which are CDC measures. Hospitals receive zero to 10 points for each measure, representing best to worst. Those with an overall score of 7.25 or above are included in the top 25%, “and the top is where you do not want to be,” says Stephen Harris, director of reimbursement at Tampa General Hospital.
+
+CMS assesses hospital performance on the first domain based on claims filed by the hospitals, says Washington, D.C., attorney Daniel Hettich, who is with King & Spalding. In other words, the accurate reporting of present on admission (POA) codes may determine whether hospitals land in the dreaded quartile, he says. POA codes are straightforward — “Y” for yes, it was POA (and is therefore not a HAC), or “N” for no, it was not POA (and therefore is a HAC), or “U” for unknown, meaning documentation was insufficient to attribute one way or another. “You get charged with a HAC when you say it was not POA, but you also get charged if your answer is the documentation is insufficient to tell whether the patient arrived with that condition,” Hettich says. “A lack of documentation — a response of “unknown” — means you will get charged with a HAC.”
+
+The documentation to determine which code to select may be lacking, and physicians and coders may not always be attuned to the HAC Reduction Program, some experts say. “Your physician documentation and then your coders will impact your score,” Harris says.
+
+For the second domain, CMS abstracts a certain number of charts for both Medicare and non-Medicare patients to determine how many had hospital-acquired infections. CMS uses a CDC formula that takes into consideration factors like age. “They don’t expect a zero infection rate,” Hettich says. “But every increment above the expected rate is a step closer to this penalty.”
+
+There is skepticism in some quarters that 724 hospitals are causing surgical-site infections, pressure ulcers and other conditions to the point where they should trigger penalties. Malm, for one, is more inclined to attribute some failures to a process breakdown that implicates documentation and coding.
+
+For one thing, coders could affect HAC scores at both ends of the spectrum, Harris says. If they are very aggressive, coders may jump the gun on identification of a HAC. “But if they had gone the extra mile to confer with the physician, maybe they would have been able to determine there wasn’t a HAC,” he says. On the flip side, a less skilled coder may fail to identify a HAC in the medical record.
+
+Coding Variability Is a Problem
+
+Hospitals are partly hampered by coding variability “in general and specifically around HACs and patient safety indicators,” says Jeffrey Farber, M.D., vice president for hospital services utilization at the Mount Sinai Health System and associate professor at the Icahn School of Medicine at Mount Sinai in New York City. That stems largely from documentation that doesn’t tell the whole story. When physicians document the patient’s urinary tract infection without mentioning a Foley catheter, the UTI isn’t considered catheter associated and coded as a HAC or present on admission, Farber says. “There are a lot of codes for UTI, but the only one that matters is the catheter-associated UTI,” he says. “Coders are coding what they see in the medical record. Coders are not clinicians. It’s asking a lot of them to say, ‘I see notes in the flow sheets from the nurse. There is a Foley catheter change but the doctor wrote UTI in the note and no one mentioned a catheter.’”
+
+HACs and other pay-for-performance programs don’t register on physicians anyway, Farber says. “They should be focused on providing good quality care and documenting good quality care,” he says. “They should be specific and comprehensive” — the two terms he uses to educate physicians on documentation. “They don’t necessarily know what qualifies as a HAC and what exclusion factors are. Let other people do the job of assigning POA indicators,” Farber says. “Doctors should not be intentionally kept out of the loop, but whether they impact the DRG? Doctors don’t care and probably don’t need to.”
+
+As Malm audits hospital records, he has noticed an absence of references to HACs or POA indicators. In a recent audit of 10 records, for example, there was not “a single word on HACs or POAs.” Some EHR templates are not very prominent, which may lead them to be missed or to complete failure to document the POA. “In the old days, paper was observable, measurable and recognizable; now, in the EHR, it may be buried as part of a template and no one understands the significance of complete documentation,” Malm says. “In either case, coding may not capture the data, which then prevents it from being represented in the necessary reporting documents to the government.”
+
+For example, one hospital‘s EHR system asks whether HACs are present in the history and physical, and then defaults to “no.” That will land the hospital in hot water. “What I do not see is providers or CMS or anyone digging down into the root cause for this,” Malm says.
+
+He suggests hospitals in the 25% that were penalized by CMS ask themselves the following questions:
+
+How are HACs reviewed and documented?
+
+Is there a check and balance to ensure HACs are documented or is there a hard stop in the EHR system?
+
+Are coders aware documentation is there and can they code it and put it on the claims?
+
+Do billers check to ensure HACs are reported on the UB or 837 forms?
+
+How did we get there? Are we abiding by quality measures to determine if there is substance, and not just coding and documenting weaknesses?
+
+© 2015 by Atlantic Information Services, Inc. All Rights Reserved.
+
+Read insightful articles and strategies on inpatient and outpatient billing, Stark, physician documentation, and other big-dollar issues of concern to health care compliance officers each week with your own subscription to Report on Medicare Compliance. Get more information and sign up for a $92 two-month trial subscription today!

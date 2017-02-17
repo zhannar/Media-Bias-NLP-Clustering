@@ -1,0 +1,23 @@
+ProPublica is investigating the financial ties between the medical community and the drug and device industry. In October 2010, ProPublica compiled the list of payments that drug companies make to physicians and built a publicly searchable database so that patients could look up their doctors.
+
+ProPublica’s Dollars for Docs database contains payments to doctors and teaching hospitals from pharmaceutical and medical device companies made between August 2013 and December 2014. The disclosures were required under the Physician Payment Sunshine Act, a part of the 2010 Affordable Care Act.
+
+The database includes “general payments” — 15 categories including promotional speaking, consulting, meals, travel and royalties. It does not include research payments nor does it include physicians’ ownership stakes in companies. Research payments will be included in Dollars for Docs in the future. Detailed descriptions of the payments can be found here.
+
+The doctors included in our tool include medical doctors (MD), dentists, osteopaths (DO), optometrists, podiatrists and chiropractors. The tool does not include nurse practitioners and physician assistants (because companies are not required to report payments to them.) The tool also allows you to search teaching hospitals.
+
+We’ve taken the payment reports, which were released by the Centers for Medicare and Medicaid Services, and compiled them into a single, comprehensive database that allows patients to search for their physician and receive a listing of all payments matching that name. We provide rankings for each doctor to allow comparisons to peers in the same specialty and state.
+
+Our analysis found that most doctors take payments, and that doctors who receive payments are, on average, more likely to prescribe a higher percentage of brand-name drugs. For each physician in Dollars for Docs, we document the number of payments he or she received, the total of those payments, and the number of different companies that paid him or her.
+
+If the physician wrote at least 1,000 prescriptions in Medicare’s prescription drug program, we compare his or her prescribing of brand-name drugs to others in the same medical specialty, and include his or her brand-name prescribing rate in our online database. In cases where a doctor prescribed brand-name drugs more frequently, on average, than other physicians of the same specialty, we mark that rate “Frequent,” and in cases where he or she prescribed brand-name drugs much more frequently, on average, than physicians of the same medical specialty, we mark that rate “Very Frequent.”
+
+If you’re interested in how we calculated this, you can read our white paper.
+
+Use the Data Get the data that powers this investigation. A complete, digital download is available for purchase in the Data Store.
+
+The bulk of each physician’s page is taken up by information on each payment he or she received, the company making the payment, the date of the payment, the names of the drugs and medical devices associated with the payment, and whether the payment was made to a third party entity. Sometimes, payments are not made directly to doctors but instead are provided to their universities, medical practices or research centers. We also note whether a doctor has disputed the payment.
+
+Sometimes, more than one company makes payments related to a single drug or device. On each product page, we note the number of companies making payments, as well as the names of those companies. Each payment can also be attributed to more than one product, so we note the percentage of payments that relate only to that product (meaning no other products were mentioned in the payment).
+
+ProPublica has published Dollars for Docs since 2010, at first using payment reports that certain companies were required to publish as part of legal settlements with the federal government. Often, these settlements were related to whistleblower lawsuits alleging improper marketing or kickbacks by the company. The now-archived version of our database includes $4 billion in payments from 17 companies, from 2009 to 2013. An archive of those payments is still available at projects.propublica.org/d4d-archive.

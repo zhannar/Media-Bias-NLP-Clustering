@@ -1,0 +1,25 @@
+Over the past few weeks SiliconANGLE has brought down the microscope on Obamacare’s laughable attempt to launch the healthcare.gov website. Reports continue to pile in of skewed traffic projections, inadequate contractors, and even self-inflicted DDoS type of wounds. While all of these excuses hold some truth; with a December 15th deadline rapidly approaching, instead of wasting more time to assign blame, let’s take a moment to explore a proposed solution that carries some weight.
+
+To Solve a Problem you must first consult the Source:
+
+Fact: The federal health care exchange was built using a 10-year-old technology. Think of your iPhone, would you still be using it if it were 10 years old? What if your phone was still issued a constant stream of updates, would you hang on to it then? The answer is NO. Outdated technology is as useful as that stack of VHS tapes your significant other refuses to let go of. If it’s going to require constant fixes and updates you are better off trading it in for a newer model, which in the case of healthcare.gov, means an overhaul of the entire system.
+
+No one says this will be easy. But the hard truth is that sometimes wounds are just too deep and surgery is required. Sometimes the failure of large IT software projects can be traced to what can only be described as septic code and the only way for this disease to stop spreading is to extract it from the source. Why septic code? Well it can be definitively described as the infection of the source code, which then spreads to negatively impact other code that relies upon it. In the case of septic code, the only remedy for a project to ever reach stabilization is through the extraction of the septic code to be replaced by a brand new source code that meets professional standards.
+
+As the ACA website stands now we have a wholly inadequate and unacceptable site. Tech experts estimate the extraction of healthcare.gov’s septic code could require a minimum three week shutdown. A number of reports state that it could be well beyond January 1st before the site is somewhat functional, and even talks of a year to get it right. But a three-week shutdown starts to seem like a reasonable trade-off when we consider repercussions that could include a Band-Aid effort continuing for years, with millions, if not billions of dollars spent and little to show for it.
+
+Playing the Blame Game:
+
+In the heat of this disaster, a congressional committee has been assigned to question how this project went so off-track. If we again look to the source the answers begin to appear somewhat obvious.
+
+One major cause of septic code is the use of unqualified software engineers and architects. It’s widely perceived that state and federal government agencies don’t typically offer the most attractive salaries. Hence, lesser compensation, and a less attractive work environment amount to a lack of attraction when it comes to talented and qualified engineers and architects.
+
+In John Casaretto’s recent article – ObamaCare 911 – All Tech Hands on Deck and To The Rescue – he uncovered that CGI was listed as the sole bidder for the design of the heathcare.gov website. CGI Federal is the U.S. subsidiary of a Canadian company who has a rocky record when it comes to delivery on contract performance. Again, problems linked to septic code can be traced to cases when an outside firm manages the bulk of development. Rather than reach out to hire the best and brightest from within our own private sector, it appears we settled for the cheapest and easiest to access contractor.
+
+Signs of Light? Or merely a mirage? – Verizon to the Rescue?
+
+Perhaps the White House has come to some form of a realization of the problems caused by employing the use of an outside consultant with a less-than-desirable performance record. At least on the surface it would appear that way with the Department of Health and Human Services’ rumored action to bring Verizon’s Enterprise Solutions division into the picture in an attempt to improve the performance of the HealthCare.gov site. However, upon further investigation, there appears to be a pre-existing link between Verizon and Healthcare.gov. Healthcare.gov is built on a cloud infrastructure out of Culpepper, VA that belongs to Terremark, a division of (you guessed it) Verizon. To some this may appear that the government’s solution is to employ the same team that built the faulty site in the first place. Complete details about the Verizon/Terremark relationship are being investigated and may not be as deceptive as they appear, however; the question remains that if a relationship does exist, why was Verizon Enterprise not a key player in the site’s development from the beginning?
+
+Editor: John Casaretto
+
+404 image credit: HotAir.com

@@ -1,0 +1,41 @@
+Illicit sex. There, we said it. That’s the main reason — but not the only one — you might have noticed a bit of buzz about a website called Ashley Madison. That name might mean fairly little to you if you’re not in the habit of hopping online to find a quick little extramarital liaison, but the site has made headlines this week because hackers who had stolen information about the sites customers posted those details online. Here’s what you need to know:
+
+What exactly is Ashley Madison?
+
+Simply put, it’s a dating website for married people. Boasting the slogan “Life is short. Have an affair,” the service functions like many other less-controversial dating websites, with a few twists to suit its unique “niche”: since at least 70 percent of its user base is male, women can message men for free, but men have to pay to message women, using a system of credits.
+
+Okay, got it. Now, what happened to the site?
+
+Simply put: hackers got in, data came out. And it’s real data, according to security journalist Brian Krebs, who claims that actual members have informed him that their information is included among the 32 million leaked accounts.
+
+Related: Porn, Drugs, Hitmen, Hackers: This Is the Deep Web
+
+The group responsible, which goes by the moniker Impact Team, stole the cache of data about a month ago. After the initial breach, the group demanded that Avid Life Media, the owner of Ashley Madison, take down the site or else have the information released to the public. The group also demanded that Established Men, a site that claims to “connect Young, Beautiful Women with Successful Men” and is also owned by Avid Life Media, be taken down as well.
+
+Now, about a month later, Impact Team has made good on its promise, dumping the cache of data from Ashley Madison on the deep web. It’s available for download to anyone with the smarts required to use the Tor browser.
+
+Why did the hackers do it?
+
+It’s easy to compare a hacktivism attack like this to the attack on Sony that happened about a year ago, when activists targeted the company’s film division in protest over The Interview. However, this attack is somewhat notable since was supposedly done for moral reasons rather than political ones. A message included with the data dump reportedly said:
+
+“Find yourself in here? It was [Avid Life Media] that failed you and lied to you. Prosecute them and claim damages. Then move on with your life. Learn your lesson and make amends. Embarrassing now, but you’ll get over it."
+
+So why should I care? I’m no adulterer.
+
+Well, yes. That’s fair. It’s hard to feel sympathetic to those affected by the attack: overwhelmingly, men who were actively looking to cheat on their spouses. Still, even though it’s tempting to sneer and say “serves them right,” it’s an incredibly important lesson in online security. While Ashley Madison was the site affected this time, breaches of this magnitude have happened in the past — and will happen again in the future — to all manner of websites.
+
+While this particular breach could have obvious immediate fallout – it’s easy to imagine thousands of divorce lawyers licking their lips in anticipation – it’s almost certain that it will also have longer-term repercussions. People use the same passwords for accounts on different sites, so we’ll likely see some bank accounts breached as a result of these hacks.
+
+Related: The Net Neutrality Debate Explained
+
+The advice to protect your information is always the same: Use different passwords for different sites, a password manager and two-step authentication wherever possible.
+
+Have we learned anything juicy from the data yet?
+
+You little rubbernecker you. Obviously, this is a rapidly developing story, so more information may come out soon, but so far the most interesting little fact may be that Josh Duggar, the reality TV star and self-described advocate for family values who has already had a somewhat rocky year, allegedly had a paid account with Ashley Madison, according to Gawker. Also, it seems that over 15,000 government emails were used to sign up for Ashley Madison accounts. Lots more stuff is almost certain to surface as hacktivists and journalists crawl through the data. But keep in mind that the site’s registration system doesn’t require email addresses to be verified, so users might have signed up with legitimate addresses of other people.
+
+A, uh, a friend signed up for Ashley Madison ages ago. How would he know if his information got breached?
+
+Well, your friend could log on to the deep web, download the giant compressed data file and trawl through it for his login information. But that’s cumbersome, requires technical smarts and could potentially even land you — I mean, your friend — in legal hot water.
+
+Thankfully, as is often the case, the Internet is here to help. Plug your email and/or phone number into haveibeenpwned.com and the website will run a quick check to see if your information was included in the Ashley Madsion hack. As a bonus, it will also run your credentials against a database of other prolific hacks, including the hack of Adobe that claimed over 150 million accounts back in 2013.

@@ -1,0 +1,39 @@
+Tuesday, June 16, 2015
+
+Today, Representative Jason Chaffetz introduced H.R. 2775, the Remote Transactions Parity Act of 2015 (RTPA), in the United States House of Representatives (House). The RTPA addresses the Internet sales tax issue using the structure of the Marketplace Fairness Act (MFA), which passed the Senate in 2013 and was re-introduced earlier this year. Although the RTPA retains many of the features of the MFA, it adds protections for remote sellers and certified software providers.
+
+MFA Authorization Framework Retained
+
+Like the MFA, the RTPA creates two paths for states to impose sales and use taxes on remote sellers. Through the first path, states that are members of the Streamlined Sales and Use Tax Agreement (SSUTA) are authorized to impose sales and use tax collection requirements on remote sellers. Under the second path, a state that is not a member state under the SSTUA would also be authorized to collect and remit sales and use taxes on remote transactions if it implements certain simplification requirements and protections for remote sellers and certified software providers. Many of these are carried over from the MFA, notably: (1) destination sourcing for interstate transactions; (2) a single entity for administration of sales and use tax; (3) a single audit of remote sellers per state; (4) a single return per state; (5) uniform tax base for all state and local sales taxes within the state; and (6) relief for errors, including remote sellers being relieved of errors made by a certified software provider or the state itself, and certified software providers being relieved of errors made by a remote seller or the state itself. Like the MFA, the RTPA would be effective one year from enactment, but not during the period from October through December in the year following enactment.
+
+Changes
+
+The RTPA contains several notable differences from the MFA, discussed below.
+
+Small Seller Exception
+
+Under the MFA, there is a fixed exception for small sellers and states are not authorized to impose a sales and use tax on small sellers, defined as remote sellers making sales of $1 million or less.
+
+Under the RTPA, the small seller exception starts off larger, and subsequently phased out. In the first year, the exception applies for sellers making sales of $10 million or less. In the second and third year, the threshold is $5 million and $1 million, respectively. The exception goes away in the fourth year. Furthermore, under the RTPA sellers utilizing an electronic marketplace are not considered small sellers and are not entitled to the exception, no matter the year.
+
+Protections to Sellers and Certified Software Providers
+
+The RTPA provides additional protections for remote sellers and certified software providers. The RTPA contains a mechanism to make sure that a state is not authorized to impose a sales and use tax collection requirement on remote sellers until it has certified multiple software providers, and those providers are certified in all other states seeking to impose authorization requirements. This is to ensure that a remote seller can use the software of their choice and know that it is usable in every state. Additionally, states must allow for centralized registration of sellers, so that sellers will not have to register over and over again.
+
+Additional Audit Protections
+
+Another notable feature that distinguishes the RTPA from the MFA is that no audits are permitted for remote sellers with gross annual sales of less than $5 million unless there is reasonable suspicion of fraud or intentional misrepresentation. In addition, the RTPA prohibits contingent fee audits.
+
+Definition of Remote Seller
+
+The RTPA and the MFA contain definitions of remote seller, essentially, that a remote seller is a seller without physical presence in the destination state. Unlike the MFA, the RTPA contains a definition of physical presence similar to the definition of physical presence contained in the Business Activity Tax Simplification Act. Under the RTPA, a seller has physical presence in a state if it: (a) has employees assigned to the state; (b) uses the service of an agent to establish or maintain a market in the state provided the agent does not perform services for anyone else during the taxable year; or (c) leases property in the state. Notably, the RTPA carves out a physical presence exception for any seller that has an in-state presence (i) for less than 15 days or (ii) to conduct limited or transient business activity.
+
+However, RTPA does not preempt states from imposing sales and use taxes on remote sellers that do not have physical presence under this definition. It merely authorizes states to impose sales and use tax on remote sellers without a physical presence. Under the RTPA, if a seller has nexus under existing law, including Quill v. North Dakota, then the state may still impose a sales and use tax collection requirement.
+
+Other Differences
+
+The RTPA allows customers to pursue refunds of over-collected tax from remote sellers. It also ensures that there is a three-year statute of limitations for assessments on remote sellers.
+
+Practice Note
+
+The RTPA has bipartisan support in the House, as evidenced by the equal numbers of sponsors from both sides of the aisle. There are many in the federal and state legislatures working on addressing this issue, and the RTPA is yet another chapter in this ongoing discussion.

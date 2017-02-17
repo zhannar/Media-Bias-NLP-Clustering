@@ -1,0 +1,83 @@
+News-savvy cyber-criminals are taking advantage of the recent Ebola panic with spam emails claiming to have the latest information on the disease.
+
+The messages masquerade as fake safety tips from the World Health Organization, false news reports about new victims, and information supposedly related to drugs that can cure Ebola, said Jon French, a security analyst with AppRiver. The Federal Trade Commission, the Food Drug Administration, and US-CERT have all issued warnings in the past two weeks about scammers pushing malware and fake products. New York State Attorney General Eric Schneiderman warned this week that scammers were offering fake Ebola preparedness kits and soliciting funds for fraudulent charities raising money for Ebola victims.
+
+"Scammers are shamefully exploiting this moment of heightened concern about public health to defraud good people," Schneiderman said.
+
+This isn't a new scam, as Symantec warned about these scams back in August. The campaigns may be picking up steam now that one person in the United States who contracted Ebola has died, and the nurse who cared for him has shown symptoms of the disease. Amid reports that people who had been exposed to Ebola have violated quarantine and gone to public spaces and flown recently, many people are scared of an outbreak in the United States. The nervousness creates the perfect climate for scammers to launch their campaigns.
+
+What to Look For
+
+Some of the email messages seem obviously fake, such as scams touting the benefits of snake venom as a cure for Ebola. The FTC and FDA warned about emails from the Natural Solutions Foundation, pushing a product called Nano Silver. There is currently no FDA-approved cure for Ebola. Don't fall for product pitches claiming a secret, miracle cure.
+
+"It looks like ebola is being mentioned for everything from phishing to weight loss," French said. There were a few phishing emails styled in the manner of the Nigerian scam, claiming the a man who had died of Ebola had left millions of dollars in Nigeria for the victim to claim.
+
+Some messages purportedly from WHO are being used to distrubte DarkComet Remote Access Trojan. Once the RAT is on the user's computer, the attacker has access to the victim's files, webcam, sound, passwords. Another campaign directs victims to a website playing a video touting a family survival kit, said Trend Micro. The site and the video file are harmless, but the kit for sale is fake and can result in criminals stealing credit card information.
+
+If any of these subject lines show up in your inbox, just delete. Do Not Pass Go:
+
+Urgent Response (the Nigerian scan)
+
+Ebola Safety Tips-By WHO
+
+White house has announced airport ebola Screenings.!
+
+What you need to know about the deadly Ebola outbreak
+
+The facts -- about the Deadly Ebola outbreak
+
+Are you Really Safe -- from the Ebola Outbreak.??
+
+Can the Ebola Virus - be Cured.?
+
+Urgent Ebola Update
+
+BREAKING NEWS - Are you safe from Ebolavirus?
+
+Transmission – Signs – Symptoms
+
+RE: Ebola Survival Guide
+
+So Really, How Do You Get Ebola?
+
+Ebola virus outbreak: Curing Breakthrough Revealed?
+
+SHOCKING Health Alert: Secret Cure for Ebola?
+
+HEALTH NEWS: Secret Cure for Ebola?
+
+Is there ANY way to cure Ebola?
+
+First GMO foods, now Ebola. What Obama doesn't want you to know.
+
+Ebola, GMO, What they don't want you to know.
+
+SHOCKING Health Alert: Ebola is spreading
+
+EBOLA Outbreak - FEMA Storing 250,000 Plastic Coffins
+
+You won't believe what Obamacare & Ebola have in common.
+
+Ebola Outbreak Now WORSE Than We're Being Told
+
+Ebola & Obamacare - a match made in heaven.
+
+CDC ALERT: 1.4 Million EBOLA Victims by January?
+
+The #1 Food Items You'll Need In An EBOLA Crisis
+
+SHOCKING Health Alert: Secret Cure for Ebola/
+
+2nd HealthCare worker tests Positive
+
+RE: Ebola Survival Guide
+
+What you need to know about the deadly Ebola outbreak
+
+It's important to remember that emails themselves aren't harmful on their own, said Kevin Epstein, vice-president of information security & governance at Proofpoint. "The attachments and embedded URLs, if clicked, those are the things with malicious potential," he said.
+
+Don't Panic About Ebola Panic
+
+One good thing to focus on is that the scammers haven't really ramped up the Ebola-scam related campaigns. Perhaps they have a bit of a conscience? After polling several spam experts at Trustwave, Proofpoint, Sophos, AppRiver, Cloudmark, Trend Micro, and Kaspersky, it is clear that these campaigns are fairly low-volume. In fact, a quick search on about 700 messages pulled from PCMag's spam test bed showed no Ebola-related messages.
+
+Don't focus too much on the headlines, either. "Attackers rotate headlines, URLs, and attachments, and can make emails seem like they're coming from your friends, colleagues, or reliable news sources," Epstein said. If you are looking for information about Ebola, don't rely on random links posted on social media or showing up in your inbox. Look for the latest news from reputable news sites. Consult the Centers for Disease Control webiste or the website of your state's Health Department.

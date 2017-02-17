@@ -1,0 +1,15 @@
+Your email has been sent.
+
+An error has occured and your email has not been sent. Please try again .
+
+• Invalid email address.
+
+• You can't enter more than 20 emails.
+
+• Seperate multiple addresses with Commas.
+
+• Must enter an email address.
+
+• You must enter the verification code below to send.
+
+• Invalid entry: Please type the verification code again.

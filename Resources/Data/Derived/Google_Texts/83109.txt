@@ -1,0 +1,11 @@
+Atrios:
+
+Something I'm looking for and not finding is an estimate of the effective marginal tax rates on people in the exchanges who are eligible for subsidies. A problem with means-testing programs is that as you earn more income, your benefits go away, meaning that effectively you're paying a pretty high tax on each additional dollar earned. Your company giveth, and Uncle Sam taketh away.
+
+That got me curious. The subsidies are calculated so that you never have to pay more than a certain percentage of your income in health premiums. That percentage rises with income according to a formula, so it's pretty easy to figure out the subsidy at different income levels and then calculate the effective marginal tax rate caused by the fact that the subsidy level goes down.
+
+I used the Kaiser subsidy calculator to get the subsidy for a family of three at various income levels. (The exact subsidy level varies depending on family size, but this provides a pretty good estimate for an average family.) As you can see, as you gain more income, you get less subsidy, which produces an effective marginal tax rate of 12-16 percent at most income levels. When your income gets high enough, the subsidies are so low that there isn't much left to lose, so the effective marginal rate goes down. At 400 percent of the poverty level, the subsidies decline to zero.
+
+The moral of this story, of course, is that you should avoid means testing if you can, since it provides a negative incentive to earn more money. Unfortunately, means testing is often the only practical way of providing benefits to the poor, so we put up with it even though everyone agrees it's suboptimal. However, in the case of health care we could solve this problem easily by simply adopting a national health care plan that provided coverage for everyone at no charge. Since it's a flat benefit, it wouldn't distort work incentives. Taxes would have to go up to pay for this, of course, but those taxes would almost certainly produce less distortion at low income levels than Obamacare does.
+
+Someday we might have a sensible system like that. Someday.

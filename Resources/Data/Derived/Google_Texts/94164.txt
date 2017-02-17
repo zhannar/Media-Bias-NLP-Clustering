@@ -1,0 +1,17 @@
+Security worries are leading Creative Solutions in Health Care LLC to rethink its effort outfitting hundreds of doors, windows, washers, dryers and security cameras with software-controlled sensors. What started as an experiment by the nursing home provider last year to make everyday machines at its facilities more efficient, has turned into a lesson for CIO and CISO Shawn Wiora on new security challenges introduced by more connected devices.
+
+“The attack surface is gargantuan and a lot of these Internet of Things [approaches] don’t come with a robust enterprise-level security,” Mr. Wiora said. “It’s kind of making me a little nauseous just thinking about it.”
+
+Creative Solutions in Healthcare Creative Solutions in Healthcare CIO Shawn Wiora
+
+Mr. Wiora and his fellow CIOs may need to bulk order the Dramamine. Gartner predicts that the installed base of connected devices, will grow to 26 billion units in 2020, up from less than one billion in 2009.
+
+Part of the worry for Mr. Wiora concerns the software. Creative Solutions uses software built with Microsoft Windows programming interface, which routes commands to all of its connected doors and washing machines from a custom-built appliance in each facility. The breadth of the program across 70 facilities, coupled with the proliferation of Windows vulnerabilities, has Mr. Wiora thinking about improving his security architecture. Although he says Creative Solutions hasn’t been hacked — as far as he knows — the popularity of Microsoft software as a hacker Target and the company’s inexperience with sensor-automated machines has him mulling his options.
+
+Microsoft did not respond to a request for comment.
+
+While the sensors and software at Creative Solutions don’t touch patient data, Mr. Wiora is worried about third party threats. He thinks about how perpetrators infiltrated Target Corp. through a partner that provided heating and air conditioning systems. Creative Solutions uses a third-party app to analyze the data his connected systems generate.
+
+Mr. Wiora says his staff is creating an inventory map of all of the Internet-connected facility devices to make sure they are accounted for in the company’s security plans. Last month, he started meeting with threat analysts to plan a strategy for improving security around this network of IP-enabled devices.
+
+If he finds that the Microsoft software is too insecure for Creative Solutions’ requirements, he may swap out the current systems for other software platforms, such as Apple Inc.’s iOS. While there is a lot of robust debate about whether iOS is more secure than Windows, he says there are “far, far fewer reports of iOS hacks.” While he’s open to anything that reduces his company’s risk, he knows that there’s no proven software or strategy available yet. “There’s not a CIO out there who has got an umbrella strategy for Internet of Things,” Mr. Wiora said.

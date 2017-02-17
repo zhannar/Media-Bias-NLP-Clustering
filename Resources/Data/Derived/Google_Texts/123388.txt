@@ -1,0 +1,29 @@
+United States President Barack Obama is all but guaranteed to give the issue of internet security, significant airtime during Tuesday night’s State of the Union. However, a new report raises questions about the administration’s own websites.
+
+HealthCare.gov — the much maligned portal launched by the White House in late 2013 to give Americans an online marketplace for health insurance provided the president’s landmark health insurance legislation, the Affordable Care Act — is once again under attack.
+
+This time, it is not hackers who are causing problems for the administration. The results of an Associated Press investigation, first published by the news agency early on Tuesday, reveal that the official Obamacare website is ripe with problems that pose significant privacy concerns for visitors wanting to enroll in a health care program.
+
+According to AP’s investigation, dozens of third-party data companies are able to extract private information, including someone’s date of birth, income, area of residence and basic health statistics, whilst visiting the HealthCare.gov website.
+
+“It works like this: When you apply for coverage on HealthCare.gov, dozens of data companies may be able to tell that you are on the site,” Ricardo Alonso-Zaldivar and Jack Gillum wrote for AP. “The data firms have embedded connections on the government site. Ever-evolving technology allows for individual internet users to be tracked, building profiles that are a vital tool for advertisers.”
+
+“Third-party outfits that track website performance are a standard part of e-commerce. HealthCare.gov's privacy policy says in boldface that ‘no personally identifiable information is collected’ by these web measurement tools,” they added. “But in a recent visit to the site, AP found that certain personal details — including age, income and whether you smoke — were being passed along likely without your knowledge to advertising and web analytics sites.”
+
+Cooper Quintin, a staff technologist with the Electronic Frontier Foundation, told AP, "Third-party embedded websites are troubling because they can be used to track you and track your reading when you're browsing the web."
+
+"I think that this could erode ... confidentiality when dealing with medical data and medical information,” Quintin said.
+
+If a gov website leaks private data, the FTC, the main federal privacy regulator, has no authority, and no one will be punished. — Christopher Soghoian (@csoghoian) January 20, 2015
+
+The official Obamacare site came under heavy attack from critics in 2013 when it was finally launched following months of hype. HealthCare.gov has been accused of using pirated web scripts, exercising lax security practices and containing upwards of 200 bugs — after it was officially unveiled to the public more than a year ago.
+
+Despite spending a reported $630 million on the site in order to get it off the ground on October 1, 2013, the launch of the online healthcare exchange fell far short of the administration’s expectations. Now as the president prepares to weigh in on the future of the nation’s cybersecurity during his annual State of the Union address on Tuesday evening, the site is proving to be an obstacle once again.
+
+Ahead of Tuesday’s address, Obama has held speeches across the United States in which he’s hinted at how his administration would like to handle the nation’s cybersecurity, especially in the wake of the colossal computer network hack suffered by Sony Pictures Entertainment in November and the intrusions that impacted major American businesses, like Home Depot and Targets, months earlier.
+
+“This extraordinary interconnection” made possible by the internet “creates enormous opportunities,” Obama said earlier this month, “but also creates enormously vulnerabilities for us as a nation and for our economy and for individuals.”
+
+As part of a multi-pronged cyber revamp proposed by the White House this month, the Obama administration hopes to implement a rule that would establish a federally-sanctioned framework for how hacked websites go about reporting security breaches. According to the AP report, the Affordable Care Act website is putting personal data from Americans into the hands of dozens of third-party entities that could potentially be hacked and cause an even further headache for the administration as it wrestles with striking a balance between security and privacy.
+
+"As I look at vendors on a website...they could be another potential point of failure," corporate cybersecurity consultant Theresa Payton explained to AP. "Vendor management can often be the weakest link in your privacy and security chain."

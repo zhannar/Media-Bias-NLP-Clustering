@@ -1,0 +1,27 @@
+Scientists have developed a way to target the cells that block the immune system and aid in cancer proliferation.
+
+A group of myeloid cells that are able to strongly suppress the immune system and aid cancerous tumors have finally met their match in the form of a peptide that binds to and destroys them, without damaging the surrounding tissue.
+
+The research paper was published in Nature Medicine. In a press release, senior author Dr. Larry Kwak, director of the Center for Cancer Immunology Research at The University of Texas MD Anderson Cancer Center said, "We've known about these cells blocking immune response for a decade, but haven't been able to shut them down for lack of an identified target."
+
+These heterogenous myeloid cells, called myeloid-derived suppressor cells (MDSCs), start out as immature myeloid cells formed in the bone marrow, but instead of differentiating into normal immune cells they turn to MDSCs under chronic conditions like cancer. In mouse models, MDSCs have been found surrounding inflamed sites and tumors where they strongly inhibit T cell proliferation and activation, thus stopping immune responses and accelerating cancer progression and metastasis. But the mechanisms they use to block T cells is not fully understood due to lack of a targeting method, the researchers said.
+
+Having already developed anti-cancer therapeutic vaccines, which proved ineffective in destroying tumors due to the presence of MDSCs, Kwak said that “the key to taking cancer vaccines to another level is combining them with immunotherapies that target the tumor microenvironment."
+
+In their new study, Kwak and his colleagues have finally had success with newly developed peptide (short chains of amino acid monomers) antibodies. "This is the first demonstration of a molecule on these cells that allows us to make an antibody, in this case a peptide, to bind to them and get rid of them," Kwak said. "It's a brand new immunotherapy target."
+
+These anti-cancer cells flushed out MDSCs in the blood, spleen, and tumor cells of mice without binding to or affecting other white blood cells or dendritic cells involved in an immune response. "That's really exciting because it's so specific for MDSCs that we would expect few, if any, side effects," Kwak said. Their next goal is to make such a peptide target for treating humans.
+
+The experiment was conducted by applying a peptide phage library to MDSCs, which allowed the mass screening of peptide libraries to find those that bind to the surface of the MDSCs. Of the peptides that were found after expanding, enriching, and then sequencing of phages, only two, labeled G3 and H6, were selected and the others were eliminated because they tied to other types of cells besides MSDCs.
+
+“Peptibodies” were then created by sandwiching two peptides and a portion of mouse immune globulin. Both peptibodies bound to both types of MDSC — monocytic white blood cells, which engulf large foreign bodies or cell debris, and granulocytic white cells that have granules in their cytoplasm.
+
+The mouse model had two types of thymus tumors, and was treated with each peptibody, one of which was a control, while the other was an antibody against Gr-1. The G3 and H6 peptibodies depleted both types of MDSC in the blood and spleens of mice in both tumor models, while the Gr-1 antibody only worked against granulocytic MDSC.
+
+The two peptides also showed positive results on mice with lymphoma by wiping out the MDSCs in their blood and spleen and in both types of thymic tumor.
+
+A set of mice were also treated with the G3 and H6 peptides every other day for two weeks in order to check if inhibition of MSDC reduced cancerous tumors. They found that mice treated with peptides had tumors that were about half the size and weight of those in mice treated with controls or the Gr-1 antibody.
+
+The researchers are now trying to see if the peptibodies will show similar results in human MDSCs. Drugs targeting the immunosuppressive function of T regulatory cells and allowing tumor infiltrating cells to prolifer have been approved by the Food and Drug Administration.
+
+"Immune checkpoint blockade is great,” Kwak said in the release. “There have been dramatic response rates, but those drugs also have side effects. Targeting MDSCs could provide an additional way to unleash the immune system."

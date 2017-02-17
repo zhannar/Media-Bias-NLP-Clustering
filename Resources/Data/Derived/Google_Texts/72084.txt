@@ -1,0 +1,59 @@
+Dora Hughes
+
+December 9, 2014
+
+Update, December 12: As a technical matter, commenter Laurie Fenton Ambrose is correct that CMS did not officially propose coverage with evidence development (CED), and this post has been edited to reflect this fact. However, in my view, it would be misleading to describe CMS’ proposed decision as simply “coverage” given the requirements imposed for lung cancer screening with Low Dose Computed Tomography (LDCT). Stringent requirements include limits on eligibility to Medicare beneficiaries between 55-74 years of age with at least a 30 pack-year history of smoking; additional requirements extend to screening imaging facilities and providers. In addition, the outcomes data on these individuals must be submitted to a CMS-approved national registry. Such data will help to address concerns regarding gaps in evidence. However, as previously noted, such restrictions will lead to troubling disparities in access, particularly for low-income and minority populations, which could only be overcome with a full coverage decision.
+
+Original post: On November 11, the Centers for Medicare and Medicaid Services (CMS) released its Proposed Decision Memo for Screening Lung Cancer with Low Dose Computed Tomography (LDCT), which is expected to be finalized in mid-December. Despite a negative assessment by its own advisory committee, CMS has proposed coverage for an annual “lung cancer screening counseling and shared-decision-making visit” and, for appropriate beneficiaries, additional screening with LDCT.
+
+Through this proposed decision, CMS has followed the lead of numerous other expert and advisory groups, which have concluded that the overall benefits of such screening for at-risk individuals outweigh concerns regarding gaps in evidence, generalizability and potential harms.
+
+The proposed coverage decision is limited to individuals who are between 55-74 years of age and asymptomatic; have at least a 30 pack-year history of smoking; and currently smoke or have quit within the last 15 years. Such individuals must participate in a screening program with shared decision-making regarding LDCT screening benefits and harms, as well as smoking cessation counseling and services as appropriate. Finally, radiologists and imaging facilities must meet quality standards and collect and submit required data elements to a CMS-approved national registry for each LDCT lung cancer screening performed.
+
+Lung cancer is the leading cause of cancer related deaths. Smoking is the cause of 85 percent of cases of lung cancer, and the risk for lung cancer increases with age. Minorities are disproportionately affected; as one example, African American men are 37 percent more likely to develop lung cancer than white men, despite lower rates of smoking. Though lung cancer overall has a poor prognosis, early-stage non-small cell lung cancer, which represents the majority of lung cancer cases, can be treated with surgical resection.
+
+Path to Coverage
+
+The path to coverage for LDCT has been complicated by conflicting assessments of the value of screening with LDCT by two federally convened expert advisory panels. Specifically, the United States Preventive Services Task Force (USPSTF) upgraded its recommendation for screening for lung cancer with LDCT to a B grade, finding “high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial.”
+
+In contrast, CMS’ Medicare Evidence Development & Coverage Advisory Committee (MEDCAC) was highly critical in its assessment, which was reflected in its votes of low confidence in LDCT screening. Although USPSTF and MEDCAC came to different conclusions, the main areas of debate were similar for both, namely the strength of the evidence, potential benefit/harm ratio and generalizability.
+
+Strength of the Evidence
+
+USPSTF and MEDCAC reviewed findings from a number of trials, including four randomized control trials (RCTs). Only one RCT, the National Lung Screening Trial (NLST), showed benefit. Sponsored by the National Cancer Institute, the NLST enrolled about 53,000 individuals who underwent baseline and annual screening over a three-year period at 33 sites across the nation.
+
+The criteria for eligibility included persons aged 55 to 74 years with at least a 30 pack-year history, who were either current smokers or had quit within the last 15 years. Study investigators found a 20 percent reduction in deaths from lung cancer in the LDCT screening arm, which in absolute terms, translated to 247 fewer deaths per 100,000 person years.
+
+There is no disagreement within the research community that the NLST was a well conducted, high quality trial. However, at this point in time, it is the only trial of that caliber. Experts debated whether the results from one RCT generally, and specifically the results from the NSLT, should be enough to justify recommendations for LDCT screening.
+
+Potential Benefits vs. Potential Harms
+
+The benefit for LDCT screening is obvious—early stage lung cancer can often be treated successfully. However, the harms are no less obvious: invasive procedures such as bronchoscopy and surgical biopsies (and associated complications); overdiagnosis; and cumulative radiation exposure from annual screening LDCTs for up to 25 years. Given that 96 percent of positive scans will be false positives, these harms are not theoretical concerns.
+
+Steps have already been taken to minimize harms. As one example, the threshold size of nodules for a positive LDCT screen was increased from 4 to 6 millimeters. How to evaluate such nodules, however, remains an active question. Despite existing guidelines from the National Comprehensive Cancer Network and other experts groups, consensus has not been reached on nodule management protocols, which was evident by the notable lack of uniformity in nodule follow-up in the NLST.
+
+Experts expressed additional concerns about the potential for increased harms in patient populations that were not included in the NLST but could be expected to receive LDCT screening. Medicare beneficiaries over 74 years of age is one such population as well as individuals with multiple comorbidities. This issue leads to the third major area of debate, namely the generalizability of the NLST findings to real world settings.
+
+Generalizability Concerns
+
+Perhaps the biggest concern has been whether the NLST findings are readily generalizable to “real world” patients, providers and imaging facilities. With respect to patients, the NLST participants tended to be younger, healthier, and of higher socioeconomic status (which has implications for decision-making and adherence) as compared to the Medicare population.
+
+As such, the USPSTF relied upon modeling to extrapolate data from the trial participants to real world patient populations in order to develop its recommendations for screening. For example, USPSTF increased the appropriate age for screening up to 79 years of age although the NLST only included participants up to age 74. Modeling informed other decisions points as well, including the frequency and duration of such screenings and the pack year history of smoking.
+
+In contrast, in the proposed decision memo, CMS chose to align age eligibility for coverage with the age eligibility used in the NLST. However, complete alignment would not be possible given the magnitude of differences between trial participants and the more “typical” Medicare patient. The most significant worrisome differences are the additional health problems facing Medicare beneficiaries that could change the benefit/harm ratio of LDCT screening.
+
+A second issue regarding generalizability is the difference between the NLST and “real world” providers and screening sites. Specifically, the trials were conducted at largely academic sites with demonstrated expertise and experience in caring for patients with lung disease. Not all or even most of Medicare beneficiaries will have such access.
+
+Policymakers questioned if and how the ratio between benefit and harms would change once the screening, and especially the follow-up diagnostic and therapeutic interventions, occurs largely in community settings. As pointed out by several experts, high quality care certainly is not constrained to academic settings. Nonetheless, the quality of care offered in clinical trials is often superior, and was likely true for the NLST given the rates of complications for invasive procedures were half the national average.
+
+Moving Forward
+
+The difference in opinion between the USPSTF and MEDCAC had potentially far-reaching implications. The Affordable Care Act (ACA) mandates coverage without cost-sharing for all screening services with an A or B rating by the USPSTF. Ideally, and practically, lung cancer screening would be covered seamlessly for individuals who transition from private plans into Medicare.
+
+The path to coverage in this case challenges the presumption of alignment between USPSTF and CMS moving forward. If CMS had proposed a non-coverage decision, many Medicare beneficiaries may have had to forego such screening despite potentially increased risk. Even still, seniors over 74 years of age will still have to pay out of pocket for screening if CMS does not expand eligibility to older beneficiaries.
+
+CMS’ proposed coverage decision poses a number of hurdles for access to LDCT screening. The advocacy and provider community will have the difficult task of operationalizing the coverage requirements, from creating counseling and shared-decision making protocols, to identifying providers and facilities who meet the quality standards, to facilitating the appropriate collection and submission of data to a national registry.
+
+These data elements go beyond basic patient demographic information and screening results to include lung cancer incidence, lung cancer and all cause mortality, and death following invasive diagnostic procedures, which will require a meaningful partnership between providers and facilities.
+
+On a broader level, CMS’ action underscores the need for all stakeholder groups—patients, providers, researchers and industry—to prioritize the collection of real world evidence that can help to justify coverage decisions. Real world evidence for the Medicare population includes data on health outcomes and quality of life from medically complex patients in community settings. Such evidence, complemented by expert treatment guidelines and, for many payers, information on cost, is the ultimate path to full coverage.

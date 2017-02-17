@@ -1,0 +1,13 @@
+Health insurance payments are a huge target of fraud. Every year, payers dole out billions of dollars to fraudulent claims. But insurance companies are increasingly looking to fraud analytics technologies to reduce the problem.
+
+In the past, stopping fraud was a time-consuming and often fruitless process. Insurers simply paid all claims that seemed even remotely reasonable and then reviewed the details after the fact. If anything stood out as suspicious, investigators could dig deeper, a process known as pay-and-chase. But even if they found evidence of fraud, tracking down offenders and recovering payments so long after the fact was difficult.
+
+But payers are getting smarter. Rick Statchen, manager of informatics in the Special Investigation Unit at Aetna Inc., one of the country's largest insurers, said his team uses a combination of improved retrospective reviews and predictive models to identify fraud earlier in the payment process and with greater precision.
+
+Aetna uses a mix of commercially available and home-grown tools. In the area of retrospective analysis, it looks at links between referring physicians and specialists, as well as pharmacies, to detect anomalous activity that might be a sign of illegal collusion intended to drive up claims. It also monitors providers' claims over time to see if there are unusual spikes, which could indicate fraud or abusive coding of procedures.
+
+Analysts use this historical data to build patterns of what fraud looks like. They can then use the patterns to predict the likelihood of individual claims being fraudulent, which enables them to investigate and potentially stop payments before they are issued, a far more efficient and effective method than pay-and-chase.
+
+"It's challenging to pick out claims right before they're paid, but if you find a pattern, there is technology to stop things," Statchen said.
+
+Potentially big ROI from fraud analytics technology A recent report from advisory research firm Aite Group estimated that commercial health plans overpaid claims through fraud, waste and abuse by $356 billion in 2013. Of that number, only about $37 billion was identified as actual fraud. The rest was totally lost. While nobody wants fraud, sometimes it is considered a cost of doing business. Mike TrilliSenior analyst, Aite Group Mike Trilli, senior analyst with the firm and author of the report, said this represents a major opportunity for healthcare payers to improve efficiency. By implementing new analytics capabilities, they can stop the financial bleeding caused by fraud, waste and abuse and get back to their core missions. "While nobody wants fraud, sometimes it is considered a cost of doing business," Trilli said. "I think it's about health plans' priorities."

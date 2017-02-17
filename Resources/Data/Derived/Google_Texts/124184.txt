@@ -1,0 +1,65 @@
+This article is part of a series of articles this week examining the Affordable Care Act as the Supreme Court considers a challenge that could imperil the law. You can read the rest of the series here.
+
+Is that surgery really worth it? Do I really value that cancer screening? Is that extra imaging service necessary?
+
+These are the kinds of questions consumers ask themselves when their insurance plans require higher cost-sharing for medical services. This is a new reality in the US health care system as large employers offering coverage have moved aggressively toward less generous, high-deductible insurance offerings.
+
+This shift was accelerated by the “Cadillac Tax” provision contained in the Affordable Care Act (ACA), which, starting in 2018, places an excise tax on employers offering insurance plans that cover very high levels of medical spending. Further, many of the consumers enrolling in the public state exchanges created under the ACA have enrolled in lower- coverage financial plans that cover an average of 60% (bronze) or 70% (silver) of medical expenditures, similar to typical high-deductible coverage.
+
+Though these policies are in part motivated by the goverment’s need to reduce its share of total health care spending, they are also driven by the expectation that they will lead consumers to use higher-value, lower-cost medical services.
+
+In my recent research with Zarek Brot-Goldberg, Amitabh Chandra, and Jon Kolstad, we dug into the mechanisms for how and why consumers reduce medical spending when faced with higher cost-sharing.
+
+To do this, we studied the medical claims and medical spending of more than 150,000 employees and dependents from one large firm that moved everyone from an insurance plan that provided completely free health care to a high-deductible plan covering 78% of medical spending on average.
+
+During the switch, the in-network providers that consumers could access and the services covered remained the same. As a result, this switch presented an excellent opportunity to assess in detail how consumers respond to markedly increased cost-sharing.
+
+Primarily, we wanted to know whether employees would reduce their medical spending as a result of the change and, if so, by how much. Further, we hoped to learn where specifically they’d cut back. Would they spend less on nonessential services or reduce spending across the board? Would they try to find cheaper sources of health care? Do some employees cut more than others? Do employees correctly perceive the true marginal price of care in a complex insurance contract?
+
+Health care spending plunges
+
+We first established that increased cost-sharing does reduce medical spending at the firm. Age- and inflation-adjusted medical spending dropped by 19% – from a base of approximately US$750 million in spending – when employees switched to high-deductible coverage.
+
+Strikingly, many of the spending reductions come from the sickest employees. The sickest 25% (based on prior diagnoses each year) reduced spending by one-quarter after shifting coverage. This is especially notable, and somewhat surprising, since these employees earn relatively high incomes and their maximum out-of-pocket payment in high-deductible coverage for the calendar year was approximately $6,500 for a family.
+
+Brot-Goldberg, Chandra, Handel and Kolstad , Author provided
+
+How did consumers reduce spending? A detailed data analysis reveals that medical prices did not go down. Further, we show that consumers did not price-shop after the switch – that is, they did not move toward cheaper providers, for example, when they were going to undergo a specific procedure.
+
+It turns out that all spending reductions were directly linked to quantity reductions: consumers just consumed less medical care.
+
+Cuts across the board
+
+Importantly, it didn’t seem like consumers were particularly choosy about what kind of health care they cut: consumers appeared to reduce consumption across a range of medical services, from low to high value.
+
+For example, quantity reductions led to a 22% drop in spending on imaging services (such as MRIs or CT Scans), some of which are likely unnecessary. However, consumers also reduced how many preventive health services they used – which policymakers typically believe are underutilized – by 16%.
+
+The cuts were across the board. Spending on mental health care fell 8%, inpatient and outpatient hospital services declined 14% and 17%, respectively, drug purchases dropped 20%, and emergency room services plunged 27%. Of the top 30 medical procedures (by revenue) that we investigated, we found that consumers reduced spending for 23 of them.
+
+Simply put, consumers did not look for cheaper services but consumed less medical care, and did so across almost the entire range of medical services.
+
+Brot-Goldberg, Chandra, Handel and Kolstad , Author provided
+
+Insurance price misperceptions
+
+One possible reason for why these sick, relatively high-income consumers reduced potentially valuable medical spending is that they perceived the marginal price of their medical care to be higher than it actually is.
+
+Take the example of a consumer who knows he/she is quite sick entering the year and expects to spend a lot on health care. That consumer should not worry about the deductible and cost-sharing when making medical decisions early in the year because he/she knows that by the following January, all medical care used after passing the plan’s out-of-pocket limit will be free. Thus, the true marginal price of health care for this predictably sick consumer is close to $0, no matter how high the deductible is, so care consumed early in the year is essentially free as well.
+
+But we found that these consumers substantially reduced spending early in the year when under the deductible, but once they passed it spent more. In other words, many consumers whose true marginal price for care throughout the year is essentially zero because of their impending high spending don’t treat incremental care as free when under the deductible. Instead, they respond as if the price of care under the deductible is the relevant price, despite the fact that they will spend that money during the year regardless.
+
+This suggests that they misperceive their own health risks, misperceive how much medical care costs or don’t understand how the high-deductible insurance contract actually works. Similar consumer price misperceptions are also documented in Medicare Part D, electricity markets and broadband markets.
+
+Brot-Goldberg, Chandra, Handel and Kolstad , Author provided
+
+What this means for reform efforts
+
+Giving consumers direct incentives to think about their health care spending is a cornerstone of health reform in the US and plays a large role in several national health systems around the world, such as in France.
+
+An important prerequisite for these reforms to be successful is that consumers, who may or may not be making medical decisions in conjunction with physicians, understand the costs and benefits of different health care services. Our evidence suggests that consumers don’t seem to be responding to increased cost-sharing with nuanced expertise and instead reduce consumption across the range of medical services, some valuable and some likely wasteful.
+
+Additionally, they reduce care heavily when sick and under the deductible, even when their true marginal price of care is very low.
+
+Thus, while increased consumer cost-sharing can be an effective instrument for reducing health care spending, it may be a blunt instrument for encouraging higher value medical spending, especially relative to supply-side interventions that target physician incentives or interventions that reduce the use of high-cost low-value medical technologies.
+
+As health reform pushes forward, policymakers will need to recognize the limits of consumer cost-sharing policies and focus more on how to appropriately incentivize providers to deliver high-value, low-cost care.

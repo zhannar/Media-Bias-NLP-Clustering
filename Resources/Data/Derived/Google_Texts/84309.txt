@@ -1,0 +1,23 @@
+The U.S. government’s widespread data surveillance practices are likely to cost U.S. cloud computing and other technology companies more money than originally expected, a technology industry-funded think tank reported Tuesday.
+
+Two years ago, the Information Technology and Innovation Foundation estimated that the revelations of widespread government surveillance by former defense contractor Edward Snowden could cost as much as $35 billion in lost sales and other expenses by 2016, as companies and governments opted not to buy IT products from U.S. companies.
+
+A bust of the former National Security Agency contractor Edward Snowden which was snuck overnight into Brooklyn’s Fort Greene Park Aymann Ismail/ANIMALNewYork/Associated Press
+
+Now the ITIF, a nonprofit organization funded by Intel, Microsoft and others, says the figure “will likely far exceed” that amount as U.S. companies are forced to build new data centers in local jurisdictions to comply with international data sovereignty laws.
+
+“We’ve opened floodgates to huge loss because we haven’t changed anything about U.S. surveillance policy,” said Daniel Castro, vice president of ITIF.
+
+Mr. Snowden’s revelations have led to a marketing bonanza for European software and service providers looking to compete with hard-charging U.S. rivals, such as Amazon.com and Microsoft Corp. Nearly two years ago, Oliver Dehning, the chief executive of security software maker antispameuropeGmbH called the National Security Agency spying revelations a “present from heaven,” adding that it’s “an opportunity to strike back and protect our home market.”
+
+“Data protection has always been a sensitive topic, but it is even more so following Edward Snowden’s monitoring revelations,” said Steve Phillips, CIO of Avnet, an electronics distributor with $28 billion in revenue last year. Avnet hasn’t had to move data to comply with local regulations but Mr. Phillips is watching debate in Europe about whether to require companies to store European data there. Approximately 30% of Avnet’s sales are from Europe. “We’re monitoring that dialog closely,” he said.
+
+The issue is likely to influence the 2016 presidential race as candidates seeking donations face questions from U.S. executives about surveillance and trade policy, Mr. Castro said. Already for U.S. companies, cloud computing build-outs have become “more decentralized,” than they otherwise would have been, adding to operations costs. Amazon, for example, is building new facilities in Frankfurt and Microsoft is building new facilities in Vienna, said Jon Atkin a managing director with RBC Capital Markets, LLC.
+
+Michael Overly, a partner with the law firm Foley & Lardner LLP, said he has represented cloud providers that have been required to establish a presence in other countries because of concerns about spying. “As the Snowden documents have shown, the U.S. government has a long arm when it comes to data monitoring and collection,” Mr. Overly said.
+
+Consumer electronics maker Belkin International Inc. recently worked with Salesforce.com Inc. to move Belkin’s customer data from servers in various locales to Russia, to comply with a new Russian law that requires that data about its citizens be stored locally.
+
+Last month, cloud vendor Rackspace lowered revenue expectations for its current quarter, in part because a major African customer was relocating its data from Rackspace’s U.K. data centers due to data sovereignty laws.
+
+Microsoft and Amazon couldn’t immediately be reached for comment on this story.

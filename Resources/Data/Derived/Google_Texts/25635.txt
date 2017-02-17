@@ -1,0 +1,41 @@
+The stumbling rollout of the federally run online health exchange has frustrated tens of thousands of Americans and sent some looking for alternative sources of information on where they can buy health insurance, and what it will cost them, under the Affordable Care Act.
+
+It took three programmers in their twenties a few days last month to offer up an answer. They repackaged data from HealthCare.gov into a minimalist website, HealthSherpa, that tells consumers what plans are available in their area, based on their ZIP code, plan preference and some basic personal information.
+
+The founders — Michael Wasser, George Kalogeropoulos and Ning Liang — had each struggled to get information about health care options in the online marketplaces created by the Affordable Care Act. So they decided to build their own site, intending to offer consumers a simple way to obtain information many had been unable to obtain from federal and some state-run exchanges in their early days.
+
+“Well, this is a cool thing we can get done in two days,” said Mr. Wasser, describing the conversation the founders had before they began. “Let’s see what we can do.”
+
+Using data posted on HealthCare.gov, as well as some they requested from state exchanges, the trio programmed a site that allows users to see a list of available plans in their area, which can be sorted according to the level of coverage — catastrophic through platinum — the consumer wants. They have not yet obtained data for all of the state exchanges.
+
+Users submit their ages, the size of their family, and whether or not they smoke to get an adjusted price. The website also has a subsidy calculator. While the site offers instructions on how to sign up for a desired plan, it does not allow users to do so on the site; nor can it authenticate users or verify their incomes, as healthcare.gov is intended to do.
+
+
+
+“There’s one little niche of finding plan data,” Mr. Wasser said. He added that the site was by no means intended to replace the federal website. “The whole HealthCare.gov website does many other things.”
+
+Mr. Wasser, of Seattle, said the website was not making money. His partners live in San Francisco.
+
+The website carries a disclaimer that its results are provided for research purposes only, and that users should verify information with the exchanges or the insurers they are looking at. The creators have acknowledged on social media that there are some issues with the accuracy of the data available on HealthCare.gov. Mr. Wasser said the group had placed requests for more data from HealthCare.gov.
+
+Nevertheless, Mr. Wasser said, the site has amassed more than 1.4 million page views. “How to buy” buttons posted next to each plan, which take users to instructions, have been clicked 152,000 times.
+
+Evidently, Angus King, an independent senator from Maine — a state that did not elect to create its own health exchange — finds the site useful; on Tuesday, he urged his constituents to use it while HealthCare.gov works out its kinks.
+
+“HealthSherpa offers a user-friendly platform to quickly browse through available health insurance plan options, including monthly premium costs, coverage plans, and possible premium subsidies,” Mr. King said in a statement on his website. “I recommend that Mainers who are having trouble with HealthCare.gov use HealthSherpa as a temporary alternative until the federal website functions properly.”
+
+Shelley A. Francis, an independent health care consultant from Atlanta, turned to HealthSherpa after a protracted wrestling match with the federal site. It had taken three weeks just to create an account on healthcare.gov, she said, adding that navigating the plans once she could see them was “cumbersome.”
+
+“It was a nightmare. I don’t have time,” said Ms. Francis, who used HealthSherpa to narrow her options down to a few providers, which she plans to call in the next few weeks.
+
+“When you want something done around I.T., get the millennials to do it,” Ms. Francis added.
+
+Another site, insureks.org, offers plans and prices to Kansas residents. And there are other tools, like the Kaiser Family Foundation’s subsidy calculator, that offer information on what families can expect to pay for coverage, but do not offer specific plans.
+
+Sarah J. Dash, a research fellow at the Center on Health Insurance Reforms at Georgetown University, cautioned that the alternative sites could cause some confusion for consumers, because they do not present information in the same way as the federal site or facilitate signing up for specific plans, as the federal site does. Users are given a number to call and a plan to request, or they are advised to click a link that takes them to an insurer’s website.
+
+“There’s no mechanism for directly enrolling in the exchange with that insurer,” said Ms. Dash, who said it could be possible for consumers to accidentally enroll in plans that are not on the exchange, or miss out on tax credits for which they might be eligible.
+
+Ms. Dash also warned that there were some alternative sites that appeared to be actively preying on consumers, by pointing consumers to plans that are not part of the federal insurance marketplace (she did not characterize HealthSherpa as one of these sites).
+
+“There are a bunch of websites, look-alike websites — sometimes they’re just kind of linking you to a plan that might be on the nonexchange market,” Ms. Dash said. “Someone might sign up for a plan that’s not on the exchange inadvertently.”

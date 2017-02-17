@@ -1,0 +1,39 @@
+How Electronic Health Records Can Improve Outcomes
+
+EHRs must do much more than simply replace paper charts. By enhancing them with personal health record features, we can create a new tool that deepens patient engagement.
+
+Electronic health record (EHR) systems don't yet satisfy most of the people they're meant to benefit. In fact, all too often they annoy and antagonize many users, including both healthcare professionals and patients.
+
+But recent innovations in cloud computing and big data could soon make investing in EHRs worthwhile and deliver real benefits for clinicians and patients.
+
+Records systems: The who and the what
+
+First let's clarify what we mean by electronic records. The US government draws a distinction among three major types: electronic medical records (EMRs), electronic health records (EHRs), and personal health records (PHRs).
+
+EMRs are electronic versions of classic paper charts and are meant to be used by clinicians for diagnostic purposes. EHRs have a broader mission: They are intended to follow patients throughout their journey, allowing all clinicians involved in their care to access their information. PHRs contain the same information as EHRs but are managed by patients themselves, and, critically (pun intended), they can include information from sources other than clinicians, such as patients themselves, home monitoring devices, and wearables.
+
+As recently as 2008, fewer than 10% of hospitals had even a basic electronic record system in use. As of 2013, 58.6% of hospitals had EMRs in place, but only 3.1% of hospitals meet stage 2 meaningful use criteria (Cerner HIT Trends, August 2014).
+
+Additionally, although patients are legally entitled to access their own records whenever they want, only 10% of EHR systems currently allow them to do so without going through a clinician. While EHR systems in place may meet the Affordable Care Act's first-level criteria for meaningful use, they are often far from being the readily accessible and easily transferable systems they should be.
+
+[IT-enhanced care coordination might not always save costs, but it does save lives. Read IT-Enhanced Care Coordination Really Works.]
+
+How can IT innovation alleviate these systemic issues?
+
+Addressing the challenges involved in EHR systems will take time, money, and effort. However, looking ahead and investing in a federated cloud architecture -- solutions that deliver results by combining the capabilities of multiple external and internal cloud services -- for electronic health systems will give patient data greater accessibility and a greater degree of mobility while maintaining privacy and security.
+
+I also believe that PHRs in particular need to be taken a step further. Although early devices have drawbacks, we are seeing rapid innovation in and adoption of wearables. Apple, Google, and Samsung all announced platforms this year, and Apple just released its Apple Watch to favorable reception. Patients should be able to sync data from apps and devices that track fitness and biometrics with their PHRs and securely access that data on any mobile device.
+
+Improving technology
+
+Independent healthcare providers such as social service workers, speech pathologists, and behavioral professionals frequently use small-scale, HIPAA-compliant cloud services to organize records. These services include some of the usual suspects, such as Google Drive and Amazon AWS,
+
+Michael A.M. Davies is founder and chairman of Endeavour Partners, a strategy consulting firm specializing in mobile and digital technology. For 25 years, he has worked with telcos, device manufacturers, service providers, infrastructure ... View Full Bio
+
+1 of 2
+
+Comment |
+
+Email This |
+
+Print |

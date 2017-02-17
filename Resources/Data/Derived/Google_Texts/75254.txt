@@ -1,0 +1,47 @@
+A business cycle consists of an economic expansion and a recession. A recession is a period between a peak and a trough in economic activity, and an expansion is a period between a trough and a peak. During a recession, a significant decline in economic activity spreads across the economy and can last from a few months to a year or more. Similarly, during an expansion, economic activity rises substantially, spreads across the economy, and typically lasts for several years. For information on why business cycles occur, see the classic “Cause and Control of the Business Cycle” by Col. E.C. Harwood, AIER’s founder (https://www.aier.org/research/cause-and-control-business-cycle).
+
+Originally developed more than 50 years ago, our Business-Cycle Conditions model has amassed an enviable track record of identifying turning points in the business cycle. Over the many decades that our model has been in use, we periodically review how well it is working and, when necessary, update it. Last year we began such a review.
+
+Among the many forces that can lead to changes in an economy are improved technologies, demographic or political shifts, policy changes, new regulations, trade pacts, and cultural preferences. It’s not hard to recall a wide range of major changes in all those areas over the course of the past few business cycles.
+
+Goal: Continue to pinpoint turning points
+
+As we began to review our business-cycle conditions model, we carefully studied the history of business-cycle research, both inside and outside of AIER. That review and a check on the track record of our model led us to our first realization and goal. The work done here at AIER was admirable and sound, so our first goal was to retain the broad structure and spirit of the model. Specifically, the goal of our model would continue to be identifying turning points in the economy. We would maintain the overall structure and the commitment to data and scientific analysis.
+
+Second, we would employ the latest quantitative techniques, but we also would continue the tradition and practice of engaging AIER economists in a qualitative capacity, thereby preserving the “human element” of data analysis.
+
+Third, we would continue to use a diffusion index methodology for the final model. A diffusion index measures breadth and is sensitive to the number of indicators that are rising, falling, and remaining stable. The model is not intended to estimate growth rates or to produce a specific numerical forecast. Rather, it anticipates whether a turning point is near.
+
+Fourth, we would seek to ensure that the individual indicators used in the final model would be broadly diversified and representative of as many different aspects of the economy as prudently possible.
+
+Finally, of course, we would seek to improve the accuracy of the overall model in anticipating both peaks and troughs in economic activity.
+
+How the new model stacks up
+
+In the past, when the Leaders’ diffusion index fell below 50, AIER would interpret that as a signal of broadening weakness in the economy. However, it was not automatically assumed that a turning point had been reached and that a recession was imminent. Rather, we interpreted it as a warning that we might be entering “choppy waters,” and we would observe all the signals available to us. The final determination of a turning point and impending recession was still a human judgment. The same will be true in the new model. That subjective judgment makes it impossible to do a retrospective analysis using the new model to say exactly when a recession “call” would have been made in the past. We can, however, compare the new, purely quantitative model with the old model to get an indication of how things might have been different using the previous method (Chart 1).
+
+Click here to receive email notifications when the latest Business Conditions Monthly is available.
+
+What we changed in the model and why
+
+In broad terms, we reviewed and enhanced three areas. First, the individual economic indicators used in the model: There are 24 indicators in total – 12 Leaders (indicators that peak and trough ahead of a turning point in the broader economy), six Coinciders (indicators that peak and trough at roughly the same time as the broader economy), and six Laggers (indicators that peak and trough after a turning point in the broader economy). After statistically testing the individual indicators for efficacy, we determined that five Leaders, one Coincider, and two Laggers were no longer effective. We replaced eight, or one-third of the 24 indicators in the model (Table 1). For example, we dropped from the Leaders the Index of Manufacturers’ Prices and we added retail sales. This reflects changes in the structure of the U.S. economy, where the manufacturing sector has declined in importance and the retail sector has grown. This example underscores the need to review the model periodically to reflect changes in the economy.
+
+In selecting new indicators, AIER reviewed the most popular and well-known business-cycle theories, such as Endogenous Business-Cycle Theory, the Real Business-Cycle Theory, and Keynesian Theory, as well our own historical work in business-cycle theory. Studying those business-cycle theories and past recessions, we looked at 12 economic categories for potential business-cycle indicators: (1) consumer spending, (2) housing, (3) business investment, (4) international trade, (5) government spending and fiscal policy, (6) monetary policy, money, banking, and credit, (7) prices and inflation, (8) capital markets, (9) the business sector – corporations and small businesses, (10) labor, wages, hours, demographics, and immigration, (11) manufacturing and trade (including production, utilization, sales, orders, and inventories), and (12) consumer and business sentiment.
+
+Next, we conducted statistical testing to quantitatively verify how well each measure performed. Our tests covered two time periods: 1950 – 2014 and 1983 – 2014. The primary reason for using two periods was to balance the benefit of the larger number of cycles in the longer period with the empirical reality that business-cycle behavior appears to have changed in recent decades (See our Research Brief, “The Changing Nature of Recessions,” (https://www.aier.org/research/changing-nature-recessions-0).
+
+In addition to the statistical testing, the chosen series had to have timely, complete, and statistically adequate data from a reliable source. We evaluated the series according to both its behavior and the relevance and validity of the underlying macroeconomic theory.
+
+Interpreting the model results
+
+The next significant change in the model is the role of AIER economists in producing and interpreting it. In the previous process, AIER researchers reviewed each indicator and qualitatively evaluated the trend. In this evaluation each researcher asked if the most recent data point represented a continuation of a trend or a turning point. The qualitative assessments of each researcher were then combined in the final index. Because it was qualitative, each researcher might judge the difference in month-to-month changes differently. “Noise” in the economy makes such an assessment more difficult than a straightforward mathematical evaluation of whether the December number is larger or smaller than the November number.
+
+In the new process, trends are assessed quantitatively and their meaning is then interpreted. Our testing has shown that in general, the quantitative assessment in the new model tends to be somewhat conservative in identifying a signal. We will apply our qualitative assessment to the meaning of data, not to whether the month-to-month difference is due to noise or economic conditions. This is an important change. By moving qualitative assessment outside of the model, we believe the results will be more scientific. This will make the analysis of AIER research economists critical to fully understanding the implications of the model results.
+
+A new calculation
+
+Finally, we have slightly altered the diffusion index calculation to conform with a more conventional and widely used methodology. The primary difference in the methodology is that in the prior calculation, indicators that were evaluated as stable (not trending upward or downward) were excluded from the index. In the new calculation, stable indicators are included in the calculation of the final index.
+
+The new model will uphold our standards
+
+Darwin studied the principles of evolution in the Galapagos Islands. Just as living creatures adapt to the changing environment, so, too, must economists, economic theory, and economic models. AIER remains committed to the scientific approach to analysis and to the long history of business-cycle research at the institute. This update to our Business-Cycle Conditions model remains true to both. We are confident these enhancements will live up to the high standards and record of success of the former model.

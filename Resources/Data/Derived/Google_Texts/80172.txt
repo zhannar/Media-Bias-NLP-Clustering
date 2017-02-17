@@ -1,0 +1,21 @@
+This low-cost otoscope, which can be connected to a smartphone, is able to diagnose ear infections with high accuracy.
+
+This low-cost otoscope, which can be connected to a smartphone, is able to diagnose ear infections with high accuracy. CLAUDE LAURENT/Umea University
+
+A new smartphone attachment developed by researchers from Umea University in Sweden and the University of Pretoria in South Africa can be used to diagnose ear infections, a condition that affects five out of 6 children by the time they are 3-years-old.
+
+This device, a custom-made digital otoscope, connects to a smartphone and uses a software-based method to automatically analyze the images taken from the otoscope, researchers wrote in the journal EBioMedicine. This image-processing technique is supposed to simplify and accelerate the diagnosis of ear infections. Currently, ear infections are diagnosed using a pneumatic otoscope, a specialized tool that enables a doctor to look in the ear and judge how much fluid may be behind the eardrum.
+
+Although complications of ear infections are rare, they can lead to a ruptured eardrum, hearing loss, and can even cause meningitis, an infection of the tissues surrounding the brain and spinal cord. It doesn’t help that ear infections are often misdiagnosed and treated incorrectly, which may lead to serious harm. What’s more, access to ear specialists are severely limited in medically underserved areas, including developing countries.
+
+"Because of lack of health personnel in many developing countries, ear infections are often misdiagnosed or not diagnosed at all. This may lead to hearing impairments, and even to life-threatening complications," Claude Laurent, researcher at the Department of Clinical Sciences at Umeå University and co-author of the article, said in a statement. "Using this method, health personnel can diagnose middle ear infections with the same accuracy as general practitioners and paediatricians. Since the system is cloud-based, meaning that the images can be uploaded and automatically analysed, it provides rapid access to accurate and low-cost diagnoses in developing countries."
+
+The technique uses a cloud-based system for remote image uploading to analyze pictures of the eardrum taken using an otoscope. Researchers compared images of eardrums taken with a digital otoscope to high-resolution images in an archive that were taken with a commercial otoscope. They then automatically diagnosed and categorized all the images using a criteria based on “predefined visual features associated with five diagnostic groups,” researchers wrote.
+
+Researchers found that the automatically generated diagnoses of images taken with a video-otoscope had an 80.6 percent accuracy while the analysis of images captured on-site with a low-cost, digital otoscope had an accuracy of 78.7 percent. This accuracy rate is impressive when compared to the 64 to 80 percent accuracy of general practitioners and pediatricians using traditional otoscopes for diagnosis, the researchers noted.
+
+"This method has great potential to ensure accurate diagnoses of ear infections in countries where such opportunities are not available at present. Since the method is both easy and cheap to use, it enables rapid and reliable diagnoses of a very common childhood illness," Claude Laurent said.
+
+Because of its high accuracy, researchers believe this software-based method of diagnosing ear infections holds promise for the future in making automated diagnoses in medically underserved populations. These automated computer based image-analyzing system could provide rapid access to accurate diagnoses in developing countries.
+
+Source: Myburgh H, Zijl W, Swanepoel D, Hellstrom S, Laurent C. Otitis Media Diagnosis for Developing Countries Using Tympanic Membrane Image-Analysis. EbioMedicine . 2016.

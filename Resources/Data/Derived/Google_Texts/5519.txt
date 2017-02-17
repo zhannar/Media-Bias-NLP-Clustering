@@ -1,0 +1,35 @@
+As ICD-10 approaches, healthcare providers are worried that lapses in coder productivity could cost them money, according to an Advisory Board Company report published Tuesday.
+
+Providers refer to a 50 percent initial drop in productivity when Canada moved to ICD-10 in 2003, said the Advisory Board, citing a study done by Humber River Regional Hospital in Ontario.
+
+There are a number of differences between the two countries, The Advisory Board said: Canada has a single-payer system; it switched from paper to electronic coding at the same time; it implemented ICD-10 only in the hospital setting; and its coding system expanded from 3,500 to 20,000 codes, compared to 55,000 codes being added in the United States.
+
+Whether providers here can expect a 50 percent productivity drop, or if what happened in Canada has no bearing, the fact remains that come Oct. 1, U.S. coders will need to know more codes and be more specific than the day before.
+
+[Also: Top ICD-10 stories you don't want to miss]
+
+Unfortunately, in a study it released earlier this summer, the Advisory Board found greater specificity can lead to payment reductions.
+
+Much of this has to do with pinpointing the severity of an illness or injury under ICD-10, said authors Natalie McGarry and Eric Fontana.
+
+While the primary diagnosis code determines the MS-DRG group that a case will fall into, the severity determination is driven by the mix of secondary diagnosis codes marked as CC for complication or comorbidity, or MCC, for major complication or comorbidity.
+
+[Also: ICD-10 checklist: AHA releases step-by-step preparation guide]
+
+There is a substantial reduction in payment associated with an MCC downgrade to a CC. Diagnoses likely to cause a drop from MCC status include hepatic encephalopathy, sepsis and acute respiratory failure, according to The Advisory Board.
+
+In one example of how greater detail can drive a change in payment, in a patient coded for hepatic encephalopathy, only the presence of a coma will uphold MCC status for the ICD-10 code.
+
+The ICD-9 code for hepatic encephalopathy includes no detail about coma status.
+
+The difference in reimbursement is $2,800, according to the authors.
+
+Like Healthcare Finance on Facebook
+
+Some downgrades are due to the Centers for Medicare and Medicaid reevaluating severity levels. For example, an ICD-9 diagnosis code 4010, malignant hypertension, no longer confers MCC status and has been downgraded to the lower CC severity tier, which is reimbursed at a lower amount.
+
+For example, extracranial procedures with CC under ICD-9 reimbursed at $9,270. But under ICD-10, according to the authors, it has been downgraded to extracranial procedures without CC/MCC, and reimburses at $6,320.
+
+"This example highlights the vulnerability of cases where a single secondary code is the sole reason for an MCC or CC status," the authors said. "Comprehensive documentation can provide a coder with additional details that may support coding for MCC status where appropriate."
+
+Twitter: @SusanMorseHFN

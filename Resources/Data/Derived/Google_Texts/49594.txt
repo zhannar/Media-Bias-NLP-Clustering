@@ -1,0 +1,57 @@
+Timothy Jost
+
+September 12, 2015
+
+For the second time in less than a week, a federal district court in the District of Columbia has rejected the administration’s position in a lawsuit involving the Affordable Care Act. Central United Life v. Burwell, decided by Judge Royce Lamberth on September 11, 2015, is a far less momentous case than House v. Burwell, but it is by no means insignificant.
+
+The Issues
+
+Central United Life involves the legality of a regulation that the administration issued in 2014 governing “hospital indemnity of other fixed indemnity insurance.” Fixed indemnity insurance is an “excepted benefit.” Excepted benefits were recognized by the Health Insurance Portability and Accountability Act of 1996, commonly known as HIPAA.
+
+HIPAA was an early attempt by Congress to regulate health insurance; it limited, for example, health status underwriting within groups and preexisting condition requirements. Congress intended these reforms to apply to only major medical coverage, however, and excepted from them certain limited forms of coverage that are not major medical coverage.
+
+These excepted benefits included some insurance products that are clearly not major medical, such as dental, vision, and long-term care benefits. They also included some products that are not so clearly distinguishable, including fixed dollar indemnity insurance. The statute provides that fixed dollar indemnity policies are excepted benefits if they are offered as “independent, noncoordinated benefits,” but does not define them further.
+
+Defining this coverage more clearly became much more important, however, when the ACA was passed. The ACA imposes much more comprehensive and stringent requirements and limitations on health insurance than did HIPAA, prohibiting (for example) annual and lifetime dollar limits on coverage, capping out-of-pocket limits, and requiring individual and small-group policies to cover ten essential health benefits. Excepted benefit coverage is free from these limits; indeed it is not subject to any of the ACA’s health insurance requirements or prohibitions. If a health insurer could simply label a product as fixed indemnity coverage and thereby escape all ACA requirements, the insurance reforms could be eviscerated.
+
+Moreover, the ACA explicitly provides that excepted benefits are not minimum essential coverage. If a large employer offers only fixed indemnity coverage to its full-time employees, it has not complied with the employer mandate because it has not offered minimum essential coverage to its full-time employees. If an individual has only fixed indemnity coverage, he or she has not complied with the individual mandate and will have to pay the individual mandate tax, in addition to paying premiums.
+
+It is important, therefore, that employers and individuals clearly understand whether a product is fixed indemnity coverage or ACA-compliant health insurance before they purchase it.
+
+Pre-ACA regulations had provided that fixed indemnity coverage had to pay benefits on a per-period basis, for example, $100 per day of hospitalization. In a guidance released late in 2013, CMS took the position that this was a necessary characteristic of fixed indemnity insurance. Many indemnity policies, however, were being written on a per-service rather than a per-period basis. In the regulations promulgated later in 2014, therefore, CMS permitted the continued marketing of per-service indemnity policies but only if certain requirements were met. Specifically:
+
+Fixed indemnity insurance could only be sold to individuals who otherwise had minimum essential coverage.
+
+Benefits under the indemnity policy could not be coordinated with benefits under other health coverage or cover exclusions under other coverage.
+
+Benefits had to be paid on a fixed dollar basis regardless of actual expenses incurred or covered by other coverage.
+
+The consumer had to be provided with a prominent 14-point notice informing him or her that the coverage was not a substitute for major medical coverage and could result in imposition of the individual responsibility tax.
+
+The Court’s Decision
+
+Central United Life, a company that sells indemnity plans, sued, challenging the provision of the rule prohibiting the sale of fixed indemnity insurance to individuals who lacked minimum essential coverage. Both parties moved for summary judgment. Judge Lamberth disposed of various jurisdictional objections raised by the administration, and then ruled for the plaintiffs on the merits.
+
+Judge Lamberth acknowledged that the meaning of fixed indemnity coverage is far from clear. But, he held, whatever it means, it has nothing to do with minimum essential coverage, which he saw as a “wholly foreign concept.” There was no relationship, he held, between HHS’ interpretation of the term fixed indemnity coverage and the text of the law governing fixed indemnity coverage, and thus the HHS interpretation was legally impermissible.
+
+The judge further rejected the agency’s argument that the minimum essential coverage requirement was based on the requirement that fixed indemnity coverage be independent and noncoordinated, concluding that this requirement limited the insurer from selling coordinated coverage but did not limit the buyer from purchasing indemnity coverage alone.
+
+Judge Lamberth concluded by enjoining the enforcement of the rule, rejecting an argument by the administration that doing so would violate public policy. He contended that the HHS rule was not supported by the law and thus was not justified as good public policy.
+
+A Misunderstanding In The Court’s Analysis
+
+Judge Lamberth’s decision misses an important point. He seems to believe that excepted benefits are a HIPAA concept, unrelated to the ACA. But excepted benefits are a concept found in the Public Health Services Act, which was amended by HIPAA but more recently extensively amended again by the ACA. Excepted benefits are an ACA concept.
+
+In the ACA, Congress explicitly provided that excepted benefits, including fixed indemnity coverage, do not constitute minimum essential coverage. Under the ACA, therefore, the concept of minimum essential coverage is inextricably linked to the definition of fixed indemnity coverage. It was not only permissible but necessary for HHS to define their relationship. And since fixed indemnity coverage is not minimum essential coverage, but rather supplements minimum essential coverage; and since the individual responsibility requirement imposes an obligation to have minimum essential coverage or pay a tax, it is not unreasonable that HHS would require individuals who purchase fixed indemnity coverage to have minimum essential coverage also.
+
+What Comes Next
+
+Judge Lamberth’s injunction would appear to only apply to the requirement that a purchaser of a fixed indemnity policy also have minimum essential coverage, and not to, for example, the requirement that fixed indemnity coverage be sold with a warning that it is not minimum essential coverage. The judge also understood the plaintiff as claiming that it would comply with the earlier rule, which only permitted the sale of per-period rather than per-service coverage; thus, his decision would not protect per-service coverage. Finally, the decision will undoubtedly be appealed.
+
+However, Congress decided in adopting the ACA that insurance in the nongroup market should meet minimum requirements. It also decided that fixed indemnity coverage does not meet those requirements. If Judge Lamberth’s decision results in insurers being able to market fixed indemnity policies in the individual market without the restrictions imposed by the administration’s rule, many consumers are likely to become disappointed. They will first be disappointed when they become ill or injured and discover that the cheap policies they bought do not begin to cover their expenses. They will be disappointed again when they realize that they have to pay the individual responsibility tax despite the fact that they thought that they had purchased insurance.
+
+Fixed indemnity policies have their place, as income replacement coverage and as assistance for covering cost-sharing obligations under ACA-compliant insurance. But they are no substitute for real health insurance coverage.
+
+Open Enrollment Period For Certain Floridians
+
+In another development, HHS has announced an open enrollment period for individuals who are leaving the Florida Full-pay Healthy Kids program. Florida has recently amended this plan for moderate-income families to bring it into compliance with the ACA. This has resulted in a substantial increase in premiums, which go into effect on October 1, 2105 Families who choose to leave the program and instead enroll in marketplace plans may do so during the 60-day period following October 1. Those who enroll by September 30 can have an October 1 effective date and avoid a gap in coverage.

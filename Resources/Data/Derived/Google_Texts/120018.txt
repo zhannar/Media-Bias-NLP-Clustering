@@ -1,0 +1,25 @@
+Researchers have discovered yet another security flaw that threatens millions of Internet users. (Photo: Thinkstock)
+
+Just when you thought it was safe to use your computer again after last year's Heatbleed, Shellshock and other computer bugs that threatened your security and just as I predicted in my column of Dec. 20, 2014, researchers have discovered yet another security flaw that threatens millions of Internet users.
+
+This one goes by the clever acronym FREAK which stands for Factoring Attack on RSA-EXPORT Keys. This bug affects SSL/TLS protocols used to encrypt data as it is transmitted over the Internet and potentially puts at risk private information sent over the Internet including passwords, banking and credit card information. To better understand FREAK, it is necessary to go back to restrictions of a maximum of 512-bit code encryption from the early 1990s used in software to be sold abroad.
+
+The reason for this was that the federal government wanted to make it easier for federal intelligence agencies to spy on overseas software users. Following much criticism and protest by the technological community, these restrictions were ended. However, many software developers continued to use the weaker encryption.
+
+When you use the Internet, your computer communicates with your server on how best to protect your data. Due to the FREAK flaw, some software, including Apple's Secure Transport, can be manipulated into accepting the weaker encryption program, which can then be hacked by a sophisticated hacker to steal your data. This type of hacking is called a "man-in-the middle attack" and is used to steal and unencrypt what the victim believes is protected, encrypted communications.
+
+This type of hacking is regularly done by Iran and China to spy on Internet communications by their citizens within their countries. You are particularly vulnerable to this type of attack when you use hotel Internet services, airport Wi-Fi, or Wi-Fi at your favorite coffee shop or mall. Exploiting the FREAK flaw is not particularly difficult. What would have been a daunting task for your average hacker in the 1990s can now be done in about seven hours with easily obtained computer programs. Comparatively, today's stronger 1024-bit encryption programs would take a million PCs about a year to crack the code and many software developers now use even stronger 2048-bit security.
+
+Not all browsers are affected by this security flaw. Google Chrome, for example, isn't; however, older Android browsers are vulnerable to this flaw, as are Apple's Secure Transport. About five million websites using the older encryption programs are also vulnerable. Even if you see on a website the familiar padlock icon which indicates that the information you are sending is encrypted and thereby protected, you cannot feel safe because millions of websites using this SSL technology are vulnerable to FREAK.
+
+The FREAK flaw has existed for many years and was uncovered a few weeks ago by French researchers at the computer science lab, INRIA . Immediately upon discovering FREAK, the researchers notified governments and companies around the world. However, the news of FREAK was only made public earlier this week.
+
+The discovery and discussion of this major security flaw is particularly timely in the light of FBI Director James Comey's announced desire that software developers should specifically build in backdoors in the security of their products so that intelligence agencies can readily decrypt data for reasons of national security.
+
+The obvious dilemma, without even getting into the risk of misuse of these backdoors by our own national security agencies, is the risk that if such backdoors or security defects are built into the software that we all use, it will not be merely intelligence agencies exploiting these defects in the furtherance of national security, but also the possibility that criminal hackers or foreign countries will do the same thing to the extreme detriment of everyone. Interestingly, it is being reported that the National Security Agency's own website is still vulnerable to FREAK while the FBI and White House have already patched their websites.
+
+The good news is that we can expect security patches for this flaw soon. Apple expects to have a security patch for Apple computers and iPhones next week. As always, it is critical to your online security that when such security patches are released, you install them as soon as possible. More good news is that it does not appear that criminal hackers have been exploiting this newly discovered flaw. However, to dampen that good news just a bit, it is possible that hackers merely have not been caught exploiting this flaw yet.
+
+Steve Weisman is a lawyer, a professor at Bentley University and one of the country's leading experts in scams and identity theft. He writes the blog scamicide.com, where he provides daily update information about the latest scams. His new book is Identity Theft Alert.
+
+Read or Share this story: http://usat.ly/1GaQiOx

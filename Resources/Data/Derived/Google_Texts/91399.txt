@@ -1,0 +1,13 @@
+Security researchers have identified a powerful and previously unknown cyber weapon used by China to attack GitHub, a U.S. coding site.
+
+
+
+The system, dubbed the Great Cannon, is extremely dangerous and could be used to spy on Web users that visit Chinese websites or even sites with advertising content that is merely hosted in China, researchers said.
+
+
+
+
+
+ADVERTISEMENT
+
+The conclusions were part of a report released Friday by experts at the University of California, Berkeley, and the University of Toronto.The research sheds new light on China’s effort to weaponize global Web traffic and use it to launch cyberattacks, particularly against sites seen as threatening to Chinese censorship online.The Great Cannon was uncovered in the course of investigating attacks against GitHub and GreatFire.org, a site that helps Chinese citizens evade the country’s massive government-run firewall.China launched the attacks by hijacking a portion of the Web traffic destined for its search engine, Baidu, and using it to flood and render unavailable target websites.Initially, experts assumed that the attack infrastructure was part of the country’s firewall, but Friday’s report found that the Great Cannon is a separate offensive system.“The operational deployment of the Great Cannon represents a significant escalation in state-level information control: the normalization of widespread use of an attack tool to enforce censorship by weaponizing users,” the report stated.China’s ability to tweak the weapon to spy on users suggests that the Great Cannon will come into play in further cyberattacks.“With a minor tweak in the code, they could have provided exploits to targeted [Internet addresses], so that instead of intercepting all traffic to Baidu, they would serve malware attacks to those visitors,” researcher Nicholas Weaver told Krebs on Security.GitHub and GreatFire.org are still under attack, though the websites remained available online Friday.

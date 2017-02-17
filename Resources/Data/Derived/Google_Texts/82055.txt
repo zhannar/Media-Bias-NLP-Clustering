@@ -1,0 +1,75 @@
+Ebola Forecast: What To Expect Now And How To Contain Future Outbreaks
+
+Veronica Thomas
+
+CommonHealth Intern
+
+A digital surveillance program used Twitter feeds and news headlines to pick up on the Ebola outbreak in West Africa a full nine days before the World Health Organization proclaimed it an epidemic.
+
+But that doesn’t mean the outbreak could have been prevented.
+
+Dr. Alessandro Vespignani, a professor of computer science and physics at Northeastern University, uses network science to model and forecast the spread of disease. Like HealthMap, the online tool cited above, Vespignani’s computer simulations cannot anticipate an outbreak before it actually begins.
+
+“They don’t have a crystal ball either,” he says. “HealthMap is really a novel way of doing disease surveillance that can provide a real edge in the early detection of outbreaks by monitoring news articles, journals, Twitter or other digital sources. But they can’t do this before the actual occurrence of the event. There was already a situation in West Africa. HealthMap was just able to pick up the anomaly before anyone else.”
+
+As the death toll climbs over 1,000 in West Africa, I was curious to know what makes this particular outbreak so relentless and what the global community can do to contain its spread. My conversation with Dr. Vespignani, lightly edited:
+
+First of all, what exactly are big data and network science research? And how do you use them to track disease outbreaks?
+
+We create large-scale models for disease forecasting by creating a synthetic world in the computer that integrates all data about human mobility. Then we plug an infectious individual into the model and look at the spread of the disease. You can look at different levels of granularity—whether locally or internationally. Network science is important because most disease now spreads by human mobility. What you hear many times is, “We’re all one hop away from West Africa,” although it’s thousands of kilometers away. No one has a crystal ball, so we cannot say when there will be an Ebola disease outbreak. As soon as we have the data on the outbreak, what we can do is try understanding how it will evolve in the next few weeks or months, which is what we do with this modeling.
+
+
+
+When you talk about human mobility data, what exactly do you mean? Where does this information come from?
+
+There are many data that we use to create the synthetic simulations of the world. We use data from various projects that map the population, so we have a grid covering the world’s surface and know how many people are in each of the cells—big cities, rural areas, etc. We have information on all of the flights, from the International Aviation Association, that bring people from any airport in the world. We have commuting data from the census—like how people commute from one county to another in the U.S. We’ve accumulated these data for 10 years, so now we have basically a representation of the whole world. Obviously, some places have data of a much higher quality and granularity, like the U.S. and Europe. Then in places like West Africa we have a much coarser understanding of the factors we need in the model. But we have accumulated a good deal of data. This is the first part. This allowed us to create the synthetic model.
+
+OK, so then how do you use the model to predict the spread of disease?
+
+Then we need the data about the disease—these are the data that are most difficult to obtain. Initially, when the outbreak is not clear, you get reports of cases but you don’t actually know the details about the disease, like how long the person has been in the incubation period or the transmissibility of the disease. The more data we get from the field, then the more we can calibrate our models and start using them to predict the outbreak’s evolution.
+
+These data on the disease come from health agencies, the WHO, people in the field, as well as historical data from previous outbreaks.When you pack all those data together, finally you have a computational model. We simulate 7 billion individuals in the world—how they travel by plane, how they get infected and come in contact with others. We do that on a scale of one day then we try to figure out what will happen in next weeks or months.
+
+Obviously, the farther away you project, the less realistic the forecast is. Because of the large international effort to contain and mitigate the Ebola outbreak, any kind of projection about the future should be redone every two weeks because the transmissibility of the disease changes—people are more aware or the hospitals are able to do better procedures. There are many things you have to factor in continuously to update your models.
+
+What’s different with this Ebola outbreak? How did it spread so fast and so far?
+
+We’re starting to have a better understanding, because we are getting more and more data from the field. We’re not happy about that. What we would like to see instead is evidence that the containment and mitigation measures are effective. Unfortunately, this is not happening, so we keep getting new data on the number of cases and deaths from the various regions. So then we calibrated the model, which is a very complicated procedure. For technical reasons, you basically have to try thousands of different models to see which best approximates what has actually happened with the outbreak so far. Then from those models you can project what will happen in the future.
+
+To understand the local spread of Ebola, you must understand that it can be transmitted through three different settings. First, it can be transmitted in the general population if the symptoms are very general and the infected individual doesn’t go to the hospital right away. For instance, you may vomit in a public bathroom and someone may come in after you and be infected by the fluid. Generally this transmissibility is low, because people who are not very symptomatic do not have a high viral load or stay at home. The second component is hospital transmission. These individuals are highly infectious, and unless the hospital is following strict procedures and has all of the necessary equipment to contain the virus, this type of transmission is highly likely. Third, the virus can be transmitted through dead bodies since they have a very high viral load. All of these three components of Ebola transmissibility are active in West Africa. Efforts should focus on the hospital and funeral components because the disease doesn’t have enough transmissibility in the community to create a huge outbreak.
+
+Should we worried about an Ebola outbreak in the U.S. or other Western countries?
+
+The three components of transmissibility explain the widespread outbreak in West Africa, and also explain why we’re optimistic of what would happen in the U.S. if cases are imported here. In our hospitals we have full isolation of infected patients, and the burial of an infected body would be done in the appropriate way. These things are not being done in Africa.
+
+Based on our results that project two weeks into the future, we see that the probability of an outbreak in the Western nations is statistically very small. This does not mean it’s not going to happen, but we are talking about a probability of 1 to 5 percent in next two to three weeks. This is very small in terms of risk. Even if we get one or two cases in the U.S., we have the infrastructure to cope with it and stay completely safe. It’s like rolling the dice with 100 faces and if you hit the number one, maybe we’ll have this event.
+
+What about other areas of the world?
+
+The probability of international spread is much greater for West African countries, like Ghana, because they’re closer and more connected to the outbreak. This is concerning because these countries are also much less equipped to respond to an outbreak. In the U.S. and European countries we expect to see one to three cases—no more than that—which we can cope with easily. This is not the same for other countries in Africa, where you have to assume a very different health response system.
+
+A good example is Nigeria. They got one case imported through the airport which should have been easy to contain, but they already have more than seven suspected cases and it’s not clear whether they’ll be able to contain the outbreak. Another thing we see from our models is that if Nigeria is not able to contain the outbreak, things are going to be much worse since it is a well-connected country with a large population. The number of cases in that country might be a big problem. As soon as you have a known outbreak in Nigeria, the probability of cases being imported to other countries is greatly increased.
+
+What are your recommendations for containing the disease so it does not spread any farther?
+
+The battle right now is in West Africa. The issue is not here. The epidemic is still in the early stages. We need to work in the African region to create the opportunities and means for those countries to bring the outbreak under control. Basic things—like sending isolation tents, sanitary gloves, doctors and nurses—are crucial. We need to pull resources so that health system can finally cope with outbreak. There is also lot to explain to these populations about doctors, taking care of sick patients, and dealing with funerals. It’s a massive campaign. The risk is there, not here. If the outbreak in West Africa spins out of control, then it would be a global problem for everyone.
+
+What are your projections about the course of the outbreak over the next couple of weeks?
+
+So far, based on new points from the field, we have seen an exponential increase. This is not good. What we’re hoping to see is the number of cases plateauing or decreasing—a deviation from this epidemic that is continuously growing. But there is a time delay. Now that we see the danger and threat of the outbreak, there is more proactive action from everybody. It will take time to see the effects of those efforts. In the last week, things have not changed that much and I don’t expect to see big changes in the next week. But then I hope to see the number of cases declining by the end of the month. If not, then the situation needs to be reassessed.
+
+What’s the worst-case scenario?
+
+The worst scenario is if we see that Nigeria is unable to control the outbreak, as well Ghana or other countries in the region having outbreaks and being unable to contain them. At that point, the whole system is put under stress and is difficult to cope with in terms of international aid. There are not infinite resources to help them. First of all, that would be a major tragedy for African region and then it would start to affect us.
+
+But worst-case scenarios are very speculative. Each country has a different response capability that we need to test, so we cannot make too much inference at this stage about things farther than two to three weeks down the road. I don’t like doing these worst-case or best-case scenarios because you don’t want to be too pessimistic or even too optimistic, because you don’t want to relax things happening locally.
+
+I’m very optimistic for the near future of the U.S. and Europe. For the African region, it is very difficult to predict what will happen, and a lot will depend on the kind of support we can provide them. The worst-case scenario might happen if you see this kind of toppling—one country, then another, then another. Hopefully this is not what we will see in the near future.
+
+What can we learn from this large-scale outbreak in order to prevent similar ones in the future?
+
+There is one lesson that I think is for everybody. We need to help those countries create a much better health infrastructure. An outbreak of this proportion should not have happened in those places. It’s important that we become the enabler for those countries to create a different health approach and infrastructure.
+
+Unfortunately, emerging infectious diseases are something that we’ll always have to cope with. We have Ebola, but also Middle East Respiratory Syndrome Coronavirus, the H7N9 in China and chikungunya in the Caribbean. The diseases are there. All we can do is create the health infrastructure to cope with them and to help countries have the monitoring resources to detect outbreaks as soon as possible and provide timely data. They need to be able to perform containment and mitigation measures right away. We need to have collective responses to these emergencies.
+
+Nobody can tell you there will be no Ebola outbreak in the future—that’s impossible. It’s also impossible to say there won’t be another pandemic of influenza. Those things happen. It’s the way we respond to those emergencies that is changing, and we also need to change that in other regions of the world, like West Africa and remote places of Southeast Asia. That is the way to prevent large-scale outbreaks.

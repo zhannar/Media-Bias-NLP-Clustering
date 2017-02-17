@@ -1,0 +1,27 @@
+AT&T, Verizon and WhatsApp have some of the worst policies when it comes to protecting users’ data from the government, according to a new report by the Electronic Frontier Foundation (EFF).
+
+The tech privacy group ranked 24 technology and telecommunications companies on a list of transparency and privacy categories in its new “Who has your back?” report released this week.
+
+ADVERTISEMENT
+
+“Two major telecoms — Verizon and AT&T — received especially poor results, thus continuing a trend we identified in prior reports where many large telecom providers fail to keep pace with the rest of the tech sector,” the EFF wrote in the report.
+
+The rating system gives a star to a company for fulfilling each of five categories.
+
+Those categories include whether a company tells its users about government data requests, whether it discloses its policies on how long it keeps user data, whether it discloses the number of times the government requests to remove content, whether it has a stated position against government backdoor searches, and whether it employs industry best practices like publishing a transparency report and requiring the government to obtain a warrant before accessing user content.
+
+AT&T received only a single star in the industry best practices category. Verizon received two: One in industry best practices and another in disclosure of content removal by the government. AT&T does not host content, so that category did not apply to it.
+
+WhatsApp, the instant messaging app owned by Facebook, received only one star for its parent company’s stated position against government backdoors.
+
+“This is WhatsApp’s first year in the report, and although EFF gave the company a full year to prepare for its inclusion in the report, it has adopted none of the best practices we’ve identified as part of this report,” according to the report.
+
+A total of nine companies received a star in every category, including Yahoo, Apple, Dropbox, Wordpress, Wikimedia, Wickr, Sonic and Credo.
+
+Facebook fell just shy of receiving all five stars, because the EFF said it does not disclose the number of U.S. government requests to remove user content, like it does for other countries.
+
+Google, Amazon, Microsoft and Comcast received three stars. Twitter received four.
+
+The EFF noted its scoring system has become increasingly robust as the industry adopts best practices. Nearly every tech company, for instance, now publishes a transparency report.
+
+“Users should look to companies like Google, Apple, Facebook, and Amazon to be transparent about the types of content that is blocked or censored in response to government requests, as well as what deleted data is kept around in case government agents seek it in the future,” according to the report.

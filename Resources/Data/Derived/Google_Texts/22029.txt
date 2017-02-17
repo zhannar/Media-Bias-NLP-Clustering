@@ -1,0 +1,43 @@
+Analyzing relevant words and phrases from fashion reviews makes it possible to identify a network of influence among major designers, say researchers. This work also lets them track how those style trends moved through the industry,” says Heng Xu, associate professor of information sciences and technology at Penn State.
+
+“Data analytics, which is the idea that large amounts of data are becoming more available for finding patterns, establishing correlations, and identifying emerging trends, is very hot these days and it is being applied to many industries and fields—from health care to politics—but what we wanted to see is if data analytics could be used in the fashion industry,” says Xu.
+
+Related: How You're Shaping the Future Through Big Data
+
+“We were drawn to the question of whether or not we could really trace a hidden network of influence in fashion design.”
+
+Layout of the network is created by using ForceAtlas algorithm, where the edge weights influence how the nodes spread out. Sizes of nodes are proportional to the level of influence. The dispersed nodes around the network are designers without any influence links going in nor going out.
+
+Mapping Fashion Influence
+
+The researchers, who present their findings today at the Workshop of Information Technology and Systems in Auckland, Australia, analyzed 6,629 runway reviews of 816 designers from Style.com, formerly the online site for Vogue, one of the most influential fashion magazines. The reviews covered 30 fashion seasons from 2000 to 2014.
+
+Xu says her team extracted keywords and phrases from these reviews that described silhouettes, colors, fabrics, and other details from each designer’s collections and added them to the dataset. The researchers then created an approach to rank the designers and map influences within the group.
+
+Related: Today's Hot Fashion Trend Will Knock Your Socks Off
+
+To evaluate the accuracy of their model, the researchers compared their network against three industry-recognized lists of influential designers, including Times, Fashion Merchandising Degrees, and A Celebration of the 20 Most Influential Designers, and found that it closely matched these lists.
+
+“There is no one gold standard for the most influential designers, but we believe these are a good place to start a comparison,” says Xu.
+
+The Next Jason Wu
+
+While professionals in many industries are welcoming data analytics, this type of analysis may meet some skepticism from fashion designers, who view their work as a form of art and more difficult to quantify, says Yilu Zhou, associate professor of information systems at Fordham University, who worked with Xu.
+
+“But, what we are finding from the data is that we can find footprints—there are clues—that can be traced back to individual designers,” says Zhou.
+
+Related: Why Tech's New Role in Shopping Is So 'Fitting'
+
+The researchers say the technology could one day help industry professionals to better predict fashion trends and identify up-and-coming designers.
+
+“We all know the big designers now, but could we use this type of technology to find out who will be the next big fashion designer, the next Jason Wu, for example, and what the next big design trend is going to be?” says Zhou.
+
+Cheaper style?
+
+Xu says that the technology may also help consumers by helping them create wardrobes that are in their budget and are also in style. “Buying from leading designers is expensive, but if you had information on what design elements were beginning to trend, it might help you buy the latest fashion more inexpensively,” says Xu. “Also, designs do come back in style, so you could identify clothes that you may already have in your wardrobe to match the new styles.”
+
+Xu and Zhou, who also worked with Yusan Lin, a research assistant from the department of computer science and engineering at Penn State, say that they expect the technology to improve as data and data sources become more available.
+
+Eventually, data scientists could analyze real-time data from social media sites, such as Twitter, Pinterest, and Instagram to predict fashion styles, Xu says.
+
+Source: Penn State. This article originally appeared in Futurity.org.

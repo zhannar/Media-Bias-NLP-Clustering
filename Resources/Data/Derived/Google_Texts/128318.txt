@@ -1,0 +1,17 @@
+The protein Dis3l2 acts like a garbage disposal for messages in the cell, cutting them up until they no longer encode useful information, thus maintaining the integrity of stem cells.
+
+We get bombarded by loads of information day in and day out, and while some may be useful, most of it is redundant information. Our brains have evolved, however, to throw out useless information while retaining important only the important nuggets. These nuggets of information help us through life, making us who we are or who we will eventually become. Similarly, even at the cellular level, certain information is discarded while important information regarding the viability of cells is preserved. For stem cells, which have to remain a blank slate until they're meant to undergo change, knowing when to change based on these messages or when to throw them out can become particularly tricky.
+
+A new study from researchers at Cold Spring Harbor Laboratory found that the protein Dis3l2 can accurately determine the difference between the two types of messages. Led by Leemor Joshua-Tor, the researchers found that the protein helps to preserve the character of stem cells by regulating a pathway that prevents them from changing into other cell types. It does this by recognizing specific markers on each message.
+
+Essentially, the protein acts as a garbage disposal for messages in the cell, cutting them up until they no longer encode useful information. But Dis3l2 has to be highly specific with the messages it discards, as getting rid of the wrong message can drastically alter the fate of the stem cell, with devastating consequences.
+
+In order to dispose of the right messages, it looks for messages marked with a molecular flag known as a "poly-U" chain. It ignores most of the other messages in the cell, whose ends are marked with a different type of chain called "poly-A" tail. These messages go on to encode proteins. For the study, published in the Nature, the scientists show how Dis3l2 is able to read and distinguish between the chains containing "poly-U" and the ones containing "poly-A."
+
+With the help of a type of molecular photography, known as X-ray crystallography, they observed how Dis3l2 bound itself to a poly-U chain. "We saw that the enzyme looks a lot like [a] funnel, quite wide at the top and narrow at the base," Joshua-Tor said in a statement. "The poly-U chain inserts itself into the depths of this funnel while the rest of the bulky message can remain in the wide mouth at the top."
+
+The enzyme recognizes the poly-U chain with the help of numerous contact points in the the interior of the funnel, which interact specifically with the poly-U chain. "Together, all of these points create a sticky web that holds the poly-U sequence deep within the enzyme," lead author Christopher Faehnle said in the statement. "But other chains don't interact — they can slide right out. It has helped us understand how an enzyme can differentiate between two sequences in the cell."
+
+Knowing how the stem cell maintains its identity opens up the possibility of targeting therapeutics for diseases like cancer. "Misregulation of any step in this pathway leads to developmental disorders and cancer," Joshua-Tor said. "We now have a much better appreciation of the terminal step, a critical point of control."
+
+Source: Faehnle C, Walleshauser J, Tor L. Mechanism of Dis3l2 substrate recognition in the Lin28–let-7 pathway. Nature. 2014.

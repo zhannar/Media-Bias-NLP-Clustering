@@ -1,0 +1,29 @@
+The bungled launch of the U.S. federal Affordable Care Act registration portal site spawned a slew of commentary about how appropriate project management (PM) oversight could have prevented what most everyone, regardless of political affiliation, agrees was a pretty massive screwup. I chimed in, suggesting that realistic launch schedules and a firm dedication to testing would have helped.
+
+(The main federal portal site seems to have ironed out many of its kinks, but some reports, like this one from Forbes, suggest the system might still have issues with passing on key documentation to insurance companies that may take as long as six months to resolve.)
+
+The case for a single point of responsibility
+
+Other commentators latched onto a November 2013 report by The Washington Post that there was no single administrator "in charge" within the Department of Health and Human Services' Centers for Medicare and Medicaid, the project's main sponsor (if you can actually identify a "main sponsor" within the morass of a bureaucracy as large as the federal government).
+
+This breakdown, these commentators argue, makes the case for a single point of project responsibility. A piece at CIO Insight written by Eric Thomas describes the dysfunction as an "authority-dense environment" and suggests that a formal Program Management Office (PMO) or other single point of contact would have likely helped avoid the overlapping red tape that, at least to some degree, plagued the project.
+
+The most interesting point in the CIO Insight piece is that the author, a project and portfolio management consultant, says this single point of PM authority should be independent of the development team. That's a fairly common practice, even in mid-sized businesses, although PMs and QA engineers tend to gravitate to the "technical" side of the overall project — and there's nothing wrong with that.
+
+Some very large organizations have enterprise PMOs that report directly to the COO or even the CEO, but that elevation of PM — although a favorite topic among PM writers — is still fairly rare. Almost all PMs still report up through the IT department, and so can be subject to political pressures to mask project issues, just as easily as if they were reporting to the lead developer. In smaller organizations, lines get blurred quickly, particularly when everybody wears about a dozen hats, and the CTO is doing peer code reviews, because there's nobody else to do them.
+
+And so, most PMs (nor anybody else, except the CEO) aren't really "in charge" of an organization-wide project — such projects are too large and involve too many aspects of the business to be simplified so easily. PMs evaluate, document, and track the project lifecycle (all of which is essential to project success), but that doesn't put them "in charge" of it.
+
+As the CIO Insight piece notes, PMs need a clear escalation path to project stakeholders when something is obviously not working. However, program managers should not be forced into a whistle-blower role — that's a last-ditch mindset that will ultimately compromise relationships on the project team.
+
+Keep stakeholders informed about progress and constraints
+
+The best-case practice is to ensure stakeholders stay informed of the project's progress by being engaged in regular status meetings, and/or real-time project calendaring software that line-of-business stakeholders will intuitively get — something along the lines of Tom's Planner or Basecamp. This sort of constant contact and clear visibility into how things are going will, hopefully, prevent key issues from roiling up to an escalation point, or put the ball in the court of your stakeholders to act on clear problems on the horizon.
+
+In a column I wrote a couple months ago, I suggested that a key attribute of non-IT project team stakeholders is the willingness to push back on C-level management about realistic project constraints. I should amend that requirement to include a willingness to go run and tell the boss when something is obviously off the rails. This source of "escalation" is far more effective than red flags from PM.
+
+This is not to say that PMs should not be empowered to speak up when they see there are serious issues with a project — they should. The harsh reality is that an organizational culture that leads to these kinds of "moments of truth" has problems that solid PM methodologies can only go so far in combatting.
+
+Bottom line
+
+A lot of PM failures are not sins of omission via poor PM practice; they are sins of commission via turf wars and just plain old corporate B.S. My gut tells me that is the real story behind the HealthCare.gov launch debacle.

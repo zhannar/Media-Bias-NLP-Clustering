@@ -1,0 +1,31 @@
+Dave Taylor For the Camera
+
+Q: I pulled a bunch of music together and burned a CD on my computer, but it won't play in my car's CD player. It does work on my PC, but that's not what I was trying to do. What's wrong?
+
+A: You've been hit by a format problem. Turns out that while those silver platters look like they're all the same, whether they're a Blu-ray movie or a music CD, there are a lot of different physical and encoding data formats.
+
+This is true both on the physical disc and the encoding system used to put the video or audio content onto the disc.
+
+By default, most programs that burn CDs or DVDs default to creating what are called data discs, formats that maximize the amount of information you can save, but at the cost of only being readable by other computers. These are generally known as CD-ROM or DVD-ROM and it sounds like that's what you've encountered.
+
+Any software worth its salt on either the PC or Mac platform should have a setting that lets you specify you want a "music CD" or similar, something that will work just fine in your car.
+
+For movies, some PCs now have Blu-ray burners which let you put a whole lot of data on that platter (a Blu-ray disc can hold up to 50GB of information, about 10 times the capacity of a DVD and almost 70x timesthe capacity of a regular CD)
+
+Advertisement
+
+Again, however, if you want to burn a Blu-ray disc so that grandma can watch it on her TV, you'll need to ensure that you've chosen the right formatting options in the software.
+
+The other trick is to choose the correct discs in the first place.
+
+Go to a store and you'll see a bewildering array of options, +R, -R, +RW, music, data, video, DVD, and more. Pick the wrong one, and even with the software working perfectly, you could end up with a disc that fails on the player of choice.
+
+In a nutshell, any disc that includes "RW" is reusable, supports read and write operations, and any other disc is a burn-once platter.
+
+So "DVD-R" is less useful than "DVD-RW,",and in the DVD world, the "-" notations are the more widely accepted formats (e.g., "DVD+RW" is less widely supported than "DVD-RW").
+
+If you see "DL" that refers to a dual layer platter, which offers more capacity, but is quite probably incompatible with your DVD burner.
+
+And some trivia: CDs were first released in 1983 and CD-only players use an infrared laser, DVD (released in 1996) players use a red laser, and Blu-ray (2006) players use a violet-blue laser, which is where "Blu-ray" got its name.
+
+Dave Taylor has been involved with the online world for long enough to be a statistical outlier. When he's not stuck in U.S. 36 traffic, he covers the tech industry at AskDaveTaylor.com.

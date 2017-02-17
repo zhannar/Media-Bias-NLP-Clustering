@@ -1,0 +1,85 @@
+By John Markoff, The New York Times
+
+The ranks of older and frail adults are growing rapidly in the developed world, raising alarms about how society is going to help them take care of themselves in their own homes.
+
+Naira Hovakimyan has an idea: drones.
+
+The University of Illinois roboticist recently received a $1.5 million grant from the National Science Foundation to explore the idea of designing small autonomous drones to perform simple household chores, like retrieving a bottle of medicine from another room. Hovakimyan acknowledged that the idea might seem off-putting to many, but she believes that drones will not only be safe, but will become an everyday fixture in elder care within a decade or two.
+
+“I’m convinced that within 20 years drones will be today’s cellphones,” she said.
+
+Her research is just one example of many approaches being studied to use technology to help aging people.
+
+Even though fully functioning robot caregivers may be a long way off, roboticists and physicians predict that a new wave of advances in computerized, robotic and Internet-connected technologies will be available in coming years to help older adults stay at home longer.
+
+“Loneliness is at epidemic levels among elders in the U.S. today,” said Juliet Holt Klinger, senior director of dementia care and programs at Brookdale Senior Living, one of the nation’s largest providers of assisted living and home care.
+
+Brookdale is using a variety of Internet- connected services to help aging clients stay more closely connected with family and friends. Holt Klinger said there was growing evidence that staying connected, even electronically, offsets the cognitive decline associated with aging. “We have story after story of reconnection with families through Skype,” she added.
+
+For all the promising ideas, however, skeptics also note that many ideas are “technologies looking for a solution” that inevitably fail the test of practicality.
+
+“We all get really excited on the upside, and then we go through this trough of disillusionment,” said Laurie Orlov, a business analyst who began the Aging in Place Technology Watch blog in 2008.
+
+Bibbidi Bobbidi Bots
+
+Even so, examples of robotic and artificial-intelligence-derived technologies that will be commercially available in the next decade include intelligent walkers, smart pendants that track falls and “wandering,” room and home sensors that monitor health status, balancing aids, virtual and robotic electronic companions, and even drones.
+
+In her lab, Hovakimyan has begun experimenting with small and large drones.
+
+She refers to them as “Bibbidi Bobbidi Bots,” borrowing a phrase from the “Cinderella” movie, to make them seem less intimidating. Last month, in the Nicer Robotics laboratory at the University of Illinois, researchers began experimenting with an Oculus Rift virtual reality viewer to show people how it might feel to be close to a small drone. She believes that drones could ultimately be used to perform all manner of household chores, like reaching under a table to grab an object, cleaning chandeliers and weeding the lawn.
+
+Many others are trying to devise solutions, as well. In a crowded fourroom laboratory in South Seattle, the former Microsoft software designer and executive Tandy Trower is experimenting with a 4-foot-tall rolling robot he calls Robby. With cameras, radar, microphone, speaker, a tablet interface and a movable tray, Robby may someday be able to serve as a mobile companion and even perform some light chores.
+
+Trower said the robot, now a prototype in his Hoaloha Robotics laboratory, would be able to monitor the health of its human companion and assist with tasks like keeping track of medicines. Its screen could also be used for video conferences with physicians and other health care providers.
+
+He said that the science-fiction future of elder-care robots is closer than many people believe.
+
+“Rather than seeing the train in the distance, we’re seeing the light shining in our face right now,” he said.
+
+United States lagging
+
+Toyota Motor Corp. said last month that it would spend $1 billion to establish a new research laboratory adjacent to Stanford University to focus on artificial intelligence, underscoring the company’s view that it should be added to cars to make human drivers safer rather than to replace them. The hope is that such technologies will make it possible for aging people to drive safely longer.
+
+“Driver assistance will turn cars into elder-care robots in a very positive sense,” said Rodney Brooks, a pioneering roboticist and a former director of the MIT Computer Science and Artificial Intelligence Laboratory. “In the United States, when you can’t drive any longer, you’ve lost your independence.”
+
+The need for such technology will grow sharply, given the broad demographic shifts sweeping through the world’s population.
+
+An aging population will place enormous burdens on the world’s health care system by 2050, according to demographers. Already, for the first time in history, 14 percent of the world’s population is older than 65, a sharp contrast with the 9.1 percent of the population that is less than 5 years old.
+
+Globally, the number of people 60 and over is expected to more than double by 2050 and triple by 2100. The number of people 80 and above is expected to double by 2050 and increase more than sevenfold by the end of the century.
+
+Despite a patchwork of research and some commercial products, the United States appears to be lagging Japan and Europe in developing solutions.
+
+“In both Japan and Europe, it seems that government is more attuned to the potential of technology for aging populations,” said Jeffrey A. Kaye, a neurologist at Oregon Health & Science University who focuses on technologies for the aging.
+
+China reached out more than a decade ago to Eric Dishman, an Intel scientist who has focused on developing technologies to assist older adults.
+
+“Now I have a team in China working with third parties, collaborating on their Age Friendly City Initiative,” Dishman said. That has led to the installation of sensors in homes to monitor as many as 100,000 people.
+
+The Intel China project uses socalled machine-learning techniques, charting patterns of behavior for caregivers.
+
+“Your daily patterns are a vital sign,” Dishman said.
+
+A health care coach
+
+In addition to smart-home sensors and mobile robots, there are a variety of other efforts to add stationary robots to provide everything from coaching to communications to companionship.
+
+Catalia Health, a San Franciscobased design company, has introduced the Mabu personal health care companion, an interactive robot about the size of a coffeepot. The system, which has a cartoonish form, listens and speaks and holds a touch-tablet interface. It is designed to act both as a health care coach and to provide a way to stay in touch with doctor’s offices and pharmacies.
+
+“My approach is, ‘Here are the challenges we see in health care. What is the right technology?'” said Cory Kidd, chief executive of the startup firm. “Robots happen to be great for helping with behavior.”
+
+A more profound question is whether robots or virtual assistants, in tandem with Internet communications, can help forestall the effects of aging, like dementia. Isolation is one of the most vexing problems for older adults, and there is evidence that human contact can postpone intellectual decline.
+
+A study published last summer in the journal Alzheimer’s & Dementia found that a group of both healthy and mildly cognitively impaired people in their 70s and 80s who engaged in face-toface daily online conversations for six weeks showed significant improvements in cognitive skills compared with a control group.
+
+“It is not possible to simply tell people to go out and get more friends, so the idea here was to provide a meaningful and frequent dose of social engagement,” said Kaye, the Oregon Health & Science neurologist, who helped organize the study.
+
+Internet, tablet and smartphone systems such as grandPad, a simplified tablet for older adults, and CareAngel, a telephone system to help younger family members stay connected, are emerging to help with care and staving off isolation.
+
+The ultimate test for all these ideas will be whether people will want to use them.
+
+At the Aging 2.0 Conference last month in San Francisco, which focused on new elder-care technologies, Cynthia Breazeal, an MIT Media Lab roboticist, showed off Jibo, an Internet- connected tabletop robot with a round swiveling screen that portrays a friendly robotic face.
+
+The concept did not thrill everyone in the large lunchtime audience.
+
+During a question-and-answer session at the end of the presentation, a 91-year-old woman said, “If Jibo were my last friend, I would be very depressed.”

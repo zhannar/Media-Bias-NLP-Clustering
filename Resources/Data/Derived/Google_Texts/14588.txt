@@ -1,0 +1,31 @@
+Thanks to the Affordable Care Act, the last few years in healthcare have seen a sharp rise in accountable care organizations (ACOs), but recent data suggests that growth has tapered off.
+
+David Muhlestein, the director of research at the Salt Lake City, Utah-based Leavitt Partners, penned a blog for Health Affairs showing that over the past year (as of press time), less than 30 ACOs have been formed. Muhlestein’s data showed that from the end of 2010 to the beginning of the year, the number of ACOs rose dramatically from 42 to 464. This year, thus far, it’s only gone up from 464 to 493. The number of lives covered has similarly tapered off, hanging around the 20 million mark for the entire year.
+
+Total Number of ACOs over Time
+
+Source: Leavitt Partners Center for Accountable Care Intelligence
+
+Estimated Number of Lives Covered by ACO Contracts
+
+Source: Leavitt Partners Center for Accountable Care Intelligence
+
+In this two-part Q&A with Healthcare Informatics Senior Editor, Gabriel Perna, Muhlestein discusses why this is the case, how this number can jump back up, what the Medicare Pioneer news from over the summer means in a larger context, and what role IT has played in the slowed growth. Below are excerpts from part one of that interview.
+
+Perna: It seems like I hear of ACOs being formed every day, but your statistics show that ACO growth has petered off a little bit, how come that’s the case?
+
+Muhlestein: Most organizations are in a wait-and-see mode. We regularly interview ACOs, both that are currently active and those that are preparing to accept risk-based payments, a lot of them want to see how others do first. Other organizations have been accepting risk-based contracts for almost two years, some even longer, and if you are waiting to take that, why do it now? If you wait six months or a year, you can see if they were successful. At this point, it makes a lot of sense to hold off for a little bit and have some proven models you can adopt from, rather than make the same mistakes these first ACOs were making.
+
+David Muhlestein
+
+Perna: The other interesting part of your blog was that you talked about a payer delay in joining ACOs. The Centers for Medicare and Medicaid Services (CMS) has announced its ACOs, and I know Aetna has done a few and a few of the Blues Plans (Blue Cross Blue Shield) have done some this year. But if you’re a provider, is there a lack of payer options if you want to accept risk-based contracts?
+
+Muhlestein: Yes and no. One of the things is the timing. With the CMS, you can only join [an ACO] in January. We do expect quite a few in January 2014. So we expect another bump at that time.
+
+But, another issue, and this is more of an issue for those existing ACOs, is when you’ve got one contract, let’s say you’ve got one with Aetna and you want to expand your population. Your contract is 20 percent of your covered lives; and you want to go with some other payer [to do more of your population]. Other payers are not going to be as willing to make that contract. ACOs that have a portion of their total patient population under the contract, they are finding it hard to expand that. In some markets, they can’t find anyone; others are taking a lot of time to implement it and figure things out. That speaks to the payer’s willingness to move from these non fee-for-service models. In some markets, there is no payer that sees any reason to do that. We have a number of ACOs that would become them, but can’t find any payer partner to work with. Some that have applied to round four of the CMS Shared Savings contract, they would already be an ACO if they found a payer to work with them.
+
+That speaks to the payer’s willingness to move from these non fee-for-service models. In some markets, there is no payer that sees any reason to do that.
+
+Perna: It sounds like it goes back to that previous point. The payers are also waiting to see what happens with the first wave of ACOs?
+
+Muhlestein: Yes and no. There are some payers that are cautiously seeing what’s going on, if this is a long-term trend or flash in a pan. There are also those that just don’t want to put up the money to change their infrastructure. They have the IT in place to take claims and reimburse claims and they don’t have competency in looking at population costs. That’s just a cost investment that they’re not willing to take right now.

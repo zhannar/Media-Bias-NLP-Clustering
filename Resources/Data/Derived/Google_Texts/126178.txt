@@ -1,0 +1,13 @@
+Photo:
+
+
+
+Pinged all devices on the Internet, here's a map of where they're located :) pic.twitter.com/G3fiNcKCul — John Matherly (@achillean) August 28, 2014
+
+John Matherly, founder of internet search engine Shodan, created a map that shows the location of internet-connected devices across the globe.
+
+Matherly used his search engine, which he developed to identify connected devices, to gather the data. On August 2nd, he sent ping requests, which tests the reachability of devices on an internet network, out to IP addresses across the globe and recorded those that acknowledged receipt. The red hot spots depict the highest concentration, green the moderate and blue the lowest. Remote areas with no computers or smartphones on a wireless network are colorless. Locations were noted with dots.
+
+As expected, the United States and Europe depict the highest concentration. The single dot in Greenland represents the National Oceanic and Atmospheric Administration observatory. Matherly wrote on Reddit, where he engaged in active discussion about the map, “I would expect certain areas (especially in Africa) to become brighter, but the only way to know for sure is to gather empirical data and keep track of it that way.”
+
+Matherly claims it took him five hours to gather the data and 12 hours to build the map.

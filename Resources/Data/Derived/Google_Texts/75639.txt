@@ -1,0 +1,117 @@
+3 Top Trends Driving Medical Device Design In 2015 — Experts Weigh In
+
+By Jim Pomager
+
+Follow me on Twitter @jpomager
+
+What factors should you consider before designing your next medical device? What capabilities will end users request (or demand?) from new devices in the coming months? What design approaches are your peers taking? What types of designs will be successful in the future?
+
+To answer these and other related questions, Med Device Online reached out to executives at several design firms that specialize in medical device development. After all, who better to identify current and future design trends than the people who have helped transform thousands of concepts into life-saving and life-improving medical technologies?
+
+Marc Dubreuil, VP of business development at Farm Design; Tom KraMer, president and CEO of Kablooe Design; and Serge Dubeau, VP of design and human factors at Worrell, were kind enough to discuss what they see as the burgeoning trends in medical device design for 2015 and beyond, based on what they are hearing from clients and on projects currently underway. They also provided some perspective on the industry forces behind those trends, why astute device makers should take heed, and how you can address them in your next-generation designs.
+
+From left to right: Marc Dubreuil of Farm Design, Tom KraMer of Kablooe Design, and Serge Dubeau of Worrell
+
+1. Thrift
+
+Everyone knows that the global medical establishment is under intense economic pressures today. Healthcare systems are being asked to achieve the seemingly impossible: improve patient outcomes while simultaneously lowering costs. Governments and insurers are employing a wide range of carrot-and-stick approaches to inspire change among healthcare providers; look no further than the establishment of accountable care organizations (ACOs) and the introduction of new reimbursement/payment models (including bundled payments) under the Affordable Care Act (ACA) in the United States.
+
+Irrespective of the methods employed, the result for medical device manufacturers is the same — a decidedly more frugal and selective customer base. “The healthcare industry is facing huge cost pressures, and that’s trickling down to medical device companies,” Farm Design’s Dubreuil says. “There will be even more rapid moves to group purchasing organization (GPO) buying decisions, and as a result there will be a smaller number of approved device suppliers at each of those large systems. Hospitals will not have more than a couple of devices approved for each procedure.”
+
+To become one of the few that are approved and ultimately purchased, most devices will have to compete in some way on the pricing front (to varying degrees, depending on the product). The buzzterm is the healthcare space is “value-based purchasing,” and it can be a nightmare for the uninitiated medical device maker.
+
+Kablooe Design’s KraMer uses a hypothetical example to illustrate what healthcare providers — and by extension, their suppliers — are now up against. Imagine an orthotist who fits patients for off-the-shelf braces and other devices, he says. Thanks to dramatically reduced reimbursement rates from the population healthcare company that now represents his patients, the orthotist is forced to cut corners he never had to before.
+
+“Instead of spending 90 minutes fitting a patient, he has to fit them in 40 minutes, and instead of picking the more expensive brace he used to use (because he thought it was better), he has to choose the cheapest device possible. That is the type of scenario we're seeing,” KraMer explains. “If you want to design the greatest medical device with all these bells and whistles, keep in mind that you will have to sell it to someone who is under pressure to get the cheapest thing and whip their patients through the office as quickly as possible.”
+
+As a result, developers of cutting-edge medical devices and diagnostics now face an inherent tension when it comes to design — between creating a great device with truly novel features, and building it in a way that parsimonious customers will be willing and able to afford.
+
+There are several ways device makers can handle this conflict. One is go against the tide and develop an expensive device anyway. (With some technologies, this is just plain unavoidable.) The key to this strategy is amassing sufficient evidence that the device improves clinical outcomes, streamlines internal operations, and/or increases reimbursement margins. Providers will pay more for a novel device, provided you can provide data that substantiates its benefits.
+
+How do you get that data, especially if you're a young company? Leave no stone unturned. “You can start using it on patients who can pay out of their own pocket, or you can get research money to fund fitting some patients,” KraMer says. “If you start getting clinical evidence that it's working, then you might be able to get insurance to reimburse it at that high rate. That's a battle that can be fought.”
+
+KraMer’s firm has also implemented a parallel product development strategy for more expensive technologies, essentially making two devices out of one. In this approach, you design a less-expensive version of the device while simultaneously fighting for insurance coverage for the more costly model. “The redesigned version may not have as much therapeutic value as the high-end version, but it might be 80 percent,” he explains. “But we try to make the redesigned version so cheap that it can fit under the current reimbursement codes."
+
+Another development option is to simply go with the flow of cost-consciousness and “de-innovate” a single configuration of your device, stripping out features until the design is “good enough” and can be priced competitively. (Shift Labs’ new DripAssist IV flow monitor and alarm is a great example of this approach.) According to Farm’s Dubreuil, this approach should not be viewed as surrender — it’s actually a viable global access strategy that some device makers are employing quite successfully. Designs targeted for growth markets such as China or India can be quickly translated into devices for the newly economical domestic market.
+
+“The research that we’re doing for clients in emerging markets sets the stage for de-featured products with much lower cost structures, and that work can be almost immediately be applied to U.S. marketplace as well,” he says. “Those markets and the change in cost structures are forcing OEMs to go back and look at designs with a very fresh eye, and to do the research that defines really what users want, what they really need, what will be effective, and what are they willing to pay for it.”
+
+2. Usability
+
+As Dubreuil points out, one of the keys to developing a medical device that today’s tightfisted healthcare buyers will actually pay for is careful, extensive user research. Only by fully understanding user needs can a device maker define the appropriate combination of features, performance, and cost for a given product, for each international market into which it will be sold. As a result, medical device designers must ultimately become as much usability experts as they are technical experts (or partner with someone with user-centered design experience) in order to create a successful product.
+
+For example, Dubreuil believes medical device OEMs will need to devote more resources to optimizing device packaging for users. They have to reduce the size of the package. They have to improve the usability of the device and package in conjunction with one another. They must help improve customers’ inventorying efficiencies through packaging. In many cases, they will have to use packaging to deliver unique customer kitting. And, obviously, reducing cost of the packaging will be paramount, because packaging is such a big contributor to overall cost.
+
+“We have seen large OEMs finally start to wake up and say, ‘Hey, you know, packaging is a huge part of my success. I need design ideas, ideation, prototyping, and testing around packaging,” Dubreuil explains.
+
+Kablooe’s KraMer highlights controls as another important focus area for medtech usability work, particularly when it comes to devices for home healthcare settings.
+
+“Home healthcare is changing, and we are seeing a shift in the type of personnel delivering the care. Thanks to new healthcare laws, there has been an increase in less-qualified caregivers in the home,” he says. “We have to design our devices not only so the patient can use it, but if there's going to be a caregiver involved, we have to assume that it's no longer going to be a highly trained, registered nurse. It might be a lower-level caregiver that's getting paid $10 or $12 an hour.”
+
+As a result, medical device makers need to adopt a different perspective in designing controls for their products. If a device had a display or a screen, for instance, it can no longer show information in “nurse-speak,” or the jargon nurses are used to. It has to be conveyed in layman's terms now.
+
+That may mean choosing to use graphical icons on the screen instead of words, but it may also mean designing different physical controls for a device. In a clinical setting, nurses are well-trained and accustomed to using certain types of knobs on monitoring equipment, ultrasound machines, oxygen devices, etc. That’s not the case with the new home caregiver, and so next-generation devices must be designed so they can be intuitively operated by just about anyone.
+
+On the plus side, improved usability can be leveraged as a differentiator against competitive devices that merely cost less.
+
+“If yours is one of three devices that are approved by GPOs, but your device has extreme performance enhancements because of usability at a comparable cost, then obviously, you will have people clamoring for your devices versus the other low-cost ones,” Dubreuil says. “But it will be very unusual for GPOs to pay a penny extra for anything, even improved usability — so it has to be improved usability at a competitive cost.”
+
+Which brings us back to the importance of providing evidence to support your device’s unique value proposition. Successful device makers will be able to deliver not only clinical and economic data on a device, but usability data as well. Is your technology designed to offer ergonomic improvements, like being easier on the wrists, hands, and arms of surgeons? Gather information on these (or other) tangible usability benefits, and use it to make the case for your technology to potential buyers and payers.
+
+3. Convergence
+
+As life expectancy continues to climb worldwide, there will be an increased incidence of chronic health problems — cardiovascular disease, pulmonary issues, cancer, neurological disorders, and other conditions. Identifying and treating these maladies early in their progression will lead to lower healthcare costs and better patient outcomes. To achieve this end, though, next-generation medical devices will have to be wearable and easy to use, and incorporate a range of sensors and communication capabilities.
+
+These capabilities are readily available on disparate consumer and medical devices, and a tremendous effort is underway to integrate them (in various ways) to address specific clinical needs. Consider how aggressively consumer-focused tech companies like Google and Apple are pushing into the medical space. Faced with this new breed of competition, traditional medical device manufacturers have two primary options: 1. partner with the new market entrants (as J&J now is with Google and Medtronic and J&J are with IBM), or 2. take a page out of their book, particularly their obsession with user experience and data gathering.
+
+"Companies like Apple, Google, and Microsoft understand that the value of medical and health devices is in the diagnostics and in patient data, so their work is aimed at capturing, transmitting, managing, and selling the data," says Dubreuil. "I think we are starting to see the large OEMs like J&J and Medtronic move toward the Apple/Google/Microsoft models and start to be more user- and data-focused, because that's where the future is. It's not in the devices themselves."
+
+According to the design firm execs, patients and providers are also starting to demand this convergence in medical technology, and medical device makers can supply it in one of two ways in their designs: by delivering consumer tech to the clinical setting, or by delivering clinical tech to the consumer. Let's consider each in turn.
+
+Bringing Consumer Tech To The Clinic
+
+The rise of the Internet of Things (IoT) has given us an unprecedented level of wireless control over our environment, and nowhere is that more evident than in our personal lives. Using a smartphone or tablet, we can adjust the thermostats in our homes and cars, record our favorite TV shows, lock our doors, and turn off the lights — from (almost) anywhere in the world. And the list of these remote capabilities grows longer by the day.
+
+Of course, doctors and nurses are among the multitudes for whom personal wireless enablement is becoming commonplace, even expected. And so they are starting to wonder, “Why can’t I have the same level of control in the workplace that I have in my home?” and are turning to medical device makers to help them obtain it.
+
+“We talk to a lot of doctors who draw parallels between consumer electronics and medical devices, and they wonder why they can’t have the best of both worlds,” says Serge Dubeau, VP of design and human factors at Worrell. “That topic always comes up. ‘Why can’t I view my patient charts as I walk down the hallway? How come I can't consult the parameters I have to take care of from my office on my tablet, or on my phone?’ There are multiple reasons why it's not possible, but in their mind, it should be possible.”
+
+One of the big design challenges accompanying this migration of consumer-style wireless technology into the clinic is accounting for the varying levels of infrastructure in place at healthcare facilities. Not all hospitals have invested in networks that can reliably handle the data transfer rates that a facility full of wireless devices — medical equipment and otherwise — demands. However, that doesn’t always stop healthcare systems from purchasing wireless medical devices (or stop eager manufacturers of such devices from trying to sell them into any/all facilities). Device makers should instead work with potential customers to develop solutions that are flexible and robust enough to perform reliably in a wide range of wireless infrastructure settings.
+
+In addition, device makers should consider how adding wireless capabilities to a device will impact user behavior and workflows, and ultimately patient experience and safety.
+
+According to Dubeau, his firm has worked on three recent projects that would give healthcare professionals the ability to remotely review patient status, and the discussion always came back to the level of intervention the technology would provide. What clinical decisions can effectively be made based on remotely acquired information, versus information obtained at the patient’s bedside? What type of data should be displayed, how much should the device show, and how trustworthy is it?
+
+To illustrate the point, he shares a hypothetical example of an infusion pump that could be controlled by a tablet. “Every doctor will tell you that a curve on a graph can tell you something, but you also need to see the patient's eyes,” he explains. “You need to see the way they talk, to assess their cognitive ability. You need to see other things that will help you make the call, for instance if you should increase the dose by 10 percent or 5 percent or not at all. If I give you give doctors the tools to control the pump from a distance, you remove many other aspects of what a doctor does.”
+
+Again, this is where good usability and human factors engineering techniques come in. Dubeau says the goal should be not only to list all of the potential use-case scenarios, but also to test them to see if your assumptions are right or wrong — and then make improvements to mitigate risk. For example, such an exercise may lead you to block or limit certain features of the device that can be remotely accessed and manipulated.
+
+“Let’s be honest here: If a scenario comes up around a conference room table, it’s likely to occur during real-world use,” he adds.
+
+Worrell helped Geneva Healthcare develop the user experience and interface for its cardiac device data management suite, by understanding the implications/benefits it would have on clinic/patient behaviors and workflows. The platform incorporates tools and user habits associated with home browsing into a clinical device.
+
+Bringing Clinical Tech To The Consumer
+
+Technology convergence is also flowing in the opposite direction — out of the clinic and into our personal lives. This movement runs parallel to a macro trend in the healthcare space, where the focus is shifting from what happens to a patient within the four walls of a hospital or medical facility, to what happens to them outside it. The idea is to cut down on the amount of time a patient ultimately needs to spend in (expensive) traditional care settings by monitoring, diagnosing, and even treating them wherever they may be, whether at home, work, or elsewhere.
+
+As Farm Design’s Dubreuil puts it, “The future of design is in developing devices that can capture data and perform diagnostics, so we can prevent people from having to get implants or have cancer therapy in the first place.”
+
+The ongoing proliferation and evolution of consumer technologies — like smartphones and wearable devices — has taken us a step closer to that goal. What started out as basic, step-counting fitness bands, for example, have become rather sophisticated, sensor-laden devices that hold great promise for healthcare (think Apple Watch). Yet, most of that potential remains unfulfilled, as even the most advanced of these technologies can “diagnose” little more than an elevated heart rate.
+
+To take the next leap forward, we need to add more clinical-grade technology to the equation. “We need to make the transition from tracking vitals on a consumer level to sensing and tracking physiological information on a clinical level,” Kablooe’s KraMer says. “How do we bring those two things together? How do we bridge the gap between a device that senses your heart to help you jog, and one that can actually populate your health record?” Medical device makers can have a major voice in answering these questions, and reap huge rewards in the process.
+
+However, these general questions beget a whole host of more specific ones, like: How should we send information collected by this new breed of device? What method should we use? What kind of network will carry the data? Will there be sufficient infrastructure available? How do we protect the data? Who should receive it? What can the recipient do with it?
+
+“That's where the big mystery cloud lies, in my estimation,” KraMer explains. “We could easily make devices that sense a ton of things and then email the data to somebody. But is the recipient authorized to call the patient directly and give them advice? That's like writing a prescription. Nurses can do that, to a certain level, but caregivers can't. And doctors are too busy to manage this much information from patients. How do we design devices that enable the patient to collect information, and then the device is smart enough to send the proper critical information at the proper time to the proper person?”
+
+Worrell’s Dubeau believes the digital health movement is gated by two main factors: usability and economics.
+
+“First, we have a burdened healthcare system, so removing friction from the daily lives of clinicians is key — you have to understand what is consuming their time, so you can help them. Equally important is determining what consumers are comfortable using, which is a rapidly evolving topic. What we thought an aging population couldn’t do, suddenly they are doing,” he says. “In terms of economics, there isn’t a lot of money in the system for proactive care today, yet consumer-driven health technologies are increasing proving a health economic benefit.”
+
+It’s up to medical device makers to come up with design and development strategies to help address these convergence issues, or face potentially unpleasant consequences.
+
+“If we don't figure out ways to bridge the gap, patients are going to use their consumer devices to self-diagnose,” KraMer says. “They are going to slap 20 of these health trackers on themselves, get all this information, and constantly be contacting healthcare professionals saying, ‘I've got this! I've got that!’ It won’t be a very efficient way to do healthcare. Some patients may be able to manage that information wisely, but for the masses, it could really get out of hand.”
+
+The challenge has been issued. Will your designs answer the call, addressing the demand for thrift, usability, and convergence in next-generation medical technology? If so, the spoils — and the benefit you can provide to healthcare providers and patients — will be tremendous.
+
+What other important design trends do you see in the medical device industry? How are you addressing those trends in your product development efforts? Please share your perspective in the Comments section below.

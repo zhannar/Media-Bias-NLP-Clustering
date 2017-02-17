@@ -1,0 +1,11 @@
+Analyzing human faces to detect character traits sounds like something out of a post-apocalyptic sci-fi film, but the Israeli start-up Faception in fact already has a contract with a homeland security agency. Faceception claims it will be able to help identify terrorists for the government, but also has said that the face-scanning technology can pick out everyone from a great poker player to a pedophile to a genius, The Washington Post reports.
+
+"Our personality is determined by our DNA and reflected in our face. It's a kind of signal," Faception's chief executive Shai Gilboa said. The company reports that they are able to evaluate certain traits with 80 percent accuracy.
+
+Skeptics caution that the software is a slippery slope, and only as strong as the samples it has been taught. "Just when we thought that physiognomy ended 100 years ago. Oh, well," facial perception expert and Princeton professor Alexander Todorov said.
+
+"If somebody came to me and said 'I have a company that's going to try to do this,' my answer to them would be 'nah, go do something more promising,'" computer science professor Pedro Domingos added, although he admitted, "On the other hand, machine learning brings us lots of surprises every day."
+
+The science indeed remains uncertain. For example, a colleague of Domingos built a computer to identify with 100 percent accuracy the differences between dogs and wolves by looking at photographs — only, it turned out the computer was actually noticing snow as the common unifier in the background of the wolf photos. Artificial intelligence also risks focusing on traits that can be changed, like beards, further skewing its accuracy.
+
+"Can I predict that you’re an ax murderer by looking at your face and therefore should I arrest you? You can see how this would be controversial," Domingos said. Jeva Lange

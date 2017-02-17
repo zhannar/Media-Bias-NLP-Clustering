@@ -1,0 +1,45 @@
+To help you optimize security as you cope with complexity, InformationWeek is offering you an excl
+
+HealthCare.gov Proves Software Delivery Needs Modernizing
+
+Modern software development involves a mind-boggling number of moving parts. HealthCare.gov proves we've got to get back to basic project management.
+
+Software development has come center stage in America as a result of discussions about the Affordable Care Act's healthcare exchange website. It also has brought its share of drama, when Cheryl Campbell, senior vice president of CGI Federal, the prime IT contractor responsible for developing the website, blamed system bottlenecks on work by another contractor.
+
+Andrew Slavitt, executive vice president of Optum/QSSI, the contractor in question, was probably more accurate when he testified to a House commerce committee that the real culprit was the complexity of the site. Many of the critical components, which were developed by multiple vendors, "were overwhelmed," he said.
+
+Ignoring the politics, the bottom line is that modern software delivery is complex: Not only is the software itself complex, but so is how it is assembled and built. There are layers of components and frameworks built by third parties, some of whom you know and have direct contact with, and some you don't.
+
+[ No one likes to admit his IT project crashed on the launchpad. Read Lessons For HealthCare.gov: Former DHS CIO Richard Spires Talks About Steps To Recovery. ]
+
+To put modern software in context, today's luxury car has nearly 100 million lines of software code running its climate control, transmission, and other systems. Compare that to the meager 24,000 lines of code that put a man on the moon.
+
+We are without doubt in the age of software, or, as Marc Andreessen says, "software is eating the world." Not only has the sheer volume and complexity of the software increased, but also how that software is created. It is very rare for a new application to be written from the ground up. Instead, it is assembled from a combination of frameworks, infrastructure, and services -- and more to the point, it wasn't written by your organization or even someone you know.
+
+The reality of modern software is that it is an aggregation of material from a number of sources, and in the case of government software development, many of those sources are competitors, each with its own complex agenda.
+
+What is worrisome is the fact that traditional software processes and supporting Application Lifecycle Management (ALM) software are not built to support this assembly-oriented approach. In fact, for most software organizations, the risk-management approach assumes that the software was written in-house or acquired from a few key vendors.
+
+The historic approach to software delivery was to impose a consistent and defined process on the suppliers. That process had clear artifacts, milestones, and process gates that would allow those who use or build on top of the software to manage risk, schedule, and ensure that the consuming project would be ready for the software when provided. In the end, you trust the people you know, but you still provide them with a clear process to help avoid potential issues. Those processes are typically lost as software is increasingly patched together.
+
+Additionally, the supplier is responsible for providing software that has been fully tested. When bugs are found, they need to be addressed using a detailed and well documented process. It was often assumed, for schedule and budget purposes, that all bugs would be discovered within one pass of the integration phase. But not every bug becomes evident during testing. And in the case of the ACA website, many of the bugs were not discovered until the site was in production with the eyes of the world on it.
+
+Finally, the collaborative tools used to document and manage software development vary by supplier and are typically different from those used by integrators. This often leads to a long trail of inconsistent artifacts -- from defective spreadsheets to project schedules -- complicating collaborative efforts.
+
+The HealthCare.gov website disaster is perhaps the most public reminder yet that modern software is not supplied by a few key vendors. Rather, it is the collective work of an almost mind-boggling array of companies, individuals, vendors, and open-source projects.
+
+Additionally, the problems being solved by software today no longer lend themselves to linear or sequential process models, where software is designed and then used. Instead, modern software development requires frequent delivery, rapid feedback, and the opportunity for change.
+
+Software has moved beyond carefully managed and controlled supply chains, to something that resembles an environmental ecosystem where the end-users must watch for changes and respond to them. In general, it is possible to control a supply chain, but with ecosystems you have to observe and respond. You can never control an ecosystem. But you can adapt to its characteristics.
+
+In the ACA website example, the best result would have come from a project manager viewing the entire software delivery lifecycle and more fully engaging the participating vendors, including the ultimate customer. This feedback would have provided the project owners with better information on which to make decisions -- and would have delivered software that was not the source of widespread embarrassment.
+
+Dave West is chief product officer at Tasktop Technologies. He is a frequent speaker at industry conferences and a widely published author of technical articles, including a book on object-oriented analysis and design.
+
+Moving email to the cloud has lowered IT costs and improved efficiency. Find out what federal agencies can learn from early adopters in The Great Email Migration report. (Free registration required.)
+
+Comment |
+
+Email This |
+
+Print |

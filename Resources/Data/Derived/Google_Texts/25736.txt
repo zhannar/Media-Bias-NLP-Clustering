@@ -1,0 +1,35 @@
+Posted Sep 3, 2013 2:00 PM CDT
+
+By Terry Carter
+
+Photo of Michael Poulshock by Arnold Adler.
+
+In his day job, Michael Poulshock works for the business strategy firm Exeter Group building computerized knowledge systems that function like TurboTax software: A user answers a series of questions, with the nature of each tailored to the previous response as it progresses to the ultimate answer.
+
+His handiwork includes a webpage for the Internal Revenue Service. There, users can ask general questions or drill down a ways to find out whether, for example, they can deduct moving expenses or their pension income is taxable. He’s building something similar with California’s health care exchange for the Affordable Care Act.
+
+But on his own time, the Philadelphian toils at a project that goes far beyond the scope of these business-rule engines. Poulshock wants to make large bodies of law and regulation accessible and understandable for all manner of configuration and use by lawyers and nonlawyers. It’s something he calls the Hammurabi Project.
+
+Poulshock, 38, is writing source code for each law, which can then be entered into computers and applied to fact patterns. (The project is open source, online at GitHub). Tax and immigration law lend themselves to this approach more easily than some other areas, but in many instances, he says, law can be turned into a mathematical function: If this, then that; if these, then that or those.
+
+“We can debate how much of law is computational, but a lot of it is pure logic, and that’s what makes it hard for the public to understand,” Poulshock says. “TurboTax just captures the logic of the tax code for them.”
+
+Logic and helping are not new for Poulshock. After getting a bachelor’s degree in philosophy, he volunteered with the American Friends Service Committee in the late 1990s. He soon was hired and dispatched to Kosovo to work with refugees.
+
+That work inspired him to go to law school and become a public interest lawyer in 2005, which he did for two years, working with Judith Brown Chomsky in Philadelphia representing victims of human rights violations. But in law school Poulshock also got interested in legal tech when, at social and family gatherings, knowledgeable people queried him about simple legal matters.
+
+“We live in the information age, and yet people have no idea what their rights are or even the basic things of law such as the elements of a tort,” Poulshock says. “I wanted to solve this gap problem.”
+
+Just three years out of law school he left the practice, going to work in 2008 for Haley Limited (now part of Oracle) as a legal knowledge engineer. He continued that kind of work with other employers.
+
+Several years ago he developed Jureeka, a browser extension for Firefox and Chrome that, when a legal citation is typed in, transforms the cite into a hyperlink that goes to a free version of the material on the Web. Jureeka is now powered by Cornell University Law School’s Legal Information Institute.
+
+Poulshock started his Hammurabi Project while a fellow with CodeX: the Stanford Center for Legal Informatics, a multidisciplinary project for developing legal technology to help all parties in the legal system–especially citizens daunted by its complexity. When Poulshock left, he took Hammurabi with him, but he is listed as a friend on the project’s website.
+
+“He’s actually doing something, unlike others who talk about it or write papers,” says Michael Genesereth, CodeX research director and an associate professor in the university’s computer science department. “He’s building up a corpus of computerized law, and I think that’s going to be extremely valuable.”
+
+While others work on new ways to use the vast amounts of data available, Poulshock simply wants to capture its logic in a way others can use to put it to work.
+
+“There’s a vast possibility for law firms to create software products for clients and the public,” he explains. “It could be as simple as making a compliance tool to help a company figure out if it’s violating some EEOC statute.”
+
+Watch this interview video.

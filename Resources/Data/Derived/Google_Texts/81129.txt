@@ -1,0 +1,9 @@
+Medical price inflation has been unusually restrained over the last several months, reaching a near-record low 1.1% year-on-year increase in August, and hovering just above that level since. While some of this reflects low inflation in the broader economy and it is possible that some of the slowing could signal an easing of medical price inflation for other reasons, we believe that much of the recent trend is also clearly due to exogenous policy influences: First, sequestration cut the price that Medicare pays for most services by 2%, along with the more publicized cuts to defense and non-defense federal spending. Second, the Affordable Care Act reduced payment rates for most segments of Medicare starting in late 2010.
+
+We estimate that Medicare payment changes are holding down year-on-year inflation in the core PCE price index by 16bps, while the reduction in the core CPI index is a much more modest 2bps. To estimate this, we calculate the actual reduction in the reimbursement rate for each segment of Medicare (e.g., inpatient hospitals) as a result of the legislation. We then estimate the share of total spending for each healthcare service paid by Medicare and use these to estimate the effect on health care services inflation in each price index.
+
+The effect on the core PCE index is much greater than the core CPI index mainly because of coverage differences. While PCE includes virtually all health spending, CPI includes only health spending paid by the consumer. Regarding Medicare, the distinction for inclusion in CPI is drawn by the source of financing: services financed by the Medicare trust fund ("Part A") are not included in the CPI, while services financed in part by monthly premiums ("Part B") are included.
+
+Chart 2 shows how cuts to Medicare have affected the medical services inflation component of both core PCE and core CPI.
+
+Without the cuts, medical services inflation would be significantly higher in the core PCE index.

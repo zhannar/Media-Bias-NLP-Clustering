@@ -1,0 +1,77 @@
+Patients' experience of a hospital or health care provider extends beyond the physical walls of your facility: Your organization's online experience is also a key component of patient satisfaction. Personalization is a design approach that allows you to create deeper engagement and a more satisfying online experience for your patients. All health care providers should be providing personalized online experiences to patients and their families.
+
+What Is Personalization?
+
+Human-computer interaction researchers define personalization as any action that adapts the information or services a user receives, in an attempt to match the user's needs. (See, for example, "A Framework for Classifying Personalization Scheme Used on e-Commerce Websites," by Dezhi Wu et al. in the Proceedings of the 36th Hawaii International Conference on System Sciences, pp. 2–12, 2003.)
+
+Organizations commonly personalize their websites using the following features:
+
+content (depending on the user, specific information, topics and marketing messages are presented);
+
+layout (certain features are highlighted, and these features appear on specific locations on the screen);
+
+navigation and links (the user is directed to certain locations, and depending on his or her needs, specific links surface);
+
+terminology (language appropriate to the audience is used).
+
+You can apply various levels of personalization to your digital properties. Your organization can provide basic levels of personalization based on broad user group characteristics — such as patients, families or hospital staff — or individualized personalization based on exact characteristics (such as age and known medical conditions).
+
+Why Personalize?
+
+Personalization has become the norm in e-commerce, online banking and other financial services industries, as well as in utilities that allow users to manage accounts in online portals (e.g., cable television, cellphone carrier, power company). Studies have found that personalization of e-commerce sites leads to more motivation and intention to purchase items on the site than on nonpersonalized sites. (See, "Enhancing Online Performance Through Website Content and Personalization," by Thongpapanl and Ashraf in the Journal of Computer Information Systems 52(1):3–13, 2011) As personalization becomes the norm, organizations offering generic Web experiences will see a reduction in users.
+
+Personalization of hospital and health care websites and online portals is critical because of the type and amount of information patients need. Researchers include personalization as a criterion for evaluating hospital websites and portals (e.g., "Evaluation of Hospital Portals Using Knowledge Management Mechanisms," by Lee, Goh and Choa in Asian Digital Libraries: Looking Back 10 Years and Forging New Frontiers [Berlin/Heidelberg: Springer], pp. 15–23, 2007).
+
+Individuals are engaging in a personal experience when they go online to conduct health care–related activities. Gaining and maintaining their trust in your product is critical. For hospitals and health care facilities, personalization allows you to extend your brand digitally to the patients and their families — a virtual house call, if you will.
+
+Personalization shows users that you respect their time. Patients may be looking for a vast amount of information, such as doctors specializing in certain areas, types of procedures, medications, potential side effects, facility visitation policy, billing information, phone numbers, addresses — the list goes on. This amount of information quickly becomes overwhelming. Personalization consolidates this information and reduces information overload.
+
+Segmenting Your Users
+
+The more you know about your users, the more opportunity you have to meaningfully personalize their experiences. There are a number of ways to identify and segment your users. I used the example of patients, families and hospital staff earlier. Let's take a look at ways to segment members of these three audiences for personalization.
+
+Ask users who they are and what their role is. This task is as simple as posing a question to users when landing on the page: "I am a (select one) Patient, Family Member, Hospital Staff Member." Once users identify themselves, the site redirects them to a page containing relevant content. Even better, you can apply a cookie to the users that will remember what they selected for future visits. Subsequently, your site will surface navigational categories (e.g., doctors, procedures and recovery for patients; policy, forms, staff news and information for staff) without asking users who they are, thereby reducing user effort.
+
+Examine user behavior. Your users leave a trail of relevant information on the Internet. A number of programs can help you collect and use this information for personalization. Examples of relevant information that can inform what content you surface to users include:
+
+Ads or links clicked: What are the topics that interest them?
+
+Geography: Where is a user located?
+
+Number of visits: Someone visiting for the 20th time might want to see something different from what a first time user sees.
+
+Referral: Did the users come from searching a specific term on Google? Or did they click on a link from an email from their doctors? Understanding the users' path to your page can help to guide what content should be presented.
+
+Search history: What have users looked for on your site in the past?
+
+Create a secure login portal. You can maximize your ability to personalize by having a portal that allows your users to create profiles saved in the system. User information, including relevant billing information, family physician, specific treatments, visit history and preferences for alerts, should be collected in the profile. A portal based on user demographics, past visits and behaviors, and self-selected preferences is the ultimate in personalization for users.
+
+Personalization in Health Care
+
+If you don't currently offer your patients website personalization or an online portal, it is time to think about joining modern medicine. I advocate that all hospitals and health care providers provide access to a personalized online patient portal. Your design team should be creative with which information is personalized.
+
+Here are examples of what a personalized patient portal should contain:
+
+a personalized greeting
+
+billing and payment history
+
+calendar with appointments and other critical dates (e.g., estimated date for refilling a prescription)
+
+alerts for upcoming appointments
+
+information on known diagnoses, with links to more information, educational resources, and patient and family resources (e.g., support groups)
+
+information patients can provide for family members, including after-care assistance instructions, explanations of diagnosis, and family and visitor policies
+
+information on known prescriptions, including side effects and warnings and links to preferred pharmacies
+
+recommendations for doctors and treatment centers
+
+relevant contact information
+
+educational content based on browsing history
+
+Patients expect an easy-to-use and personalized online health care management experience. Health care providers that fail to offer this experience will see lower patient satisfaction scores and potentially a decrease in repeat patients. Health care providers have a lot of information available about their patients, and they should maximize the value of this information in providing personalized online experiences. Such experiences can reduce patients' effort at an already intimidating and potentially overwhelming time.
+
+Victor S. Yocco, Ph.D.,is a researcher and strategist at Intuitive Co., a design firm in Philadelphia. He is the author of Design for the Mind (Shelter Island, N.Y.: Manning Publications), a forthcoming book on the application of psychology to design.

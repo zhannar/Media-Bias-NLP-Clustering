@@ -1,0 +1,29 @@
+Minnesota insurance broker Jim Koester was looking for information about assisting with Obamacare implementation; instead, what landed in his inbox last month was a document filled with the names, Social Security numbers and other pieces of personal information belonging to his fellow Minnesotans.
+
+In one of the first breaches of the new Obamacare online marketplaces, an employee of the Minnesota marketplace, called MNsure, accidentally emailed Koester a document containing personally identifying information for more than 2,400 insurance agents, the Minnesota Star Tribune reported. MNsure was able to quickly undo the damage because Koester cooperated with them, but the incident left him unnerved.
+
+"The more I thought about it, the more troubled I was," Koester told the newspaper. "What if this had fallen into the wrong hands? It's scary. If this is happening now, how can clients of MNsure be confident their data is safe?"
+
+Online marketplaces like MNsure, called exchanges, are now running in all 50 states and the District of Columbia, as part of the changes established under the Affordable Care Act. Open enrollment began on Tuesday, and as many as 7 million people are expected to sign up for private insurance plans on the exchanges in the next six months. Personal information for all of those customers will be routed from a federal datahub to the state-based exchanges, leaving people like Koester, and some health data experts, concerned about the program's security.
+
+As more health-related data is digitized, "the privacy violations are going to be incalculable," Jim Pyles, an expert in health law who co-founded the law firm Powers Pyles Sutter & Verville, told CBSNews.com.
+
+Health data breaches are far from just an Obamacare issue. Doctors, health administrators and their business associates already regularly handle personal information, like a patient's address, date of birth, Social Security number, prescription information and medical history.
+
+Since 2009 -- when the Health and Human Services Department started requiring reporting on data breaches -- about 27 million people have been impacted by major breaches of unencrypted health data.
+
+That doesn't mean the information is used to steal identities -- a thief may steal a laptop from a hospital administrator just for the machine, not the data on it. In fact, medical identity theft -- when a thief uses someone else's name or health insurance information to get health care, get prescription drugs or file insurance claims -- is a relatively small problem, based on complaints collected by the Federal Trade Commission (FTC), the agency in charge of consumer protection. Medical identity theft accounted for less than 1 percent of all complaints received by the FTC in 2012 -- just 199 cases in all.
+
+Those, however, are just the reported cases. "Once that information's stolen electronically, the information can be copied infinitely and spread everywhere," Pyles said. "It's very, very difficult to stop fraud then."
+
+And while medical identity theft is rarely reported, identity theft generally speaking is a major problem -- in 2012, identity theft accounted for 18 percent of the more than 2 million complaints that came into the FTC. Specifically, the FTC told a House Homeland Security subcommittee last month. The massive IT project, he said, has "literally no technical precedent."
+
+That, of course, doesn't mean the project isn't worthwhile.
+
+"The challenges in health care have changed. We used to store information in unlocked file cabinets in the back of somebody's office. Was that secure? No, it wasn't," Matt Salo, executive director of the National Association of Medicaid Directors, said in the Homeland Security subcommittee hearing. "Security and privacy of data is always a concern, but the thing that has changed is the increasingly interconnected nature of not just our health care system but our overall lives in general."
+
+While security and privacy have always been a concern, files stolen from an unlocked file cabinet can only make it so far. The laws designed to protect personal information on health data systems haven't always kept up with the increasing flow of information.
+
+Health information isn't just used by doctors, but also by analytics brokers sifting through data and repackaging it for the likes of pharmaceutical companies and health tech companies. The legal commercialization of this information is a booming industry that's creating even more opportunities for that information to be stolen.
+
+"We're seeing massive breaches as more companies have more information and more copies," Pyles said. What's needed now, he continued, are simplified laws so that patients and practitioners can understand them and feel confident that their health information is protected.

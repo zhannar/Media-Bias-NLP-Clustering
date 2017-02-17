@@ -1,0 +1,61 @@
+Now's a good time to be a healthcare startup. Investors have poured between $3 billion and $5 billion into the digital health market so far in 2014, according to Rock Health and StartUp Health. (The two groups track funding differently, which is why there's such a discrepancy.) Meanwhile, Accenture expects the digital health market to reach $6.5 billion by 2017.
+
+Actually, now's a good time to be a unique healthcare startup. At last week's FoleyTech Summit, an annual event organized by the law firm Foley & Lardner, representatives from venture capital firms said that only about one startup in 10 attracts their attention, let alone receives funding.
+
+[ Related: What's Hot, Not in Healthcare IT Startups ]
+
+Some startups try to mimic existing technology that's successful. (Think FitBit.) Others enter a market segment that's already crowded. (Think syndromic surveillance.) Most of all, says Rick Blume, managing director of Excel Venture Management, they address a piece of a particular healthcare problem but don't offer a complete solution. (Think care for chronic conditions.)
+
+Beyond simply being unique, startups can do a few other things to set themselves apart. Here are five ways to stand out.
+
+Build Trust
+
+Rising costs, high-profile data breaches and the bungled Ebola case all erode consumer confidence in the healthcare system. To rebuild that trust, companies must help consumers cut through the complexity.
+
+John Morey, CEO and founder of MyRozi, a service that helps people figure out what their health plans do and don't cover, says parents are "delighted" when they find apps that save them time or money, especially when it comes to learning the ins and outs of a new diagnosis. Parents of children suddenly diagnosed with asthma, for example, seek advice (and deals) on everything from carpet cleaning to foam pillows.
+
+Put Security 'First, Last and Always'
+
+You very well may equate building trust with HIPAA. While not incorrect, that misses the point. People tend to be patients 2 percent of the time and consumers the other 98 percent of the time, Morey says. Yes, patient data must be protected, but a coupon for dust-trapping mattress covers doesn't need to be. (Recent federal regulation offers some clarity on what must be protected. More on that later.)
+
+[ Feature: Will Healthcare Ever Take IT Security Seriously? ]
+
+However, clinical apps need to be "HIPAA-plus" compliant in an era of evolving healthcare security threats, says Ron Remy, CEO of Mobile Heartbeat. "You need to go way beyond if you want a useful product."
+
+John Summers, vice president of cloud security with Akamai, encourages firms to incorporate security into the software development lifecycle. Try to issue patches that don't affect the underlying software layer, he adds, as that's a common cause of vulnerabilities.
+
+Remy goes so far as to hire hackers to test his firm's apps, which provide secure texting, voice and photography in a hospital setting. His one bit of advice to digital health entrepreneurs: "Security first, security last and security always."
+
+Look Beyond Reimbursement
+
+Whatever business model healthcare providers adopt, they still rely on reimbursements to pay the bills. However, that doesn't mean startups need to focus their efforts on reimbursements per se. Save providers time – with, say, secure messaging instead of a game of telephone tag, Remy says – and they can take on additional cases and bring in additional revenue.
+
+[ Related: Solving Healthcare's Disruptive Innovation Dilemma ]
+
+Mary Modahl, chief marketing officer with telehealth provider American Well, adds that providers today want to reduce the cost of managing care. Improving efficiency helps. Something as simple as letting patients fill out forms before they arrive – as opposed to while they sit in the waiting room – can save time and allow a practice to schedule more appointments.
+
+Care quality represents another opportunity for digital health, Remy says. Since October 2012, as a result of the Affordable Care Act, HCAHPS patient satisfaction scores have affected providers' value-based incentive payments. Apps or services that improve patient engagement offer one way to boost satisfaction. For that matter, anything bringing innovation to healthcare IT should help.
+
+Watch the Beltway
+
+Healthcare IT's regulatory environment remains murky. On matters such as medical device safety, the Food and Drug Administration can do little more than offer guidance; the diversity of medical devices, as well as the environments in which they are used, makes official rulemaking difficult.
+
+Startups looking to make their mark in digital health aren't helpless, however. Monica Chmielewski, special counsel with Foley & Lardner, advises startups to assess their product in terms of its audience and the type of data it will collect. This will determine whether HIPAA, the Stark Law or the Anti-Kickback Statute apply, she says, as well as whether the service is a device (and therefore regulated by the FDA) or a "health management system" (overseen by the Office of the National Coordinator for Health IT).
+
+Predict the Future
+
+Easier said than done, to be sure, but past and current healthcare trends point to several future digital health needs:
+
+Telehealth, in terms of both virtual doctor visits and coordinated care for patients with multiple comorbidities and, therefore, many specialists to see
+
+APIs, which will help providers improve data exchange with themselves and with patients
+
+Actionable data from clinical systems or medical devices that integrates with decision support and population health management systems, says Babatunde Akindele, managing principal of global strategy at Verizon
+
+Access to care – a hot-button issue in light of the Veterans Health Administration hospital wait time scandal
+
+[ Feature: 12 Healthcare IT Predictions for 2014 ]
+
+Future also refers to digital health startups themselves. Develop a business plan, Morey says – especially if your service will be free. (MyRozi, for its part, makes money through transaction and referral fees.)
+
+Modahl, meanwhile, offers advice that's similar for packing for an international trip. Astute travelers remove half the clothes from their suitcases and put twice as much money in their wallets before hitting the road. Startups, then, should remove half the features from their products and secure twice as much funding before hitting the market.

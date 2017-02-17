@@ -1,0 +1,43 @@
+A top HealthCare.gov security officer told Congress there have been two, serious high-risk findings since the website’s launch, including one on Monday of this week, CBS News has learned.
+
+Teresa Fryer, the chief information security officer for the Centers for Medicare and Medicaid Services (CMS), revealed the findings when she was interviewed Tuesday behind closed doors by House Oversight Committee officials. The security risks were not previously disclosed to members of Congress or the public. Obama administration officials have firmly insisted there’s no reason for any concern regarding the website’s security.
+
+The Department of Health and Human Services (HHS) responded to questions about the security findings in a statement that said, "in one case, what was initially flagged as a high finding was proven to be false. In the other case, we identified a piece of software code that needed to be fixed and that fix is now in place. Since that time, the feature has been fully mitigated and verified by an independent security assessment, per standard practice."
+
+According to federal standards set by the National Institute of Standards and Technology (NIST), the potential impact of a high finding is “the loss of confidentiality, integrity, or availability could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals.”
+
+Details are not being made public for security reasons but Fryer testified that one vulnerability in the system was discovered during testing last week related to an incident reported in November. She says that as a result, the government has shut down functionality in the vulnerable part of the system. Fryer said the other high-risk finding was discovered Monday.
+
+In another security bombshell, Fryer told congressional interviewers that she explicitly recommended denial of the website’s Authority to Operate (ATO), but was overruled by her superiors. The website was rolled out amid warnings Fryer said she gave both verbally and in a briefing that disclosed “high risks” and possible exposure to “attacks”.
+
+Fryer also said that she refused to put her name on a letter recommending a temporary ATO be granted for six months while the issues were sorted out.
+
+"My recommendation was a denial of ATO," Fryer told Democrats and Republicans who sat in on the day-long interview. According to Fryer, she first recommended denying the ATO to CMS chief information officer Tony Trenkle based on the many outstanding security concerns after pre-launch testing.
+
+"I had discussions with him on this and told him that my evaluation of this was a high risk," Fryer told the committee. Trenkle retired from his CMS job on Nov. 13. He has not responded to CBS News interview requests.
+
+This is the first time a government insider has gone on record challenging the administration's insistence that there were no worrisome security concerns. On Oct. 30, Rep. Gus Bilirakis, R-Fla., asked Health and Human Services (HHS) Secretary Kathleen Sebelius in testimony to Congress whether "any senior department officials" advised delaying the rollout of HealthCare.gov.
+
+"I can tell you that no senior official reporting to me ever advised me that we should delay," Sebelius answered. "We have testing that did not advise a delay. So not -- not to my knowledge."
+
+But Fryer says she briefed Sebelius' top information officers at HHS in a teleconference on Sept. 20, recommending the website's launch be delayed for security reasons. Fryer testified that the call included HealthCare.gov's chief project manager Henry Chao, HHS chief information security officer Kevin Charest and HHS Deputy Assistant Secretary for Information Technology Officer Frank Baitman. Fryer says she learned three days later that her advice was not going to be followed.
+
+In a statement, CMS spokeswoman Patti Unruh told CBS News the website is compliant with all federal security standards and "to date, there have been no successful security attacks on HealthCare.gov and no person or group has maliciously accessed personally identifiable information from the site."
+
+House Oversight Committee chairman Rep. Darrell Issa, R-Calif., who personally interviewed Fryer, told CBS News that there are potential risks to every facet of the system tied into HealthCare.gov and the public information stored within.
+
+"This is not about your application being compromised. This is about an exchange portal that lets me go into the Department of Homeland Security, that lets me go into the IRS, lets me go into an array, Social Security...that's the vulnerability," Issa said.
+
+Fryer also testified that she took part in preparing a Sept. 23 briefing for CMS Chief Operating Officer Michelle Snyder. Fryer's contribution to the briefing, a slideshow presentation, outlined multiple "high risks," "risk of unknown" and "risk of attacks." She told the House Oversight Committee that her concerns arose after security testing discovered "uncertainties" and "unknown risks."
+
+CMS' Unruh told CBS News that HealthCare.gov's authority to operate is conditioned on a number of strategies to mitigate risk including regular testing that exceeds best practices.
+
+"It is important to note that deliberations...involve varying opinions from professional, career, subject matter experts within the agency," Unruh's statement said. "The risk mitigation strategies and compensating controls that were prescribed are being implemented and executed as planned."
+
+However, Fryer testified that "unknown risks" can't be remediated or mitigated.
+
+Fryer told congressional officials that besides the new high risks exposed, there have also been new “moderate” security risk findings as well as a couple of new “low” findings.
+
+According to NIST, the potential impact from moderate findings is “the loss of confidentiality, integrity, or availability could be expected to have a serious adverse effect on organizational operations, organizational assets, or individuals” and the potential impact is low if “[t]he loss of confidentiality, integrity, or availability could be expected to have a limited adverse effect on organizational operations, organizational assets, or individuals.
+
+Fryer didn’t respond to our interview request.

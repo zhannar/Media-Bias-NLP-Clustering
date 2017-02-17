@@ -1,0 +1,29 @@
+Posted 2015-01-28
+
+A new generation of analytics tools is helping a growing number of companies derive bottom-line benefits from the ever-larger pools of data they're collecting.
+
+With technology monitoring and capturing just about every business process or customer interaction these days, every company has its own version of big data to wade through and use to gain insight. Increasingly, technology is enabling organizations to get at those insights and create real business value.
+
+United Healthcare is certainly sitting on big data. With 70 million members interacting with the $130 billion-a-year insurance provider, making sense of the resulting data has become a necessity as United's customers increasingly expect a better experience.
+
+"We have a lot of touchpoints with all of our customers, so we're sitting on a massive amount of data," says Ravi Shanbhag, associated director of data science, solutions and strategy for the Minnetonka, Minn.-based company. "We're not a Google or Twitter or LinkedIn, but in the realm of enterprise corporations, we're one of the big ones."
+
+United began using analytics software from SAS Institute several years ago, and as the technology has been beefed up to process big data, the company has discovered a number of ways to put its several petabytes of data to work.
+
+For instance, as the provisions of the Affordable Care Act have kicked in, United, like its competitors, has had to start complying with new federal requirements, including having to pump 85 percent of revenue back into providing services to members, essentially capping profits at 15 percent. Insurance providers that don't spend all of that 85 percent must pay the remainder to federal health regulators as a rebate—or face penalties and fines.
+
+Shanbhag and his team subsequently used SAS to start computing United's rebate risk exposure. That process involves marrying and analyzing numerous pools of data—including gross margins, taxes, customer claims and policy premiums—to determine the company's potential exposure and manage its resources more effectively. All in all, Shanbhag's team crunches several terabytes of data, and then revises, recalculates and reports on that data on a weekly basis.
+
+Having more accurate rebate exposure data has allowed United to make more prudent decisions with its resources, enabling it to, among other things, minimize the amount of cash that it sets aside in case of exposure. Without its newfound big data analytics capabilities, Shanbhag says, United would be much more likely to pay hefty rebates and potentially even fines for noncompliance. Perhaps more important, it would send the wrong message to its policyholders.
+
+"As an insurance company," says Shanbhag, "if you don't know your data very well, then a member can say, 'If you can't take care of your data, how can you take care of me?'"
+
+Being able to make decisions based on real data rather than conjecture is one of the main factors fueling growing interest in big data analytics tools, says Kumar Ramamurthy, vice president of enterprise information management for IT consultancy Virtusa. Every business, he says, is looking for a crystal ball.
+
+"It's a dream of theirs," he says. "This can help shape their future business."
+
+Cleaning Up Data
+
+Unfortunately, not every big data analytics effort goes as well as United's. Often, companies lack the data scientists and analysts needed to get their data clean enough to take full advantage of the technologies at their fingertips. And, as many companies have learned, data analytics efforts are only as good as the data itself.
+
+"The bulk of the data organizations collect is trash," says Eric Hanselman, chief analyst at IT consultancy 451 Research. "Extracting meaningful results can be very difficult. Even the best analytics tools can have problems when searching for a needle in a very big haystack. What if you're looking for a needle in a field and you don't have a haystack yet?"

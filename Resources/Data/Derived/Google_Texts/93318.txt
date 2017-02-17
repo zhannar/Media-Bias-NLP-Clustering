@@ -1,0 +1,45 @@
+Around three years ago, I was talking with the CIO of a regional hospital about how mobile apps could improve hospital and post-discharge experiences for patients. The conversation came up largely because of the Affordable Care Act, which included new rules to lower Medicare reimbursements to hospitals with high rates of readmissions for people with specific conditions. The goal: Encourage better discharge and follow-up care that would mean healthier patients and lower medical costs. We specifically talked about how a discharge app could be a major improvement in the discharge process and ensure better follow-ups for patients.
+
+Anyone who's ever been, or has had a loved one, discharged from a hospital (surgery or not), can relate. The do's and don'ts, the packet of prescriptions and lists of providers for follow-up care can be daunting for even the most simple of hospital stays. An app is a great option to improve medical outcomes.
+
+I remembered that conversation earlier this month as I watched Apple introduce CareKit and the Postsurgical care app created with it by Texas Medical Center. The app is similar to what that regional hospital had hoped to create, but had never been able to build from scratch.
+
+Apple COO Jeff Williams spelled out why CareKit and the apps it will enable are important at the same March 21 event during which Apple unveiled the new iPhone SE.
+
+[ Further reading: Optical research that could supercharge the Internet ]
+
+"One of the most important things affecting the outcome of surgery is what you do in the recovery process, yet we go from being monitored by a team of highly trained specialists using leading-edge technology to being discharged with a single sheet of paper," Williams said. "This is your list of things to do, not to do, which days to do them on. Adherence to this is notoriously very poor."
+
+Apple COO Jeff Williams.
+
+CareKit provides a solid framework for any healthcare organization to build upon. Apps are based around a series of modules -- four at present -- designed by Apple. Developers can start with these modules and build off them, customizing the data collected as needed. (This is very similar to how ResearchKit apps are developed.) The apps can get data from the sensors in an iPhone and/or Apple Watch as well as from connected devices like blood pressure cuffs, but they can also acquire information much more simply from user input.
+
+This modular approach means that developers don't have to reinvent the wheel for common tasks or functions, reducing the resources required to create care-related apps. (Not surprisingly, the hospital officials I was talking to in 2013 are planning to take a serious look at CareKit.)
+
+That tactic not only provides a level of consistency across CareKit apps, but also allows them to exchange information with each other or with ResearchKit apps and means they can interact with HealthKit data -- as long as Apple ensures that users allow such data sharing.
+
+CareKit's four modules
+
+CareKit offers developers just four modules for now. That may seem like a small number, but there is significant flexibility in how they can be used individually and integrated together. Although all four modules are available, it appears that Apple is allowing the use of only one or two if that's all that's needed for an app to accomplish its mission.
+
+The Care Card module is essentially a treatment plan or medical to-do list. It can serve as a reminder to take meds, perform physical therapy, change bandages, perform self-tests (such as measuring heart rate/blood pressure, check range of motion, etc.), record information about conditions and let users note they've performed the tasks. It can also provide additional information like warning signs or things like food, medication or activities to avoid. Data in the Care Card module can also be updated by healthcare providers during an office visit or based on data shared by the app itself. This is a major component of Texas Medical Center's Postsurgical care app.
+
+Apple Think of the Care Card module as essentially a medical to-do list.
+
+The Symptom and Measurement Tracker does exactly what its name implies: It allows users to record information about symptoms and other metrics related to a given condition. That's a broad description, but tracking different conditions can mean tracking very different things, including mood for users with depression; range of motion for those recovering from surgery or musculoskeletal injures; pain levels; vital signs like blood pressure or lung function; body temperature; and even photos of wounds or skin abnormalities. Additional relevant data could also be captured, either by being manually entered or recorded on an iPhone. (An asthma or COPD-related app could, for example, automatically record air quality data based on a user's location.)
+
+Capturing this data allows users and healthcare providers to see trends over time and to build a much more accurate picture of a person's progress than you'd get from just periodic office visits.
+
+The Insight Dashboard is probably the most significant module because it makes sense of the data recorded by the first two modules. At its most effective, it can combine those data sets and provide a better understanding of how treatment is working. The act of tracking adherence to a treatment plan or to medication needs is helpful in its own right. So is the act of tracking symptoms. Put them together and you can get a much fuller picture of the effectiveness of treatment and/or medication. Is a given pain med providing relief? Do the prescribed physical therapy exercises improve movement and/or relieve pain? Is an anti-depressant or anti-anxiety medication actually effective?
+
+Finally, the Connect module provides simple but key functionalities; it shares the information the app collects. Typically, this will be with a healthcare provider or care team, but it can also include a partner or spouse, parents, or anyone else a person trusts and who needs to know how that person is doing.
+
+CareKit and HealthKit
+
+Like Apple's HealthKit and ResearchKit, CareKit isn't a product in itself. It's a set of frameworks that enables a clear and consistent approach to tracking and managing data related to specific conditions. HealthKit, however, offers a single dashboard -- the Health app -- where users can track all the data collected by HealthKit-enabled apps and devices.
+
+Although CareKit apps will almost certainly be able to read and write data from the Health app, Apple doesn't appear to be creating a single dashboard for CareKit-related information. This makes sense given that each CareKit app can, and almost certainly will, contain its own Insight Dashboard module specific to the conditions and metrics it tracks.
+
+One advantage of HealthKit is that it facilitates information sharing with healthcare providers' systems. That's largely because of HealthKit support in apps from various manufacturers of electronic medical records systems and/or patient portals. They allow HealthKit data (once authorized by a user) to be passed through an app to the associated system where it becomes part of a user's medical record. (Data can also be passed from such apps into the Health app.)
+
+It isn't clear how much data, particularly Insight data, will be shared this way, though any data a CareKit app writes into the Health app could be shared automatically. Exactly what level of automatic sharing is allowed and whether it's processed through HealthKit or directly communicated to a provider's systems remains to be seen; it will likely vary from app to app.

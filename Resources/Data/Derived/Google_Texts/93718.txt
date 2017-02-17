@@ -1,0 +1,37 @@
+Compensation and Obamacare’s Impact on Low-Wage Workers
+
+About the Author Drew Gonshorowski Senior Policy Analyst, Simulations
+
+Center for Data Analysis
+
+In February, the Congressional Budget Office (CBO) released a budget outlook that showed significant changes in the effect of Obamacare on the supply of labor. This led to a furious outcry from Obamacare proponents and critics.[1] However, one additional bit of conversation seemed to get lost in the shuffle: The CBO clearly states that Obamacare will lower aggregate labor compensation by about 1 percent.[2]
+
+This 1 percent represents about a $1.016 trillion reduction in labor compensation from 2017 to 2024, according to the Senate Budget Committee.[3] When we attempt to look at this information on an individual basis, it is clear that low-income individuals will be hit the hardest.
+
+Modeling the Effects
+
+The CBO states: “Because the largest declines in labor supply will probably occur among lower-wage workers, that reduction in aggregate compensation (wages, salaries, and fringe benefits) and the impact on the overall economy will be proportionally smaller than the reduction in hours worked.”[4] This implies that low-income workers will be affected the most by Obamacare through the new incentives and benefits they could receive.
+
+In order to illustrate this on an individual basis, we modeled the incidence of a 1 percent decline in aggregate compensation within the Heritage Health Insurance Microsimulation Model.[5] According to the CBO, each year, aggregate compensation will be 1 percent lower due to Obamacare, but the individual response—and, consequently, the per person reduction—is unknown. When we model the response and solve for this number year to year, the result is the percent reductions below, separated by population and federal poverty level.
+
+It is important to note that this is a simple illustration of the incidence of the 1 percent reduction in aggregate labor compensation. As noted, the CBO states that declines in labor supply are concentrated among lower-wage workers. Our analysis attempts to capture this dynamic, but the actual response could be worse if people choose to continue supplying less labor. For low-income individuals, this effect exceeds 1 percent.
+
+In terms of the per capita effect, on average, individuals will receive between $700 and $900 less in labor compensation each year between 2017 and 2024, while nominal compensation reductions appear to be closer to uniform across all income levels. For example, in current terms, this represents a 6 percent reduction in labor compensation for an individual at the federal poverty level.[6] In other words, lower-income individuals lose a level of compensation similar to that of all workers, but as a percentage of their income, the negative effect is far greater than 1 percent.
+
+This analysis limits its scope to the 2017–2024 time frame, but the CBO notes that “[a]lthough such effects are likely to continue after 2024 (the end of the current 10-year budget window), CBO has not estimated their magnitude or duration over a longer period.”[7] The reduction of aggregate labor compensation is a long-term result of Obamacare.
+
+For lower incomes, this means that the burden will be felt for the foreseeable future. Since low-skill workers work less, they will gather less experience and not develop valuable skills that they need to move up the economic ladder. Work experience creates more human capital and leads to higher future earnings. As a result of less work, there is a reduction in human capital, and lifetime earnings will be permanently lower and exceed the $700–$900 average annual compensation loss.
+
+Less Work—but at a Cost
+
+While much of the conversation has centered on the best way to describe estimated reductions in hours of work, compensation has not been as prominent a part of the discussion. The CBO estimates that Obamacare lowers labor compensation by 1 percent annually between 2017 and 2024. Our work illustrates how this will affect individuals at different income levels.
+
+It is easy to observe that for lower incomes, Obamacare encourages people to work less, but that choice ultimately comes at a cost: further suppression of upward mobility and less economic flourishing.
+
+About the Author Drew Gonshorowski Senior Policy Analyst, Simulations
+
+Center for Data Analysis
+
+Show references in this reportHide References [1] Paul Krugman, “Health, Work, Lies,” The New York Times, February 6, 2014, http://www.nytimes.com/2014/02/07/opinion/krugman-health-work-lies.html?_r=0 (accessed February 2014). [2] Congressional Budget Office, The Budget and Economic Outlook: 2014–2024, February 2014, http://www.cbo.gov/sites/default/files/cbofiles/attachments/45010-Outlook2014_Feb.pdf (accessed March 3, 2014). [3] Daniel Halper, “Analysis: Obamacare Will Reduce Compensation by Over a Trillion Dollars Between 2017–2024,” The Weekly Standard, February 8, 2014, http://www.weeklystandard.com/blogs/analysis-obamacare-will-reduce-compensation-over-trillion-dollars_778886.html (accessed February 19, 2014). [4] Congressional Budget Office, The Budget and Economic Outlook: 2014–2024, p. 117. [5] The Heritage Health Insurance Microsimulation Model is a model composed of various datasets, including the Current Population Survey and the Medicaid Expenditure Panel Survey.
+
+[6] U.S. Department of Health and Human Services, Office of the Assistant Secretary for Planning and Evaluation, “2014 Poverty Guidelines,” http://aspe.hhs.gov/poverty/14poverty.cfm (accessed February 19, 2014).

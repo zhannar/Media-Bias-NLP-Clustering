@@ -1,0 +1,55 @@
+Patient tracking takes a techy turn at Ochsner
+
+Patient tracking takes a techy turn at Ochsner
+
+As fitness-crazed consumers embrace wearable activity trackers that record their every move, Ochsner Health System is among the first medical providers in the country to test the potential for similar technology to substantially change how doctors assess the health of chronically ill patients and deliver basic care.
+
+Ochsner recently became one of the first health care providers in the U.S. to begin testing Apple HealthKit, a service developed by technology giant Apple Inc. that enables doctors to remotely monitor patients who suffer from chronic conditions such as diabetes and hypertension.
+
+Dr. Richard Milani, who has overseen the implementation of the pilot program at Ochsner, said the initial rollout targeted high-risk patients, such as those who have experienced congestive heart failure. Physicians monitor such patients closely to help them avoid setbacks. Patients generally are instructed to monitor their own vital signs at home between visits to the clinic.
+
+Milani said using the Apple technology is like having “an easy button” that wirelessly sends key data directly from a patient’s home to the clinic.
+
+“HealthKit is a way to help jumpstart the monitoring,” he said. “It provides us with more frequent data points, and that enables us to course-correct (our treatment) quickly in order to get to the patient’s goal.”
+
+A primary data point, or indicator, for patients who have experienced heart failure is weight fluctuation. So patients are instructed to weigh themselves each day and take note of any upward trend.
+
+By using Apple HealthKit and a scale designed to integrate with the system, the patient’s daily weigh-in results go directly to Ochsner. The system alerts a case manager to a meaningful change so that a physician or nurse can be immediately informed.
+
+Similarly, a patient using a blood pressure cuff that integrates with the system can take regular pressure and heart rate readings at home and the data can go directly to the clinic.
+
+The technology is helping to reduce hospital readmissions by enabling doctors to resolve issues at an early stage, Milani said.
+
+“We know that if we can collect this data more frequently, we can reduce your chance of a heart attack, stroke or even dying,” he said.
+
+Milani said about 200 patients are using the technology, and Ochsner soon will expand the program to include patients with hypertension. “We’ve seen some success, and we want to do more,” he said.
+
+When Ochsner launched its Apple HealthKit program in October, it became the first health care provider in the country to integrate the Apple service into its electronic health records system provided by Epic Systems Corp., which is a leading provider of EHR technology. Other Epic clients have since followed suit.
+
+Sumi Rana, who is chief technology officer for Wisconsin-based Epic, said the company now uses HealthKit in records systems that serve 170 million patients. He said patients must give their permission for the Epic system to access data from Apple HealthKit’s data repository and share it with the patient’s doctor.
+
+“Now that health care organizations like Ochsner have data not only from traditional means, but also coming directly from the patients, the clinicians and care managers can get a more complete picture of the patient’s health,” he said.
+
+Eventually, he predicted, developers will find ways to extract the most medically relevant data from those popular wearable activity trackers and integrate it into a total medical record, as well. “This is going to be the future of health care,” Rana said.
+
+The move by Apple and other tech powerhouses into health technology coincides with the increased use of incentives, under the Affordable Care Act and other health care initiatives, for doctors to keep patients healthy. The new services help providers steer clear of the “fee for service” model, which has tended to reward physicians based on procedures and treatments they prescribe rather than on health outcomes.
+
+The technology carries certain financial rewards for health care providers. By helping to keep patients out of hospitals, institutions can avoid penalties for readmissions that they could incur under new U.S. government guidelines.
+
+In addition, Medicare recently has begun making monthly payments to providers for non-face-to-face care coordination services for patients who have two or more chronic conditions, making remote data monitoring more financially viable.
+
+Meanwhile, many independent software developers are working on ways to integrate new apps with services created by Apple and other tech companies and to create apps that can work on their own to improve health care coordination.
+
+One local player in this space is the health and wellness platform developer Get Healthy. Company CEO and founder Blaine Lindsey said doctors can use his software to communicate with patients and monitor such “biometrics” as blood pressure, heart rate and glucose readings.
+
+“With our app, the doctor decides what data is meaningful for a specific patient and then uses Get Healthy to collect that data,” Lindsey said.
+
+He said that, in contrast to Apple HealthKit, Get Healthy does not aim to link into a provider’s records system, but rather to streamline the sharing of crucial data between doctor and patient.
+
+“We’re focused on wellness and not electronic health records,” he said.
+
+Lindsey said both types of technology are “changing medicine from reactive to proactive” by helping doctors home in on health problems before they become acute.
+
+He thinks the Get Healthy system will find favor with health care providers in rural settings and smaller institutions that have fewer resources but “want to play on the same field” as large hospitals.
+
+Lindsey said Get Healthy soon will launch a pilot program with a large physician group in southwestern Louisiana, and the company is in the process of raising funds to expand into targeted locations in Texas, Mississippi, North Carolina and New Hampshire.

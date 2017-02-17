@@ -1,0 +1,45 @@
+Why nurses hate EHRS — WEDI-Con, Cybersecurity of med devices forums this week-DHMSM application date pushed back again
+
+With help from Arthur Allen (@ArthurAllen202) and David Pittman (@David_Pittman)
+
+NURSES HATE EHRS — WHY? A recent survey of 14,000 registered nurses by BlackBlook shows that their dissatisfaction with EHRs stands at a whopping 92 percent. Most blame problems on financial administrators and CIOs for “selecting low performance systems” based on price and government incentives like Meaningful Use, and “cutting corners at the expense of quality of care.” Ninety-seven percent of nursing administrators in for-profit hospitals say nurses’ workloads were not considered in their facilities’ EHR selection decision. Five percent say they are “struggling with continually flawed EHR systems.”
+
+Story Continued Below
+
+The nurses ranked Cerner as the most “nurse user-friendly” inpatient EHR vendor. Other vendors in the study included: Siemens, McKesson, Epic Systems, Allscripts, CPSI, GE Healthcare, NextGen, Meditech, Quadramed, HMS, HCS, RazorInsights, 3M, HCare, Vista, Healthland, Prognocis and eClinicalWorks. More results here: http://bit.ly/1y9Qfz0 This is certainly not the first time we’ve heard of hospital administrators ignoring physician and nurse workflow when purchasing an EHR…
+
+eHealth tweet of the weekend: @ S_Amani: Why 'one patient, one chart' is still far off via @VentureBeat #ehealth #ccio http://zite.to/10azPeB
+
+Welcome to Monday morning eHealth, where I want to thank our very own ONC national coordinator Karen DeSalvo for giving me such excellent New Orleans recommendations! They miss you down there. Got feedback for us? Ping me at agold@politico.com and connect with us on Twitter @ ashleyrgold, @ POLITICOPro and @ Morning_eHealth.
+
+THIS WEEK: WEARABLES, CYBERSECURITY AND WEDI: Today in our very own Rosslyn, there’s a wearable technology “fashion show” and conference — http://wnt2014.gomodev.com/. Timothy Jordan from Google will kick it off with a discussion of wearable computing, and there’s plenty of digital health on the agenda. Mitre, IBM, Adidas, Nike, Sony and White House reps will be making appearances through Tuesday. WEDI-Con 2014 kicks off tomorrow http://bit.ly/1olGqxL around noon with some educational sessions on meaningful use audits and HIPAA security risk assessments. The FDA’s “Collaborative Approaches for Medical Device and Health Care Cybersecurity” is Tuesday and Wednesday.
+
+DON’T BLAME IT ON THE EHR: TEXAS HEALTH RESOURCES is clarifying that Thomas Duncan’s travel history was put in the EHR but not “communicated effectively among the care team” in full-page ads in local papers (H/T to HIStalk).
+
+The DoD DHMSM application due dates have been pushed back again — from Oct. 23 to Oct. 31.
+
+CLARIFICATION: PWC LEADS OPEN-SOURCE EHR EFFORT FOR NEW DOD EHR: On Thursday we reported on the DoD’s $11 billion contract for a brand-new electronic health records system. We’d like to clarify that VistA itself is not one of the bidders. Rather, PwC, in partnership with DSS Inc., General Dynamics, MedSphere and MedicaSoft announced in September that it would bid for the DoD contract. “PwC is leading the team and its proposal uses some of the fundamentals of the VistA application through the open source architecture supported by OSEHRA,” a PwC spokesperson points out.
+
+CDC, ONC WORKING ON EBOLA SCREENING TOOL: A CDC and ONC initiative launched to help providers meet meaningful use public health objectives is now focusing on creating an Ebola electronic screening tool, ONC said Friday. The CDC has developed a clinical algorithm for evaluation of arriving travelers and a checklist for patients being evaluated in the U.S. for Ebola. The Public Health Electronic Health Records Vendors Collaboration Initiative, created in August 2013, will work to include the information in an electronic format to help clinicians. “The overall goal here is for us to explore ways in which the electronic medical record can serve as a prompt to help our healthcare professionals around the country identify individuals that may be at risk for Ebola,” said Dana Meaney Delman of the CDC during a webinar soliciting industry feedback. CDC and ONC will be having a separate call with members of HIMSS Electronic Health Record Association to gain input.
+
+ABOUT 1 IN 4 STATES ADDRESSING TELEMEDICINE REGS: Twelve states are actively revising their telemedicine policies either through working groups or rulemaking, Kofi Jones, vice president of public affairs at telemedicine company American Well, said Friday. The states want to update their regulations to try to keep pace with the dynamic and growing field, Jones said at the AHIP State Health Issues Conference. They include Virginia, North Carolina, Tennessee, Iowa, Indiana, Texas, New Jersey, Colorado, Florida, Ohio, Arkansas and Idaho. “It’s a moving target. Most of them are moving forward, Jones said. “Some of them are moving back.” There has never been a busier year in telehealth policy, she said, citing interest in licensure, reimbursement, definitions of telemedicine and the patient-physician relationship, and determinations of what sorts of medical practices are allowed to happen at a distance.
+
+FORMER HEALTH IT CZAR DEFENDS EHRS IN EBOLA SCARE: David Blumenthal, a former national coordinator for health IT, has defended EHRs from accusations they were partly to blame for mishaps in the Texas Ebola outbreak, saying the problem was “humanware, not the software.” Texas Health Presbyterian Hospital at one point blamed its EHR system for not prompting questions about Ebola patient Thomas Duncan’s travel history, allowing him to be discharged from the emergency room before returning to be admitted two days later. The hospital later retracted the statement. “The culprit was a mundane and all-too-common failure by people to communicate in a fast-paced and stressful medical setting,” Blumenthal, president of the Commonwealth Fund, wrote today on the think tank’s blog. Doctors and hospitals today blame EHRs for problems because they are ubiquitous and imperfect, he said. They are also an easy scapegoat for “underlying dysfunctions” in the broader health system. “The dissatisfaction with the technology will recede as EHRs improve, and as a new generation of young clinicians, raised in the electronic world, populates our health care system,” Blumenthal said. “In the meantime, blaming EHRs for whatever ails American health care is an understandable, if not wholly justifiable, reaction to the dramatic changes with which providers are grappling.”
+
+WHAT WE’RE CLICKING:
+
+New doctors site rates for experience, quality — USA Today: http://usat.ly/1vSNW5l
+
+Ebola isn’t a messaging problem, Dr. Scott Gottlieb writes in the WSJ: http://on.wsj.com/1vSOMiB
+
+In NextGov: Is Big Data the cure to the VA’s woes? http://bit.ly/1ntnlJn
+
+David Blumenthal in the Commonwealth Fund: EHRs are the new lightining rod in healthcare: http://bit.ly/1vSQ25g
+
+Dr. Wen Dombrowksi tells the WSJ venture capitalists should back inventions for the sick, not the rich: on.wsj.com/1xWZGll
+
+Fortune considers the causes of rising medical identity theft: http://for.tn/1t1s59Q
+
+An infectious disease specialist and member of the HealthTap app tells NPR how telemedicine can help manage hypochondria and fears of Ebola: http://n.pr/1urGQ20
+
+NEW POLITICO POLL OUT TODAY REVEALS most battleground voters believe their health care costs will go up under the Affordable Care Act. Fifty-seven percent said they believe their personal costs will increase, while only 7 percent said they will decrease. Read more: http://politi.co/1vRsjm5.

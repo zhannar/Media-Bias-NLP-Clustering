@@ -1,0 +1,71 @@
+On August 4, 2014, CMS released the annual Hospital Inpatient Prospective Payment System Final Rule for FY 2015 (the “Final Rule”) affecting discharges occurring on or after October 1, 2014. For inpatient acute care hospitals, CMS estimates a net operating payment rate increase of 1.4% over FY 2015 payments and projects a decrease of $756 million in total IPPS payments for FY 2015.
+
+The 1.4% increase in operating payments reflects a market basket adjustment of 2.9%, minus a 0.5% multi-factor productivity reduction, minus a 0.2% reduction in accordance with the Affordable Care Act, and a 0.8% recoupment adjustment for MS-DRG documentation and coding changes. The operating and capital payment rates also carry forward a 0.2% reduction put in place by CMS in FY 2014 in response to implementation of the two midnight rule. Hospitals that either do not submit quality data or are not Electronic Health Record (EHR) meaningful users are subject to an additional one-quarter reduction (0.725% reduction) of this initial market-basket rate; hospitals that do not meet either of these requirements will be subject to a one-half reduction (1.45% reduction) of this initial market basket rate.
+
+The Final Rule adopts disproportionate share hospital (DSH) payment adjustments, changes to various payment provisions aimed at improving the quality of care, such as the Hospital Value-Based Purchasing (VBP) Program and the Hospital Acquired Condition (HAC) Reduction Program, and changes to the board jurisdiction and cost reporting requirements, among numerous others provision. Additional information about some of the notable provisions in the Final Rule is set forth below.
+
+Hospital VBP Program
+
+The VBP Program adjusts payments to hospitals under the IPPS based on the quality of care they provide to patients as defined by reference to certain consensus-based measures. In FY 2014, the available funding pool for value-based incentive payments was equal to 1.25% of the base-DRG payments to all participating hospitals. This percentage will increase for FY 2015, 2016 and 2017 to 1.5%, 1.75% and 2%, respectively. For FY 2015, CMS continues to estimate that this 1.5% will translate into $1.4 billion available for value-based incentive payments.
+
+In carrying out its statutory obligation to establish a Hospital VBP Program under which hospitals meeting performance standards receive value-based incentive payments, CMS adopted quality and performance standards for FY 2017, FY 2019, and FY 2020. For FY 2017, CMS added two new safety measures and one new clinical care - process measure, re-adopted the current version of the central-line associated bloodstream measure, and removed six “topped-out” clinical process measures. Over 80 percent of the measures in the Hospital VBP Program will assess health outcomes, patient experience, and cost. For FY 2019/2020 VBP Programs, CMS will adopt one new hospital-level risk-standardized complication rate following elective hip and knee arthroplasty measure with a 30-month performance period for FY 2019 and a 36-month performance period for FY 2020.
+
+HAC Reduction Program
+
+CMS is implementing the HAC Reduction Program, which was established as part of the Affordable Care Act. Under this Program, hospitals in the highest quartile for certain HACs (i.e., the poorest performing hospitals) will receive a one percent inpatient payment reduction beginning in FY 2015. The HACs are a group of reasonably-preventable conditions selected by CMS that patients developed during the course of a hospital admission. CMS estimates that this payment reduction will decrease overall payments by $369 million.
+
+In the Final Rule, CMS finalized the FY 2015 scoring methodology for calculating a hospital’s total HAC score, as set forth in the FY 2014 IPPS Final Rule. The scoring methodology considers certain patient risk factors, such as a patient’s comorbidities, to prevent hospitals serving a large proportion of sicker patients from being unfairly penalized. Although the scoring methodology for FY 2015 will not change, CMS did make changes to certain scoring methodologies and weighting that will be implemented in FY 2016.
+
+Hospital Inpatient Quality Reporting (IQR) Program
+
+With respect to the IQR Program, which requires hospitals to report data on select measures to receive the full annual percentage increase, CMS is adding 11 new measures to the Hospital IQR measure set for FY 2017 and removing 19, although it proposed to remove 20. Ten of the 19 removed measures were “topped-out” measures that are being retained as voluntary electronic clinical quality measures. In total, CMS is finalizing 63 measures in the Hospital IQR Program measure set for FY 2017 payment determination and subsequent years. Of the 63 measures, 47 are required measures, which is 10 fewer than in FY 2016.
+
+The Final Rule also aligns certain reporting requirements in both the EHR Incentive Program and the IQR Program and finalizes new policies relating to the administration of the IQR Program. The Final Rule does not, however, finalize its proposal to require quarterly submission of clinical quality measure data. Hospitals can voluntarily submit one calendar year quarter’s data for quarter 1, quarter 2, or quarter 3 of 2015 by November 30, 2015 to partially fulfill requirements for both programs.
+
+Long-Term Care Hospitals (LTCHs)
+
+CMS estimates that the Final Rule will increase LTCH PPS payments by 1.1% or approximately $62 million for FY 2015, which CMS attributed to multiple factors, including a 2.2% rate update (based on a market basket update of 2.9% adjusted by a multi-factor productivity reduction of 0.5% and an additional reduction of 0.2% points), and a 1.3% reduction for the budget neutrality adjustment imposed as year-three of a three-year phase-in. CMS also estimates that the projected impact of other policy changes will increase LTCH PPS payments by $116 million. Such policy changes, which are set forth in the Final Rule, include (1) the reinstatement of the moratorium on the development of new LTCHs and LTCH satellite facilities and additional LTCH beds in existing facilities; (2) the delay in full application of the 25-percent patient threshold that provides for Medicare to make payments at a rate comparable to IPPS hospitals for patients above the 25-percent threshold, which would be reached when a LTCH admits more than 25 percent of patients from a single acute care hospital; (3) the elimination of the “5 percent payment threshold” policy, under which Medicare treats as one discharge for the cost reporting period (and makes one LTCH PPS payment on the basis of each patient’s initial principal diagnosis) all discharges to a co-located “on-site facility” (such as a co-located acute care hospital) and the readmissions to the LTCH, if a LTCH (or a LTCH satellite facility) directly readmits more than five percent of its total Medicare inpatients discharged from an “on-site facility”; (4) and the payment adjustment for “subclause (II)” LTCHs (i.e., those classified under Section 1886(d)(1)(B)(iv)(II) of the Social Security Act).
+
+Uncompensated Care and DSH Payment
+
+Pursuant to the Affordable Care Act, starting in FY 2014, hospitals receive 25 percent of the amount they previously would have received under the former statutory formula for DSH. The remaining portion, equal to an estimate of 75 percent of what otherwise would have been paid as Medicare DSH, will be aggregated nationally and adjusted for decreases in the rate of uninsured individuals and a statutory factor of 0.2% and distributed to hospitals based on their relative share of the total amount of uncompensated care.
+
+In the Final Rule, CMS will distribute $7.65 billion in uncompensated care payments, a decrease from the $8.56 billion estimate in the proposed rule. CMS states that the decrease relates to changes to the Office of the Actuary’s estimate of payments that would otherwise be made for Medicare DSH in FY 2015 (resulting from lower projected inpatient spending) and also the change in the percentage of individuals that are uninsured as estimated by the Congressional Budget Office.
+
+In addition, CMS finalizes a process to identify hospitals that have merged such that data from all hospitals involved in the merger can be considered for purposes of establishing the remaining provider’s uncompensated care payment. CMS is also providing hospitals with 30 days from display of the Final Rule to submit corrections to the existing list of mergers (this is an extension of the original 60 days from the date of public display of the proposed rule to notify CMS of any errors).
+
+Board Jurisdiction and Cost Reporting Requirements
+
+In the FY 2015 IPPS Proposed Rule, CMS proposed to remove from the current regulation the requirement that a provider have either an audit adjustment or a protest item for a specific item for the Provider Reimbursement Review Board (Board) to have jurisdiction over that item. Instead, CMS proposed to require that a provider include all such claims on its cost report as a condition for payment.
+
+CMS is not finalizing its proposals to revise the cost reporting regulations and the provider appeals regulations as set forth in the FY 2015 IPPS Proposed Rule (79 FR 27978) due to the “concerns raised by commenters about the breadth of the proposed provisions, and the questions raised in public comments about the interpretations [CMS] provided in the preamble to the proposed rule . . . .” CMS further comments that it is not addressing public comments received with respect to these provisions of the Proposed Rule. Such comments will be later addressed, in a subsequent rulemaking document, as appropriate, according to CMS.
+
+Hospital Readmissions Reduction Program
+
+For FY 2015, the maximum possible readmissions payment adjustment factors under the Hospital Readmissions Reduction Program can be no more than a three percent reduction. CMS finalized the proposed expansion of the applicable conditions for FY 2017 to include the patients readmitted following Coronary Artery Bypass Graft (CABG) surgery measure. For FY 2016, CMS did not propose an expansion of the applicable conditions.
+
+Graduate Medical Education Payments (IME/GME)
+
+After recently increasing the full-time equivalent (FTE) cap-building period for new residency programs from three years to five years, CMS finalized a modified version of its proposal to “simplify and streamline” the timing of the FTE regulations by making the FTE resident caps, rolling average, and indirect medical education (IME) intern-and-resident-to-bed (IRB) ratio cap effective simultaneously, beginning with the applicable hospital’s cost reporting period that coincides with or follows the start of the sixth program year of the first new program started.
+
+CMS also adopts a policy stating that, effective October 1, 2014, a rural hospital that has been redesignated as urban, due to the implementation of new Office of Management and Budget (OMB) delineations, can receive a permanent cap adjustment for a new program, if the rural hospital received a letter of accreditation for the new program, and/or started training residents in the new program, prior to being redesignated as urban. CMS also finalized changes to the participation of redesignated hospitals in rural training tracks.
+
+Miscellaneous
+
+The Final Rule also:
+
+Finalized CMS’s proposal to remove the requirement for CAHs that physicians certify prior to discharge that an admitted inpatient is expected to be discharged or transferred within 96 hours and adopted a requirement that such certification be completed no later than 1 day before the date that the claim for the inpatient CAH service is submitted.
+
+Reminded hospitals of their obligation to publicly list their standard charges for items and services, as required by the Affordable Care Act.
+
+Finalized CMS’s proposal for a two-year transition period to enable CAHs to retain their CAH status any time a CAH becomes located in an urban area as a result of an OMB delineation.
+
+Described comments received on how an alternative payment methodology under the Medicare program for short inpatient hospital stays might be designated.
+
+Extended the low-volume hospital payment adjustment and the Medicare Dependent Hospital program for an additional year (through March 31, 2015) pursuant to Sections 105 and 106 of the Protecting Access to Medicare Act of 2014, respectively.
+
+Updated labor market areas used for the wage index based on the most recent core-based statistical area delineations issued by the OMB based on 2010 Census data.
+
+As noted above, this article highlights some of the key provisions of the Final Rule. The full text of the Final Rule is available here and will be published in the Federal Register on August 22. The CMS Fact Sheets for the Final Rule are available here and here.
+
+Reporters, Juliet M. McBride, Houston, +1 713 276 7448, jmcbride@kslaw.com and Kristin M. Roshelli, Houston, +1 713 751 3263, kroshelli@kslaw.com.

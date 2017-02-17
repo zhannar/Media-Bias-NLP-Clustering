@@ -1,0 +1,23 @@
+Project Management
+
+Diagnosing HealthCare.gov's performance issues
+
+It has been several weeks now since the HealthCare.gov federal insurance exchange website went live, was inundated with traffic, went awry, was taken down for maintenance, then brought back online still filled with glitches. Recent analysis reveals many performance problems have yet to be fixed, and end-user experiences across states remain inconsistent.
+
+Unfortunately, what was supposed to be the dawning of a new era for the current administration quickly turned into a major boondoggle, as the site continues to wilt under pressure. After spending untold time and effort defending the Affordable Care Act from judicial and legislative challenge, how could this have happened? More importantly, what lessons can we all learn?
+
+A common problem among web development teams is that scalability is often de-prioritized against the goal of greater site functionality. But adding more features and functionality in order to create a richer end-user experience can actually have the adverse effect of making web pages heavier and slower. This can alienate end users, who want nothing more than to get in and out of a site quickly. Indeed, Compuware’s initial analysis identified several issues resulting from the delivery of feature-rich pages, including third-party services slowing down page load times and failure to merge CSS and JS files on the site’s registration page, resulting in “overweight” content.
+
+Officials conceded that insufficient time was allotted for testing. Certainly, in the rush to launch the site, the IT team responsible for HealthCare.gov missed several critical opportunities for web performance optimization. But HealthCare.gov’s performance woes extend well beyond poor code. In fact, the site provides a perfect case-in-point on why several deeply rooted beliefs and attitudes about web load testing and application performance management (APM) need to change.
+
+Organizations need to adopt a more proactive approach to performance management that extends throughout the entire application lifecycle. In other words, testing should not be considered a separate phase of development that happens only once, right before production. Websites and applications should be optimized for performance based on anticipated load from inception, to design, all the way through to the development phase and roll-out. This is a cultural change necessitating tools to foster close collaboration between all those with a stake in application performance, including developers, testers, QA professionals and operations.
+
+
+
+Organizations must measure and understand performance under load from the only perspective that matters – that of end users. Today, there is an incredible amount of complexity that stands between the data center and end-user browsers, including the cloud, content delivery networks and third-party services. Measuring performance under load from the true end-user perspective is the only way to understand how all of these variables are converging to deliver a single experience. New APM solutions deliver this view. Armed with this knowledge, organizations can proactively identify end-user performance degradations and fix what is humanly possible along the complete application delivery chain.
+
+
+
+Finally, organizations need to understand that even with the best planning, technology can be complicated and unpredictable. Load testing can provide peace of mind that a website or application can hold up under load, but performance issues can arise anytime and from anywhere. Load tests therefore must be supplemented with ongoing monitoring of all transactions in production, 24x7, which enables more proactive, accurate identification of bottlenecks. This also helps reduce inefficient finger-pointing and “war-rooming” at a time when every second counts -- and which is likely going on with the HealthCare.gov IT team as we speak.
+
+In summary, while the performance issues HealthCare.gov experienced under heavy load during its first few weeks are not uncommon, they are extremely painful. Surely, end-user expectations for HealthCare.gov might have been a bit irrational and unforgiving, especially given their knowledge of how much traffic the newly launched site was likely experiencing. Nonetheless, these expectations are today’s reality, and IT organizations must adjust – or face similar consequences.

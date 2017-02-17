@@ -1,0 +1,29 @@
+4014734
+
+The bureaucracy tasked with Obamacare implementation may be violating a law that requires government agencies to keep private information safe.
+
+Under the the Federal Information Security Management Act (FISMA), the Department of Health and Human Services’ Center for Medicare and Medicaid Services (CMS) is required to have an “Authority to Operate,” or ATO. In order to receive an ATO, new information tech systems must perform a set of tests, including “Security Control Assessments” (SCA).
+
+But according to CMS’s 2014 budget request, no such security assessment took place. The Federal Healthcare Marketplace website was rolled out without full end­-to­-end testing.
+
+Indeed, the large number of new systems created because of Obamacare created a backlog of testing. CMS could not complete its required security. Failing to complete the required means no ATO, and hence a violation of federal law under FISMA.
+
+FISMA was enacted in 2002. Under FISMA, federal agencies are required: “to develop, document, and implement an agency­-wide program to provide information security for the information and information systems that support the operations and assets of the agency, including those provided or managed by another agency, contractor, or other source.”
+
+Centers for Medicaid and Medicare Services is responsible for the oversight and implementation of the Federal Healthcare Marketplace website and associated systems.
+
+Documents obtained by The Daily Caller reveal the federal violations.
+
+A CMS Information Security bulletin released in April 2013 explains that FISMA applies to
+
+…all organizations (sources) which have physical or electronic access to a Federal agency’s computer systems, networks, or IT infrastructure; or use information systems to generate, store, process, or exchange data with a Federal agency, or on behalf of a Federal agency, regardless of whether the data resides on a Federal Agency or a Contractor’s information system. This includes services that are either fully or partially provided; including other agency hosted, outsourced, and cloud computing solutions. (Pg.1)
+
+Part of FISMA’s law requires CMS to complete the ATO process.
+
+The implementation of a Federal Government information system requires a formal Government Authorization to Operate (ATO) for infrastructure systems and/or all application systems developed, hosted and/or maintained on behalf of CMS. (Pg. 8)
+
+Another CMS document entitled “Security Information Review” released in September 2012 reaffirms the FISMA requirement:
+
+By law, each CMS FISMA system must obtain an ATO before it can be placed into operation. Therefore, security controls must be operational, effective, managed, and continuously monitored. (Pg. 7)
+
+CMS has published guidelines called the “Authorization to Operate Package Guide” to provide instruction on how to obtain an ATO. Each ATO package must include 12 “artifacts” in order to be submitted for authorization. The table of 12 artifacts includes two known as the “Security Control Assessment Plan (SCA Test Plan)” and “Security Control Assessment Report (SCA Report).”

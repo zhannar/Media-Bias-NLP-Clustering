@@ -1,0 +1,15 @@
+With the rollout of the Affordable Care Act (ACA) nearly complete, our healthcare system is in the midst of a historic transition to a value-based system driven by proactive population health management. This shift creates a tremendous opportunity to apply analytics to improve outcomes and reduce costs.
+
+Despite this promise, it is important to remember that analytics initiatives in other industries are known to have a high failure rate. What’s needed is not more data or reports, but meaningful and actionable insights to drive change. Consider this four-step approach, called Analytic Pathways, which grounds analytical work in a strategic perspective, and provides structure to an inherently exploratory and iterative process.
+
+Step 1. Frame a Powerful Question: The first, and most important, step is to clarify the problem you are trying to solve. In order to leverage the power of analytics, broad business issues must be translated to a set of specific questions that can be explored quantitatively.
+
+This is easier said than done. To help get started, it’s useful to develop a high-level Key Performance Indicator scorecard of metrics related to a high-level strategic question. For example, if you are evaluating strategies to refine benefit design for spouses, your scorecard could compare risk, cost, and utilization metrics of spouses compared to employees.
+
+Step 2. Identify Key Drivers: Once you’ve framed the key question for the analysis, the next step is to understand where the problem lies. Is it driven by a particular conditions, or types of procedures? Is it concentrated in certain locations or plan types? Step two centers on slicing the data in different ways to reveal a small set of factors that have a disproportionate influence on the question.
+
+Focus your analysis on understanding the causes of absolute differences in “rated metrics,” like per-member-per-month (PMPM) costs, or admission rates. For example, consider the breakdown of inpatient admissions below. Many analysts would gravitate towards the 23 percent increase in behavioral health admissions. However, looking at the absolute differences shows that the 13 percent increase in medical admissions is the most important driver, accounting for just over half of the total increase in the population’s admission rate.
+
+Admission Type Last Year This Year % Change Absolute
+
+Difference % of Total Difference Medical 31.0 35.0 13% 4.0 51% Surgical 21.2 23.4 10% 2.2 28% Maternity 11.0 12.0 9% 1.0 13% Behavioral Health 2.2 2.7 23% 0.5 6% Non-Acute 4.4 4.5 2% 0.1 1% Total 69.8 77.6 11% 7.8 100%

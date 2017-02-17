@@ -1,0 +1,25 @@
+To say that the healthcare industry is in a state of flux may be the understatement of the 21st century. Despite ongoing criticism over the “slow” pace of big data analytics, EHR interoperability, patient engagement, and reimbursement changes, the industry’s health IT capabilities are lightyears ahead of where they were just five or six years ago. This rapid acceleration of technology has certainly had its benefits, but its pitfalls are intimately known to clinicians and rule makers alike.
+
+2015 has been a pivotal year for health IT, says Beth Israel Deaconess Medical Center CIO John Halamka in a new blog post, as consternation over ambitious mandates collided with pent-up frustration from EHR implementation and optimization mistakes of years past. 2016 promises to be just as eventful as the industry settles into ICD-10, stares down Stage 3 meaningful use, and explores the potential of federally-driven accountable care.
+
+As the ubiquity of the “bring your own device” (BYOD) movement starts to foster a culture of quick and easy app-based solutions, and the demands of big data analytics start pushing sensitive and valuable health information into the cloud, what can the industry learn from its experiences over the first three-quarters of a tumultuous 2015?
+
+The major lesson of the past year is one that will no doubt be repeated many times in the future: clinicians are overwhelmed by the sheer volume of mandates, quality measures, workflow reforms, and documentation requirements that they must meet each and every day.
+
+“All of these are good ideas individually, but the sum of their requirements overwhelms providers,” Halamka writes. “In an era when we’re trying to control costs, adding more clinical FTEs to spread the work over a large team is not possible. The end result is that providers spend hours each night catching up on the day’s documentation and are demanding better tools/automation to reduce their strain.”
+
+To relieve the pressure on clinicians, EHRs must evolve from basic, transactional, documentation repositories to fully-fledged customer management systems that provide simple and intuitive solutions to the workflow bottlenecks that create opportunities for errors.
+
+However, Halamka notes that these improvements will likely come incrementally, and must be the product of collaborative, stakeholder-driven efforts to enact cultural changes and manage expectations. “Unless there is a sense of federated collaboration, build and buy, central and local support, IT will be seen as the rate limiting step,” he warns.
+
+But federal mandates do demand sudden, enormous leaps forward, and the disparity between how healthcare organizations function and what rule makers expect from them is creating significant tension.
+
+“ICD-10, the Affordable Care Act, Meaningful Use, and the HIPAA Omnibus rule may be the focus of regulators and legislators, but they are not the focus of most users,” says Halamka. “Stakeholders want to know when their projects will be accelerated and when the distraction of federal regulations will end. Big change management projects in IT are hard on users, forcing them to accept decreased short term service for long term gains. The problem is that the agenda of most IT departments has been co-opted by federal programs and the users are no longer willing to wait.”
+
+Halamka and many other prominent voices in the healthcare industry have called for the delay of Stage 3 meaningful use until providers can address these critical challenges. Organizations are preoccupied with addressing the every day concerns of their clinicians while fighting to maintain market share in an increasingly competitive and consolidated environment. Coping with internal demands, such as easing the flow of health information and communication by adopting cloud technologies and BYOD policies, have left little time for the lofty expectations of CMS and the ONC.
+
+Healthcare organizations are increasingly looking towards cheap, third-party solutions that take advantage of staff preferences for a mobile workflow. As the Internet of Things mentality encourages the connection of mobile devices, interoperability, and passive data collection, providers no longer have to rely solely on expensive EHR installations to support their big data ambitions.
+
+“There is no question that EHR transactional systems will need to exist to support compliance and regulatory imperatives,” notes Halamka, “but increasingly we’ll look to third party apps to provide modular functionality on top of the transactional systems.”
+
+This shift towards more agile and collaborative infrastructure building may be a key feature of health IT strategies in 2016. As interoperability and big data analytics capabilities become increasingly central to crafting the healthcare information systems of the future, providers must learn to balance internal and external expectations as they move deeper into the demanding world of systematic reform.

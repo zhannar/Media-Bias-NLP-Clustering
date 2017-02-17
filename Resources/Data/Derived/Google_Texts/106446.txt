@@ -1,0 +1,31 @@
+Advertisement
+
+Hackers were able to break into servers of Healthcare.gov, the website used by the federal government through which Americans can sign up for Obamacare plans, naturally sparking off "I told you so" accusations coming from those who oppose the Obama administrations health insurance program.
+
+The Wall Street Journal first reported the breach, which consisted of a malware uploaded by a hacker to one of the website's servers that could launch a distributed denial of service (DDoS) attack. During a DDoS attack, the malware sends loads of massive fake traffic to the website that the server crashes and users are unable to access the website.
+
+The Centers for Medicare and Medicaid Services (CMS), lead agency for Obamacare, says the attack was launched on one of the government's test servers where new code for Healthcare.gov is tested before it goes live on the official website. CMS spokesperson Aaron Albright also says that no personal and private information was compromised during the breach, which took place on July 8 and went undetected until almost two months later during a manual scan of system logs on Aug. 25.
+
+"Our review indicates that the server did not contain consumer personal information; data was not transmitted outside the agency, and the website was not specifically targeted," Albright says. "We have taken measures to further strengthen security."
+
+The Department of Homeland Security's Computer Emergency Readiness TEAM (US-CERT) also responded to the scene and has already extracted the malware used to launch the attack.
+
+"It's unsurprising that the website has suffered a 'malicious attack'," says House Oversight and Government Reform Committee Chairman Darrell Issa. "For nearly a year, the administration has dismissed concerns about the security of HealthCare.gov, even as it obstructed congressional oversight of the issue."
+
+Issa is calling for CMS administrator Marilyn Tavenner to appear at the house committee's hearing on Sept. 18 to answer questions regarding "transparency, accountability, and information security" surrounding the Obamacare website.
+
+Computer forensic scientist Rebecca Mercuri says the HealthCare.gov website had "security problems from the get go" and that the experts responsible for building the website were more "concerned about functionality, not security."
+
+"They were there to fix the slowdown, to make sure people could sign up," Mercuri laments.
+
+The Department of Health and Human Services says the affected server did not have intrusion detection software or a firewall and that access to the server was protected by a manufacturer-provided password that could be easily guessed by inexperienced hackers.
+
+Republican Representative Joe Pitts, Chairman of the House Energy and Commerce Health Subcommittee, was also quick to voice his disappointment over the breach. Pitts authored the Health Exchange Security and Transparency Act, which was opposed by the Obama administration supposedly because the paperwork required by the bill would impede security investigations. The bill would have required the government to report to all affected individuals any security breach affecting personal data.
+
+"Our efforts last January to improve health exchange security and transparency were vigorously opposed by the White House - even though we assembled a bipartisan, veto-proof majority," Pitts says.
+
+Mercuri says the kind of cyber-attack launched on Healthcare.gov is "very, very widespread" and that she wouldn't be surprised if this was not the first attack on the website.
+
+"No website is immune from these attempts," she says.
+
+© 2016 Tech Times, All rights reserved. Do not reproduce without permission.

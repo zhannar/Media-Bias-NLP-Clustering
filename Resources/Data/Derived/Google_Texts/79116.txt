@@ -1,0 +1,35 @@
+Advertisement
+
+A federal audit unearthed basic cybersecurity flaws in a computer system where the government stores sensitive personal information on millions of health insurance customers.
+
+MIDAS, or the Multidimensional Insurance Data Analytics System (MIDAS), a digital infrastructure worth $110 million, is the main storehouse for information gathered under the Affordable Care Act of President Barack Obama. While it does not handle medical records, it contains names, Social Security numbers, addresses, phone numbers, birthdays, and other critical information of customers on HealthCare.gov and state insurance.
+
+The MIDAS review of the Office of Inspector General (OIG) revealed [pdf] the following security policy issues:
+
+Not disabling unnecessary generic accounts for testing
+
+Not encrypting user sessions
+
+Not conducting automated vulnerability checks to simulate attacks, which would have revealed password weaknesses, misconfigurations, and other vulnerabilities
+
+Using a shared read-only account to access personally identified information (PII) in the database
+
+The audit also uncovered 135 database vulnerabilities (usually software bugs), 22 of which are classified as high-risk and 62 as medium-risk information security control flaws.
+
+"It sounds like a gold mine for ID thieves," said Jeremy Gillula of technology rights group Electronic Frontier Foundation. The technology expert added "[t]here certainly were some gaps."
+
+The audit was conducted from August to December 2014 and focused on the MIDAS security controls-related policies and procedures of the Centers for Medicare & Medicaid Services (CMS), which oversees the system and administers Obamacare.
+
+Medicare administrator Andy Slavitt, in his written response to the OIG review, assured that the privacy and security of customers' PII are "top priority" for the agency, committing to address the high vulnerabilities within a week of identification and fully implement audit recommendations.
+
+MIDAS has been under close scrutiny since a "disastrous rollout" in 2013. According to a 2014 report from the Government Accountability Office (GAO), health officials failed to implement system-wide best practices, risking sensitive information through small weaknesses.
+
+The GAO is set to publish another report sometime this year about multiple cybersecurity issues hounding the system, which appears to have been infiltrated by hackers last summer albeit no consumer information was taken.
+
+About 10 million individuals at present are covered through Healthcare.org and state insurance marketplaces. MIDAS keeps information of both current and former customers, with data retained for years.
+
+Prior to Healthcare.gov going live in 2013, administration officials assured the public that customers' information would only be used for determining coverage eligibility, with the intention of storing the least amount of personal data possible.
+
+Photo: Michael Havens | Flickr
+
+© 2016 Tech Times, All rights reserved. Do not reproduce without permission.

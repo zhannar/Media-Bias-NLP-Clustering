@@ -1,0 +1,41 @@
+You could say that Americans are obsessed with wearables. There are more than 400 fitness bands, smart watches and other wearable health-related devices on the market, with new ones emerging every day. International Data Corp. predicts that the wearables market will grow by 173 percent in 2015, during which more than 72 million wearables are expected to be shipped to customers. We use them for everything from counting the steps we take in a day to tracking medications, sleep, weight loss or pregnancy.
+
+But are wearables worth all the buzz? As positive as it sounds, convincing millions of Americans to monitor their own health data — a movement dubbed the “quantified self” — is unlikely to have much impact on the country’s health as a whole. For one thing, wearable users tend to be young, upper middle class and fit. They are the marathon runners, triathletes, serious joggers and serial dieters of America who can afford the latest technology. By and large, they are not the patients we need most to monitor: the millions of chronically ill, whose care and treatment accounts for some 70 percent of U.S. health care spending, or more than $2 trillion a year.
+
+Besides being the wrong demographic, today’s wearable wearers are collecting data on themselves that are far too narrow to be of much use for improving the health of whole populations. Although most are willing to share the information with their doctors, according to a recent PwC report, most doctors don’t want it. Doctors lack confidence in the reliability of data from wearables, even from Food and Drug Administration-approved devices. More important, they lack a standard process for incorporating the data into medical practice. Even if there were such a process, the usefulness of the data would be limited to the individual wearer, having virtually no impact on improving treatment for chronic disease overall.
+
+This brings us to the questions: How can we make all of the information being gathered by wearables about individuals valuable on a much larger scale? How can we take advantage of the breakthroughs in use and cost of the technology to improve the health of all Americans? How can we, in other words, move from the narrow self-serving world of the “quantified self” to a model of large-scale information gathering, analysis and population health management that I call the “contextualized us”?
+
+Improving Our Health Today
+
+The “contextualized us” model means understanding all the data about an individual, but within the context of the larger population. When we are able to track activity within large populations of the chronically ill, we can deduce trends that provide an early warning of an individual’s failing health. By merging this trend data with a baseline of a patient’s own vital signs (collected from wearables or physician-prescribed remote biometric devices), and then applying machine learning and advanced analytics, it’s possible to reliably detect signs of a patient’s deterioration, often days or weeks before symptoms are noticeable. Armed with that information, health care professionals can intervene when their patients are at home, where care is less costly and less invasive than in the hospital — and the chances of successfully avoiding major problems are greater.
+
+Think of it this way: Would you rather have your doctor treat you for pulmonary edema in the emergency department, or call you at home to tell you that subtle changes in your vital signs indicate you are headed toward worsening congestive heart failure in a few days, so you need to do X, Y and Z to avoid it?
+
+The most exciting thing about “contextualized us” is that the technology exists. Individual data logs are fueling mass-scale machine learning for entire populations. Through this process, quantified data are enriched with such contextual information as caregiver observations and the patient’s own feedback, and then applied to understand the patient’s response to treatment. The machines can rapidly sort through an otherwise overwhelming influx of data from remote devices to find what is relevant — that is, what has changed recently and the likely effect if that change is not addressed. The technology then notifies the clinical team that the patient requires attention.
+
+I think of it as machines that are trained to monitor a patient with the intelligence of a panel of experienced, highly educated clinicians in a hospital intensive care unit.
+
+The Game Changer
+
+As “contextualized us” becomes reality in the near future, it’s conceivable that the practice of medicine will no longer be limited to the physician’s office, or the hospital and clinic. Instead, data about our health, and the ability to improve those data, will span all the places and times of our lives.
+
+In such a future, it is also possible that, with mobile health technology so readily available and inexpensive, sending a chronically ill patient home without those devices and connecting them to a remote patient intelligence platform likely will be considered negligent medical practice.
+
+Getting Started
+
+What is the application of this approach for your health care organization? I would like to make five suggestions to optimize your remote patient-monitoring efforts:
+
+Develop a strategy to reduce preventable hospitalizations.Health & Human Services projects that, by 2018, alternative value-based payments will make up 50 percent of all government payments. To receive the payments, you must reduce preventable hospitalizations.
+
+Identify high-risk patients whose health status can be affected by the technology.Because remotely monitoring patients who won’t benefit from the service adds costs with no value, it’s crucial that you monitor only those patients who are most likely to be helped by monitoring. For example, a patient with chronic obstructive pulmonary disorder (COPD) but without any acute care encounters related to that disease is not a prime candidate because there are no acute events to prevent.
+
+Track multiple parameters that address all of a patient’s chronic conditions.Forty percent of hospital admissions are for conditions other than the patient’s primary diagnosis, so you must collect data streams for all of the conditions that can be impacted. You might monitor a patient with COPD for pulse, blood pressure, oxygen saturation and peak flow rate, while also monitoring cardiac output and stroke volume for a COPD patient who also has chronic heart problems.
+
+Track longer-term trends.To detect subtle but critical changes in a patient’s health, it’s imperative to monitor not only day-to-day changes in their vitals, but also longer-term trends. For example, we have found that day-to-day changes of a single parameter like weight are not predictive of chronic heart failure decompensation and, instead, lead to a large number of false positives. Comparing multiple parameters with each patient’s personalized 30-day baseline can detect health deterioration earlier and with greater accuracy.
+
+Use machine learning to improve health deterioration models.If a model detects health deterioration in a patient and predicts it will lead to a hospital admission in five days, we want to record whether the prediction was accurate. The information we enter enables the computer to learn from the experience and continuously refine the rules to make the model more effective, improving health outcomes and reducing false positives.
+
+In sum, the revolution in health has begun. It’s no longer about you, me, her and him. It’s about “us.”
+
+Dean Sawyer is the co-founder and CEO of Sentrian, a remote patient intelligence company based in Aliso Viejo, Calif.

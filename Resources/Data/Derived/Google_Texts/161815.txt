@@ -1,0 +1,9 @@
+The newest coding problem with Healthcare,gov, the website for the federal Obamacare exchanges, isn’t exactly a glitch.
+
+According to The Weekly Standard, the site uses an open-source script named DataTables, which was created by British developer SpryMedia. The company makes the software available to anyone under two open-source licenses, but says the licensing requires that the code contain a copyright notice.
+
+The copyright is in the opening lines of the software, an example of which can be found on SpryMedia’s website, but TWS says it’s not anywhere in Healthcare.gov’s code:
+
+Healthcare.gov clearly copied some of its code from DataTables: One piece of the available code, for instance, includes an individual programmer’s commentary that also shows up in the HHS code.
+
+SpryMedia said it was “extremely disappointed” to see the code used without the copyright notice, and that they’ll be looking into the issue with HHS.

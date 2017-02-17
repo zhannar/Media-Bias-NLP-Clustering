@@ -1,0 +1,45 @@
+While cloud solutions are advancing HIE and patient engagement strategies, more providers are focusing on how cloud services can be integrated into types of healthcare data security policies.
+
+According to a survey by Level 3 Communications Inc. and HIMSS Analytics, approximately 47 percent of healthcare IT professionals reported that their organization was planning on implementing cloud solutions for business continuity and disaster recovery functions.
+
+The survey also revealed that only 13.3 percent of participants had a cloud service that provided business continuity and disaster recovery capabilities.
+
+Cloud solutions can provide healthcare organizations with an additional layer of protection in the event of a healthcare data security incident. For example, healthcare providers can use a cloud platform to securely backup patient and business information to ensure the organization can still function after a security event.
+
+“Healthcare organizations are tapping into cloud-based solutions to support the transformation to value-based care, from big data analytics that can improve patient outcomes to back office applications, email and record back-up,” said Level 3’s Vice President of Business and Cloud Ecosystem Development Brian Hoekelman. “In our conversations with customers, we also find that security is always top of mind.”
+
+Healthcare data security has become a top priority for IT professionals when it comes to investing in cloud applications in 2016, reported the survey. In the 2014 survey, only 31.3 percent of survey participants stated that their organization planned on investing in cloud solutions for disaster recovery purposes, which often includes healthcare data security measures.
+
+Researchers also found that respondents were implementing cloud services to develop more comprehensive incident recovery plans. When participants were asked to assess the motivation factor from 1 (least motivating) to 7 (highly motivating), healthcare data security response was evaluated at 5.11.
+
+Participants ranked business continuity and disaster recovery as the second motivator for moving to the cloud.
+
+The first reason for implementing cloud services was cost savings at 5.17.
+
+“Many healthcare organizations are using cloud solutions today, but this is only the beginning,” explained Advisory Solutions Group member at HIMSS Analytics Kyle Mumley. “[T]his study supports those findings with 85 percent of participants indicating plans to use the cloud in 2016. The study also shows that the primary drivers for this shift are cost savings and disaster recovery initiatives.”
+
+Along with approaches to certain healthcare data security policies, healthcare IT professionals are also repositioning their views on cloud services. The survey showed that healthcare organizations are looking to cloud solutions to improve back office solutions, HIE, and patient engagement tools.
+
+Researchers revealed that 41 percent of participants plan on using a cloud service to advance HIE while 46.7 percent anticipate using a cloud product for back office solutions, such as Office 365 and email.
+
+About 38 percent of respondents also plan on improving patient engagement and empowerment tools using cloud services.
+
+HIE and administrative solutions have also become top priorities for healthcare IT professionals since the 2014 survey. Nearly 25 percent more of survey respondents plan on investing in cloud solutions for back off solutions while 21 percent more are focusing on cloud-based HIE platforms.
+
+“In 2014, the cloud was primarily seen as a model that could support HIE and data storage, whereas in 2016, it is being leveraged for a full range of functions including patient empowerment,” explained the survey. “And, there’s more to come, as the cloud is poised to play a prominent role when healthcare organizations deploy telemedicine, mobile health applications and remote monitoring tools – trends that are inevitable as organizations implement value-based care programs in alliance with the Affordable Care Act.”
+
+Although cloud solutions can be used to improve a healthcare provider’s strategies with data security, HIE, and patient engagement, other research has uncovered that cloud security should also be a high-ranking concern for the industry.
+
+A recent report from Blue Coast Elastica Cloud Threat Labs stated that organizations did not know that 26 percent of its documents in its cloud were broadly shared, which means that the document is shared internally with employees, externally with contractors and affiliated groups, and, in some cases, publicly.
+
+More alarmingly, the report found that one in ten broadly shared files in a cloud application discloses sensitive data. Out of those files, 14 percent contain PHI.
+
+As the Level 3 and HIMSS Analytics survey noted, healthcare providers are seeking cloud solutions to advance their organization’s overall goal of transitioning to value-based care, including healthcare data security, HIE, and patient engagement.
+
+However, organizations should be aware that while cloud services are leading innovation in the healthcare industry, it can also lead to serious healthcare data security issues, such as inappropriate exposure of PHI and malware threats to cloud security.
+
+Dig Deeper:
+
+• Maintaining Healthcare Security Compliance in the Cloud
+
+• What Are Top Healthcare Cloud Security Concerns?

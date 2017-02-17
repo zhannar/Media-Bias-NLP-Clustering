@@ -1,0 +1,27 @@
+Topics: From the Wires, News
+
+ATLANTA (AP) — Companies across the globe are on high alert to tighten up network security to avoid being the next company brought to its knees by hackers like those that executed the dramatic cyberattack against Sony Pictures Entertainment.
+
+The hack, which a U.S. official has said investigators believe is linked to North Korea, culminated in the cancellation of a Sony film and ultimately could cost the movie studio hundreds of millions of dollars. That the hack included terrorist threats and was focused on causing major corporate damage, rather than on stealing customer information for fraud like in the breaches at Home Depot and Target, indicates a whole new frontier has emerged in cybersecurity. Suddenly every major company could be the target of cyberextortion.
+
+“The Sony breach is a real wake-up call even after the year of mega-breaches we’ve seen,” says Lee Weiner, Boston security firm Rapid7’s senior vice president of products and engineering. “This is a completely different type of data stolen with the aim to harm the company.”
+
+This should signal to all U.S. businesses that they need to “take cybersecurity as serious as physical security of their employees or security of their physical facilities,” says Cynthia Larose, chair of the privacy and security practice at the law firm Mintz Levin in Boston.
+
+The breach is particularly troubling in Hollywood, where secrecy is supposed to be paramount to insure that movie secrets worth millions don’t get leaked.
+
+“Movie studios have, by and large, behaved as high-security intellectual property purveyors; prints have been tightly controlled, screeners are watermarked, and bootleggers are prosecuted wherever possible,” says Seth Shapiro, a professor at the University of Southern California’s School of Cinematic Arts. He said that’s what makes it so surprising that email leaks showed that Sony executives apparently gave out passwords in unencrypted emails and made other security blunders.
+
+“The apparently laxity of Sony IT security — given the history of prior hacks — is unprecedented in the history of media technology,” he says. Sony Corp.’s PlayStation network was hacked in 2011.
+
+Studios are trying to tighten up procedures in the wake of the Sony attack. Warner Bros. executives earlier this week ordered a company-wide password reset and sent a five-point security checklist to employees advising them to purge their computers of any unnecessary data, in an email seen by The Associated Press. “Keep only what you need for business purposes,” the message said.
+
+Even so, some say there is little that corporations can do to prevent such a sophisticated cyberattack. The key may lie more in detection and limiting damage.
+
+“There are very few companies that can withstand that kind of large assault,” says Rich Mogull, an analyst with security firm Securosis in Phoenix. “But a lot of companies do need to improve what they’re doing on security, I see it every day with companies I work with.”
+
+Companies also need to invest in identifying vulnerabilities on their networks and work quickly to address them. Jonathan Sander, strategy and research officer at data security firm Stealthbits in Hawthorne, N.J., recommends undertaking a comprehensive review to ensure outdated files, such as digital copies of old contracts and electronic conversations that occurred years ago, are no longer being stored on the corporate networks.
+
+“There is a lot of stuff just sitting there waiting to be taken and used for the kind of thing that has happened at Sony right now,” Sander says.
+
+He says the Sony breach has been coming up in every customer meeting that Stealthbits Technologies had held since the stolen information began leaking out and making international headlines earlier this month.

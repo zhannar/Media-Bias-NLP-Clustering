@@ -1,0 +1,23 @@
+Frozen preservation could help patients in need of transplants get better matched organs.
+
+Frozen preservation could help patients in need of transplants get better matched organs. Pixabay Public Domain
+
+Cryopreservation, the freezing of biological material for preservation purposes, is already in widespread use for applications, such as saving semen, embryos, blood, and plant seeds. When it comes to tissues and organs, however, the process is more problematic.
+
+A research team from the College of Engineering at Oregon State University discovered a new approach to the process that could eventually allow wider use of “vitrification,” or ice-free cryopreservation.
+
+“This could be an important step toward the preservation of more complex tissues and structures,” said Adam Higgins, an associate professor in the OSU School of Chemical, Biological, and Environmental Engineering, in a statement.
+
+The issue with cryopreservation is that crystallization often occurs when water freezes; this risks damaging the tissues and cells the process is meant to preserve, Higgins explained. It is for this reason that the researchers explored various types of cryoprotectants aimed at reducing cell damage during the freezing process. One of these is ethylene glycol, also known as the compound used in automobile antifreeze.
+
+Higgins said that these cryoprotectants can be problematic as well — they’re toxic, and can damage the cells they’re supposed to be protecting from the extreme cold. In the new research from OSU, the team developed a mathematical model that simulated the freezing process in the presence of cryoprotectants. They identified a way to minimize the damage; if cells are initially exposed to a low concentration of cryoprotectant and then allowed time to swell, then the sample can be successfully vitrified after rapidly adding a high concentration of cryoprotectant.
+
+The result was far less overall toxicity. The study showed that the survival rate for healthy cells following vitrification rose from around 10 percent with a traditional approach to over 80 percent with the new process.
+
+“The biggest single problem and limiting factor in vitrification is cryoprotectant toxicity, and this helps to address that,” Higgins said. “The model should also help us identify less toxic cryoprotectants, and ultimately open the door to vitrification of more complex tissues and perhaps complete organs.”
+
+Such an accomplishment would open the door to a great number of applications of vitrification. The advancements in tissue regeneration and stem cell use are closely intertwined: one goal would be creating tissue in small amounts and storing them until they’re needed for transplantation. Organs for transplants could be safely preserved until a precise immunological match was found for their use.
+
+The technology could benefit the drug development field as well. Drug testing is currently carried out on animal models or cell culture systems, which often are not an accurate predictor of how a drug will interact with a human. To address the issue, researchers have been developing “organs-on-a-chip,” microfluidic chambers containing human cells, which are cultured under conditions that mimic native tissues or organs. These could be incredibly useful, but in order to be deployed, cells must be preserved in long term storage. The new research from OSU could make this possible.
+
+Source: Davidson A, Glasscock C, McClanahan D, Benson J, Higgins A. Toxicity Minimized Cryoprotectant Addition and Removal Procedures for Adherent endothelial Cells. PLOS One. 2015.

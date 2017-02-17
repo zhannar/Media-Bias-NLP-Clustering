@@ -1,0 +1,45 @@
+Bureaucrats try to reassure residents after Vermont’s health exchange suffers another tech failure.
+
+A Romanian attacker hacked the Vermont health exchange’s development server last December, gaining access at least 15 times and going undetected for a month, according to records obtained by National Review Online.
+
+CGI Group, the tech firm hired to build Vermont Health Connect, described the risk as “high” in a report about the attack. It also found possible evidence of sophisticated “counter-forensics activity performed by the attacker to cover his/her tracks.”
+
+The report says that no private consumer information was stored on the hacked server, and that CGI Group had “verified that no additional servers [that may store private data] communicated with any of the identified attacker IP addresses.”
+
+But Michael Gregg, the CEO of the cyber-security consulting firm Superior Solutions, says it’s possible the hacker went on to access other parts of Vermont Health Connect, covering his tracks and remaining undetected to this day.
+
+“There is potential for consumer risk,” says Gregg, who has also testified to Congress about cyber-security risks for HealthCare.gov. “Best practices were not carried out in several respects. All those point to the possibility of further or additional breaches, because they have just not shown that they have done the due diligence, and without those controls in place, it’s hard to say. The attacker could have captured passwords on additional systems and used those to create different accounts that Vermont Health Connect doesn’t know about yet.”
+
+The hacker gained access because the default password to the development server was never changed (in violation of guidelines laid out in the state’s official policy) and because access to the server was not restricted only to users who were known and approved.
+
+Lawrence Miller, chief of health-care reform for the state of Vermont, tells National Review Online that the development deadlines might have been a factor in the security problems, as it had been on other state exchanges and the federal exchange.
+
+“This is a highly compressed time frame, and you saw corners getting cut — I don’t know if ‘corners getting cut’ is the right way to put it — but you saw all of those teams working on an expedited basis,” he says. Other parts of the health exchange were stored on much more secure servers, he adds, and in his view consumers’ personal information was not compromised.
+
+The hacked development server “frankly should never have been plugged into the wall as far as I could tell,” he says. “If [this breach] had been any measure of our [overall] security system, that would be very problematic, but it’s more like someone walking into an unlocked, new house, and the default password for the alarm system is on a Post-It note next to the alarm pad, and the front door was unlocked. . . . [The hacked server] wasn’t behind the firewalls that were protecting the rest of our system. That’s what I’ve been given to understand. So it just wasn’t at all subject to the same security.”
+
+E-mails about the attack show Vermont Health Connect employees discussing their concerns about CGI Group. In one January 24 e-mail, Michael Morey, the chief technology officer for the State of Vermont, wrote: “If for some reason CGI staff opened up development to the internet to speed integration or whatever and did not bring that to the [State of Vermont], ‘I would not be surprised’ but more disappointed again. I could say so much more but everyone on this email is smart.”
+
+In another e-mail, Nick Waringa, the chief information-security officer for Vermont’s Department of Information and Innovation, wrote, “The lack of available CGI security resource on Fridays and Mondays is troubling.”
+
+Larry Seltzer, an independent security analyst and contributing editor at the information-technology publication ZDNet, says that CGI Group’s role in the breach is hardly surprising, given its involvement with the glitch-plagued HealthCare.gov, as well as with some of the state exchanges that ran into tech problems.
+
+“You can’t buy bad publicity like this,” Seltzer says. “It looks to me like whoever was administering the development servers didn’t take security for them very seriously. It’s not good, but it could have been a lot worse. I’d call [this incident] moderately embarrassing.”
+
+CGI Group declined NRO’s request for an interview, referring us back to Miller, the Vermont chief of health-care reform. Miller would not comment when asked whether CGI Group’s contract was subject to review, but he said that the state has engaged in renegotiations with the company to address areas of concern.
+
+According to the records that NRO reviewed, “suspicious . . . commands” dated back to December 18, 2013, and the Romanian IP first logged on to the Vermont Health Exchange server on December 23. But the attack was not detected until January 23.
+
+“This is very troubling and indicates that sufficient monitoring was not being performed,” says Gregg, the cyber-security expert. “The report states that support does not seem to be available 24/7. . . . It only takes a short period of time to cause massive damage and raises the potential for large amounts of [consumers’ personally identifying information] to have been exposed.”
+
+Furthermore, the RIPE database, a European Internet registry, has already associated the Romanian IP addresses involved in the hacking of Vermont Health Connect with other attacks, spam, and malware. Had Vermont Health Connect been following best practices, Gregg points out, it would have already blocked such potentially threatening addresses, as well as those originating in Eastern Europe, Russia, and China.
+
+This isn’t the first security breach at the Vermont health exchange.
+
+Last November, the Associated Press reported on an incident in which an enrollee received his own application in the mail, courtesy of an anonymous sender who had scrawled “VERMONT HEALTH CONNECT IS NOT A SECURE WEBSITE!” on both the envelope and the application. The unnamed sender had obtained paperwork that included the applicant’s Social Security number as well as other private information.
+
+Miller, the health-care reform chief, insists that Vermont residents should feel confident the health exchange has security measures in place to protect their private information.
+
+“Any time you are operating a system that has people’s information on it, there’s a risk, and we look around the world at fairly sophisticated organizations that have had data breaches,” Miller says, citing breaches at Target, banks, and elsewhere. “It would be foolish for anybody in our position to be comfortable at any time that we were fully secure, so our antenna, our concern, is at a very high level in this area. . . . You can never say there’s a zero chance, and you have to be concerned every single day, but I do think the appropriate measures are in place to assure Vermonters that their data [are] safe at the level of high current standards.”
+
+— Jillian Kay Melchior is a Thomas L. Rhodes Fellow for the Franklin Center for Government and Public Integrity. She is also a Senior Fellow at the Independent Women’s Forum.

@@ -1,0 +1,47 @@
+Stacked Deck
+
+Hint: It’s not because the White House is stupid. The top web strategist from Obama’s 2012 campaign tells Andrew Romano why the deck is stacked against government technology—and how we can fix our flawed system.
+
+It was April 3, 2012, and Michael Slaby was pulling his second all-nighter in a row. As chief innovation and integration officer for President Obama’s reelection campaign, Slaby was overseeing the relaunch of BarackObama.com, which was scheduled to go live the following day. He and his team were scrambling.
+
+“We were breathing air into this thing to make sure it went up,” Slaby tells The Daily Beast. “And it ended up just being a stub site. It was really constricted and small. The bigger, broader site came a month later. But we knew we were going to get crushed with a huge amount of traffic on Day 1 and we just needed to get it live.”
+
+Unfortunately, Slaby’s counterparts in the Obama administration—the folks who designed HealthCare.gov, the Obamacare portal site that went live on October 1 and has been plagued by problems ever since—didn’t have that luxury.
+
+Over the past two weeks, almost every reporter who’s attempted to figure out why HealthCare.gov has been such a headache—“preventing users from creating accounts, failing to recognize users who do have accounts, putting users in inescapable loops, and miscalculating healthcare subsidies”—has posed the same question:
+
+“[Obama’s] campaign was widely praised for the preternatural talents of its IT team…So why has the administration seen the main website for Obama’s signature achievement fail so badly at its moment of truth?”
+
+“How could the most tech-savvy White House in history launch a flawed Web site?”
+
+“How could the Obama administration, the brains behind the most sophisticated online political campaign ever, be responsible for something so boneheaded?”
+
+In short, why couldn’t the Obama people just work their campaign magic on HealthCare.gov?
+
+To answer that question, most journalists have focused on the site’s technical glitches: “a glut of stray software code that served no purpose”; “snafus with Javascript and CSS files and HTML tags”; and how “hitting ‘apply’ on HealthCare.gov causes 92 separate files, plug-ins and other mammoth swarms of data to stream between the user’s computer and the servers powering the government website.”
+
+But what if the problem is bigger than Javascript and CSS? What if the issue is not so much what was created as where it was created? What if the real lesson of HealthCare.gov is that the U.S. government, unlike Obama’s campaign team, is set up to make boneheaded websites no matter how hard it tries?
+
+That, in effect, is what Slaby tells me when I call him and ask him to respond to the folks who have been contrasting the campaign’s successes with the White House’s failures. “I think a lot of the challenge here with the ‘they ran such a tech-savvy campaign, why are the having problems building a website?’ crowd is that this isn’t apples and oranges,” he says. “It’s more like apples and firetrucks.”
+
+I ask Slaby to elaborate.
+
+“The campaign was working in an environment that was vastly more unconstrained in terms of what we could do, what technologies we could use, how we could build, how we hired people, how we procured outside help,” he explains. “All of those variables would be wildly in favor of the campaign. They’re all really stacked against the White House. We have set a lot of the technical projects in government up to fail by being a little irrational.”
+
+As Slaby sees it, there are four big reasons why HealthCare.gov is having more trouble than BarackObama.com did. First, it’s just a vastly more complicated operation. “People forget that this is an exchange,” Slaby tells me. “It’s not Amazon, where you can buy everything in the world directly from Amazon. You’re creating an account on HealthCare.gov, but you’re actually getting covered by Blue Cross Blue Shield or whatever. There are hundreds of these providers, so there are hundreds of integration points with all these systems. And then all of those systems are different, and not all of them are acting perfectly, either, so they’re not that easy to integrate with. Every one of those connection points has the potential to cause a bottleneck.”
+
+And time wasn’t on the White House’s side. “When Congress writes the bill, they’re not asking engineers how much time they should have,” Slaby says. “They’re just like, ‘By 2014 we’re going to have a site. And there are all these steps that need to happen before you can start building.’ The bill doesn’t say, ‘Once we figure out all these details, the engineers will get two years to build.’ It says, ‘No matter what happens, this is going up in 2014.’ It’s just not how deadlines are typically set. In the private sector, nothing launches on time. Twitter struggled with scale and performance for, like, its first year. But the White House is not allowed to scale up for a year. Everybody in the world wants to look at this thing on Day 1. That’s different.”
+
+Get The Beast In Your Inbox! Daily Digest Start and finish your day with the smartest, sharpest takes from The Daily Beast Cheat Sheet A speedy, smart summary of news and must-reads from The Daily Beast and across the Web By clicking "Subscribe," you agree to have read the Terms of Use and Privacy Policy Subscribe Thank You! You are now subscribed to the Daily Digest and Cheat Sheet. We will not share your email with anyone for any reason
+
+That said, complexity and timing are challenges, not excuses. According to a new report in The Washington Examiner, a conservative publication, “insurers are only beginning to be able to assess the true depth of the site’s technological problems”—and “there are red flags beyond the error messages that have been publicly visible.” One of the biggest bottlenecks comes right at the beginning of the process. Users are required to enter their personal information, create an account, and log in prior to examining their insurance options—extra steps that were imposed by officials who, the Examiner reports, “didn’t want consumers to see the base price of the health insurance plans offered, which are inflated by new regulations, before the system could collect their income data and calculate what they’d pay in premiums after receiving government subsidies.” In other words, optics trumped usability.
+
+Even so, HealthCare.gov may have been destined to slip up simply because it was made by the U.S. government. As Slaby and other technologists see it, there are bigger forces behind the flaws of HealthCare.gov than just complexity and timing. The first is procurement law. “It’s very, very hard to buy things in government,” Slaby says. “Now, it should be hard. I want the government to be more restricted and not as nimble and fly-by-the-seat-of-our-pants as the campaign was, because it’s the government. They can’t mess up.
+
+“But because they’re not allowed to mess up we’ve created a system where it’s also very hard for them to do things that are new and innovative. The rules all favor incumbents. The people who get the job are not necessarily the people who are good at delivering a website. They’re mostly just government contractors who are really, really good at the system. Then they subcontract, and that makes the process even more complicated. It’s very hard to build technology by committee.”
+
+Washington’s employment rules aren’t helping matters, either. “It’s also very, very hard to hire and fire people in government,” Slaby says. “A lot of the technical staff have been there for a really long time, and a lot of the technical infrastructure that they’re working with is older. Most of the stuff inside government is not awesome, cutting-edge, cloud-based, and responsive. The skills we really want are not all that present in the incumbent system, and they’re very hard to go out and get.”
+
+The result is “a series of faulty, overpriced governmental tech launches during administrations of both parties,” as The Wall Street Journal’s Farhad Manjoo put it this week—HealthCare.gov included.
+
+That should change. As our interactions with the federal government continue to move online, the simplicity and ease of those interactions, or lack thereof, will come to define how we feel about Washington, D.C. With Obamacare, the law simply won’t work unless the website does, too.

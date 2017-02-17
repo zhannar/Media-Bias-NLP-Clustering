@@ -1,0 +1,29 @@
+It’s long been said that implementation of electronic health records never truly ends. Once a system is in place, the focus should turn to optimization.
+
+That’s exactly what has happened at 80 Emory Healthcare outpatient sites this year, where the Atlanta-based academic health system built or redesigned 37 specialty workflows in order to improve its Cerner EHR installation. “We knew that we needed to enable providers to leverage health IT as a way to better take care of patients,” said CMIO Dr. Julie Hollberg.
+
+The results have been impressive. Emory reported cutting the number of clicks physicians had to go through in the EHR by a third.
+
+In redesigning and optimizing EHR workflow, Emory looked at four aspects of the system: chart review; documentation; diagnosis and medication reconciliation; and orders and billing. “We really looked at the workflow more holistically,” Hollberg said. Among four of the most EHR-savvy physicians that Emory and Cerner enlisted to test old and new workflows, they averaged 36 fewer clicks while going through the four phases of EHR usage after the workflow changes, Cerner reported.
+
+The billing part was rather key, since Emory tied the workflow project into preparation for ICD-10 coding, which became mandatory nationwide on Oct. 1. The health system redesigned workflows as it moved to electronic billing. “It wasn’t really going to be feasible to have all the [ICD-10] codes on paper,” Hollberg said.
+
+“ICD-10 was a hook to engage physicians,” Hollberg continued. “ICD-10 was a heavy motivation.”
+
+But it wasn’t the only factor. Leadership, including Hollberg, tried to deliver a consistent message that the project would make clinicians more efficient and enable them to provide better care.
+
+Prior to the project, there was a “generic” login screen, according to Hollberg. Now, the login screen is specialty-specific, and individual users can customize the order of various elements of the display, she said.
+
+Cerner gave Hollberg data on how long it took each provider to go though the charting process. The vendor then offered classes for the medical staff on how to use the redesigned EHR implementation.
+
+Yes, the changes slowed them down initially, but that faded in a hurry. “There was a spike the first week” in time needed to chart each case, Hollberg reported. “As they got used to it, that time dropped significantly.”
+
+Among the metrics Cerner measured for Emory was “pajama time”: time physicians spent working in the EHR outside of the hours of 6 a.m. to 6 p.m., Monday-Friday. After eight weeks, that pajama time fell by 36 percent, Hollberg said. “It was one of our ways to increase physician satisfaction.”
+
+For charting, Emory adopted a Cerner tool called Dynamic Documentation that works with Nuance Communications‘ Dragon Medical Edition speech recognition. “One of our goals was to make it easier to get back to telling the patient story,” Hollberg said.
+
+Eight weeks into the effort, 71 percent of physicians at Emory clinics had moved to the new documentation system, computerized order entry increased by 74 percent and the need for transcription fell by 29 percent, according to Cerner.
+
+And since an EHR implementation never truly ends, the work continues. “This is phase one,” Hollberg said. “We are by no means done.” Future plans include improving patient handoffs and expanding electronic billing on the inpatient side, she said.
+
+Photo: Wikimedia Commons

@@ -1,0 +1,17 @@
+As everyone from political pundits to late-night talk show hosts have pointed out, HealthCare.gov, the flagship technology portion of the Affordable Care Act (aka Obamacare), went live a couple of weeks ago — and was a complete failure.
+
+A very, very expensive failure.
+
+Andrew Couts points out that taxpayers “seem to have forked up more than $500 million of the federal purse to build the digital equivalent of a rock.”
+
+Clouts puts that figure in perspective by comparing it to other websites:
+
+Facebook, which received its first investment in June 2004, operated for a full six years before surpassing the $500 million mark in June 2010. Twitter, created in 2006, managed to get by with only $360.17 million in total funding until a $400 million boost in 2011. Instagram ginned up just $57.5 million in funding before Facebook bought it for (a staggering) $1 billion last year. And LinkedIn and Spotify, meanwhile, have only raised, respectively, $200 million and $288 million.
+
+Why did the government spend a half-billion on the equivalent of a 404-page? Because of crony capitalism. Mike Masnick lists the political cronies who were hired to build the site despite having a “long history of screwed up giant IT projects”:
+
+
+
+The Sunlight Foundation (link above) figured out the list of contractors who worked on the site, and noted that the big ones not only are well-known DC power-player insiders, but they’re also big on the lobbying and political contributions side of things. You’ve got companies like… Booz Allen Hamilton, famous for promoting cyberwar hype and employing Ed Snowden. There’s defense contracting giant Northrup Grumman. Then there’s SAIC — which I can’t believe can still get government business. This is the same firm that famously was given a $380 million contract to revamp the FBI system, on which it went $220 million over budget, and then saw the entire system scrapped after it (literally) brought some users to tears, and the FBI realized it was useless in fighting terrorism. SAIC is also the company that NYC Mayor Bloomberg demanded return $600 million after a city computer project (budgeted at $68 million) actually cost $740 million. SAIC has a long list of similar spectacular failures on government IT projects. As you look down the list put together by the Sunlight Foundation, it’s all companies like this: giant monstrosities which are simply tied in closely with the government. All the large consulting firms are listed: Accenture, Deloitte, PricewaterhouseCoopers, McKinsey. What’s missing? Basically any company with even the slightest smidgen of experience building and maintaining large-scale, public-facing web-based apps. The list has no “internet native” companies.
+
+While this failure bodes ill for Obamacare, it may help more Americans recognize the moral crisis of crony capitalism.

@@ -1,0 +1,55 @@
+Cloud-Based Online Government Services Pitfalls
+
+When the US government designed the Affordable Care Act, a key part of the program was to encourage enrollment through the Healthcare.gov website. This online service was supposed to make it easier for citizens to learn about the ACA, compare their health insurance options, and take full advantage of this government program.
+
+As we all know, this launch unfortunately did not go as well as expected. Still, the healthcare.gov complications must not discourage other government agencies from trying to deliver cloud-based online services.
+
+Why? Because handled properly, good online services can deliver better benefits at a fraction of the cost.
+
+There are a few important lessons to take away from the healthcare.gov launch. These can help governments reduce their citizens’ effort levels when using the online services, providing an overall better experience.
+
+In this article I will discuss the pitfalls of providing cloud-based online government services. Because knowing (the pitfalls) is half the battle.
+
+Pitfall 1 – Government agencies may not have the experience needed to set up a functioning online system
+
+Setting up a new online program is a complicated project, and a government agency might not have the necessary expertise to manage everything themselves. In this case, it would make sense to bring in consultants from the private sector.
+
+The American government learned this lesson a little too late. When the initial healthcare.gov launch had serious problems, they brought in consultants from top tech firms like Google, Oracle, and Red Hat to get the website back in order. This would have been a good investment before their initial launch.
+
+Pitfall 2 – People will not use the online service
+
+Investing in an online service can be a large commitment of resources. For this investment to be worthwhile, people must use the online service. Government agencies should properly research the demand for moving their services online, to make sure they are creating a system that citizens actually want and will benefit from. Campaigns to promote the service are important to drive adoption and educate the public. In addition, continuous feedback from early users must be taken into account to help shape and improve the service in order to drive improvement and increased usage.
+
+Pitfall 3 – People will complain about the online service
+
+When people run into a problem, they will complain. With online services, it’s even easier for people to voice complaints because they can quickly reach others through emails, social media, online forums, etc. Healthcare.gov was hit with a wave of negative publicity almost immediately after the first problems came up, which created a very poor first impression.
+
+Pitfall 4 – Citizens will flood support teams with questions
+
+A well-functioning online service should make life easier for live customer support teams. A poorly functioning one will create even more work for them. After the healthcare.gov website created thousands of errors after its launch, government agencies were initially overwhelmed and couldn’t handle the number of appeals.
+
+Pitfall 5 – Setting up multi-language support can be complicated
+
+Managing an online service in one language is difficult enough. Setting up multi-language support makes the process even more complicated. If an agency needs to deal with multiple languages, they should plan to invest even more time and money into the program to anticipate these extra problems.
+
+Pitfall 6 – Online services can put private citizen data at risk
+
+Government agencies frequently deal with highly personal citizen information. Moving services online creates a digital record of this information which hackers will try to steal. This was a concern for many new users with healthcare.gov, since the website required that they enter in highly personal financial and medical information.
+
+Pitfall 7 – Government agencies must be able to coordinate
+
+If multiple government agencies are working together for the online service, they must be able to properly coordinate. While the ACA is primarily being run by the Department of Health, the IRS also plays an important role since this new law has such a large impact on tax policy. However, many taxpayers were surprised this year because the tax consequences of this law were not properly understood. The IRS should have had more of an influence on designing healthcare.gov so they could have communicated this information.
+
+Pitfall 8 – Political opponents may amplify failures and minimize the benefits of government online initiatives
+
+Human nature is bi-partisan. No matter which side is in power, their political opponents will campaign against them by highlighting mistakes and minimizing successful initiatives.
+
+With online initiatives it is easy to highlight mistakes, and create a record of these mistakes. And since bad news travels faster and wider than good news, online initiative are very vulnerable to political disagreements.
+
+Pitfall 9 – The media will publicize any problems
+
+In most cases the media will pay much more attention to mistakes from the government than from the private sector (unless we are talking about a mistake by a very well-known brand). If a private health insurance company launched a poorly functioning website, it would have received a little bad publicity, but not nearly as much as the government did for healthcare.gov. Agencies considering launching an online service must be much more careful because any mistakes will receive negative attention.
+
+(Image Source: Shutterstock)
+
+By Boaz Amidor

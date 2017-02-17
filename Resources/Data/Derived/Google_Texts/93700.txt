@@ -1,0 +1,19 @@
+A cancer cell. A new study finds a protein present at high levels in more than half of all human cancers blocks the expression of five genes involved in DNA packaging and cell death.
+
+Oncogenes are those genes that cause cancer when they are mutated or abnormally expressed — working too hard or too little at their job of making certain proteins. But there are molecules that regulate the oncogenes — what is their role in causing cancer? A new study from Stanford University School of Medicine finds a protein present at high levels in more than half of all human cancers blocks the expression of five genes involved in DNA packaging and cell death. This protein, Myc, works through a tiny molecule called a microRNA. With this finding, scientists may be able to develop drugs with new targets for treating certain cancers.
+
+The Dance of DNA, RNA, and Proteins
+
+We are often told that genes, known as DNA, write the blueprint for life and this blueprint is spelled out in proteins working within the nucleus of each of our cells. Yet, the flow from DNA to proteins involves a middle man: RNA. So, as each new cell in your body is born — a process that continues throughout your life — it is DNA, RNA, and proteins that make sure each new cell correctly follows the blueprint that is you.
+
+When it comes to the protein Myc, previous research has shown that too much Myc in a cell seems to cause cancer. But this is the big picture. A team of scientists at Stanford wanted to know what is happening at the micro level?
+
+For the current study, a team of researchers led by Dr. Dean Felsher, professor of oncology and of pathology, closely observed cancer cells. They saw how an over-expression of Myc caused an increase in a family of microRNAs, tiny RNA molecules known as miR-17-92. Whenever miR-17-92 expression was locked in the "on" position, they kept dividing. This suggested that Myc works through the microRNA family to exert its cancer-causing effects.
+
+Next, the team looked for any overlap in those genes affected by miR-17-92 and those affected by Myc. The team found about 401 genes where expression was either increased or suppressed by both the protein and the microRNA. At this point, they focused only on those genes that were suppressed and then further winnowed their panel down to 15 genes. Of these, five genes stood out.
+
+Four genes encode proteins known to regulate the creation of a chromatin — the necessarily tight package of proteins that allows them to fit inside a cell's nucleus; but just like a tightly packed suitcase, only some items are easily accessible. These four genes "decided" which genes within the chromatin are still accessible, which in turn affects cell proliferation and aging. The fifth gene encodes a protein called Bim, which induces apoptosis or cell suicide. This process of apoptosis is necessary so that our bodies can eliminate damaged or unneeded cells.
+
+After lining up these five genes, the research team experimented by suppressing all five at once. What happened? Up to 30 percent of Myc-dependent cancer cells continued to grow in the absence of Myc expression. "These experiments begin to reveal how Myc affects the self-renewal decisions of cells,” said Felsher in a press release. By understanding the micro level of why cells live and die, scientists may be able to interfere with that process and stop cancer in its tracks.
+
+Source: Li Y, Choi PS, Casey SC, Dill DL, Felsher DW. MYC through miR-17-92 Suppresses Specific Target Genes to Maintain Survival, Autonomous Proliferation, and a Neoplastic State. Cancer Cell. 2014.

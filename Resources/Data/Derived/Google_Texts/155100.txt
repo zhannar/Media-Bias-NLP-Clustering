@@ -1,0 +1,51 @@
+In the third century BCE, the great Archimedes was asked to imagine creative death traps that could be used to turn back Roman invaders.
+
+That legendary inventor came up with many, many designs. But one of the most iconic was the solar death ray. The basic idea of the time was to deploy a series of mirrors that could be used to reflect rays of light, causing Roman ships to burst into flame. (Something similar to focusing light through a magnifying glass.)
+
+And even though they lacked the technology to bring that particular plan to fruition, the death ray still became an incredibly resilient idea that has been used in various forms — from everything from science fiction literature to scientific research.
+
+It might even be fair to label Archimedes the first solar power convert, as he was known for searching for ways to take advantage of the seemingly limitless amount of energy being cranked out by sol every second of every day.
+
+Enter John Mankins.
+
+A NASA veteran, aerospace entrepreneur and space-based solar power (SBSP) expert, Mankins designed what may be the world’s first practical orbital solar plant. The key word here is practical.
+
+It’s called the Solar Power Satellite via Arbitrarily Large Phased Array, or SPS-ALPHA for short. If all goes according to plan, it could be launched as early as 2025, which is sooner than it sounds when you think of the R&D required to construct a solar array in space.
+
+Scientists have been aware of the advantages of an orbital approach over terrestrial panels for decades. An orbiting solar power plant would be unaffected by weather, atmospheric filtering of light and the pesky rising and setting of the sun every 24 hours.
+
+Now, there is a flip side to all this awesomeness… When this idea was first suggested in the 1970s, the projected costs were preposterous, giving the concept something of a “dunce cap” reputation that holds strong today. “Most people in the aerospace industry learned, when they were coming up as new engineers, that solar power satellites are impossible, wildly expensive and that anybody who works on them is a nut,” said Mankins.
+
+And it’s no wonder. The old-school vision of such a satellite would have weighed about 50,000 tons, covered an area of 5 by 10 kilometers and required a budget of at least half a trillion dollars. That exiled it firmly into the land of wishful thinking, where O’Neill cylinders and Dyson spheres are comfortably tucked away.
+
+But times have changed drastically since then. Solar cells have increased their efficiency and continue to do so consistently. Amplifiers have decreased in size, and swarm technology has ushered in new possibilities for SBSP.
+
+The swarm concept is not the only size/cost reduction. The SPS-ALPHA will be primarily made up of thin-film mirrors, instead of the chunkier photovoltaic cells of ground-based solar. These mirrors reflect and concentrate sunlight and then direct that energy to a central photovoltaic cell on the back of the satellite’s array.
+
+Over on the other side of the array, which will face Earth, microwave-power transmission panels will beam the energy down in the form of radio waves.
+
+Mankins differs from some other SBSP scientists when it comes to his preference for the low-frequency chunk of the spectrum. The idea of using lasers is popular with many, because higher frequencies would reduce the size of the satellite’s transmitters and the receiver on Earth.
+
+And when it comes to spacecraft, smaller is usually better, but Mankins draws the line at shooting lasers at the planet. High-frequency blasts can damage retinas, destroy electronics and potentially ignite fires or explosions.
+
+I think we’d all like to avoid any kind of Death Star incident…
+
+Since Mankins is dead set on low-intensity microwave transmitters, the receiver on Earth will be large… about 6-8 kilometers in diameter, positioned 5-10 meters above the ground. It will be constructed from millions of rectifier diodes wired together. When assembled, the receiver will look like a huge mesh fishing net.
+
+The diodes are impressively efficient and will be able to run at about 80-90% efficiency in terms of processing the energy beamed down from the satellite. And even though it would cover a lot of ground, the receiver’s environmental impact will be negligible, since it can be suspended high enough in the air to avoid infringing on the land below.
+
+According to Mankins, the biggest obstacle that the development of the satellite faces is the widespread misconception that all SBSP is inherently impractical and expensive. But there are also improvements that need to be made before the SPS-ALPHA can become not only a functional orbiting solar power plant, but a commercially viable energy source.
+
+The initial goal is to get the cost down to 10 cents per kilowatt hour — about 2 cents less than the average American currently pays. In order to hit that target, the problem of waste heat has to be addressed. There is no air in space, which means there’s no way to cool down the modules. They have to be able to manage heat efficiently or they’ll fry.
+
+Mankins has outlined four ways to address this issue:
+
+The first is to make the modules lighter, perhaps by building them from carbon composite, instead of aluminum
+
+The second and third involve amping up the efficiency of the solar cells and the solid-state amplifiers, respectively
+
+The last is to develop materials that would make the solar cells and electronics cope with higher temperatures.
+
+Solve any two out of four and you’ve got yourself a cost-efficient orbiting solar plant. It’s only a matter of time.
+
+Mankins is a fan of rapid prototyping and wants to develop the SPS-ALPHA in three-year increments. That way, it will be at least a fourth-generation model when it’s finally ready to deliver power from space. The year 2025 may seem a long way away, but in terms of space-faring technology, it’s just around the corner.

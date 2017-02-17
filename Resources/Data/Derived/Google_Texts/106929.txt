@@ -1,0 +1,21 @@
+The long-awaited announcement about the winner of the Department of Defense's Healthcare Management Systems Modernization, or DHMSM, project caught the health IT community by surprise. Contrary to expectations, DOD awarded the contract to the team of Cerner, Leidos and Accenture at a discounted price of $4.3 billion.
+
+The project – which aims to update the Defense Department's health records system and, most importantly, establish seamless medical data-sharing between the DOD, Veterans Affairs and the private sector – will be watched closely over the next couple of years; its success is not only important for DOD, but will also have a significant impact on the national health IT landscape and the challenges it currently faces.
+
+As they embark on the project, here is some advice for DOD and the Cerner team:
+
+Prepare for failure. The federal government's track record in managing IT projects is notoriously bad. The botched rollout of Healthcare.gov was not a standalone exception; it was a typical example of how most of the large IT projects are managed by the federal government. According to The Standish Group's report, from 2003 to 2012, only 6 percent of federal IT projects with $10 million or more in labor costs were successful. Fifty-two percent of them were either delayed, went over budget or did not meet user expectations. The remaining 42 percent of the IT projects were abandoned or started from scratch.
+
+
+
+[READ: Reform End-of-Life Care to Save Medicare]
+
+A look at this alarming data, the complexity of this project and the level of uncertainty involved in it (not to mention Veterans Affairs' and DOD's past failure in their joint interoperability efforts) leads me to be very pessimistic about the project's odds of success.
+
+Solving interoperability is DOD's job, not Cerner's. As I have discussed before, the lack of interoperability is not a technical problem; it is, rather, a political and economic issue. There is only so much the Cerner team can do to make sure that the technical capability to exchange medical information is in place; how others decide to use these functionalities is out of Cerner's control.
+
+But there is good news. Since 60 to 70 percent of DOD's demand for health care services is provided by the private sector, the agency will have a unique opportunity to encourage the flow of health data by requiring outside providers to collaborate with the Cerner team, or else cut their health care business with DOD. In other words, DOD should require both sending and receiving medical data to be included as an integral part of the health care services that medical providers offer to DOD personnel. Keeping DOD's business will be important enough for many medical providers to not only actively engage in information exchange, but also push their electronic health records vendors to facilitate this exchange.
+
+
+
+[READ: Why Health Insurance Mergers Could Mean Higher Premiums]

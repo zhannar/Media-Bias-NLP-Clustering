@@ -1,0 +1,85 @@
+Ready or not, the U.S. healthcare industry is poised to flip the switch from the ICD-9 to the ICD-10 diagnostic and procedural coding system on Oct. 1, significantly changing how billions of dollars in medical claims are calculated and billed every day.
+
+Experts predict most large hospitals and health systems and most large physician groups will weather the federally required conversion just fine, though they could experience temporary cash-flow squeezes because of ICD-10-related payment delays.
+
+The organizations most likely to have trouble, however, are smaller providers, particularly smaller physician practices. Some medical groups say problems associated with the conversion could drive some small doctor groups out of business.
+
+A last-minute reprieve is unlikely. After three previous delays of the ICD-10 start date, no one predicts there will be a fourth.
+
+At Advocate Lutheran General Hospital in Park Ridge, Ill., coders have been training for the changeover since January, which has made it hard for them to do their regular work. “We're as prepared as we're going to be,” said coder Kathy Scuderi. Everyone just wants to switch to ICD-10 and “get this over with,” added coding supervisor Sandria Robinson.
+
+For the Advocate system as a whole, Dr. Anupam Goel, vice president of clinical innovation, voiced confidence that Advocate's 11 hospitals, 1,500 employed physicians and 3,000 affiliated physicians are ready. The one-year extension Congress granted last year was needed, he said.
+
+The ICD-10 code changes will affect all Health Insurance Portability and Accountability Act-covered entities—hundreds of thousands of providers, payers and claims handlers. The codes will be used to authorize and calculate trillions of dollars in payments from Medicare, Medicaid, commercial insurers, Tricare and the Veterans Health Administration to hospitals, physicians and other providers. ICD-10 is a much more complex and detailed coding system than ICD-9, which has been used since the 1970s. For providers, there are about 68,000 diagnostic codes under the new ICD-10-CM (clinical modification) codes—five times more than under ICD-9-CM.
+
+There is an even more complex matrix of 87,000 new codes for hospital-based procedures in the ICD-10-PCS (procedural coding system)—29 times more codes than in ICD-9.
+
+TAKEAWAYS
+
+One reason for worry is that a recent MGMA survey found that 9.2% of physician groups were still using an electronic data transmission format incapable of carrying the new ICD-10 codes.
+
+Nevertheless, warnings about a U.S. healthcare meltdown have faded following a deal struck in July between the CMS and the American Medical Association, which had long opposed ICD-10 conversion. However, no knowledgeable observer foresees an entirely smooth transition. Memories linger of the catastrophic rollout in October 2013 of the federal insurance exchange, the last major government health information technology launch.
+
+“It's like the garbage disposal,” quipped Robert Tennant, senior policy adviser for the Medical Group Management Association. “You're flipping a switch and hoping a fork isn't in there.”
+
+One reason for worry is that a recent MGMA survey found that 9.2% of surveyed physician groups were still using an electronic data transmission format incapable of carrying ICD-10 codes. Physicians groups are particularly vulnerable to cash-flow crunches because they typically don't hold cash reserves due to federal tax rules. A Texas Medical Association survey released in August concluded that payment delays linked to ICD-10 could force some physician practices to close or push older physicians into retirement.
+
+A survey in May and June of physicians and hospitals by the American Health Information Management Association and the eHealth Initiative found lower ICD-10 preparedness scores for hospitals with fewer than 100 beds and physician groups with one to 10 doctors compared with larger hospitals and doctor groups.
+
+“Some of my colleagues just aren't taking it seriously,” said Marty Fattig, CEO of 16-bed Nemaha County Hospital in Auburn, Neb. “They're saying, 'I'll just wait until it goes into effect and see what happens.' I don't feel like flying that way.” Fattig said his hospital was ready to switch to ICD-10 last year and is ready now.
+
+The CMS says Medicare is ready for the conversion. Most commercial health plans are ready, said Clare Krusing, a spokeswoman for America's Health Insurance Plans.
+
+Emdeon, one of the largest claims clearinghouses, is ready and so are most industry players it works with, said Mike Denison, Emdeon's senior director of regulatory compliance. But around 1% of Emdeon's customers are still using antiquated business systems that are technically incapable of submitting claims with ICD-10 codes. “That is a very big concern,” he said.
+
+During an online conference Aug. 27, acting CMS Administrator Andy Slavitt, whose agency mandated the switch to ICD-10, acknowledged the uncertainty. “As with anything of this magnitude, even with all the planning, there will be bumps,” said Slavitt, who vowed to pay “personal attention to everything that happens from now until after our launch.” He knows personally what can happen, having served as Optum's repairman-in-chief when the firm was hired to fix the floundering HealthCare.gov website in 2013.
+
+Among the biggest unknowns are state Medicaid programs. The CMS has been monitoring those programs' ICD-10 readiness but has been tight-lipped about its findings.
+
+The CMS has allowed four state Medicaid programs—in California, Louisiana, Maryland and Montana—to use a workaround, called a crosswalk system, rather than fully converting to ICD-10. They will take incoming fee-for-service claims coded in ICD-10, convert them into ICD-9 codes, and use the older system to calculate payments.
+
+A crosswalk is a computer text file with ICD-9 codes in one column and corresponding ICD-10 codes in another.
+
+Crosswalks can map codes in either direction, from ICD-10 to ICD-9 or the reverse. But Dr. Andrew Boyd, assistant professor in biomedical and health information sciences at the University of Illinois at Chicago, cautioned that crosswalks can compromise data quality because of codes that don't map to similar concepts and can cause delayed or rejected claims because of cross-coding issues.
+
+Holly Louie, president-elect of the Healthcare Billing and Management Association, said she's heard from fellow billing association members that some small private insurers also may use a crosswalk system to convert ICD-10 claims into ICD-9 codes.
+
+Louie said her group's survey in June found that 63% of its members had seen no ICD-10 testing with state Medicaid programs or plans in their states.
+
+“There is no way to know what's going to happen with those millions of claims,” Louie said.
+
+As promised by the CMS, claims processed using ICD-10 codes appear to produce the same revenue as those using the current ICD-9 coding system, said Tim Marshall, managing director of the Claro Group, a financial and management consultancy firm.
+
+Experts warn, however, that revenue streams even at the largest and most well-prepared provider organizations could be constricted for months following the Oct. 1 switch, as physicians, coders and payers adjust to the far more voluminous and complex ICD-10 system. It's widely expected that clinicians' and coders' productivity will at least temporarily be reduced.
+
+“Hospitals intuitively understand there will be some productivity losses, but a lot of hospitals haven't necessarily thought through how that is going to impact their cash flow,” Marshall said. “There may be three- or four- or five-month delays in collecting that money.”
+
+His firm has been advising clients “to revisit their commercial contracts for cash-flow guarantees. Most hospitals don't have those terms in place, so they are facing, most likely, cash crunches.”
+
+While most hospitals have established lines of credit to get them through cash-flow squeezes, Marshall said, they may need larger lines or modifications on their debt covenants. “It's definitely possible that some ill-prepared hospitals could have technical violations of some of their debt provisions,” he said. “What exactly the bank or the debt holders might do with that, I don't know.”
+
+But Sandra Wolfskill, director of healthcare finance policy for revenue cycle at the Healthcare Financial Management Association, said her group's members are confident they have cash-flow issues covered. “For a period of time, hospitals are going to be living with one foot in each world,” she said. “Hospitals are treating this like any other conversion. They know where their numbers are and where they're supposed to be and what they'll have to watch.”
+
+Larger organizations with greater financial resources ought to survive the squeeze without too much trouble, said Dan Steingart, vice president and senior analyst at Moody's Investors Service. “There could be some cash-flow disruption, but that should be it,” he said. “The vast majority of our rated hospitals have sufficient balance sheet reserves to manage the disruption and some even established lines of credit.”
+
+Data from recent surveys on ICD-10 preparedness from the MGMA and other groups suggest there likely will be bigger financial troubles for some smaller physicians groups, hospitals, health plans and billing companies that have lagged in their preparations and technical capabilities. Small physician practices are considered the most vulnerable.
+
+Nevertheless, during the Aug. 27 CMS conference, the agency announced positive results from its final round of end-to-end testing of claims submitted to Medicare administrative contractors using ICD-10 codes. The contractors had fixed a few bugs uncovered in testing rounds in January and April and were pronounced ICD-10 ready. They batted 1.000, adroitly handling the 29,000 claims delivered to them in this latest testing round.
+
+But the 1,200 providers, claims clearinghouses and other claims senders struck out a lot in the testing, according to the CMS. Thirteen percent of their submissions were rejected as the result of multiple sender errors. About 3% bounced because of an invalid submission of ICD-9 codes. Another 2% were rejected for invalid ICD-10 codes.
+
+Those results were not encouraging, said Stanley Nachimson, a consultant and ICD-10 expert. “Remember, these were people who believed they were ready to do the testing,” he said. “We don't know what's happening to those entities that haven't prepared or been involved in the testing yet.”
+
+At Nemaha County Hospital, Fattig said the five-physician medical staff and two coders have led the way in getting ready. “The key in a small hospital is the medical staff,” he said. “If they decided they didn't want to do this, we'd be sunk.”
+
+At North Hills Family Medicine in Keller, Texas, Dr. Gregory Fuller, a partner, is worried about revenue losses because of reduced productivity from using ICD-10. He said all five physicians in his group will do their own coding at the point of care but he still expects problems.
+
+For each physician, the practice has developed a “cheat card” of their top 200 diagnoses and corresponding ICD-10 codes, and their EHR system has a built-in ICD-10 lookup tool. “But if I have to look up something unusual, that's going to burn up time,” Fuller said. “That's lost revenue. And the real story is, are claims going to get denied because the codes are not specific enough?”
+
+He expressed relief that Medicare is going to give doctors wiggle room on ICD-10 compliance under the deal the AMA negotiated with the CMS in July. “But that's not true for commercial payers,” he said.
+
+Some commercial health plans say they will voluntarily follow the CMS' relaxed rules. That includes Cox Health Plans, based in Springfield, Mo. Most members of the Health Plan Alliance, a 50-member trade association for provider-sponsored plans like Cox Health, are doing likewise, said Cox Chief Information Officer Susan Butts.
+
+Like many physicians, Fuller is angry about being forced to make the switch. “We're ready,” he said. “But I'm not happy about it. There is nothing about ICD-10 that is going to help me with patient care.”
+
+(This article first appeared on the website of Crain's sister publication Modern Healthcare.)

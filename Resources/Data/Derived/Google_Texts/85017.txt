@@ -1,0 +1,45 @@
+If there’s one person that knows how to dodge electronic detection, it’s Edward Snowden.
+
+The ex-NSA contractor remains one of the most controversial figures in American privacy policy — and a prolific commentator on cybersecurity issues.
+
+Snowden eluded U.S. officials, fleeing the country in 2013 after leaking information on the NSA’s warrantless collection of individuals’ phone metadata to the press. Now living Russia, he has repeatedly lobbed criticisms at the U.S. intelligence community for its approach to individual privacy.
+
+ADVERTISEMENT
+
+Speaking to The Intercept ’s Micah Lee, the journalist with whom he worked to create an encrypted channel to funnel information on the NSA’s surveillance practices, Snowden has a few tips for the average Joe looking to secure his or her information on the Internet.
+
+Here are four tips Snowden offers to ensure your communications are safe from prying eyes.
+
+1. Encrypt your phone calls and text messages.
+
+Snowden recommends a free app called Signal that prevents “adversaries” from reading any communications they might intercept.
+
+The suggestion is at the heart of the so-called “going dark” debate between law enforcement and privacy and tech groups.
+
+Law enforcement — led by FBI director James Comey — have long argued for some form of guaranteed access to mobile phones to aid in investigations.
+
+Tech companies — like Apple — and privacy groups say that building a “backdoor” not only undercuts individual privacy, but gives criminals access to devices, not just law enforcement.
+
+2. Encrypt your hard drive on your computer.
+
+Snowden warns that if your computer or laptop is stolen, “pictures, where you live, where you work, where your kids are, where you go to school” would all be accessible to a criminal.”
+
+3. Use a password manager.
+
+“One of the main things that gets people’s private information exposed, not necessarily to the most powerful adversaries, but to the most common ones, are data dumps,” Snowden says.
+
+If your data is exposed and you have used the same password in other places, you could have multiple accounts exposed.
+
+Password managers create and store unique passwords so that users are freed from the burden of memorizing dozens of keys.
+
+The issue of reusing weak passwords came to the fore over the summer when security researchers revealed that the most commonly-used passwords in the Ashley Madison dump were “123456” and “password.”
+
+4. Use two-factor authentication.
+
+When users enable two-factor authentication, a would-be hacker would need both the password and a physical device to access a given account.
+
+President Obama last October signed an executive order that included a requirement that all federal agencies move to some form of multi-factor authentication for all digital accounts that access personal information.
+
+That means in addition to a password, a user would need some other form of identification, such as a fingerprint or time-sensitive PIN sent to a smartphone or email account.
+
+The move is part of a broader White House initiative to kill the password. Through the National Strategy for Trusted Identities in Cyberspace (NSTIC), the administration is funding a number of private-sector, password alternative pilot projects using mobile devices, digital rings, even bracelets.

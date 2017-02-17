@@ -1,0 +1,23 @@
+CVS announced in February it would no longer sell tobacco products. (Photo: Joe Raedle, Getty Images)
+
+Last Thursday drug store chain Rite Aid Inc. (RAD) reportedly stopped accepting payments made through the just launched Apple Pay system from Apple (AAPL). On Saturday, CVS Health (CVS) was reported to have followed suit at its CVS pharmacy stores.
+
+The issue appears to be a conflict between Apple Pay and a mobile payment system called CurrentC that is being developed by a retailer-owned mobile technology outfit called Merchant Customer Exchange (MCX). Unlike Apple Pay, CurrentC does not use an NFC chip, but instead generates a QR code that is displayed on the merchant's checkout terminal. Customers who have already linked their bank accounts to the CurrentC system scan the QR code from the terminal and the transaction is completed.
+
+When Apple announced Apple Pay in early September, both Wal-Mart Stores (WMT) and Best Buy (BBY) said they had no plans to adopt the new system. Both are partners in MCX along with other major retailers like Target (TGT), Darden Restaurants (DRI), and Sears Holdings (SHLD).
+
+MCX has been working on a mobile payment solution since 2011, and the driving force behind the effort is to enable the merchants to avoid paying the 2% to 3% credit card transaction fees charged by the likes of Visa (V) and MasterCard (MA). How much do these big retailers dislike paying fees to Visa and MasterCard? Former Walmart CEO Lee Scott is reported to have said, "I don't know that MCX will succeed, and I don't care. As long as Visa suffers."
+
+That kind of attitude ought to help drive adoption of Apple Pay as well, but retailers have an investment in CurrentC and the system has begun real-world testing and is scheduled to go live early next year. The advantage of CurrentC is that it works with existing checkout terminals, while Apple Pay requires that most retailers purchase new equipment to communicate with the NFC chip in the iPhone 6 and 6 Plus. Among the retailers that do not need to buy new terminals are Best Buy, Rite Aid, and CVS, so their reason for shutting down access to Apple Pay is very likely contractual or an act of solidarity with their fellow CurrentC backers.
+
+CVS and the other CurrentC companies will almost certainly use the system exclusively for a relatively short time. If, as most observers expect, customer demand for NFC-based systems like Apple Pay grows rapidly, these retailers are not going to adopt a "my way or the highway" attitude with their customers. They have learned that when it comes to technology, it's a consumer-driven world and they just live in it. And one other thing retailers have — or should have learned — is not to underestimate the power of Apple in the consumer world.
+
+MORE: The 20 most profitable companies in the world
+
+MORE: The 10 most livable countries
+
+24/7 Wall St. is a USA TODAY content partner offering financial news and commentary. Its content is produced independently of USA TODAY,
+
+.
+
+Read or Share this story: http://usat.ly/1tWmG5Y

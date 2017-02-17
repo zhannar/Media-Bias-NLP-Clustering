@@ -1,0 +1,133 @@
+Healthcare.gov’s problematic launch earlier this month has seen technical glitches for enrollees, flawed data for health insurers and increased scrutiny of private health care technology contractors.
+
+
+
+
+
+
+
+Criticism from lawmakers and media coverage led President Barack Obama to hold a press conference on healthcare.gov on Monday, where he said there was “no excuse” for the problems so far with the website.
+
+
+
+
+
+
+
+But online health insurance marketplaces have launched successfully in the past. Specifically, Massachusetts launched a widely applauded state health exchange in late 2006, known as the Massachusetts Health Connector.
+
+
+
+
+
+
+
+Jon Kingsdale, a health exchanges and health care reform expert with Boston’s Wakely Consulting Group, told International Business Times in a phone interview why federal and state health exchanges fared differently.
+
+
+
+
+
+
+
+Scale of Web traffic and complexity of IT systems were two key contrasts between state exchanges and the federal launch, said Kingsdale, who oversaw Massachusetts’ health care exchange at its start.
+
+
+
+
+
+
+
+The Massachusetts exchange was set up to accomodate a maximum audience of about 6.4 million, or about 1/50th of the U.S.’ 300 million population at the time, noted Kingsdale. At its peak, months down the line, Massachusetts health exchange officials handled about 50,000 calls per month, whereas healthcare.gov has seen 19 million visitors since Oct 1.
+
+
+
+
+
+
+
+“The volume difference – the number of hits – is huge, and not unexpectedly so, given that they’re covering 36 states,” Kingsdale told IBTimes.
+
+
+
+
+
+
+
+Another key difference is that Massachusetts did not have to build a separate system to determine eligibility for enrollees, he said. They used an existing Medicaid eligibility system, while the federal government had to forge and integrate a complex new system, using IRS income filings and income definitions.
+
+
+
+
+
+
+
+Tight federal budgets were also a factor, as states received significant federal money to operate their exchanges, compared to a small budget appropriation for the federal exchange, according to Kingsdale. While individual states received tens and hundreds of millions of dollars, the entire budget for the federal exchange came to only $1 billion, he said.
+
+
+
+
+
+
+
+“$1 billion for 36 states completely dwarfs what each of the other states is getting for their own exchange,” said Kingsdale. Oregon alone received more than $300 million, according to the Seattle Times.
+
+
+
+
+
+
+
+Massachusetts also took a more patient approach, phasing in two distinct groups of enrollees over eight months, rather than launching all-out on day one. “Folks have talked about that,” said Kingdsdale. “The feds maybe jumped the gun on insisting on Oct. 1 for going live.”
+
+
+
+
+
+
+
+States that have seen successful exchange launches within the past few weeks include Rhode Island, Connecticut, Kentucky and Washington.
+
+
+
+
+
+
+
+Strained resources among the handful of health care IT specialists hired for this work could be another factor, said Kingsdale. As 14 states try to launch health exchanges at the same time, there may be too many tight deadlines for the few capable companies. “Clearly, some of the states have been able to do a better job than other states and the federally facilitated marketplace,” said Kingsdale.
+
+
+
+
+
+
+
+But what worries Kingsdale now is another uncertainty on the horizon that will come even after the Obama administration fixes all the technical problems discovered so far.
+
+
+
+
+
+
+
+“When they get everything fixed so that folks can enroll, then there’s another set of [data] interactions with hundreds of [health plan] issuers and carriers around those 36 states,” said Kingdsale.“Thousands and thousands of different premium rates and benefit plans and so forth, and communications links for those hundreds of insurers…”
+
+The extent of the problem with the software code was highlighted over the weekend in a New York Times report that said 100 million lines of computer code will need to be rewritten as part of the website's fix.
+
+According to a software specialist cited in the Times article, the 500 million lines of computer code written for the Obamacare software is about five times longer than the average major bank's operating code.
+
+
+
+
+
+
+
+Regarding potential problems over correct data transfer, correct billing, and accurate communication about federal subsidies, Kingsdale said: “That’s a whole other set of tests and volume stresses that we haven’t really seen, because of the bottleneck of the exchange itself.”
+
+
+
+
+
+
+
+Wakely Consulting won a federal contract in 2010, with the Centers for Medicare and Medicaid Services (CMS) to help conceptualize the health exchange, but it hasn’t worked directly on the IT aspect of the federal marketplace. Kingsdale’s team has worked on health care reform in more than a dozen states.

@@ -1,0 +1,17 @@
+How much sleep we need has always been a topic of debate, with different studies citing different statistics on the hours we should spend resting. While eight hours a night seems to be the generally accepted amount, there are studies that suggest the amount of sleep we need varies.
+
+For instance, a report published by sleep experts in journal Sleep Health: The Official Journal of the National Sleep Foundation, found that the necessary amount of shut-eye we need each night varies based on age. However, there are some who seem to escape the statistic all together, and they are commonly known as short sleepers. According to ABC, these people can thrive off of six hours or less, while the rest of us will need several cups of coffee if we get under seven. But what makes these individuals impervious to grogginess? Is there a scientific reason behind why they’re so darn cheery in the morning?
+
+A new study published in Current Biology thinks they’ve found the answer to the short sleeper’s secret, and it lies within their genes. Researchers identified two genetic components, Taranis and Cyclin-dependent kinase 1 (Cdk1) in flies, which were originally known for the regulation of cell division but have now been found to regulate sleep patterns. However, when Taranis mutates, sleep patterns within flies seem to change.
+
+“There’s a lot we don’t understand about sleep, especially when it comes to the protein machinery that initiates the process on the cellular level,” said Dr. Kyunghee Koh assistant professor of neuroscience at Thomas Jefferson University, in a recent press release. “Our research elucidates a new molecular pathway and a novel brain area that play a role in controlling how long we sleep.”
+
+Researchers looked to genetically mutated flies, finding that one specific type of mutant fly seemed to sleep less than normal flies. Within normal flies, the protein Taranis works with other proteins to keep flies resting. When it binds with Cyclin A, it inactivates another protein, Cdk1, which normally keeps the flies asleep. However, when Taranis is mutated, as is the case with these flies, the normal protein pairing does not occur, causing flies to get less sleep.
+
+Previous studies have found that Cyclin A can be found in a small number of neurons throughout the brain, most significantly in seven neurons on both sides of the brain. Researchers found that within the fly, this group of neurons corresponds to the hypothalamus in the human brain, a known center for sleep. Overall sleep was reduced when Taranis was knocked down in these sets of neurons, as well as when these neurons were activated.
+
+Researchers know of a protein similar to Taranis in the human brain called Trip-Br, but as of now, they are not sure if this model holds up with humans. They hope to expand their scope in the future to further unlock out what causes human beings to need less sleep.
+
+Source: Afonso et al. TARANIS functions with cyclin a and cdk1 in a novel arousal center to control sleep in drosophila. Current Biology. 2015
+
+Hirshkowitz, M, Whiton K, Albert SM, et al. National Sleep Foundation’s sleep time duration recommendations: methodology and results summary. Sleep Health. 2015.

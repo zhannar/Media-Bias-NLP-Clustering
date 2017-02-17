@@ -1,0 +1,19 @@
+A cutting edge malware program nicknamed Regin has been spying on citizens in foreign countries – especially Russia and Saudi Arabia – since 2008, according to cybersecurity researchers, which claim it must have been designed by a nation like China, Israel or even the U.S.
+
+The report published on Sunday about Regin was written by Symantec, the digital security company that in 2010 helped discover Stuxnet, the unique virus created by Israel and the U.S. to sabotage Iran’s nuclear fuel research. Regin’s list of spying targets and advanced design indicate the U.S. and Israel may have once again collaborated to create the surveillance malware, since Iran was identified as one of the countries infected by the program.
+
+“It is likely that its development took months, if not years, to complete and its authors have gone to great lengths to cover its tracks,” the Symantec team said in its report. “Its capabilities and the level of resources behind Regin indicate that it is one of the main cyberespionage tools used by a nation state.”
+
+
+
+[READ: Will Surveillance Reform Get a Second Act?]
+
+Regin is a trojan that tricks a user into uploading it. From there it then carries out broad surveillance functions like stealing passwords, screenshots, and network traffic. The hacker controlling the malware can even capture deleted files and take control of a mouse’s point and click commands, Symantec reports.
+
+The spyware has an equally impressive ability to disguise itself by working in five stages, only the first of which is detectable because each step is encrypted, leaving Symantec uncertain of how the malware spreads.
+
+“Symantec believes that some targets may be tricked into visiting spoofed versions of well-known websites and the threat may be installed through a Web browser or by exploiting an application,” the company said.
+
+[ALSO: China's Two-Step on Tech Trade]
+
+Regin has been used to conduct surveillance since at least 2008 on 10 countries, with 52 percent of the uncovered incidents occurring in Russia and Saudi Arabia, according to the report. The other targets identified by Symantec are Mexico, Ireland, India, Afghanistan, Iran, Belgium, Austria and Pakistan. In each of these nations telecommunications companies were 28 percent of the targets and 48 percent of the targets were private citizens or small businesses, indicating that tracking the calls and online behavior of wealthy individuals was a priority.

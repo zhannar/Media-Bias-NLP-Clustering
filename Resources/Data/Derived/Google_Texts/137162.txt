@@ -1,0 +1,19 @@
+BOSTON, Oct. 19 (UPI) -- In the immune system's response to infection or inflammation, some immune cells undergo changes that allow them to fight specific diseased cells. This response is controlled by a balance of cells that do not change -- which researchers think helps prevent the immune system from attacking tumor cells.
+
+Researchers think blocking the mechanism in targeted areas around cancer cells may increase the immune response to them, providing a new method of immunotherapy against the disease.
+
+"Our findings results suggest a new strategy for immune system-based therapies for cancer," said Dr. Harvey Cantor, a researcher at Dana-Farber Cancer Institute and Harvard Medical School. "By targeting a genetic pathway in cells that ordinarily restrain the immune response to cancer, we may be able to convert them into cancer fighters. The challenge now is to develop antibodies and small-molecule drugs that can trigger that change."
+
+The researchers found effector T cells, or Teffs, undergo rapid changes in response to inflammation, turning into cells that target diseased cells. This reaction is kept in check by regulatory T cells, called Tregs, in order to prevent damage to normal, healthy tissue.
+
+Tregs are kept stable, preventing their transformation into disease-fighting Teffs, by a high level of proteins called helios -- those with high levels help to contain immune response, while those with lower levels are not steady enough to control the response.
+
+In mice genetically incapable of producing helios, researchers found T-cells and antibodies attacking normal tissue in the rodents' bodies, and that Treg cells had been changing into Teffs and joining the immune response against healthy tissue.
+
+When mice were injected with metastatic melanoma cells the rodents that could not produce helios developed less cancer and lived longer than mice that can produce the protein -- leading researchers to think that if helios can be reduced using targeted therapy, the immune system could be turned against tumors.
+
+"The aim of current approaches is to eliminate Tregs, and thereby increase anti-tumor immunity," Cantor said. "Our findings raise the possibility of achieving a double-barreled effect - by targeting Helios, we may not only reduce the number of Tregs but also convert surviving Tregs into Teffs."
+
+The researchers are currently testing antibodies and small-molecule drugs to target Helios or the genes that lead to their expression in immune cells.
+
+The study is published in the journal Science.

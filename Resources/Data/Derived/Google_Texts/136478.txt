@@ -1,0 +1,31 @@
+If you are a risk manager in healthcare you face the same challenges as in any other Interne-connected business. For example; we are all familiar with the Target and Home Depot data breaches.
+
+But the fact is that all industries that connect to the Internet are subject to the same risk. What really matters is that no matter what industry; what is your organizations risk appetite? The 2014 Verizon data breach investigations report includes 1,367 confirmed data breaches, 63,437 security incidents which represented 95 countries and 50 global organizations. While finance and retail intrusions led by a huge margin we know that healthcare is in a high growth mode, between the business need to push more to data online for business efficiency and the Affordable Care Act, it’s all about electronic records.
+
+You will do this ready or not. After all it's 2015 and everything is online. The problem is that in our quest to have access to all our information anywhere anytime, we forgot about considering the risk to do so.
+
+[ 5 ways to create a collaborative risk management program ]
+
+To make things worse, the people actually pushing us to do it now, whether it be from the business or the federal government is that, no one is considering the risk of doing so. In 2009 Leonard Kleinrock recalled for CNN the birth of the Internet. On Oct. 29 of that year, for perhaps the first time, a message was sent over the network that would eventually become the Web. Kleinrock, a professor of computer science at the University of California-Los Angeles, connected the school's host computer to one at Stanford Research Institute, a former arm of Stanford University. That was over 40 years ago.
+
+One of the problems of the Internet is that we didn't install what I like to call strong user authentication or strong file authentication. We didn't anticipate the level of the dark side we see today.
+
+Leonard Kleinrock
+
+Kleinrock: There's a very dark side to the Internet, which we're all familiar with. It started with a worm in 1988, and it became spam in 1994, and now we have pornography, we have denial of service [attacks], we have identity theft, we have fraud, we have things like botnets [pieces of software that cyber thieves use to remotely and secretly control your computer], which really worry me. One of the problems of the Internet is that we didn't install what I like to call strong user authentication or strong file authentication. We didn't anticipate the level of the dark side we see today. The culture of the early Internet was one of trust of all the users.
+
+So what we are saying here is that the Internet was not designed to be secure, it was designed for anything but security. So what did we do back in the 1980s? We began to push everything we had online, e-commerce, electronic banking, 24 hour online shopping, medical records, our children’s educational records and yes military secrets. Every single one of these sectors has suffered major losses, The F-34 Stealth Fighter secrets were reported stolen in 2013 via a cyber-intrusion. The plans for Marine 1, the president’s helicopter were compromised via file sharing at its contractor. JP Morgan Chase had a major hit this past year along with Sears, UPS, Target, Home Depot and Sony were also in the news.
+
+Community Health Systems, Inc. experienced the largest healthcare data breach of the year, when it announced toward the end of the summer that Chinese cyber criminals hacked into its computer network with malware between April and June 2014.The hackers compromised 4.5 million patients’ data, including names, addresses, birth dates, telephone numbers and Social Security numbers. Mandiant stated that they were looking for the usual intellectual property.
+
+Healthcare, breaches climbed 138 percent. Take 29.3 million, for instance, the number of patient health records compromised in a HIPAA data breach since 2009, or 138 percent, the percent jump in the number of health records breached just from 2012.
+
+Lisa Gallagher, senior director of privacy and security for HIMSS, said speaking at the 2012 Boston Privacy and Security Forum that somewhere between 40 million to 45 million patient records have actually been compromised. The number can't be confirmed, as the data isn't all there, she adds, but it's a more accurate number based on healthcare organizations' reporting. Moreover, out of the 90,000 complaints HHS' Office for Civil Rights (OCR) received in 2013, some 5,447 went unresolved. Although the office boasts a 94 percent success rate for resolving cases, some 53,000 of those cases may have been closed because either OCR lacked jurisdiction, or the complaint was untimely or withdrawn, not because a HIPAA violation did not occur.
+
+Many of these breaches, officials say, can be easily avoided through regular risk analysis and updating company policies. "By combining device scanning with an understanding of workflow, policies, and procedures, you get a more complete picture of what is actually happening in your environment, Redspin officials wrote in the report. "From there you can implement a remediation plan that significantly lowers your risk of breach."
+
+We regularly perform HIPAA and multiple business sector IT audits and Risk assessments, I was also a chief security risk officer, throughout my career whether it be as a consultant or a cyber-risk manager. I keep seeing the same things over and over.
+
+First, the CEO is often unaware of the risk of doing business online. Homeland security has created an excellent list of five questions for CEOs. I have actually worked for companies as a risk manager reporting to IT and was unable to share this list with the CEO as it would have caused a direct confrontation with IT to do so.
+
+Having Security & Compliance report to the IT Department is one of the biggest issues I have seen, it often prevents cyber risk management from taking place. It’s the fox guarding the chickens.

@@ -1,0 +1,57 @@
+IRS
+
+The taxman’s tech troubles
+
+The IRS does a decent job of managing its tech investments, and Congress keeps a careful eye on it. So why isn’t the agency a model of fully modernized, high-tech government services?
+
+IRS headquarters in Washington, D.C. (Photo credit: Rob Crandall / Shutterstock.com)
+
+Calling the IRS "arguably the most important federal bureaucracy in American life," author David Foster Wallace spun a fictional tale of technological modernization, tedium and existential terror in "The Pale King."
+
+The unfinished novel was edited and published after Wallace committed suicide in 2008. And the IRS' own story of modernization remains a sometimes painful work in progress.
+
+The agency spends $2.5 billion annually on IT across more than 20 major systems, yet it still relies on a central data processing setup that went online in the 1960s to keep its revenue-collecting cogs turning.
+
+The problems are manifold: not enough money, political pressure, technical constraints, a lack of skilled tech professionals and the tax code itself.
+
+"We've got more IT challenges than you can shake a stick at," IRS Commissioner John Koskinen said. He has asked for more money, and he's hopeful he can push legislation to save the IT employees he'll soon otherwise lose. But the code itself continues to knot up his plans.
+
+What taxpayers see — and what they don't
+
+The IRS faces technology challenges on two fairly obvious fronts: external and internal.
+
+The agency's public-facing technology operates fairly well, with the exception of telephone support. About 80 percent of taxpayers file returns electronically, and although occasional hardware failures might throw a wrench into the system, they haven't seriously hindered the processing of more than 150 million personal tax returns each year.
+
+"We've already made great strides," Koskinen said. "Fifteen years ago, if you'd said 85 percent of people were going to file electronically, people would say, 'Well, that'll never happen. They don't even have the systems to do that.'"
+
+Ancillary tools such as "Get Transcript" and "Where's My Refund?" have been among the government's most popular web offerings. "Get Transcript" was popular with cyber thieves, too. Hackers easily breached the system's knowledge-based security screen in 2015 and compromised more than 700,000 taxpayer accounts. The IRS had to shut down the service but plans to revive it with new security features at some point.
+
+The systems that keep the IRS humming internally seem to be the bigger issue. The agency still relies on the Individual Master File, which started operating in the early 1960s, for its central data processing needs. The Customer Account Data Engine was supposed to swap current database technology for IMF's magnetic tape, but the push to replace IMF has slowed to a crawl.
+
+In 2008, Richard Spires, then-deputy commissioner for operations support at the IRS, touted CADE's ability to process 15 million taxpayer returns and said, "This system is the centerpiece of our modernization efforts at the IRS."
+
+However, CADE never fully replaced IMF. It was sort of rolled into CADE-2, a follow-on project that was at one point slated to be completed by June 2013. It's still not done, and the IRS continues to rely on IMF's magnetic tape to process and store taxpayer data.
+
+"We do have mainframes, whether you like it or not," said Nitin Naik, the IRS' technical director for strategic planning.
+
+It ain't broke but needs fixing
+
+The back-end work is a tangled slog. Nearly a decade after kicking off its Tax Systems Modernization effort, IRS officials had to admit in 1997 that they had spent $4 billion on computer systems that "do not work in the real world."
+
+Charles Rossotti was brought in from the private sector that year to shake things up, and during his tenure as IRS commissioner, he championed Business Systems Modernization. But although that initiative helped power a reorganization at the IRS, it was beset by delays, cost overruns and failures to effectively coordinate between contractor CSC and the IRS bureaucracy.
+
+And so the agency is still, in 2016, using 1960s technology. It's a workforce problem as much as it is an IT challenge.
+
+"It's not broken," Naik said of IMF. "It's just…difficult to maintain. Congress keeps changing legislation, altering rules, then you have to go back in, program it, make sure it works."
+
+All that programming in the old assembler language Cobol helps keep the IRS tied to IMF. "We have to train our own people" in the old programming language, which certainly doesn't help the agency operate nimbly, Naik said.
+
+Taxpayer data has been transferred to modern data storage platforms through CADE-2. But the agency still depends on the logic and processes coded into IMF, all linked to the Byzantine interplay of the tax code.
+
+Complexity breeds complexity
+
+Web-based interfaces such as "Get Transcript" don't fit easily into the IRS' mainframe setup.
+
+IMF's designers "never really thought you'd have people extracting data on a one-off basis," said Tom Romeo, president of IRS contractor Maximus Federal Services. "Their underlying systems were not written to support that kind of access."
+
+Instead, IMF was designed with mass-intake capacity in mind. In the modern era, IRS and contractor employees have to code workarounds to help IMF link to outside systems and enable the rapid pull of individual taxpayer files for systems such as "Get Transcript."

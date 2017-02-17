@@ -1,0 +1,99 @@
+It's either the heavy hand of government getting in the way of business, or the dawn of a new era of free-flowing information, videos and everything else.
+
+Welcome to the latest, and most significant, episode in the adventures of Net neutrality. Sure, those two words make for arguably one of the dullest phrases ever created, but I have two more words for you: Wake up!
+
+First, here's what just happened: After a year of discussion and table-setting, Federal Communications Commission Chairman Tom Wheeler this week submitted his proposed set of rules for ensuring an open Internet. As is so often the case with rule-making, that Net neutrality proposal is rubbing some powerful interests the wrong way.
+
+So it is that the future of the Internet is at stake. To help you understand what you need to know about what the FCC wants to do, I'm breaking down the topic into digestible pieces.
+
+Let's start with some basics.
+
+Net neutrality is the principle that all traffic on the Internet should be treated equally. Whether you're checking Facebook, posting pictures to Instagram, shopping on Amazon, streaming Netflix movies or watching cat videos on YouTube, all the information traveling across the Internet to you and from you should be treated the same. So that means your Internet service provider -- whether that's a broadband company like Comcast or a wireless carrier like AT&T or Verizon -- can't block or slow down your access to that content.
+
+Why is that important? If you're a consumer, there's nothing in the way of you accessing your favorite sites and getting your favorite content. If you're an entrepreneur looking to start a business for cat-video-watching fans, you'll get the same treatment as a Netflix or Google when delivering videos of Fluffy to your customers.
+
+And know this: The Internet has always operated on this basic principle of openness or Net neutrality.
+
+The open nature of the Internet is why a young Harvard student named Mark Zuckerberg was able to build the Facebook social network. It's also how two Stanford graduate students named Sergey Brin and Larry Page were able, with their little project called Google, to change how we search for things on the Web -- and upend the advertising industry as well.
+
+The decade-long debate over how to implement Net neutrality-- and yes I've been following this issue for more than a decade -- has really been a battle to ensure that this openness is preserved. And the way to preserve it is by establishing "rules of the road" that let Internet service providers, consumers and innovators know what's allowed and what's not allowed on the Net.
+
+Critics of the regulations argue that the rules are unnecessary and even dangerous to the ability of companies to innovate and keep up with the rapid pace of technological advances.
+
+Wheeler's proposal, which the FCC will vote up or down on February 26, was written after a federal appeals court threw out earlier rules established in 2010 under a different FCC chairman. (That's a long story on its own. You can read all about it here.)
+
+The debate over the past year has focused on what the new rules for Net neutrality should be and how to formulate them so they can stand up to future court challenges.
+
+Wheeler, a Democrat appointed to the top FCC job by President Barack Obama in 2013, initially said he was just looking to reinstate the 2010 rules. Those rules provided basic protections for Internet openness by prohibiting broadband providers from blocking access to websites or apps or slowing down service.
+
+Brendan Smialowski/AFP/Getty Images
+
+But over course of the year -- and after the FCC received nearly 4 million public comments last summer, thanks in large part to urging by comedian John Oliver -- Wheeler said his thinking changed. He realized his rules didn't go far enough to preserve true Net neutrality.
+
+His final proposal was also influenced by statements from Obama, who in November called for strong rules based on treating the Internet as a public utility, just like the old telephone companies.
+
+The chairman's official proposal hasn't been made public yet -- it's currently being circulated privately among the four other commissioners on the FCC. But Wheeler shared highlights of what's included in an op-ed piece on Wired.com on February 4.
+
+Here's a breakdown of what you need to know, in plain English.
+
+The rules
+
+There are six basic rules included in Wheeler's proposal.
+
+1. No blocking: This means that broadband service providers -- the wireless, cable and satellite companies that offer Internet service to consumers today -- "may not block access to legal content, applications, services, or nonharmful devices." Put simply, no one can come between you and your love of cat-video viewing.
+
+2. No throttling: Broadband providers may not slow down the delivery of lawful Internet traffic, based on the content, applications or services that are delivered. That means a service provider like Comcast, say, can't single out traffic from video-streaming service Hulu.com because the cable provider thinks the video service is hogging too much of the network's capacity and slowing down the service for others.
+
+3. No paid prioritization: Broadband providers can't favor some traffic on their network over other traffic. This rule means no "fast lanes" on the Internet. So an ISP, such as Verizon, can't charge a company like Netflix to deliver its streaming-video service more quickly to customers. This rule also bans ISPs from prioritizing their own services over services offered by competitors.
+
+This is a big deal because the previous rules and principles the FCC tried to put in place never explicitly banned pay for play. But even though this rule is now explicitly spelled out, it doesn't actually ban all types of network prioritization. Broadband providers can still offer services that "do not go over the public Internet." The FCC highlighted two examples: cable operators' voice over IP services, which use dedicated capacity on cable infrastructure to make phone calls over the Internet, and "specialized services" like remote health monitoring.
+
+4. Open Internet conduct standard: The FCC knows that new threats to the open Internet may come up in the future, so it included a general catchall rule that establishes a standard for future conduct. This rule prohibits ISPs from adopting practices that would "harm consumers or edge providers." (These so-called "edge providers" are companies such Netflix, Hulu, Amazon, or Google that connect to broadband networks and deliver content to consumers.)
+
+5. Transparency: ISPs will need to offer specifics about how they manage and run their networks. This rule was actually the one piece of the 2010 rules that wasn't struck down by the federal court. The FCC said it is keeping this rule in its new version -- and even making it stronger.
+
+6. Reasonable network management: The Net neutrality principle mandates that all traffic on a network is treated equally, but sometimes traffic isn't equal when broadband providers are trying to manage their networks to make sure customers get the service they've paid for. Case in point: video traffic is sensitive to delay, meaning disruptions in that movie you're streaming. (Email and text-heavy Web pages don't suffer the same way.). During times of congestion, when networks are near full capacity, broadband providers will be able to prioritize certain types of data to ensure that all services operate as anticipated. Just to be clear: wired and wireless broadband providers have always managed their networks to ensure their customers can use their Internet services.
+
+This rule has been included because the FCC recognizes the need for broadband providers to act as traffic cops when their networks are overloaded. The agency also recognizes that different types of networks have different technical requirements, and it will interpret what is "reasonable" network management based on network type. Managing a wireless network, for instance, may have different technical requirements than managing a fiber-based broadband network.
+
+The FCC says the practice of "network management" cannot be used to promote a service provider's own commercial efforts. For example, if your wireless provider promises you access to unlimited data, it can't renege on that promise and choke off the speed of your downloads as you use more and more data services. That's good news for any AT&T or Verizon customer on a grandfathered unlimited-data plan.
+
+What's in a name? Or, broadband as a utility
+
+For the most part, everyone involved in the Net neutrality debate agrees these basic rules should exist. That includes broadband providers and congressional Republicans, who in the past opposed the need for any official open-Internet regulation. In fact, Republicans introduced federal legislation, with the blessing of the broadband industry, that makes these basic Net neutrality rules law.
+
+But the broadband industry and some Republicans are now in a lather because they object to the legal framework the FCC is using to establish the new rules.
+
+In wonky, Washington, DC-speak, we're talking about "Title II reclassification." What this means is that the FCC is asking to redefine broadband as a "telecommunications service" under Title II of the 1934 Communications Act. With this new classification, the FCC would get to regulate broadband under the rules used for the old telephone network. This legal definition establishes broadband as a "common carrier," a centuries-old concept that means their network must be open to everyone. A classic example of this concept is a ferry service that uses public roads and waterways to run its business. Under common-carrier principles, the ferry operator can't pick and choose those who get transported across the river. The service must be open to all travelers since it uses public rights of way.
+
+In addition to the concept of common carriage, there are more stringent public utility-style regulations that go along with the Title II moniker. It's this piece of Title II that has broadband providers and some Republicans up in arms. They argue that the new classification will stifle innovation by saddling ISPs with burdensome regulation. Some of the requirements under the Title II classification let FCC set pricing on services, collect tariffs and other taxes, and could force network operators to "unbundle," or open their networks to competitors.
+
+The FCC says it will strip out some elements from Title II in the case of the broadband industry. The agency won't be able to set prices. It also won't require broadband providers to pay monthly fees into the federal Universal Service Fund subsidy program, which provides funding for phone and Internet service in rural areas, as well as funding for broadband access to schools and libraries. This is important because some opponents of reclassifying broadband as a Title II utility have argued that forcing broadband providers to pay into the subsidy program would mean they'd have to raise consumers' broadband service fees.
+
+Wireless schmireless: It's all broadband
+
+A key difference in the new rules versus the old ones is that the open Internet regulation will treat wireless services the same as wired broadband services. Four years ago, when the 2010 rules were adopted, the FCC excluded wireless services from most of the Net neutrality requirements. Specifically, wireless operators weren't required to adhere to rules prohibiting network blocking or throttling.
+
+The thinking in 2010 was that wireless networks were different because they operate over airwaves, which inherently offer less network capacity than those hardwired connections to your home or office that rely on copper or fiber lines. Wheeler says that wireless networks will never be able to offer the same download and upload speeds wired services offer. But with more than 55 percent of all Internet traffic coming from wireless devices like smartphones, Wheeler argues that wireless service providers should follow the same open standards that wired network operators follow.
+
+Couples counseling: The FCC and 'network peering'
+
+The new rules also would, for the first time, give the FCC the authority to get involved in private business disputes among network operators that swap Internet traffic. These so-called "peering" relationships are established between companies interconnecting or linking different networks so they can deliver services and apps to consumers over the public Internet. For example, companies like Level 3 transport Internet traffic across their "backbone" networks to deliver Web pages, streaming video and other Internet content to local broadband networks, which then deliver that content to consumers.
+
+When the volume of traffic exchanged between these peers becomes unbalanced, companies typically enter into an arrangement so they can balance things out.
+
+In the past, the FCC has taken a hands-off approach to these business deals. But as content companies begin to directly "interconnect" their services to broadband networks, disputes have flared up over how much or even if these Internet content companies should pay for access to broadband networks. Last year, Netflix highlighted this issue when it accused Comcast and Verizon of abusing their power as broadband operators controlling access to consumers by purposely slowing down streams of movies and TV shows to Netflix customers.
+
+Wheeler has said in the past that these disputes don't fall under classic Net neutrality rules. But he has acknowledged that the issues are related since they can affect consumers' access to Internet services and content. To stop network operators from potentially abusing their power, his proposal calls for the FCC to regulate these relationships under Title II so that the agency has the "authority to hear complaints and take appropriate enforcement action if necessary, if it determines the interconnection activities of ISPs are not just and reasonable," according to the FCC's fact sheet.
+
+What's next?
+
+The five-member FCC will vote on Wheeler's proposal on February 26. It's expected to be approved, given that the commission is made up of three Democrats and two Republicans. The Democrats are expected to side with Wheeler and Obama. After the rules are published in the Federal Register, they become the law of the land.
+
+So that's it? Not exactly. Even then, the Net neutrality debate will not be over and done with. In fact, the issue could take years to resolve because broadband providers, including AT&T and Verizon, are expected to file lawsuits as soon as the regulations appear in the Federal Register.
+
+In the meantime, Congress is also working on legislation that could make the whole debate over these specific rules moot. If Congress passes a new law, the FCC's regulations will be superseded, and it will be the new law that establishes Net neutrality rules.
+
+So the debate would roll on once more.
+
+This story is part of a CNET special report looking at the challenges of Net neutrality, and what rules -- if any -- are needed to fuel innovation and protect US consumers.

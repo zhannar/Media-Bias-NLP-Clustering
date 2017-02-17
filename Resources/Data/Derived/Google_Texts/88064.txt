@@ -1,0 +1,47 @@
+Recently I served as a panelist for Talk Ten Tuesdays, ICD10monitor’s weekly Internet program. The program covers a variety of topics, but ICD-10 is its primary focus.
+
+The experience got me to thinking: we are already seeing, ICD-10 can provide us some rich data, and this directly ties to coding quality. When we are considering coding quality, we need to think beyond DRGs and APCs and recognize that coded data impacts every organization in a variety of ways, with one being reimbursement.
+
+Beyond the effect that coding has on per-claim reimbursement, we must remember that the data on those claims permeate other data warehouses, including those used by both the governmental and commercial payors and other quality surveillance organizations for their profiling activities.
+
+Perhaps most significantly, our coding contributes to the databases for patient safety indicators (PSIs) and healthcare-acquired conditions (HACs) as well as the level of complexity of conditions being treated by our physicians (which speaks to severity of illness and risk of mortality metrics).
+
+An organization’s frequency of triggering PSIs, along with the incidence of HACs and readmission rates, contribute to the algorithm applied for that organization’s value-based reimbursement rate, or rather, the payment percentage. For 2016, the PSI amount that is at risk of loss was 1.75 percent of our DRG payments. If the frequency of PSIs is greater than the threshold, we may experience a permanent loss of the entire withheld amount.
+
+We already know that if we record a HAC, reimbursement is reduced accordingly. Acute-care hospitals that report the most hospital-acquired conditions will see Medicare reimbursement reductions of 1 percent. The combined effect of the PSI 1.75 percent and the HAC 1 percent expose us to a potential overall loss in reimbursement of 2.75 percent. Compare this 2.75 percent to what Studer reports as the average net operating margin for a U.S. hospital of 2.2 percent and the effect of that impact becomes clear. Moreover, we have not included the readmission penalty into the equation.
+
+Finally, we need to recognize that this data will find its way to public websites, so the public relations harm is an important factor to consider in this competitive environment for wooing patients, talented employees, and reputable medical staff.
+
+To help achieve a more favorable PSI rating, fewer HACs, and a favorable reimbursement forecast, we need to advocate for four immediate actions:
+
+1) Building and energizing collaborative relationships between the coding professionals, the PSI/core measure reporting clinical professionals, the CDI team, and key medical staff members;
+
+2) Establishing real-time communication channels between clinical documentation improvement (CDI), CDI medical advisors, and coders of conditions that should not be coded as complications without further querying (or with validation that the condition is a routinely expected occurrence);
+
+3) Creating clinical analytic dashboards and conducting data mining to identify the causes for HACs/PSIs; and
+
+4) Providing continuous feedback of our findings to the clinical and medical staffs.
+
+As for the patient’s level of complexity, our coding not only contributes to the severity and mortality indices for APR-DRGs, but also to the hierarchical condition categories, or HCCs, for physician reimbursement. Both directly influence reimbursement. While HCCs are not universally used as the “fee schedule” by which physicians caring for Medicare Advantage or Patient Protection and Affordable Care Act (PPACA)-covered patients are reimbursed, they soon will be. Physicians must understand the documentation and coding requirements that will drive the reimbursement they will receive from these payers in the future. Coding and CDI professionals can help educate them.
+
+Since we only can code what is documented, these areas may be enhanced with documentation improvement (DI) activities. However, this means that the DI must extend beyond our hospital walls and into the ambulatory environment, including our physician practices. To make this DI expansion successful, the collaboration must include more physicians, our CDI staff, and our coders.
+
+The foundation for all of these value-based performance initiatives is the clinical documentation. If it is vague, or if we have weak internal communication and feedback loops within our teams and clinicians, or if our records remain incomplete for more than five days, or if we have overly conservative or inconsistent coding, the fiscal strength of our organizations and practices will erode.
+
+Kim Charland recently stated that the U.S. Department of Health and Human Services (HHS) has a goal of tying 85 percent of all traditional Medicare payments to quality or value this year through programs such as the Hospital Value-Based Purchasing and Hospital Readmission Reduction Programs. If this is HHS’s intention, then our coded data represents a treasure chest.
+
+While we are still trying to recover, productivity-wise, from ICD-10, our coding quality needs to be where it was when we were coding in ICD-9. The national expectation of 94-96-percent coding accuracy remains our coding quality benchmark. If your coders are doing better than that, bravo! If they are below that recognized benchmark, focus on the quality and quantity will eventually catch up.
+
+Finally, for those of you requesting additional coding staff, certainly use the ICD-10 “ace,” but pair it with all the other uses of coded data to present a “full-house” justification statement to your organization’s leadership.
+
+About the Author
+
+Rose T. Dunn, MBA, RHIA, CPA, FACHE, FAHIMA, is a former American Health Information Management Association (AHIMA) president and recipient of AHIMA’s Distinguished Member and Legacy Awards. She served as AHIMA’s interim CEO in 2011 and held president positions in Eastern Missouri HIMA, Missouri HIMA, and Greater St. Louis HFMA. She is chief operating officer of St. Louis-based First Class Solutions, Inc. and is recognized nationally for her texts, presentations, and articles on a variety of healthcare-related topics.
+
+Contact the Author
+
+Rose.Dunn@firstclasssolutions.com
+
+Comment on this Article
+
+editor@icd10monitor.com

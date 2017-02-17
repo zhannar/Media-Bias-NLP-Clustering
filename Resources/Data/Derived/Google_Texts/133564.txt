@@ -1,0 +1,25 @@
+The White House has rejected a request to publicly disclose documents relating to the kinds of security software and computer systems behind the federal health care exchange website on the grounds that the information could "potentially" be used by hackers.
+
+The Centers for Medicare and Medicaid Services denied a Freedom of Information Act request made late last year by the Associated Press amid concerns that Republicans raised about the security of the website, which had technical glitches that prevented millions of people from signing up for insurance under ObamaCare.
+
+In denying access to the documents, including what's known as a site security plan, Medicare told the AP that disclosing them could violate health-privacy laws because it might give hackers enough information to break into the service.
+
+"We concluded that releasing this information would potentially cause an unwarranted risk to consumers' private information," CMS spokesman Aaron Albright said in a statement.
+
+The AP is asking the government to reconsider. Obama instructed federal agencies in 2009 to not keep information confidential "merely because public officials might be embarrassed by disclosure, because errors and failures might be revealed, or because of speculative or abstract fears." Yet the government, in its denial of the AP request, speculates that disclosing the records could possibly, but not assuredly or even probably, give hackers the keys they need to intrude.
+
+Even when the government concludes that records can't be fully released, Attorney General Eric Holder has directed agencies to consider whether parts of the files can be revealed with sensitive passages censored. CMS told the AP it will not release any parts of any of the records.
+
+The government's decision highlights problems as it grapples with a 2011 Supreme Court decision that significantly narrowed a provision under open records law that protected an agency's internal practices. Federal agencies have tried to use other, more creative routes to keep information censored.
+
+In addition to citing potential health-privacy violations, the government cited exemptions intended to protect personal privacy and law-enforcement records, although the agency did not explain what files about the health care website had been compiled for law-enforcement purposes. Some open-government advocates were skeptical.
+
+"Here you have an example of an agency resorting to a far-fetched privacy claim in an unprecedented attempt to bridge this legal gap and, in the process, making it even worse by going overboard in withholding such records in their entireties," said Dan Metcalfe, a former director of the Justice Department's office of information and privacy who's now at American University's law school.
+
+Keeping details about lockdown practices confidential is generally derided by information technology experts as "security through obscurity." Disclosing some types of information could help hackers formulate break-in strategies, but other facts, such as numbers of break-ins or descriptions of how systems store personal data, are commonly shared in the private sector. "Security practices aren't private information," said David Kennedy, an industry consultant who testified before Congress last year about HealthCare.gov's security.
+
+Last year, the AP found that CMS Administrator Marilyn Tavenner took the unusual step of signing the operational security certificate for HealthCare.gov herself, even as her agency's security professionals balked. That memo said incomplete testing created uncertainties that posed a potentially high security risk for the website. It called for a six-month "mitigation" program, including ongoing monitoring and testing. The site has since passed a full security test.
+
+Government cyber-security experts were also worried that state computers linking to a federal system that verifies the personal information of insurance applicants were vulnerable to attack. About a week before the launch of HealthCare.gov, a federal review found significant differences in states' readiness. The administration says the concerns about state systems have been addressed.
+
+The Associated Press contributed to this report.

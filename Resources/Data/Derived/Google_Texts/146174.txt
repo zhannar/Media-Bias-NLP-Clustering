@@ -1,0 +1,19 @@
+Brad DeLong finds Chris House taking me to task for failing to “own up” to the puzzling failure of deflation to emerge despite years of depression, and is baffled — because I have in fact repeatedly acknowledged the puzzle, and talked about it a lot.
+
+Partly this is House once again desperately seeking false equivalence; he starts from the proposition that everyone must be equally at fault, and that I must therefore be as unwilling to acknowledge wrong predictions as the equilibrium macro types — no need to check what I actually wrote. (I’m still waiting for examples of things I’ve said that are as crazy as Prescott’s insistence that there is no evidence that monetary policy matters.)
+
+But let’s leave that stuff aside; there’s a point I think needs making about how a Keynesian (or if you like, a Hicksian — let’s not get into the question of What Keynes Really Meant) thinks he knows.
+
+As I see it, we have a general proposition — most recessions are the result of inadequate demand. And we have a pretty good model of aggregate demand, and of how monetary and fiscal policy affect that demand. That model is IS-LM, with endogenous money as appropriate. You can, for some purposes, usefully think of the IS curve as derived from intertemporal optimization, but that’s a metaphor rather than a principle.
+
+We do not have an equally good model of aggregate supply. What we have, instead, is an observation: prices and wages clearly are sticky in the short run, and maybe for longer than that. There’s overwhelming evidence for that proposition, but in trying to justify it we engage in various kinds of hand-waving about menu costs and bounded rationality.
+
+The thing is, for many purposes this slightly vague notion of aggregate supply is enough; we can, for example, be fairly sure that expansionary policies in a depressed economy won’t be inflationary, and we can use the pretty good demand side model to tell us that monetary expansion won’t work but fiscal policy will when we’re at the zero lower bound.
+
+Still, we try. New Keynesians do stuff like one-period-ahead price setting or Calvo pricing, in which prices are revised randomly. Practicing Keynesians have tended to rely on “accelerationist” Phillips curves in which unemployment determined the rate of change rather than the level of inflation.
+
+So what has happened since 2008 is that both of these approaches have been found wanting: inflation has dropped, but stayed positive despite high unemployment. What the data actually look like is an old-fashioned non-expectations Phillips curve. And there are a couple of popular stories about why: downward wage rigidity even in the long run, anchored expectations.
+
+The point, however, is that the price-setting side of the models has never been an integral part of Keynesian doctrine, and the surprising resilience of inflation hasn’t undermined the core insights.
+
+And it remains true that Keynesians have been hugely right on the effects of monetary and fiscal policy, while equilibrium macro types have been wrong about everything.

@@ -1,0 +1,33 @@
+Apple’s refusal to bow to a federal court order demanding that the tech conglomerate help the FBI access encrypted information on an iPhone used by one of the San Bernardino attackers is amplifying tensions between the government and Silicon Valley.
+
+Experts warn that heeding to the FBI’s call for Apple to create a “backdoor” reversing encryption would have sweeping consequences extending beyond this particular phone.
+
+“This is the ultimate technological Catch-22,” Cully Stimson, national security law program manager and senior legal fellow at The Heritage Foundation, told The Daily Signal.
+
+“On the one hand, we want this privacy, we want this encryption, we want this security—but we also want to be safe.”
+
+The entrenched battle between tech companies and the Justice Department erupted Tuesday morning after a U.S. District Court of Central California magistrate judge issued an order compelling Apple to develop a program that would reverse encryption on its iPhones.
+
+This would enable the FBI to break into the iPhone 5c used by Syed Rizwan Farook, who pledged allegiance to the Islamic State and conspired with his wife to kill 14 people in San Bernardino, Calif., last year.
+
+Apple CEO Tim Cook responded to the decision in an open letter posted to customers Tuesday night. He warned iPhone users that the development of new iOS software undermining encryption would deteriorate data security and establish a “dangerous precedent.”
+
+“In the wrong hands, this software—which does not exist today—would have the potential to unlock any iPhone in someone’s physical possession,” Cook wrote.
+
+Stimson cautioned that the program could ultimately make its way to other nations, including governments hostile to the U.S., and land in the hands of terrorist organizations, whose members could then decrypt all iPhones.
+
+“This is not Apple giving the palm to law enforcement at large, this is not Apple giving the middle finger to the federal government,” he said. “This is Apple saying, ‘This is a step too far.’”
+
+The court is specifically ordering Apple to disable the function that erases the data on an iPhone after a user enters an incorrect password 10 times. This could help FBI agents break into Farook’s phone using “brute force,” where tech experts test the 10,000 possible password combinations without damaging data.
+
+Apple would also be compelled to develop a custom-made program that could override its encryption software, which Stimson notes the company has spent decades creating.
+
+The Obama administration defended the Justice Department’s request Wednesday, vowing that the government would solely use the new program on Farook’s phone.
+
+“They are not asking Apple to redesign its product or to create a new backdoor to one of their products,” press secretary Josh Earnest said at a White House briefing. “They’re simply asking for something that would have an impact on this one device.”
+
+David Inserra, a policy analyst in homeland security and cyber-security at The Heritage Foundation, said the issue should be handled by Congress.
+
+With the 2016 election dominating congressional attention, Inserra said legislation likely would not move this year. Though even without the election, he said lawmakers could be hesitant to do anything because of the tendency to defend encryption.
+
+“Based on prior issues somewhat like this, this does not cut straight down party lines,” Stimson said.

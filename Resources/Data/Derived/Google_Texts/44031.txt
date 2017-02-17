@@ -1,0 +1,51 @@
+'If someone with nearly unlimited resources can be breached like this, then it raises serious questions as to what's at risk'
+
+An exterior view of the Anthem Health Insurance headquarters on Feb. 5 Indianapolis, Indiana. About 80 million company records were accessed in what may be among the largest healthcare data breaches to date. ( Aaron P. Bernstein / Getty Images North America )
+
+Those seemingly harmless medical forms everyone fills out before seeing a doctor can lead to identity theft if they get into the wrong hands.
+
+Names, birthdates and — more importantly — Social Security numbers can help hackers open fake credit lines, file false tax returns and create false medical records. And health care businesses can lag far behind banks, credit card companies and retailers in protecting such sensitive information.
+
+"It's an entire profile of who you are," said Cynthia Larose, chair of the privacy and security practice at the law firm Mintz Levin in Boston. "It essentially allows someone to become you."
+
+The danger of cyberattacks was highlighted this month when Anthem, the nation's second-largest health insurer, said hackers broke into a database storing information on 80 million people. That hack led to a particularly valuable trove of data because it exposed Social Security numbers, a key to a range of identity thefts.
+
+Those numbers were created to track the earnings history of workers in order to determine Social Security benefits. Now, health care companies are, in some cases, required to collect the numbers by government agencies.
+
+They also use them because they are unique to every individual and more common than other forms of identification like driver's licenses, said Dr. Ross Koppel, a University of Pennsylvania professor who researches health care information technology.
+
+But the protection health care companies have for that information can be lax compared with other industries. In fact, the FBI warned health care companies a year ago that their industry was not doing enough to resist cyberattacks, especially compared with companies in the financial and retail sectors, according to Christopher Budd at the security software company Trend Micro. He said the warning came in a government bulletin to U.S. companies that cited research by a nonprofit security institute.
+
+Avivah Litan, a cybersecurity analyst at the research firm Gartner, estimates that the health care industry is generally about 10 years behind the financial services sector in terms of protecting consumer information. She figures that it may be twice as easy for hackers to get sensitive financial information out of a health care company compared with a financial services business.
+
+Litan, who studies fraud-detection technology, says she sees gaps in several areas of spending on cybersecurity for health care companies. Banks, she said, are much more likely to use advanced statistical models and behavior analytics programs that can spot when someone's credit card use suddenly spikes. That's a sign of possible fraud that may be worth investigating.
+
+"There's a need for that everywhere now," she said.
+
+Banks, which face more regulation on data protection, also are more likely to encrypt customer data, which can garble the information if a hacker gets ahold of it.
+
+Once someone creates a stolen identity with a Social Security number, it can be hard to fix the damage. A person can call a bank to shut down a stolen credit card, but it's not as easy of a process when it comes to Social Security numbers.
+
+"There is no such mechanism with Social Security numbers and our identity," Litan said. "You can't just call the bank and say, 'Give me all the money they stole from my identity.' There's no one to call."
+
+Health care companies do have security to protect sensitive patient information.
+
+Anthem, for instance, had "multiple layers of security" in place before the attack, said David Damato, managing director at FireEye, the security company hired by Anthem to investigate the breach.
+
+The accessed data was not encrypted, but an Anthem spokeswoman said that would not have helped, because the intruder used high-level security credentials to get into the company's system.
+
+Still, several experts say encryption helps. Martin Walter, senior director at cybersecurity firm RedSeal Networks, said encryption programs can be tuned so that even authorized users can view only one person's account, or a portion of an account record, at a time. That makes it harder for an outsider to view or copy a whole stockpile of records.
+
+And even if Anthem security proved invulnerable, the health care system can offer several other inviting targets that have varying levels of security to hackers. Hospitals, labs, clinics and doctor's offices also can be attacked, although few possess the amount of data Anthem has.
+
+The experience of a big company like Anthem does not bode well for the broader health care industry, said Budd at Trend Micro.
+
+"They have resources to throw at cyber security," he said. "And if someone with nearly unlimited resources can be breached like this, then it raises serious questions as to what's at risk."
+
+Beth Knutsen still worries about someone using her Social Security number more than a year after she was told that some old patient files of hers had been taken from a doctor's office in Chicago. The 39-year-old New York resident visited that doctor nearly 20 years ago.
+
+She's seen no signs of fraud yet, and she still provides her Social Security number when a doctor's office asks for it — but only because it seems to be required for insurance and billing.
+
+"It's so scary," she said. "Who knows what can happen with that information?"
+
+Murphy reported from Indianapolis, and Bailey reported from San Francisco. AP Business Writer Marley Jay also contributed from New York.

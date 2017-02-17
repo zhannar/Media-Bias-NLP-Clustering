@@ -1,0 +1,45 @@
+The Wall Street Journal did a lengthy story yesterday about the problems confronting the beleaguered Affordable Care Act (aka Obamacare) “exchange” Web sites that launched last Tuesday. The Journal consulted experts who say the site is poorly coded.
+
+At the same time, the NYT reports that administration officials say that some key software on the site failed after facing such a heavy crush of users. And while I’m sure the crush of visitors was, well, crushing, others are suggesting that that’s not a very good excuse for a site being pretty much inoperable for a week.
+
+The week wasn’t an entire disaster. In some places, like Washington, DC, the launch went off without a glitch. In other places, like California and Florida, people were either finding it impossible to get to the home page, or to log in, or to fill out their application (which apparently, according to the exchanges, is the same thing as creating an account on the site – we’ll get to that bizarre conflation of terms in a moment), or to get their application confirmed, and so on.
+
+Now, keep in mind that in some states – 14, and the District of Columbia – any problems people faced are the states’ fault, as those states are in charge of running the exchanges. But in 36 states, the federal government is in charge of the exchange. And the federal exchange was the glitchiest of them all.
+
+Big caveat: I had no problem logging on to the DC exchange that first day, and finding two plans that potentially interested me. What I did have a problem doing was checking out plans for my sister in Illinois. Illinois is one of the 36 states where you need to go the main federal exchange site, HealthCare.gov, in order to review potential insurance plans.
+
+The DC site is a joy. You can apply for coverage or simply browse plans – and the button you click in order to browse plans is labeled “browse plans.” If you choose to browse plans, you create an account by choosing a username and password, and that’s it. Next it asks you to create some security questions, and then you’re in. You can browse the various plans, or even apply for one if you like.
+
+The Federal exchange is no such joy. Due to the heavy traffic, and the glitches, it took up until Sunday for me to even be able to reach the part of the site where you begin the process of setting up an account, a requirement for perusing the plans. First off, it’s not terribly clear on the federal exchange site how to browse plans at all. On the DC site, you click the “browse plans” button, instead of the “apply now” button. On the federal site, you simply have to click “learn more,” and then it starts asking you lots of questions about your age range, whether you already have insurance, etc.
+
+That then takes you to a page that is confusing as hell, and says nothing at all about browsing plans. All you can do on that page is “apply” for a plan. I didn’t want to apply for a plan, but lacking any other choice, I clicked “apply now,” even though I didn’t want to apply now.
+
+After I clicked through, I was required to enter all sorts of personal information, including my phone number and home address (including zip plus four, which I had to go look for), which only furthered my concern that I was actually “applying” for insurance, when I simply wanted to window shop. I wonder how many people stopped right here, thinking they were “applying” for insurance and didn’t want to do that just yet.
+
+So I created some dummy info – I was, after all, simply trying to help my sister back in Illinois, and the site was having none of it. First, it required a working email address – then it sends you an email you have to click on, and then you return to the site and fill out more information. So I went back, started all over again, and gave it a real email address this time. (The DC exchange doesn’t not require an email at all, and gives you immediate access to the various plans right after you create a username and password – though they do ask you to create some security questions.)
+
+So I created another new account, this time using a real email address, and I kept getting error messages, telling me that it couldn’t create the account. Eventually it worked, and that’s when things got really fun. Somehow the federal exchange figured out that I was creating a dummy account, so it kept telling me it couldn’t verify who I was. So I finally entered my sister’s real name, address and phone number.
+
+Well, HealthCare.gov was having none of that. Apparently, entering my sister’s REAL information raised some red flag, and the site was now demanding copies of my government IDs that were going to be reviewed by some actual human being before I received the honor of being permitted to simply browse some insurance plans.
+
+I could almost hear the German accent.
+
+“Submit documents that prove your identity.” Right, like my mom is going to know how to scan a document, let alone upload it to a Web site. And who, in any case, is going to start uploading their official documents to a Web site they simply want to browse?
+
+I quit the entire venture in disgust.
+
+Unless this is all part of the ongoing glitch – and I’m sure some of it is, but not all of it is – why should I have to prove who I am in order to simply browse the damn plans? You don’t have to prove who you are on the DC exchange in order to browse the plans. Why should I have to do it on the federal site? And putting aside for a moment the ridiculous use of the phrase “apply now” in order to mean “just browse, you don’t really have to ‘apply,’ ” why require a working in-state home address and phone at all? In order to give me accurate quotes, all they need is my birthday and my state of residence, and maybe – maybe – my county, though that’s questionable. So a birthday and zip code should suffice.
+
+Instead, I got the Spanish Inquisition.
+
+Why does it matter? Well, I don’t plan on spending my entire life in Washington, DC. (God forbid.) At some point, I’d like to peruse the plans in Illinois because, you know, sometimes people move from one state to another. How exactly do I look over the Illinois plans if I don’t have a “real” verified address in Illinois? And what is the crime in simply giving people access to the plans without jumping through all these hoops? If I didn’t know better, I’d say this site feels like an effort in list-building – i.e., they want to collect as much information as possible about everyone who visits, even if they’re not buying anything, in order to create a huge database for who knows what reason. And not to get all Glenn Beck on them, but it’s none of their damn business who I am, or what my phone number or home address is, until I decide to apply for a plan. Period.
+
+Then I had a eureka moment. I’ll just call the 800 number they provide on the site, and ask them how to get the plans. So I called, and the recording told me there was a 30 minute wait. I promptly hung up.
+
+I’ve worked as an Internet consultant for 16 years. The federal exchange is poorly designed. The majority of the people are going there for two reasons – one really – to browse plans. So give them access to the damn plans, and make it easy for them. Don’t make them hunt all over the page in order to figure out where to even click to begin browsing, and then when they figure out they’re supposed to click the “apply now” button, even though they don’t want to apply now, don’t make them fill out an entire autobiography just to compare plans and prices.
+
+Again, the DC site doesn’t require any of this info or all of these hoops, and it does just fine letting us browse the correct plans. So why is the federal site so complicated and intrusive ?
+
+I’m a big supporter of Obamacare. I wasn’t thrilled that the law didn’t go farther, but I always felt – and increasingly feel – that the fixes for annual and lifetime limits, and pre-existing conditions, for starters, would be a huge deal. And they are. But we shouldn’t be giving the Republicans fuel for the fire, and this Web site – poorly designed as it apparently is – is fuel.
+
+It’s still a bit of a mystery why the DC government was able to come up with a pretty good site, while the federal one is a confusing and complicated mess. But there you have it. Let’s hope that they get the glitches fixed pronto, then go back and overhaul the entire thing. It should be far easier, quicker, and less complicated to access the plans. Here’s hoping that at some future date it is.

@@ -1,0 +1,27 @@
+It’s hard to understand why oppressive governments are even bothering to censor their Internet anymore.
+
+No, really. With the vast array of technologies at one’s disposal — both paid and free — like VPNs, proxies, and services like Tor, curious dissenters have consistently proven that – with enough tinkering – they can circumvent many degrees of government censorship.
+
+Now another contender is looking to join the fray.
+
+A cabal of privacy-focused developers in California has just launched a Kickstarter campaign to mass-produce and distribute a small gadget called the “Anonabox.” Costing just $45 and roughly half the size of a pack of cigarettes, the Anonabox will have the ability to be connected to the user’s router, instantly directing all their web traffic through the Tor network — effectively making them completely anonymous and theoretically allowing them passage through government-sanctioned blocks, like China’s “great firewall.”
+
+Of course, as this is still only a prototype, there’s no guarantee that the Anonabox will work with every government roadblock. However, the people behind the Tor project have a long history of quickly finding workarounds for these, patching the software sometimes mere hours after a regime tightens their firewalls.
+
+Related: The Internet Scam That Hijacks Your Hard Drive
+
+The Tor network (Tor stands for “The Onion Router”), a service that bounces web traffic through a series of encrypted nodes and effectively anonymizes everything that passes through it, has been around for a while. Indeed, Tor has long been a requirement for those intrepid Internet explorers who decide to brave the deep web.
+
+Setting up TOR has always been a rather fiddly affair, though, requiring several configuration steps and a specialized browser. The Anonabox aims to remove all that hassle and make TOR more accessible to the average user. It also allows for traffic from other programs, like Skype, to be routed through Tor, which wasn’t previously possible.
+
+It’s important to mention that due to newer tracking technologies like “browser fingerprinting,” which tracks your identity in a different manner than what TOR protects against, the box alone is not enough for users to browse the Internet completely anonymously. To further avoid being tracked, security experts also recommend using Tor’s specialized browser, according to Wired.
+
+Related: ‘Shellshock’ Threatens 500 Million Computers
+
+Though the majority of the developers’ Kickstarter pitch hinges on the value of the device to activists in countries with human rights issues (the original prototype of the device was inspired by the Arab Spring protests four years ago, according to the Kickstarter), as well as journalists covering these issues, the device might also potentially be used maliciously. Indeed, having an instant anonymizer that can fit in your pocket could further enable identity thieves, hackers, and other online scalawags.
+
+While the creators of the project have yet to comment on these issues, the technologies used by the Anonabox are nothing new. It stands to reason that anyone with the technical prowess to hack or steal identities also probably already has TOR or an equivalent installed.
+
+For now, though, the device is a hit with the Internet as a whole, from tinfoil-hatted paranoids to nerdy tinkerers. The Kickstarter campaign, which started on Sunday, has already raced past its $7,500 goal, hitting $270,000 at the time of writing.
+
+Top Reads From The Fiscal Times:

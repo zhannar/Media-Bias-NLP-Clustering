@@ -1,0 +1,31 @@
+Dive Brief:
+
+Federal officials say cybersecurity issues have been identified in the health insurance exchange websites of California, Kentucky and Vermont, leaving hundreds of thousands of users' data vulnerable to hackers, The Associated Press reported
+
+The Government Accountability Office (GAO) r egulators suggest flaws are also likely to exist in the other state-run insurance exchanges considering the number of flaws in the three states they examined . A dozen states operated their own websites this year.
+
+considering the number of flaws in the three states they examined As a result of its findings, the GAO recommended continuous federal cybersecurity monitoring for the state exchange websites.
+
+Dive Insight:
+
+The GAO initially released a public report that left the studied states anonymous, but identified them following a Freedom of Information request from the Associated Press. The information still does not identify which issues are specific to which states.
+
+The issues included a lack of password encryption, lack of encryption on site servers, and lack of proper filtering to block hostile site visits.
+
+The states said the security holes have not resulted in any security breaches so far and that solutions are being implemented.
+
+Kentucky's exchange is slated to be dismantled later this year as the state switches back to the federal exchange.
+
+Vermont reported it has switched vendors since the review to ensure correct controls are in place.
+
+California did not disclose how it is addressing its exchange flaws to protect its security, officials said.
+
+Of course, security on HealthCare.gov has issues as well.
+
+The GAO reported the federal exchange experienced 316 security incidents between October 2013 and March 2015, including unauthorized access, data disclosure and violations of security practices. While officials say no data were lost or stolen, the GAO noted HealthCare.gov's weaknesses "continue to jeopardize the confidentiality, integrity and availability" of the site.
+
+Recommended Reading
+
+The New York Times: Security Flaws Found in 3 State Health Insurance Websites
+
+The Hill: Watchdog: Security flaws plague state ObamaCare exchanges

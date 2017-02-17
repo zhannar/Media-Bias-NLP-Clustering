@@ -1,0 +1,87 @@
+On Oct. 1, 2013, the Healthcare.gov website opened for business. This website was the centerpiece of the Affordable Care Act (“ACA” commonly known as “Obamacare”). ACA is one of the signature achievements of President Barack Obama. Certainly the core of Obamacare would have the latest in innovative technology, interactivity and customer experience, right?
+
+Healthcare.gov’s debut was a bomb.
+
+But then Healthcare.gov was resurrected. Through an extraordinary effort, the website was rapidly fixed and rebuilt by a top-notch team that was freed from most of the stultifying bureaucracy and regulations of the federal government.
+
+Today another signature achievement of the Obama Administration – the First Responder Network Authority (FirstNet) – appears headed down a path similar to the original Healthcare.gov. We can recognize the danger signs. Secretary of Commerce Penny Pritzker and other administration officials have the authority to free FirstNet from the shackles of “Fedgov,” allowing it to innovatively accomplish its mission of creating a nationwide public safety wireless broadband network for our responders.
+
+But will they act?
+
+FirstNet must be Innovative
+
+In the 1980s, Craig McCaw recognized the potential of cellular phone networks and, starting with a single small cable company in Centralia, Wash., built an $11 billion nationwide wireless network, earning the name “the wizard of wireless."
+
+Also in the 1980s, a Harvard drop-out named Bill Gates purchased a piece-of-crap operating system named 86-DOS and used it to build a powerhouse company, Microsoft, which today still dominates the desktops of the entire world.
+
+In the first decade of the 21st Century, Steve Jobs took a company on the edge of bankruptcy and transformed it into the largest company in the world through three startling innovations: the iPod, the iPhone and the iPad.
+
+Today we have a company that has an opportunity to transform the operations of every government agency – local, state and federal – while at the same time radically improving the safety and security the United States’ 330 million people. This company doesn’t need to invent anything new. All it has to do is follow in the footsteps of Craig McCaw, Bill Gates and Steve Jobs, and adapt their innovations for government.
+
+This “company” is the First Responder Network Authority – FirstNet.
+
+FirstNet was born in 2012 from the hopes and dreams of cops and firefighters and paramedics and emergency managers nationwide. But it is increasingly burdened with risk-adverse lawyers, saddled with outmoded rules and regulations, chained to the very insider Washington, D.C., bureaucracies so derided by Republicans, Democrats and everyday citizens.
+
+FirstNet was created on Feb. 22, 2012 and funded with $7 billion to build a nationwide public safety wireless network, following in the footsteps of pioneers of the wireless industry -- people like Craig McCaw and Sam Ginn. FirstNet was charged with creating a nationwide architecture and a plan to develop the network in each state. The governor of each state can then make a decision whether to allow that plan to proceed.
+
+The evidence for FirstNet’s difficulties is abundant.
+
+Three years later, FirstNet has less than 100 full-time employees, does not have a permanent executive director and – odd for a technology company – does not have a permanent chief technology officer. Most of the full-time employees are transfers or on detail from other federal government departments – competent and dedicated to be sure – but few with recent experience, on the ground, with local and state government responder agencies.
+
+Today – three years after the law created FirstNet – the agency plans to issue a draft RFP by the end of March, and perhaps a final RFP by the end of 2015. Given the extraordinary complexity of such an RFP (“build a nationwide wireless network in 55 states and territories serving all local, state and federal first responders”), responses to the RFP probably won’t come in until mid-2016. The evaluation of the responses might take another year, and the final state plans another 6 to 12 months after that. It is likely to be 2018 – six years after FirstNet was created – before the network implements anywhere. And, of course, there could be protests after the contract award is announced, lengthening these times.
+
+In the meantime, the technology industry is innovating and changing at a record place. While FirstNet writes an RFP in 2015, who knows what the wireless, smart phone, tablet computer, Internet-of-Things, connected and autonomous vehicle industries will look like in 2018? Noted wireless industry Chetan Sharma thinks 5G networks will be implementing at that time, while FirstNet implements 2015 or earlier technology.
+
+Is there a way to change the direction of this impending train derailment?
+
+We have at least the one recent federal government derailment to guide us.
+
+Healthcare.gov.
+
+Lessons from Healthcare.gov
+
+The Affordable Care Act had the noble vision of affordable healthcare insurance for all Americans. It was passed by Congress in March 2010 and implemented on Oct. 1, 2013. But the technology and website had numerous difficulties and problems. While the website's original cost was probably about $500 million, the overall cost after fixes probably reached $1.7 billion.
+
+There are many reasons for this initial failure: much-too-detailed requirements, many changes during the implementation, many subcontractors, no single prime contractor, diffuse oversight by bureaucrats in the federal Department of Health and Human Services (who, frankly, had no experience in managing such a pioneering project) and more.
+
+But healthcare.gov, despite the technological failures of its initial rollout, was rescued by a series of unorthodox – and innovative – measures by the federal government. President Obama, recognizing this abysmal situation with his signature accomplishment, called in a group of geeks from Silicon Valley, many of whom had helped build the technology that won two of his elections. To oversee the fix, he called in folks like Kurt DelBene, who had built Microsoft Office into one of the most widely used software products in the world. (And DelBene has a lot of experience with bureaucracies – having engaged with one of the worst internally at Microsoft.)
+
+This team both fought and made peace with the risk-adverse bureaucrats who oversaw Healthcare.gov. They used innovative techniques like cloud services from Amazon Web Services. They implemented agile development practices to do short sprints of software fixes and upgrades, a vastly different philosophy than the slow, painful, requirements-RFP-evaluation-development-implementation process used on most federal government projects.
+
+And they fixed Healthcare.gov in a matter of months.
+
+This one success has rippled through the federal government. Innovative, agile processes are starting to creep into the slow-moving federal bureaucracy. The Government Services Administration (GSA) now has an agile development team with its 18F unit. The White House has launched the United States Digital Service to serve as a tech “SWAT” to help struggling tech projects. Even the staid, conservative, CIA has enthusiastically adopted cloud services and rapid development techniques (although, in fairness, it has been quite innovative in past with projects like intellipedia).
+
+Today, FirstNet.gov is heading down the same path as the original Healthcare.gov.
+
+But can we fix it now, since we see the problems coming?
+
+Absolutely.
+
+The FirstNet Fix
+
+Here’s one roadmap to a fix:
+
+More freedom and independence, not more regulations and oversight . The reaction of a typical bureaucracy to any problem is to clamp down the restrictions – add more lawyers for legal review, more layers of approval, more oversight. In the high tech, rapidly moving world of wireless communications and applications, that’s exactly the wrong approach, yet it is the one the federal government has taken. The Obama Administration has proven itself to be fast-moving and innovative in many initiatives, and it needs to take the same approach with FirstNet.
+
+“ Independent authority .” Congress has already provided direction on this – it created FirstNet as an “independent authority” within the National Telecommunications and Information Administration. Congress wants FirstNet to be innovative and extraordinary, not just another Federal agency.
+
+Adopt agile . Every private technology company is using agile techniques to develop products and services. Agile techniques have been adopted by 18F, the U.S. Digital Service and a few other agencies. Christopher Webster and Max Romanik have written a ground-breaking blog post demonstrating how agile can be applied to public safety. FirstNet, too, can adopt agile to transform its approach.
+
+Full-time staff . FirstNet has difficulties hiring full-time employees, probably due to the constraints of the federal personnel hiring process of the Office of Personnel Management (OPM) and to delays in obtaining security clearances. As an “independent authority,” FirstNet should be granted relief from the OPM personnel processes allowing it to hire employees who have local and state responder experience and agile development skills, and technical staff with recent experience in the commercial telecommunications industry.
+
+Contract staffing difficulties . Much of the expertise FirstNet needs will require salary levels beyond those available in the federal personnel system. Recognizing this, NTIA has provided contracts and contract staffing for many of the technical positions. However, NTIA made a number of mistakes in these staffing contract procurements, resulting in a Department of Commerce Inspector General (OIG) investigation. As a consequence, FirstNet has lost most of the individuals with technical expertise that it used in 2013-2014. Hiring of replacement staff has been quite slow, probably due to onerous rules put in place by NTIA staff to prevent a repeat of the problems cited by OIG. Conversely, Healthcare.gov rapidly hired staff from the technology industry to rebuild its website. FirstNet should be freed to adopt the same model. As an “independent authority,” FirstNet should be allowed to rapidly hire technical contract staff through legal contract mechanisms and use its own internal controls independent from external ones imposed by NTIA.
+
+Unknown FirstNet Business Plan . The $7 billion funding available to FirstNet is not sufficient to develop and operate its network. The maximum likely user base – 5 million to 7 million users – will be insufficient, through user fees alone, to operate and enhance the network. FirstNet plans to leverage income from the secondary use of its spectrum by commercial entities, which will provide services to consumers and businesses. FirstNet leadership states there is a business plan to use these income sources to develop, expand, enhance and upgrade the network. But the details of such a plan are unknown outside FirstNet’s Board and immediate staff. FirstNet could engage and trust states to more completely develop this business plan to drive the RFP process and market the network to public safety entities.
+
+Remove the useless oversight . FirstNet must render an annual report to Congress. Its most recent report – due out Feb. 23 – still has not been published. Why? Because it has to be reviewed by at least 10 different federal agencies! Why are employees of the FCC and the Department of Justice and even the Department of Commerce reviewing that report? What value is being added to the speed or quality of the project? FirstNet is an “independent authority." Its customers are cops and firefighters and paramedics and other responders. A bunch of federal bureaucracies should not stand between it and reporting to Congress or between it and first responders.
+
+Federal Acquisition Regulation (FAR) . The FAR is a detailed, lengthy and often onerous regulation designed to guarantee fair procurements by the Federal government. However the FAR also inadvertently discriminates toward single procurements from large nationwide companies with substantial legal and contracting staff resources. Consequently smaller, innovative, local or regional companies often will not be successful in FAR-managed procurements. Furthermore, the FAR effectively prevents innovative partnerships between FirstNet, private companies and states, local and tribal entities to build the NPSBN at a local or regional scale. FirstNet, as an “independent authority,” could be granted relief from certain aspects of the FAR to allow more innovative partnerships and local procurements.
+
+Partnerships with early builders, tribal nations and states . In any technology-based project, the idea of prototypes, beta and initial implementations are critical. Multiple projects (pilots, if you will), combined with active integration and expansion, will reap significantly more benefit than waiting for a single massive implementation project for the entire nation. FirstNet could seek partnerships with the existing early builder projects (Adams County, Colo.,; Los Angeles; New Jersey; New Mexico; and Harris County, Texas) and their states to expand and enhance those projects to serve larger geographic areas and user communities. Other states, multi-state regions and tribal nations may seek to partner with FirstNet and private companies to build the network within their borders. Such partnerships could serve other public purposes, e.g. providing high-speed broadband to consumers and businesses (as secondary users) in underserved, rural and tribal areas.
+
+Is the Federal Government Bold Enough to allow FirstNet to Succeed?
+
+FirstNet is a noble effort. Its network, the cutting-edge devices it will put in the hands of responders and the rapidly evolving public safety apps that will be born in this ecosystem will transform the very nature of response, investigation and recovery during public safety incidents, outages and disasters, just as smart phones and tablet computers have transformed the lives of hundreds of millions of consumers and business in the United States and around the world.
+
+But is the federal government courageous enough to unleash FirstNet? Gutsy enough to trust FirstNet’s Board and its management and its web of supporters in local and state government and private industry? Trusting enough of Congress’ intent to make FirstNet a truly “independent authority” and then watch it succeed?

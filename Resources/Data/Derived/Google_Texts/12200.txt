@@ -1,0 +1,35 @@
+Photo
+
+If I had a pill that would extend your life by one day, but it cost a billion dollars, it’s unlikely that many people would argue that health insurance should pay for it. We all understand that while the benefit might be real and quantifiable, it’s not worth the expense. But what if the pill cost a million dollars? And what if it extended your life by 10 years?
+
+Such discussions are about cost effectiveness. For the most part, we’re avoiding them when we talk about health care in the United States.
+
+Some think that discussing cost effectiveness puts us on the slippery slope to rationing, or even “death panels.” After all, if we decide that the billion-dollar-for-a-day-of-life pill isn’t worth it, then what’s to stop us from deciding that spending a couple hundred thousand dollars to extend grandma’s life for a year isn’t worth it either?
+
+In fact, we in the United States are so averse to the idea of cost effectiveness that when the Patient Centered Outcomes Research Institute, the body specifically set up to do comparative effectiveness research, was founded, the law explicitly prohibited it from funding any cost-effectiveness research at all. As it says on its website, “We don’t consider cost effectiveness to be an outcome of direct importance to patients.”
+
+As a physician, a health services researcher and a patient, I have to disagree. I think understanding how much bang for the buck I, my patients and the public are getting from our health care spending is of great importance.
+
+Advertisement Continue reading the main story
+
+Research in this area can be difficult to perform. One of the reasons is that it’s not always easy to measure health outcomes. Some things, like death, can be relatively easy to define, but how do you quantify having diabetes, asthma or a seizure disorder?
+
+A robust methodology exists for doing so, based upon the expected utility theory of John von Neumann and Oskar Morgenstern. Asking people to consider what risks they will take to avoid certain health states, a technique known as the “standard gamble,” can yield what we call a utility value. Another method, which asks people to think about the trade-off between a shorter life in perfect health and a longer life in an unhealthy state (this is a “time-trade-off”) can also be used to determine a utility value.
+
+When you take a utility value and multiply it by a number of years, you can calculate “quality-adjusted life years,” or QALYs. So if interventions improve quality or add years of life (or both), the number of QALYs goes up. Taking the cost of a therapy and dividing it by the number of QALYs gained results in a measurement of cost effectiveness.
+
+Utility values already exist for many health states. In 2009, my colleague Steve Downs and I published a study in which we calculated the utilities for 29 different disease states in children. For instance, mild intermittent asthma in children has a utility value of 0.91. Severe seizure disorder, on the other hand, has a utility value of 0.70. This means that if we could return a child with one of these disorders back to perfect health (utility value of 1.0) for 60 years, then we’d gain 5.4 QALYs for mild intermittent asthma and 18 QALYs for severe seizure disorder. If doing so cost one million dollars over a lifetime, the cost effectiveness would be about $185,000 per QALY for mild intermittent asthma and about $55,500 per QALY for severe seizure disorder. Thus, spending $1 million to cure the severe seizure disorder is more cost effective.
+
+Other countries routinely use cost-effectiveness data to make decisions about health coverage. In Britain, the National Institute for Health and Care Excellence, a government agency that gives guidance about which services the National Health Service should cover, has a threshold of 20,000 to 30,000 pounds per QALY (about $31,000 to $47,000). They don’t make decisions on whether to cover therapies based on this number alone, but it is certainly considered a factor.
+
+We’ve tried, in a limited way, to use such data in the United States. In the 1990s, Oregon’s Medicaid program began using a system in which 688 procedures were ranked according to their cost effectiveness, and only the first 568 were covered. Doing so freed up enough money to cover many more people who were previously uninsured.
+
+But the plan hit a snag in 2008 when a woman with recurrent lung cancer was denied a drug that cost $4,000 a month because the proven benefits were not enough to warrant the costs. The national backlash to this illuminated our collective difficulty in discussing the fact that some treatments might not be worth the money. The Oregon health plan made things worse in this case, however, by offering to cover drugs for the woman’s physician-assisted suicide, if she wanted it. Even supporters of the plan found the optics of this decision difficult to accept. These actions seemed far closer to justifying the claims of those who feared death panels than anything the Affordable Care Act might have created.
+
+But refusing to consider cost effectiveness at all has implications as well. Take the United States Preventive Services Task Force, which was set up by the federal government to rate the effectiveness of preventive health services on a scale of A to D. When it issues a rating, it almost always explicitly states that it does not consider the costs of providing a service in its assessment.
+
+And because the Affordable Care Act mandates that all insurance must cover, without any cost sharing, all services that the task force has rated A or B, that means that we are all paying for these therapies, even if they are incredibly inefficient.
+
+Advertisement Continue reading the main story
+
+In a recent manuscript at Health Affairs, some health economists made an explicit argument that the task force should begin to consider cost-effectiveness data. If we are going to mandate that recommendations and interventions must be covered by health insurance, and if our willingness to pay the cost of this insurance is not unlimited, it seems logical that we at least consider their economic value. The cost effectiveness of a therapy need not be the only thing we use to approve coverage, but ignoring it is akin to putting our heads in the sand.

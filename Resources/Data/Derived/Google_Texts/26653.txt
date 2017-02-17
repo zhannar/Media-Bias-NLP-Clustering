@@ -1,0 +1,33 @@
+The White House says that its battered and bruised Obamacare website is now on the mend. After managing to stay up just 43 percent of the time in early November, the administration says, Healthcare.gov now boasts 95 percent up-time. “We have a much more stable system that’s reliably open for business,” is the word from Jeffrey Zients, the man appointed to patch up the site, which is meant to let Americans compare and purchase healthcare plans.
+
+Certainly, this sounds like progress. But if you look at Healthcare.gov for what it is — a simple e-commerce site — the White House is still years behind the times. Welcome back to Web 1.0.
+
+According to The Washington Post, the Obama administration said Healthcare.gov processed 18,000 insurance enrollments during the most recent 24-hour period, “nearly double the previous record.” Great. But consider that on Cyber Monday last year, Amazon filled 306 orders per second. That’s 26.5 million orders in the most recent 24-hour period. This year, it’s hard to imagine that number won’t be higher.
+
+Sure, Amazon has been at this for 18 years, and the White House only launched its site in October. But the point is that the technology exists to handle e-commerce traffic on an epic scale, and the White House hasn’t figured out how to use it. It so happens that Amazon is now offering the world a set of online infrastructure services, the AWS cloud, specifically designed to handle the massive amounts of traffic the White House hoped to juggle from the get-go (Netflix and Dropbox are both clients). But it took a different route, and in the simple terms of e-commerce, it’s still stuck in 1996.
+
+In a story published yesterday, CNBC quotes an anonymous insurance industry source as saying that little more than 125,000 people managed to enroll for health insurance through Healthcare.gov through the end of November. By comparison, when Amazon filed for its IPO in 1997, it said that through the end of the previous year it had topped 180,000 customer accounts. In other words, Obama is still trying to reach a plateau that Amazon reached 17 years ago.
+
+After its “tech surge” meant to shore up the site from utter failure, the administration says that its new, improved target is to handle 800,000 unique visitors a day on Healthcare.gov. Yes, that beats the Amazon in its toddler days. In December 1996, the company claimed about 50,000 daily visits. But this past October, Amazon handled an average of more than 3.5 million unique visitors per day, according to ComScore, and that was on desktop PCs alone. In this respect, Obamacare still lagging somewhere in the early aughts.
+
+Then consider that healthcare.gov can only accept about 50,000 visitors at any one time. The site’s carrying capacity reportedly maxed out closer to 35,000 on Monday, and if you tried to visit after this maximum was reached, you ran into the administration’s “queuing” tool — surely the most egregious anachronism on the site.
+
+To handle overload on Healthcare.gov, the administration has implemented a “feature” that asks locked-out visitors to provide their email addresses so that the system can notify them when the site has room. Imagine any other online retail site in A/B testing such an option in 2013.
+
+These days, e-commerce sites don’t succeed on cost or selection as much as “customer experience.” By that measure, it’s hard to imagine something that sucks more than “queuing.” Would anyone really go back to Amazon to buy something later if they were blocked out the first time? The feds might as well put up an “under construction” GIF and be done with it.
+
+It’s on this last point that the fate of Obamacare truly depends. After more than a decade-and-a-half of Amazon, not to mention the rest of the internet, an expectation threshold has been set. If a certain standard of performance isn’t met, people will go elsewhere. Since would-be buyers of health insurance in 36 states have no other options, many of them will simply not bother, regardless of the individual mandate.
+
+This goes especially for the “healthy young people” demographic without whom the economics of Obamacare fall apart. Are 23-year-olds who don’t really think they need health insurance anyway really going to “queue” until Healthcare.gov deigns to let them in?
+
+What really grates about the Healthcare.gov debacle isn’t just the incompetence but the disdain for users that incompetence reflects. Usability is perhaps the core value of good web design. And more than 15 years after the popularization of the web, it’s not like we don’t know what good user experience looks like. It’s an entire job category. While complaints about Healthcare.gov have centered more on backend enterprise issues than front-end design issues, the distinction doesn’t matter to users. It works or it doesn’t. And if it doesn’t, users shouldn’t be subjected to what has amounted to a huge waste of their time.
+
+While opponents of the Affordable Care Act revel in the disarray of Healthcare.gov, it’s the law’s supporters who should be livid — not least the Democrats in Congress who expended so much political capital on behalf of legislation that in practice so far doesn’t work. Not that a privatized version of the site is preferable. Google and Amazon may have deep knowledge of many of us, but they don’t actually run massive public programs, at least not yet. Still, in terms of sheer technical competence, it’s hard to imagine that versions of Healthcare.gov built by Google, Amazon, or Facebook wouldn’t work. In 2013, the capacity exists for a functioning online marketplace for health insurance.
+
+“I have mixed reactions to the fact that the government with its vast resources cannot build a site to concurrently support only 50,000 users,” writes Aditya Agarwal, vice president of engineering at Dropbox and before that an early Facebook employee who helped build the infrastructure that supports the social network’s massive user base.
+
+“On the one hand, it’s a sad commentary on our ability to manage and launch complex software projects. It’s crazy that software engineering hasn’t evolved beyond this point,” he writes.
+
+“On the other hand, it demonstrates how difficult it is to build something that can support massive scale both quickly and cheaply and that companies that manage to figure out how to support >1M concurrent users should be massively rewarded.”
+
+And those companies most certainly are. In the meantime, unless the government — now assisted by volunteers from Google, Oracle, and other tech firms — can pull Healthcare.gov out of the 20th century, Americans in need of health insurance will just have to wait in line. But they won’t wait for long.

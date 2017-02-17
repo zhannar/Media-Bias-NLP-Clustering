@@ -1,0 +1,89 @@
+Despite the gleaming white building that houses it, the Supreme Court is one of the most powerful black boxes in the country. When it convenes for oral arguments, there are no photos, no videos, no broadcasts.
+
+That’s not to say we’re clueless about the court’s goings on, of course. Journalists and bloggers attend the arguments and report back to their readers. And if we don’t have photos, at least we have sketches. Some have even turned to clandestine camerawork. Now a new project uses data to get inside the chamber — and maybe inside the justices’ heads.
+
+More Politics
+
+Supreme Court oral arguments are exercises in multitasking: The justices are talking to advocates as they’re talking to each other. Chief Justice John Roberts has described the lawyers as “backboards” — justices’ questions rebound off the lawyers and back to the other justices. Through their questions, they can signal to the others what they’re thinking. They can also try to persuade. Their target is often Justice Anthony Kennedy, the most common swing vote on the bench.
+
+But this legal process is also a data-generating process. How many words did Justice Elena Kagan utter? How about Justice Antonin Scalia? To whom were they spoken? What was the sentiment of those words? How many times was the solicitor general interrupted?
+
+Chris Nasrallah knows the answers to these questions. He’s used them to create CourtCast, a computer model that predicts Supreme Court decisions based on oral arguments alone.
+
+CourtCast, a machine-learning model, relies only on PDF files of oral argument transcripts. There are three inputs: the number of words spoken by justices to each party, the sentiment of those words, and the number of times a justice interrupts an attorney. That’s really it — CourtCast doesn’t care about body language, it doesn’t care about justices’ ideologies, and it doesn’t care about who’s arguing the case in front of the court. It doesn’t know the law or the precedent or the political climate. The model trains itself on past cases, learning which justice tendencies are pertinent. It can then analyze the transcript from any fresh case and predict an outcome.
+
+“I’m surprised that nobody’s done this before,” Nasrallah told me over a cappuccino in downtown Manhattan in early March. Armed with a Ph.D. focused on computational biology from University of California, Berkeley and postdoc experience at North Carolina State, Nasrallah is pursuing a career in data science. He built CourtCast to get a job. He wanted to buck the negative stereotypes of academics — that they work slowly and are oblivious to commercial applications. He’s always been an interested court observer, so researching the subject came naturally. It took him just a few weeks to build CourtCast.
+
+It isn’t perfect — far from it. Nasrallah claims a 70 percent accuracy rate, which is both impressive and not. Since John Roberts has been chief justice, the petitioner has won 68 percent of cases, so CourtCast’s 70 percent isn’t exactly better than just picking the favorites. But again, CourtCast is flying nearly blind. It has no idea what a given case is even about; it’s using just the words uttered in one hour of argument.
+
+I’ve written before about other Supreme Court predictors — law professors, legal practitioners, hobbyists in Queens. Universally, human predictors emphasize the importance of the argument in their predictions. CourtCast, the first attempt I’m aware of to quantify oral argument with a machine model, is different. The patterns it uncovers are simple: When a justice asks questions of a lawyer, it’s bad for his chances — it means the justice is skeptical and is trying to poke holes. If justices interrupt a lawyer, it’s really bad for his chances — they’re so skeptical they just can’t wait to poke holes. A Ginsburg interruption is worst of all.
+
+Nina Totenberg, NPR’s legal affairs correspondent, said she’d noticed that too. “More often than not — or at least there’s a 50-50 chance — counsel gets interrupted because that justice thinks what counsel just said is unacceptable crap.”
+
+Below is a sample output from CourtCast for the landmark King v. Burwell Obamacare case. (CourtCast’s code is available on Nasrallah’s Github page, and more detail can be found on his blog.) The bigger the bar, the worse for the side that the bar is on.
+
+The liberals — Ginsburg and Justice Stephen Breyer — asked more of the petitioner and interrupted him a lot more. Bad news for him. The others did the same of the respondent. In the King v. Burwell case, CourtCast gives a 61 percent chance that the government wins and Obamacare subsidies are upheld.
+
+SIDEBAR: CourtCast vs. NPR’s Nina Totenberg: How does a machine interpret a court case differently than a trained pro?
+
+None of CourtCast’s findings came as a surprise to Adam Liptak, the Supreme Court correspondent for The New York Times. And he’d never heard of Nasrallah or CourtCast.
+
+“Two things are well known and will get you to 70 percent with your eyes closed,” he told me. “One is the petitioner wins about two-thirds of the time.” The other: “If you get a lot of questions, you’re going to lose.”
+
+Liptak may not be blown away by CourtCast’s 70 percent success rate, but that’s OK with Nasrallah for now. At least he’s confirmed the conventional wisdom. “Here we’ve quantified the intuition and the way the justices are acting,” Nasrallah said. And given that he built CourtCast in just a few weeks, he’s confident it can be improved.
+
+Linda Greenhouse, formerly of The New York Times and now a lecturer at Yale, has written explicitly about her predictive prowess. In a 2004 paper, she described how the Supreme Court press corps routinely engaged in predictions, “usually made during the walk down the stairs from the courtroom following an oral argument session,” often with a friendly wager thrown in. She pegged her accuracy, for those cases she was bold enough to write about in the paper, at around 75 percent.
+
+“Whatever Linda’s success rate was, mine is a little better,” Liptak joked.
+
+Liptak and Dahlia Lithwick, Slate’s Supreme Court writer, both emphasized the importance of attending oral arguments rather than just parsing transcripts. Crossed arms, rolled eyes and tone of voice can be telling. And the computer is ignorant of all of that.
+
+Despite its ignorance of body language, CourtCast works in part because of a sea change in the very nature of oral arguments. It thrives on the give-and-take of a “hot” bench. Interruptions are important to its predictions, and oral arguments weren’t always interrupted so frequently. Greenhouse noticed this trend covering the court in the 1980s. Former Chief Justice William Rehnquist never had to play argument traffic cop like Roberts does. And Lithwick has noticed it accelerate in the last few years.
+
+JUSTICE WORDS INTERRUPTIONS Sotomayor 522 2.6 Scalia 594 2.4 Breyer 821 2.1 Ginsburg 457 1.5 Roberts 577 1.5 Kennedy 322 1.1 Kagan 501 0.8 Alito 322 0.6 Thomas 0 0
+
+Some credit — or blame — for the most recent changes can be given to the Sotomayor Effect. “Sotomayor is notorious for being a super-talker,” Lithwick said. “She interrupts everyone.” Lithwick’s right about the interruptions, but Justice Breyer runs away with the talkativeness crown. (Data is since 2005, and the table shows the average words uttered and interruptions per oral argument, by justice.)
+
+But CourtCast’s reliance on justice word count and interruptions could render it less effective in the future. Totenberg cautions that though the bench is now fairly hot, it may cool down. Gentler personalities may fill its ranks, and it’s possible — possible — that the court may become less polarized. It’s tough to imagine how the algorithm could gain a foothold then.
+
+The Supreme Court journalists were bullish on CourtCast’s usefulness. “If I were a Supreme Court advocate, I’m sure I would certainly study this material to get clues as to how to present myself and how to push the right buttons,” said Greenhouse.
+
+“I can’t imagine it’s not incredibly useful to the attorneys and the parties,” said Lithwick.
+
+But when I talked to a couple attorneys, they said they can already do better than CourtCast. Carter Phillips, a former assistant to the solicitor general and now a partner at Sidley Austin, has argued more cases before the Supreme Court — 80 — than any lawyer now in private practice. And for Phillips, simple predictions are a snap. He pegs his accuracy for the cases he argues at 90 percent. (Phillips doesn’t keep explicit stats, so this was his post facto estimate.) But even better than him, he says, is his wife, Sue Henry, who has been to 78 of his 80 arguments. Phillips thinks she’s gotten 77 right.
+
+“It’s incredible to me,” he said. “She’ll come out and say, ‘You were great, but you’re going to lose.’”
+
+He’s skeptical of a computer being able to help in oral argument preparation. “I doubt it, because of the format. Realistically, you get about 30 seconds to say something to the justices before they start asking questions,” he said.
+
+But Phillips can imagine a world where computers could make a difference, if they went beyond simple affirm-or-reverse predictions.
+
+“If you can come up with a computer that can tell me how the justices are actually going articulate the principle that applies, ahead of time, that I would pay dearly for,” he said, referring to the nuanced interpretation of the law that the justices often hand down in their final rulings. “That’s, candidly, a huge advance.”
+
+Nasrallah rattled off a number of improvements he hopes to make to his model: It doesn’t yet analyze what the advocates say. Its sentiment analysis could be improved (it’s currently trained on a database of movie reviews, which might not be the best analog for the type of language usually used in legal arguments). It could look at specific types of words. Maybe a justice saying a lawyer’s name, for example, is meaningful. Perhaps humor — statements followed by “(laughter)” in the transcripts — holds information. The model could read in past decisions, briefs, statutes, and on and on.
+
+There are other models that CourtCast could team up with, creating a kind of super-algorithm. {Marshall}+, another prominent Supreme Court case predicting model, doesn’t use any information from the oral arguments, and CourtCast, at least so far, doesn’t use any of the legal coding that {Marshall}+ relies on. Because they’re predicting based on mutually exclusive sets of information, they could combine and, theoretically, form a Frankenstein’s monster of high court prediction.
+
+But not every human welcomes our court-predicting robot overlords.
+
+“The idea that you spend a lot of time trying to figure out ahead of time what you’re going to know anyway in a matter of weeks or months is, to me, insane. Why would you bother?” Totenberg wondered.
+
+Because we want to know now, Ms. Totenberg, that’s why! I write for FiveThirtyEight — we updated our March Madness predictions approximately 17 times while I wrote this sentence. (Editor’s note: Sorry it took me so long to get to your draft, Ollie.) Data promises us our crystal ball, doesn’t it?
+
+But Totenberg made the case that the court’s decisions can only be understood through the long lens of history. Prediction is a waste of time, she told me. Supreme Court decision-making is complex, and justices’ rubrics can change dramatically over time. Justice Kennedy famously did an about-face in the middle of two major cases, reversing his long-held ideological views and voting to preserve the right to abortion and to ban clergy-led prayer at public schools. And we know only about these last-minute vote changes thanks to the release of Justice Harry Blackmun’s papers in 2004, five years after Blackmun died. What algorithm could’ve predicted that?
+
+“Sometimes you only understand these things as history — and you’re lucky if you understand it as recent history,” Totenberg said.
+
+Put aside whether CourtCast and its ilk are any good (or will become any good) at predicting cases; they’re still a blow against an opaque court.
+
+“The court is so bound up in its own mystique and gravitas and the need to insulate itself from scrutiny of any sort,” said Lithwick. “It’s always fascinating to me when — whatever frame people use — [people] say, ‘Oh no, it’s actually not oracular. There’s something else happening.’”
+
+And this is what CourtCast has begun to do. If Ginsburg ignores a lawyer, that means something. If Kennedy peppers a lawyer with questions, that means something else. And now we can quantify these things and how they augur for a case’s outcome.
+
+“These are the kinds of things that make the justices mental — any intimation that they’re not magic. For me, it’s just delicious,” Lithwick said.
+
+Regardless, most see the court’s frostiness as unlikely to thaw.
+
+“Unless Congress literally threatens to shut [off] the lights and the heat, I don’t think this changes soon. And it’s very, very, in my view, appalling in a democracy,” Lithwick said.
+
+In the meantime, hobbyists and professionals will continue to probe the court, whether through horse sense or hard analytics. The better the analytics get, the more they’ll be relied upon, and the thinner the shroud will become.

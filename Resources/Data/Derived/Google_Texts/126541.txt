@@ -1,0 +1,29 @@
+By Adam Zewe
+
+Harvard Gazette
+
+What if a physician could effectively diagnose cancer from one drop of a patient’s blood?
+
+Harvard student Neil Davey, A.B. ’18, has developed a technique that pushes the possibility of non-invasive cancer diagnosis one step closer to reality. Davey recently won a silver medal in the undergraduate section of the National Inventors Hall of Fame’s Collegiate Inventors Competition for his research project, “Early Cancer Diagnosis by the Detection of Circulating Tumor Cells using Drop-based Microfluidics.”
+
+His technique involves injecting a tiny amount of blood into a microfluidic device to encapsulate single cells from the blood stream in individual microfluidic drops. Once the cells have been encapsulated, Davey uses a polymerase chain reaction (PCR), a common technique in molecular biology, to target and amplify fragments of cancer DNA within the drops.
+
+By linking DNA amplification to a fluorescent output, he can shine a laser onto the drops to detect and quantify brightness, which would indicate the presence of cancer DNA in a circulating tumor cell. Davey developed this technique in the lab of mentor David Weitz, Mallinckrodt Professor of Physics and Applied Physics at the John A. Paulson School of Engineering and Applied Sciences.
+
+“The advantage of this technology is that it is ultra-sensitive, so I can detect as few as one cancer cell from a billion normal cells in the blood,” he said. “The process is also very specific. One can uniquely detect a wide range of cancers using this DNA amplification technology.”
+
+Neil Davey in the lab
+
+Davey worked in the lab of mentor of David Weitz, Mallinckrodt Professor of Physics and Applied Physics at the John A. Paulson School of Engineering and Applied Sciences, to develop the technique.
+
+The technique could hold huge implications in the world of cancer diagnostics, which currently relies primarily on invasive and dangerous tumor biopsies. Microfluidics is much easier and cheaper than traditional methods, since the test uses only tiny amounts of reagents and takes 30 to 60 minutes to complete. The technology is currently about 90 percent accurate, but that accuracy can be improved if the test is refined to target more genes of the cancer cell, Davey said.
+
+“Because this technology is in an engineering platform, it is pretty universal. We tested the platform itself on prostate cancer and colorectal cancer, but it can be used on any disease, as well,” he said.
+
+Davey, who developed an interest in biology while working as a high school intern at the Food and Drug Administration, is looking forward to studying additional applications of microfluidics. The technology can be used to isolate specific cancer genomes by sorting bright drops out of the mix, enabling scientists to learn more about the nature of the disease. It can also be used to identify specific mutations of the cancer genome, which could help doctors determine which medications would be most effective for a patient.
+
+For Davey, who recently declared an economics concentration with a secondary field in statistics, the opportunity to use his knowledge to potentially improve the lives of cancer patients has been extremely rewarding.
+
+“The coolest thing about this project is that it is so interdisciplinary, involving biology, medicine, and engineering,” he said. “Looking downstream, we could someday use this technique to provide much more personalized cancer treatment.”
+
+(This article is reproduced here with permission from Harvard Gazette.)

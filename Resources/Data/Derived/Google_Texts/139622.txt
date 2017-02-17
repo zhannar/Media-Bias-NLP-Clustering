@@ -1,0 +1,113 @@
+The Obama administration says the site can now handle 50,000 unique visitors at a time, but it doesn’t appear able to keep up with the load.
+
+Connect with Facebook to share articles you read on ProPublica. Learn more »
+
+The load-time issues (sometimes more than a minute) reminded me of the problems users encountered in the very first days of the Web site, which handles health insurance enrollment for residents of 36 states. It also appears to contradict what Health and Human Services officials said had been fixed.
+
+After a glowing news conference yesterday citing “night and day” progress on HealthCare.gov, I decided to log in this morning and take the Web site for a test drive, as I’m sure many others are doing. Early reports had been promising . What I found was hardly encouraging — long delays loading pages, an endless circle of tasks (some already completed) and ultimately an error message.
+
+“Response times are under 1 second. Error rates are down well under 1%. And the system is stable, with uptimes exceeding 90%,” HHS bragged in a blog post yesterday.
+
+Additionally, once I had completed and submitted my application and verified my identity, the site told me that I was missing information and had to review it again. Nothing was missing. Ultimately, I got an error message telling me to come back later.
+
+The Obama administration says the site can now handle 50,000 unique visitors at one time and 800,000 over the course of a day. But on Day One of the new-and-improved site, it doesn’t appear able to keep up with the load. No wonder HHS is encouraging users to come back at off-peak hours.
+
+Some screen shots of my experience are below.
+
+Immediately I encountered delays:
+
+The delays continued:
+
+After completing my application and submitting it successfully, I was told information was missing and was asked to go back through it — with delays:
+
+I finally hit a wall I could not jump over — the error message:
+
+I began a live chat on the Web site. Here’s what I was told:
+
+[11:32:03 am]:Thanks for contacting Health Insurance Marketplace Live Chat. Please wait while we connect you to someone who can help.
+
+[11:32:06 am]:Please be patient while we're helping other people.
+
+[11:32:11 am]:Welcome! You're now connected to Health Insurance Marketplace Live Chat. Thanks for contacting us. My name is Kassie. To protect your privacy, please don't provide any personal information, like Social Security Number, or any other sensitive medical or personal information.
+
+[11:32:15 am]:Charlie
+
+Hi there. I have been trying to fill out my application and keep hitting a wall.
+
+[11:32:32 am]:Kassie
+
+Good morning Charlie
+
+[11:32:40 am]:Kassie
+
+I apologize for the inconvenience.
+
+[11:32:45 am]:Charlie
+
+I keep getting long delays on each page and finally successfully submitted my application, but then was told I was missing things.
+
+[11:33:02 am]:Kassie
+
+Where are you getting stuck at?
+
+[11:33:07 am]:Charlie
+
+When I went back through it, nothing was missing, but I got this error: Sorry, theres a problem with our system Please log out, then try again after 30 minutes. If you continue to get this message, call the Marketplace Call Center 1-800-318-2596. TTY users should call 1-855-889-4325. You'll need the Application ID shown below. Application Id: 160747816
+
+[11:33:39 am]:Kassie
+
+Again, I apologize for the inconvenience.
+
+[11:34:07 am]:Charlie
+
+Is there an overload today or is [it] on my end?
+
+[11:34:25 am]:Kassie
+
+Have you tried logging out and waiting the 30 minutes and then retrying?
+
+[11:34:33 am]:Charlie
+
+Not yet.
+
+[11:34:55 am]:Kassie
+
+We apologize for any technical difficulties you may be experiencing as you use HealthCare.gov. We know this can be frustrating, and we're working around the clock to improve HealthCare.gov and to make sure your experience with it is a positive one.
+
+[11:35:27 am]:Charlie
+
+I was just wondering if this is on my end. I read that the problems had been fixed and that the load times were much faster, but that hasn't been my experience today.
+
+[11:35:30 am]:Kassie
+
+Write down your application ID number so you have it.
+
+[11:36:07 am]:Kassie
+
+Nothing you did wrong, Charlie. You're fine.
+
+[11:36:24 am]:Charlie
+
+OK. Will try again later.
+
+[11:36:30 am]:Kassie
+
+Do you have any other questions that I can help you with?
+
+[11:36:38 am]:Kassie
+
+Thank you for contacting Health Insurance Marketplace Live Chat. We are here to help you 24 hours a day, 7 days a week.
+
+[11:40:37 am]:Kassie
+
+I apologize for the inconvenience.
+
+[11:41:08 am]:Your chat session is over. Thanks for contacting us, and we hope we've answered your questions. Have a great day.
+
+I went back 30 minutes later and I couldn’t even log on:
+
+Perhaps aware that the site could crash again, HHS Secretary Kathleen Sebelius is encouraging users not to log on during peak hours.
+
+Editor’s Note: This post is adapted from Ornstein’s “Healthy buzz” blog. Have you tried signing up for health care coverage through the new exchanges? Help us cover the Affordable Care Act by sharing your insurance story.
+
+Like this story? Sign up for our daily newsletter to get more of our best work.

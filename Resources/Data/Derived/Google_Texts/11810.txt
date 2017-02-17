@@ -1,0 +1,47 @@
+A decision to require that consumers create online accounts before they can browse available health plans under President Barack Obama’s overhaul appears to have led to many of the program’s technical problems, independent experts say.
+
+Most e-commerce websites — as well as medicare.gov — are not designed to require those merely browsing to set up accounts. But it’s one of the first steps on healthcare.gov.
+
+Consumers trying to create their accounts multiplied the volume of online transactions that overwhelmed the website last week, causing long waits and frustration. Many people were stopped by a balky security questions page.
+
+The administration threw in additional computing hardware to handle the volume, and deployed software experts to patch the mechanism for creating accounts, but reports of delays persisted Tuesday.
+
+For Obama, glitches involving his signature legislation are an unwelcome twist. A devoted smartphone user, his political campaigns were models of high-tech efficiency. Yet the problems that have surfaced so far with healthcare.gov don’t even involve the site’s more complicated functions.
+
+Allowing consumers to browse anonymously was one of the recommendations of Enroll UX 2014, a $3 million, 14-month project to design an optimal user experience for the insurance marketplaces. The well-known San Francisco design firm IDEO led the project and undertook extensive consumer interviews to create an easy-to-use site.
+
+“The first thing people said to us is, ‘I need to be able to understand what my options are,”’ said Sam Karp, vice president of programs at the California HealthCare Foundation. The nonprofit helped organize and finance Enroll UX 2014, which also involved the federal government and 11 states.
+
+Karp said he was concerned when he tried the federal website last week and found that anonymous shopping wasn’t part of it. He considers the omission a “major design flaw.”
+
+“That was a design recommendation and they didn’t do it,” Karp said. While several states that built their own online marketplaces do allow for window shopping, the federal site serving 36 states does not.
+
+Technology-wise, requiring accounts greatly magnified the amount of work the federal website would have to do, increasing chances of bottlenecks and other problems.
+
+“There is an awful lot of stuff going back and forth in this system,” said Bill Curtis, chief scientist at CAST, a software quality analysis firm, and director of the Consortium for IT Software Quality, which develops standards. “There is a lot of inefficient (software) code in there, and then when you throw a huge load on it, it really exacerbates the problems.”
+
+Added Karp, “If they had had anonymous shopping, many people would have taken that route and it would have potentially relieved the traffic on the identity verification part of the site.”
+
+The health care law was designed to provide insurance for people who don’t have access to coverage on the job. Middle-class uninsured people can buy a government-subsidized private plan, while the poor and near-poor will be steered to Medicaid in states that agreed to expand the safety-net program. The online insurance markets were envisioned as the 21st century portal to an overhauled system.
+
+Health and Human Services spokeswoman Joanne Peters said Tuesday the government omitted a window-shopping function because officials first wanted consumers to know the amount of the subsidy they might be eligible for. Those income-based tax credits can dramatically reduce premiums for people with modest incomes, and personal financial information is needed to calculate the subsidies.
+
+“Our process allows us to show consumers plans with prices that reflect what they will pay with the tax credit they may be eligible for,” Peters said. “Window shopping would not allow for this.”
+
+The result seemed strange to Maureen Bardusk of Galena, Ill., who’s hesitant about giving her personal information before she can shop.
+
+“I’m reluctant to give information so it can be tracked when I’m simply looking for information,” said Bardusk, who’s looking to replace expensive temporary coverage she’s had since her husband was laid off in June.
+
+“I don’t want to be part of a marketing scheme,” she added. “I assume they set it up that way so they could see who’s coming in, how many times they come in and what they buy after they get there...but that isn’t really customer-oriented.”
+
+Colorado, one of the states that designed its own market, made a deliberate decision to allow window-shopping, the opposite of what the feds decided.
+
+Officials didn’t want to “spook” consumers, said Gary Schneider, IT program manager for Connect for Health Colorado, the state’s marketplace. “We were trying to be less intrusive and create a more consumer-friendly experience.” Consumers are allowed to set up their accounts after they’ve narrowed their options.
+
+Window-shopping is the norm at most e-commerce sites. Consumers can shop online for books at Amazon, flights at Travelocity, hotel stays at Hotwire and staples at Staples — all without creating an account or registering. The sites ask for personal information only when customers say they are ready to check out.
+
+The Obama administration says government technical experts are on their way to solving the accounts creation problem. Independent experts say other glitches may be lurking as the more complicated functions of the website come into play, including real-time verification of identity, legal residence, family composition and income.
+
+“My suspicion is once they get these problems resolved, then we are going to the next layer, and that will expose new problems,” said Curtis, the software quality expert.
+
+“Since this system was developed in a rush they did not have time to thoroughly test it,” he added. “The American people are now doing that for them."

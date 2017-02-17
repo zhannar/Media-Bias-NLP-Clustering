@@ -1,0 +1,33 @@
+Breaking Borders: Is HIPAA History in a Post-EHR World?
+
+Personal health information (PHI) in the form of electronic health records (EHRs) is a valuable target for cybercriminals. According to Managed Healthcare Executive, health agencies saw a 125 percent increase in data breaches in the last five years, while CSO Online notes that more than 392 million PHI records have been disclosed from nonhealth organizations keeping critical data on file — for example, finance, insurance and educational institutions.
+
+To address these challenges the federal government has been shoring up support for the Health Insurance Portability and Accountability Act (HIPAA), but increasing compliance has done little to curb the rash of network attacks. Is HIPAA history in a post-EHR world?
+
+Big Numbers, Big Risk?
+
+According to the Centers for Disease Control (CDC), roughly 1.2 billion visits are made to physicians’ offices, emergency rooms and outpatient facilities each year. In the vast majority of these cases, doctors access EHRs to modify, transmit or record PHI and streamline the treatment and diagnostic process.
+
+As HIT Consultant points out, however, the implementation cycle of health care IT is extremely long; while HIPAA passed in 1996, it wasn’t until 2003 that standards for electronic transactions were put in place. And despite widespread EHR adoption, the age and type of IT infrastructure used to access these records varies substantially.
+
+Some of this infrastructure is decades old and relies on clunky, outdated desktops. Some is more modern and designed to be used with mobile devices but often doesn’t support the level of security necessary to ensure safe storage and risk-free transmission of data within — or beyond — the walls of a doctor’s office or hospital.
+
+Forbes puts it simply: Health care agencies have become too focused on compliance with HIPAA and Affordable Care Act (ACA) regulations as a way to protect patient data despite the growing number of breaches of HIPAA-compliant databases. Why the disconnect? Because HIPAA and other health care acts aren’t IT security measures but basic handling practices. To secure PHI, a new standard is required.
+
+Emerging Challenges
+
+Ultimately, the health care technology landscape is fragmented as IT pros attempt to balance the usability required by doctors and nurses with the next-gen security required to protect interoperable desktops, mobile devices and cloud-based systems.
+
+As noted by the University of Arizona, federal organizations are making efforts to shore up IT defenses. For example, the FDA recently released a set of guidelines for “wirelessly connected medical devices,” which recommends that manufacturers identify potential points of compromise in their offerings before they hit the market. But these guidelines aren’t enforceable standards; if manufacturers choose speed over security, health care agencies themselves must do the legwork of evaluating security performance.
+
+Other challenges have also emerged. IT Business Edge notes that most health care applications aren’t secure and are susceptible to both code tampering and reverse engineering. Many organizations also rely heavily on the cloud, with “average” health agencies using over 900 cloud services.
+
+The problem? Just seven percent meet typical enterprise security requirements. The Internet of Things (IoT) presents another challenge, with proof-of-concept tests already describing how devices like pacemakers and drug pumps can be hacked and used to harm patients. Bottom line? HIPAA covers only a tiny portion of the IT threat landscape, but is often viewed as a broad defense. The result is a massive — and growing — attack surface for motivated cybercriminals.
+
+A Healthy Outlook?
+
+So how does the health industry transition from mere compliance to cutting-edge IT security? The first step is accepting that all EHR and PHI security is IT security. This, in turn, should drive greater IT spending along with the development of a security-minded culture based on actual risk measurements rather than government-mandated compliance as the gold standard. Enhanced mobile device protection, encrypted data and cloud regulation also play a role in the health care IT treatment plan; to achieve significant results, agencies must opt for holistic rather than specific measures.
+
+Here’s the takeaway: Health care organizations are enterprises. As such, they need comprehensive IT security plans to handle emerging threats. Just as the retail industry must do more than stay PCI DSS compliant to protect user data and banks must go beyond EMV standards to secure financial details, so, too, must health care move beyond the starting point of HIPAA to develop comprehensive, forward-thinking IT strategies.
+
+Topics: Compliance, Cybersecurity, Electronic Health Record (EHR), Health Care Industry, Health Insurance Portability and Accountability Act (HIPAA), Personal Health Information (PHI), Personally Identifiable Information (PII)

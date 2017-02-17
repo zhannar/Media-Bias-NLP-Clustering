@@ -1,0 +1,51 @@
+With the website working better on the consumer front, attention has turned to whether insurance companies are actually getting enrollment information — what tekkies call “834” data.
+
+(Karen Bleier/AFP/Getty Images)
+
+Connect with Facebook to share articles you read on ProPublica. Learn more »
+
+The issue is an important one because if insurance companies get incorrect data, their future customers may not be enrolled properly and that could lead to headaches — or worse — come January when patients show up at doctors’ offices or hospitals thinking they are insured but really aren’t.
+
+Now that the front-end of HealthCare.gov appears to be working properly, the media’s focus is quickly shifting to the back-end systems that are supposed to provide insurance companies with accurate information about consumers enrolling in their plans.
+
+Sarah Kliff at The Washington Post has been flagging this issue for some time, writing in October how the “834” transactions that the government sends insurers each night could make or break the law.
+
+If people can’t get into the Web site, then they simply have to come back later. But if they believe they’ve signed up for a plan but their 834 is a garbled mess — or, even worse, clear but wrong — it could mean chaos when they actually go to use their health insurance. For that reason, inside the health-care industry, the 834 problems are the glitch that is causing the most concern.
+
+The problems appear to have persisted even as the website itself has gotten much easier to use for consumers. The Post reported earlier this week:
+
+The errors cumulatively have affected roughly one-third of the people who have signed up for health plans since Oct. 1, according to two government and health-care industry officials. The White House disputed the figure but declined to provide its own. The mistakes include failure to notify insurers about new customers, duplicate enrollments or cancellation notices for the same person, incorrect information about family members, and mistakes involving federal subsidies. The errors have been accumulating since HealthCare.gov opened two months ago, even as the Obama administration has been working to make it easier for consumers to sign up for coverage, the government and industry officials said.
+
+Administration officials say the Post is wrong, but haven’t been willing to provide correct figures.
+
+The New York Times has similarly reported on the problems:
+
+The issues are vexing and complex. Some insurers say they have been deluged with phone calls from people who believe they have signed up for a particular health plan, only to find that the company has no record of the enrollment. Others say information they received about new enrollees was inaccurate or incomplete, so they had to track down additional data — a laborious task that will not be feasible if data is missing for tens of thousands of consumers.
+
+The Times has a graphic showing all the ways enrollment can go wrong.
+
+Late yesterday, the Centers for Medicare and Medicaid Services and two insurance trade groups issued a statement saying they are working on the problem and pledged to report publicly on their progress.
+
+But the issue has proved contentious, dominating daily media calls CMS is holding. Some tweets yesterday conveyed the frustration:
+
+Working theory: CMS evasion about 834 errors an elaborate ploy to build camaraderie among health policy journos. — Adrianna McIntyre (@onceuponA) December 4, 2013
+
+Next time a reporter asks for 834 error rate, CMS spox will respond, "You'll shoot your eye out, kid!" — Philip Klein (@philipaklein) December 4, 2013
+
+BREAKING but not really: #CMS won't say how many "834" transmissions they've sent to insurers or what proportion had errors. #obamacare — Alex Wayne (@aawayne) December 4, 2013
+
+Two reporters - @aawayne from Bloomberg and @louiseradnofsky at WSJ - asked for the 834 error rate today. No answer again. — Sarah Kliff (@sarahkliff) December 4, 2013
+
+I'm sure this sounds naive, but it really seems like CMS would actually benefit from being transparent about http://t.co/3A5ZwNpb6s — Kate Pickert (@katepickert) December 4, 2013
+
+CMS official declines to comment on specific number of 834 transaction errors-no matter how many times or different ways she is asked — Brianna Ehley (@Briannaehley) December 4, 2013
+
+CMS spox refuses to quantify scope of 834 problems but claims theyre fixed. Says "insurers now testing fixes to make sure that they agree." — devindwyer (@devindwyer) December 4, 2013
+
+Kliff summarized yesterday’s call in a piece for the Post’s Wonkblog:
+
+Health reporters still want more 834 data. Three reporters, including myself, made another attempt to get information on errors effecting the 834 transmissions, the files the exchange sends to insurance plans when someone signs up for their plan. We know there have been some problems with these transmissions, but don’t have a great sense of how many problems — or how quickly those problems are getting fixed. "I can appreciate the frustration," [CMS spokeswoman Julie] Bataille told Bloomberg’s Alex Wayne when he brought up the issue. "We believe the vast majority of the fixes are now in place." Louise Radnofsky from The Wall Street Journal followed up, asking for a reason why the error rate would not be shared. “As I just mentioned, we are actively working with issuers to assess the fixes and validate the numbers,” Bataille said. "We’ve heard numbers like 80 percent [of the errors were from one bug]," Radnofsky pressed. "There must be a number out there." "What we’ve reported on there was that we believed there to be a transaction issue causing those inaccuracies," Bataille responded. "As we validate the assessment of the fixes, we will report on our progress." "So it’s a validation issue?" Radnofsky asked. Medicare spokesman Richard Olague cut in. “We’ll have to move on to the next question,” he said.
+
+Editor’s Note: This post is adapted from Ornstein’s “Healthy buzz” blog. Have you tried signing up for coverage through the new exchanges? Help us cover the Affordable Care Act by sharing your insurance story.
+
+Like this story? Sign up for our daily newsletter to get more of our best work.

@@ -1,0 +1,109 @@
+An Overview of the Medicare Shared Savings Program/Accountable Care Organization Final Rules
+
+The Centers for Medicare and Medicaid Services (CMS) recently released a final rule (Final Rule) that makes changes to the Medicare Shared Savings Program (MSSP). The Affordable Care Act (ACA) created the MSSP as one of several delivery system reform initiatives. The goal of the MSSP is to reduce unnecessary costs and facilitate coordination of care among providers servicing Medicare fee-for-service beneficiaries through participation in Accountable Care Organizations (ACOs). This Final Rule amends CMS's November 2, 2011, final rule, which set forth the initial regulations for the MSSP. The Final Rule changes are effective August 3, 2015, except as otherwise set forth below.
+
+Generally, the ACO Final Rule streamlines, clarifies, and refines numerous provisions of the original program rules in accordance with recent CMS guidance and in light of lessons learned from the program's first few years of operation. These changes in the Final Rule are applicable to existing ACOs and future ACO applicants, including those whose participation in the MSSP will begin January 1, 2016.
+
+As discussed below, the most significant Final Rule changes are those to the Track 2 MSR/MLR, the addition of Track 3, the Three-Day SNF Rule waiver and potential for future Medicare payment rule waivers, and the opportunity to obtain additional ACO beneficiary data. It appears that the impetus for these changes is to incentivize and encourage participation in the MSSP, and in particular, participation in the two-sided risk-based model.
+
+As the healthcare payment system begins to move away from fee-for-service reimbursement and toward a pay-for-performance system, healthcare providers and suppliers may consider participating in an ACO under any model, as this program has demonstrated an ability to decrease costs and share in savings and continues to be refined to foster coordinated, high-quality healthcare.
+
+Modifications to Existing ACO Payment Tracks
+
+An ACO is rewarded under the MSSP when it meets certain quality performance standards and achieves lower growth in Medicare Part A and Part B fee-for-service costs, relative to a benchmark unique to the ACO's beneficiary population. Currently, within the MSSP, there are two participation tracks that ACOs may choose from – the Track 1 shared savings-only model (one-sided model) or the Track 2 shared savings and losses model (two-sided model). ACOs that choose to participate in Track 2, which to date have been very few, will have the opportunity to earn a greater portion of shared savings.
+
+The following highlights the most significant changes to these original tracks:
+
+In regard to Track 1 ACOs, those ACOs that have completed an initial three-year agreement are now permitted to enter into one additional three-year agreement under this track. Prior to this change, Track 1 ACOs were required to transition to Track 2 after their initial participation terms.
+
+With respect to Track 2, the Final Rule changes give ACOs flexibility in choosing the minimum savings rate (MSR) and minimum loss rate (MLR). Currently, both the MSR and MLR for Track 2 ACOs are set at two percent. To maximize flexibility for ACOs entering Track 2 for agreement periods beginning January 2016 or later, ACOs may now choose one of the following options for establishing their MSR/MLR:
+
+Zero percent MSR/MSL (meaning the ACO would share in first-dollar losses and savings);
+
+Symmetrical MSR/MLR in a 0.5 percent increment between 0.5 percent and 2.0 percent; or
+
+Symmetrical MSR/MLR that varies based on the ACO's number of assigned beneficiaries under the Track 1 model.
+
+New Risk-Based Track 3
+
+CMS has created a new MSSP participation model, the Track 3 ACO. Track 3 is a risk-based model and is similar to and modeled off of Track 2. The purpose of this model is to make participation in a risk-based model more attractive. The most significant differences among Tracks 1, 2, and 3 follow:
+
+Prospective Assignment Methodology . The beneficiary assignment process under Tracks 1 and 2 is prospective (based on data from the previous calendar year) with a retrospective reconciliation. Under Track 3, beneficiaries will be prospectively assigned based on the assignment methodology utilized under Tracks 1 and 2; however, the assignment will be based on data from the most recently available 12 months of data (offset from the calendar year) and there will not be a retrospective reconciliation to add new beneficiaries at the end of the performance year. The only adjustments that would be made to a Track 3 ACO's beneficiary population at the end of the performance year would be to exclude beneficiaries who no longer satisfy the participation eligibility criteria.
+
+. The beneficiary assignment process under Tracks 1 and 2 is prospective (based on data from the previous calendar year) with a retrospective reconciliation. Under Track 3, beneficiaries will be prospectively assigned based on the assignment methodology utilized under Tracks 1 and 2; however, the assignment will be based on data from the most recently available 12 months of data (offset from the calendar year) and there will not be a retrospective reconciliation to add new beneficiaries at the end of the performance year. The only adjustments that would be made to a Track 3 ACO's beneficiary population at the end of the performance year would be to exclude beneficiaries who no longer satisfy the participation eligibility criteria. Historical Benchmark Calculation . The benchmark calculation for Track 3 will be consistent with the current calculation for Tracks 1 and 2 (which has been revised slightly in the Final Rule).
+
+. The benchmark calculation for Track 3 will be consistent with the current calculation for Tracks 1 and 2 (which has been revised slightly in the Final Rule). Shared Savings/Shared Losses Calculation . To attract new ACO participants to this new risk-based model, CMS has set the shared savings rate and the shared loss rate at 75 percent – shared savings are capped at 20 percent of an ACO's benchmark and shared losses are limited to 15 percent of an ACO's updated benchmark. Like Track 2 ACO participants, Track 3 ACO participants will have the option to choose among the new MSR/MLR options described above.
+
+. To attract new ACO participants to this new risk-based model, CMS has set the shared savings rate and the shared loss rate at 75 percent – shared savings are capped at 20 percent of an ACO's benchmark and shared losses are limited to 15 percent of an ACO's updated benchmark. Like Track 2 ACO participants, Track 3 ACO participants will have the option to choose among the new MSR/MLR options described above. Waiver of the Three-Day Skilled Nursing Facility (SNF) Rule. Perhaps one of the most noteworthy changes in the Final Rule is that a Track 3 ACO participant can apply for a waiver of the Three-Day SNF Rule. Under this waiver, Medicare will pay for otherwise covered SNF services when ACO providers/suppliers participating in Track 3 admit a prospectively assigned beneficiary to an eligible SNF without a three-day prior inpatient hospitalization. This change is significant because Medicare currently will not cover a beneficiary's SNF visit unless the visit is preceded by a prior inpatient hospital stay of no fewer than three consecutive days. This waiver has been piloted among the Pioneer ACOs, and CMS believes that the waiver will allow ACOs to improve the quality of care while reducing costs. ACOs under the Pioneer Model are accountable for the total cost of care furnished to their assigned beneficiary population and must accept performance-based risk if costs exceed their benchmark. This provision of the Final Rule will be effective January 1, 2017, which will allow CMS to develop additional subregulatory guidance.
+
+It is also worth noting that the Final Rule considers several other potential waivers of Medicare payment and program rules that CMS will continue to evaluate through the Center for Medicare and Medicaid Innovation, including a telehealth waiver, which CMS anticipates being available to ACOs by January 1, 2017, after notice, comment, and rulemaking.
+
+Beneficiary Data Sharing
+
+In connection with the original MSSP rulemaking process, CMS recognized that an ACO may not have access to information about services its assigned beneficiaries receive from healthcare providers and suppliers outside the ACO. This information may be critical to an ACO's coordination of care efforts. As a result, CMS currently (1) distributes aggregate-level data reports to ACOs, (2) on an ACO's request, shares limited identifying information about beneficiaries who are preliminarily prospectively assigned to the ACO and whose information serves as the basis for aggregate reports, and (3) on request from an ACO, shares beneficiary identifiable claims data with the ACO to enable it to conduct quality assessment and improvement activities, care coordination, or both (unless a beneficiary declines to share his/her data).
+
+Since the beginning of the program, CMS has continued to evaluate what additional beneficiary data might be necessary to support an ACO's healthcare operations. The Final Rule includes new beneficiary data categories that ACOs will have access to beginning in performance year 2016. Specifically for Tracks 1 and 2, ACOs will have access to the following categories of information for preliminarily prospectively assigned beneficiaries and beneficiaries who received a primary care service during the previous 12 months from an ACO participant:
+
+Beneficiary name,
+
+Date of birth,
+
+Health Insurance Claim Number, and
+
+Sex.
+
+Under Tracks 1 and 2, information in the following categories will also be made available for preliminarily prospectively assigned beneficiaries:
+
+Demographic data such as enrollment status;
+
+Health status information such as risk profile and chronic condition subgroup;
+
+Utilization rates of Medicare services such as the use of evaluation and management, hospital, emergency, and post-acute services, including the dates and place of service; and
+
+Expenditure information related to utilization of services.
+
+All of this information will also be made available to Track 3 participants, but will be limited to a Track 3 ACO's prospectively assigned beneficiaries. These changes are effective January 1, 2016.
+
+As part of this data-sharing expansion, CMS modified the rule that gives beneficiaries the right to decline data sharing. The Final Rule expressly requires ACOs to notify beneficiaries at the point of care about the MSSP and give them an opportunity to decline claims data sharing. ACOs must also provide beneficiaries with instructions on how to inform CMS of their preference. An ACO participant must post signs in its facilities to this effect and make standardized written notices available on request using template language developed by CMS. These changes are effective November 1, 2015.
+
+Beneficiary Assignment Process
+
+New Requirements for a Beneficiary to be Assigned to an ACO. CMS has incorporated some of its prior guidance on beneficiary qualification into the Final Rule. A beneficiary must now meet the following criteria to be assigned to an ACO:
+
+Has at least one (1) month of Part A and Part B enrollment and does not have any months of Part A only or Part B only enrollment;
+
+Does not have any months of Medicare group (private) health plan enrollment;
+
+Is not assigned to any other Medicare shared savings initiative; and
+
+Lives in the U.S. or a U.S. territory.
+
+Updates to the Definition of Primary Care Service. Currently, primary care services for the MSSP are defined as services billed under the HCPCS/CPT codes 99201 through 99215, 99304 through 99340, 99341 through 99350, the Welcome to Medicare Visit (G0402), and the annual wellness visit (G0438 and G0439). The Final Rule expands this list by adding transitional care management codes (99495 and 99496) and chronic care management codes (99490).
+
+Inclusion of Nonphysician Practitioner Primary Care Services. CMS has revised the first step of the beneficiary assignment process to include primary care services provided by nonphysician practitioners (NPs, PAs, and CNSs, collectively NPPs). Services provided by NPPs currently are included only in the second step of the beneficiary assignment process.
+
+Exclusion of Certain Physician Specialties. Certain professionals bill for primary care CPT codes, but do not actually perform primary care services for MSSP purposes. The Final Rule ensures that only professionals actually providing primary care services are included in the beneficiary assignment process by excluding the following specialties from the second step of the assignment process: allergy and immunology, gastroenterology, hospice and palliative medicine, infectious disease, rheumatology, and interventional cardiology.
+
+Care Coordination Through Health Information Exchange
+
+As part of an ACO's application to participate in the MSSP, it must explain how it will coordinate an episode of care across a spectrum of providers and demonstrate that it has established processes to promote evidence-based medicine, promote patient engagement, develop an infrastructure to report on quality and cost metrics, and coordinate care across and among primary care physicians and specialists, as well as acute and post-acute providers and suppliers. In addition to these processes, CMS believes that it is important for applicants to explain how they will develop health information technology tools and infrastructure to accomplish care coordination.
+
+Accordingly, the Final Rule adds a new eligibility requirement that requires an ACO to describe in its application how it will encourage and promote the use of enabling technologies for improving care coordination for beneficiaries. These enabling technologies may include electronic health records and other health IT tools (such as population health management and data aggregation and analytic tools), telehealth services (note as discussed above that CMS is considering a payment waiver for telehealth services), remote patient monitoring, health information exchange services, or other electronic tools to engage patients in their care.
+
+Legal Structure and Governance
+
+An ACO must be an independent legal entity with its own governing body, and the Final Rule includes new requirements for ACO legal structure and governance.
+
+Legal Structure. The Final Rule clarifies that (1) an ACO formed by two or more participants, each of which is identified by a unique tax identification number (TIN), must be a legal entity that is separate from its ACO participants, and (2) an ACO formed by a single ACO participant may use its existing legal entity and governing body.
+
+Governing Body Requirements. Consistent with the legal structure changes, an ACO comprising two or more ACO participants must have a governing body that is separate and unique to the ACO, whereas an ACO comprised of a single ACO participant may utilize the governing body of the ACO's existing legal entity. Additionally, the Final Rule clarifies that governing body members owe the fiduciary duty of loyalty to the ACO, and that an ACO governing body must include a Medicare beneficiary who (1) is served by the ACO, (2) is not an ACO provider/supplier, (3) does not have a conflict of interest with the ACO, and (4) does not have an immediate family member who has a conflict of interest with the ACO.
+
+Participant Agreement
+
+Each ACO that CMS approves for participation in the MSSP must enter into a participation agreement with CMS. The ACO agrees to participate in the program for at least three years and agrees to comply with the MSSP regulations. Due to inconsistencies and inaccuracies in the process ACOs were using to contract with their participants and providers/suppliers, CMS issued guidance on additional requirements for ACO participant agreements; the Final Rule codifies this guidance with minimal changes and requires an ACO to submit copies of its ACO participant agreements along with its application for program participation.
+
+The Final Rule also clarifies that an ACO is ultimately responsible for ensuring that each provider/supplier billing through the TIN of an ACO participant has agreed to participate in and comply with the MSSP rules. Per the Final Rule, an ACO can fulfill this obligation by either (1) directly contracting with an ACO provider/supplier through an agreement that is compliant with the new ACO participant agreement rule or (2) contractually requiring the ACO participant to ensure that all ACO providers/suppliers billing through its TIN have agreed to participate in and comply with the MSSP rules.
+
+These requirements are effective beginning with performance year 2017 and subsequent performance years.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

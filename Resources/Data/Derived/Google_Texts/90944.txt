@@ -1,0 +1,33 @@
+Shutterstock/Burachet
+
+CHAPEL HILL, N.C. (MarketWatch) — “Don’t sell a dull market short.”
+
+You’ll be hearing that Wall Street adage a lot in coming weeks, but should you follow it? It’s important to get the right answer, since stock exchange trading volume invariably declines following Memorial Day and doesn’t pick up in earnest until after Labor Day.
+
+To gain insight, I focused on the stock market’s behavior following low and high readings of the CBOE’s Volatility Index, or VIX VIX, -1.25% This index’s level at any given time reflects traders’ expectations about stock market volatility over the subsequent 30 days.
+
+Many traders interpret the VIX in a contrarian way: They consider it bearish when the markets are dull and the VIX is low, while high VIX levels are considered bullish. If they’re right, then the Wall Street adage is wrong — and you should be prepared to sell a dull market short.
+
+But I found no support for this contrarian interpretation of the VIX, after feeding into my PC’s statistical package the historical values for the VIX back to 1990, which is the first date for which the CBOE has data for this index. The stock market performs no more poorly in the wake of VIX readings that are below the historical median than when the VIX is above it.
+
+When VIX is... Average market return next month Return next quarter Return next 6 months Returns next 12 months Above its median level of 18.38 0.90% 2.64% 4.92% 9.03% Below its median level of 18.38 0.85% 2.70% 5.95% 13,77%
+
+If anything, in fact, the data suggest the market does slightly better following below-median readings, though one shouldn’t put too much weight on that since the differences are minor and not statistically significant at the 95% confidence level that statisticians often use to conclude that a pattern is genuine.
+
+To be sure, contrarians have many other ways in which they interpret the VIX. One way is to compare the VIX to its recent levels; is it lower than its average level of the previous month, for example, or much higher?
+
+But this alternate approach doesn’t get support from the historical data, either. I sliced and diced the VIX data since 1990 in numerous ways, focusing on the VIX’s level relative to its moving average of the trailing month, quarter and six months, and searching for correlations with performance over the subsequent month, quarter and six months. I found no patterns that were statistically significant.
+
+The bottom line: This is one of those cases in which Wall Street’s conventional wisdom is right: Don’t sell a dull market short.
+
+Click here to inquire about subscriptions to the Hulbert Sentiment Indexes.
+
+More from MarketWatch:
+
+Pinterest, Uber — ‘$10 billion is the new $1 billion’
+
+Don’t bet on a summer rally this or any other year
+
+5 dividend stocks that may be safer than Treasurys
+
+More from MarketWatch

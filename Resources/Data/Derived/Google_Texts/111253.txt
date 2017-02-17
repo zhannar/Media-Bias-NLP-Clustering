@@ -1,0 +1,27 @@
+"Imagine shining a flashlight through a thick fogbank to try to see a single dot," said Yaron Silberberg, from the Weizmann Institute of Science in Israel, in a statement. "The light would become so scattered as it traveled through the fog that you wouldn't be able to make out what was hidden inside.”
+
+This is exactly what researchers attempting to observe diseased tissues or biological samples would feel — that they are looking for a single dot in a dense fog. Study of biological samples means peering through a microscope to observe layers of tissues, which may be surrounded by a lot of other material. The image seen may often be distorted or blurred. While several modern microscopes use fluorescent proteins as “guide stars,” these are often invasive and offer little clarity.
+
+To get around this problem, a team of researchers has developed a powerful technique to focus laser light through even the densest of surroundings without the need for a guide star. This innovation, a specialized version of an adaptive optics microscope, can resolve a point less than one-thousandth of a millimeter across, by carefully targeting the light going in on the intended spot.
+
+A paper on this new innovation has been published today in the Optical Society's (OSA) new journal Optica.
+
+To achieve this, the researchers fitted a standard two-photon scanning microscope — one that uses bursts of laser light to build up a picture point-by-point and then line-by-line — with a a high-resolution wavefront shaping device. This enables the microscope to look through layers that would otherwise blur the image. The wavefront shaping approach is based on "adaptive optics,” which is often used in astronomy and also medicine. When used for taking telescopic images from the Earth, this method corrects the distortions caused by the Earth’s atmosphere and produces sharp images, similar to images captured in space.
+
+But adaptive optics also has its limitations and cannot correct severe distortions, such as the scattering by fog or imaging through the shell of an egg. But wavefront shaping has overcome even this limitation and produces high-contrast images even through the thickest visual barriers.
+
+In order to do this, wavefront shaping requires a reference point to bring targets into sharp focus. Adaptive optic techniques use guide stars that are placed in the same reference point as the object being studied. In astronomy, they may be bright nearby stars or powerful lasers that are used to adjust the optics of the telescope to produce an undistorted image.
+
+In biology, guide stars are fluorescent proteins that need to be first implanted into the specimen. Doing this may cause inadvertent damage to the tissue and render it useless. But the researchers managed to achieve guide-star free imaging by using a standard laser scanning two-photon microscope to focus in on a single point behind an obscuring scattering layer.
+
+Light pulses from the laser are directed through the obscuring layer and onto a target. The microscope was able to focus in on a point about one-thousandth of a millimeter across. The light pulses last for around 100 femtoseconds (a femtosecond is one millionth of a billionth of a second).
+
+In adaptive focus, when light passes through the obscuring layers, it becomes highly scattered and the guide star corrects the reshapes the scattered light. But since this technique did not use a guide star, the researchers altered the original pulsed light going in and formed a focused beam that they later scanned to generate an image of the fluorescent object hidden behind the obscuring layer.
+
+While other researches have shown that acoustic based guide stars can also produce such focusing, this team believes that images may not be as sharp as their method.
+
+"What we have discovered is that it's possible to efficiently 'pre-correct' the laser beam using the nonlinear fluorescence signal," noted coauthor Ori Katz. This produces a focused beam of light source.
+
+The researchers are quick to point that a more detailed study is required to fine-tune this technique for practical purposes. Advancements will enable imaging of complex layers such as of embryonic development and guided laser surgery.
+
+Source: O. Katz, E. Small, Y. Guan, Y. Silberberg. Noninvasive nonlinear imaging through strongly-scattering turbid layers. Optica. 2014.

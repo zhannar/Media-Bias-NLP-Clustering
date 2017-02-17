@@ -1,0 +1,49 @@
+ICD-10 Delay Creates Headaches
+
+Delayed implementation of the new coding standard may bring relief to some healthcare workers -- but it's the worst possible outcome for project managers.
+
+
+
+Easy-to-Mock ICD-10 Diagnosis Codes (Click image for larger view and slideshow.)
+
+Killing ICD-10 would have made a lot of doctors happy -- despite all the money wasted preparing for the transition to the new diagnosis and medical billing codes. Delaying it for a year may be a relief to them, as well, but it's nothing but grief for ICD-10 project leaders.
+
+The delay of at least a year from the previously firm Oct. 1 deadline was a mere footnote in a bill Congress passed and President Obama signed Tuesday. The bill also pushed back previously mandated cuts in Medicare reimbursement to physicians. Though a consortium of hospital and healthcare IT groups protested against the consequences of delay for ICD-10, politically this proved to be a minor consideration compared with appeasing the doctor lobby, which really wanted a permanent fix to the Medicare reimbursement formula, the subject of repeated "doc fix" delays.
+
+[Can government get it right? Read 5 Program Management Lessons From HealthCare.gov.]
+
+The ICD-10 implementation date has been pushed back before, but last time it was delayed from Oct. 1, 2013, to 2014 as an administrative decision by the Centers for Medicare and Medicaid Services (CMS). What makes this delay more troublesome is that it comes so late in the process, after many organizations have already spent much time and money getting ready for the supposedly immovable deadline.
+
+"Several things could have happened," said Dr. Michael Lee, director of clinical informatics with Atrius Health, a non-profit alliance of medical practices in Massachusetts. "No. 1 would be never to do it in the first place. I think that would have been the first choice of all physicians across the United States. If we never switched to ICD-10, they would be happy with that." Lee, who judges ICD-10 to have "zero clinical value," despite the claims of its proponents, shares this view.
+
+Still, having made a concerted effort to get ready, he said, Atrius is in an awkward position. It has invested in technology and training, and the last six months of a project like that are supposed to be all about testing. "The right solution was to kill the whole thing, rather than throw good money after bad. To delay it was actually the worst opportunity, the worst choice." A one-year delay means Lee will need to maintain two parallel systems -- one for ICD-9 (the current standard) and another for ICD-10 -- while putting ICD-10 training programs in a holding pattern for the next 18 months.
+
+"This is perhaps the hardest challenge I can think of from a project and program management perspective," said Jordan Battani, managing director for the Global Institute for Emerging Healthcare Technologies at the consulting firm CSC. "It's bad enough to cancel a project, but at least that means it's over. This is the slow way down, where you have to maintain some level of focus, some level of organizational engagement with the process, because you know you're going to have to ramp it up again."
+
+The timing is terrible, she said. "The final six months or so, that's the big push -- and that's where we are right now."
+
+So far, the CMS hasn't said how it will translate the law into regulatory policy. Most likely it will set a new deadline date of Oct. 1, 2015. What the law says is that ICD-10 implementation cannot be mandated prior to that date, leaving some room for doubt.
+
+"It could be 2016 or 2050, for all we know at this point," said Michelle Leavitt, director of courseware and product strategy at HealthcareSource, which has been working with hospitals and healthcare organizations on training for that transition. The most intensive training should now be postponed until 6-9 months before the new implementation date -- whatever that date turns out to be. If it officially becomes a one-year delay, she said, organizations that have lagged in their preparations should use the time wisely, rather than forgetting about the coming of the new standard for another year.
+
+Until the regulatory uncertainty is cleared up, there's also an outside chance that the CMS might decide to skip ICD-10 entirely and shift focus to the ICD-11 standard currently under development. The International Classification of Diseases is an international standard defined by the World Health Organization for purposes of tracking public health trends, though the version of ICD-10 targeted for implementation in the US dramatically expands the number of codes, so it can also be used for insurance claims.
+
+What's the most likely outcome? "I have no idea," Lee said. "The decision making is so illogical, I have no idea what they're thinking." Because Congress took the decision out of the hands of the CMS, it will be impossible to trust the agency's guidance on what to do and when to do it.
+
+Though Battani agreed with Lee's take on the project management consequences of delay, she doesn't share his dismal view of the value of ICD-10. There is great debate about the benefits, she said, but more specificity in data collection, it will be better in the long run for all sorts of reasons.
+
+One hope is that, with more detailed diagnosis codes available, the CMS and private payers will be able to process more insurance claims the first time they are submitted without requiring additional documentation. Some of those followup requests are a consequence of inadequate detail in ICD-9, she said.
+
+Lee's response? "Well, maybe, but it will only be true if it's all done correctly." As for the potential value of ICD-10 codes for improving clinical data analysis, he is skeptical. "The overwhelming majority of stuff in ICD-10 is just noise."
+
+Regardless, Atrius has invested great effort in getting ready and building support for ICD-10 into, not only its electronic health records software, but also its clinical decision support tools, a data warehouse, and other systems -- and Lee has to assume the ICD-10 transition is still coming, until he hears otherwise. "The government has left us in a completely untenable position."
+
+Download Healthcare IT In The Obamacare Era, the InformationWeek Healthcare digital issue on changes driven by regulation. Modern technology created the opportunity to restructure the healthcare industry around accountable care organizations, but ACOs also put new demands on IT.
+
+David F. Carr oversees InformationWeek's coverage of government and healthcare IT. He previously led coverage of social business and education technologies and continues to contribute in those areas. He is the editor of Social Collaboration for Dummies (Wiley, Oct. 2013) and ... View Full Bio
+
+Comment |
+
+Email This |
+
+Print |

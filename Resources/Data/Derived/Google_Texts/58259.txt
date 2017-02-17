@@ -1,0 +1,29 @@
+Astroglial cells have been found to cause the abnormalities in neurons that lead to Down syndrome, and an inexpensive drug may correct them.
+
+Abnormal development in the morphology of neurons is thought to be the cause of Down syndrome, and a new study has now discovered the group of cells that are responsible for causing this abnormal development in the brain.
+
+Researchers from UC Davis School of Medicine and Shriners Hospitals for Children created a model derived from patient derived stem cells to study the condition. They found that the key to controlling the abnormal effect of these cells, called astroglial cells, on the developing neurons was the application of a simple antibiotic, used to treat acne.
+
+"We have developed a human cellular model for studying brain development in Down syndrome that allows us to carry out detailed physiological studies and screen possible new therapies," said Wenbin Deng, associate professor of biochemistry and molecular medicine and principal investigator of the study. "This model is more realistic than traditional animal models because it is derived from a patient's own cells."
+
+Around 6,000 babies with Down syndrome are born each year in the U.S., making it the most common genetic cause of intellectual disability. Individuals with this condition have 47 chromosomes in their cells instead of the usual 46. This extra copy is that of chromosome 21, which results in the characteristics associated with Down syndrome.
+
+Human models are more promising than the traditionally used mice models since they give a clearer picture of the function of astroglial cells in this syndrome. In the past few years, research has revealed that the astroglial cells are not merely passive structural elements in the brain but play a much more crucial role in degenerative brain diseases like Down syndrome. "Although neurons are regarded as our 'thinking cells,' the astroglia have an extremely important supportive role," said Deng. "Astroglial function is increasingly recognized as a critical factor in neuronal dysfunction in the brain, and this is the first study to show its importance in Down syndrome."
+
+To study the effect of astroglial cells on neurons, the research team took skin cells from individuals with Down syndrome and transformed them into stem cells, which are known as induced pluripotent stem cells (iPSC). The cells were genetically similar to the donor cells and grew into different cell types. Deng and his colleagues next induced the stem cells to develop into separate pure populations of astroglial cells and neurons. This gave them step-by-step snapshots of the factors expressed by the astroglia and their effects on neuron development.
+
+They found that a protein known as S100B is present in higher concentrations in the astroglial cells from patients with Down syndrome compared with those from healthy controls. This protein released by astroglial cells promotes harmful astroglial activation (astrogliosis) and adversely affects neurons, causing them to die at increased rates or develop in multiple dysfunctional ways.
+
+When these lab-grown astroglial cells were implanted into mice it was found that they developed neuropathological phenotypes of Down syndrome. But mice that had been implanted with Down syndrome neurons did not develop these phenotypes suggesting the role of astroglial cells in this syndrome.
+
+The team’s research did not end here. Once they found the role of astroglial cells in promoting Down syndrome, they started screening candidate drugs that could diminish the abnormal effects of these cells. They found these properties in the most unsuspecting drug — minocycline — a tetracycline antibiotic with anti-inflammatory properties commonly used to treat bacterial infections, acne, and arthritis.
+
+Minocycline is the most lipid-soluble tetracycline-class of antibiotics and is known for its side effects related to the central nervous system, due to its ability to penetrate the prostrate and the brain. Now, researchers believe this ability could have neuroprotective effects. The team found that on administering the medicine, many abnormalities in the astroglial cells were corrected and there were more healthy interactions between the astroglia and neurons compared to the control cells without the defect.
+
+The drug has never been tested as a treatment for Down syndrome, the researchers say that advanced clinical trials are needed to test its safety and efficacy in people with Down syndrome. "The advent of induced pluripotent stem cell technology has created exciting new approaches to model neurodevelopmental and neurodegenerative diseases for the study of pathogenesis and for drug screening," said David Pleasure, co-author of the study. "Using this technology, the study is the first to discover the critical role of astroglial cells in Down syndrome as well as identify a promising pathway for exploring how a drug such as minocycline may offer an effective way to help treat it."
+
+Deng and his team are now conducting preclinical trials using the human-derived stem cells from Down syndrome patients and mouse models to determine whether cellular and behavioral abnormalities can be prevented with minocycline therapy and other candidate drugs.
+
+“The abnormalities we identified occur in the early stages of Down syndrome," said Deng in a press release. "While much more research is needed, it is exciting to consider that pharmacological intervention in these cellular processes might help slow or even prevent disease progression."
+
+Source: Chen C, Jiang P, Xue H, et al. Role of astroglia in Down’s syndrome revealed by patient-derived human-induced pluripotent stem cells. Nature Communications. 2014.

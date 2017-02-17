@@ -1,0 +1,21 @@
+The National Security Agency (NSA) has for years used sophisticated technology that can turn audio content from phone calls or news broadcasts into rough transcripts that can be easily searched and stored.
+
+The spy agency’s ability — revealed in documents from former contractor Edward Snowden posted by the Intercept on Tuesday — resembles commercial services that turn speech into text, but it was developed in secret with the assistance of massive data archives and ultra high-speed computing power.
+
+ADVERTISEMENT
+
+Using the technology, analysts can scan audio files for words related to a suspicious activity such as bomb-making, “detonator” or “hydrogen peroxide,” for instance, and search for particular targets or individuals.
+
+“Voice word search technology allows analysts to find and prioritize intercept based on its intelligence content,” the NSA said in a 2006 memo. “This tool is very effective because it integrates high-performance speech processing technology with a most important agency resource, analyst knowledge of targets and missions.”
+
+One system, which analyzes news broadcasts in six languages including Mandarin, Russian and Farsi, “integrates Automatic Speech Recognition (ASR) which provides transcripts of the spoken audio,” the agency said in a 2008 document. “Next, machine translation of the ASR transcript translates the native language transcript to English.”
+
+“Voila!” it concludes. “Technology is amazing.”
+
+The technology has been employed extensively in Iraq and Afghanistan, according to the Intercept, as well as in Mexico and Latin America.
+
+The first version of the technology was rolled out in 2004, under the code name "Rhinehart," designed to search real-time audio as well as months-old archives.
+
+While lawmakers in Congress are currently debating ways to reform the NSA, none of the plans with significant traction would do much to limit its collection of data about foreign conversations.
+
+Instead, the USA Freedom Act, which is set for a vote in the House next week, would prevent the NSA from collecting bulk phone records of people in the U.S., which include the numbers dialed in a call and when they occurred. The records do not include the audio content of the conversations.

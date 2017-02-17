@@ -1,0 +1,53 @@
+The election in the United Kingdom yesterday was roundly expected to produce a stalemate. Some pre-election polling gave the Conservatives a slight lead, but not nearly enough of one to capture a majority in Parliament. Then, last night's exit polls shocked everyone by predicting the party would grab 316 seats. (FiveThirtyEight's pre-election model had given it just 278 of 650 total.) Now it's clear that even the exits were wrong: The Guardian has the Conservatives taking 331 seats, enough for an outright majority. The Labour and Liberal Democrat parties meanwhile lost a bunch of constituencies they were expected to hold on to or take over.
+
+How did this happen? Actually, how has this kept happening? The 2014 U.S. midterm election polls were also off, as I wrote last November, underestimating the GOP's vote share by quite a bit. This Spring, Israeli Prime Minister Benjamin Netanyahu was easily re-elected despite virtually all the polls finding a razor-thin race, and many finding Netanyahu's party losing. Even the last American presidential election was a miss for pollsters: Barack Obama won in 2012 by a significantly larger margin than public polling predicted.
+
+Basic Obstacles
+
+Once upon a time, surveying adults in the developed world was not that hard. Landline phones were ubiquitous, and the practice of screening one's calls wasn't prevalent. As a result, when a pollster randomly called a person hoping to get his or her view on something, the pollster was reasonably likely to succeed.
+
+According to a study from Pew Research, the "response rate" as recently as 1997 was 36 percent. This means at least one in three people you want to take a survey actually will. Today, it's in the single digits. People are harder to reach and less willing to give you their time.
+
+They're hard to reach in part because of the mass switch to cellphones. Some states have regulations on the books that make it much more expensive or even completely impractical to call cells. In addition, many cell-only users refuse to answer calls from unknown numbers. And even if you manage to get through to someone on her cellphone, there's a real chance she won't qualify for the survey you're conducting. A researcher trying to poll voters in my hometown of Tampa, Florida, for example, might start by dialing numbers in the 813 area code. But people with area-code-813 cellphone numbers may not live in that place anymore. There's no sense surveying me on gubernatorial vote choice when I'm not even eligible to vote for the next Florida governor.
+
+And the rise of cell phones doesn't just make it harder to reach people—it makes it harder to reach certain types of people. Seniors are relatively more likely to still have a landline phone than millennials. The result is that pollsters often find it easier to talk to older demographics. In the past, people assumed this meant poll data were increasingly (and misleadingly) skewing conservative, as pollsters interviewed more Republican grandparents and fewer Democratic college kids. There's a problem with this, however...
+
+In the U.K. election yesterday, the Israel election earlier this year, and the U.S. midterms last fall, conservatives overperformed their polling.
+
+It Gets Harder
+
+Because it's impossible in most cases to get a truly representative sample, pollsters are forced to use complicated statistical modeling to adjust their data. If you know, for instance, that your poll reached too few young people, you might "weight up" the millennial results you did get. But doing this involves making some crucial assumptions—namely, what is the correct number of millennials?
+
+We don't know before Election Day what percentage of the electorate will actually be under 30, or Hispanic, or even Democrats vs. Republicans. So pollsters have to guess. This creates a lot of room for error, and means that part of the reason recent elections underestimated the actual conservative vote share could be that pollsters are systematically assuming left-of-center voters will turn out in larger numbers than they actually do.
+
+One of the methods pollsters use to help them figure out what the true electorate will look like is asking poll respondents how likely they are to actually vote. But this ends up being a lot harder than it seems. People, it turns out, are highly unreliable at reporting their vote likelihood.
+
+Studies have found that an overwhelming majority of poll respondents rank themselves as extremely likely to turn out on Election Day. On a 1–9 scale, with 9 being "definitely will vote," nearly everyone will tell you they're an 8 or 9. And some of them are wrong. Maybe they're just feeling overly optimistic about the level of motivation they will have to go to the polls; maybe they're genuinely planning to vote, but come E-Day, an emergency will arise that prevents them; or maybe they're succumbing to something known as "social desirability bias," where they're too embarrassed to admit to the caller that they probably won't be doing their civic duty.
+
+Some polling outfits—Gallup foremost among them—have tried to find more sophisticated methods of weeding out likely nonvoters, for example, by asking them batteries of questions like whether they know where their local polling place is. But these efforts have met with mixed results. Here's a good overview of that from Steven Shepard writing at National Journal right after the 2012 election.
+
+The bottom line is that correctly predicting an electoral outcome is largely dependent on getting the makeup of the electorate right—on not overstating certain demographic subgroups or including too many nonvoters in your sample—and that is a whole lot easier said than done.
+
+Other Issues
+
+Asked what happened last night, the president of the U.K.-based online polling outfit YouGove answered that "what seems to have gone wrong is that people have said one thing and they did something else in the ballot box."
+
+Now, part of a pollster's job is to word questions in such a way as to elicit accurate answers. For example, instead of simply asking, "Did you vote?," you might ask, "Did things come up that kept you from voting, or did you happen to vote?" This gentler phrasing should make it easier for people to give an honest no.
+
+But actual ballot tests (e.g., "If the election were held tomorrow, for whom would you vote?") are pretty straightforward. Pollsters can make some tweaks, like deciding whether to read a list of candidates or not. But what if a person lies about who they're planning to vote for? What if, taking it a step further, a lot of people, who all support the same party, all refuse to say so?
+
+One hypothesis is that in the U.K. people are sometimes "shy" about admitting they plan to vote Conservative. So they answer that they don't know who they're supporting, or they name another option, thus skewing the results away from the eventual winner.
+
+Another possibility is that, as methodological obstacles to good sound survey research pile up, pollsters have started cheating. Nate Silver and his colleague Harry Enten have both found that—improbably—recent poll results have tended to converge on a consensus point toward the end of a race. This suggests that some if not all pollsters are tweaking their numbers to look more like everyone else's, to avoid the embarrassment of being the only person who was way off on Election Night.
+
+And converge the polls did before yesterday's U.K. election. As Enten noted:
+
+The standard deviation in the difference between the Conservative and Labour vote share among polls taken over the final five days of the campaign was just plus or minus 1.3 percentage points. ... In no other election since 1979 was the standard deviation of polls taken over the last five days less than plus or minus 1.7 percentage points, and the average over the last five days from 1979 to 2010 was plus or minus 2.6 percentage points.
+
+No Easy Answer
+
+So why have polls been flubbing things so badly recently? It could be (and probably is) a combination of all these factors: the difficulty of getting a representative sample of any population in today's world; the difficulty of predicting what the electorate will look like demographically; the difficulty of getting people to answer questions honestly in the midst of highly charged campaigns; and the difficulty of knowing whether and how much pollsters are altering their results to try to save face.
+
+Perhaps most exasperating is that not everything is necessarily going to be a problem every time. In a given year, pollsters could get lucky when deciding how to weight their data. Respondents could, for whatever reason, feel comfortable answering honestly when asked who they plan to support. For all we know, the 2016 polls could end up being bang-on.
+
+But we won't know till after the fact whether pollsters have managed to get it right, which means election watchers and politicos will probably need to learn to put a little less stock in what horse-race data are telling them for a while.

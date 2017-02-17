@@ -1,0 +1,31 @@
+Posted 2016-02-16
+
+Medical Mutual of Ohio, Ohio's oldest and largest health insurance company, focuses on mobile apps to elevate customer interaction and improve satisfaction.
+
+It's increasingly clear that "mobile-first" is more than an intriguing concept. As the adoption rate for mobile devices has soared, the need for robust apps that deliver crucial functionality has become mission-critical.
+
+Within the health care field—which faces new and growing demands as a result of the Affordable Care Act and overall changes in business and technology—the need for mobile interaction is paramount. A growing number of individuals require information about their health care account while they are on the go.
+
+"Health care reform has led to much stronger consumerization, and that's driving changes in how organizations interact and serve customers," observes Joya Newman, manager of interactive e-solutions for Medical Mutual of Ohio, a Cleveland health insurance provider that serves more than 1.6 million customers. "As consumers spend more time on their smartphones, we have to find ways to make the business more relevant and more accessible to them through mobile moments."
+
+Although the company has operated a customer-facing Website for years, it began exploring the idea of developing a mobile app for customers in 2011. After conducting extensive research and evaluating different approaches and vendors, the company partnered with mobile platform development firm Kony, and built an app on the Kony platform that runs on the iOS and Android mobile platforms.
+
+However, the initiative had to address key concerns, including HIPAA (the Health Insurance Portability and Accountability Act) requirements. That meant designing the framework around an on-premise middleware solution, rather than taking a cloud-based approach.
+
+Mobile App Empowers Customers
+
+The mobile app enables members to access information about their plan from a mobile device. They can also view their identification card, insurance benefits and balances, and can search for nearby providers, map out locations, and view claims status and information.
+
+"The app has been positively received by our customers," Newman reports. "Putting these tools in the hands of customers has helped boost satisfaction levels, and it aids in retention as we pass through open enrollment periods."
+
+At present, about 65,000 people use the app across the two OS platforms. Newman says that it has cut down on phone calls and improved interaction between the company and its customers.
+
+A second "Mutual Appreciation" app directs Medical Mutual's employees to local shops, restaurants and other stores run by the insurance provider's customers. "The idea is to focus on doing business in a mutually beneficial way," she explains. So far, employees have recorded more than $50 million in transactions within the app.
+
+Newman adds that the company calculated $60,000 in annual cost savings as a result of using the mobile platform.
+
+One of the biggest benefits of the development platform is an ability to write code once and then deploy it to both iOS and Android simultaneously. Since Medical Mutual of Ohio has only four developers devoted to the mobile space, a streamlined and efficient app development process is essential.
+
+Newman says the company is continuing to expand functionality on the mobile platform. For example, it plans to introduce a mobile app search tool that will allow customers to compare in-network providers and prices for procedures—something that's already available on the Website.
+
+"The mobile platform provides big benefits to both customers and the business," Newman reports.

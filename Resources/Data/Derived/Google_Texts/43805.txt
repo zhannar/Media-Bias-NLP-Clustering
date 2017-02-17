@@ -1,0 +1,71 @@
+Marci Cooper, manager of employee wellness at the Indiana University Health System, measures return on investment the same way many executives do. But she deals a different set of metrics -- BMI, average steps, and Hemoglobin A1c -- than those watched by business technology leaders.
+
+Indiana University Health has 28,921 employees and Cooper added Fitbit's wearables and back-end services to the system's wellness program in 2014. From there, Cooper and her team created challenges to add a gamification element to wellness and created carrots to encourage employees as well as family members to participate.
+
+"In three years, we've seen a 60 percent decrease in BMI," said Cooper. Fitbit is part of a broader wellness program that revolved around reducing tobacco use and managing chronic conditions such as diabetes.
+
+Cooper is one of many business leaders deploying wearables in the enterprise as part of a broader wellness push. The return is lower health costs, but it's difficult to connect a direct line between wearables and wellness. Instead, the focus on wearables in corporate health programs revolves around intangible benefits like healthy, engaged employees.
+
+Fitbit is one of the early leaders in the enterprise wearable race. The company has had a business-to-business (B2B) arm from inception and has developed the back-end tools for corporations. For instance, Fitbit has customer success teams to aid deployments and runs the procurement and distribution chores with distributing wearables.
+
+For Fitbit, the returns are obvious. The company gets to sell its hardware and software to a captive audience at a discount. These employees are also consumers and are likely to stick with Fitbit in the future. And Fitbit's ability to court the enterprise is likely to build a moat around its business, which will eventually face stiff price competition.
+
+Previously:Fitbit becomes HIPAA compliant as it eyes more business customers | Fitbit: Can it make the business-to-business, software platform turn? | Fitbit's big race: Grow software, services | CNET Fitbit reviews
+
+So far, Fitbit's enterprise strategy is delivering. Ahead of its Captivate 2015 conference in New York City earlier this month, the company said it had 50 of the Fortune 500 as customers. Earlier this week, Fitbit Wellness, the B2B arm of the company, said it added 20 new enterprise customers including GoDaddy, BMC Software and Barclays, which plans to roll out a Fitbit program to 140,000 employees globally.
+
+In addition, Fitbit also added corporate challenges and a management dashboard to its systems supporting enterprises. Employees get better healthy collaboration tools and enterprises can monitor wellness in real time.
+
+Amy McDonough, vice president and general manager of Fitbit Wellness, said in an interview that the company has focused on software, services and program management as well as the core hardware that drives revenue.
+
+"We've focused on things like on-boarding, inviting people to participate and program management," said McDonough. Employees get a discount on Fitbit as well as trend analysis for things like wellness impact on productivity and absenteeism. "An employee isn't helping the business if not at work. Wellness programs help engagement and retention."
+
+Cooper said that back-end help is just as important as the devices and the employee discounts. "We didn't want to be a distribution center," she said.
+
+Value on investment
+
+Fitbit's McDonough acknowledges that traditional return on investment calculations may fall short on measuring wellness programs--for now.
+
+However, Fitbit's B2B efforts really started gaining traction in 2013 and 2014 so three-year trends are just surfacing. Meanwhile, companies like Appirio and BP have reduced health premiums.
+
+IU Health's wellness program journey highlights where Fitbit falls in a broader effort. Here's Cooper's history lesson.
+
+McDonough said Fitbit and its customers have been talking about value on investment. A value on investment measurement would be something like participation rates. If a company can boost engagement from 20 percent to 80 percent, the natural next step would be to jump to more measurable items such as productivity and absenteeism.
+
+Jim Huffman, senior vice president and head of Bank of America's U.S. health and wellness benefits, said the first phase of the Fitbit effort highlighted that 54 percent of employees had inadequate exercise.
+
+Huffman said at Captivate that 90 percent of employees agreed that participation in the program reduced stress. More than 60 percent said they felt more connected with colleagues due to challenges.
+
+These metrics haven't been linked directly to the bottom line, but "began to bend the trend" on productivity and visits to the doctor.
+
+For Cooper, Fitbit's impact will be measured on Hemoglobin A1c, which highlights diabetes risk, and body mass index measurements. Cooper's wellness program has already dented these issues, but Fitbit is likely to improve trends more.
+
+Cooper added that employee sentiment and individual success stories are also key returns to track for enterprises. Costs to deploy Fitbit into a program were minimal beyond the subsidies an enterprise decided to provide. Cooper called Fitbit a "sticky experience" for employees that was turnkey on the back end.
+
+Every company will have different metrics to measure returns on wearables. Beverly Davis, executive director of budget and finance for the Howard County Public School System, is a Virgin Pulse customer and can draw a direct line between wellness and future costs.
+
+"Salary and benefits are 85 percent of our budget and we're looking for cost savings," explained Davis. With that reality, Davis' wellness program is designed to improve employee fitness for the long run. "If an employee stays with us 5 years they typically retire with us," said Davis. "If they are getting retiree benefits in the future, wellness is a wise investment."
+
+You can see where this is headed. Perhaps health data for sales reps can be tied to revenue growth. Employee performance may be linked to wearable information. In addition, Fitbit, which can connect to Salesforce already, may become a staple in HR systems.
+
+Fitbit today doesn't connect directly with HR systems such as Workday, but the company's open APIs make it a possibility, said McDonough.
+
+The details
+
+Wellness programs are bound by a bevy of regulations included in the Affordable Care Act (Obamacare), American Disabilities Act and Genetic Discrimination Act according to Eric Dreiband, an attorney for Jones Day.
+
+For instance, under the Affordable Care Act inducements to boost participation in wellness programs must be limited to 30 percent of the value. Companies offer discounts for participation in a wellness program, say 10 percent off of premiums, but rewards nearing 30 percent mean the program isn't voluntary, said Dreiband.
+
+Research and policy:Wearable Device Policy |Wearables in business: Deployment plans, anticipated benefits and adoption roadblocks | Wearables, BYOD and IoT: Current and future plans in the enterprise
+
+Fitness trackers also can't discriminate and data has to be confidential, added Dreiband. One thing wellness programs need to do is provide alternatives for disabled employees. "A walking challenge is easy for a runner, but what if someone can't walk or run, but can swim?" asked Dreiband. "A lot of organizations have mechanisms to enter non-tracker activity."
+
+In a nutshell, employees have to provide reasonable accommodations and alternatives to participate in a wellness program.
+
+Kelsey Finch, counsel for the Future of Privacy Forum, said that privacy with corporate use of wearables in wellness programs is a key issue.
+
+"People are more aware of their health data," said Finch. "Consumers are right to be concerned about wearables, embarrassment, discrimination, safety and inaccurate data."
+
+Finch said the platform terms of service from Fitbit, Apple's HealthKit and Google Fit go a long way to protecting privacy. Corporations also have to guard privacy and ensure data isn't misused. For instance, an employee's step data may be mapped to an individual, but sleep information may not. Sleep information, however, could be aggregated and anonymized and yield useful data to a company.
+
+The Future of Privacy's best practices for wearables in corporations go like this:

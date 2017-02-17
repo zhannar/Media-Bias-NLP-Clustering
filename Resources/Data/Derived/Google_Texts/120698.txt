@@ -1,0 +1,21 @@
+The gene mutation is the most common known genetic risk factor for both dementia and ALS. CC BY 2.0
+
+A new study out of Johns Hopkins University has pinpointed a specific mutation that is involved in the development of dementia and amyotrophic lateral sclerosis (ALS), as well as discovered a molecular therapy that might actually clear these “jammed cellular highways.”
+
+The gene, known as C9orf72, is located on chromosome 9 and its mutation causes RNA molecules to jam up in pathways that transport proteins. This results in a “molecular traffic jam” leading to brain cell nuclei, which ultimately contributes to the brain damage associated with dementia and ALS. The gene mutation is the most common known genetic risk factor for both dementia and ALS. It’s associated with 40 percent of ALS cases, and 25 percent of frontotemporal dementia (FTD) cases.
+
+“The discovery several years ago of this mutation — the most common one linked to ALS and FTD — was really a game changer for the field because it wasn’t a typical genetic mutation,” Dr. Jeffrey Rothstein, a professor of neurology and director of the Brain Science Institute at Johns Hopkins, said in the press release. “Now we have some information about what it is doing early on to damage brain and spinal cord cells.”
+
+In previous research, Rothstein and his team had discovered some 400 proteins in the cell that the gene mutation impacted. This time around, Rothstein focused on one particular protein (RanGAP), which they discovered could help reduce the damaging effects of the gene mutation. In cells that don’t have the gene mutation and are otherwise healthy, RanGAP transports molecules through nuclear pores, connecting cytoplasm in the cell. In mutated cells, however, RanGAP gets clumped up outside the nucleus, which prevents other proteins from being transported through nuclear pores.
+
+“The key breakthrough came from using a fruit fly model of human ALS and FTD that allowed us to screen these 400 candidates for ones that block brain cell death in a living organism,” Dr. Thomas Llloyd, another author of the study and associate professor of neurology at Johns Hopkins, said in the press release. “This work identified RanGAP as a critical target of the C9orf72 repeats that could prevent brain cell death when its function was restored.”
+
+Most of their work was done in fruit flies or human stem cells — so the researchers wanted to take it a step further, and experiment on human brain tissue. They took slices of brain tissue from ALS and FTD patients, which showed the clumps of RanGAP and other proteins outside the nuclei of brain cells. This proved that the defect was consistent across several levels — fruit flies, stem cells, and brain tissue.
+
+But perhaps the most exciting aspect of the study is the fact that the researchers believe they have found a potential therapeutic route. In fly and human stem cells, the researchers used antisense oligonucleotides — bits of RNA — to block RNA strands from impacting the RanGAP protein. This cleared up the traffic jam, which allowed proteins to move into the cell nuclei.
+
+“We still don’t know every step between the C9orf72 mutation and cellular death in the brain,” Rothstein said in the press release. “But our belief is that this is what starts it off, and this is certainly a good therapeutic target.”
+
+The team plans on collaborating with a pharmaceutical company to continue developing this therapy, aiming to eventually make a drug that could treat ALS and FTD patients.
+
+Source: Rothstein J, Zhang K, Donnelly C, Haeusler A, Grima J, Steinwald P. Nature. 2015.

@@ -1,0 +1,33 @@
+Stanford scientists have discovered more about the link between beta-amyloid and the plaque that builds up in the brain of those with Alzheimer’s disease. This knowledge may pave the way for new therapies.
+
+Stanford scientists have discovered more about the link between beta-amyloid and the plaque that builds up in the brain of those with Alzheimer’s disease. This knowledge may pave the way for new therapies. Jennsflorian, CC-BY-SA-3.0
+
+In a study conducted on mice and with human brain tissue, scientists at the Stanford University School of Medicine have learned more about plaque formation in the brains of those who suffer from Alzheimer’s disease. They believe that beta-amyloid destroys synapses before it begins to clump into plaque, and this begins the deterioration in brain function, particularly the ability to remember.
+
+"I hope this finding will be enticing enough to pharmaceutical and biotechnology companies that someone will try pushing this idea forward," Carla Shatz, Ph.D., neurobiology professor and senior author of the study, stated in a press release.
+
+Beta-Amyloid and Plaque
+
+Through their investigations, scientists have long understood that a hallmark of Alzheimer’s disease is the formation of plaque that leads to nerve cell death, which ultimately harms brain function and causes a loss of memory. This plaque is composed of beta-amyloid, which comes from a larger protein found in the fatty membrane surrounding nerve cells. Although at first beta-amyloid functions as a solitary molecule, it tends to form small clusters that can travel freely in the brain, and ultimately these clusters bunch up and form clumps of plaque. What the Stanford study showed was that in this early clustered form, beta-amyloid can bind to a receptor on nerve cells, which begins the process that eventually erodes synapses, in turn causing loss of brain function.
+
+Synapses are all about communication. The word "synapse" is derived from the Greek words "syn" and "haptein" that mean "together" and "to clasp," respectively. Synapses are known as the connections between nerve cells that are necessary for storing memories, processing thoughts and emotions, and functioning physically. As the word is commonly used, a synapse describes both a place and an activity, similar to the way that light is both a particle and a ray. A synapse, properly speaking, is the gap between nerve cells. At the same time, it is the flow of neurotransmitters from one nerve cell across that gap to membrane receptors on another nerve cell. Synapses may involve chemical transmission or electrical transmission but in either case, the strength changes in response to experience. The more a synapse is used, the stronger it becomes.
+
+The new Stanford study focuses in part on synapses and the role they play — in this case, the role they fail to play — in the earliest stages of Alzheimer's disease. To understand this, though, we must start with some knowledge of how plaque forms in the brains of mice.
+
+Study Methodology
+
+Shatz’s methodology begins with the knowledge that PirB is found on nerve cells in the brain of mice, where it acts like the brakes on a car. PirB slows the ability of synapses to strengthen, and even promotes their weakening, which in the correct proportion is necessary because without this brake action, consequences like epilepsy could be triggered. Hypothesizing that PirB was somehow implicated in the formation of beta-amyloid plaque, Shatz used an experimental mouse strain that is highly susceptible to the synaptic and cognitive impairments of Alzheimer's disease. Then, she bred these mice with another strain of mice that lack PirB and so created hybrid mice.
+
+What experimentation proved was that young “Alzheimer's mice” whose brains lacked PirB performed as well in adulthood as the normal mice did on tests of memory, and they also retained nearly equal synaptic flexibility in the brain. Meanwhile, the “Alzheimer’s mice" whose brains did have PirB suffered both synapse and memory loss.
+
+"The PirB-lacking Alzheimer's mice were protected from the beta-amyloid-generating consequences of their mutations," Shatz stated in a press release. To make further progress, Shatz delved deeper into studying the ways that PirB acted within the brain.
+
+Human Application
+
+Assisted by her colleagues, Shatz discovered that PirB and beta-amyloid were binding, which somehow strengthened the activity of PirB, causing it to weaken synapses so much that they disappeared altogether in some cases. And as the synapses faded, so did memories. Although PirB is a protein specific to mice, Taeho Kim, a postdoctoral scholar in Shatz's lab and lead author of the study, identified an analogous beta-amyloid receptor in the human brain: a protein called LilrB2.
+
+Next, Kim compared proteins in the brains of Alzheimer's mice without PirB to those in the brains of Alzheimer's mice with PirB. The mice with PirB showed increased activity on the part of a few proteins, in particular an enzyme called cofilin. (Cofilin in the brains of autopsied Alzheimer's patients is substantially higher than in the brains of people without the disorder.) When beta-amyloid binds to PirB, this results in biochemical changes that increase cofilin's activity — breaking down actin, a protein essential to maintaining synaptic structure.
+
+In humans, then, the entire process works in this way: beta-amyloid binds to LilrB2, and this increases the activity of cofilin, and this causes synapses to disappear, and then brain function is compromised, and memories are lost. "Our discovery suggests that Alzheimer's disease starts to manifest long before plaque formation becomes evident," Shatz stated in a press release.
+
+Source: Kim T, Vidal GS, Djurisic M, Shatz CJ. Human LilrB2 Is a β-Amyloid Receptor and Its Murine Homolog PirB Regulates Synaptic Plasticity in an Alzheimer’s Model. Science. 2013.

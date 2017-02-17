@@ -1,0 +1,47 @@
+Power To The Health Data Geeks
+
+A computer programmer and a kid in a Batman suit walk into a pancake house ...
+
+Like all great health care breakthroughs, it happened at the International House of Pancakes.
+
+It sounds like a joke, but it really happened, and now the programmer — Dave Vockell — has a new product to bring to market. It's an app to help seniors talk to their doctors about medical care.
+
+"Like all great health care breakthroughs, it happened at the International House of Pancakes," he says, half-jokingly.
+
+Venture capitalists are pouring more money than ever into digital health startups — more than $2 billion so far this year alone, according to the venture capital firm Rock Health. These investors are betting that entrepreneurs can help doctors, hospitals and insurers become leaner — which the Affordable Care Act strongly encourages.
+
+Vockell's endeavor started back in April, when Medicare released a huge database detailing how much it pays individual doctors. The government health plan for the disabled and for adults ages 65 and older had kept that payment information secret for decades.
+
+So when Medicare suddenly dumped an entire year's worth of data, finally making public millions of transactions, coders like Vockell tried to figure out how to make it useful for seniors.
+
+Enter the IHOP.
+
+"My kids go there after school one day for [the] funny face pancake lunch," he says. "There were lots of seniors there. And my kids run around, and the seniors love when they come up and sit with them." That's when it hit him, Vockell says: "I could totally use my kids to source a whole bunch of interviews pretty fast."
+
+His 3-year-old in a Batman suit proved a great icebreaker; over a lot of pancakes, 43 seniors told Vockell that knowing which doctors charge more and which charge less wouldn't necessarily send them shopping for the lowest price. Seniors generally like their doctors and don't want to shop for new ones.
+
+But many in the pancake house that day did tell Vockell that they had some medical procedures on the horizon and weren't sure what the procedures would cost, entail or require of them. "I'd love to get some insight into that," they told him.
+
+They also asked, "Could you make the print really big?" Vockell says. And several added, he says with a laugh, "The blueberry syrup is magnificent."
+
+So Vockell developed a website that helps seniors understand the procedures their doctors are recommending, and the costs — so they can start conversations with their doctors. The site also helps users print out the information in really big type.
+
+It's too early to say whether his product will be the hot new topic on the shuffleboard circuit, but it was a winner at the big Health Datapalooza conference this month in Washington, D.C.
+
+It's a great time to be starting a company in the health care data space. I think the gold rush is on.
+
+Big data on health care is the raw material for a whole new segment of the information technology sector. Entrepreneurs like Sean Power are also exploiting databases such as the price list that Medicare released this spring.
+
+"That's hot," he says. "Anytime anybody releases a new set of data, we get excited."
+
+Power's company, karmadata, is founded on the idea that software engineers can find ways to use big data to save the government or large companies money — and that such organizations will share some of their savings with him. There's a lot of opportunity in streamlining health care, Power says.
+
+"It's a great time to be starting a company in the health care data space," he says. "I think the gold rush is on."
+
+Just like in a real gold rush, hitting pay dirt requires a lot of prospecting. Entrepreneurs can't always find the information they really need to make a truly useful product.
+
+Dr. Omar Alvi is with a startup called Accordion Health. This firm's big idea is to help families estimate future health care spending. So you could type in that Grandpa has hypertension, Mom has diabetes, and one of the kids has asthma, and then get some idea of how much that's all going to cost — and maybe even shop for the best price. A great idea, Alvi says, but he adds: "Each patient is very different. And so in order to be able to make a meaningful prediction, you have to have a lot of data, so you can say [that] patients just like this went through these problems as they moved through the medical system. That's really where it requires hundreds of millions of data points."
+
+And not even close to the millions of data points that Alvi's company needs are available yet. A lot of information about procedures, cost and effectiveness remains locked up inside insurance company computers, or in hospitals' and doctors' medical records — information that insurers, hospitals and doctors don't want to share.
+
+This story is part of a reporting partnership between NPR and Kaiser Health News.

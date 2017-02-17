@@ -1,0 +1,21 @@
+Advertisement
+
+Email scammers are tapping into the Ebola crisis to infect computers with malware and grab confidential files and data from unsuspecting users.
+
+The emails appear to be from reputable organizations such as the World Health Organization, but are actually from scammers who are using an attachment to install malware onto a victim's computer.
+
+"There is an outbreak of Ebola and other diseases around that you know nothing about. The information and prevention listed in the attached file will help you and those around you stay safe," says the malicious email.
+
+The attached file is compressed, and once the executable file inside is opened a DarkComet remote access Trojan, or RAT, is unleashed. This Trojan specializes in keylogging, webcam capture, sound capture and even the ability to steal passwords and torrent files. Not only that, but it modifies local software firewall policies and disables them.
+
+So far it seems as though attackers have been fairly inconsistent and the impact has been minor. But security experts say consumers need to be aware and careful.
+
+"We've only seen one sample from this campaign so far. At this time we don't have reason to believe it is a widespread campaign," said cybersecurity company Trustwave in a statement. "The address it was sent to was an old honeypot address, so it's not exactly targeted, either. These facts taken together suggest a low-volume campaign (sent to whatever address list the spammer is using) in an attempt to infect random users in the hope of gaining some data that can be used or sold."
+
+The attackers have been using a number of email subject lines to lure potential victims, including the likes of "You won't believe what Obamacare and Ebola have in common," "First GMO foods, now Ebola. What Obama doesn't want you to know," and "The #1 Food Items You'll Need In An Ebola Crisis," among others.
+
+Hackers have long used current events to spread malicious emails. Most cybersecurity experts say users should turn off features that automatically download email attachments to help avoid being attacked. Not only that, but users should always be careful when downloading an attachment from an unknown source.
+
+"Unsurprisingly, cybercriminals have continued to piggyback on newsworthy and major events, disasters and outbreaks to lure potential victims and spread their malware," said Trustwave spokesperson Abby Ross in an email. "We are echoing their recommendation of never following unsolicited web links or attachments in email messages, particularly Ebola-themed ones."
+
+© 2016 Tech Times, All rights reserved. Do not reproduce without permission.

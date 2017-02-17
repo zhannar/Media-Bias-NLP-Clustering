@@ -1,0 +1,51 @@
+(Reuters) - Hackers using tactics and tools previously associated with Chinese government-supported computer network intrusions have joined the booming cyber crime industry of ransomware, four security firms that investigated attacks on U.S. companies said.
+
+Ransomware, which involves encrypting a target's computer files and then demanding payment to unlock them, has generally been considered the domain of run-of-the-mill cyber criminals.
+
+But executives of the security firms have seen a level of sophistication in at least a half dozen cases over the last three months akin to those used in state-sponsored attacks, including techniques to gain entry and move around the networks, as well as the software used to manage intrusions.
+
+"It is obviously a group of skilled of operators that have some amount of experience conducting intrusions," said Phil Burdette, who heads an incident response team at Dell SecureWorks.
+
+Burdette said his team was called in on three cases in as many months where hackers spread ransomware after exploiting known vulnerabilities in application servers. From there, the hackers tricked more than 100 computers in each of the companies into installing the malicious programs.
+
+The victims included a transportation company and a technology firm that had 30 percent of its machines captured.
+
+Security firms Attack Research, InGuardians and G-C Partners, said they had separately investigated three other similar ransomware attacks since December.
+
+Although they cannot be positive, the companies concluded that all were the work of a known advanced threat group from China, Attack Research Chief Executive Val Smith told Reuters.
+
+The ransomware attacks have not previously been reported. None of the companies that were victims of the hackers agreed to be identified publicly.
+
+Asked about the allegations, China's Foreign Ministry said on Tuesday that if they were made with a "serious attitude" and reliable proof, China would treat the matter seriously.
+
+But ministry spokesman Lu Kang said China did not have time to respond to what he called "rumors and speculation" about the country's online activities.
+
+The security companies investigating the advanced ransomware intrusions have various theories about what is behind them, but they do not have proof and they have not come to any firm conclusions.
+
+Most of the theories flow from the possibility that the Chinese government has reduced its support for economic espionage, which it pledged to oppose in an agreement with the United States late last year. Some U.S. companies have reported a decline in Chinese hacking since the agreement.
+
+Smith said some government hackers or contractors could be out of work or with reduced work and looking to supplement their income via ransomware.
+
+It is also possible, Burdette said, that companies which had been penetrated for trade secrets or other reasons in the past were now being abandoned as China backs away, and that spies or their associates were taking as much as they could on the way out. In one of Dell's cases, the means of access by the team spreading ransomware was established in 2013.
+
+The cyber security experts could not completely rule out more prosaic explanations, such as the possibility that ordinary criminals had improved their skills and bought tools previously used only by governments.
+
+Dell said that some of the malicious software had been associated by other security firms with a group dubbed Codoso, which has a record of years of attacks of interest to the Chinese government, including those on U.S. defense companies and sites that draw Chinese minorities.
+
+PAYMENT IN BITCOIN
+
+Ransomware has been around for years, spread by some of the same people that previously installed fake antivirus programs on home computers and badgered the victims into paying to remove imaginary threats.
+
+In the past two years, better encryption techniques have often made it impossible for victims to regain access to their files without cooperation from the hackers. Many ransomware payments are made in the virtual currency Bitcoin and remain secret, but institutions including a Los Angeles hospital have gone public about ransomware attacks.
+
+Ransomware operators generally set modest prices that many victims are willing to pay, and they usually do decrypt the files, which ensures that victims will post positively online about the transaction, making the next victims who research their predicament more willing to pay.
+
+Security software companies have warned that because the aggregate payoffs for ransomware gangs are increasing, more criminals will shift to it from credit card theft and other complicated scams.
+
+The involvement of more sophisticated hackers also promises to intensify the threat.
+
+InGuardians CEO Jimmy Alderson said one of the cases his company investigated appeared to have been launched with online credentials stolen six months earlier in a suspected espionage hack of the sort typically called an Advanced Persistent Threat, or APT.
+
+"The tactics of getting access to these networks are APT tactics, but instead of going further in to sit and listen stealthily, they are used for smash-and-grab," Alderson said.
+
+(Reporting by Joseph Menn in San Francisco; Additional reporting by Megha Rajagopalan in BEIJING; Editing by Jonathan Weber and Clarence Fernandez)

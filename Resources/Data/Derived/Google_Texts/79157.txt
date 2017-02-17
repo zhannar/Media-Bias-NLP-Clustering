@@ -1,0 +1,61 @@
+A slow-moving, potentially multibillion crisis years in the making is quietly boiling on the back burner, federal officials say.
+
+The problem? Aging, archaic IT systems at high risk for failing and are all but impossible to secure from modern cyberthreats. The government is paying billions just to keep them running, leaving precious few dollars to upgrade, modernize or adopt new technology.
+
+Related: Government IT Is a $75 Billion a Year Disaster. What Can Be Done About It?
+
+“I think we are facing a crisis that's bigger than Y2K,” the Obama administration’s IT chief, Tony Scott, told a panel of high-ranking agency officials and corporate CEOs at a meeting of the President’s Management Advisory Board this week, adding, “Much of the government today runs on very old, outdated technology.”
+
+Nearly three-quarters of the $80 billion spent by the federal government on information technology each year goes toward keeping so-called legacy systems running. Some of them are woefully out of date. The government currently operates nearly two dozen information systems that date back to 1980 or earlier, according to congressional investigators.
+
+Personnel familiar with these systems -- including the 1950s-era COBOL programming language and outmoded mainframe computers -- are increasingly nearing retirement age.
+
+New college graduates may not be equipped to tackle the government’s IT relics. A 2013 poll by Micro Focus found less than a quarter of college computer science programs worldwide still teach old-school skills like COBOL.
+
+“The people that understand it and who built it and are running it are leaving every day,” Scott said, referring to agencies’ legacy tech. “We're not building capacity with those skill sets. And just to do a lift and shift of those old architectures is the wrong answer.”
+
+‘Headed for a Crisis’
+
+Government watchdogs are similarly troubled by number of fossils in federal IT.
+
+"We spend way too much on legacy operations, and that is headed for a crisis,” said David Powner, director of IT management issues at the Government Accountability Office.
+
+Related: More Senior Government Execs Raked in Higher Bonuses Last Year
+
+Since 2010, the amount of spending on the operation and maintenance of legacy systems has increased by about $5 billion, while the amount slotted for investing in developing new systems has declined by more than $7 billion, according to a GAO analysis presented to Congress earlier this month.
+
+A forthcoming report on legacy systems in government tallied up 28 systems at least 25 years old, Powner said. Eleven are at least 35 years old.
+
+“And the question is . . . do we have a plan to replace those old, archaic legacy systems? Very few agencies do,” Powner said, speaking at a Nov. 17 event on federal IT reform in Washington, D.C.
+
+In a newly released survey by MeriTalk of 150 federal IT managers, only about half of respondents said their agencies have a formal strategy for modernizing legacy applications.
+
+Increasingly, aging federal IT infrastructure is seen as a security risk.
+
+The clearest example is the Office of Personnel Management, which revealed this summer hackers -- purportedly as part of a Chinese-backed espionage operation -- had trawled through agency databases scooping up sensitive background investigation files on nearly 22 million federal employees and contractors. Social Security numbers stored on OPM’s 1980s-era databases were not encrypted, officials said, because they were too old.
+
+Related: Poker and Escorts on Government Credit Cards
+
+It’s unclear how many other systems across government are essentially too old to secure. Sixty-two percent of respondents in the MeriTalk survey said failure to upgrade systems would eventually threaten mission-critical capabilities.
+
+“We’ve got architectures in various places and hardware and software that is indefensible no matter how much money and talent we put on it,” said Michael Daniel, the White House cybersecurity coordinator, speaking at an information security conference in September.
+
+Security remains a “bolt-on” rather than something “deeply embedded into the product throughout the whole life cycle,” Daniel said at the time.
+
+Congress is ‘Quite Interested’ in IT Management
+
+Last month, Scott’s office released a long-awaited revamp of guidelines for purchasing and managing government IT systems. The guidelines were last updated in the dial-up Internet era.
+
+They direct CIOs to keep track of aging information systems -- in particular those “cannot be appropriately protected or secured” -- reminding agencies that such systems “should be given a high priority for upgrade, replacement or retirement.”
+
+It’s unclear to what extent officials’ newfound talk of a crisis in federal IT will spur action by Congress.
+
+"As I've gone up to testify, it's quite clear that Congress is now quite interested in this topic of how IT is run in the federal government,” Scott told the management board this week.
+
+Part of that is thanks to the Federal IT Acquisition Reform Act -- approved by Congress late last year -- which gives agency chief information officers a stronger hand in managing their organizations’ IT spending and major tech purchases.
+
+In the past, though, Scott has discussed how the constraints of the congressional appropriations process -- and tight budget caps in recent years -- have often tied agencies’ hands when it comes to upgrading outmoded technology.
+
+CIOs are told to keep costs down, “and they cut the easiest thing there is to cut, which is spending on new application development and refreshing infrastructure,” Scott told an industry crowd in August.
+
+This story originally appeared at NextGov. Read more on NextGov:

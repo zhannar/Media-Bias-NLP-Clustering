@@ -1,0 +1,41 @@
+Business Analytics Will Help Healthcare, Just Not Overnight
+
+Healthcare systems designed in the 1990s need to get in sync with today's business analytics.
+
+The American healthcare system is in a precarious position. Healthcare providers face the pressures of the Affordable Care Act, rising operating costs, and patient outcomes that lag behind those of comparable countries. Care organizations need to rethink the way they systemize healthcare in order to make it more effective and efficient. Could business analytics be the panacea to healthcare's pains?
+
+Business analytics is generating buzz. It's one of a flood of potentially interesting technical innovations that have arisen to address these issues. The practice of efficiency-driven, intensive, statistical exploration of an organization's data, business analytics can create a tremendous payoff when done right. For example, Mount Sinai Medical Center in Miami Beach used business analytics to determine that it was overpaying for pacemakers, and negotiated a lower price from its supplier.
+
+At the HIMSS conference this year, we witnessed plenty of startups peddling immediate business analytics solutions to healthcare organizations. However, these companies face a classic Everett Rogers adoption problem. Rogers was a sociology professor who defined five factors that influence the decision to adopt or reject an innovation. There are three qualities from this list that vendors should incorporate into their products in order to thrive in this space: compatibility, trialability, and observability. Eventually, healthcare organizations will adopt business analytics, but the process likely will take several years. Here's why.
+
+Lack of compatibility between systems
+
+Although many healthcare providers would jump at the idea of incorporating business analytics into their organizations, integrating with existing infrastructure presents a unique set of challenges. Most hospital IT systems were installed between 1998 and 2005. A 2011 report from HIMSS states that while "applications purchased prior to 1999 may be nearing the end of their useful lives, particularly because of their inability to support the dynamic operational process changes that [we] expect will take place through 2015," they expected that "organizations will try to extend the useful life of these environments for at least two to three more years."
+
+[Words of warning? Healthcare Data Analytics Gone Wrong.]
+
+For the most part, these IT systems were designed to fill the needs of healthcare organizations in the 1990s. Most were not built with business analytics capabilities. These systems have been in use for somewhere between 10 and 16 years, and as a result have presumably been patched and re-coded depending on the hospital's needs. At this point, each system has its own unique architecture, and may not run efficiently due to multiple edits. Attempting to integrate business analytics software with a system that has amassed a colossal amount of technical debt is expensive for hospitals, and takes a substantial period of time.
+
+Lengthy timeframes for trialability
+
+For business analytics software to get to market, it needs to first undergo trials in one or two hospitals. If the initial integration for these trials requires a few years, forget the proverbial starting gate -- much of this software has not even left the stables. Additionally, both healthcare organizations and suppliers face the challenge of customization. Each healthcare organization, to some degree, requires its business analytics software to be tailor-made to its business; otherwise, it is less informative. This is time-consuming for the supplier. Additionally, point customization is an expensive business model for any company, and can result in business analytics software suppliers leaving the market before they become established.
+
+Challenges of observability
+
+For new software to be successful, staff members need to be trained on how to use it correctly. Moreover, after data has been analyzed, staff will need to further change their behavior to increase efficiency, according to the results of those analyses. Behavior change is time consuming, and delays results. But to even get to that point, suppliers need to determine appropriate metrics to demonstrate a clear link between behavior and financial benefit. Subsequently, measures for staff efficiency need to be developed, which can be a thorny process. Developing barometers and modifying behavior defers observable gains in efficiency, and healthcare organizations might abandon business analytics before reaping benefits.
+
+Planning systemic solutions
+
+Hospitals have traditionally looked at problems in isolation, to be addressed with point solutions. Going forward, however, hospitals should approach their management strategy from a higher level, planning systemic solutions with components that work in tandem to eliminate redundancy. Impending shifts mean the time is right for hospitals to replace legacy systems with new and integrated ones that are mapped-out well ahead of time to ensure that they are sufficiently transparent.
+
+Ensuring that business analytic programs are compatible with clinical analytics programs and inventory management software prior to installation, for example, and that all IT works in conjunction with staff procedures, is vital to a hospital's success. In this vein, vendors should collaborate to develop products that are compatible with each other in order to facilitate the adoption process for hospitals. Adopting these systems will not occur overnight, but the payoff will be tremendous, for an organization, its healthcare staff, and its patients.
+
+Here's a step-by-step plan to mesh IT goals with business and customer objectives and, critically, measure your initiatives to ensure that the business is successful. Get the How To Tie Tech Innovation To Business Strategy report today (registration required).
+
+Michael A.M. Davies is founder and chairman of Endeavour Partners, a strategy consulting firm specializing in mobile and digital technology. For 25 years, he has worked with telcos, device manufacturers, service providers, infrastructure ... View Full Bio
+
+Comment |
+
+Email This |
+
+Print |

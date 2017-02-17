@@ -1,0 +1,65 @@
+WASHINGTON — On a sultry day in late August, a dozen staff members of the Centers for Medicare and Medicaid Services gathered at the agency’s Baltimore headquarters with managers from the major contractors building HealthCare.gov to review numerous problems with President’s Obama’s online health insurance initiative. The mood was grim.
+
+The prime contractor, CGI Federal, had long before concluded that the administration was blindly enamored of an unrealistic goal: creating a cutting-edge website that would use the latest technologies to dazzle consumers with its many features. Knowing how long it would take to complete and test the software, the company’s officials and other vendors believed that it was impossible to open a fully functioning exchange on Oct. 1.
+
+Government officials, on the other hand, insisted that Oct. 1 was not negotiable. And they were fed up with what they saw as CGI’s pattern of excuses for missed deadlines. Michelle Snyder, the agency’s chief operating officer, was telling colleagues outright, “If we could fire them, we would.”
+
+Interviews with current and former Obama administration officials and specialists involved in the project, as well as a review of hundreds of pages of government and contractor documents, offer new details into how tensions between the government and its contractors, questionable decisions and weak leadership within the Medicare agency turned the rollout of the president’s signature program into a major humiliation.
+
+The online exchange was crippled, people involved with building it said in recent interviews, because of a huge gap between the administration’s grand hopes and the practicalities of building a website that could function on opening day.
+
+Vital components were never secured, including sufficient access to a data center to prevent the website from crashing. A backup system that could go live if it did crash was not created, a weakness the administration has never disclosed. And the architecture of the system that interacts with the data center where information is stored is so poorly configured that it must be redesigned, a process that experts said typically takes months. An initial assessment identified more than 600 hardware and software defects — “the longest list anybody had ever seen,” one person involved with the project said.
+
+When the realization of impending disaster finally hit government officials at the Aug. 27 meeting — just 34 days before the site went live — they threw out nearly 30 requirements, including the Spanish-language version of the site and a payment system for insurers to receive government subsidies for the policies they sold.
+
+Even then, the system failed a test of only 500 simulated users in late September. Panicked, agency officials sent out an urgent order to almost double the system’s data capacity, technicians involved in the project have now confirmed. But the site was still down more than half the time in mid-October.
+
+The acrimony between the Medicare agency and CGI had built steadily over the preceding months, the new interviews show. By late summer, teams of agency officials had parked themselves in CGI Federal’s headquarters in Herndon, Va., demanding on-the-spot reviews and demonstrations of new code that was never tested. Agency officials complained that CGI missed crucial deadlines and that it could not control other contractors, although the company said it had no power to do so.
+
+CGI and other contractors complained of endlessly shifting requirements and a government decision-making process so cumbersome that it took weeks to resolve elementary questions, such as determining whether users should be required to provide Social Security numbers. Some CGI software engineers ultimately walked out, saying it was impossible to produce good work under such conditions.
+
+“Cut corners, make date,” said one specialist, who like most of the people interviewed for this article would not allow his name to be used because the Obama administration has requested that all government officials and contractors involved keep their work confidential.
+
+Another sore point was the Medicare agency’s decision to use database software, from a company called MarkLogic, that managed the data differently from systems by companies like IBM, Microsoft and Oracle. CGI officials argued that it would slow work because it was too unfamiliar. Government officials disagreed, and its configuration remains a serious problem.
+
+Thanks to a huge effort to fix the most obvious weaknesses and the appointment at last of a single contractor, QSSI, to oversee the work, the website now crashes much less frequently, officials said. That is a major improvement from a month ago, when it was up only 42 percent of the time and 10-hour failures were common. Yet an enormous amount of work remains to be done, all sides agree.
+
+In a statement on Friday, the Medicare agency said officials held hundreds of meetings in the month before the start-up and tried their best to manage a highly complex project in a short time. “There were issues in meeting deliverables in a timely fashion,” the statement said. “We expected there would be issues. However, we did not anticipate the degree of the problems in the system.”
+
+One computer expert with intimate knowledge of the project said, “Literally everyone involved was at fault.”
+
+The Medicare agency was not everyone’s first choice to run the $630 million project. White House officials at first debated whether to name an outsider, such as Jon Kingsdale, who set up the landmark Massachusetts health insurance program, or even to create a new agency.
+
+Both those ideas fell through, and over the past three years five different lower-level managers held posts overseeing the development of HealthCare.gov, none of whom had the kind of authority to reach across the administration to ensure the project stayed on schedule.
+
+As a result, the president’s signature initiative was effectively left under the day-to-day management of Henry Chao, a 19-year veteran of the Medicare agency with little clout and little formal background in computer science.
+
+Mr. Chao had to consult with senior department officials and the White House, and was unable to make many decisions on his own. “Nothing was decided without a conversation there,” said one agency official involved in the project, referring to the constant White House demands for oversight. On behalf of Mr. Chao, the Medicare agency declined to comment.
+
+Sixteen companies were prequalified to bid on the project, according to administration officials. CGI was picked as the prime contractor over three other bidders: IBM, QSSI and Computer Sciences Corporation. But the Medicare agency reserved the role of general contractor, or system integrator, for itself, even though it lacked the necessary in-house software engineering resources to handle such a task.
+
+A pattern of ever-shifting requirements persisted throughout the project, including the administration’s decision late last year to try to redesign the site’s appearance and content to make it more informative to consumers, according to many specialists involved. The administration also decided to reconfigure it as a national site, instead of one where each state had its own front page, after many states decided not to open their own exchanges.
+
+IDEO, a consulting firm based in Palo Alto, Calif., that had done some early design prototypes, was enlisted to help revamp the site’s front end. The team at IDEO ended up as frustrated with the Medicare agency as other vendors.
+
+“It was monstrous, a monstrous impact,” said one specialist about the amount of code that had to be rewritten because of the redesign and other similar changes. Administration officials strongly dispute that, saying the impact was minimal.
+
+Within the Medicare agency itself, conflicts raged over priorities and revenues for the project. In July, for instance, officials argued over how many CGI employees should be devoted to the particular system that would handle payments to insurers.
+
+“We are one week out from production deployment, and we are being told already that it doesn’t work,” Jeffrey Grant, a Medicare agency official, wrote in an email to colleagues. “We believe our entire build is in jeopardy.”
+
+Eventually, Medicare agency officials began to suspect that staff members at CGI were intentionally trying to hide flaws in the system, to cover up for their inability to meet production deadlines. They ordered CGI technicians to drive from their offices near Dulles International Airport in Virginia to the agency headquarters near Baltimore to review their code with government supervisors.
+
+The Medicare agency was also growing frustrated with tension among contractors, noting that initial tests of parts of the system were being delayed because of “coordination issues” between CGI and QSSI, which won another part of the job after losing the lead contractor role.
+
+Mr. Chao seemed to colleagues to be at his wit’s end. One evening last summer, he called Wallace Fung, who retired in 2008 as the Medicare agency’s chief technology officer. Mr. Fung said in an interview that he told Mr. Chao to greatly simplify the site’s functions. “Henry, this is not going to work. You cannot build this kind of system overnight,” Mr. Fung said he told him.
+
+“I know,” Mr. Chao answered, according to Mr. Fung. “But I cannot talk them out of it.”
+
+In the last week of September, the disastrous results of the project’s inept management and execution were becoming fully apparent. The agency pressed CGI to explain why a performance test showed that the site could not handle more than 500 simultaneous users. The response once again exhibited the blame-shifting that had plagued the project for months.
+
+“We have not identified any inefficient and defective code,” a CGI executive responded in an email to federal project managers, pointing again to database technology that the Medicare agency had ordered it to use as the culprit, at least in part.
+
+Despite the behind-the-scenes crisis, the president expressed confidence about the exchange just days before its debut.
+
+“This is real simple,” Mr. Obama said, during a speech in Maryland on Sept. 26. “It’s a website where you can compare and purchase affordable health insurance plans side by side the same way you shop for a plane ticket on Kayak, same way you shop for a TV on Amazon. You just go on, and you start looking, and here are all the options.”

@@ -1,0 +1,55 @@
+With hackers stealing tens of millions of customer details in recent months, firms across the globe are ratcheting up IT security and nervously wondering which of them is next.
+
+The reality, cyber security experts say, is that however much they spend, even the largest companies are unlikely to be able to stop their systems being breached. The best defence may simply be either to reduce the data they hold or encrypt it so well that if stolen it will remain useless. Only a few years ago, the primary IT security concern for many large corporations was stopping the loss or theft of physical disks or drives with customer information.
+
+Now, much harder to detect online thefts are rife.
+
+Last week, Reuters revealed a host of big name U.S. Fortune 500 companies were on a hiring spree for board level cyber security experts often offering $500,000-700,000 a year, sometimes more.
+
+Related: Porn, Drugs, Hitmen, Hackers: This Is the Deep Web
+
+Many have high-level backgrounds, at much lower pay, at signals intelligence agencies such as the U.S. National Security Agency or Britain's GCHQ - although security experts say European firms are reluctant to hire ex-NSA staff following revelations over the scale of U.S. cyber monitoring by whistleblower Edward Snowden.
+
+"Information has become toxic for retailers because the more they have, the bigger a target they become," said Lamar Bailey, security researcher at IT security firm Tripwire. "The ongoing rash of attacks brings into question what information an organisation should be keeping." U.S. retailer Target ousted its CEO Gregg Steinhafel in May after the firm said foreign hackers had stolen up to 70 million items of customer data including some PIN numbers late last year.
+
+Industry watchers said purchases on its website dropped noticeably in the run-up to Christmas with the breach also sparking lawsuits and official investigations.
+
+A report from cyber security think tank the Ponemon Institute showed the average cost of a data breach in the last year grew by 15 percent to $3.5 million. The likelihood of a company having a data breach involving 10,000 or more confidential records over a two-year period was 22 percent, it said.
+
+The corporate fallout from the largest recorded breach so far, the loss of password data on some 145 million customers from online retailer eBay, is not yet clear.
+
+A senior eBay executive told Reuters last week that "for a very long time" the firm had not realised customer data had been seriously compromised by the attack.
+
+ABORTION CHARITY FINED
+
+Much smaller organisations, even charities, are also discovering they have much to lose.
+
+UK charity the British Pregnancy Advisory Service (BPAS) - which provides information on abortions and runs clinics - is appealing a 200,000 pound fine after an anti-abortion campaigner was able to access websites details of women asking for advice.
+
+Britain's Information Commissioner said the charity had failed in its responsibility to store records securely.
+
+"I do feel sympathy for them," said Calum MacLeod, vice president for Europe, Middle East and Africa at Lieberman Software Corporation. "They were never going to be able to attract top IT staff and with their limited resources, it will very often mean that they will outsource services such as website development. This shows that great care must be taken."
+
+IT security experts say firms are becoming increasingly careful, now sometimes instructing tens of thousands of users to change passwords if even a single account appears compromised. Many are also taking out specialist insurance.
+
+Still, a study of 102 UK financial institutions and 151 retail organisations conducted earlier this year by Tripwire showed 40 percent said they would need 2 to 3 days to detect a breach.
+
+A February report by BAE Systems Applied Intelligence, the cyber arm of the British defence firm, showed customer data loss was by far the largest IT security concern for firms in the United States, Canada, Australia and Britain. It significantly outranked worries over lost trade secrets and interruption of service.
+
+Hackers seek the most complete range of information they can get on individual customers. Obtaining a complete dataset of password, date of birth, e-mail address, phone number and other personal data can be more valuable than simple credit card details.
+
+"The theft of financial information has a limited lifespan, until we make changes the account details," said Andy Heather, vice president for Europe, Middle East and Africa at Voltage Security. "The personal information that can be obtained by accessing someone's account profile has much broader use and can be used to commit a much wider range of fraud."
+
+Related: The Pentagon’s New Army Is a Convention of Hackers
+
+Banks have been ahead of the curve when it comes to tightening IT security and have suffered less than retailers in recent months. Increasing numbers of firms are also using online payment operator PayPal instead of taking credit card numbers themselves, reducing the amount of data they hold.
+
+The better data is encrypted, the less serious it is when it is stolen though even some encrypted passwords can be cracked with sufficient computer power.
+
+Other strategies involve using "honeypots" - false folders designed to look as though they contain valuable data - that can be used to mislead and even detect attackers.
+
+The most common route in for criminals, however, is gaining control of someone else's user profile, allowing them to sneak into networks and steal further data.
+
+Some worry the high-profile nature of recent hacks may have actually made such identity theft easier. Security experts report an increase in "phishing" attacks - fake e-mails purportedly from major firms mentioning recent security breaches and prompting people to a dubious link to reset the password.
+
+"Any time an event like this occurs it opens the door for phishing campaigns to be more effective," said Troy Gill, senior security analyst at AppRiver. "No organisation is immune."

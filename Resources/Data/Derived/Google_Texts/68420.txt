@@ -1,0 +1,61 @@
+David Powner, director of Information Technology Management Issues at Government Accountability Office, at far left, is one of the witnesses at a hearing on the implementation of the Affordable Care Act. (REUTERS/Larry Downing)
+
+“If you look at OMB documentation, there are exhibits where you report spending by fiscal year and through the fiscal year ’13. So, by the end of September, it was north of $600 million spent.”
+
+— David Powner, director of information technology management issues at the Government Accountability Office, testimony before Congress, Nov. 13, 2013
+
+We receive a steady stream of tips and insights from many readers every day. And some of our readers are great fact checkers, pointing The Fact Checker in interesting directions.
+
+Some weeks ago, we wrote a column examining the cost of developing the troubled HealthCare.gov Web site. We said we would keep updating it as more information emerged. The most recent figure we had, courtesy of congressional testimony by Health and Human Services Secretary Kathleen Sebelius, was $174 million, as of the end of August.
+
+A reader e-mailed that it was time for an update, as Politico had reported that an official at the Government Accountability Office has testified before Congress that the figure actually was “north of $600 million.”
+
+That seemed a big difference. So we decided to investigate.
+
+The Facts
+
+At the hearing, held on Nov. 13 by the House Oversight and Government Reform Committee, Powner repeated the $600 million figure several times. He made clear he was speaking about all IT funding for the health care-exchanges, including what was spent at the Internal Revenue Service. One lawmaker lauded him as the “$600 million man,” and several other lawmakers, including Chairman Darrell Issa (R-Calif.), cited the number as well.
+
+The Fact Checker contacted Powner and asked how he came up with this figure, and he shipped us a document that he said appears on the federal government’s IT Dashboard for the health-insurance exchanges. He also made it clear that he believes any cost-figure for the Web site should include back-end and front-end expenses necessary for it to run, such as creating the data hub.
+
+The document (known as “Exhibit 300”) shows three columns (Payment Year 2011, Calendar Year 2012 and Budget Year 2013) that add up to nearly $618 million. But note that these are all slightly different categories. The document also said it was last revised on March 1, 2012.
+
+We forwarded the document to the reader who had originally contacted us, as he had said he used to be a contracting officer for the government. Thus he is familiar with Exhibit 300s. He immediately spotted that it was out of date, and forwarded us the most current version, dated Aug. 1, 2013, which he found on the IT Dashboard. This time, the columns added up to only $318 million.
+
+Oops, that’s a big difference. The main reason for the change was that $300 million less was spent in Calendar Year 2013 than predicted a year earlier.
+
+“I’m not particularly fond of these budget documents, since they are mostly for planning and justifying programs and sometimes bear little relation to reality,” our reader said. “They are not accounting reports and sometimes do not get enough scrutiny to be reliable.” He noted the document claimed the exchanges would start on Jan. 1, 2014 — not Oct. 1, 2013. The January date may “have been prescient, but I don’t think it was the intent at the time it was written,” he added.
+
+The document also claims one full-time employee is working on the project, for a cost of $100,000. That doesn’t make much sense.
+
+Administration officials agreed that Exhibit 300 documents would not be a useful guide for determining the cost of the Web site. The documents, intended more for internal use, may include investments that are irrelevant to that project — or miss aspects that should be included.
+
+Powner was surprised to learn there was a more up-to-date document. He questioned why none of the other government officials on the panel questioned his numbers. (Frankly, many witnesses will tell you that the most important rule of congressional testimony is to remain silent unless asked a direct question.)
+
+There are two links on the IT dashboard, one for “Current Exhibit 300” and one for “FY13 Exhibit 300.” The most recent version is under the “current” link, but Powner said that only the older version was available at both links before the testimony. We can’t rule that in or out, but Google search shows the newer version was uploaded to the Web on Aug. 1 and the Web page says it was last updated on Aug. 30. Google cache shows that the Web page looked exactly the same three days before the hearing.
+
+Despite citing the wrong document, Powner said he is convinced the full figure for HealthCare.gov could well be above $600 million. He said his staff has information that just the IRS portion cost $534 million, and that GAO will conduct a full audit to find out the real figure.
+
+The Pinocchio Test
+
+Obviously these numbers vary greatly on what is counted. We should note that HHS’s 2014 budget justification to Congress estimated it would cost $2 billion to support the first year of program operations for federal marketplaces (See Page 2). About $450 million would be raised through user fees, and the rest came from appropriations. It is unclear how much would be spent on IT.
+
+Moreover, an HHS official says there is another $630 million in potential obligations for HealthCare.gov going forward. [Update, Dec. 12: In testimony on Capitol Hill, Sebelius provided updated figures. She said that HHS had spent $319 million on the website through the end of October, though a total of $677 million has been obligated, meaning the amount could get that high if bills are submitted.]
+
+Whether all of that money will be spent is another question, but clearly money is being burned now to fix the problems that have emerged. So, when all is said and done, the cost of the Web site could end up above $600 million. If you add in other costs, it could be potentially higher.
+
+Still, GAO clearly erred in citing an out-of-date figure to Congress, even if the mistake may have been inadvertent — especially because lawmakers and the media immediately began citing it.
+
+Powner is not a politician or an administration appointee, and final cost figures are not yet apparent, so we will withhold any Pinocchios. But we offer kudos to the reader who first raised this issue — and to all of our readers who pepper us with suggestions and ideas.
+
+Verdict Pending
+
+
+
+
+
+(About our rating scale)
+
+NEW: Send us facts to check by filling out this form
+
+Follow The Fact Checker on Twitter and friend us on Facebook

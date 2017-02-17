@@ -1,0 +1,19 @@
+A new study turns music theory on its head, making it easier for non-musicians to understand elements of music — perhaps, there are more commonalities than you might have thought.
+
+A new study turns music theory on its head, making it easier for non-musicians to understand elements of music — perhaps, there are more commonalities than you might have thought. Catherine Singleton/CC BY-SA 2.0
+
+TV On The Radio’s lead singer Tunde Adebimpe once told Rookie, “Songs are like spells, you know? You put a spell in someone’s mind… it’s a pretty effective thing.” What determines if the spell cast is of a metal variety, or jazz, or rock, or country? A new study published in The Journal of the Acoustical Society of America may have the answer.
+
+According to study researchers, our perception of music can be boiled down to nine elements: speed, rhythmic clarity, rhythmic complexity, articulation, dynamics, modality, overall pitch, harmony, and brightness (if it’s dark or light). This rivals existing models used to predict an individual’s preference for certain genres, which analyze audio signals, musical elements, musical genre, as well as resulting emotions: happy, sad, and tenderness. The nine elements at the center of the present study are also known as perceptual features, and it’s these features researchers predict offer a better understanding of the music people like compared to computational models.
+
+“Getting a group of people to agree on anything having to do with music is — as any DJ can attest — not easily done,” the press release from the KTH Royal Institute of Technology prefaced. “But by focusing on nine key features of music, the team was able to find some commonalities in perception that could prove useful.”
+
+The team at KTH conducted an experiment on 20 people, in which they listened to 100 ringtones and 110 snippets of music featured in film. Then, participants rated what they heard based on the aforementioned perceptual features. Essentially, these features reflect how non-musicians try to understand what they’re listening to, thus what they do or don’t like. And for the most part, researchers found the focus on perceptual features generated more agreement among participants than traditional models.
+
+“The nine perceptual features work, and the test subjects’ own references and cultural differences do not matter,” lead study author Anders Friberg said. “We could take 20 new volunteers, and the result would be the same.”
+
+Friberg is saying the reason traditional models don’t often show musical commonalities is because non-musicians don’t approach music the same way musicians do; music theory is lost on those who don’t study it. For example, in this study, speed is one of the perceptual features. In musical theory, this is known as tempo, or the amount of notes in a given time. Non-musicians easily associated speed with movement, whereas they struggled to infer this from a word, like tempo.
+
+When music can be easily approached and understood, it's easier to see the commonalities otherwise muddied by musical jargon.
+
+Source: Friberg A, Schoonderwaldt E, Hedblad A, Fabiani M, Elowsson A. Using listener-based perceptual features as intermediate representations in music information retrieval. The Journal of the Acoustical Society of America, 2014.

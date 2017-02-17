@@ -1,0 +1,143 @@
+We’re three debates into the Republican primary season and it’s starting to become routine. Blame the media? Check. Call for a cut on government spending? Check. Praise Reagan? Check.
+
+The process has become so rote, you might as well automate the whole thing. Which is what we did.
+
+We made a group of bots that attempt to simulate a fresh, never-seen-before debate transcript, generated from the debates that have already occurred.
+
+Each of the 11 bots is based on one of the main Republican contenders, with an extra bot that combines the moderators from CNN, Fox News, and CNBC. The bots mix and match together all the words and phrases candidates have said in previous debates, in attempts to form a complete sentence.
+
+With the bots programmed, we launched our own debate. Here is the moderator’s auto-generated introduction, as well as an opening statement from each of the candidates:
+
+MODERATOR: To viewers who are just joining us, welcome to the first debate night of the road. Former Florida Governor Jeb Bush.
+
+BUSH: We’re going to show up?
+
+MODERATOR: Doctor Ben Carson.
+
+CARSON: I didn’t say that I sound logical also.
+
+MODERATOR: New Jersey Governor Chris Christie.
+
+CHRISTIE: I don’t have a better life.
+
+MODERATOR: Texas Senator Ted Cruz.
+
+CRUZ: Well, I’ve been leading the fight in the Oval Office, and the Mensheviks.
+
+MODERATOR: Former Hewlett-Packard CEO Carly Fiorina.
+
+FIORINA: One has something to do anything to solve the problem.
+
+MODERATOR: Former Arkansas Governor Mike Huckabee.
+
+HUCKABEE: Just today — just today, there was a little kid, we eradicated it.
+
+MODERATOR: Ohio Governor John Kasich.
+
+KASICH: Now, let me respond.
+
+MODERATOR: Kentucky Senator Rand Paul.
+
+PAUL: He was asked whether or not Iran has complied.
+
+MODERATOR: Florida Senator Marco Rubio.
+
+RUBIO: It’s called the mainstream media who every single time it’s ever been tried.
+
+MODERATOR: And Mr. Donald Trump.
+
+TRUMP: Jeb said — was you’re going to come in legally.
+
+From there, the moderator begins asking a series of questions to the candidates, giving them ample time to respond. These were some of the best exchanges that have come up so far.
+
+MODERATOR: Senator, the Tax Foundation says — it says — has looked at your competitors, if you were CEO of Hewlett Packard.
+
+RAND PAUL: Every time you did a case, you got a warrant from a position of strength, but I don’t want to put poor people in jail!
+
+MODERATOR: You don’t favor a constitutional shred of capacity for them to do that.
+
+TED CRUZ: We’ll kill the terrorists, we’ll repeal Obamacare, and we won a historic victory saying the World Court, and I give you my word, if I’m elected president, let me say on that — Rand is exactly right.
+
+MODERATOR: I want to get business-related favors.
+
+MIKE HUCKABEE: And life would be a safe place, and there wouldn’t be punished for their work, and for what they earn, whether it’s the EPA, there is no controversy about the survival of Western civilization.
+
+MODERATOR: Dr. Carson, we know how she will come around the bend, I promise.
+
+BEN CARSON: Negotiate a reasonable minimum wage, and index that so that there is no question that some people go overboard when it comes to trying to divide us, when in fact our strength is in a fantasy world.
+
+MODERATOR: Dana, I want to turn… …I want to give Mr. Trump… … Mr. Trump, 30 seconds.
+
+DONALD TRUMP: We want to go into Iraq, and I think maybe my greatest weakness is that if you look at what’s going in this world by the way, this country from outside, and I think that where he was, and the drugs coming in.
+
+Related What Cher taught Carrie Brownstein about glamour
+
+MODERATOR: Governor Bush, the tax reform bill that Ronald Reagan signed in 1986 cut the top issues they are talking about you, not surprisingly, come from your tax plan, are there specific steps you would call him left-wing.
+
+JEB BUSH: But we certainly have to make sure that the judgment that you would have thought would have thought would have made the clarity the important thing, and that’s exactly what happened in the book, which is a Mexican-American.
+
+MODERATOR: You’ve said that you — to the presidential debate starts now.
+
+CHRIS CHRISTIE: Senator Paul, you know, the hugs that I remember are the hugs I remember, and those had nothing to do — and I don’t disagree with Senator Paul’s position that we need to go at the time was right.
+
+MODERATOR: One minute for answers, 30 seconds to make peace with the logo over your shoulder. Does that sound to you in this campaign, you sat on the East Coast, and the veterans, which you will hear us asking the candidates for tonight’s debate with Facebook.
+
+MARCO RUBIO: He understood what was so special about this for the safety and security of our country and said that you’re going to authorize use of force if you’re running for president because I know the Democrats have the ultimate super PAC, it’s called the Constitution of the Soviet Union was the week that she got exposed as escaping Cuba.
+
+MODERATOR: I … I understand all of this.
+
+JOHN KASICH: The nominee of this country, some of whom having trouble, you know, when we think about how we respect human rights, because that we don’t want this organization to get it done because I’m realistic.
+
+MODERATOR: Yes, thank you very much.
+
+CARLY FIORINA: There is no Constitutional role for the Federal Government should not talk to, because the head of the benefits of a presidential campaign is the highest calling of leadership is not the same as the marijuana that Jeb Bush smoked 40 years ago.
+
+Finally, the moderator wraps things up and gives the candidates an opportunity for one final statement.
+
+MODERATOR: Final statement from each of you. Governor Jeb Bush.
+
+BUSH: The government has tried it their way, and it will be peace through strength.
+
+MODERATOR: Doctor Carson.
+
+CARSON: Real leadership is what happens in our unity.
+
+MODERATOR: Governor Christie.
+
+CHRISTIE: But here’s the news to the funerals.
+
+MODERATOR: Senator Cruz.
+
+CRUZ: The first thing I intend to do is audit the Fed.
+
+MODERATOR: Mrs. Fiorina.
+
+FIORINA: I cut the bureaucracy down to size and power of government.
+
+MODERATOR: Governor Huckabee.
+
+HUCKABEE: I think it is just a blob of tissue?
+
+MODERATOR: Governor Kasich.
+
+KASICH: There’s a — to keep them in the beginning.
+
+MODERATOR: Senator Paul.
+
+PAUL: The Kurds deserve to be in good hands to be adults and govern and do all this.
+
+MODERATOR: Senator Rubio.
+
+RUBIO: I would go on to add reforms, not just increase the numbers, but add reforms.
+
+MODERATOR: And Mr. Trump.
+
+TRUMP: One of the people that you denied that, and I have opened have thrived.
+
+MODERATOR: Thank you all very much, and that will do it for the first time on October the 13th.
+
+The algorithmic debate may not always make the most sense, but the gist of what the candidates stand for is there: cutting government spending, repealing Obamacare, and fighting terrorists. There’s just an occasional bit of nonsense added about invading Kentucky and eradicating little kids.
+
+As long as we keep the script running, these bots will continue to argue with each other and the moderator, generating fresh transcripts forever.
+
+In that way, the bots are very unlike the real debates: Those only seem to go on forever.

@@ -1,0 +1,85 @@
+At the JP Morgan Annual Health Care Conference this week, Acting CMS Administrator Andy Slavitt offered the healthcare industry something very rare: a straightforward, plain-talking look into its immediate regulatory future.
+
+After years of back-and-forth proposals, last-minute exemptions, extensions, and broad modifications related to the EHR Incentive Programs, Slavitt bluntly told his audience exactly what many of them wanted to hear.
+
+In 2016, “the meaningful use program as it has existed, will…be effectively over and replaced with something better,” Slavitt stated.
+
+A good idea gone bad
+
+The words were as surprising as they were sweet to the growing number of stakeholders opposed to the ambitious – and some say untenable – plans for Stage 3 of the EHR Incentive Programs, which would have required another major technology upgrade and significant organizational changes by 2018.
+
+The brisk pace and all-or-nothing nature of the EHR Incentive Programs have left a trail of vitriol following each of CMS’ efforts to incrementally improve the program, despite its indisputable success at bringing electronic health records into the vast majority of provider organizations.
+
+As with so many other government initiatives, many observers would argue that the ends don’t justify the means. Provider may have EHRs in place, but their technology tools are often borderline unusable, causing productivity to plummet as convoluted workflows potentially put patients at risk.
+
+Health information exchange and data interoperability remain spotty at best, due in part to the fact that the stampede to collect Stage 1 incentive dollars created an artificial demand for technologies that were not mature enough to meet future goals of the meaningful use programs.
+
+Expensive EHR replacements and required upgrades to new editions of certified EHR technology (CEHRT) left providers with empty pockets and a sour taste in their mouths.
+
+Speak up – CMS is listening
+
+To its credit, CMS has done its best to respond to the pain points caused by meaningful use by repeatedly expanding the scope of exemptions, offering more opportunities for public comment, and even significantly modifying regulations to cut some of the trickiest thresholds.
+
+“Since late last year we have been working side by side with physician organizations across many communities — including with great advocacy from the AMA — and have listened to the needs and concerns of many,” Slavitt said during his speech.
+
+Now, as the shifting tides of partisan politics open up uncertainties about the future of the federal vision for healthcare improvement, CMS is moving the spotlight away from meaningful use and towards something that everyone in the industry can agree on: a simpler, more interoperable, more cost-effective framework for ongoing reform.
+
+“The implementation of the bipartisan MACRA legislation is a major item squarely on our punch list that has everyone’s attention,” Slavitt said. “At its most basic level, it is a program that brings pay-for-value [reimbursement structures] into the mainstream through something called the Merit-Based Incentive Program (MIPS), which compels us to measure physicians on four categories: quality, cost, the use of technology, and practice improvement.”
+
+The Medicare Access and CHIP Reauthorization Act (MACRA) brought an unusual moment of unity to the healthcare industry as physicians celebrated the demise of the hated Sustainable Growth Rate (SGR) formula, which brought an annual threat of steep Medicare payment cuts and a yearly battle in Congress to institute temporary patches to avoid a financial meltdown.
+
+The legislation also brought MIPS onto the horizon. The program was envisioned to be a successor to meaningful use, rolling the last few years of the EHR Incentive Programs into a three-pronged quality initiative that promotes value-based reimbursement and broader use of alternative payment models (APMs) to improve quality and motivate providers with bonuses and penalties.
+
+CMS has started to slowly roll out the details of the initiative, making sure to emphasize that the framework will do its best to avoid some of the pitfalls of prior reform schemes.
+
+“The stakes are high for this program,” acknowledged Slavitt. “As any physician will tell you, physician burden and frustration levels are real. Programs designed to improve often distract. Done poorly, measures are divorced from how physicians practice and add to the cynicism that people who build these programs just don’t get it.”
+
+“Simplify, simplify.”
+
+Simplification is the name of the game for MIPS, Slavitt continued, echoing the famous quote by Henry David Thoreau. “We have the opportunity to sunset three old programs and align them together in a single new program. That program needs to be streamlined and simple to use so physicians can focus where they need to – on their patients.”
+
+CMS has been careful, this time, to collect copious industry feedback before committing to its designs, Slavitt stressed. “We are designing from the outside-in,” he said. We started by working with front-line physicians, tech companies, and practice managers over a four day session and through an RFI to garner direct feedback on the right measures for each specialty and how to implement the program most simply. [AMA CEO Dr. James L. Madara] and the AMA team were of significant help.”
+
+The American Medical Association has been a vocal critic of meaningful use, decrying the financial and administrative burdens that the program has placed on overworked, stressed out physicians. At its 2015 Interim Meeting in November, the society vowed to take on the “morass of regulation” that has “failed to focus on interoperability and has instead created new barriers to easily exchange data and information across care settings.”
+
+Slavitt wants providers to know that CMS isn’t just listening, but is taking action on the critical issue of health data exchange after a long year in which protests against a lack of health data interoperability forced some vendors to change their tune on HIE fees and data ownership questions.
+
+“We are deadly serious about interoperability,” he asserted. “We will begin initiatives in collaboration with physicians and consumers toward pointing technology to fill critical use cases like closing referral loops and engaging a patient in their care. And technology companies that look for ways to practice ‘data blocking’ in opposition to new regulations will find that it won’t be tolerated.”
+
+The EHR vendor community has previously protested that there is little hard evidence of intentional or malicious information blocking, but did admit that sometimes unavoidable circumstances get the better of health information exchange efforts.
+
+They may be less likely to protest the use of open, standards-based application programming interfaces (APIs), which allow plug-and-play tools to bolt onto existing health IT infrastructure. Many vendors have already eagerly embraced the API mentality, leveraging emerging standards such as FHIR to develop a more interoperable ecosystem and enable the development of healthcare’s very own Internet of Things.
+
+In the future CMS will be “requiring open APIs in order to the physician desktop can be opened up and move away from the lock that early EHR decisions placed on physician organizations so that allow apps, analytics tools, and connected technologies to get data in and out of an EHR securely,” Slavitt said.
+
+“We remain optimistic”
+
+Following the speech, more than thirty hospitals and health systems set a letter to HHS Secretary Sylvia Burwell reiterating their deep concerns about what would happen if Stage 3 meaningful use went forward as currently planned.
+
+Published on the blog of Beth Israel Deaconess CIO John Halamka, the letter starts out by recognizing the success of meaningful use in driving EHR adoption into 80 percent of healthcare organizations, but quickly points out that “we must now turn our attention to ensuring that all of the practices in our respective communities have high-functioning technology to achieve interoperability across all care settings.”
+
+“Our collective experience with MU has shown that the current measures and pass-fail approach deter participation,” the letter continues. “In particular, the MU program has diverted clinician, staff, and other resources away from activities with greater patient benefit and has forced technology to develop in a way that limits innovation.”
+
+“The Stage 3 final rule, like its predecessor rules, is too focused on pass-fail requirements and lacks emphasis on outcomes,” said the organizations. Stage 3 also lacks the ability to truly address foundational interoperability concerns, as it causes health information to be “shoehorned into a format that was designed for MU measures, and not in a way that accommodates the needs of physicians and patients.”
+
+“By maintaining this flawed structure, we do not believe Stage 3 will support movement towards more innovative care models or encourage continued participation.”
+
+Halamka adds that following Slavitt’s speech, the unhappy healthcare organizations are “optimistic” that appropriate changes may materialize.
+
+When it comes down to it, what are the odds?
+
+Slavitt may have big plans for 2016 and beyond, but is the end of meaningful use really as certain as naysayers might hope? After all, as Acting Administrator, Slavitt has yet to face a confirmation hearing that would put him firmly in charge.
+
+Congress has already it made abundantly clear that politics will play a major role in that process, and Slavitt’s history in healthcare is not completely clear of blemishes. Partisan bickering and his own experience with the rocky rollout of Healthcare.gov may cause him problems in front of a legislature still tussling over the fate of the Affordable Care Act.
+
+Indeed, even bigger changes may be afoot for CMS and its regulatory plans as the Obama Administration bows out, said Robert Tennant, Senior Policy Advisor at the Medical Group Management Association (MGMA), to HealthITAnalytics.com in April, immediately after the release of the initial Stage 3 proposed rule.
+
+“Something important is happening in 2016, and it’s called a presidential election,” he pointed out. “We’re going to have a brand new administration. And as a student of politics, I can tell you that no new president comes in and simply says, ‘Oh, yeah, whatever policies my predecessor had, we’ll just continue those.’ That never happens, even if we stay within the same party. So, the reality is that everything could change.”
+
+It may be too early to throw a farewell party for meaningful use, but Slavitt’s bold assertions that CMS is ready to face a future of increased transparency, responsiveness, and streamlined operations likely bodes well for providers who have previously had little insight into what was churning under the surface of the federal agency.
+
+“From my not-so-distant past, I remember how CMS often felt opaque to me, and I probably said more than once how helpful it would be to know CMS’s agenda rather than divining them by poring through an often intricate set of regulations like they were Fed minutes,” Slavitt said.
+
+“I’m blessed to be here now because in many ways the day-to-day work of CMS at this point in time is to start up new consumer and provider-facing capabilities and then scale them, nurture and mature them. It demands we change our culture and execute with clarity, with discipline, and with collaboration. Things we haven’t always been known for.”
+
+“We maintain our cultural focus on listening and learning that we really launched in earnest this year,” he concluded. “We are committed to continuing to work side-by-side with you to make this happen.”

@@ -1,0 +1,51 @@
+Earlier this month, new federal and state-run health care exchange websites were overwhelmed with unexpectedly high traffic as millions of Americans got their first glimpse of Obamacare online. Indications of how many people actually tried but failed to enroll are mixed. But reaction to the user experience has been consistent: It sucked. Most users faced slow load times and confusing error messaging, and only a small number registered successfully.
+
+Fortunately, most of these issues will be fixed shortly as traffic slows and back-end issues are resolved. What will become increasingly important in the coming weeks and months is how effective these sites are at educating and encouraging consumers to sign up by the March 31, 2014, deadline.
+
+We’re in the midst of an exciting design opportunity. Consumers can buy almost anything online, so why not insurance? It’s not an easy problem and will require a massive shift in the way we think about health insurance. So what’s the key to a successful shift? Creating seamless and accessible user experiences that work for a diverse population.
+
+I took a look at a number of state-run exchange sites to see how their user experiences align with some of the best practices that guide the UX team at Huge.
+
+1. Engage users quickly.
+
+Unlike in most e-commerce experiences, users aren’t quite sure what they’re looking for or need when shopping for health care online. Exchange sites can reduce information overload by minimizing content on the homepage and providing clear calls-to-action (CTAs) to guide users to the most relevant content.
+
+
+
+Maryland Health Connection
+
+Maryland’s site, for example, provides clear, engaging CTAs that get the primary user groups, individuals and small business owners, to the right content, right away.
+
+Hawai’i Health Connector
+
+Hawaii’s main CTA, meanwhile, encourages users to call a number. It’s only after some digging that users discover they can sign up for insurance online—through an entirely separate site.
+
+2. Set expectations clearly.
+
+While many users may be familiar with the process of booking a flight online, few will have any idea what’s involved when purchasing an insurance plan. By exposing all the steps in the process up front, these sites can meet two main user needs at once: 1.) educate users about what’s involved, and 2) keep them motivated to follow through on purchase.
+
+HealthSource RI
+
+Rhode Island’s site walks users through the application process, clearly communicating their current step and how much further they have until completion.
+
+Vermont
+
+After clicking "Apply" on Vermont’s site, users are taken to this page. It’s a dead-end: most users will need to register, but that link is hidden. It also doesn’t communicate what the user can expect next.
+
+
+
+3. Prepare for the worst.
+
+Launch day crashes are all too common. Poorly conceived error handling confuses and frustrates users, potentially deterring them from returning to the site. Plus, it can get expensive—when users can’t navigate a site on their own, they may resort to phoning a call center. Designers should work closely with developers to identify potential problem areas and develop systems and messaging to handle a variety of worst-case scenarios.
+
+
+
+Nevada HealthLink
+
+Nevada’s site alerts users to a specific issue on the site in an unobtrusive way and provides users with a single, clear instruction. Also, visitors can still browse and learn about the health coverage while other parts of the site are unavailable.
+
+Massachusetts Health Connector
+
+
+
+Massachusetts’s site provides a vague error message that gives users multiple instructions: Keep hitting refresh forever, or check back later. When confronted with zero information, users may not return at all.

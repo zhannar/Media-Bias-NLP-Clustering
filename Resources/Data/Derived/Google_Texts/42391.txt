@@ -1,0 +1,35 @@
+The numbers just don’t add up.
+
+The “abnormally high traffic” that crippled New York’s ObamaCare Web site for two days may have resulted from a malicious attack by hackers, computer-security experts said Wednesday.
+
+The NY State of Health site recorded an astounding 10 million visits after opening for business Tuesday — although there are only about 1.1 million state residents without health insurance and just 330,000 are expected to buy ObamaCare for next year.
+
+By comparison, the federal government’s heavily promoted HealthCare.gov site — a portal to the sites for all 50 states, the District of Columbia and America’s territories and commonwealths — drew just 4.7 million visitors the first day.
+
+Late Tuesday, NY State of Health Executive Director Donna Frescatore said technicians were “looking into the cause of this abnormally high traffic.”
+
+Darien Kindlund, manager of threat intelligence for the FireEye network-security company, said “the sheer volume” of visits to New York’s site pointed to a possible “distributed denial of service,” or DDoS attack, in which virus-infected computers bombard a site with traffic.
+
+“The numbers are fairly compelling,” Kindlund said.
+
+Hemant Jain, vice president of engineering for Fortinet, a network-security firm, said that “because [ObamaCare] is such a political issue, it could very well be a DDoS attack.”
+
+“Certainly, you don’t expect everyone to wake up and access a Web site like that, so I have a feeling it may be an attack,” he said.
+
+Matthew Prince, co-founder and CEO of CloudFlare, another security firm, said that while there wasn’t yet enough evidence to prove an attack, “it does not take a lot of technical resources” and hackers can be hired to disrupt a site for just a couple thousand dollars a day.
+
+“There have to be people who disagree with [ObamaCare] enough to do that,” he added.
+
+Throughout the day, the Web site displayed a banner message telling users to return later.
+
+Freelance writer Cristina Gibson, 29, of Union Square, wanted to see how ObamaCare premiums compare to the $345 a month she currently pays for health insurance, but gave up in frustration after spending 40 minutes trying to navigate the site during a lunch break from jury duty.
+
+“I’m interested in this, but not interested enough to be behind on stuff in my life,” she said.
+
+Lawyer Greg Crawford, 50, of suburban Katonah, said he has Crohn’s disease and is hoping that ObamaCare will slash the “burdensome” cost of his current coverage.
+
+But after creating an account Tuesday, Crawford got booted off the site and was unable to log in during a half-dozen attempts Wednesday.
+
+“I’m not a big fan of the government taking over all this stuff politically, but I’m going to benefit from it tremendously as an individual, and I just wish it would work,” he said.
+
+Additional reporting by Tara Palmeri and Lorena Mongelli

@@ -1,0 +1,47 @@
+Editor's note: In the three-part cover story of our January issue, Healthcare IT News takes a look at the three big challenges health information technology is trying to help solve: quality improvement, improved access to care and cost reduction.
+
+The famous "Triple Aim" framework developed by the Institute for Healthcare Improvement seeks to improve the patient experience of care, improve population health and reduce the per capita cost of healthcare. As the industry tries to tackle all three of these goals at once, IT – whether it's electronic health records, patient portals, health information exchanges, telemedicine technologies or business intelligence and revenue cycle tools – is instrumental.
+
+In Part 2 of this series (Part 1 ran yesterday and Part 3 will run Jan. 14), we focus on cost.
+
+________________________ _______________________ _______________________ _______________________ _________
+
+It's no secret that Americans pay a pretty penny for their healthcare – the highest in the developed world, in fact. What's more, by many reports, they're not even getting the quality outcomes to match that hefty price tag. As providers face pressure to reduce costs on the front end – for their patients – they're also feeling the pinch on the back end: their bottom lines. For hospitals and health systems, especially, 2015 is a landmark year for everything related to costs. In 2013, national health expenditures approached $3 trillion, representing $9,255 per person and accounting for a whopping 17.44 percent of the gross domestic product. In the wake of the Affordable Care Act, the industry now more than ever is facing pressure to be accountable and value based. That's often a struggle for many.
+
+So as the industry works to comply with myriad regulatory changes that have been implemented, what’s top of mind this year for the healthcare finance folks? For Karen Mihalik, executive director of revenue cycle management at the Cleveland Clinic, there are several things that come to mind.
+
+_______________________ ________________ __ __ __ _ __ _ __ _ __ __ __
+
+"This year is different in that we really need
+
+to make sure that we align again with the clinical component."
+
+_______________________ ________________ __ __ __ _ __ _ __ _ __ __ __
+
+For one? This year, risk-based contracting is going to be tough, said Mihalik, who works with an RCM team comprising 1,700 FTEs. Also, ACOs and handling bundled payments will pose big challenges. "This year is different in that we really need to make sure that we align again with the clinical component, and that we're building the right business model and administrative model to manage that risk-based population," she said. One risk-based model, the Medicare ACO, has been a serious challenge for many provider groups. The federal government's Pioneer ACO program, for instance, which originally started with 32 participants has whittled down to 19 organizations as of September 2014. For the folks at the Denver-based Physician Health Partners, one of the groups that dropped out of the Pioneer model back in 2013, the benchmark setting process within the Pioneer model needed some serious re-working. We can't take that much risk when the game keeps changing a little bit," Kenneth Nielsen, president and CEO of Physician Health Partners, told Healthcare IT News back in 2013, especially when these adjustments aren’t geographically based. "The Denver market, where our benchmark was $8,000 per beneficiary, per year is a lot different than an East Coast market where their benchmark was twice that." For PHP, it wasn't all bad news, however. It was able to decrease its readmissions and hospitalizations rates and met all the quality metrics. But, financially, it wasn’t viable. It reported shared losses for fiscal year one, which was anticipated, Nielsen said, but another two years before reaping the supposed financial benefits? It proved just too risky. "We just weren't able to take enough time to take the risk over three years at this point," Nielsen added. Right now, he said, "We're between bleeding edge and cutting edge."
+
+________________________________________________________________________
+
+"We're between bleeding edge and cutting edge."
+
+________________________________________________________________________
+
+Cleveland Clinic passed on the Medicare ACOs in the first round, with its CEO Toby Cosgrove saying the organization was "disappointed" with the Centers for Medicare and Medicaid Services ACO proposal, claiming they requirements weren’t outcomes based and had other reporting requirements that were burdensome to healthcare organizations.
+
+Another item on the to-do list this year, aside from risk-based contracts? Payers have some work to do with the insurance verification process. Specifically, Cleveland Clinic needs to be able to identify patients enrolled in an ACA-related plan and gather crucial information related to their coverage, said Mihalik. Having the ability to know who these specific patients are and how they are doing in digesting this "new world" is essential, she added. For year two, Cleveland Clinic is really focused on making sure payers are able to specifically identify those patients as being in an ACA-related plan and subsequently providing that data to the clinic as part of the registration verification process. "We want to be able to take a look at that population, and we really can't effectively do that right now because the payers haven't built the right models," said Mihalik, "so the system changes really aren't needed on our side; they're needed on the payer side." Mihalik isn't alone. In fact, 62 percent of MGMA members said they had moderate or extreme difficulty with identifying patients with ACA coverage, according to a 2014 MGMA survey. "We are going to have to hire additional staff just to manage the insurance verification process," one MGMA practice manager reported in the survey. As far as the IT goes, the payers are the ones with the work to do, Mihalik added.
+
+ICD-10 confusion not helping
+
+Hospitals and health systems are businesses. Sure, their purpose is to provide patients with quality care at lower costs, but at the end of the day if they're not financially viable and their bottom lines are consistently in the red, there's a big problem.
+
+For Arnette Marbella, director of HIM and CDM revenue cycle at Tufts Medical Center, it's the ICD-10 limbo that's concerning from a financial perspective. There's talk that ICD-10 will be delayed yet again, pushing its go-live data of October 2015, even further down the road. The revenue implications in that is that most hospitals have already started at least a year or a year and a half ago on preparing for the transition," said Marbella.
+
+This preparation, of course, means systems are tested, making sure that the systems are upgraded to be able to accept the news codes, physicians are trained on documenting. That part – clinical documentation is integral, she added. If you think about it, she said, the industry is going from some 14,000 diagnosis codes to nearly 70,000 codes, so "there's no one-to-one match for the codes."
+
+Ultimately, clinical documentation translates to "we have to be more specific on the codes that we assign, and that in turn translates to the reimbursement that we get or the bill that we submit to the payers and they reimburse and then we get," she said. A loss of revenue due to coding errors or administrative/procedural issues is a "concern in every hospital," Marbella added.
+
+Mihalik has her own concerns about ICD-10.
+
+It impacts really nearly every system," she said. "Most of our systems work off of diagnosis data, so the work we're doing around remediation and cross walks and testing is significant but very, very necessary," she added. The other area we're really focused on has to do with our coding and clinical documentation so that we are prepared now as we can be prior to go-live in making sure that we have quality training and audits going on to help make sure that we're there to the level that we need to be."
+
+Investments in technology that they’re leveraging with computer assisted coding is also key, she said.

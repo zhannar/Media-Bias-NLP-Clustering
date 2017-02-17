@@ -1,0 +1,27 @@
+(Reuters Health) - A system that combines frequent blood sugar measurements with software that varies the rate at which insulin is pumped into the body can significantly improve glucose control in type 1 diabetics, researchers say.
+
+Their two 12-week studies in adults and children are the longest trials ever of an artificial pancreas.
+
+More importantly, they were done under real-world conditions, said Aaron J. Kowalski, vice president for research at JDRF, formerly the Juvenile Diabetes Research Foundation, which helped sponsor the study.
+
+"Many people in the field have seen the potential of the artificial pancreas systems and thought that they could add significant value But we worry about what's going to really happen when people go out in the real world where you have exercise, you might be golfing all day, eating huge meals, and drinking alcohol. What are the risks of doing this?" Kowalski said.
+
+The new results "provide a bedrock showing that it actually works," he said. "It's not only not risky, it's less risky than what diabetics are doing now, where control is not great. We've now put people in the real world for a decently-long period of time and compared them to the best in class standard of care, and it's out-performed it. It fact, it outperformed it quite well."
+
+The trials are described in one paper in the New England Journal of Medicine and were reported at the European Association for the Study of Diabetes Annual Meeting in Stockholm.
+
+All the volunteers were fitted with both a glucose sensor and an insulin pump. Sometimes they made their own decisions about when to receive insulin. During the remaining time, the computer program automatically calculated an appropriate amount of insulin and, every 12 minutes, wirelessly told the insulin pump how much to release into the body.
+
+In the study of 33 adults, glucose stayed in the target range of 70 to 180 milligrams per deciliter 68 percent of the time when the software controlled the release, versus 57 percent of the time when the volunteers controlled their insulin release.
+
+The improvement was most pronounced at night, when levels were in the normal range 59 percent of the time versus 29 percent without using the software. The adult study participants lived in the U.K., Germany and Austria.
+
+The 25 children and adolescents in the companion study - all in the U.K. - only used the experimental system at night after their evening meal, turning it off before breakfast. Glucose stayed in the target range of 70 to 145 mg/dl 60 percent of the time with the system and 34 percent of the time when the insulin infusions weren't automatic.
+
+The benefits of tighter nighttime control seemed to carry over to the day as well, said the research team, led by Dr. Hood Thabit of the University of Cambridge.
+
+One adult had an episode of low blood sugar, or hypoglycemia, because the battery on the system ran low. One adolescent had two episodes of hypoglycemic seizures, but the artificial pancreas, called the "closed-loop system" by the researchers, was not turned on at the time.
+
+"We found that extended use of a closed-loop system at home over a period of 12 weeks during free daily living without close supervision is feasible in adults, children, and adolescents with type 1 diabetes," they said. "Improvements in glucose control and reductions in the burden of hypoglycemia were observed."
+
+SOURCE: http://bit.ly/1Ljpj9e New England Journal of Medicine, online September 17, 2015.

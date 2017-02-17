@@ -1,0 +1,29 @@
+By Emily Sohn, The Washington Post
+
+In the cardiac operating room of the future, a surgeon may repair your damaged heart with personalized parts made to fit your precise anatomy - bypassing donor lists and immune-suppressing drugs.
+
+It sounds far-fetched, but in some ways this future is already here. Doctors use 3-D-printed models of organs and tumors regularly to educate patients and plan surgeries. Some printed body parts have even made their way into human bodies as dental implants, prosthetics, skull and facial reconstructions, and more. Researchers are also working to print out cells, blood vessels and other living tissues, and experimental studies have created, among other parts, knee cartilage, bones and an artificial ear.
+
+As costs decrease and discoveries accelerate, experts predict that 3-D printers will become routine tools for heart care, too. Optimistic scientists envision customized patches or even full-fledged beating hearts, ready to be implanted, an exact fit for the patient’s body.
+
+“I really think the 3-D jet printer is transformative,” says Daniel Jones, chief of minimally invasive surgical services at Harvard Medical School in Boston. “It’s going to change the way doctors talk to patients, how they plan surgeries and how they do surgeries. The sky is the limit in terms of applications.”
+
+Around since the 1980s and now available in basic versions for just hundreds of dollars at office supply stores, 3-D printers work by creating layers of material in skinny slices that stack up to create a three-dimensional shape. The technology has been used to manufacture eyeglasses, car parts, jewelry and more.
+
+Medical applications are also wide-ranging. All it takes is an MRI or CT scan or other image to create a three-dimensional blueprint for creating objects of any shape. Colors can be altered to make visualizing easier. Depending on the design and complexity of the machine, objects can be made with a variety of materials, including plastics, metal and rubber.
+
+In cardiology, 3-D models are, for now, proving most useful as educational tools. Like fingerprints, every person’s heart is unique, and every heart problem plays out in its own way, says Paul Iaizzo, associate director of the Institute for Engineering in Medicine at the University of Minnesota in Minneapolis. With help from detailed replicas, surgeons can plan more accurately and reduce procedure times.
+
+In the last year, Iaizzo says, his team has printed models of 17 children’s hearts with congenital deformations that required surgical repair. A young child’s heart can be as small as a walnut, so the team prints each heart four or five times larger than normal. The surgeons can then study the models, show parents what needs to be done and discuss risks. They usually print out an extra heart for patients to take home.
+
+The technology of 3-D printing is so new that rigorous studies have not yet assessed how using it affects outcomes. But anecdotal evidence is powerful. When Harvard Medical School cardiac anesthesiologist and echocardiographer Feroze Mahmood began printing full-size replicas of patients’ damaged mitral valves, he gained a new appreciation for the complexity of the structure, particularly a Pringles-shaped region called the annulus that was impossible to visualize with two-dimensional images. Insights gained from handling printed valves have helped him and colleagues understand why a common treatment works for some patients but not others. He has now used the technology hundreds of times.
+
+“For most people, it is an ‘aha’ moment,” says Mahmood, who is researching the possibility of printing patient-specific valve parts that would be safe to use in surgeries. “What I foresee is that ... we will be 3-D printing everything we operate on before surgery. Instruments, grafts and materials will all be customized and will be printed on-site.”
+
+Someday, surgeons may even be able to print customized patches for repairing hearts damaged by heart attacks, says Adam Feinberg, a biomedical engineer at Carnegie Mellon University in Pittsburgh. His team is working both to grow heart tissue in petri dishes and to use 3-D printers to create soft, living structures by embedding cells inside gels that can be laid down in precise layers.
+
+Feinberg’s team uses consumer-level printers, which cost about $1,000 each, far less than commercial versions, priced at $100,000 or more. To encourage other researchers to accelerate advances, the Carnegie Mellon group is also using open-source hardware and software. “The challenge is to print something high-quality that re-creates the function of real human heart muscle,” he says. “It’s easy to make something that doesn’t work well.”
+
+Multiple teams of researchers are working on this kind of bioprinting task, which Feinberg says could help as many as 100,000 people a year who need heart transplants but face long waiting lists. He imagines 3-D-printed living heart tissue becoming available in as little as 10 years, although he admits that he could be a decade off.
+
+“It’s definitely science-fiction now,” he says. “But at least we’re getting to the point where it’s conceivable that it could happen.”

@@ -1,0 +1,29 @@
+The federal government spent billions on creating Obamacare’s exchanges, but didn’t track the money well—and many of the state-run exchanges funded under the law still aren't working properly, according to a draft Government Accountability Office report obtained by reason.
+
+Most states running their own exchanges under the law have yet to complete work on some critical exchange functionality, such as verifying eligibility for subsidies, paying insurers, and reporting data to the Internal Revenue Service (IRS).
+
+The report, still in draft form and dated July 2015, says that several states “lacked comprehensive and detailed information to show how their marketplace grant funding had been used for IT projects supporting their marketplaces” between September 2010 and March 2015. Neither select states examined by the GAO nor the federal government tracked how much of $2.78 billion in Medicaid matching funds were used to fund exchange operations or development. (The law required states to connect Medicaid programs, which are run by states and jointly funded by states and the federal government, to a federal data hub.)
+
+The uncertainty exists because Centers for Medicare and Medicaid Services (CMS) did not require states to track spending on specific product categories, nor to report on how Medicaid matching funds were used. As a result of the lack of reporting requirements for Medicaid, the report charges that CMS, which oversaw the exchange development process, “is not in a position to account for all federal funds that went toward the establishment and support of marketplace [health insurance exchange] IT systems.”
+
+Rather than require states to report spending on specific products, CMS required states running their own exchanges to report spending on five general categories—IT contracts, IT consultants, IT personnel, IT equipment, and IT supplies. The vast majority of the grant money went to contracts for services like “systems integration, project management, and independent validation and verifications.”
+
+But in many cases, work on core exchange functionality remained incomplete. Of the 14 state-based marketplaces, for example, only eight were "fully operational" and "operating without service interruptions” in their enrollment functions as of February 2015. The other six were categorized as partially operational, meaning that although there was some functionality they “did not work as intended and may have required manual processes to supplement automated functionality”—workarounds such as using paper copies or human data entry.
+
+The 14 states running their own exchanges had made even less progress developing functionality related to financial management, subsidy verification, and communication of data with the IRS.
+
+Most state exchanges also had trouble with connecting systems used to validate eligibility for subsidies under the law. Only one of the state-based exchanges, Kentucky, had completed “development of hub services functions such as verifying an individual’s identity and citizenship, and retrieving tax information for evaluating taxpayer eligibility for insurance affordability program.” In the other 13, work or testing on identity and eligibility functionality remained incomplete.
+
+Only Vermont had finished work on technology to send data to the IRS, such as information on premium tax credits. Another 10 states were partially complete, according to the draft report, and two states, Hawaii and Minnesota, had performed no testing at all on the systems.
+
+(Coordinating with the IRS has proved troublesome; in California this year, about 100,000 Obamacare enrollees were sent error-ridden tax forms regarding the subsidies they recieved for coverage, leading to delays for many tax filers.)
+
+Work on financial management systems that collect premiums, calculate reinsurance payments, and send money to insurers is incomplete in most state-based exchanges as well. Four states had completed work, while eight remain partially eligible, with workarounds in place. Two other states elected to leave that work to health insurers.
+
+States running their own exchanges weren’t the only ones with ongoing problems. Seven states working through the federal exchange could not transfer applications between state Medicaid systems and the federal data hub, according to the report.
+
+The report comes just months after the CMS Inspector General sent a cautionary letter warning that states may have used exchange funds illegally. The law authorized states to use the money for developing the exchanges, but not for most ongoing operational costs. Many of the states running their own exchanges are having trouble generating enough funding, however, and several reports indicate that states have used exchange grants from CMS to fund regular operations. Six states running their own exchanges cited lack of adequate funding as a major challenge in a survey, according to the draft GAO report.
+
+The report is the latest in a series of reports to find ongoing problems with Obamacare's exchange technology. In February, Politico reported that the back end of the federal exchange, which coordinates with insurers, "still isn’t properly wired to the health insurance companies," meaning that insurers are paid based on estimates which may eventually have to be revised.
+
+And in a separate report last week, the GAO said that fraudulent Obamacare accounts created in a GAO sting operation had been renewed by the system, and in some cases given even larger subsidies. The federal system's document processor "is not required to seek to detect fraud," a GAO official said, and contractors "do not perform antifraud duties."

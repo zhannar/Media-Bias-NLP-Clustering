@@ -1,0 +1,59 @@
+DeSalvo: ONC ‘making progress’ on interop roadmap
+
+With help from Darius Tahir (@DariusTahir)
+
+DESALVO UPDATES ROADMAP GOALS: ONC is on its way – as best it can tell – to hitting its three-year goals laid out in the January 2015 draft interoperability roadmap, Karen DeSalvo said. “The linear trajectory shows they are making progress,” DeSalvo said in a brief interview during a break of the House Oversight subcommittee health IT hearing, where she testified. ONC had ambitiously stated that by the end of 2017 patients and providers would be able to “send, receive, find and use priority data domains to improve health care quality and outcomes.”
+
+Story Continued Below
+
+— MACRA last year also set a “widespread interoperability” goal for the end of 2018. Meaningful use is still the best tool to reach those goals, the ONC head said, which get far more specific in the 94-page roadmap.
+
+— DeSalvo also touched upon her earlier call for building a “network of networks,” which will further ONC’s information-exchange goals. “The private sector and health information exchanges have been working a lot to understand how it is that they can link the different systems together,” DeSalvo elaborated to Morning eHealth. “You would have to rebuild everything to make those communities connect across the country.”
+
+— DeSalvo gave a nod to the work of the Strategic Health Information Exchange Collaborative (SHIEC) — pronounced “chic.” A national trade association of about 40 HIEs, it’s working to connect exchanges and finding good overlap in governance, standards and patient consent. DeSalvo said she’s “actually really encouraged” by both the private enterprise solutions as well as the advances by the public health exchanges.
+
+eHealth tweet of the day: @brianfaust007: #MyHealthID Did you know that in one Texas Health District there are 2488 patients named Maria Garcia?
+
+Runner-up: @brianfaust007: #MyHealthID Did you know that 231 Maria Garcias share the same birth date in one Health District in Texas?
+
+Welcome to Morning eHealth where I am your fill-in Friday host as Arthur Allen takes some much-needed time off. You can always connect with us at dpittman@politico.com and aallen@politico.com and on Twitter @David_Pittman, @arthurallen202, @DariusTahir @POLITICOPro, @Morning_eHealth.
+
+ARE PARITY LAWS HURTING TELEMEDICINE?: Resistance is brewing in Massachusetts to a bill in the state legislature that would force insurers to pay for telemedicine visits at the same rate they do for in-person treatment, STAT News reports. The Massachusetts Association of Health Plans, which opposes the legislation, says it undermines the premise that telemedicine saves money. The Massachusetts Hospital Association supports the bill, saying its costs for equipment, liability insurance and provider payment don’t disappear when a telemedicine visit occurs.
+
+“By including payment parity, it definitely does inhibit the short-term savings for a health plan,” Nathaniel M. Lacktman, attorney with Foley & Lardner, told Morning eHealth. Ten states require telemedicine payments be on par with in-person visits. A better option, Lacktman says, is state-mandated coverage. Nineteen states mandate some form of coverage that’s not full parity. Louisiana, for example, sets payments at 75 percent of in-person consults.
+
+Cybil Roehrenbeck, former American Medical Association lobbyist who is now with the law firm Polsinelli, takes a bit different outlook. “The idea that telemedicine is cheap to do is hogwash,” said Roehrenbeck, pointing to the need for having licensed clinicians at the ready and establishing networks. “Savings in this area will come from better patient health outcomes and reduced acute episodes, not from stiffing healthcare providers on the bill.”
+
+HEALTH CARE SAVINGS, YOU SAY?: A bill that would make rural nursing homes eligible for subsidies to purchase broadband Internet would save $18 million over a decade, the CBO said late Thursday. Sen. John Thune has touted his Rural Health Care Connectivity Act (S. 1916) for some time now as a way to get tools like telemedicine into rural nursing homes. The CBO report: http://1.usa.gov/1LKKFyD
+
+NIH FUNDING LOOKING GOOD IN 2017: POLITICO budget gurus Ben Weyl and Matthew Nussbaum caught up with Oklahoma Rep. Tom Cole, the man in charge of the House Appropriations subcommittee over HHS. While silent on the future of the Agency for Healthcare Research and Quality, which House lawmakers proposed to cut last year, he said boosting NIH funding will be a priority. “We did double the increase that the president asked for last year, and we were above his proposal even before we had a budget deal. Those are clearly things that actually bring Republicans and Democrats together,” Cole said. Pros get the full story here: http://politico.pro/1T8hGGx
+
+WANT TO LOWER YOUR CONFIDENCE IN TECHNOLOGY? USE AN EHR: At least to hear (some) nurses tell it. Researchers in the Journal of Nursing Administration surveyed nurses before and after an EHR implementation at a regional hospital, and found ... the fear and loathing we’ve come to expect when booting up a new system.
+
+Nurses were very confident in their ability to use the software, and confident in the efficacy of health IT – before the new system got booted up. Afterwards, they were more likely to agree with statements like “If I had my way, nurses would never use an EHR” and “the EHR interferes with the art of nursing.”
+
+EPIC RECORD SHARING: The Wisconsin-based EHR giant said this week the number of patient records exchanged through its Care Everywhere platform is up 300 percent over the last 12 months, since it dropped fees for exchanging with outside networks. About 20 percent of the nearly quarter billion records exchanged between hospitals and clinics in the last year are with non-Epic systems.
+
+MORE RESEARCH $$ UP FOR GRABS: The Agency for Healthcare Research and Quality is doubling down on its health IT safety work, issuing a new series of grant opportunities. The grants would be for the "design, implementation, usability, and safe use of health IT by all users" with the goal of informing policymakers at ONC, CMS and the FDA. Patient safety organizations are also encouraged to apply. Earlier this year, AHRQ announced health IT safety research would be a priority this fiscal year.
+
+TRIAL DATA SHARING INEVITIABLE, JAMA EDITORS WRITE: Mandated data sharing of clinical trial results will occur in the future, JAMA editors write in an ongoing debate about “data parasites.” “Data sharing has now emerged as the next critical advance in the conduct of clinical research,” their piece states. “However, greater understanding about the details surrounding data sharing is needed, including how it should be operationalized, and who and what systems are available to support it.” The full editorial: http://bit.ly/1UOLfgf
+
+TECH AND CHRONIC DISEASE: Northeast Business Group on Health is out with a guide for employers interested in digital tools for chronic disease, particularly preventing and managing diabetes. The group lauds the “convenience, personalization, data collection and management, customization of rewards and incentives, coaching and social networking.” The guide: http://bit.ly/1pAmdFJ
+
+HIMSS WRITES ON ONC’S STANDARDS ADVISORY: The document, first published late last year, is generally commendable, but has some room for improvement, HIMSS wrote ONC this week. The Interoperability Standards Advisory is a single resource of federally-recognized standards and guidance for information sharing.
+
+ICYMI: ONC RELEASES MORE DETAILS ON PMI DATA DONATION: In a blog post, federal health officials say Allscripts, athenahealth, Cerner, drchrono, Epic, and McKesson will all participate in the Sync for Science pilot, which will allow patients to access their health data and send it to researchers for the Precision Medicine Initiative. The post: http://bit.ly/25nv66n
+
+WHAT WE’RE CLICKING:
+
+Educate docs on MACRA, MIPS, experts say: http://bit.ly/21FJ66P
+
+Family physicians press for hospital discharge records to be released to primary care docs: http://bit.ly/1Ro8efF
+
+Government moves on mobile app privacy policies: http://bit.ly/1LJVlNR
+
+Iowa House approves tele-pharmacy bill: http://dmreg.co/1pAs5im
+
+A business card with a built-in ECG: http://engt.co/1OOvWgj
+
+Tips, comments, suggestions? Send them along via email to our team: Arthur Allen (aallen@politico.com, @ArthurAllen202), David Pittman (dpittman@politico.com, @David_Pittman) and Darius Tahir (dtahir@politico.com, (@DariusTahir).

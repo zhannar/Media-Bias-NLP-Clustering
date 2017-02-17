@@ -1,0 +1,69 @@
+Art by Marc RosenthalInternal Revenue Code (IRC) Section 4980I, as enacted by the Patient Protection and Affordable Care Act (ACA), imposes a 40%, nondeductible excise tax on employers, health insurance issuers and/or other entities administering health plan benefits if the aggregate value of applicable employer-sponsored coverage exceeds a specified annual dollar limit. The tax is referred to by some as the “Cadillac Tax” because it targets health plans that provide workers the most generous level of health benefits. Below we answer some of the questions we have received recently regarding the excise tax.
+
+
+
+Q. When does the excise tax come into effect?
+
+The excise tax is effective for taxable years beginning in 2018.
+
+
+
+Q. Is there any agency guidance on the excise tax?
+
+No, the Department of the Treasury and the Internal Revenue Service (IRS) have not yet issued any guidance.
+
+Q. Are all types of health coverage taken into account in determining whether the excise tax applies?
+
+This tax applies to “applicable employer-sponsored coverage” of employees. This generally means coverage under any group health plan that is made available to the employee by an employer and “is excludable from the employee’s gross income under IRC Section 106, or would be so excludable if it were employer-provided coverage [within the meaning of IRC Section 106].” Thus, both the employer- and employee-paid portions of premiums are taken into account. The excise tax applies to insured and self-funded plans, as well as governmental plans and coverage that provides health insurance to self-employed individuals.
+
+Q. Are any types of coverage exempt from the excise tax?
+
+The following types of coverage are excluded from the definition of applicable employer-sponsored coverage under the statutory language:
+
+Coverage for long-term care. Coverage, whether through insurance or otherwise, described in IRC Section 9832(c)(1)—excepting coverage for on-site medical clinics: Coverage only for accident or disability income insurance, or any combination thereof;
+
+Coverage issued as a supplement to liability insurance;
+
+Liability insurance, including general liability insurance and automobile liability insurance;
+
+Workers’ compensation or similar insurance;
+
+Automobile medical payment insurance;
+
+Credit-only insurance; and
+
+Other similar insurance coverage, specified in regulations, under which benefits for medical care are secondary or incidental to other insurance benefits. Any coverage under a separate policy, certificate or contract of insurance that provides benefits substantially for treatment of the mouth, including any organ or structure within the mouth, or for treatment of the eye. Coverage for a specified disease or illness, or for hospital indemnity or other fixed indemnity insurance, as described in IRC Section 9832(c)(3), if paid on an after-tax basis—or, in the case of a self-employed individual, on a not-deductible basis—and offered as an independent, non-coordinated benefit.
+
+Q. Does the excise tax apply to employer-sponsored coverage provided to former employees?
+
+Yes, the definition of “employee” includes any former employees, as well as surviving spouses or other primary insured individuals.
+
+Q. How will the excise tax be calculated?
+
+The excise tax for a year is 40% of the “excess benefit” provided under an employer-sponsored plan. The excess benefit is calculated monthly based on the amount, if any, by which the “aggregate cost” of an employee’s applicable employer-sponsored coverage for the month exceeds 1/12 of the applicable “annual limitation” for the calendar year that includes that month.
+
+Q. What is the annual dollar limit?
+
+The “annual limitation” is a dollar threshold based on numerous factors and adjusted for inflation. For 2018, the general dollar threshold is $10,200 for self-only coverage and $27,500 for coverage other than self-only coverage. However, the dollar thresholds are multiplied by a “health cost adjustment percentage” under which the thresholds could be increased for several reasons, such as if health care inflation, measured based on the cost of the Blue Cross/Blue Shield standard benefit option under the Federal Employees Health Benefits Plan (FEHBP), from 2010 to 2018 exceeds 55%.
+
+Q. How is the age and gender adjustment determined?
+
+The age and gender adjustment is equal to the excess, if any, of 1) the premium cost of the Blue Cross/Blue Shield standard benefit option under the FEHBP for the type of coverage provided to an individual in a taxable period if priced for the age and gender characteristics of all employees of the individual’s employer, over 2) the premium cost for the provision of such coverage under such option in such taxable period if priced for the age and gender characteristics of the national work force.
+
+The Joint Committee on Taxation provides an example as to how the age and gender adjustment would be applied.
+
+If health care inflation from 2010 to 2018 was 57%—2% more than the 55% limit described above—the $10,200 threshold amount for self-only coverage would be multiplied by 102% to reach $10,404 for 2019. For an employee with individual coverage that year, if standard FEHBP coverage priced for the age and gender characteristics of his employer’s work force was $11,400, and the Secretary of the Treasury estimated that the premium cost for individual standard FEHBP coverage priced for the age and gender characteristics of the national work force was $10,500, his threshold would increase by $900—$11,400 less $10,500—to become $11,304—$10,404 plus $900.
+
+Q. Who is responsible for paying the excise tax?
+
+The party that pays the excise tax depends on the type of coverage being offered and each coverage provider’s “applicable share of the excess benefit.” The health insurance issuer is required to pay the share of the excise tax attributable to health insurance coverage that it underwrites. The employer is responsible for paying the share of the excise tax attributable to health savings account (HSA) and medical savings account (MSA) contributions that are applicable employer-sponsored coverage. And the “person that administers the plan benefits” must pay the share of the excise tax attributable to “any other applicable employer-sponsored coverage.”
+
+Q. Who is responsible for calculating the excise tax?
+
+The employer sponsoring the plan—or, in the case of a multiemployer plan, the plan sponsor—is required to determine the total amount of the excise tax and the applicable share of the excess benefit attributable to each coverage provider responsible for paying the tax, then notify each coverage provider of the amount it owes. If the employer, or multiemployer plan sponsor, inaccurately calculates the total excess benefit or applicable portion of the excess benefit owed by each responsible party, it could be subject to a penalty equal to 100% of the underpaid portion of the excise tax, in addition to the portion of the excise tax to which it is already subject, plus interest at the IRS underpayment rate.
+
+Contributors: `Christy Tinnes is a principal in the Health & Welfare Group of Groom Law Group in Washington, D.C. She is involved in all aspects of health and welfare plans, including ERISA, HIPAA portability, HIPAA privacy, COBRA, and Medicare. She represents employers designing health plans as well as insurers designing new products. Most recently, she has been extensively involved in the insurance market reform and employer mandate provisions of the health-care reform legislation.
+
+Brigen Winters is a principal at Groom Law Group, Chartered, where he co-chairs the firm's Policy and Legislation group. He counsels plan sponsors, insurers, and other financial institutions regarding health and welfare, executive compensation, and tax-qualified arrangements, and advises clients on legislative and regulatory matters, with a particular focus on the recently enacted health-reform legislation.
+
+Got a health-care reform question? You can ask your health-care reform legislation question online at http://www.surveymonkey.com/s/second_opinions

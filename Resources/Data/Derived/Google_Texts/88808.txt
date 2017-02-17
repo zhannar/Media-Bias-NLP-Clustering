@@ -1,0 +1,25 @@
+4001814
+
+Get ready to smash your head against a wall.
+
+On Wednesday night, Sean Hannity had two tech experts on his Fox News show to discuss the continuing problems of the Obamacare website. At the end of the interview, Hannity asked the experts how much it would have cost them to build a site similar to healthcare.gov that both operated properly from the beginning and was built secure to protect users’ sensitive information.
+
+“I would say to build a site like this with the infrastructure, the architecture around it, you are looking at maybe $5 million to $10 million at a very maximum rate,” said David Kennedy, president of the technology firm TrustedSec. “It isn’t rocket science.”
+
+“I would agree with Mr. Kennedy in the $5 million-$10 million range max,” Luke Chung, president and founder of the technology firm FMS, concurred.
+
+“[N]one of these contractors are ever held accountable for delivering such crap,” he added.
+
+According to CNN, the government paid outside contractors more than $300 million to build the preposterously-troubled Obamacare website. Other estimates put the number higher.
+
+Despite all the money thrown at the site, Henry Chao, deputy chief information officer at the Centers for Medicare and Medicaid Services, testified before Congress late last month that as much as 40 percent of the site had yet to be even built.
+
+“We still have to build the financial management aspects of the system, which includes our accounting system and payment system and reconciliation system,” he said.
+
+Kennedy, who is known as a “white hat hacker,” also appeared before Congress last month and testified that the Obamacare website doesn’t appear to have been developed “with security in mind.” He added it could take as long as a year to fix the security issues.
+
+“When you develop a website, you develop it with security in mind. And it doesn’t appear to have happened this time,” he said. “It’s really hard to go back and fix the security around it because security wasn’t built into it.”
+
+“We’re talking multiple months to over a year to at least address some of the critical-to-high exposures on the website itself,” he added.
+
+Follow Jamie on Twitter

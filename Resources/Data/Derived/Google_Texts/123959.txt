@@ -1,0 +1,11 @@
+Topics: Atom, Discovery, innovation, laboratory, Physics, quantum sound, Science, Innovation News, Technology News
+
+Scientists from Columbia University and Sweden’s Chalmers University of Technology captured the sound of a single excited atom — a phonon — for the first time ever. This incredible accomplishment, published in the journal Science on Thursday, could change the future of quantum communication.
+
+So what does a single atom in motion sound like? It is one of the faintest sounds physically feasible. The sound is so incredibly soft, the researchers weren’t able to actually hear it.
+
+“The sound amplitude, or strength, is very weak,” the study’s co-author Göran Johansson told Motherboard. “Basically, when you excite the atom, it creates a sound, one phonon at a time, according to theory. It’s the weakest possible sound possible at the frequency [that it vibrates].”
+
+So how did the researchers even capture this sound? In an ingenious method, Johansson and his team used a semiconducting circuit to create an artificial atom, which they then excited.
+
+Then, using a chip, equipped with “long metallic” phalanges, the waves from the atom’s vibration are measured. However, these waves are far too small to be viewed, so they are then transformed to microwaves and are detected from their microwave state.

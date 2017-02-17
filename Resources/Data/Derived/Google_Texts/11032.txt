@@ -1,0 +1,17 @@
+The US government will let healthcare insurers store sensitive data in the Amazon Web Services cloud, raising hackles among companies that had already bought on-premise kit.
+
+The US Centers for Medicare and Medicaid Services announced on a conference call last week that healthcare insurers will be able to feed healthcare data back to them via the Amazon Web Services cloud as well as on-premise servers, a CMS official confirmed to El Reg on Thursday.
+
+Insurers will be able to use the cloud to store and transmit "risk adjustment and reinsurance" data relating to people they have ensured under the Affordable Care Act, aka Obamacare.
+
+Though this data is not as granular as individual health documents, it will still fall under various bits of privacy regulation. Therefore, in authorizing Amazon, CMS has blown away one of the main bits of counter-marketing that firms like to trot out against the cloud: strict regulations mean that data from industries such as healthcare will always need to stay on servers owned and operated by individual companies.
+
+"Based on feedback from stakeholders, CMS is offering issuers a new option for data reporting under the risk adjustment and reinsurance program," CMS spokesperson Aaron Albright told us. "Issuers may select the option that best works for them for reporting data that is expected to begin later this year." Amazon Web Services is the only cloud option, we understand.
+
+Some insurers had already bought servers to relay the data to CMS, and are now faced with the prospect of paying more for their infrastructure than they needed to.
+
+"The unfortunate thing is ... this response is very late in the game," said one insurance IT professional interviewed by CNBC.
+
+CMS will be hosting webinars throughout June to help insurers understand the differences between Amazon-based and on-premise based tech. ®
+
+Sponsored: Cluster speeds molecular dynamics research with NVIDIA GPUs

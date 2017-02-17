@@ -1,0 +1,49 @@
+SIGN UP FOR OUR NEWSLETTER
+
+During a previous look at the cyber-security faceplant that led to Chinese hackers running wild in the Office of Personnel Management system, I thought the story of hundreds of millions of tax dollars spent to implement security software so far behind schedule that it is already obsolete sounded uncomfortably similar to the HealthCareDotGov debacle.
+
+The similarities grow by the day, as we learn the Obama administration lied furiously to cover up the extent of the damage and its own ineptitude. This attack was absolutely catastrophic. Those who describe it as the Pearl Harbor of the First Cyber War are not far off the mark. And it is very clear President Obama and his hapless crew have no idea what to do about it.
+
+SIGN UP FOR OUR NEWSLETTER
+
+It was bad enough when we thought the personal data of some four million federal employees who sought security clearances over the past 30 years had been compromised. Now the president of the American Federation of Government Employees, J. David Cox, has informed OPM in a letter that his organization believes “the Central Personnel Data File was the targeted database, and that the hackers are now in possession of all personnel data for every federal employee, every federal retiree, and up to one million former federal employees.”
+
+“The OPM data file contains the records of non-military, non-intelligence executive branch employees, which covers most federal civilian employees but not, for example, members of Congress and their staffs,” reports the Associated Press. “The union believes the hackers stole military records and veterans’ status information, address, birth date, job and pay history, health insurance, life insurance and pension information; and age, gender and race data.”
+
+Every federal employee. And that is just the tip of the iceberg, because we are learning these hackers were active in that database for a year before they were caught. That gave them plenty of time to use the information they stole to compromise associates of these federal employees with virus-laced “phishing” emails and other scurrilous tactics.
+
+As a Wired article on the breach observes, the hackers accessed a trove of SF-86 forms – “documents used for conducting background checks for worker security clearances,” which can contain “a wealth of sensitive data not only about workers seeking security clearance, but also about their friends, spouses and other family members,” plus “potentially sensitive information about the applicant’s interactions with foreign nationals—information that could be used against those nationals in their own country.”
+
+I sure hope none of those federal employees was keeping all of her official correspondence, including sensitive material, on a home-brewed email server even less secure than the government’s official systems are!
+
+The AP report notes that in his letter to OPM, Cox concedes his union’s conclusions are based on “sketchy” information provided by the agency, which the AP notes has “sought to downplay the damage, saying what was taken ‘could include’ personnel file information such as Social Security numbers and birth dates.” The agency still refuses to discuss the specifics of the breach.
+
+Cox’s letter called the government’s failure to encrypt Social Security numbers “a cybersecurity failure that is absolutely indefensible and outrageous,” charging that the data breach represents “an abysmal failure on the part of the agency to guard data that has been entrusted to it by the federal workforce.”
+
+He further complained that “very little information has been shared” with his union, or other victims of the data breach.
+
+He is right, and the millions of people affected by it are still not getting straight answers because bureaucrats are making the coverage of their posteriors the top priority. Nobody should be working on “sketchy” information at this point. Except for a few vital details that must be kept secret to help identify the hackers and thwart further attacks, full disclosure is long overdue.
+
+But nobody ever gets full disclosure from the Obama administration without filing a stack of Freedom of Information Act lawsuits, do they? It is a process that takes years, with Obama’s stonewall artists fighting it every step of the way. We will have to suffer through months of Team Obama trying to blame all this on Republicans for not giving him enough money before any sort of effective action is taken.
+
+Everything we are learning about the OPM breach is trickling out through leaks and inadvertent disclosure. Another false administration claim shredded by such disclosure is the initial statement that government security teams discovered the breach in April. Not so, according to a Wall Street Journal report; it was “actually discovered during a mid-April sales demonstration at OPM by a Virginia company called CyTech Services, which has a networks forensics platform called CyFIR.”
+
+“CyTech, trying to show OPM how its cybersecurity product worked, ran a diagnostics study on OPM’s network and discovered malware was embedded on the network. Investigators believe the hackers had been in the network for a year or more,” the WSJ explains.
+
+A private agency stumbled across this digital dragon, and it had been lurking in those improperly secured government databases for far longer than we were originally told. Even beyond the threat of the information actually stolen – whose extent investigators still are not certain of – this attack creates a huge penumbra of uncertainty. With that much time to run amok, the hackers produced a chain reaction of unknowns that will be impossibly difficult for our intelligence services to properly digest and plan around. They simply have no idea how much of our government’s data has been compromised. They face a swarm of question marks beyond counting.
+
+It is almost impossible for them to determine who might be subject to blackmail; imagine the number of potential cases of inappropriate conduct by federal employees, all the scandals crushed by Hillary Clinton’s State Department, and imagine ten times as much compromising information falling into the hands of our global adversaries.
+
+Another problem spotlighted by former NSA analyst and counterintelligence officer John Schindler: if the hackers were associated with Chinese intelligence, they would have prioritized information that could help them develop productive espionage contacts.
+
+“Armed with lists of Chinese citizens worldwide who are in ‘close and continuing contact’ (to cite security clearance lingo) with American officials, Beijing can now seek to exploit those ties for espionage purposes,” Schindler writes, adding:
+
+This matters because, while many intelligence services exploit ties of ethnicity to further their espionage against the United States — Russians, Cubans, Israelis, even the Greeks — none of the major counterintelligence threats to America are as dependent on blood ties as the Chinese. Simply put, in its efforts at recruiting spies abroad, Beijing is often uncomfortable operating outside its ethnic milieu. Spies run by Beijing who are not ethnic Chinese are very much the exception.
+
+After listing numerous Chinese espionage cases to prove his point, Schindler concludes the OPM hack might have been not just a game-changer, but a spy-games checkmate:
+
+The extent of the information loss in the OPM hack is so vast that all the counterintelligence awareness in the world may not be able to offset the advantage in the SpyWar that Beijing has won with this vast data theft. If you are (or have been) employed with the Federal government and have listed Chinese persons in any way on your SF86, it’s time to be vigilant.
+
+As Rep. Devin Nunes (R-CA) of the House Permanent Select Committee on Intelligence put it, “We don’t know what we don’t know, which is a real concern, and I think that’s why in this new digital age it’s important for everyone to know – all Americans to know – that information’s just not safe out there running on the superhighway.”
+
+Maybe it wasn’t such a hot idea to give the government all our healthcare information then. Does everyone remember all the security concerns raised about the Obamacare database? Would anyone like to bet that’s all one hundred percent secure and unaffected by the Pearl Harbor strike?

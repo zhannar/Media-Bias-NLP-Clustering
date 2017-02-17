@@ -1,0 +1,21 @@
+Pokitdok launches API as platform for hard to find pricing data on healthcare. Apartment Guide Releases Certified Review API. Plus: El Salvador to hold a hackathon, and Mediafire creates an online resource for developers.
+
+Pokitdoc's API Aims to Create Health Care Marketplace Like Amazon/ebay
+
+Pokitdok has launched an API, calling it the Pokitdok platform, to connect third party apps to its data on health care prices. The idea is simple: Pokitdok (or a third party app) allows consumers to shop for medical procedures whose prices have been posted by health care providers. The doctors use virtual store fronts to list their items and costs. The patient gets the advantage of competitive pricing. The provider gets the advantage of immediate payment: the patient pays in cash.
+
+As Dan Verel comments in Medcity News, the service as it stands is geared toward a marketplace of relatively simple procedures, and:
+
+At its core, the platform is aimed at other healthcare businesses to develop their own systems using the PokitDok API to accommodate their specific needs, such as HMOs looking at what sort of procedures consumers search for the most or a physician hoping to glean insights on utilization costs. “It’s information you would expect to see before any major purchasing decision, it just hasn’t happened in healthcare yet,” said Lisa Maki, PokitDok’s co-founder and CEO. “Treatment doesn’t have to be this costly for consumers and providers who deserve to be swiftly compensated for care. This is a data arbitrage problem the PokitDok Platform solves today,” she said.
+
+The idea is to give accurate reviews, which helps apartment owners and operators to understand their online reputations--and enabling them to take quick action to provide more value when needed. Pokitdok sees a win with the advent of the Affordable Care Act. That's because many people already have or will enroll in policies that have high deductibles, giving them every incentive to be cost conscious and selective about their provider. And, if providers can find a way to offer their pricing on more complex treatments through the system, Pokitdok could become an important player in disrupting the health care marketplace. The documentation for the Pokitdok API is now available.
+
+Apartment Guide's Review API Aims to Deliver Verified Reviews
+
+Apartment Guide has long provided certified resident ratings & reviews as a marketing tool to clients. Now they are available through an API where they can be aggregated for reporting purposes. The API is used by companies like 4 Walls that helps manage apartment companies presence online. Clients can get email alerts when new review are posted.
+
+As the company commented,
+
+Unlike other review sites, Certified Resident Ratings & Reviews allow community management teams to certify the residents before reviews are generated. The certification process prevents phony reviews, which tarnish the reputation of apartment communities, from being posted on the listings.
+
+With the proliferation of review sites, this could become an important tool in reputation management. The aggregation function allows managers to see comprehensive reviews of entire properties. Certified reviews have now topped 190,000.

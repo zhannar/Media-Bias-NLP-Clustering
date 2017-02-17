@@ -1,0 +1,183 @@
+EDITOR'S OVERVIEW
+
+This month our authors explore two important areas of ERISA's fiduciary duties applicable to single employer and multiemployer plans. First, Neal Schelberg and Aaron Feuer comment on a growing trend by federal courts to find that employers who are delinquent in making their contributions to multiemployer benefit funds are fiduciaries under ERISA. These rulings may provide an opportunity to multiemployer funds to seek recovery of delinquent contributions from corporate owners, in their personal fiduciary capacities, when the delinquent companies they own are judgment proof. Conversely, the rulings should serve as a warning to the corporate owners to consider carefully the terms of the collective bargaining agreements they enter into on behalf of the companies they own. Second, Tulio Chirinos provides insights into the U.S. Supreme Court oral argument in Fifth Third Banccorp v. Dudenhoeffer, in which the Court is expected to rule on issues affecting ERISA stock drop litigation. As noted in the article, there was a seemingly large disconnect between the issue that the Court agreed to consider and the issues that were discussed at oral argument. The article concludes with some observations about what we may see by way of a ruling from the Court.
+
+As always, the Rulings, Filings, and Settlements of Interest contains an interesting array of topics, including healthcare reform, same-sex benefits, attorney fees, benefit plan litigation, and recoupment of overpayments.
+
+UNPAID EMPLOYER CONTRIBUTIONS AS PLAN ASSETS: EXPANSION OF LIABILITY UNDER ERISA1
+
+By Neal Schelberg and Aaron Feuer
+
+The Employee Retirement Income Security Act of 1974, as amended ("ERISA"), requires trustees of multiemployer pension and benefit funds to collect contributions required to be made by contributing employers under their collective bargaining agreements ("CBAs") with the labor union sponsoring the plans. This is not always an easy task—often, an employer is an incorporated entity with limited assets or financial resources to satisfy its contractual obligations. In some instances, an employer will resort to filing for bankruptcy to obtain a discharge of its debts to the pension or benefit funds.
+
+In a distinct trend, federal courts have found that, depending on the text of the underlying plan documents, unpaid employer contributions due under a CBA may be viewed as plan assets, such that the representatives of an employer who exercise fiduciary control over those plan assets can be held individually liable for the unpaid amounts (together with interest and penalties) under ERISA. These cases will no doubt help plan trustees and administrators collect monies owed to the plan. They also should serve as cautionary warnings to contributing employers to ensure that they fully understand the obligations that they are undertaking when they agree to contribute to ERISA funds pursuant to CBAs.
+
+Background
+
+In the typical scenario, an employer will agree under one or more of its CBAs to make specified contributions to fund the pension and health and welfare benefits promised to plan participants under the trust fund's plan of benefits. If an employer fails to timely remit those payments in violation of the CBA and the plan's rules, the trustees of the fund have a legal duty to attempt to recover the unpaid contributions unless, after fully examining the facts and circumstances, the trustees conclude that the likelihood of recovery is outweighed by its costs. What happens if the trustees expend the fund's resources to seek to collect the unpaid obligations and obtain a judgment against the employer, only to find the company's coffers empty? Or what if the company files for bankruptcy?
+
+Unlike employee contributions, which under U.S. Department of Labor regulations are explicitly deemed to be plan assets, employer contributions are typically found to be contractual obligations that do not become plan assets until such amounts are paid by the employer to the trust fund. Hence, while an employer's failure to remit an employee contribution relegates the employer to the status of an ERISA plan fiduciary because it has authority and control over plan assets, employer contributions have generally been held not to constitute plan assets. As a result, an employer who fails to make its contributions due under the CBA may have committed a contractual violation but has not breached an ERISA fiduciary duty.
+
+The Potential for Individual Fiduciary Liability
+
+Recently, courts have regularly carved out an exception to the general rule that unpaid contributions are not plan assets by finding that employer contributions are plan assets where the CBA explicitly defines them as such. In such cases, these courts will then proceed to consider the next question of whether the officers, directors or other representatives of such employer exercised a level of control over corporate assets sufficient to make them an ERISA plan fiduciary and thus individually liable for the contributions—effectively stripping them of the protections of the corporate form. Furthermore, if elevated to the status of a fiduciary breach, the debt may not be dischargeable in a bankruptcy proceeding. Thus, the plan could proceed to collect the unpaid contributions against the principals of the debtor personally.
+
+For over a decade, some federal district courts in the Second Circuit have applied a two-part test in delinquent employer contribution cases to find that: (i) such contributions are plan assets when so specified by the CBA; and (ii) the principals of the employer are an ERISA plan fiduciary. More recently, the Second Circuit concluded that delinquent contributions were not plan assets where there were no provisions in the relevant plan documents that stated that unpaid contributions are assets of the plan. See In re Halpin, 566 F.3d 286 (2d Cir. 2009). The Court expressly stated, however, that "the trustees were free to contractually provide for some other result." It further noted that merely finding that delinquent contributions constitute plan assets does not end the inquiry. A court must also determine whether an individual defendant has exercised sufficient fiduciary conduct over the unpaid contributions to be found to be a plan fiduciary under ERISA.
+
+While the Court's statements were extraneous to the holding of the case, some district courts within the Second Circuit have seized upon this language and have cited In re Halpin for the proposition that employer contributions can be plan assets where the plan documents so provide. See, e.g., Trustees of Sheet Metalworkers Int'l Assoc. v. Hopwood, 09-cv-5088, 2012 WL 4462048 (S.D.N.Y. Sept. 27, 2012); Sullivan v. Marble Unique Corp., 10-cv-3582, 2011 WL 5401987, at *27 (E.D.N.Y. Aug. 30, 2011).
+
+Similarly, the Eleventh Circuit, in ITPE Pension Fund v. Hall, 334 F.3d 1011 (11th Cir. 2003), held that delinquent contributions can constitute plan assets when explicitly provided for in the plan documents and corporate officers are plan fiduciaries with respect to those assets. The Court demanded a high level of clarity in the plan documents, however, regarding the delinquent contribution's status as plan assets. It explained that when a corporation is delinquent in its contributions, the fund "has a sufficient priority on the corporation's available resources that individuals controlling corporate resources are controlling fund assets. This in effect places heavy responsibilities on employers, but only to the extent that . . . an employer freely accepts those responsibilities in collective bargaining."
+
+In addition, district courts in the Third, Fourth, and Ninth Circuits have found that employer contributions constitute plan assets when the plan documents so provide. See, e.g., Trustees of Construction Industry and Laborers Health & Welfare Trust v. Archie, No. 2:12-cv-00225 (D. Nev. Mar. 3, 2014) (holding that unpaid contributions were plan assets based upon the CBA's language and finding that the company principals' acts and responsibilities demonstrated sufficient control and authority over the company's operations and financials to qualify as ERISA fiduciaries); Galgay v. Gangloff, 677 F. Supp. 295, 301 (M.D. Penn. 1987) (refusing to dismiss fiduciary breach claims for alleged failure to pay delinquent contributions based upon the "clear and undisputed language [of the agreement] stating that title to all monies 'due and owing' the plaintiff fund is 'vested' in the fund," rendering "any delinquent employer contributions vested assets of the plaintiff fund."; Connors v. Paybra Mining Co., 807 F. Supp. 1242, 1246 (S.D.W.V. 1992) (finding company officers personally liable for delinquent contributions that were plan assets based upon CBA's language since they breached their fiduciary duty by exercising authority over those assets by favoring other creditors over the fund); see also Secretary of Labor v. Doyle, 675 F.3d 187 (3d Cir. 2012) (holding that district court erred in failing to determine whether payments collected from various employers were plan assets subject to ERISA).
+
+District courts in the Sixth Circuit have even signaled support for finding that contributions are plan assets as soon as they become due, "regardless of the language of the benefit plan." See, e.g., Plumbers Local 98 Defined Benefit Funds v. M&P Master Plumbers of Michigan, Inc., 608 F. Supp. 2d 873, 879 (E.D. Mich. 2009) (holding company principal personally liable for delinquent contributions since "the CBA and trust agreements . . . treat these unpaid contributions as inalienable plan assets" and signaling support for holding delinquent contributions plan assets "regardless of the language of the benefit plan.").
+
+In a related context, a federal bankruptcy court recently refused to discharge a debtor's debt for delinquent contributions based upon the Bankruptcy Code's "defalcation in the performance of fiduciary duty" exception. See In re Fahey, 494 B.R. 16 (Bankr. D. Mass. 2013). Although the court initially found that the debtor lacked the necessary discretion for fiduciary status under ERISA because the "option to breach a contract does not constitute discretion in the performance of one's duty," the United States Bankruptcy Appellate Panel for the First Circuit reversed. The Panel ruled that "even if an ERISA fiduciary does not per se satisfy the § 523(a)(4) requirement for 'fiduciary capacity,' an analysis of [the Debtor's] control and authority over the plan in functional terms nonetheless yields the conclusion that he acted as a fiduciary of a technical trust imposed by common law." On remand, the bankruptcy court found that the debtor prioritized payments that were personally beneficial over his obligations to the ERISA funds and, consequently, committed defalcation as contemplated by the Bankruptcy Code.
+
+View from Proskauer
+
+Although the general rule that employer contributions do not constitute plan assets until actually received by the trust fund continues, recent decisions indicate an increased willingness by courts to carve out an exception to this rule. Funds looking to protect their ability to collect contributions should explicitly define in the plan documents and agreements with employers that plan assets also include all unpaid contributions in the hands of the employer. Employers should be fully cognizant of these provisions; otherwise its officers, directors and other representatives who choose to pay other creditors rather than the trust fund might be held personally liable for the unpaid amounts and interest and penalties, and possibly be unable to escape this liability through bankruptcy.
+
+COURTS CONTINUE TO APPLY PRESUMPTION OF PRUDENCE WHILE AWAITING THE USSC'S VIEWS2
+
+By Tulio Chirinos
+
+As the employee benefits world awaits the U.S. Supreme Court's decision in Dudenhoeffer v. Fifth Third Bancorp, two federal courts recently dismissed employer stock-drop cases brought under ERISA on the ground that plaintiffs failed to overcome the presumption that a fiduciary's decision to remain invested in employer stock was prudent. See Smith v. Delta Air Lines, 2014 U.S. App. LEXIS 7209 (11th Cir. Apr. 17, 2014); Pfeil v. State St. Bank & Trust Co., 2014 U.S. Dist. LEXIS 50227 (E.D. Mich. Apr. 11, 2014) (on remand).
+
+In Pfeil, plaintiffs claimed that by the time State Street was retained as an independent fiduciary for the GM stock fund in 2006, GM was already in serious financial trouble, and thus State Street should have discontinued further investment in the fund. In support of their claim, plaintiffs alleged that numerous securities analysis and experts were already discussing a possible GM bankruptcy filing and how, in their view, GM's financial condition continued to deteriorate. A federal district court in Michigan originally dismissed plaintiffs' claims based on application of the presumption of prudence. The Sixth Circuit reversed, becoming the only circuit court to reject application of the presumption of prudence at the pleadings stage. The Court also adopted a different standard for rebutting the presumption, stating that, instead of showing dire circumstances, "a plaintiff must show that the ERISA fiduciary could not have reasonably believed that the plan's drafters would have intended under the circumstances that the fiduciary continue to comply with the ESOP's direction that the fiduciary invest exclusively in employer securities." On remand, the district court reviewed the evidence, which included mixed analyst reports and continued investment in the stock by some large investors and participants, and on that basis concluded that plaintiffs had not carried their burden to overcome the presumption of prudence.
+
+In the case against Delta Airlines, the Eleventh Circuit applied circuit precedent and affirmed the district court's ruling granting defendant's motion to dismiss. In so ruling, the court found that the plan's requirement to maintain the employer stock fund as an investment option entitled the plan fiduciaries to a presumption of prudence. The court explained, albeit briefly, that plaintiffs were unable to rebut the presumption because, it "was not at all obvious at the time, as underscored by market movements during the class period", that the investment in the stock fund was imprudent.
+
+RULINGS, FILINGS, AND SETTLEMENTS OF INTEREST
+
+ACA's Deductible Limits for Small Groups Repealed
+
+By Stacy Barrow
+
+On April 1, 2014, President Obama signed into law the Protecting Access to Medicare Act of 2014. The primary purpose of the law is to provide a one-year delay of a 24% reduction in payment rates for physicians who participate in the Medicare program.
+
+
+
+Of interest to small employers, Section 213 of the law repeals a provision of the Affordable Care Act (ACA) that limited deductibles in small group health insurance plans to no greater than $2,000 for single coverage and $4,000 for family coverage. For purposes of the ACA's insurance market reforms, an employer in the small group market is one that employs an average of 50 or fewer full-time equivalent employees (in 2016, the definition of small group changes to 100 or fewer employees).
+
+
+
+Before its repeal, the ACA's deductible limit rule was intended to be effective for plan years beginning in 2014. The implementing regulations prohibited carriers from taking into account an employer's health FSA or HRA contributions for purposes of determining compliance with the deductible limits. This left some small employers with no choice but to purchase plans with lower deductibles if they were to continue offering coverage, which in most cases significantly increased premiums. Carriers in certain states, however, were able to avoid implementing the deductible limit rules due to various "fixes" offered by the Obama administration through the Centers for Medicare and Medicaid Services (CMS), as well as an exception in the Health and Human Services regulations, which enabled plans to exceed the deductible limits if it was necessary in order for the plan to achieve a specified actuarial value (e.g., 60%).
+
+
+
+The repeal of the ACA's deductible rule is retroactive to the date of the ACA's enactment (March 23, 2010). It is unclear how quickly, if at all, carriers offering plans in the small group market will return to offering policies with deductibles that exceed the now-repealed $2,000/$4,000 limits.
+
+
+
+* * * * *
+
+
+
+To ensure compliance with requirements imposed by U.S. Treasury Regulations, Proskauer Rose LLP informs you that any U.S. tax advice contained in this communication (including any attachments) was not intended or written to be used, and cannot be used, for the purpose of (i) avoiding penalties under the Internal Revenue Code or (ii) promoting, marketing or recommending to another party any transaction or matter addressed herein.
+
+New IRS Guidance Relating to Same-Sex Spouses and Qualified Retirement Plan Benefits
+
+By Roberta Chevlowe
+
+Shortly after the U.S. Supreme Court ruled (in U.S. v. Windsor) that Section 3 of the federal Defense of Marriage Act (DOMA) was unconstitutional, the IRS announced that same-sex marriages will be recognized for federal tax purposes and provided guidance relating to the impact of Windsor on certain types of employee benefits. At the same time, the IRS left a number of issues open for future guidance for qualified retirement plans. See our prior posts regarding Windsor.
+
+
+
+Last week, the IRS issued Notice 2014-19, clarifying the application of Windsor to qualified retirement plans. This guidance specifically addresses issues concerning the effective date and retroactive effect of the decision as well as the timing of relevant plan amendments. The IRS also published six Frequently Asked Questions (FAQs) that address details such as beneficiary designations in profit-sharing plans, the applicability of choice of law provisions in qualified plans, the application of Windsor to Code Section 403(b) plans, and additional guidance relating to plan amendments.
+
+
+
+In the Notice, the IRS clarified that any retirement plan qualification rule that applies to married participants must be applied equally with respect to a participant who is legally married to an individual of the same sex. As examples, the Notice identified the spousal consent requirements applicable to joint and survivor pensions (Code Section 401(a)(11)), the alternatives available to spouses under the minimum distribution rules (Code Section 401(a)(9)) and rollover rules (Code Section 402(c)), the ESOP rules pertaining to spouses, and the exception to the anti-alienation rule for qualified domestic relations orders (QDROs) (Code Section 401(a)(13)).
+
+
+
+Effective Date and Retroactivity
+
+
+
+The IRS reiterated its prior position that qualified plans are required to operate in compliance with Windsor as of the date of the Supreme Court's decision (June 26, 2013), and further indicated that qualified plans will not be treated as failing to satisfy the Code Section 401(a) qualification requirements for not recognizing same-sex spouses prior to that date. Accordingly, for example, as of June 26, 2013, a qualified retirement plan had to obtain a same-sex spouse's consent to a participant's rejection of a qualified joint and survivor annuity form of benefit payment. The related FAQs published by the IRS expand on this issue, stating that if a plan is retroactively amended to apply the spousal consent rules to same-sex spouses as of June 26, 2013, a plan may obtain spousal consent (to remedy a prior lack of spousal consent) using the principles described in the Employee Plans Compliance Resolution System (specifically, section 6.04(1) of Rev. Proc. 2013-12, which states that the plan may either obtain the consent or have the participant repay the excess benefits and receive a joint and survivor benefit going forward).
+
+
+
+In recognition of the fact that Windsor left open the issue of whether a couple must actually reside in a state where same-sex marriage is legal to be recognized by the federal government as married, the Notice clarified that, from the date of the Windsor decision until September 16, 2013 (the date of clarification in IRS Notice 2013-17), a plan will not be treated as failing to meet the plan qualification requirements merely because the plan followed a "residency" rule (i.e., only recognizing same sex marriages if the couple lives in a state where the marriage was permitted). This is good news for plan sponsors that may have operated in that manner during the period of uncertainty following Windsor.
+
+
+
+With regard to periods before June 26, 2013, the IRS view is that a plan may recognize same-sex marriages for some or all purposes, provided that the plan amendment to do so complies with all applicable plan qualification requirements. As an example, the IRS noted that a plan sponsor may choose to amend its plan in a manner that apples Windsor solely with respect to the joint and survivor requirements and solely with respect to participants whose benefit commencement dates or deaths occur as of a certain date. (This ability to partially amend the plan to be consistent with Windsor will be helpful in avoiding unintended consequences of a broader amendment.) The IRS made it clear that, with respect to a decision to apply Windsor before June 26, 2013, a plan must be amended to specify the effective date and the specific rules that will be applied to same-sex spouses.
+
+
+
+Required Plan Amendments
+
+
+
+The Notice provides that only some plans (not all) must be amended to comply with Windsor. It explained that, where the plan terms are inconsistent with the Court's decision and the IRS guidance, the plan must be amended. For example, a plan would have to be amended if it defines marriage by reference to Section 3 of DOMA or specifies that marriage is between two individuals of the opposite sex. However, a plan that uses the term "spouse," "legally married spouse" or "spouse under Federal law" without distinguishing between same-sex and opposite-sex spouses should not require an amendment (though a clarifying amendment is permitted and may be helpful to plan administrators).
+
+
+
+In terms of the deadline for making the applicable plan amendments, the amendment must be adopted by the later of December 31, 2014 or the otherwise applicable deadline under Section 5.05 of Rev. Proc. 2007-44 (i.e., by the later of the end of the plan year in which the change is first effective or the due date of the employer's tax return for the tax year that includes the date the change is first effective).
+
+
+
+The IRS also made it clear that an amendment to a single employer defined benefit plan implementing Windsor as of June 26, 2013 is not treated as an amendment to which Section 436(c) of the Code applies (i.e., it is not treated as an amendment that increases plan liabilities such that it cannot take effect unless the adjusted funding target attainment percentage is sufficient or the employer makes an additional contribution to the plan). However, an optional amendment to apply Windsor for a period before June 26, 2013 is treated as an amendment to which Code Section 436(c) applies. The FAQs add a similar rule applicable to multiemployer defined benefit plans subject to Code Section 432 (which restricts benefit increases under certain circumstances).
+
+
+
+* * *
+
+
+
+This new IRS guidance answers many of the questions that have confronted qualified retirement plan sponsors in the aftermath of Windsor, and provides ample time to make the appropriate plan amendments, if plan sponsors have not already done so. Moreover, the June 26, 2013 effective date puts to rest many concerns regarding the potential retroactivity of the decision for qualified retirement plan purposes. However, it is important to note that the IRS guidance relates solely to a plan's status as a qualified plan under the Code and, thus, it will not necessarily discourage individuals from making claims under ERISA seeking benefits and/or clarifying rights applicable to periods prior to June 26, 2013.
+
+Second Circuit: Five Factors Still Relevant to ERISA Attorney Fee Awards
+
+By Anthony Cacace
+
+The Second Circuit recently had occasion to provide guidance to the lower courts on the standard for evaluating an ERISA attorneys' fee application following the U.S. Supreme Court's ruling in Hardt v. Reliance Standard Life Ins. Co., 560 U.S. 242 (2010). As previously reported, in Hardt, the Supreme Court observed that ERISA's fee shifting provision unambiguously allows a court to award attorneys' fees in its discretion to either party. Noting that a court's discretion is never unlimited, the Court held that a claimant must only show "some degree of success on the merits" before a trial court may award attorneys' fees under ERISA. In so holding, the Court stated that once a claimant has satisfied this requirement, and thus becomes eligible for an attorneys' fees award, a court may consider other factors in deciding whether to award attorneys' fees.
+
+
+
+In Donachie v. Liberty Life Assurance Co. of Boston, 2014 WL 928971 (2d Cir. Mar. 11, 2014), the Second Circuit concluded that district court judges, when using their discretion to award attorneys' fees to claimants who have achieved some degree of success on the merits, must do so using the framework developed by the Second Circuit in Chambless v. Masters, Mates & Pilots Pension Plan, 815 F.2d 869 (2d Cir. 1987). There, the Second Circuit held that courts must consider the following factors in deciding whether to award attorneys' fees: (i) the degree of opposing parties' culpability or bad faith; (ii) ability of opposing parties to satisfy an award of attorneys' fees; (iii) whether an award of attorneys' fees against the opposing parties would deter other persons acting under similar circumstances; (iv) whether parties requesting attorneys' fees sought to benefit all participants and beneficiaries of an ERISA plan or to resolve a significant legal question regarding ERISA itself; and (v) the relative merits of the parties' positions. In Donachie, the Court therefore overturned a district court ruling that denied plaintiffs' request for attorneys' fees based exclusively on its finding that the insurance company that improperly denied the long-term disability claim had not acted in "bad faith," without considering any of the other Chambless factors.
+
+Ninth Circuit Says Disability Plan Participant's Claim Is Time-Barred
+
+By Madeline Chimento Rea
+
+The Ninth Circuit in Gordon v. Deloitte & Touche, LLP Group Long Term Disability Plan, 2014 WL 1394962 (9th Cir. Apr. 11, 2014) affirmed summary judgment in favor of a long-term disability plan on the ground that the participant, Bridget Gordon, failed to file her action within the applicable limitations period. Gordon had been eligible for disability benefits due to depression. After paying benefits for about twenty-two months, the plan stopped paying benefits upon finding that Gordon had failed to furnish continuing proof of disability. Gordon's appeal was at first denied but then, in a November 4, 2003 letter, the claims administrator approved benefits for an additional two months, which brought Gordon to the maximum amount of benefits permitted under the plan. Over four years later, Gordon called the claims administrator to ask whether her claim could be reopened, but was told that her appeal deadline had passed. Gordon took no action for another year and a half.
+
+
+
+Applying California's four-year statute of limitation governing actions involving written contracts, the Court determined that Gordon's right to file an ERISA action accrued no later than May 4, 2004, because the November 4, 2003 letter stated that her right to appeal would expire 180 days from the date of the letter. Since Gordon did not file a complaint until January 31, 2011, her claim was barred by the four-year statute of limitation. In so ruling, the Court rejected several arguments advanced by Gordon. First, it held that the statute of limitations was not revived when Gordon asked that her claim be re-opened because to hold otherwise would discourage reconsideration by insurers. Second, it held that defendant was not estopped from asserting a statute of limitations defense because Gordon did not detrimentally rely on any representation by the claims administrator. Third, it held that defendant had not waived its statute of limitations defense because an insurance company cannot waive the defense after the limitations period has run and, in any event, there was no evidence that Gordon reasonably relied on statements by the claims administrator that would result in a waiver.
+
+Court Rejects Plaintiff's Attempt to Prevent Plan from Recouping $250,000 Overpayment
+
+By Todd Mobley
+
+A federal district court in the Northern District of California dismissed an equitable estoppel claim brought by a pension-plan participant seeking to prevent the plan from recouping an overpayment. See Groves v. Kaiser Found. Health Plan, Inc., No. 13-cv-2259, 2014 U.S. Dist. LEXIS 38755 (N.D. Cal. Mar. 24, 2014). Relying on defendants' representations that participants contemplating retirement should do so before 2010 (to avert the effects of certain plan amendments), plaintiff decided to retire in 2009. Prior to making her decision, plaintiff exchanged numerous communications (both oral and written) with defendants to confirm that her lump-sum payout amount would be $766,889.54. However, almost two years after receiving the payout, defendants notified plaintiff that the payout calculation was incorrect, and that she had received an overpayment of approximately $250,000.00. Defendants sought to recoup the overpayment plus interest, and plaintiff commenced this action to bar defendants from doing so.
+
+
+
+To state an estoppel claim under ERISA, a plaintiff must demonstrate (1) that the defendant made a material misrepresentation, (2) upon which he or she reasonably and detrimentally relied, and (3) "extraordinary circumstances." Additionally, within the Ninth Circuit, an ERISA estoppel claim cannot be based on representations that would expand the plaintiff's rights beyond those already provided by the plan's unambiguous language. Thus, "where the equitable estoppel claim would result in a payment of benefits that would be inconsistent with the written plan . . . the claim must be denied . . . ."
+
+
+
+In Groves, plaintiff's estoppel claim was not predicated on the fact that the plan's terms entitled her to the relief she sought. Rather, plaintiff argued that it would be unjust for defendants to recoup the overpayment. While noting the "harshness of the results," the court explained that plaintiff's estoppel claim would effectively enlarge plaintiff's rights against the plan by allowing her to keep approximately $250,000.00 to which she was not entitled under the plan's terms. This result, the court held, would be contrary to Ninth Circuit law. Accordingly, the court dismissed plaintiff's estoppel claim without prejudice—in the event she could re-plead and demonstrate that the plan's terms were consistent with the relief sought. The court also dismissed plaintiff's state-law negligence claims as being preempted by ERISA.
+
+
+
+Ohio Court of Appeals Upholds Constructive Trust in Favor of Unnamed Beneficiaries
+
+By Tulio Chirinos
+
+The Ohio Court of Appeals imposed a constructive trust over the proceeds of an ERISA governed life insurance policy for the benefit of the decedent's children even though the children were not named beneficiaries of the policy. Crites v. Anthem Life Ins. Co., 2014-Ohio-1682 (Ohio Ct. App. 2014). Keith Crites, the decedent, had a life insurance policy through his employer with a death benefit of $30,000. His wife was the named beneficiary and his two children were the named contingent beneficiaries. Crites and his wife entered into a separation agreement (but not a qualified domestic relations order), which provided that Crites would maintain ownership of his employer-sponsored life insurance policy free and clear of any claims of his now ex-wife. Crites died without having removed his ex-wife as beneficiary of the life insurance policy. Crites's ex-wife and two children each sought payment of the death benefit to them. The court held that Crites's ex-wife, as the named beneficiary, must receive payment of the death benefit, but ordered that she hold the proceeds subject to a constructive trust in favor of the Crites's children. While recognizing that ERISA requires that the plans be administered in accordance with the plan documents and that payments must be made to the named beneficiary, the court held that trial courts are empowered to impose constructive trusts on proceeds received from insurance policies governed by ERISA after the designated beneficiary receives the proceeds.
+
+Footnotes
+
+1. Originally published by Law360. Reprinted with permission.
+
+2 Originally published by Bloomberg, BNA. Reprinted with permission.
+
+The ERISA Litigation Newsletter – May 2014
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

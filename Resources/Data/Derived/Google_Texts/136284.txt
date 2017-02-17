@@ -1,0 +1,57 @@
+Is a cyber-attack on America’s electric grid imminent? Or will hackers sabotage a major chemical plant this year? Answers to these questions may surprise you because they’re slightly counterintuitive.
+
+Many of the nation’s most-at-risk “critical infrastructure” sites – like power plants and chemical facilities – have analog redundancies in place that ensure catastrophic cyber-attacks won’t halt operations. For now.
+
+ADVERTISEMENT
+
+But as connectivity increases and as electric grids become “smarter” through efficiency and automation measures, they will only become more and more linked to the internet – and more at risk of infiltration.
+
+The good news is that we seem to have stumbled upon a short window of time where the government can work with U.S. critical infrastructure sites to beef up both cyber and physical security. The Department of Homeland Security (DHS) is taking the lead in assessing these vulnerabilities – with the private sector – as fast as they can.
+
+Just last month, DHS released information about a U.S. public utility that was infiltrated. The Department worked quickly with the company to enhance security “before there was any impact to operations.” For once, we’ve got a plan in place to address what most experts suggest will be an ongoing problem.
+
+The not-so-good news is that some industry partners aren’t comfortable or willing to partner with the government, even though attacks on U.S. utility companies are increasing steadily. California’s Energy Commission chairman was quoted recently as saying, “If you’re a utility today, depending on your scale, you’re under attack at this moment.” Voluntary public-private partnerships remain the principal mechanism for managing critical infrastructure risk.
+
+While there are still arguments over which government agency should “own” the cyber mission, the one responsible for protecting America’s energy sector, wastewater facilities and even public transportation systems is Homeland Security.
+
+For most people, cybersecurity is a complicated subject – especially when the government is involved. But it doesn’t have to be. What exactly is your government doing to keep you safe? Here’s what DHS is and isn’t doing to protect against a cyber “Pearl Harbor.”
+
+1. What does DHS do in the cybersecurity world?
+
+DHS’s role is to bring together all stakeholders—government officials and business leaders, security professionals and infrastructure owners and operators—to share information and best practices to reduce and manage cyber risk.
+
+To do that, DHS set up a space called the National Cybersecurity and Communications and Integration Center (NCCIC) where the private sector can sit with DHS and FBI analysts to talk directly to each other and respond to threats in real time.
+
+As part of that Center, DHS maintains the US Computer Emergency Readiness Team – a 24 hour cyber operations center that responds to incidents, provides technical assistance and notifications about current and potential security threats and vulnerabilities.
+
+Through this center, DHS offers threat details and analysis that is non-attributable and anonymized to private sector companies who ask for it and help companies create assessments to understand if there are security gaps that can be fixed.
+
+At the same time, DHS conducts regular Privacy Impact Assessments, which are released to the public, about its cyber operations and data minimization efforts.
+
+2. What doesn’t DHS do?
+
+DHS doesn’t track the systems of companies that haven’t signed up to partner through a mutual agreement and it does not have any so-called “offensive” ability to launch cyber-attacks.
+
+The Department doesn’t force a company to change its cyber security methods, and working with the Department is completely voluntary.
+
+DHS doesn’t view the systems of all critical infrastructure businesses. Unfortunately, that means they don’t have a complete threat picture. The more private sector groups partner with DHS, the easier it will be to see threat trends and be able to address them in real time.
+
+The Department is responsible for and scans the systems on federal networks, but cannot fix problems. They can only alert tech teams in each particular Department or Agency. This argues for greater authority or binding guidance from OMB so that DHS can address intrusions.
+
+
+
+3. What will DHS do in the future?
+
+DHS computer systems will automatically send and receive cyber threat information to private sector partners, based on current threat conditions. Its systems will get “smarter” as it is exposed to new threats.
+
+4. Why does DHS have a cyber role at all? Just because the Department is responsible for protecting critical infrastructure doesn’t mean it’s capable of adding in preventing cyber-attacks, right?
+
+The Homeland Security Act requires DHS to assess vulnerabilities to critical infrastructure, which has naturally evolved to include cyber security. Plus, as a result of a variety of other homeland security efforts, like border security, the Department has developed impressive cyber capabilities.
+
+For example, Immigration and Customs Enforcement has a Cyber Crimes Unit that focuses on transnational criminal organizations that use the internet for narcotics trafficking and illegal imports. And the Secret Service is tasked by Congress to investigate certain financial computer crimes (its original mandate was to investigate financial fraud). So the capacity has been evolving for a long time.
+
+The bottom line: over the past few years, DHS has built successful partnerships and experience to protect critical infrastructure. Now, the mission is shifting from a sole focus on protection (i.e. building stronger firewalls) to building resilience into the networks, systems, and assets that America relies on for the delivery of essential functions and services. DHS is even encouraging innovators to adopt a resilient and secure by design principle.
+
+No government effort will ever be perfect, and the Department has certainly made a few mistakes that have made some wary of trusting it. But the DHS deserves credit for thinking about the long-game and making progress in the absence of cyber legislation.
+
+King is the national security adviser to the president and CEO of the Woodrow Wilson International Center for Scholars.

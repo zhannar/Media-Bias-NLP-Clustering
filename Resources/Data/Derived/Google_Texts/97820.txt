@@ -1,0 +1,39 @@
+Much has been written about the need for young consumers to sign up for on-exchange health plans in order to make the insurance risk pools stable. In a recent Kaiser study, it was pointed out that a broad underrepresentation of the young would not in itself require a significant increase in premiums to stablize costs. The study concluded that if 18-34 year olds were underrepresented by 25%, premiums would only need to rise 1.1%, while a 50% underrepresentation would require premium increases of around 2.5%. These numbers fall in line with our analysis of how a broad underrepresentation of the 18-34 year old group would impact the risk pools.
+
+Where the 18 - 34 year old group could be important is what it might indicate with regards to the health mix of people that have chosen to enroll. We expanded on the KFF study by looking at what a different mix of high and low cost consumers would do to the stability of the marketplace. Our models indicate that an insurance pool with even a slightly higher proportion of higher cost consumers could dramatically impact premiums.
+
+Why Demographics May Still Be An Important Indicator
+
+The demographic mix reported by the exchanges are useful in understanding who is signing up for the ACA plans. If the 18 - 34 year olds are enrolling slower than the other groups, it would indicate that certain factors exist that are discouraging general enrollment. It is unlikely, however, that all consumers in this group would be equally likely enroll. If you believe like we do that incentives modify behavior, then those with better incentives are likely to be overrepresented. The elimination of pre-existing conditions and the use of health status in pricing premiums creates large incentives for those with higher healthcare costs to sign up for insurance through the exchange. Factoring in premiums and cost sharing, many individuals with annual healthcare costs above $3,000 dollars in this group would find significant savings by enrolling on the exchange.
+
+Given these incentive structures, a shortfall in the 18-34 year old group is likely to mean that the healthiest subset of this group is enrolling slower than the population at large. This would mean that the health mix in the insurance pool could differ from the population at large.
+
+How The Health Mix Could Impact Premiums
+
+With health status no longer being used to price individual health insurance policies, healthy adults with low healthcare costs become net payers into the system, while those with higher healthcare costs become net receivers taking money out of the pools. In order for the pools to balance, there needs to be enough net payers to cross-subsidize the others. If the healthy part of the group has fewer members than expected, insurers would eventually need to raise premiums on everyone to offset the lost inflows.
+
+In order to analyze how different health mixes could impact premiums, we took a look at how healthcare costs are distributed within age groups. It is widely accepted that the distribution of healthcare costs is highly concentrated where a small percentage of consumers accounts for the vast majority of healthcare costs. One source we discussed this with indicated that a rule of thumb has been that 20% of the population accounts for 80% of all healthcare costs in the general population. To study this in more detail, we examined data from the Medical Expenditure Panel Survey (MEPS) to understand how these costs were distributed within the demographic groups in Kaiser's study. Under the MEPS dataset, those 18-34 year olds who spent north of $3,000 dollars were only 16% of the entire group but accounted for over 81% of the healthcare spending.
+
+We applied this data by taking the unisex cost curve published by the Society of Actuaries and the age breakdown used in the Kaiser study and determined a cost curve for high and low cost consumers in each group. We then modeled how a healthcare cost mix different from 80/20 in the 18-34 year group would impact the average premium in the entire pool.
+
+Scenario 1: 18-34s represented at the same rate (40%) relative to the potential market with different mix of high vs low cost
+
+% High Cost % Low Cost Premium Impact 20% 80% (Baseline) 0% 25% 75% 5.12% 35% 65% 15.35% 50% 50% 30.70%
+
+Under this scenario, if 18-34 year olds still made up about 40% of the insurance pools, but there were more high-cost policyholders relative to the general population, the necessary premiums could still be substantially higher. Even a 5% overrepresentation in the high-cost group would impact average premiums for all policy holders by 5%.
+
+Scenario 2: 18-34s represented 33% of the pool with different mix of high vs low cost
+
+% High Cost % Low Cost Premium Impact 20% 80% 1.04% 25% 75% 5.21% 35% 65% 13.53% 50% 50% 26.02%
+
+Comparing the two scenarios, we can see that while having fewer 18-34 year olds as a proportion of the group has some impact, its is dwarfed by the impact from the mix of high and low cost consumers in the pool.
+
+Clearly the largest factor in the stability of premiums is how many health low cost individual sign up relative to the high cost consumers. Keep in mind in our modelling we only adjusted the mix for the 18-34 year old group. It is quite possible that the other demographic groups may also not be representative of the overall population with a higher proportion of high cost individual rushing to enter the marketplace. If that is the case and then these numbers would need to be even higher to balance things out. While the exchanges have good data on the demographic and age makeup of the consumer pools, they are not likely to know what the current health mix is for enrolled consumers.
+
+What Will This All Mean In The End?
+
+While a bad mix would mean that the insurance pools are taking in less in premiums than they are paying out in benefits, it doesn't necessarily mean they would have to raise premiums in 2015. Fortunately for insurers like Humana (NYSE: HUM) there are a few programs that will help alleviate the losses from a bad mix of enrollees. The reinsurance program under the ACA was specfically designed to offset high cost consumers in the first three years of this transition. It is likely that premiums will more closely reflect the costs of the general population than that of the enrolled consumer base. While the insurance pools might not be balanced, the insurance companies will be protected from the downside associated with the pools.
+
+What could be problematic is if the mix does not improve in the long run. With only a subset of the uninsured enrolled so far, there is an opportunity to get a better mix of low cost consumers into the pool. If in the later years however, the insurers are still finding themselves with an unbalanced base of policyholders premiums hikes would then have to kick in to make the exchanges work. This is where the oft spoken about death spiral could kick in as even more net payers end up getting pushed out of the market.
+
+Note: As with all models, the numbers in our calculations are meant to be guidelines for understanding how things would change and are indicative of direction and certain degrees of magnitude. Actual numbers will differ as there are many factors a model cannot account for.

@@ -1,0 +1,67 @@
+It’s impossible today to scan a newsfeed or pick up a paper without seeing a headline about data privacy, and how it has recently been compromised.
+
+This storm has been brewing for a long time, as people share growing amounts of personal information via their mobile phones and the Internet – information that various external parties find valuable and want to access.
+
+Today the line between public and private personal data is blurry at best, and one of the areas where this blurry line is not being discussed nearly enough is cancer research.
+
+Articles about cancer research in scholarly journals are the lifeblood of the fight against cancer. For doctors and researchers, flagship journals such as The New England Journal of Medicine, the Journal of the American Medical Association (JAMA) and The Lancet are critical for keeping up to date with the latest breakthroughs, establishing new standards of care, and improving treatments for patients.
+
+In January, a proposal was put forward by the editors of these publications, the International Committee of Medical Journal Editors, that poses a serious threat to the privacy of patient data. In it, the editors would require that investigators of clinical trials make publically available within six months of publication de-identified (i.e., anonymous), individual patient data underlying the results presented in the trial.
+
+At face value, this sounds smart. It promotes transparency in research and data sharing and makes it easier for other scientists to develop and test new hypotheses. Yet it provoked an immediate and vocal protest about the specter of “data parasites,” organizations who conduct research on data collected by others.
+
+However, even this protest ignores a more chilling issue -- the threat to patient privacy and the ability to conduct cancer clinical trials. This proposal may even harm the ability of the Vice President’s Cancer "Moonshot" to expand patient access to these trials.
+
+
+
+As cancer doctors and clinical researchers, we are obsessed with protecting patient privacy in health care, particularly in the clinical research area, both because it’s the right thing to do, and because it’s the law, covered under the Health Insurance Portability and Accountability Act of 1996.
+
+
+
+What would it take to compromise a patient’s privacy? It turns out, not much.
+
+De-identifying data is actually quite hard. The Department of Health and Human Services reports that “the combination of a patient’s Date of Birth, Gender, and 5-Digit ZIP Code is unique for over 50 percent of residents in the United States.” In other words, the majority of the U.S. population could be identified with these three items alone.
+
+Two out of the three – age and gender – are standard parts of any clinical trial that reports basic demographics of enrolled participants and outcomes for men and women. The third – zip code – can easily be extrapolated from the zip code of the hospital enrolling a patient onto a study, as even a hospital as large as Cleveland Clinic derives 80 percent of its patients from surrounding Northeast Ohio.
+
+The ability to identify clinical trial participants increases when even limited information is cross-matched to other publically available sources, such as voter registration rolls.
+
+
+
+Additionally, within cancer trials, the ultimate measure of a clinically meaningful benefit to an intervention such as treatment with a new drug is improvement in overall survival. This is measured from the time of diagnosis or enrollment onto a study, to the time of death or the study’s end. Introducing these dates to publically disclosed information further increases the likelihood that an individual can be identified, particularly if that person has a rare cancer.
+
+
+
+Let’s take, for example, hairy cell leukemia, which is diagnosed in approximately 600 people in the U.S. yearly. Compare that to the 70 million people in the U.S. living with high blood pressure.
+
+A person enrolled on a clinical trial of, say, a new monoclonal antibody for this type of leukemia whose supposedly de-identified data is made publically available is much more likely to be detectible than someone with hypertension, who could more easily get lost in the shuffle of the one-quarter of the U.S. population with the same diagnosis.
+
+
+
+Cancer clinical trials are also increasingly becoming smaller, for two reasons.
+
+First, the holy mantra of cancer research is referred to as “bench to bedside,” which involves taking an exciting discovery from the lab, developing a drug based on that discovery that targets a specific cancer, and bringing it to the bedside, to treat a patient.
+
+Second, cancer clinical trials are moving towards enrolling patients with particular genetic mutations underlying their cancers.
+
+So, even within the small population of patients with hairy cell leukemia, a trial may focus on those hairy cell leukemia patients with a BRAF mutation. These types of trials are frequently limited to a single cancer center, or at most a small handful of centers, and are often internally funded, at least in part.
+
+
+
+Introducing a requirement that clinical trial data be made publically available requires infrastructure in the form of databases, computer servers, and personnel, which adds to the price tag for these studies. At a certain financial inflection point, studies may not be conducted, even when they ask important research questions for patients who desperately need new therapies.
+
+
+
+A final impact that disclosure of patient data will have on cancer research is on the unfair position in which we will be placing our patients. Before a person enrolls on a clinical trial, he or she provides informed consent, acknowledging that the potential risks, benefits, personnel involved in conducting the study, and alternatives to a study treatment have been presented, in an understandable way.
+
+If public disclosure of data is required, it would, justifiably, have to be added to the informed consent process, and our patients would face what amounts to a Faustian bargain: agree to allow your data to be made public, or you cannot enroll on a clinical trial. It would be all or nothing, as an “opt-out” clause is not being proposed.
+
+This is not the sort of choice we want to force people to make when they are about to undergo treatment for their cancer.
+
+
+
+While we appreciate the scientific rationale for the proposal to make clinical trial data publically available, in the end it cannot trump the rights of our cancer patients to maintain their privacy, have a full range of clinical trials available, and make treatment decisions free of conflict.
+
+
+
+Mikkael A. Sekeres is Director of the Leukemia Program and Vice-chair for Clinical Research at the Cleveland Clinic Cancer Center. Brian J. Bolwell is Chairman of the Cleveland Clinic Cancer Center.

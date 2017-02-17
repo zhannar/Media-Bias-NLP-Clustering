@@ -1,0 +1,29 @@
+But what stories will have great stats? It's mostly guesswork, but some people are better than others at it, and Upworthy has been as good as they get.
+
+The social web is this strange, organic machine. People post stories on various domains, large and small. Small teams of people (social media editors) try to get momentum behind those stories on the sites of the big gatekeepers—Facebook, primarily, but also Twitter and Reddit. Then, if a story begins doing well by the efforts of the site that published or something else, the feedback loops kick in. Facebook, in particular, likes to add fuel to the fire, so a story that's got great initial sharing stats can go huge in a matter of minutes.
+
+Because it was clear that they had figured out something, and that this something was powerful.
+
+The question I've always had about Upworthy —the fastest-growing media startup in memory—is whether it had figured out how to exploit a single behavioral tic or created a system for finding and using those loopholes.
+
+The social terrain varies enormously and quickly. It depends on the psychology of different sets of millions of people of varying media sophistication and taste, not to mention the algorithms encoding the preferences of Facebook, et al. And the changes that come are as "viral" as the stories that pump through the networks. One day's hot way of doing something is tomorrow's tired cliche.
+
+The question has been, then: Could Upworthy keep cranking out the hits even as the underlying preferences changed or had they only figured out a particular, dated version of the social web.
+
+Now, New York Magazine has gone deep on the company, and I think it lends evidence to the idea they're creating a system (or a technical culture) for winning on the ever-shifting social media topography.
+
+Nitsuh Abebe describes the basics of their process:
+
+Curators like Eisenberg trawl the web for “seeds”—content to feature on the site—and develop them into “nuggets.” A nugget is, for the most part, a list of 25 potential headlines, developed in a kind of high-octane one-person brainstorming session. Then comes “click testing.” Curators load potential headlines and thumbnail images into a testing system, which shows each option to a small sample of the site’s visitors, tracking their actions—did they click it, did they share it?
+
+We already knew, in rough terms, that this was how Upworthy worked. But it's the way they're tweaking the system that I find interesting:
+
+The system used to return detailed numerical feedback on each option, but it was decided that hard numbers over­influenced the curators; now it tags options with things like “bestish” and “very likely worse.”
+
+To me, at least, this shows that Upworthy is trying to protect itself from overoptimizing. They're not trying to hit the computer-generated maximum with every story so that they can increase the variety and spread of their attempts. They also seem to recognize the power that the numbers can exert, even if they're not that precise.
+
+There's one other piece of evidence in the story that suggests it's working, too. They basically trademarked what became known as the "curiosity gap" headline. It's also known as the "Upworthy-style" headline. And now, the site is poised to trend away from using it. Abebe again:
+
+Then [Mordecai, a site curator] lets everyone in on his newest data discovery, which is that descriptive headlines—ones that tell you exactly what the content is—are starting to win out over Upworthy’s signature “curiosity gap” headlines, which tease you by withholding details. (“She Has a Horrifying Story to Tell. Except It Isn’t Actually True. Except It Actually Is True.”) How then, someone asks, have they been getting away with teasing headlines for so long? “Because people weren’t used to it,” says Mordecai. “Now everybody does it, and they do cartoon versions of ours.”
+
+They're not married to a headline style; they're married to a process for creating headlines. And, at least from his profile, they've got enough visibility into the dynamism of the social web to move on from their past success.

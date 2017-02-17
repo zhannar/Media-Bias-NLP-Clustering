@@ -1,0 +1,11 @@
+All kinds of problems get blamed on software glitches, but this has to be a new one. Over the past decade, thousands of inmates have gotten out of prison early because of an unpatched bug.
+
+It took 10 full years for the Washington state Department of Corrections to take notice. And even then, technically it apparently wasn’t their own doing. In 2012, officials received word from the family of a victim who was concerned that an offender might be granted release well ahead of schedule.
+
+It turns out that since 2002, the software that keeps tabs on prisoners has been having trouble figuring out how to properly apply “credits” for good behavior. That’s led to the early release of around 3% — reportedly as many as 3,200 — of Washington’s incarerated population over the past ten years. On the upside, that means the software’s been getting it right 97% of the time, so at least it’s got that going for it, which is nice.
+
+It’s also not as bad as if, say, some criminals family had mailed him a Community Chest card and the warden figured it was legit.
+
+A fix has reportedly been available for some time now, though it has yet to be deployed. Anyone in the IT business knows there could be any number of good reasons that the patch hasn’t been applied yet, but allowing prisoners to continue making early exits isn’t a good trade-off.
+
+Governor Jay Inslee says that situation is “totally unacceptable” and “maddening.” He’s announced a plan to deal with it, which includes retaining two federal prosecutors to head up an independent investigation and fast-tracking the patch. It’s now set to roll out next month.

@@ -1,0 +1,51 @@
+Thought you might find this interesting Submit
+
+Editor’s Note: Mark Menke is the Chief Technology Officer of Network DLP at Digital Guardian, a data protection firm. Mark has over 20 years of experience in various roles from ASIC Design to IT and Security Consulting roles.
+
+Over the course of 2015, countless data breaches occurred within hospital networks, health insurers, physicians’ offices, and other organizations in the healthcare industry. In fact, Community Health Systems, Premera and Anthem were just a few of the most notable names who made cybersecurity headlines last year. More than 94 million records were exposed as the result of attacks varying in sophistication, which ranged from standard, employee-targeted breaches, to more complex methods carried out by scheming hackers.
+
+It’s widely agreed upon that hackers target industries that hold valuable, sensitive and extremely personal data. It follows, then, that the healthcare industry is one of those targeted sectors, and has been for quite some time, due to its treasure trove of private information including mailing addresses, family histories, medical conditions, social security numbers and much more.
+
+But with attacks increasing in both size and complexity, it’s time to more closely examine the healthcare industry, in particular electronic health record (EHR) providers.
+
+A Recent EHR Scare
+
+Last June, Medical Informatics Engineering informed customers that it suffered a cyber-attack that resulted in the theft of data. The medical firm is the creator of NoMoreClipboard, a web-based EHR platform that enables physicians’ offices to manage patient information via a web-based portal.
+
+Hackers made off with stolen information including patients’ names, mailing addresses, email addresses and dates of birth. For some unstated number of patients, Social Security Numbers, lab results and dictated reports were also stolen.
+
+As healthcare firms continue to “go virtual” by partnering with EHR vendors, they must prepare themselves for the potential security risks, especially following the case of Medical Informatics Engineering. If they don’t, 2016 may very well be the year when EHR vendors become hackers’ next major target.
+
+Why Target EHR?
+
+Hackers are moving upstream: from hospital networks and insurers who represent patients in designated geographic areas, to now, EHR providers with international customers. With web-based EHR systems, hackers can easily access data from hundreds or thousands of health networks in a singular attack. It’s also likely that web-based EHR systems, like other similar applications, suffer from many common vulnerabilities that might give attackers access to backend systems and data – from SQL injections to cross site scripting.
+
+To further complicate the risk, the Affordable Care Act has created significant incentives for doctor’s offices to embrace EHR systems, as these technology systems are known to replace inefficient, paper-based medical records systems. Web-based EHR platforms allow physicians to reap the benefits of these efficient tools without requiring an investment in hardware, software or IT staff to manage them. While this is a big plus for the healthcare industry, where margins are small, it is also a serious drawback for cybersecurity.
+
+In addition, it’s important to keep in mind that cybercriminals are targeting hospitals for monetary profit. Compared to stolen credit card numbers, PHI is far more valuable to an attacker. If you have a credit card stolen you can freeze the account and have a new one issued with a different account number, which limits the shelf life and value of stolen credit cards. Medical insurance numbers and social security numbers are not replaceable and are much longer lived, making them much more valuable to a cybercriminal as they have a longer time to sell and contribute more to fraud or identity theft crime.
+
+To remain secure, healthcare organizations using EHR platforms should consider implementing the following precautions while using web-based portals to ensure that their practice is protected:
+
+1. Understand the Imminent Risk
+
+It shouldn’t come as a surprise that awareness is the first step in this process. Both EHR providers and the healthcare organizations who use their services should understand the value of the data they hold, and that hackers are after it. They must also realize that with a rise in sophistication from attackers, EHR application servers are now firmly in the crosshairs of the most malicious actors. Take time to educate the entire organization on the risks, from the C-suite down to the receptionist. In addition to regular training sessions, plan to conduct regular EHR risk assessments to ensure the level of risk is kept at a minimum.
+
+2. Recognize and Label the Valuable Data
+
+It’s an unfortunate reality that often, healthcare firms, and the EHR providers they work with, don’t know where the most valuable data is stored and who has access to it. All parties involved must learn what the sensitive data is if they want to prevent it from being stolen.
+
+Identifying the crown jewels can sound like an intimidating, time-consuming task, but it doesn’t have to be. Begin with your most sensitive data — the information you know a hacker is after. This can be in the form of financial and personal data, but could also include lab tests, x-rays, and other medical-based information. Identify those crown jewels before moving to the next organizational function.
+
+Once critical data is identified, label it. Mark all sensitive assets as “internal only” or “confidential.” This is the quickest and easiest protection method, regardless of whether the document is digital or paper-based. Employees then have a visual cue to treat the document with care, which is important because internal staff are almost always targeted by hackers.
+
+3. Utilize Technology to Protect the Labeled Data
+
+To ensure your sensitive data stays safe, choose and implement one of the various technologies that are available. From encryption to digital rights management, persistent document tagging to policy-driven data protection, there are several approaches to ensure data flows freely, but only on a need-to-know basis through proper technologies.
+
+4. Prepare for a Possible Breach
+
+Even with preventative measures in place, a data breach can still occur, so it’s critical to be prepared with an incident response plan. Immediately following a breach, healthcare professionals should identify the information compromised, isolate the data and decide how to inform the patients impacted by the event. The next priority should be to alter the method to avoid future data breaches, including thoroughly testing the EHR system.
+
+As healthcare organizations continue to digitize their critical data and work with EHR vendors to transfer this information efficiently, cybersecurity must remain top of mind. Taking steps to classify and protect the data is important to minimize risk as well as prevent an attack. Because healthcare firms store such a valuable wealth of information, it is all the more important to prioritize the data’s vulnerable center – EHR platforms.
+
+Featured image credit: jakerust via cc

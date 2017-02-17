@@ -1,0 +1,43 @@
+Natural News nutjob Mike Adams (a.k.a. the self-styled Health Ranger) is certainly trying to fearmonger the idea that 21-days is not enough. First, remember that this is the guy who the FBI is investigating for surreptitiously setting up a website earlier this year where he likened crop biotech researchers to Nazis and then argued...
+
+...it is the moral right — and even the obligation — of human beings everywhere to actively plan and carry out the killing of those engaged in heinous crimes against humanity.
+
+So consider the source when Adams writes:
+
+A jaw-dropping report released by the World Health Organization on October 14, 2014 reveals that 1 in 20 Ebola infections has an incubation period longer than the 21 days which has been repeatedly claimed by the U.S. Centers for Disease Control. ... This means that Ebola-infected U.S. citizens who are "cleared" of Ebola may still erupt with the deadly virus for a period of three more weeks. (emphasis his) Why hasn't anyone reported this until now? How is this not one of the single most important pieces of information in the world at this moment when all human life on our planet is now legitimately threatened by an uncontrolled viral outbreak with a 70 percent fatality rate and no recognized treatments or cures?
+
+Adams is essentially putting his panicky spin on the World Health Organization's situation assessment for Ebola in Nigeria and Senegal that states:
+
+The period of 42 days, with active case-finding in place, is twice the maximum incubation period for Ebola virus disease and is considered by WHO as sufficient to generate confidence in a declaration that an Ebola outbreak has ended. Recent studies conducted in West Africa have demonstrated that 95% of confirmed cases have an incubation period in the range of 1 to 21 days; 98% have an incubation period that falls within the 1 to 42 day interval. WHO is therefore confident that detection of no new cases, with active surveillance in place, throughout this 42-day period means that an Ebola outbreak is indeed over.
+
+Presumably the WHO is also setting a 42-day time limit in order to make sure that unaccounted for cases do not emerge before for declaring an epidemic at an end.
+
+Adams apparently thinks that people infected with Ebola who remain asymptomatic for more than 21-days are somehow like modern Typhoid Marys. This is wrong. Typhoid Mary was an asymptomatic carrier of that bacterial disease, whereas people infected with Ebola pass along the illness only after they become symptomatic.
+
+Those interested in less senational and more accurate coverage, can go over to The National Journal, to read Brian Resnick's terrific article that asks, "Is 21 Days Enough for Ebola Quarantine?" Resnick is focusing on calculations published in PLoS Current Outbreaks by Drexel University researcher Charles Haas who finds:
+
+While the 21 day quarantine value currently used may have arose (sic) from reasonable interpretation of early outbreak data, this work suggests a reconsideration is in order and that 21 days may not be sufficiently protective to public health.
+
+Haas does importantly add:
+
+The estimate of appropriate incubation time would need to explicitly consider the costs and benefits involved in various alternatives, which would incorporate explicit computations from transmission modeling.
+
+Let’s take a stab at roughly toting up the costs and benefits. In a first scenario assume notionally that 20 people are infected with Ebola and 19 become symptomatic before 21 days. If they are placed in effective quarantine, the 19 will either die or get well in which case they are no longer a threat to public health. What about the one who becomes symptomatic after 21 days? There is no magic to the 21-day incubation period, since an infected person who is symptom-free until 30 days or 42 days will anyway not be passing the disease on to anyone. (Remember: No Ebola Marys.) Once the person whose incubation period stretches beyond 21 days becomes symptomatic, he will presumably be quarantined as well and like the others die or get well.
+
+In the current epidemic in West Africa, the number of people to whom each infected person passes the contagion on to is estimated to be around 2. In other words, each person ill with Ebola is now infecting 2 people. To control an epidemic, the reproduction number must fall below 1, at which point ever fewer people become infected. In order to drive the reproduction number below 1 in West Africa, it is estimated that 70 percent of infected people must be quarantined.
+
+Bear in mind that in unvaccinated and uninfected populations, the effective reproduction number for measles, whooping cough, smallpox, and polio is estimated to be between 12-18, 12-17, 5-7, and 5-7 people respectively.
+
+So the 1 person out of 20 who becomes symptomatic after 21 days will likely infect 2 people. The chance that these 2 newly infected people will remain symptom-free for more than 21 days is also 5 percent. As you can readily see, the number of infected people who remain symptom-free for more than 21 days declines steeply with effective quarantine.
+
+But let’s say that public health officials impose an even more stringent quarantine. In this case, if 100 people merely suspected of being exposed through casual contact (not body fluids) to Ebola are quarantined for 21 days, presumably 95 of them would either come down with the illness or show no symptoms. If quarantine works, then those who come down with the disease would either survive or die and the symptom-free will be released. In either case, 95 of those who had been in quarantine would no longer be a danger to the public.
+
+What about the postulated 5 who become symptomatic after a 21-day quarantine? Aren't they a menace to the public's health? Let’s begin by assuming that the 5 people who become symptomatic (and thus contagious) after leaving quarantine come into contact with 10 people each after their symptoms begin. I am postulating this as a reasonable number of contacts after symptoms occur because if the people who had been previously quarantined for 21 days due to possible exposure to Ebola are like me, they would be obsessively monitoring themselves and run to a hospital quickly if they feel ill. Although they were not in quarantine (self-monitoring instead) both of the Dallas nurses who are now infected with the virus basically did do this. Unfortunately, one nurse who reported an elevated temperature was told not to worry about it and flew off to Cleveland.
+
+In any case, my stringent scenario implies that 50 people exposed to the folks who become symptomatic after 21 days would subsequently be quarantined. Of the 50 people now in quarantine perhaps 10 would be infected (reproduction rate of 2). The chance that just one of the infected people now in quarantine would remain asymptomatic until after 21 days is low (5% X 10 people = ½ person). But let’s assume the bad luck that one does become symptomatic after quarantine and they too come into contact with 10 people. Of those 10 who are now in quarantine, assume that two are infected. It becomes increasingly unlikely (5% x 2 people = 1/10th person) that the infected would become symptomatic after 21 days. And so on through subsequent stages of quarantine.
+
+Anecdotally, three missionaries with SIM USA were quarantined for 21 days after being in contact with Ebola patient Nancy Writebol who was flown from Liberia and successfully treated at Emory University Hospital in August. None of them, including her husband, came down with the disease. It is also the case that the four quarantined people who lived in the Dallas apartment with Liberian Ebola patient Thomas Eric Duncan have so far not fallen ill. Their 21-day isolation period ends this Sunday.
+
+Finally, as Haas notes, deciding what limits to place on quarantine come down to a benefit/cost judgment. At this point, the 21-day period for quarantine seems adequate for effectively protecting public health.
+
+For more background, see my article, "How Cutting-Edge Medicine Might Have Spared Us the Ebola Epidemic."

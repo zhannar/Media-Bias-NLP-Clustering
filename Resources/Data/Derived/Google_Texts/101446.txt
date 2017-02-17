@@ -1,0 +1,45 @@
+PokitDok CEO’s Radical Idea: Transparent Pricing in Primary Care
+
+Xconomy San Francisco —
+
+Healthcare consumers in the U.S. face two towering challenges: we can’t get the care we want, and the care we get costs too much.
+
+The new coverage provisions under the Patient Protection and Affordable Care Act, which finally went into effect last week after years of bureaucratic preparations, coding, and court challenges, are designed to fix the access problem. But the reforms collectively known as Obamacare don’t do much to contain price increases. And that problem won’t go away, many observers argue, until consumers have a clearer idea of what healthcare services actually cost—and are able to do some comparison shopping, just like they would at the grocery store or the auto showroom.
+
+The cost problem in healthcare is finally getting some serious attention. 2013 saw the publication of two landmark journalistic studies—Steven Brill’s special Time issue “Bitter Pill” and Elisabeth Rosenthal’s New York Times series “Paying Till It Hurts”—that exposed just how poorly hospitals, pharmaceutical companies, and other healthcare providers are able to explain or justify the prices they charge for everything from stitches to saline solution to statin drugs.
+
+That’s leading to widespread calls for greater price transparency in medicine. And in a few corners of the healthcare establishment, we’re seeing the first signs of free-market economics: real cash-on-the-barrelhead marketplaces where providers post descriptions of their products, services, and prices and prospective patients can make an informed choice about where they’re going to spend their out-of-pocket dollars.
+
+One of these marketplaces is PokitDok. Lisa Maki, a software designer and former Microsoft product manager, started the company in 2011 in an effort to make it easier for healthcare consumers like herself to shop for the best products at the best price, just as they would at an e-commerce site like Zappos. PokitDok is a matching service where you can enter your location and the type of health problem you’re looking to have fixed; browse price listings from local providers; and, if you find a provider you like, pay cash for the service right then and there.
+
+If it all sounds too radically simple to be true, it’s because Americans have become accustomed to a healthcare economy where secrecy and opaqueness are the rule. Price transparency in medicine is “a real mind-bender for people,” says Maki (shown at center in the photo above). “Somewhere along the way, we as consumers bought into some brainwashing—into a way of experiencing healthcare that isn’t really doing us any good. We demand less from our healthcare system than we do from our cars, or from Zappos. I should at least have the same information when I purchase healthcare as I do when I purchase shoes.”
+
+More than 1,000 providers have put their price lists on PokitDok. Maki says the company decided to start with primary-care doctors and other independent specialists because they’re being hit by falling insurance reimbursement rates and need better ways to connect with potential customers outside of the traditional insurance system. Getting hospitals to cough up pricing information, she says, will be a much longer road.
+
+To bring more physicians into PokitDok, the startup has raised $5.4 million in seed and Series A funding, with New Atlantic Ventures and Rogers Venture Partners as the biggest backers. When I spoke with Maki in the second half of 2013, the company had a dozen employees and was growing fast. Its headquarters is in San Mateo, CA, and co-founder Ted Tanner runs an engineering office in Charleston, SC. Our interview, reproduced in edited form below, covered everything from the beginnings of the company to Maki’s take on the impact of Obamacare. (Maki will speak in Las Vegas this Wednesday as part of the Digital Health Summit taking place alongside the International Consumer Electronics Show.)
+
+Xconomy/Xperience: What’s the origin story at PokitDok?
+
+Lisa Maki: How I came to this initially was, I had a back injury which led to a recommendation that I have my spine fused. I’m a very active person—I’ve competed in sports since high school—and I didn’t want to accept that diagnosis. So I went out to look at options on my own. I eventually found a study—by researchers at the same hospital where surgeons had told me my only recourse was to have my spine fused—about a different treatment that had great outcomes with much less cost overall. So it took me six months to go 100 yards. It woke me up to the fact that regardless of our health plan, we do have the option to shop for the best treatment, and choice as to what we will pay to get what we want.
+
+I’m the classic example of the kind of person we are seeing starting to shop for healthcare. I’m on a high-deductible plan so I can get the lowest premium. I pay cash for a lot of procedures because it’s not worth the trouble to file a claim. When something happens, I’ve got some cash in the bank to help me deal with the deductible, and I’m fine with that. At the end of the year, I net out lower as a result.
+
+We are also seeing more and more consumers go to cash-based physicians because it’s a better experience. All of a sudden they get to spend an hour talking with their doctor about everything, which means fewer return visits, and they typically get to [figure out] whatever is actually wrong, because you can’t do that in 15 minutes.
+
+Our job is to make sure those consumers and those providers are meeting in the marketplace.
+
+X: To what extent is this trend toward greater out-of-pocket healthcare spending a product of Obamacare?
+
+LM: This didn’t start with Obamacare—these trends started long before the Obama Administration. After we sold our last startup to a benefits data company, we spent a year and a half looking at the data to see what kinds of [insurance] products were being created, where employers were shifting employees to, and how much more employees were spending out of pocket. This trend started years ago. More of us will be paying more out of pocket for basic care. As technologists, we can connect the dots and create a marketplace where information is more freely exchanged, and create the basics that are needed for providers to price their products and for consumers to find them.
+
+X: How is PokitDok different from Castlight Health, BetterDoctor, ZocDoc, and other online marketplaces where consumers can search for doctors?
+
+LM: The way I differentiate us is that we are a true marketplace, setting up the basic information that will allow demand to drive supply, to drive a market price. Castlight gives you great information on past data, using claims data to tell you how much [a service] has cost in the past, but a true marketplace is based on what it’s going to cost me today. BetterDoctor and ZocDoc are much more like directories with scheduling services—managing inventory and working with providers to understand how they call fill slots. So that’s inventory management, as opposed to a marketplace. We give health providers their own storefront and let them control their own information about treatments and services and how they price them. We give them tools to market themselves in this new marketplace, because clearly that’s something they have not had to do before.
+
+X: Traditionally, physician practices and hospitals and drug companies have set their prices as high as the market will bear—the “market” being insurers and the government, mainly. Consumers have never been given much insight into that process, which seems to happen behind closed doors. So I’m surprised to hear that physicians are willing to publicize their prices at all, or that they can even figure them out.
+
+LM: When we started PokitDok, we got a lot of pushback. People said there wouldn’t be anyone out there willing to post a service for a price. We were told that doctors would never show up to this. Our hypothesis was that no one had ever asked them. So that is what we did. First and foremost, it was about getting some standardized ways for providers to present the information so that consumers could understand it—super simple and quick ways to put the information [about services and prices] into our platform and publish it.
+
+We found that it’s hard to find this information in a hospital, but if you go to a surgical center or an independent doctor or an imaging lab or a walk-in clinic with nurse practitioners, they know what those prices are. It can vary by region—it shouldn’t surprise you that if you go to a clinic in Hollywood it is going to cost more than if you go to Burbank. But that’s the same in any marketplace.
+
+At most specialists, if you go in and say, “I’m going to pay cash today—this isn’t a bill-me thing, I’m putting the money in your pocket—what is that price?,” that is a very different price [from the one they quote to insurance companies], and that is about as close to the retail price as we have right now. There are people out there ready and able to … Next Page »

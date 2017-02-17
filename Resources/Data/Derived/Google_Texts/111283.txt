@@ -1,0 +1,53 @@
+#HackForRand, the first-ever hackathon of Rand Paul’s presidential campaign, is running late. It is noon on Saturday, and everyone — coders, press and staffers — is getting restless.
+
+Restless enough that MSNBC’s Ronan Farrow spots an acoustic guitar leaning against a wall, and begins playing an impromptu sing-along a couple of feet away from a life-size Rand Paul cardboard cutout. The set list includes Taylor Swift and Avril Lavigne. Campaign staff and press folks gather around to watch, but most of the hackathon participants stay put. They eased into the zone.
+
+.@RonanFarrow making a Rand Paul campaign event feel like Jewish summer camp pic.twitter.com/AQIIiI1iwk — noah kulwin (@nkulw) June 27, 2015
+
+It should be said up front that Rand Paul hates net neutrality. He has taken a position of deafening silence on same-sex marriage and so-called “religious freedom” laws, and he believes that the Uber-endorsed Affordable Care Act will send America into economic ruin. These are not views shared by most of Silicon Valley, whose most prominent figures gravitate toward elite Democratic circles.
+
+Paul, the junior Republican senator from Kentucky, is also perhaps Congress’s best-known advocate against bulk NSA surveillance. You might remember his 11-hour filibuster last month in protest of the Patriot Act, or his condemnation of the prison system as “the new Jim Crow.” He has also introduced criminal justice reform legislation with New Jersey Democrat Cory Booker, and he is attached to a pro-medical marijuana bill. He likes to talk up his libertarian-leaning brand of conservatism, an earthier version of the traditional “less government is better government” Republican line.
+
+These innovation-friendly, anti-establishment politics, so the thinking goes, play well in Silicon Valley. Virtually everyone at #HackForRand brings up privacy rights and the NSA within ten seconds of explaining why they’re here, and the goal of the hackathon — a 24-hour marathon competition of programming judged by a three-person panel — is to work on building an app that advances “liberty and privacy.” The “liberty and privacy” directive comes from Ron Schnell, the CTO of Rand Paul’s campaign, whose job it is to build a tech-soaked Republican political machine that even Silicon Valley can get behind.
+
+“I know all of you care about privacy, and that’s why the theme of this hackathon is privacy and liberty,” Schnell, also a competition judge, told the couple-dozen attendees as the event kicked off. “We know the Valley cares a lot about privacy, we don’t want to see the government building backdoors into our systems.”
+
+I asked Schnell how he plans to build a tech-minded campaign around a candidate whose politics aren’t in alignment with much of the tech industry on issues like, say, net neutrality.
+
+“Being tech-savvy and against net neutrality are not opposed,” Schnell said. “When Rand talks to people, he talks about something tech people can relate to, which is that you don’t want the FCC in control of the Internet.”
+
+That’s a sentiment shared by the self-described “fiercely libertarian” Elissa Shevinsky, one of the hackathon judges, CEO of Jekudo Privacy Company and a member of Rand Paul’s tech advisory council.
+
+“The hackathon is non-partisan. Not necessarily Democrat or Republican, but about liberty and privacy.”
+
+Okay, sure. But why Paul specifically? What makes him a palatable alternative to other candidates?
+
+“He has tremendous integrity,” Shevinsky continued. “Ordinary politicians, their point of view seems to be determined by polling. Rand Paul is guided by a consistent ethics; his stand on the NSA was admirable.”
+
+Many of the hackathon participants, a dude-heavy mishmash of high schoolers, college students and other coding enthusiasts, also feel the Rand love, albeit less acutely. For example, Team Electorep — incoming Georgia Tech freshman Sujeeth Jinesh, UC Davis student David Chen and UC Santa Cruz student Nathan Mueller — all agreed that Rand Paul is pretty chill, but the opportunity to hone their skills is primarily why they’re here.
+
+“Hackathons are really fun to come to, it’s a fun way to spend the weekend. You always learn a lot of new things about coding, and for someone who works as a programmer that’s really helpful,” Muller said. “Even if you don’t win, it’s really cool to be able to build something that could be really useful.”
+
+The troika built a tool to assist constituents in figuring out the positions of their elected representatives, the kind of project that could just as easily come from places like the EFF or the Sunlight Foundation. Working under signs on the wall blaring slogans like “UNLEASH THE AMERICAN DREAM” and “DEFEAT THE WASHINGTON MACHINE,” the team was optimistic that events like this one can draw out other young programmers.
+
+“I don’t wanna speak for everyone, but a lot of the people I’m near are libertarian. They have, say, a pro-choice view, but they also love hacking,” Jinesh told me. “And then they’re going to turn 18, and they’re going to vote in 2016, and I’ve gone to hackathons with them, and I feel like it would be really effective for a young audience.”
+
+On the whole, the #HackForRand attendees skewed pretty young. They also skewed almost uniformly male, white and, given that the event was held during the weekend of San Francisco Pride, the day after the Supreme Court’s historic marriage ruling –probably pretty straight, too.
+
+Libertarian hacker fuel pic.twitter.com/PZSacN4Ulb — noah kulwin (@nkulw) June 27, 2015
+
+Almost 24 hours after Farrow’s summer-camp-style serenade, the hackathon teams were in the home stretch. Empty cans of Rockstar were everywhere and a lightly touched spread of Noah’s Bagels was located thoughtfully on a central table. Everyone looked tired, but it appeared no one had fallen asleep on a keyboard. Eventually the third and final judge arrived, TechCrunch writer Alex Wilhelm, and the pitches began.
+
+Each team gave a roughly two-minute spiel on how their project advanced either liberty and/or privacy. The projects included a Twitter bot that tracked when politicians’ positions changed on their websites, an app called Ballot that helps voters make decisions in the booth and a campaign contribution system that didn’t rely on passwords.
+
+After a brief recess, the judges announced the winners. First, Schnell went over the prizes: The first-place team would be whisked away to an undisclosed location (later on, someone told me Monterey) to meet the Senator in person, and both first- and second-place winners would receive copies of the Constitution signed by Rand Paul himself (also presumably signed by the Founding Fathers). Then, after congratulating the attendees one last time, Schnell announced the results.
+
+The grand prize went to Team Checkmate, a trio of French aerospace software engineers who had driven up from Orange County the day before. Schnell said their secure payments system, a nifty tool that uses biometric authentication (i.e. a fingerprint) instead of a password, couldn’t be used on the Paul campaign because of regulations. Still, he and the other two judges were impressed with the “innovative” hack.
+
+Although he had spent the previous night in a motel room with a couple other folks, Team Checkmate’s Julien Brissonneau was proud and excited as he spoke about why he believed in technology as a political tool.
+
+“It demonstrates how to rely on the individual dream and individual initiative, that innovation is the blood of the economy,” he said. “I wish every politician was for organizing such events. The tech world has a lot to offer.”
+
+Unsolicited, Brissonneau asked if I’d like to hear his thoughts on the Uber-France tumult. I said sure.
+
+“The Uber riots were very sad, how some people don’t understand the opportunities the world of tomorrow has to offer.”

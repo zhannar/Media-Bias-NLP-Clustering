@@ -1,0 +1,35 @@
+Heart diagram. Credit: Wikipedia Readmission of patients with chronic diseases is a growing problem, costing the U.S. health care system about $25 billion each year. Researchers at The University of Texas at Dallas developed a predictive analytics model that can identify congestive heart failure patients with high readmission risk and potentially help stymie those costs.
+
+The study, published in the March issue of Information Systems Research, was conducted by Dr. Indranil Bardhan, professor and area coordinator of information systems, and Dr. Zhiqiang (Eric) Zheng, professor of information systems, both in the Naveen Jindal School of Management at UT Dallas.
+
+The study answers three key questions: whether a readmission will occur, how often readmissions will occur and when a readmission will occur. The researchers tested their model using a unique data set that tracked patient demographic, clinical and administrative data across 67 hospitals in North Texas during a four-year period.
+
+"Our study highlights the role of predictive analytics not only to identify high-risk patients, but also to reduce the costs associated with future readmissions of patients who suffer from chronic diseases," Bardhan said.
+
+Experts say that high rates of readmission—when patients are readmitted within 30 days of discharge—indicate that the nation's hospitals are not adequately addressing patient health issues. In 2012, the U.S. Centers for Medicare and Medicaid Services imposed penalties on hospitals for preventable readmissions related to chronic conditions, such as heart failure.
+
+"Close to 30 percent of congestive heart failure patients were readmitted within 30 days from 2006 to 2010 in the Dallas-Fort Worth region," Zheng said. "Building an early warning system that identifies predictors for likely readmissions is crucial."
+
+The results of the study indicated several important determinants of patient readmission risk, including patient demographics, hospital characteristics and payer type (Medicare, Medicaid, self-pay, private insurance, etc.).
+
+The model also allowed the researchers to examine the association between hospital usage of health information technologies (IT) and readmission risk.
+
+"Hospitals should consider the use of innovative information technologies, including electronic health records and patient portals, to improve communication between patients and clinicians in order to improve the quality of care delivery to patients with chronic diseases such as congestive heart failure," Bardhan said.
+
+Some of the study's major findings:
+
+While Medicare patients are more likely to be readmitted, their frequency of future readmissions is lower after their first readmission. Hospitals are more focused on taking better care of these patients once they are readmitted, Bardhan said.
+
+Health IT has a beneficial impact on readmissions. Hospitals that implement cardiology and administrative information systems are more likely to exhibit lower readmission rates compared to hospitals that have not implemented these systems.
+
+Repeat care delivery at the same hospital reduces the risk of future readmissions significantly. This indicates that a patient treated at the same hospital across multiple visits tends to receive better quality of care, which reduces their risk of being readmitted.
+
+The results demonstrate how predictive analytics is an important component of the Hospital Readmissions Reduction Program, as established by the Affordable Care Act to improve the quality of health care delivery, Bardhan said.
+
+Previous studies on readmissions were less accurate because they typically looked at patient readmissions back to a single hospital or health system, Bardhan said. This new study uses data from the Dallas-Fort Worth Hospital Council Research Foundation, which allowed the researchers to track patient readmissions across 18 counties in North Texas.
+
+"Hospitals can use the approach that we have developed to not only identify and stratify patients based on their readmission risk propensity, but also reduce their frequency of future readmissions by delivering appropriate treatment and providing more efficient post-acute care," Bardhan said.
+
+Explore further: Hospital readmission rates not accurate measure of care quality
+
+More information: "Predictive Analytics for Readmission of Patients with Congestive Heart Failure." dx.doi.org/10.1287/isre.2014.0553

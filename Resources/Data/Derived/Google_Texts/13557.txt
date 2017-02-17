@@ -1,0 +1,47 @@
+With large data breaches in health care and other industries making headlines, patients increasingly are reluctant to provide their Social Security numbers. Furthermore, data thieves are specifically targeting health care organizations due to the value of information collected from patients. These factors — an increased risk of attack and an increased reluctance to provide information — mean that it is time for health care organizations to review and evaluate the types of sensitive data they collect and store.
+
+Many health care organizations believe they must store patient SSNs for insurance, billing and collection. However, in most cases, this is not true. For example, Medicare requires insurers to send only Medicare ID numbers of Medicare beneficiaries. Also, other individual insurance policies cannot require a patient to submit an SSN, but can refuse to issue a policy if the patient doesn't provide an SSN.
+
+In a few cases, SSNs are required. For example, the SSN is required for Medicare Advantage billing and is needed to comply with Section 111 of the Medicare, Medicaid and the SCHIP Extension Act of 2007. Also, an SSN is required for a provider organization to provide financial assistance or confirm death. Still, even when a patient's SSN is required, your organization can reduce risk by focusing on protecting the access to and storage of patients' SSNs.
+
+Reducing Risk
+
+Addressing the proliferation of SSNs in the health care system begins with acknowledging that the problem cannot be solved overnight. Similar to how the health care industry responded to HIPAA in the early 2000s, a coordinated effort is required that is specific to the protection of SSNs. This involves replacing, reducing and removing SSNs in processes and technology. To promote remediation activities, organizations should take the following actions:
+
+Use a universal patient identifier on forms, correspondence and within computing systems.
+
+Collect additional data elements or rely on third-party identity providers to replace SSNs as a data point to uniquely identify an individual.
+
+Automatically mask SSNs on systems and limit display of SSNs within systems to the last four digits.
+
+Remove or replace SSNs in systems where an SSN is not mandated or required by legal or compliance requirements.
+
+Redact SSNs on printed documents and other paper correspondence.
+
+Avoid sending SSNs electronically by using data leakage protection technology.
+
+Implement user access monitoring in technologies that require SSNs to limit the number of users who can access these systems.
+
+Lowering Your Risk
+
+A four-step process can initiate systemwide changes to eliminate SSNs in a health care organization.
+
+Step 1: Assemble an advisory committee. Select cross-functional leaders from throughout the organization to form an advisory committee. Together, the committee will raise awareness about the risks of using and storing SSNs and promote the importance of SSN remediation requirements. These leaders will be responsible for making difficult decisions impacting systems and processes that rely on SSN information. They also will be visible champions in support of the initiative.
+
+Step 2: Determine the scope of the problem and assess the impact. Begin with an inventory that captures all processes, forms and systems that use SSNs. Include additional information such as owner, volume of SSN, risk rating and whether SSN collection is mandatory or optional. Once the inventory is created, the advisory committee should agree to the area(s) of prioritization and focus their efforts on understanding the impact that removing SSNs would have on the selected process or technology.
+
+Step 3: Plan and execute remediation efforts. Careful planning, validation and confirmation are necessary before committing the change to everyday use in business process and technology. Removing the SSN from a process or system can be extremely disruptive to workers, business partners and patients. Computing systems could experience errors or failure to process records if the changes are not understood, made properly and tested thoroughly. Information technology asset management systems likely will be incomplete, and no one person will know all the answers. Develop a single plan to streamline remediation and execute it in an efficient manner.
+
+The same process should be repeated for each target, whether it's a technology or process. Keep the asset inventory updated and valid. Be prepared to experience pushback and growing pains through the remediation process.
+
+Step 4: Institute cultural changes for sustainability in SSN protection. Changing the culture of a health care organization is necessary to implement consistent, accurate shifts in system procedures related to SSN information collection. Respect the patient's right to refuse to provide his or her SSN. This will help to promote a culture of patient privacy and protection.
+
+An increased focus on data security through education about SSN security and protection to all workers is also an important cultural change. Implement policies and procedures for handling SSNs that will increase accountability across business units and process teams. Be persistent when identifying SSN requirements in your organization by challenging the prevailing thought that eliminating the use is "impossible." Create a sustainable process to monitor the successful remediation of processes and technology by establishing quality checks.
+
+A Strategic Initiative
+
+Although regulatory restraints still may require SSN collection in some cases, sensitive patient information should not be housed in all forms and in all systems. Eliminating SSN use is a complicated, lengthy process. Organizations should approach the process strategically and with diligence to protect patient information from outside threats, and to reduce the financial, legal and brand loyalty costs of a security breach.
+
+The views expressed herein are those of the authors and do not necessarily reflect the views of Ernst & Young LLP.
+
+Jasroop Bambrah is a consultant for the health care advisory practice of Ernst & Young and is located in Atlanta. Michael Davis is a senior manager of the health care advisory practice of Ernst & Young and is located in Baltimore.

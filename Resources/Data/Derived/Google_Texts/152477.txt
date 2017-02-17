@@ -1,0 +1,53 @@
+MarkLogic's European business chief reckons fallout from US president Obama's online health insurance marketplace won't hinder public sector deals here - and it might even help.
+
+The website, HealthCare.gov, is a key part of the 2010 Affordable Healthcare Act, which aims to give millions of uninsured US citizens access to health benefits. The site itself, which allows users to "shop" for insurance policies, went live on 1 October with more than 600 hardware and software defects. Not only were features missing, the website kept crashing and has been only sporadically unavailable to US citizens trying to log on.
+
+Adrian Carr, MarkLogic EMEA vice president, dismissed early criticism of MarkLogic and NoSQL's involvement in the high-profile Affordable Care Act project as "uninformed".
+
+Instead, Carr reckoned the Obamacare health insurance website will be completed successfully and, once it is, it'll reflect well on both MarkLogic and on NoSQL.
+
+He pointed out that MarkLogic staffers have been working around the clock to help fix faults in the website.
+
+"The first people who are saying it's their [MarkLogic's] fault or somebody else's fault are generally uninformed," he said.
+
+He was referring to a line in a New York Times article that boiled down the problems with the Obamacare health insurance exchange as being unique to MarkLogic.
+
+Who, us, unfamiliar?
+
+According to the NYT, government contractors hung problems with HealthCare.gov on the fact MarkLogic was "too unfamiliar" compared to IBM, Microsoft and Oracle.
+
+"I think it will end up being positive, because more people will talk about MarkLogic and when the dust has settled they will release we were part of a team that tackled that," Carr said.
+
+"We are central to a lot of companies' business, and Obamacare will be a great example of something we are right in the middle of that's mission-critical, not just to people but to a government."
+
+The HealthCare.gov story is a huge embarrassment that's gone from an IT to a political story, with politicians on Capital Hill demanding an explanation of what's gone wrong and political opponents to Obama's health insurance programme pouncing on an unexpected own goal.
+
+The problem-riddled website was a classic case of a big-bang government IT project gone wrong, with the customer and tech contractors involved now pointing the finger over who was to blame.
+
+We're a long way away from when a newly minted Obama administration wowed tech's new thinkers by picking open-source to run the Content Management System (CMS) over more familiar closed and proprietary names, by going with Drupal for Whitehouse.gov.
+
+Carr reckoned European customers and potential customers are generally aware of what's been going on in the US, but that MarkLogic hasn't "had a lot of flack".
+
+Carr said MarkLogic has been picking up businesses in the UK public sector since it hired more sales people at the start of this year and since it joined G-Cloud this Autumn.
+
+He claimed two to three deals in the pipeline since joining G-Cloud, said MarkLogic is also "chipping away" at the NHS, and reckons next year expects will see more business in security services as a result of its experience working in government security in the US.
+
+New pricing has helped. MarkLogic introduced Enterprise Essential to kill the idea MarkLogic is an expensive database meant for others but not for me. A free, developer edition remains with the high-end Global Enterprise that has custom pricing. You can view the pricing, here. MarkLogic 7.0 also put the database on Amazon's EC2 for the first time, but it's not clear how much business - if any - MarkLogic is getting.
+
+It's all rather late in the life of MarkLogic - the company might be a NoSQL company now, but it actually began life 13 years ago as an XML database.
+
+The idea is to now see off open-source databases like Mongo that have great mind share thanks being open and market share because of the fact their code is easily available.
+
+MarkLogic NoSQL platform is not open source; the database is licensed under a commercial licence.
+
+"We do feel the competition from open source because of the developer spread - it has a huge awareness," Carr said. "Pick the top three NoSQL vendors, we'd come fourth probably. Our price is part of that."
+
+"The question was: do we stay at the high end or drop price and land and expand?" Carr asked. "We are already seeing customers come to us. Smaller and faster moving deals, people coming to us lower down the organisation - people start with smaller projects."
+
+Carr reckoned the new pricing is part of a strategy change emanating from CEO Gary Bloom, the former Veritas CEO and chairman and an Oracle executive vice president who became CEO of MarkLogic May 2012.
+
+Carr reckoned Bloom is now stamping his leadership on MarkLogic, having settled in. The idea is to expand share in Europe before other NoSQL rivals from open source invade from the US.
+
+MarkLogic currently has 250 customers. According to Carr, the goal for next year is to expand in Europe, with offices in France in early 2014 and then in the Nordic region. ®
+
+Sponsored: HPC in the cloud: A solution for varied computing needs

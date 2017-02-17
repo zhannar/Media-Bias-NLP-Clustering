@@ -1,0 +1,21 @@
+When the government first launched Healthcare.gov as an informational site back in June, open source advocates were delighted to hear that the code would be available for anyone to see on the public programming library GitHub. "This new flagship federal .gov website is 'open by design, open by default,'" The Atlantic wrote at the time. "That's a huge win for the American people."
+
+But after a storm of criticism over the healthcare exchange — the second, more complex part of Healthcare.gov that launched on October 1 — the code was removed from GitHub without explanation.
+
+Centers for Medicare and Medicaid Services, the agency administering Healthcare.gov, has finally responded to a query from The Verge about the change. The code was pulled due to confusion over the difference between the two parts of the site, CMS says.
+
+The code for the informational part of Healthcare.gov — the "frontend" of the site — was written by a Washington, D.C. startup and a small team of innovative consultants. The code for the healthcare exchange — the "backend" of Healthcare.gov — was built by more than 50 contractors and was never made public.
+
+People were using the GitHub repository — which contained only frontend code — to report issues with the backend, according to CMS. Because the backend had extensive technical problems, the GitHub repository was overwhelmed with misdirected bug reports.
+
+The GitHub repository was overwhelmed with misdirected bug reports
+
+Seventeen million people tried to access Healthcare.gov in the first two weeks, CMS says. But only a reported 245,000 have been able to sign up. That's because of technical issues that resulted in long wait times, inaccurately calculated subsidies, and glitches that prevented people from completing applications. Even the applications that did get processed had problems; insurers say they are having to manually correct some of the data submitted through the marketplace.
+
+CMS says it has made progress reducing wait times and allowing users to complete applications, and continues to work to resolve the issues. But as issues with the site persist, time is running out. Americans have until March 31st to enroll in a plan or wait until the next open enrollment period; however, those who don't register by December 15th to get coverage starting January 1st may be subject to a fine.
+
+Update, 4:47PM: The Healthcare.gov GitHub repository had issues even before it was pulled. Commenter waltisfrozen points out that the entire history of the repo was collapsed into a single update that was dated June 3rd, meaning CMS wasn't using GitHub correctly and the code didn't reflect the latest changes to the site anyway.
+
+Commenters also noted that CMS could have disabled GitHub's issue tracker if it were really "overwhelmed" with requests. However, there was a lot of confusion among developers, journalists, and others due to the fact that the frontend code was public and the backend code was not.
+
+In the meantime, GitHub user Samuel Reed, who is based in Washington, D.C., has posted a repo that "attempts to be a working clone" of the marketplace backend so that programmers can submit their suggestions and complaints. "I have created this in hopes that there are some concerned programmers at CGI Federal who want to see the project succeed," he writes.

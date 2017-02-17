@@ -1,0 +1,39 @@
+For most people home internet connections have gotten a whole lot faster over the past decade, but in some places today even a 5 megabit (Mbps) connection seems blazing fast. Don’t give up internet video just yet — there are some things that you can do to maximize performance. Many of them don’t cost a cent!
+
+Step 1: A good router
+
+The first thing to look at, however, does cost a little money: a good router.
+
+Your ISP might provide you with a basic wireless router or you might have one that you picked up in a Black Friday sale for $30, but it probably isn’t helping your connection live up to its full potential. Investing in a quality router can make a big difference.
+
+Look for a router that offers packet prioritization and quality of service (QoS) features. They’ll let you choose which apps and computers get first crack at available bandwidth and which you’d prefer to restrict. You may, for example, not want torrent downloading apps running full speed during the day.
+
+For DIY types, third-party router firmware like Tomato USB or DD-WRT is worth checking out. As long as you purchase a router with a compatible chipset, you can flash these custom-built firmwares and add loads of new functionality (including QoS) without having to spend big on a tricked-out router at the store. Some companies even sell routers with DDWRT preinstalled.
+
+Step 2: The technical stuff that makes a difference
+
+Changing the DNS servers on your router can help, too. Try running Gibson Research’s DNS benchmark tool. It’ll quickly show you which public DNS servers return the fastest responses to your computer. Assuming you know how to access the router’s administration interface, you can hop in, insert the two best DNS servers the tool located, and start saving a few precious milliseconds of lookup time.
+
+Another thing that can help speed up surfing is a caching proxy server. Squid is a good, free option — and you don’t necessarily have to have a spare Linux box lying around to use it. A Windows executable is available too, thanks to the crew of Acme Consulting.
+
+If you don’t have a ton of devices connecting at the same time, good ol’ WinGate is still around, too. It’s free to use for up to three simultaneous connections and it’s a bit less intimidating to set up than Squid.
+
+Why use a caching proxy? It can speed up access to frequently-used resources, and every device you configure to use the proxy will reap the benefits.
+
+Step 3: Look to your browser
+
+Now, what about your browser? All the major browsers are much better now than they were even last year, but which one is best for slow connections? There’s no one-size-fits-all browser, so the best thing to do is keep an open mind and give several of them a try.
+
+Opera, for example, has its slick Off-road Mode which can make surfing on sluggish connections feel a whole lot faster. When it’s turned on, webpages you request first get compressed and optimized by Opera’s remote proxy servers. Image quality is reduced and things may not always look perfect, but when speed is the top concern that’s a sacrifice worth making.
+
+Google Chrome offers loads of features that are designed to make it feel faster, too. Chrome can pre-fetch content it thinks you’re going to access in the background so that it loads more quickly when you click a link. It’s pretty good at predicting where you’ll click, too, which shouldn’t come as a surprise. Google knows an awful lot about the browsing habits of Chrome users, after all.
+
+Internet Explorer 11 offers similar predictive browsing and pre-loading features, and they can make it appear every bit as fast as Chrome on most popular websites.
+
+If you’re willing to get your hands dirty, Firefox might be the best option. There are so loads of helpful extensions available and an endless list of toggles you can test on the about:config page (just make sure to keep tabs on the changes you make) that will help improve browser performance on slow connections.
+
+And the rest…
+
+Another piece of software worth checking out is a good download manager. If you frequently download very large files, you might want to consider installing an app that can schedule transfers. Free Download Manager is a good one, as is JDownloader — just make sure you grab the scheduler add-on for it.
+
+If you’re looking for some more advanced ways to speed things up, you may want to consider a renting a virtual private server (VPS). They’re a great way to minimize transfer times, and they’re not as expensive to rent as you might think.

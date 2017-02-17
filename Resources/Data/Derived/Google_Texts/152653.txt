@@ -1,0 +1,83 @@
+John Francis’s family has a history of high blood pressure, so when the 53-year-old Minnesotan saw that Apple’s online store offered a blood pressure monitor by iHealth that could upload data to a smartphone or tablet app, he bought it and began tracking his blood pressure.
+
+Surprisingly, the readings showed not only that his blood pressure was low but also that it was getting lower and lower. A month later, when the monitor, which also checked his pulse, measured it at a frightening 30-35 beats per minute (a normal rate is 60-100), he went to the ER, where he was told waiting a few more days could have meant death. Now fitted with a pacemaker, he continues to monitor his blood pressure.
+
+“My blood pressure monitor is literally a life saver,” he told iHealth last month.
+
+Francis’s use of the blood pressure monitor gives a glimpse of the upcoming digital revolution in health. Fitness trackers such as Fitbit, Jawbone and Nike Fuelband have surged in the last few years, with sales of such devices and smart watches projected to exceed $1 billion this year according to the Consumer Electronics Association. That’s 25 times the sales five years ago, when the term fitness trackers largely meant analog pedometers.
+
+But even today’s 2.0 devices have a fairly limited application. While they do collect data over time and communicate with smartphones, their impact won’t truly be known until this fall. That’s when Apple, Google and Samsung will launch platforms ( HealthKit , Google Fit and SAMI , respectively) enabling consumers to aggregate health data from a number of devices, and relay the information to other parties including health care providers and electronic health records. Apple and EHR company Epic Systems have already announced a partnership, and Allscripts is reportedly in talks with the Cupertino-based company.
+
+Apple, Google and Epic declined to comment for this article, and Allscripts and Samsung did not respond to requests for comment.
+
+The link to medical providers, some analysts and doctors say, has the potential to transform health care and medical research by boosting the number of patients doctors can treat, shifting treatment to more preventative measures and lowering the costs of care and insurance.
+
+“It’s a straightforward way of connecting the data end to end from the consumer’s home straight to the physician’s office,” says Jim Taschetta, iHealth chief marketing officer. Taschetta continues:
+
+The first half of the digital equation is powerful in and of itself — [it’s] empowered consumers to take charge of their own health.... The second half of the equation is about how do we seamlessly and efficiently bring the medical community into that. That’s what you’re starting to see with Google and Apple and Samsung creating these switches in the middle that will allow data to flow seamlessly.
+
+Less hype for the healthy
+
+While the platforms will open up a new level of access to patient health data for doctors, none of that will occur without an individual’s consent. “If you don’t want to give your information to somebody, you don’t have to do it. This is a self-subscribed thing. Either you want to be part of it or you don’t,” says Patrick Moorhead, principal analyst at Moor Insight & Strategy.
+
+Each of the tech players mentioned above is designing its platform so that all health data transmission occurs within Health Insurance Portability and Accountability Act (HIPAA) guidelines. Each consumer/patient decides which health organization — doctor, insurer, lab or another institution — gets to see what data.
+
+Each consumer/patient decides which health organization — doctor, insurer, lab or another institution — gets to see what data.
+
+For those who opt in, the initial changes may seem mundane. Dr. John Wald, a neuro-radiologist and medical director for public affairs and marketing at the Mayo Clinic, says that the current Mayo Clinic Patient iOS app allows patients to access their appointments, securely message physicians and obtain lab and imaging results, but that between now and September, Mayo, through its work with Apple, is revamping the app to allow patients to send HealthKit data to their medical record.
+
+In a second-phase rollout by year’s end, “consumers will be able to take the information they have in HealthKit and use the Mayo Clinic app to access information about glucose, diabetes or asthma or other things that could potentially be monitored and contained in HealthKit," says Dr. Wald. They could also make appointments at Mayo Clinic and access medical information on Mayo Clinic's websites and other digital platforms.
+
+“So that’s the next generation for us — to not only treat our current patients, but educate consumers,” he says.
+
+That may sound unremarkable, but what’s more exciting is that your doctor will be able to see how many steps you take daily, right? Actually, unless you have a particular condition, he or she isn’t likely to be that interested. While your physician won’t be likely to dismiss the data if you do bring it to an exam or give her or him permission to view it beforehand through one of the above platforms, doctors probably won’t see great use in such information for a healthy patient for the same reason that a recent study showed that half of all fitness tracker owners abandon their devices.
+
+“I’ve tried these things and I’m relatively healthy and active and I look at these things and I have no use for them. They’re not changing me in any meaningful way, but if you have serious heart disease and have to check your blood pressure every three hours because it dramatically affects your health, those are the unique solutions where we’ll see this traction take off and pay off,” says Ben Bajarin, principal analyst at technology research firm Creative Strategies.
+
+The continuous physical
+
+That doesn’t mean that current fitness trackers won’t have a role in the big data revolution in health. For chronic diseases like diabetes, educators who counsel people with the condition on proper diet and fitness could use such trackers to help coach patients. Trackers could also be useful for orthopedic surgeons who want to make sure their post-operative patients are hitting a certain number of steps each day.
+
+Read this Wearables in business: Five companies getting real work done Wearables are still trying to win over consumers, but they have made strides in the enterprise. Here are five companies using wearables to add value to their business. Read More
+
+Already, companies like Fitbit are experimenting with selling their devices at a discount to whole organizations, that, in turn, have teams of employees compete to see who can log the most steps. Data shows an active workforce could someday lower group prices. HealthPartners, part of the Cigna Network, offers some corporate plan participants a tracker and $200 after a year of meeting wellness goals, earned through a combination of diet, fitness and participating in challenges.
+
+However, Moorhead points out that in order for these kinds of incentive programs to be effective, they need to be designed so they can’t be gamed by fraud. “What’s to keep me from giving my Fitbit to my son who does 20,000 steps a day and is super active and let him wear it versus me who might only get 5,000? There’s no means yet to deal with fraud protection,” says Moorhead.
+
+Other health trackers could be used for monitoring babies and the elderly. Mimo has created one for parents that logs an infant’s respiration, skin temperature, body position and activity level. In the future, wearables could also allow for remote monitoring of the elderly, to see how much a person moved and whether he or she ate or showered, potentially lowering the cost of home health care.
+
+And someday, your fitness data could combine with other data sets from your life to generate personalized recommendations. For instance, Shawn DuBravac, chief economist at the Consumer Electronics Association, says,
+
+If I have my scale, calendar, travel schedule and all these other things digital now, I can start to [see] really interesting recommendations. Maybe every Tuesday I get wings with the guys and every Wednesday I weigh a pound heavier, so I end up working out hard to lose that extra weight for the next day or two, and this is a weekly cycle. I may not notice but a bunch of devices might this pick up this, and Tuesday morning I go to my fridge to grab breakfast, but my fridge says, ‘You’ll eat more tonight, so instead of X, do Y.’
+
+The mini M.D.
+
+Beyond fitness, the more significant use for wearables lies in specialized devices — and blood pressure monitors and glucometers are just the beginning. Medical devices have been evolving to become more consumer-facing. “Things that were once just in the purview of medical professionals have slowly bled into consumer or individual use or ownership of it. … The miniaturization of technology is making a lot of things possible,” says DuBravac.
+
+In the future, health institutions will be monitored for (and their reimbursements will be based upon) the number of times they have to readmit a patient within 30 days after a hospital stay. Dr. Wald says:
+
+If we can define the right parameters to measure during that 30-day period, we can hopefully decrease those readmission rates. One of those things could be weight. If the patient has heart disease and their heart starts to fail, they accumulate fluid in their body. So measuring a person’s weight is one easy way to track how well they’re doing.
+
+Other parameters that could be useful to monitor after cardiac surgery include blood pressure, pulse rate, the amount of oxygen in the blood, and even remote EKG monitoring which will measure the electrical rhythm of the heart unobtrusively. That last example isn’t possible now, but probably will be within five years, Dr. Wald says. Other future devices could help with asthma, mental illness, pulmonary conditions and more.
+
+Medical wearables could also be used for research. Earlier this year The Michael J. Fox Foundation and Intel Corporation launched a study to evaluate three wearable devices for their ability to detect certain characteristics of Parkinson’s disease. Intel engineers are now comparing the devices’ data with clinical examinations to determine their accuracy, and also to develop algorithms for analyzing the data, which consists of up to 300 observations per second.
+
+Data doctors
+
+Not only do new and better technologies, sensors and devices need to be created, but also hospitals and health care providers must form processes for parsing new data. “What needs to happen to drive value is the right piece of data needs to get to the right person at the right time,” says Dr. William Morris, an internist and associate chief information officer at the Cleveland Clinic. Health care providers must develop algorithms or processes to find the signal amidst the noise of many different types of data and many different ailments — for everything from post-operative knee surgery patients not recuperating quickly enough to diabetic patients with high blood sugar.
+
+But once in place, those processes should transform care, because traditionally, Dr. Morris says, “we only knew what was going on that day you showed up in the office but not the other 364 days.” Daily readings would help doctors gain a clearer picture. The additional information could be used to maintain wellness among healthy patients. Or it could be used to keep those with chronic diseases stable, preventing emergencies that are not only expensive but also result in worse patient outcomes.
+
+“We’re kind of going back in time to when physicians would make house calls. It's the 21st century version of a house call."
+
+Current and future developments will transform health care routines, promoting more remote contact between doctors and patients. “We’re kind of going back in time to when physicians would make house calls,” Mayo Clinic’s Dr. Wald says. “It’s the 21st century version of a house call.” While he agrees face-to-face communication is preferable, the downsides of a lack of human touch would be offset by more frequent contact and less travel for patients. For example, the Mayo Clinic currently has 30-some partner hospitals across the United States, Puerto Rico and Canada. Doctors in Rochester, Minn., could use electronic data to consult remotely with patients through physicians at those partner institutions.
+
+At the moment, some obvious hurdles remain to seeing all these predictions come to fruition — starting with the need for ever-increasing accuracy in the various sensors. But one of the biggest obstacles is the fact that health insurance, at the moment, does not typically reimburse for monitoring patients remotely.
+
+One new reimbursement model, called population health, which was spurred by the Affordable Care Act, pays health care providers a flat fee for managing, say, 100,000 or a million diabetic patients in an area. Dr. Wald says:
+
+Whether those patients see you 100 times or two times or whether they have 100 tests or two tests, you’ll be reimbursed the same amount based on a risk analysis for those patients. If you can effectively treat those patients at home and decrease their in-hospital stay duration, then the reimbursement model will be favorable for you.
+
+Slow adoption of payment models like this could delay the digital health revolution.
+
+So, will wearables improve our health care? “I think that has yet to be determined,” says Dr. Morris. “The hypothesis is there but with anything in medicine, you have to prove it with data.”

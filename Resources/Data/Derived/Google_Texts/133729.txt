@@ -1,0 +1,43 @@
+Imagine a teenager with a chronic disease causing frequent diarrhea, upset stomach, and hospitalizations. Her doctor explained that she had a chronic condition called inflammatory bowel disease (IBD) that she would have for the rest of her life. The fact that she has a chronic disease means that she will need to navigate a complex health care system that is expensive, has a lot of variation in the quality of care, and has little price and quality transparency. What are clinicians doing to improve care for patients like her with IBD?
+
+What is Inflammatory Bowel Disease and what does it mean for patients?
+
+Though the cause is unknown, inflammatory bowel disease includes ulcerative colitis (UC) and Crohn’s disease, and causes chronic pain, poor nutrition, and multiple other serious problems due to chronic problems of the intestines. It affects 1.4 million Americans, and there is no cure. Like many long-term diseases, IBD requires intensive outpatient case and, occasionally, hospital admission or surgery during disease “flares.” In addition to the cost of medications such as sulfasalazine and mesalamine, patients might need surgery. Therefore, IBD can be frustrating and time-consuming to the relatively young patients who have the disease (most are diagnosed between the ages of 15 and 30).
+
+Since IBD is a chronic illness, the treatment of both forms of the disease can be expensive: insured patients with Crohn’s in the U.S. had annual medical expenditures of nearly $19,000, while patients with ulcerative colitis had annual medical expenditures of $15,000. The estimated direct cost for all patients in the U.S. with IBD is $1.84 billion. The cost of mean inpatient charges for patients with both forms of IBD nearly tripled between 1993 and 2011, while the number of discharges practically doubled.
+
+
+
+Source: Agency for Healthcare Research and Quality, Healthcare Cost and Utilization Project, HCUPnet.
+
+There is considerable variation in how doctors, even at the same hospital, treat patients with IBD. Some keep children hospitalized for longer periods, order more expensive tests, or prescribe pricier medicines—without any improvement in outcomes. For example, in one tertiary care pediatric hospital in the Northeast, the following graph shows how Physician 7’s median cost per patient was much less than Physician 1’s cost per patient, even when adjusted for how “sick” the patients were. This kind of variation means there are opportunities to standardize and also improve care quality.
+
+
+
+Graph: Case mix adjusted direct costs of treating ulcerative colitis by physician in 2007. The light blue bars flank the median direct cost for each physician, and each box indicates a quartile. (Courtesy of Dr. Jenifer Lightdale, University of Massachusetts Medical School.)
+
+How can we help these patients and their physicians manage IBD treatment?
+
+To better manage IBD, doctors ideally should prevent flares and hospitalizations. A clinical trial at Cincinnati Children’s Hospital is currently testing behavioral intervention for adolescents with IBD by tracking their medication adherence through text message reminders using Passive PRO, developed by Ginger.io and the Collaborative Chronic Care Network. This application collects patient’s calling, texting, location, and movement information off their smartphone in addition to surveying patients on their health status.
+
+This information is then sent back to the patients in the form of a report which they can share and discuss with their physicians. One example appears below:
+
+
+
+Source: Kaplan, Heather, Jeremey Adler, Shehzad Saeed, Ian Eslick, and Peter Margolis. “A Personalized Learning System for Improving Patient-Physician Collaboration.” Harvard Business Review blog. October 2, 2013.
+
+Our earlier patient could use this application to respond to questions from her doctor like whether she had taken her daily medications and how many times she had felt sick that day. The app could also determine if she is texting less than normal (often a sign of being sick) or when she leaves the house for first time in a few days. By tracking her behavior, the app would provide her doctor with an early signal that she might be having a flare—which could be nipped in the bud with a brief burst of outpatient anti-inflammatory medications.
+
+This application is just one example of how doctors could use smartphones and other technology to track patients’ health. Cincinnati Children’s Hospital has also helped develop a “Personalized Learning System” to engage patients in personalizing their care and interacting closely with their physicians. Especially for a condition that requires more active management, using cellphones is an easy way to keep patients engaged and provide doctors with more information.
+
+Providers also rely on peer pressure to encourage better care. For example, a tertiary care children’s hospital monitored whether pediatric gastroenterologists properly assessed their IBD patients’ symptoms during routine check-ups. When it became clear that many weren’t following the protocol, they posted each doctors’ compliance rates in the restroom, where everyone could see them—suddenly, almost every doctor started using the symptom score.
+
+Tying it to payment reform
+
+To be sustainable, however, innovations in health delivery require changes in payment incentives. However, the current health care system does not necessarily reward ways in which doctors and hospitals are experimenting with new methods of delivering care—particularly those that require care and follow-up outside the usual 10 to 15 minute office visit. For example, providers aren’t paid for calls or emails to check in on a patient that take place outside of an office visit—let alone smartphone applications for patients.
+
+For the time being, payment reform around IBD is still in its infancy. Although alternative payment models have been proposed for other specialties or conditions (for example, Medicare’s PQRI incentive program), there are currently none for IBD. However, one innovative might be to pay doctors more if they complete the survey and track quality measures related to IBD, such as screening for hepatitis and measuring symptoms regularly. Payers might choose to pay for reporting on these measures. Clinician-leaders would need to quantify health care savings resulting from this improved quality in making their case.
+
+Alternatively, clinicians could bundle a patient’s IBD care into one episode; for example, 3- or 6 months of outpatient and inpatient care for a fixed fee. In this manner, providers could expend resources on, say, smartphone monitoring since this might prevent expensive hospitalizations. By encouraging physicians to think about innovative and more cost-effective ways of providing care, bundled payments could eventually lead to lower costs and better standards of care for patients.
+
+There is no shortage of great ideas from clinicians on how to improve care for patients with chronic diseases like IBD. What is currently lacking is the impetus for complementary payment reforms that would support better care at lower costs—and clinicians can take leadership.

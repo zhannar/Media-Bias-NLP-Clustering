@@ -1,0 +1,115 @@
+In conjunction with provider-oriented payment reform, tools like VBID that change the focus from how much to how well we spend our healthcare dollars.
+
+Jason Buxbaum, MHSA; Jonas de Souza, MD; and A. Mark Fendrick, MD
+
+With specialty pharmaceutical prices on the rise, patients are often expected to pay anywhere from 30% to 50% of the specialty-tier drug price through co-insurance–based cost sharing. As these prices continue to climb, patients may choose lower-value medications for their medical needs or become nonadherent for cost-related reasons. Value-based insurance design implementations for specialty medications connect cost sharing and clinical value by moving high-value medications into lower-priced tiers, adjusting cost-sharing based on patient-specific variables, applying the “reward the good soldier” strategy, and encouraging patients to seek high-performing providers.
+
+
+
+Am J Manag Care. 2014;20(6):e242-e244
+
+The introduction of sofosbuvir for the treatment for chronic hepatitis C virus (HCV) has intensified the century-old tension between those who provide clinical services and those who pay for them. Despite the near-universal acceptance of the substantial clinical advantages of this innovative treatment over existing therapies, public and private payers have decried the cost of sofosbuvir, claiming that the societal fiscal impact of its widespread use might be the straw that breaks the camel’s back. Despite the recent publicity, cost pressures resulting from the increasing use of specialty medications have been growing steadily prior to FDA approval of sofosbuvir. Expenditures devoted to the specialty class are nearly one-quarter of total pharmaceutical spending in the commercial market (and more in Medicare).1 Driven largely by increasing utilization, high prices, and new approvals, it is estimated that specialty pharmaceuticals will comprise half of all pharmaceutical spending by 2018.2
+
+
+
+Responding to this trend, many payers have imposed high levels of consumer cost-sharing on specialty medications. In 2013, 23% of individuals with employer-sponsored prescription drug coverage were in plans with 4 or 5 formulary tiers, with tiers 4 and 5 typically devoted to specialty medications.3 Of those in plans with specialty tiers, more than 40% were subject to co-insurance–based, rather than co-payment– based, cost sharing. The average coinsurance rate for specialty- tier drugs is about 30%, though coinsurance rates as high as 50% exist. The Affordable Care Act does not fully address concerns regarding escalating consumer out-of-pocket costs, in that established limits are high, and that many plans sold on the exchange impose substantial deductibles and high coinsurance levels for all specialty drugs, regardless of their clinical benefit.
+
+
+
+There is abundant literature confirming that high “one-size-fits-all” levels of consumer cost sharing can trigger cost-related nonadherence for both essential and nonessential medical services. A failure to comply with recommended clinical services is associated with measureable worsening of morbidity and mortality, higher spending on clinical complications such as preventable hospitalizations and emergency department visits, and increases in conditionassociated presenteeism and absenteeism. This rapidly growing and robust body of research extends to clinical conditions commonly treated with specialty medications, such as inflammatory conditions (eg, rheumatoid arthritis, psoriasis), multiple sclerosis, HIV/AIDS, and many cancers.
+
+
+
+Limited access to specialty medications is troubling because many of these drugs deliver substantial improvements in health that are simply not possible with nonspecialty alternatives. In this issue of The American Journal of Managed Care, a systematic review by Zalesak and colleagues reports the cost-effectiveness ratios for specialty drugs used in the treatment of rheumatoid arthritis, multiple sclerosis, and breast cancer.4 This work confirms that the cost-effectiveness of many specialty medications is well within the range of commonly accepted health interventions. However, when interpreting these findings, it is important to realize that the cost-effectiveness ratios for specialty medications vary considerably across patient populations and clinical indications.
+
+
+
+Cost-containment efforts, such as increasing levels of consumer cost sharing, should not produce preventable reductions in quality of care. As Americans are increasingly asked to pay a greater portion of their medical care, it is essential that evidence-based therapies are available and affordable for individuals who will benefit from their use. The fact that the health gains provided by clinical services depend on the particular circumstances around their use supports the development of clinically nuanced variations in benefit design. Value-based insurance design (V-BID) is a key tactic that payers can use to ensure that spending on specialty medications buys as much health as possible.5 V-BID refers to cost-sharing strategies that align consumer incentives with clinical evidence by reducing financial barriers to high-value services and providers and raising cost sharing to discourage the use of low-value services and providers. V-BID is driven by the concept of clinical nuance which recognizes that: (1) medical services differ in the benefit provided and (2) the clinical benefit derived from a specific service depends on the patient using it, as well as when and where the service is provided.
+
+
+
+Private and public payers have extensively tested clinically nuanced cost-sharing programs set by patient-, setting-, and service-specific characteristics. Several peerreviewed articles have studied the clinical and economic impact of their effects.6 Most report modest improvements in adherence and health outcomes (when measured) without a statistically significant increase in aggregate spending. Targeting individuals with specific clinical characteristics or who may have financial barriers to high-value medications are among the characteristics that predict success of a V-BID program.7
+
+
+
+Applying V-BID to Specialty Pharmaceuticals
+
+
+
+V-BID implementations for specialty pharmaceuticals would seek to ensure that consumer cost sharing is related to clinical value—not simply acquisition cost. Payers and purchasers may deploy a variety of techniques, with varying levels of nuance, to achieve this goal.
+
+
+
+1. Impose No More Than Modest Cost Sharing on High- Value Medications
+
+
+
+Payers or purchasers—perhaps in partnership with clinical organizations—could seek to identify particular specialty medications that consistently deliver outstanding value in specific clinical settings. These drugs could then be moved from higher to lower tiers. A similarly selective approach could be used when evidence suggests that cost-related nonadherence among a particular population or a specific high-value drug is especially problematic.
+
+
+
+2. Reduce Cost Sharing in Accordance With Patient- or Disease-Specific Characteristics
+
+
+
+Payers and purchasers should consider reducing high cost sharing for specialty drugs on the basis of patient characteristics when the available evidence suggests that therapy is especially important to achieve optimal health outcomes. What is or is not considered high-value may vary depending on age, sex, disease, or other variables relating to the nature of the intervention. Companion diagnostic testing may play a key role in distinguishing appropriate use.
+
+
+
+3. Relieve Patients From High Cost Sharing After Failure on a Different Medication
+
+
+
+Another approach to incorporating V-BID in cost sharing for specialty pharmaceuticals could entail selectively reducing cost sharing for specialty medications if the patient does not respond as desired to another medication. This is also referred to as “reward the good soldier” or “step-edit with co-payment relief.”8 For example, suppose that a payer wished to encourage the use of methotrexate as a first-line treatment for rheumatoid arthritis, given reasonable levels of effectiveness in certain patients. However, not all patients will respond adequately to therapy with only this medication. A “reward the good soldier” V-BID benefit structure would offer relief from higher cost sharing for specialty agents after failure of a lower-cost initial regimen.
+
+
+
+4. Use Cost Sharing to Encourage Patients to Select High-Performing Providers and Settings for Care
+
+
+
+The provider of, or setting for, any given service often serves as an important indicator of value. Accordingly, payers and purchasers can encourage consumers to select high-value settings and providers through differentiated cost sharing for specialty medications and/or provider visits. Consistent use of evidence-based clinical pathways, engagement of patients in key decisions, achievement of key condition-specific quality goals, avoidance of costly services that do not affect treatment decisions, designation as a “center of excellence,” and participation in alternative payment arrangements are examples of characteristics that payers can use to identify high-performing providers.
+
+
+
+For clinical conditions commonly managed with specialty medications, V-BID principles can help improve quality, reduce waste, foster consumer engagement, and mitigate legitimate concerns that one-size-fits-all cost sharing may lead individuals to forgo high-value care. The ultimate test of healthcare transformation will be the extent to which it improves health and addresses rising costs. In conjunction with provider-oriented payment reform, tools like V-BID that change the focus from how much we spend to how well can help achieve these goals.
+
+Author Affiliations: University of Michigan Center for Value-Based Insurance Design, Ann Arbor, MI (JB, AMF); Department of Health Management and Policy, University of Michigan School of Public Health, Ann Arbor, MI (JB, AMF); Section of Hematology/Oncology, University of Chicago Medical Center, Chicago, IL (JD); Division of General Internal Medicine, University of Michigan School of Medicine, Ann Arbor, MI (AMF).
+
+
+
+Author Disclosures: The authors report no relationship or financial interest with any entity that would pose a conflict of interest with the subject matter of this article.
+
+
+
+Address correspondence to: A. Mark Fendrick, MD, University of Michigan Medical Center–Division of General Medicine, 300 N Ingalls Bldg, Rm 7E06, Ann Arbor, MI 48109. E-mail: amfen@umich.edu.
+
+1. Express Scripts drug trend report. Express Scripts website. http://lab .express-scripts.com/insights/industry-updates/~/media/07e71c2358f 244678d1812c80e273014.ashx. Published 2013. Accessed June 11, 2014.
+
+
+
+2. Specialty drug trend across the pharmacy and medical benefit. Artemetrx website. http://www.artemetrx.com/docs/ARTEMETRX_ Specialty_Trend_Rpt.pdf. Published 2013. Accessed June 11, 2014.
+
+
+
+3. Employer health benefits 2013 annual survey. Kaiser Family Foundation website. http://kaiserfamilyfoundation.files.wordpress .com/2013/08/8465-employer-health-benefits-20131.pdf. Accessed June 11, 2014.
+
+
+
+4. Zalasek M, Greenbaum JS, Cohen JT, et al. The value of specialty pharmaceuticals—a systematic review. Am J Manag Care. 2014;20(6): 459-470.
+
+
+
+5. Fendrick AM, Buxbaum J, Westrich K. Supporting consumer access to specialty medications through value-based insurance design. University of Michigan School of Public Health, Center for Value-Based Insurance Design website. http://www.sph.umich.edu/vbidcenter/ publications/pdfs/2014-vbid-specialty-medications-npc-final.pdf. Accessed June 11, 2014.
+
+
+
+6. Lee JL, Maciejewski ML, Raju SS, Shrank WH, Choudhry NK. Valuebased insurance design: quality improvement but no cost savings. Health Aff. 2013;32(7):1251-1257.
+
+
+
+7. Choudhry NK, Fischer MA, Smith BF, et al. Five features of valuebased insurance design plans were associated with higher rates of medication adherence. Health Aff. 2014;33(3):493-501.
+
+
+
+8. Gibson TB, Fendrick AM, Gatwood J, Chernew ME. Gaps in treatment, treatment resumption and cost-sharing. Am J Pharm Benefits. 2012:4(6):e159-e165.

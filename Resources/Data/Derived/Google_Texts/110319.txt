@@ -1,0 +1,71 @@
+U.S. retailers are pushing back against legislation mandating tough new cybersecurity requirements, even as the industry braces itself for an onslaught of holiday season hacking attacks.
+
+Retailers’ digital defenses have been under harsh public scrutiny since Target disclosed its massive 2013 breach that exposed up to 40 million credit cards and compromised the personal information of as many as 70 million people.
+
+ADVERTISEMENT
+
+The threat is elevated each year when, beginning on Black Friday, companies face new waves of malware, phishing schemes and other attempts intended to exploit the huge numbers of transactions processed during the holiday season.
+
+“One of the ways you address cyber issues is by tracking anomalous behavior, and it’s particularly difficult to do that when you have these huge spikes in volume,” said Nick Ahrens, vice president of privacy and cybersecurity at the Retail Industry Leaders Association (RILA). “That’s the real challenge for retailers.”
+
+Responding to the attacks, lawmakers from both chambers have put forth a series of bills aiming to shore up the industry’s — and, by extension, consumers’ — online protection systems.
+
+On Wednesday, the House Financial Services Committee advanced a bill that would set nationwide data security standards and require businesses to notify customers following a breach.
+
+But the Data Security Act of 2015, introduced by Rep. Randy Neugebauer Randy NeugebauerOvernight Finance: GOP's budget 'SWAT' team | What to watch at IRS impeachment hearing | Sanders bucks Dem leaders on Puerto Rico bill Overnight Cybersecurity: Clinton email hacker to plead guilty Financial industry spars with retailers over data breach bill MORE (R-Texas), has faced fierce pushback from retailers, which warn it would be overly burdensome to some smaller businesses while allowing other companies — like third-party vendors and financial institutions — to escape regulation altogether.
+
+“Politically speaking, we think the way to get a bill through Congress is not to have committees pick winners and losers, but recognize that everyone suffers data breaches and everyone should have the same obligations,” said Paul Martino, senior policy counsel at the National Retail Federation.
+
+Under the language of the bill, third-party service providers are required to notify a company in the event of a breach, but are only required to contact customers directly if it has been agreed in writing that they are responsible for notification.
+
+Retailers say this unfairly shields them from the reputational damage and other costs associated with a breach.
+
+The legislation would place financial institutions under the same breach notification requirements as other companies, but exempt them from certain data security requirements.
+
+Financial services companies say they are already required to meet stiffer security mandates under the Gramm-Leach-Bliley Act, a sweeping reform law passed in 1999.
+
+The Financial Services Roundtable lauded Neugebauer’s bill Wednesday, claiming it would close a loophole that “leaves consumers’ important personal and payment information potentially exposed during a financial transaction at a retailer.”
+
+“Basically we looked for where the holes were, in data security and in the notification process,” Neugebauer told The Hill.
+
+Critics of the bill have expressed concerns that codifying cybersecurity requirements is counterproductive.
+
+Retailers spend the year preparing for the annual holiday assault — bolstering encryption, strengthening infrastructure and verifying the security of their third-party vendors — but security experts say the landscape changes constantly.
+
+Malware infections on Cyber Monday spiked 76 percent this year, compared to a 40 percent increase in 2014, according to research from the security firm Enigma Software.
+
+“Addressing modern cybercrime ... often will require retailers and other industries to be nimble and creative in order to tackle evolving threats,” said Jennifer Safavian, executive vice president for government affairs at RILA. “Permanently codifying new standards will hinder efforts by retailers and other industries to adapt to an evolving threat landscape.”
+
+Neugebauer maintains that the Data Security Act is technology-neutral to “leave plenty of room for the industry to be innovative.”
+
+In general, many retailers support uniform notification requirements as a way to improve industry cybersecurity. Companies will want to avoid the brand damage associated with a breach, they say, and will bolster their networks accordingly.
+
+“Breach notification becomes a market-based incentive to improve data security,” Martino said.
+
+A competing bill from the Energy and Commerce Committee has a little more traction among retailers, but has been bogged down by a partisan scuffle over whether the law would preempt existent state data security regulations.
+
+Put forward by Reps. Marsha Blackburn Marsha Blackburn178 Dems demand end to Planned Parenthood probe Carson: 'I would not want to be on the ticket or in the Cabinet’ Sunday shows preview: Sanders opens up about battle with Clinton MORE (R-Tenn.) and Peter Welch Peter WelchOvernight Defense: Senate panel approves 2B defense bill Lawmakers push for ISIS war measure in defense bill Lawmakers urge Obama not to send shoulder-fired missiles to Syria MORE (D-Vt.), the measure would require companies to maintain reasonable security practices and inform customers within 30 days if their data might have been stolen during a breach.
+
+One amendment, put forward by Rep. Mike Pompeo (R-Kan.) and approved by the committee, earned retailer support by requiring third-party vendors to make notice of their own breaches.
+
+Like the Data Security Act, the notification requirement would be enacted on a national level, something retailers support because of the certainty that a single standard offers.
+
+But Democrats argue that the legislation, while saving companies the hassle of following separate state laws, would do away with stronger consumer protections at the state level.
+
+The dispute has kept the bill from reaching a floor vote.
+
+Rep. Maxine Waters (D-Calif.) expressed similar concerns about the Financial Services bill, but her amendment allowing 12 states with existing laws to be exempted was voted down.
+
+Bill supporters say that the security provisions in Neugebauer’s bill are tougher than most state regulations.
+
+“This is probably the strongest bill that is out there,” Neugebauer said. “Massachusetts would be the only state that maybe has standards
+
+that are higher than we have [in the bill].”
+
+As high-profile breaches continue to make headlines, data security bills have cluttered both chambers this year. In the Senate, there are at least four offerings, including a companion to the Data Security Act. Sen. Mark Warner Mark WarnerClinton urged to go liberal with vice presidential pick Lawmaker bemoans tax 'buzzsaw' for on-demand economy workers Reid throws wrench into Clinton vice presidential picks MORE (D-Va.) is also reportedly circulating a discussion draft that appears to have strong retailer support.
+
+In the House, Neugebauer’s bill also competes with legislation from Rep. David Cicilline (D-R.I.), as well as a new proposal from Rep. Jan Schakowsky (D-Ill.), unveiled on Tuesday.
+
+Neugebauer told The Hill that he has initiated conversations with the Energy and Commerce Committee with an eye toward combining the two offerings into a single bill supported by both committees. He expressed confidence that his bill — which passed committee vote with broad bipartisan support — has a shot at seeing the floor.
+
+“I think we’ve set a template for what a bipartisan bill can look like,” Neugebauer told The Hill. “We think we have something we can run with.”

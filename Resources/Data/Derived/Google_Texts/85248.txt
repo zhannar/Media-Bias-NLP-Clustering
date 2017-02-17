@@ -1,0 +1,17 @@
+It seems the federal health insurance exchanges for the Patient Protection and Affordable Care Act are going to switch Web hosts just one day before the end of open enrollment. A friend e-mailed me about this, with the e-mail consisting of just a single question: "Is this as insane as it sounds?"
+
+Short answer: yes.
+
+Long answer: Even back in the days when mammoths and Compaq computers roamed the earth, switching Web hosts wasn't that big a deal. You find another vendor. You mirror your server on their computers. Then, when you're confident that everything's running OK, you flip the DNS switch and redirect your Web traffic to the new host.
+
+However.
+
+The HealthCare.gov site is more complicated than most; its operators are sending out calls to a whole lot of servers. I don't know how many of those servers are moving to whomever their new Web host will be, but the more servers that are moving, the more chances for something to go wrong.
+
+But even if just the front-end servers are moving, doing so one day before the end of open enrollment seems like an unnecessary invitation to disaster. Brushing your teeth isn't hard, either, but you still don't want to try it while you're in the middle of your qualification trial for the U.S. Olympic figure skating team. It takes your focus off more important things, you see.
+
+In the last moments of open enrollment for 2014, the exchanges will likely experience a traffic surge. Everyone will be racing to get as many people as possible signed up. That's not when you want to divert a third of your tech team to making sure that the website is up and running as expected.
+
+In fact, the thing seems so insane that I have grave difficulty believing that it's going to happen. Someone at the Department of Health and Human Services will come to their senses, negotiate a one-month contract extension with the current Web host, and turn back to the task of getting folks enrolled in health insurance.
+
+This column does not necessarily reflect the opinion of Bloomberg View's editorial board or Bloomberg LP, its owners and investors.

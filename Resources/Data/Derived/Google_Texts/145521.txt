@@ -1,0 +1,29 @@
+WASHINGTON -- On the morning of Oct. 1 in Washington, temperatures in the low 80s were expected, the Republican-engineered federal shutdown was in its first day, and a Healthcare.gov "War Room" team gathered for a meeting. They kept notes.
+
+Many federal offices were empty that day due to the shutdown-caused furloughs of federal employees. But Oct. 1 was also the day of the launch of the Affordable Care Act's Healthcare.gov Website, the main portal to sign up for insurance under the new law. Trouble tickets quickly piled up, and wait times for help desk responses grew to as much as five hours.
+
+At some points in the days immediately following the launch, there were 40,000 people in virtual "waiting rooms" because capacity had been reached. Some were waiting 15 to 20 minutes in these rooms.
+
+The War Room notes, 175 pages in all, were released Monday by U.S. Rep. Darrell Issa (R-Calif.), who chairs the House Oversight and Government Reform Committee. (PDF War Room notes) Issa, a critic of the health care law, is using the notes to draw attention to the limited number of insurance sign-ups so far. Just six people signed up on the first day.
+
+The War Room notes also catalog IT problems -- dashboards weren't showing data, servers didn't have the right production data, third party systems weren't connecting to verify data, a key contractor had trouble logging on, and there wasn't enough server capacity to handle the traffic, or enough people on the help desks to answer calls. To top it off, some personnel needed for the effort were furloughed because of the shutdown.
+
+One note posed this question: "Given the computer system issues, should we be saying that paper is better for now?" That course was never taken.
+
+The War Room notes don't reflect any of the frustration, worry or anger that might have been present. They simply lay out the plan's action items, issues and challenges concisely.
+
+There's no reaction, for instance, to President Obama's criticism on Oct. 21 when he said that the website "has been too slow, people have been getting stuck during the application process."
+
+At the onset, the federal officials were searching for a root cause of the capacity issues, and seemed to fix much blame on the enterprise identity management system, which they described as a choke point. There are also multiple references to increasing server capacity.
+
+The team did decide to add "consumer-friendly" messages for customers caught up in the online crush.
+
+As the extent of the availability and performance problems became ever clearer, managers were lining up volunteers for weekend work. Many federal employees, even though they were deemed essential, weren't being paid during the shutdown. But there were bureaucratic complications. For instance, according to one note: "Donna's comp time approver is furloughed."
+
+Another note also addressed the furlough: "Casework team was furloughed yesterday, but called back in today."
+
+In the initial rollout, a needed service from the Dept. of Veterans Affairs site was down, and another system used for income verification, was "creating confusion with credit check information." Help desks assigned to various issues were quickly expanded.
+
+By week two of the rollout, "about 60% of applicants are getting into healthcare.gov without sitting in the waiting room, up from 5-10% earlier last week," the notes said. Capacity improvements were working. "Additional servers are making it easier to get in," according to the notes. Federal officials say they will have all problems resolved by the end of this month.
+
+Patrick Thibodeau covers SaaS and enterprise applications, outsourcing, government IT policies, data centers and IT workforce issues for Computerworld. Follow Patrick on Twitter at @DCgov, or subscribe to Patrick's RSS feed . His email address is pthibodeau@computerworld.com.

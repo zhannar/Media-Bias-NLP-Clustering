@@ -1,0 +1,59 @@
+MEDTECH Act revision boosts FDA's power
+
+With help from Arthur Allen (@ArthurAllen202)
+
+REVISED MEDTECH BILL GIVES FDA A BIT MORE POWER: The FDA could regulate any medical software “reasonably likely to have serious adverse health consequences” -- subject to a lot of ifs, ands and buts-- under a new provision of the MEDTECH Act obtained by our Darius Tahir. The Senate HELP Committee on Wednesday will consider the legislation as part of its package of medical innovation bills, the counterpart to the House’s 21st Century Cures Act.
+
+Story Continued Below
+
+... MEDTECH generally keeps FDA out of the business of regulating software such as FitBits, EHRs and analytics, unless the software is intended to interpret or analyze clinical information without the mediation of a doctor or other expert. Health tech companies sought the law to set clear boundaries around FDA’s involvement in the growing world of health technology.
+
+— But the new version of MEDTECH, sponsored by Sens. Michael Bennet and Orrin Hatch, allows some exceptions to that rule; it’s a kind of emergency backdoor for FDA should ostensibly safe software turn out to pose dangers. The new language makes the FDA jump through a number of hoops if it wants to reassert its authority, however. The agency must publish a notice in the Federal Register stating the rationale for wanting to regulate a device and give 30 days for public comment. FDA must base its judgement on the likelihood and severity of patient harm, the extent to which the software supports clinical judgement, and how likely it is for a provider to review the information or recommendation provided by the software. The latest version of the bill: http://politico.pro/1TFP8FC
+
+HELP RELEASES MENTAL HEALTH DRAFT: A draft of a bipartisan mental health bill released late Monday would create of a model training program of authorized disclourse of patient records under HIPAA. The 114-page bill, which is set to be marked up by the Senate HELP Committee on March 16, would also mandate a study of 42 CFR Part 2, the federal law that requires patients sign off on every provider who can view their drug and alcohol abuse treatment records. Telemedicine would received grants for child psychiatry through the Health Resources and Services Administration. The legislation was crafted by Chairman Lamar Alexander and ranking member Sen. Patty Murray. The bill: http://1.usa.gov/1LNHshz
+
+DEBATE ENDS ON CARA: Senators on Monday voted 86-3 to end debate on the Comprehensive Addiction and Recovery Act (S. 524). The bill seeks to address the nation’s opioid epidemic in a number of ways including by supporting prescription drug monitoring programs. A final vote is expected either today or Wednesday.
+
+eHealth tweet of the day: @SusannahFox: Help use data to change our understanding of the healthcare system to drive better decision making for #rheum http://bit.ly/1OXAiSk
+
+Welcome to Monday morning eHealth where we are carefully avoiding House of Cards spoilers as we work our way through season 4. Your scribe is through episode four of the latest season released this weekend. Don’t forget to pass along your news at dpittman@politico.com and connect with us on Twitter @David_Pittman, @arthurallen202, @DariusTahir @ POLITICOPro, @Morning_eHealth.
+
+
+
+MISSISSIPPI, EPIC TEAM UP: Mississippi’s Medicaid division is announcing today that it has become the first in the country to send and receive clinical data in real-time with a health system using an Epic EHR. The state’s largest Medicaid provider, the University of Mississippi Medical Center, can now view the longitudinal record of patients in its EHR without having to check a separate IT system. About a third of the state’s residents are in Medicaid. The work was part of the state’s three-year, $10 million contract with MedeAnalytics. (We profiled their work for providers here in 2014.) The state hopes to have data next year showing outcomes from its data-sharing efforts.
+
+
+
+WELCOME TO THE SHOW: A new ONC advisory committee – that on interoperability experience – will meet for the first time this afternoon. The goal is to develop and recommend policies that “improve the interoperability experience for providers and patients.” Background: http://bit.ly/1ppudtq
+
+MIND THE GAP: An analysis of clinicians’ notes accompanying prescriptions showed that the free-text writing is often used inappropriately. This suggests the need for better pre-release usability testing, training and feedback, and rigorous post-marketing evaluation of EHR software, according to researchers at Surescripts and Baylor College of Medicine. The study sample contained 26,341 new e-prescriptions transmitted to community pharmacies across the United States during one week in November 2013 by community-based prescribers using 492 different EHRs or e-prescribing software applications. More than two thirds contained inappropriate content, the study found. Such notes can create confusion, disrupt workflow and raise the potential of patient harm, according to the study. Find more here: http://bit.ly/1X7I9D4
+
+YOU SAID HOW MUCH MONEY?: Physicians spend 785 hours per physician and $15.4 billion annually tracking and reporting quality measures, according to a study published Monday in the journal Health Affairs. Four-fifths of the physicians surveyed — they were drawn from the Medical Group Management Association — said their reporting requirements are worse than they were three years ago. Three-fourths said the quality measures weren’t clinically relevant. “This study proves that the current top-down approach has failed. It serves no purpose to have over three thousand competing measures of quality across government and private initiatives,” MGMA CEO Halee Fischer-Wright said. The study: http://bit.ly/1QFw2yk
+
+
+
+HOW TO BRING LAGGARDS ALONG: Federal health IT officials and researchers need to determine which EHR functions are germane to hospitals ineligible for meaningful use -- rehab, psychiatric and long-term care facilities — in order to make buying expensive EHRs more worthwhile. “Existing hospital meaningful-use criterial were designed based on the care provided in acute care settings,” researchers wrote in the latest issue of Health Affairs. “Vendors have created EHR systems that meet those criteria.” Despite a surge in EHR adoption between 2009 and 2013, the ineligible hospitals lag significantly behind traditional acute care hospitals in health IT use. The study: http://bit.ly/24q56a0
+
+WHAT TO EXPECT FROM OCR: HHS’s Office for Civil Rights plans to release a proposed audit protocol sometime next month and will receive feedback on that before launching HIPAA-enforcement audits, the office’s Deven McGraw tells Healthcare Info Security. “We’re not going to begin audits until the protocol has been released and finalized,” McGraw said. “But we have a lot of work we can do in advance of the audits,” such as identifying a pool of potential organizations to audit. OCR plans around 200 “desk audits” and between 10 and 25 full-scale audits, McGraw said. McGraw added that OCR plans to expand guidance regarding patients’ rights to access their medical information. The interview: http://bit.ly/21WNvEg
+
+CALLING ALL APP DEVELOPERS: Health Datapalooza is hosting a code-a-thon to produce an app that gauges clinical response to rheumatoid arthritis management. This particular project is unique in that it will use private, de-identified administrative claims along with clinical data from patients’ electronic records. Up to $40,000 in prizes will be awarded by Optum, Academy Health and HHS. More info: http://bit.ly/1LMynp8
+
+SCOTUS GOBEILLE DECISION REOPENS MICHIGAN ERISA CASE: The Supreme Court is asking a federal appeals court to re-examine a case against Michigan Gov. Rick Snyder in light of its decision last week in Gobeille v. Liberty Mutual Insurance Co. That decision limits states' abilities to collect claims for their all-payer databases from self-funded insurance plans that are governed by federal ERISA law. A group representing self-funded insurance plans in Michigan had sued Snyder over a law that taxed health care claims and required plans, including the self-insured, to file certain records. District and appeals courts rejected the suit, but SCOTUS is now asking them to revisit - highlighting that its Gobeille decision will have impact beyond the claims databases at the center of that case. The request: http://1.usa.gov/1OXGbPC
+
+THAT WHOLE ICD-10 DISRUPTION ISSUE: While more than 60 percent of doctors surveyed by the social networking site SERMO said ICD-10 implementation slowed their work down, three-quarters said they are back to the way they were before ICD-10. Only 37 percent said ICD-10 implementation was more difficult than anticipated. "It did slow me down. I spent a lot of time writing out codes I would need. Some did not work,” one cardiologist told the site. “I think I have it down now. Having an EHR that is good at this helps."
+
+NOW AVAILABLE: HARD TO ACCESS CAMPAIGN DETAILS — POLITICO Pro, POLITICO’s premium solution for policy professionals offers Campaign Pro. Get breaking news and analysis about this season’s unconventional presidential race, as well as developments about this year’s most competitive House, Senate and gubernatorial races. You’ll also have access to the Campaign Pro Race Dashboard, giving you all of the facts about specific races in one, convenient place. The dashboard provides campaign details such as: current consultant rosters, the latest polling numbers and race summaries written by Pro’s Campaign Pro reporters. Beyond the 2016 cycle, you’ll continue to receive coverage that provides you with a behind-the-curtain look at potential races, including insight about candidate/consulting firm partnerships forming behind the scenes, and about all fundraising efforts. Request your Campaign Pro demo today.
+
+WHAT WE’RE CLICKING:
+
+The Wall Street Journal reports Theranos ran tests despite quality problems: http://on.wsj.com/1Qz0HdH
+
+Epic Systems overhauls its patient portal: http://bit.ly/1QGByvo
+
+An editorial in The Hill trumpets telemedicine: http://bit.ly/21imedk
+
+Use of mobile health apps has doubled in last two years: http://bit.ly/1LMj7IO
+
+ONC privacy chief talks APIs: http://bit.ly/1Tncorq
+
+Tips, comments, suggestions? Send them along via email to our team: Arthur Allen (aallen@politico.com, @ArthurAllen202), David Pittman (dpittman@politico.com, @David_Pittman) and Darius Tahir (dtahir@politico.com, (@DariusTahir).

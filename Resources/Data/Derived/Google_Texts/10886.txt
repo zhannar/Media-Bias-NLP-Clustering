@@ -1,0 +1,17 @@
+Daryl Lau, a self-described "computer stuff" guy, has a knack for gathering and assembling interesting data. In the past he made a map of the world's supply of burgundy. This week, he turned his attention Silk Road 2.0, one of the most popular black marketplaces on the deep web.
+
+Based on the National Institute for Drug Abuse's list of most widely used illegal drugs, he put together a list of the top nine, and scraped Silk Road for information.
+
+MDMA, also known as "Molly" in its pure form or "ecstasy" when adulterated, by far had the most listings at 1,321. Marijuana came in second with 761 listings, followed by LSD and cocaine. All nine popular illicit drugs only accounted for 3,585 listings, though. Lau points out that, "To put things in perspective, at the moment of writing this SR [Silk Road] has approximately 13,000 listings for drugs," which leads him to conclude that "prescription drugs account for a large portion of SR drug listings."
+
+MDMA is popular at music festivals, and finding a reputable seller (or, on the flip side, being recognized as a reputable seller) is important – a lifesaver, even – since MDMA is frequently cut with other drugs, like bath salts, and a number of concertgoers have died of overdoses due to impurities. As such, it's not a huge surprise that Lau found 48 of the 100 most reviewed items were MDMA. Though, proportionately, marijuana has more reviews per listing.
+
+"The average price of the top 100 items is $129," writes Lau, but his data analytics tool did not determine the quantity of each item, so the number is deprived of some significant context. "If we sum up all the product reviews x product prices, we get a huge number of USD $20,668,330.05."
+
+Due to its anonymity, Bitcoin is the only currency Silk Road permits, so Lau's estimates are converted from Bitcoin's value at the time of the research.
+
+So, who's selling all these drugs? America is number one, with 93 sellers. Australia came in second with 45 sellers, and Great Britain was third with 40.
+
+Lau explains that he did this project "simply [as] a collection of observations," and that it's not over yet: "I've set up a cron-type job to crawl SR daily and crunch some numbers. It will be interesting to see how things change over time, though a month may not be enough time to see any significant shifts." His next report "will focus on pricing, trends and predictions."
+
+Silk Road used to be substantially larger, but it was shut down by the FBI last year. Now, the largest (by a hair) and fastest growing online black market bazaar is Agora. A convenient way of to search these sites is the deep web's new equivalent to Google, called Grams.

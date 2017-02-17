@@ -1,0 +1,31 @@
+Tech Nightmare
+
+The president’s 2012 campaign deservedly tooted its own horn for meticulous tech preparation. His signature achievement, on the other hand, failed its tech tests. Draw your own conclusions, says Lloyd Green.
+
+If the train-wreck rollout of Obamacare teaches us anything, it’s that President Obama is just not that into governing. While the president’s 2012 campaign was the handiwork of technology’s best and brightest, Obamacare looks more like a taxpayer-funded redheaded stepchild.
+
+According to “Inside the Cave,” the postmortem on the Obama campaign's technology operations, repeated testing and excellence were the rules of the road for the president’s reelection efforts. Chiding the Romney campaign for its never-tested ORCA debacle, the Obamaites were deservedly praised for their persistent meticulousness: “Obama 2012 didn’t have the magic of hope and change. What it did have was a relentless focus on operational excellence and massive scale.”
+
+Too bad the campaign didn’t mentor Health and Human Services Secretary Kathleen Sebelius and her minions on the need for testing or the necessity of making sure the Obamacare portal worked before it was unleashed on the world. Apparently, HealthCare.gov was only tested at the last minute, and then it failed miserably and crashed when “just a few hundred people tried to log on simultaneously.”
+
+Indeed, the Department of Health and Human Services had added to the system’s woes when it demanded in September that visitors to HealthCare.gov create accounts “in order to browse its insurance offerings” and then rescinded that directive. At the campaign, things were different.
+
+There was “constant testing to handle outages and heavy loads.” There was also foresight. On October 21, 2012, the campaign tech team “conducted a drill known as ‘Game Day’ that helped them address several worst case scenarios. The following week, Hurricane Sandy made landfall in the US and caused critical infrastructure to go offline, but because they had prepared for the worst, the team was able to keep the site up.”
+
+The campaign had even prepared for Amazon’s data center crashing in the midst of the storm: “‘Game Days’ were disaster preparedness exercises where DevOps simulated nightmare scenarios, such as a catastrophic database failure or Amazon’s East Coast data center going offline.”
+
+One might conclude the folks who gave us Obamacare never read “Inside the Cave,” and if they did, they readily ignored its lessons. A key government contractor, CGI, was described as having as its “ultimate aim” establishing “relations so intimate with the client that decoupling becomes almost impossible.” Apparently, it low-balled demand and only “built the shopping and enrollment applications to accommodate 60,000 users at the same time.”
+
+In all fairness, however, CGI had been developing software to allow consumers to shop on the site anonymously but was told by federal officials in September to “deprioritize” that function, according to The Wall Street Journal. As for the government agency in charge of the project, the Centers for Medicare and Medicaid Services (CMMS), it “assumed the role of managing the 55 contractors involved and had not ensured that all the pieces were working together.”
+
+The contrast with those entrusted with the campaign could not have been starker. Again, in their own immodest but accurate words: Obama for America “didn’t hire your typical political staffer. They went directly to Silicon Valley and to data analysts in the Fortune 500 and academia. One used to work at Pixar. Another was a high-energy particle physicist.”
+
+A senior federal career civil servant explained things to me this way, “CMMS was not able to simply recruit the best and brightest firms in Silicon Valley.” Unlike the federal government, “the campaign was not hobbled by the hundreds of pages of Federal Acquisition Regulations in hiring government contractors.” At best, contrasting the campaign to the government was akin to “comparing apples and oranges.”
+
+So let’s stipulate, the Obama campaign rocked. It was awesomely awesome in its awesomeness. Obamacare? More like used tinker toys in a world of killer apps and drones.
+
+And while the GOP is now disfavored, if not despised, by most Americans who also want to dislodge John Boehner from the House speakership, activist government overall isn’t doing too well, either. According to the latest Washington Post-ABC News poll, “Fifty-six percent of Americans say the Web site problems are part of a broader problem with the law’s implementation.”
+
+All of this raises a few more questions, such as whether the federal government can do more than collect taxes, make transfer payments, wage war, and engineer the reelection of incumbents. How wrong is the Tea Party, irate and ill-tempered as it may be, in its critique of government operations? And what was Obama telling us about himself, his vanity, and his view of the country, as he delivered his 2008 acceptance speech before a replica of a Greek temple?
+
+Well, at Monday’s Obamacare event, POTUS was definitely not looking like Zeus. Rather, he seemed more like a carny barker trying to hawk a Ronco Vegematic as he touted the supposed merits of the Affordable Care Act. Like the guy trying to sell you knives at 2 a.m., the president was telling people to dial in to an 800 number for even faster results, and then the switchboard clogged, sending callers back to the website.

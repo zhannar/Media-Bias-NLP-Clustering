@@ -1,0 +1,77 @@
+With the yearly bluster and promise of HIMSS16, I still find there have been few strides in solving interoperability.
+
+Many speakers will extol the next big thing in healthcare system connectivity and large EHR vendors will swear their size fits all and with the wave of video demo, interoperability is declared cured.
+
+Long live proprietary solutions! Down with system integration and collaboration! Healthcare IT, reborn into the latest vendor initiative, costing billions of dollars and who knows how many thousands of lives.
+
+Advertisement
+
+Physicians’ satisfaction with electronic health record (EHR) systems has declined by nearly 30 percentage points over the last five years, according to a 2015 survey of 940 physicians conducted by the American Medical Association (AMA) and American EHR Partners. The survey found 34 percent of respondents said they were satisfied or very satisfied with their EHR systems, compared with 61% of respondents in a similar survey conducted five years ago.
+
+Specifically, the survey found:
+
+42% of respondents described their EHR system’s ability to improve efficiency as difficult or very difficult;
+
+43% of respondents said they were still addressing productivity challenges related to their EHR system;
+
+54% of respondents said their EHR system increased total operating costs; and
+
+72% of respondents described their EHR system’s ability to decrease workload as difficult or very difficult.
+
+Whether in the presidential election campaign or at HIMSS, outside of the convention center hype, our abilities are confined by real world facts. Widespread implementation of EHRs have been driven by physician and hospital incentives from the HITECH Act with the laudable goals of improving quality, reducing costs, and engaging patients in their healthcare decisions. All of these goals are dependent on readily available access to patient information.
+
+Whether the access is required by a health professional or a computers’ algorithm generating alerts concerning data, potential adverse events, medication interactions or routine health screenings, healthcare systems have been designed to connect various health data stores. The design and connection of various databases can become the limiting factor for patient safety, efficiency and user experiences in EHR systems.
+
+Healthcare Evolving
+
+Healthcare, and the increasing amount of data being collected to manage the individual as well as patient populations, is a complex and evolving specialty of medicine.
+
+The health information systems used to manage the flow of patient data adds additional complexity with no one system or implementation being the single best solution for any given physician or hospital. Even within the same EHR, implementation decisions impact how healthcare professional workflow and care delivery are restructured to meet the constraints and demands of these data systems.
+
+Physicians and nurses have long uncovered the limitations and barriers EHR’s have brought to the trenches of clinical care. Cumbersome interfaces, limited choices for data entry and implementation decisions have increased clinical workloads and added numerous additional warnings which can lead to alert fatigue. Concerns have also been raised for patient safety when critical patient information cannot be located in a timely fashion.
+
+Solving these challenges and developing expansive solutions to improve healthcare delivery, quality and efficiency depends on accessing and connecting data that resides in numerous, often disconnected health data systems located within a single office or spanning across geographically distributed care locations including patients’ homes. With changes in reimbursement from a pay for procedure to a pay for performance model, an understanding of technical solutions and their implementation impacts quality, finances, engagement and patient satisfaction.
+
+Moving from a closed and static framework to an open and dynamic one holds great potential while requiring an innovative look at how technology is used as a tool to connect the people, processes and data. Successful application and integration of technology will determine future healthcare success. Although the problems with healthcare data exchange have not been solved, numerous concepts have been proposed on how to solve these challenges.
+
+Connecting the Disconnected
+
+Currently, healthcare data flow is disconnected. Understanding the current and future needs of patients and healthcare professionals along with how we utilize the technology tools available to integrate data into a seamless stream can bring about an enhanced, high-quality, efficient care delivery model. One successful integration example, middleware, has been used for years to integrate data in financial and retail organizations with its simple open technology.
+
+Accessing patient information from EHR’s and other patient health data repositories is critical for patient care. The development of tools and strategies to enhance the patient experience, improve quality and innovation of the care delivery model requires an understanding of how data is accessed and shared. Current EHR’s have employed numerous ways to extract patient data, each of which brings opportunities and challenges. Here are a few examples to ask about at HIMSS.
+
+The Critical Care Team – Distributed Care
+
+The critical care environment is a challenging one with numerous healthcare professionals teaming up to manage and care for patients. Delays in addressing critical issues, lab values or other studies can negatively impact these patients or lead to redundancy and inefficiencies which increase costs without impacting outcomes. Coordinating care between the various care team members can be a challenge.
+
+The medical record and the nursing flow sheet had traditionally been the platform for communication and understanding the trajectory of care. With the incorporation of the electronic medical record, things have changed. EHR’s bring along new constraints in caring for critical patients while at the same time bring about potential to enhance care delivery through the improvement in communication and management of these patients.
+
+Chronic Care Management
+
+There is a growing prevalence of US adult patients who are managing two or more chronic medical conditions. Governmental and commercial insurance providers have embraced this trend by introducing chronic care management (CCM) programs in an effort to better manage these patients so as to limit costly hospital admissions and improve quality of life.
+
+There are numerous barriers to engaging physicians and patients in the management of chronic health conditions. One of the findings from a recent survey of chronic care management by health plan was how improvement in coordination of care between multiple physicians and other healthcare professionals can positively impact the care received and improve utilization. With commercial and governmental incentives, development and implementation of CCM management tools that interface with EHR’s and connect patients and professionals can enhance care delivery in this expanding population of patients.
+
+Care Transitions
+
+Patients admitted to the hospital for scheduled procedures or the unexpected management of a medical issue are at risk of being readmitted for preventable issues that develop following discharge. For aging patients with multiple chronic conditions, enhanced communication to limit misunderstandings, conflicts in disease management and compliance with medications are critical as they move from hospitals to intermediate care settings and ultimately back home. Management of these critical care transitions depend on communication of patient data, the meaning ascribed to this data by the primary care physician along with those who managed these patients in the hospital becomes a critical component in care quality, patient satisfaction and to address preventable readmissions.
+
+Healthcare professionals have emerged to manage many aspects of patient care and are dependent on access to patient data which is often spread between EHR’s and other health data systems. Connecting and sharing this information plays a role in how these patients are managed. Development of clinical pathways that integrate and translate evidenced-based medicine into the care delivery model is a critical component to the management of care across transitions.
+
+Patient data, treatment plans and monitoring approaches to chronic conditions and underlying risks must be integrated and communicated between patients and healthcare professionals. The complexity of healthcare and the distributed care-team model makes this more critical now than ever before. Understanding data flow between all members of the care team, including patients and their family, becomes key in the development of strategies to achieve high quality, cost effective and engaging solutions that ultimately impact outcomes.
+
+The Annual Health Screen
+
+Preventative care is an expanding area of medicine with the goal of trying to control US healthcare costs. In 2011, The Affordable Care Act established the Annual Wellness Visit for Medicare beneficiaries. The purpose of this initiative is to perform an annual health risk assessment and identify all of the healthcare professionals caring for a beneficiary. By identifying risks and care professionals, coordination of care and risk mitigation can be put in place.
+
+The Centers for Medicare & Medicaid Services (CMS) is promoting this service in an effort to enhance patient care, reduce unexpected care and reduce healthcare costs. With an expansive list of healthcare professionals who can perform the Annual Wellness Visit, a critical component in implementing this service hinges on communication and the sharing of the information obtained. Understanding and connecting patients, professionals, and their health data into a unified, accessible system must be managed.
+
+Personalized Health
+
+The landscape of patient health data is expanding. Personalized health and wellness trackers, genetic variants influencing risks for chronic conditions and pharmacogenetics, are all revealing new biologic pathways that will impact how care is delivered in the future. Systematically integrating these disparate pieces of data is becoming critical to translate individual disease risk and treatment recommendations. Emerging uses of personalized data will impact how we store, access and use this data for personalized diagnosis and management of disease.
+
+Solving the technical challenge of accessing the data, development of decision-support tools and visually displaying the results to physicians and patients who will ultimately act upon the findings is being actively developed. How these new technologies are integrating into clinical medicine will impact their use and the engagement of all those involved. Exploring the potential ways to integrate emerging technologies into current EHR’s becomes critical to the future of healthcare delivery.
+
+The process of healthcare delivery, use of data to drive decisions and employing various technological tools have become interdependent components that hold great potential for impacting quality of care. Gaining an understanding of the clinical needs, designing processes that meet these patient needs while incorporating evidence-based decision support has become a critical component of healthcare delivery. Understanding the current thinking, available technology and emerging solutions to the challenges we face with data flow and communication is the first step to developing innovative and impactful solutions.
+
+Photo: Flickr user Charles Nadeau

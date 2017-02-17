@@ -1,0 +1,47 @@
+Michael Chernew, J. Sanford Schwartz, and A. Mark Fendrick
+
+March 11, 2015
+
+The term ‘value’ (commonly defined as health improvements attained per dollar spent) has become ubiquitous in discussions around improving the health care system. Increasingly, payers are adopting value-based purchasing programs (paying more for higher value care) and providing benefits that follow the principles of value-based insurance design (aligning patient cost-sharing with the value of the service). These programs typically focus on services widely regarded as relatively low-cost and clinically effective, such as beta-blockers prescribed for patients following a myocardial infarction (i.e. heart attack).
+
+Simultaneously, there is widespread enthusiasm for the increased use of preventive services. The Patient Protection and Affordable Act (ACA) mandates the elimination of consumer cost sharing for selected preventive services in marketplace plans and many other individual health plans. A particular subset of plans, High-Deductible Health Plans with Health Savings Accounts (HSA-HDHPs) can cover certain preventive services—but not other services—before the deductible, a minimum of $1,250 for an individual and $2,500 for a family, is met.
+
+Generally, policies supporting prevention and value are consistent. Many (not all) preventive services do provide considerable value. Yet as with value, there are nuances in the definition of prevention that can lead to suboptimal policy choices. Specifically, most policy related to prevention defines preventive services as those delivered to asymptomatic individuals.
+
+For example, the United States Preventive Services Task Force (USPSTF), Centers for Disease Control’s Advisory Committee on Immunization Practices, and the Health Resources and Services Administration focus on asymptomatic patients. This includes screening of individuals without symptoms (e.g. for diabetes, depression, and cancer), counseling (including genetic testing), immunizations, and various low-cost preventive services, such as folic acid for women of childbearing years.
+
+The set of preventive services that are eligible for coverage before the deductible is met in HSAs-HDHPs (i.e. primary prevention) is commonly interpreted, because of Internal Revenue Service guidance, to exclude services that are meant to treat an existing “illness, injury, or condition” (i.e. secondary prevention). For example, insulin therapy to treat a patient with diabetes could be viewed as ineligible for coverage before the deductible is met in an HSA-HDHP, as would retroviral therapy for an individual with HIV, because these therapies are only clinically indicated once a diagnosis is made.
+
+While we agree that there is value in evidence-based preventive services for asymptomatic people, we feel it is important to recognize that the prevailing focus on primary prevention tilts the system against services often of much greater value: those that prevent adverse consequences associated with diagnosed disease.
+
+For example, while screening for colon cancer for average-risk adults at age 50 is deemed to be high value (and as such is covered without patient cost-sharing under the ACA), diagnostic colonoscopy for people with symptoms suggestive of cancer or a previous cancer diagnosis is considered of greater value but not favored under the ACA.
+
+As noted in a recent New York Times editorial, individuals can get colonoscopy for free if they have no symptoms, but must pay a part of the cost if they have symptoms. Similarly, a woman over 40 who gets a screening mammography can get it for free, but if she seeks a mammogram after detecting a lump she must pay.
+
+If we are focused on value, why fully cover services that diagnose conditions that are not yet clinically apparent, while exclude coverage of higher value services that effectively manage them? Plans that offer no-cost depression screenings but charge for high value anti-depressant therapies seem to be inconsistent.
+
+This situation illustrates a more general problem with the regulatory framework governing our health care system. Although at the core we care about “value,” we struggle with the right language to efficiently promote it in regulations. As a result, broad categories of clinical services (e.g., prevention or screening) are favored despite the obvious heterogeneity in both the prevention and non-prevention categories.
+
+Of course we will never devise perfect language, but we should focus on identifying high-value services regardless of where they fit in the prevention spectrum. We should also permit flexibility in plan design, creating limits only as needed in ways that do not distract from the goal of promoting value.
+
+In this spirit, there are concrete alternatives that represent a step forward.
+
+Permit Medicare Advantage Plans Greater Flexibility to Promote Value in Benefit Design
+
+Current rules from the Centers for Medicare and Medicaid Services (CMS) limit the ability of Medicare, both the traditional Fee For Service program and Medicare Advantage (MA) plans, to provide differential coverage based on clinical condition. For example, plans cannot charge patients differentially for a retinal eye examination based on whether they have a diagnosis of diabetes or not, even though to the patient with diabetes the exam is of much higher value.
+
+These limits largely reflect reasonable concerns about risk selection and discrimination, but they constrain the ability of plans to promote value. For example, there is a legitimate concern that too much flexibility in benefit design could encourage MA plans to avoid unprofitable patients. However, limits may be placed on this flexibility, and risk adjustment and other tools can mitigate this concern.
+
+Similarly, it is commonly considered discriminatory if some patients are charged more for a medical service than other patients even though services can have different values to different patients. While discrimination is a legitimate concern, particularly since value is hard to define, the nature of medical care is inherently nuanced. Care is more valuable for some patients than others and if we want to promote value we should allow flexibility for plan design to reflect value.
+
+In such a system it will be important to create protections for vulnerable patients, such as the disabled or disadvantaged. For example, CMS through its ongoing review of plan benefit packages can continue to ensure that such benefit designs are not discriminatory and promote value for beneficiaries with complex needs.
+
+Provide Flexibility for HSA-HDHPs to Cover High Value Services Exempt From the Deductible
+
+Currently, patients with chronic disease must pay out of pocket through deductibles, co-payments, and coinsurance for high-value services, while services are free for asymptomatic patients even though they may offer much less value. More flexibility to permit innovative plan designs not only will improve access to important services for existing HSA enrollees, but also will attract a new group of beneficiaries to high-deductible plans who will have both better access to effective preventive services and incentives to be cost conscious for other care.
+
+Because defining value is difficult, and because a limit on services that are covered before the deductible is needed, an actuarial value threshold could be used to define HSA-HDHP plans. For example, any plan with an actuarial value of 0.6 could be considered a “high deductible plan” for the purpose of coupling with an HSA. This will permit plans to adjust copayments and coinsurance to reflect inherent value across services, regardless of the type of service, clinical condition or population affected without increasing the overall generosity of coverage.
+
+Given fiscal constraints, policymakers must strive to promote use of high value care and discourage use of low-value care while continuing to promote innovation. This is complicated because value requires recognition of clinical heterogeneity, (i.e, the variation in outcomes across different patient populations and provider settings).
+
+No approach will be perfect and any strategy that recognizes heterogeneity will entail difficulty communicating the plan rules to patients and providers. These challenges may limit the level of detail that can be used. Nevertheless, the policies we’ve proposed will move us in the right direction; they will help reduce the existing contradictions between our stated goal of enhancing value and our existing policies that may be obstacles to achieving it. To promote these goals, we are forming a coalition that recognizes the desire for health care that furthers consumer access to high-value services and promotes affordability.

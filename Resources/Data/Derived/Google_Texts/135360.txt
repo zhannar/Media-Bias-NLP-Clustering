@@ -1,0 +1,153 @@
+In Search Of ‘Computational Psychiatry:’ Why Is It A Hot New Field?
+
+By Suzanne Jacobs
+
+WBUR Intern
+
+It’s around 10 a.m. on a weekday when I walk into a coffee shop that apparently doubles as the preferred study spot of every student on the Boston University campus. My instinct is to leave immediately and find a quieter place to caffeinate, but I’m not here for the coffee. I’m here for information — information on what I’m hearing is one of the hottest new trends in brain science.
+
+Winding my way through tables of frazzled co-eds, I search every face for that “Are you who I’m looking for?” stare, but no one acknowledges me. So I step back out onto the sidewalk and wait. I’m early anyway.
+
+About five minutes later, a young man who would have otherwise been indistinguishable from the crowd of students locks eyes with me from about 20 feet away. “That’s my guy,” I think to myself.
+
+Minutes later, coffees in hand, we’re seated at a small back table, and I put my digital recorder down on it. “Is it okay if I record this?” I ask. He says that’s fine.
+
+At this point, what I really want to do is grab him by the shoulders and yell, “What are you people doing? Let me into your world!” For weeks, I’ve been looking into this new field of research called computational psychiatry, but for the life of me, I can’t figure out what it is. More frustratingly, I can’t figure out why I can’t figure it out, despite a strong science background and hours of reading what little I could find about the topic on the Internet.
+
+But I hold back, press the little red circle on my digital recorder and let the man speak.
+
+In computational psychiatry, “What you try to do is come up with a toy world…,” he begins.
+
+This all started a few weeks earlier when I was perusing the latest edition of Current Opinion in Neurobiology. Don’t ask me why I was perusing Current Opinion in Neurobiology — I don’t know. To avoid doing something else, probably.
+
+One article caught my eye. It was titled “Computational approaches to psychiatry.” A longtime subscriber to the drugs-and-therapy stereotype of psychiatry, I found the idea of new “computational approaches” intriguing, so I read on.
+
+A Promising New Approach
+
+“A major reason for the disappointing progress of psychiatric diagnostics…” began the authors, neuroscientists Klaas Enno Stephan and Christoph Mathys, “is largely because doctors are still diagnosing mental diseases purely based on clinical symptoms.”
+
+Yes, I thought to myself, I’ve heard that before. In fact, I heard it a lot last year when the fifth edition of the “Diagnostic and Statistical Manual of Mental Disorders” came out.
+
+“A promising new approach is the use of computational modeling for inferring mechanisms which generate observed behavior and brain activity in psychiatric patients,” Stephan and Mathys wrote.
+
+Computational modeling. That meant using computer simulations. I knew scientists had done that for years to understand all kinds of things — weather patterns, protein folding, airplane flight. Come to think of it, neuroscientists had already been using computers to model individual brain cells and circuits, and some have even tried to model entire brains.
+
+Computational psychiatry departments were popping up around the world — London, Zurich, here in the U.S. at Virginia Tech.
+
+But this paper was about something new. It was about the work going on in “computational psychiatry” departments popping up around the world. It was what everyone was talking about at what some are calling the world’s first “computational psychiatry” conference, held last year in Miami.
+
+I trudged through the paper to find out what all the excitement was about, but got lost in technical jargon along the way. Afterward, when I tried to explain computational psychiatry to a few friends, it became brutally obvious that I had no idea what I was talking about.
+
+“These people want to model brains…er….maybe just parts of brains,” I would say, “…and then…uh…mental disorders…they want to understand diseases like depression and schizophrenia.” It was no better than me trying to explain reading by saying that it’s when people look at books, and then they know things.
+
+I called up Read Montague, head of the computational psychiatry department at Virginia Tech, for help. He told me that he considered scientists’ current understanding of psychiatric diseases “pathetic” and thought that computational models could help remedy that. He also told me that computational psychiatry was a growing field and “a young person’s game.”
+
+Montague sounded excited, and that evoked in me the same intrigue I felt when I read the beginning of the Stephan and Mathys paper. But he didn’t have much time to talk, so we never got into the gritty details of what he and his colleagues were doing and how it would change the field of psychiatry.
+
+We only touched on the big picture, which I already understood. I knew that the goal of computational psychiatry was to find better ways to diagnose and treat mental disorders, and I knew that computational modeling meant using computer simulations. What I didn’t get was why this was a new field. Both the goal and the method of getting there had been around for years.
+
+There was some part of this story that I just wasn’t seeing.
+
+Conference Brings Computational Psychiatry Into Clearer Focus
+
+I tucked computational psychiatry away in the back of my mind for a couple of weeks until I got wind of a one-day computational neuroscience conference happening near my home in Cambridge, Mass. The conference description made no mention of computational psychiatry, but the whole event would focus on using computational methods to understand mental disorders, so it sounded like computational psychiatry to me.
+
+The day started with the usual spiel — We don’t really understand mental disorders, and computational models could help fix that — then launched into a series of talks from doctors, computer scientists and entrepreneurs.
+
+They didn’t deconstruct one of these models, which was what I was hoping for, but during one of the breaks, I grabbed a conference organizer and asked him to do just that. He quickly looked around and grabbed someone else to explain it to me.
+
+The man he pulled over was Dave King, the CEO of a local data visualization company called Exaptive. In partnership with the Accelerated Cure Project (ACP), a non-profit devoted to curing multiple sclerosis, King and others at Exaptive had been working on a computer program that combined data from dozens of disparate multiple sclerosis studies. The ACP has a repository of more than 3,000 blood samples from MS patients, their relatives and unrelated control participants. Anyone can do studies with the samples — big corporations, small non-profits and anything in between — as long as they share their results with the ACP. Exaptive’s program would take these returned results and find which studies used the same samples.
+
+Right now, King told me, MS patients have to try a series of medications on blind faith that one will work for them. It’s time consuming and not always effective, he said. By looking at multiple studies that used the same samples, he said, Exaptive’s program could hopefully give doctors more insight into the disease and lead to more individualized treatment.
+
+The program looked very cool on King’s laptop, but it wasn’t the kind of modeling I had read and heard about in the context of computational psychiatry. It did, however, bring up something that became central to the day’s talks and to my understanding of computational psychiatry — big data.
+
+In retrospect, the fact that big data would play a role in this story shouldn’t have been a big surprise. After all, the computer simulations would have to run on something.
+
+After that conference, the light bulb I imagined hovering over my head was still dark.
+
+After that conference, the light bulb I imagined hovering over my head was still dark. I had yet to find out why computational modeling, which had been around for years, was suddenly the basis of a new field.
+
+Google wasn’t much help. I could only find either technical papers that went over my head or superficial summaries that had a lot of buzzwords and hand waving. Likewise, the short conversations I had with Montague and King weren’t enough to get me past the elevator pitch.
+
+Thoroughly frustrated at that point, I was ready to throw my hands up and just cheer on computational psychiatry because its name and aspirations impressed me.
+
+That’s when I came across the blog of a young computational neuroscientist who worked nearby at Boston University. His name was Yohan John, and one of his recent posts was titled “How is depression (and other mental disorders) addressed with computational neuroscience?”
+
+Jackpot.
+
+In the post, he offered a simple outline of the kind of model he was talking about: start with a simulated circuit of neurons, dictate how these neurons should behave using real data gathered through experimental techniques like brain imaging or EEG, and then change various pieces of the model to see how that behavior changes.
+
+As soon as I finished reading the blog post, I looked up John’s e-mail address and sent him a message asking if we could meet. He quickly replied that he would be happy to chat.
+
+Big Data Over Small Coffees
+
+Sitting in the coffee shop at a two-person table in a crowded row, John tells me that there are two broad categories of computational neuroscientists: those who do data analysis and those who do theoretical work.
+
+Something clicks in my head when John says “theoretical.”
+
+In a way, “theoretical neuroscience” and “computational neuroscience” are synonymous. Modeling even simple neural circuits is so complex, John tells me, that theorists can’t do much of anything with just pencil and paper and instead have to use computers. It’s as simple as that.
+
+I feel silly admitting this, but just renaming computational neuroscientists as theorists in my mind changes everything. I immediately think of physics, my undergraduate major and perhaps the gold standard for a healthy and longstanding interplay between theory and experiment. I already feel like I have a better understanding of what computational neuroscientists, and by extension computational psychiatrists, are trying to do.
+
+I ask John, who in fact did his undergraduate degree in physics as well, if the comparison is valid, and he says that it is but that one big difference between physics and neuroscience is that theoretical physics is so well-established that theorists tend to be more famous than experimentalists. The opposite is true in neuroscience.
+
+“We’re sort of still having to prove ourselves,” he says, but theory and experiment will both be important if we ever want to understand this largely mysterious organ.
+
+“Some experimentalist could just chance upon something that really, really works and not know why exactly, but a theoretical framework might give them a clue,” John says. “The experimentalists don’t have that much time to think about theory, and there’s enough complexity there that it’s worth having someone more or less devoted to how the system’s working.”
+
+In this ‘toy world’ built on a computer, computational neuroscientists can break something in the circuit and see if it results in behavior consistent with, say, depression.
+
+When we finally get to talking about models, I admit to John that I’m having a hard time grasping what exactly they are and what they can do for psychiatry. He tells me to think of a computer model as a set of cogs and wheels that scientists build in a virtual universe and then strategically break to see how certain malfunctions affect the model’s overall behavior.
+
+For mental disorders, the cogs and wheels are neural circuits in parts of the brain that experiments have shown play a role in certain illnesses. In this “toy world” built on a computer, John says, computational neuroscientists can break something in the circuit and see if it results in behavior consistent with, say, depression. Using that model, scientists can then come up with new theories of how depression works and partner with experimentalists to test those theories.
+
+It’s like, in physics, how Peter Higgs theorized the existence of the Higgs boson in the 1960s, and then physicists used the Large Hadron Collider to get experimental confirmation that it existed.
+
+Not long after talking with John, that light bulb above my head finally turns on. I realize that nothing John told me about these models surprised me. I understood how computer models worked. I’ve actually worked with them myself.
+
+I’ve been so frustrated trying to figure out the cutting-edge part of computational psychiatry, when what was actually tripping me up was what wasn’t cutting-edge about it. Computational modeling has been around for a long time and so has the desire to understand mental disorders.
+
+In an instant, my question changes from “What am I missing?” to “Why now?”
+
+Searching For A Deeper Understanding Of The Brain
+
+“The biological revolution in psychiatry occurred around the time that people were getting tired of Freud,” Jonathan Cohen, a researcher at Princeton University who’s been doing what’s now called computational psychiatry for years, said.
+
+Cohen has a lot to say about the sociology of brain research — the early divide between psychology and neuroscience, between the mind and the brain. The biological revolution that he’s telling me about is the hard science approach to psychiatry that evolved with new experimental techniques and led to the realization that drugs could improve mental illness.
+
+“And so they threw the baby out with the bathwater in the sense that they said, ‘Listen, any attempt to try and understand the mechanisms of thought, which smacks too much of Freudianism, is just not interesting to us anymore. We want the real mechanisms — the biology — and for that we’re going to go do the biology now that we can do it. By the way, that’s what Freud wanted too. He just didn’t have the tools,” Cohen tells me.
+
+As a result, he says, scientists know, for example, that reducing levels of the neurotransmitter dopamine gets rid of hallucinations in people with schizophrenia, but what they don’t know is why. It’s like saying that a brake works by stopping a car, Cohen says, but not saying how it stops the car.
+
+“All of the [psychiatric] drugs that worked,” Cohen says, “were more or less discovered by serendipity. They were not discovered by an understanding of how the brain works and somebody saying, ‘Oh, well, geez, since this is how the brain works, and this is what’s going wrong in that disease, why don’t we design a drug to go do that to fix it?’ Never. Never has that happened as far as I know. It’s all been, ‘Wow, we tried it for blood pressure and those people seem less depressed. Maybe we could use it as an anti-depressant.’”
+
+‘You’d be hard pressed to find a neuroscience department in this country that has a pure theorist.’
+
+What psychiatry needs, Cohen says, is a deeper understanding of how the brain as a system manifests mental illnesses. Treatment can’t simply rely on matching symptoms to diagnoses; symptoms should inform doctors how the brain is malfunctioning so they can figure out how to fix it.
+
+“You would not want to go to a car mechanic who doesn’t know something about combustion, right? I mean, that would be absurd. You wouldn’t want them saying, ‘Wow, your car doesn’t seem to be working. Let me take some oil and poor it over here and see if that helps.’”
+
+That’s where computational psychiatry comes in.
+
+Cohen had always been interested in both the mind and the brain, so for a long time he felt frustrated by the division between neuroscience and psychology, he tells me. It wasn’t until he was doing his medical school residency in psychiatry at Stanford University that he came across a way to do both — computational modeling.
+
+“That was exactly what I had been hungering for,” he said.
+
+At Stanford, Cohen met psychologist Jay McClelland, who at the time was working on computer models that could do things like conjugate verbs, perceive stimuli and make decisions, Cohen says.
+
+After medical school, Cohen went back to get a PhD in cognitive psychology at Carnegie Mellon University with the intent of using the computational methods developed by McClelland and other early pioneers to understand mental disorders.
+
+Cohen has been particularly interested in schizophrenia. Early in his career, he built a model to explain why people with schizophrenia can list homonyms — words that are spelled the same but have different definitions — but when given one of these words in context, they always pick the most common definition. Asked why a farmer bought a pen for his chickens, Cohen explains, a schizophrenic person might say that the farmer needed to write a check because chickens are expensive.
+
+Cohen’s model predicted that this common symptom in schizophrenia resulted from faulty representation of contextual information in the brain.
+
+So again, if people like Cohen have been doing this for decades, why now?
+
+A lot has happened since the 1980s, Cohen tells me. Computers have gotten more powerful, new experimental techniques have led to deeper insight into how the brain works, which has led to more robust models. Perhaps most importantly, functional MRI brain imaging came along. This real-time imaging technique is a great way to test model predictions, Cohen says.
+
+So at long last, computational psychiatry is here, and the small cohort of researchers like Cohen who have been doing this for a long time might finally have some company. Indeed, Cohen says, company would be nice. The Obama Brain Initiative might be pushing for new tools, Cohen tells me, but as far as computational psychiatry is concerned, there’s plenty to do with existing tools. What this new field needs is warm bodies.
+
+But just as Yohan John told me in the coffee shop, Cohen says that theorists in neuroscience are few and far between compared to experimentalists.
+
+“If you ask a kid in grade school, ‘What is science about?’ What do they tell you? They say, ‘Oh, you have a hypothesis or theory and then you go and do an experiment to test it,” Cohen said. “You’d be hard pressed to find a neuroscience department in this country that has a pure theorist. That’s just a remarkable fact, and I think it says a lot about what needs to be done to make real progress.”

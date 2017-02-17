@@ -1,0 +1,27 @@
+Dissecting the critical security problems with the website Healthcare.gov, with TrustedSec CEO David Kennedy. "It will take a long time to address some of the critical and high exposures on the website itself," he says.
+
+It could take a year to secure the risk of "high exposures" of personal information on the federal Obamacare online exchange, a cybersecurity expert told CNBC on Monday.
+
+
+
+"When you develop a website, you develop it with security in mind. And it doesn't appear to have happened this time," said David Kennedy, a so-called "white hat" hacker who tests online security by breaching websites. He testified on Capitol Hill about the flaws of HealthCare.gov last week.
+
+"It's really hard to go back and fix the security around it because security wasn't built into it," said Kennedy, chief executive of TrustedSec. "We're talking multiple months to over a year to at least address some of the critical-to-high exposures on the website itself."
+
+(Read more: Shh! Obamacare enrollment errors)
+
+
+
+According to the Department of Health and Human Services, which oversaw the implementation of the website, the components used to build the site are compliant with standards set by Federal security authorities.
+
+"The privacy and security of consumers' personal information are a top priority for us. Security testing happens on an ongoing basis using industry best practices to appropriately safeguard consumers' personal information," said the spokesperson.
+
+Another online security expert—who spoke at last week's House hearing and then on CNBC—said the federal Obamacare website needs to be shut down and rebuilt from scratch. Morgan Wright, CEO of Crowd Sourced Investigations said: "There's not a plan to fix this that meets the sniff test of being reasonable."
+
+(Read more: How GOP should react to Obamacare mess)
+
+Last month, a Sept. 27 government memorandum surfaced in which two HHS officials said the security of the site had not been properly tested before it opened, creating "a high risk."
+
+HHS had explained then that steps were taken to ease security concerns after the memo was written, and that consumer information was secure. Technicians fixed a security bug in the password reset function in late October, the agency said.
+
+But on CNBC, Kennedy disputed those claims, saying vulnerabilities remain on "everything from hacking someone's computer so when you visit the website it actually tries to hack your computer back, all the way to being able to extract email addresses, users names—first name, last name—[and] locations."

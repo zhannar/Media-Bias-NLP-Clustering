@@ -1,0 +1,19 @@
+RSA Executive Chairman Art Coviello Bloomberg News
+
+RSA Security, a division of EMC, privately told customers Thursday to ditch an encryption algorithm that reportedly contains a flaw engineered by the National Security Agency. It marks one of the first instances of a security company acknowledging the U.S. government may have been involved in propping open a backdoor into a product.
+
+The type of encryption – a particular random number generator endorsed by the U.S. government – previously has been shown to be vulnerable to hacks. But documents recently leaked by former NSA contractor Edward Snowden suggested the U.S. intelligence agency had played a role in creating a backdoor in the standard.
+
+RSA had set that standard as a default setting in some of its security products, including all versions of its “Data Protection Manager,” which encrypts sensitive data.
+
+“To ensure a high level of assurance in their application, RSA strongly recommends that customers discontinue use,” of the encryption standard, RSA said in an email sent to customers seen by the Wall Street Journal. It is providing guidance to customers on how to change the default settings.
+
+In the email to developers, RSA never mentions NSA, but references a “debate” around the encryption in question.
+
+The change in policy does not affect RSA’s flagship SecurID tokens, used by millions of workers for secure access to their corporate networks.
+
+The National Institute of Standards and Technology endorsed the affected encryption standard in 2006. But this month, it said it would reopen a debate over whether to still back it, following the most recent Snowden leaks.
+
+News of RSA’s move was reported earlier by ArsTechnica and Wired.
+
+RSA’s full email, provided by a company official, is below.

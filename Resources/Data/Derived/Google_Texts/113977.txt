@@ -1,0 +1,51 @@
+Meetup.com is a social networking site that allows people to connect for shared-interest activities ranging from book clubs to parents’ groups to entrepreneurs. Late last week, Meetup met up with the wrong kind of people; hackers who tried to extort money and forced the site offline. Meetup reports that its Web site is now stable and most service restored, but the hostage threat in cyber space is still impacting their business.
+
+Meetup’s problems started Thursday when CEO Scott Heiferman received an email threatening a DDoS attack unless a ransom of $300 was paid. A DDoS (distributed denial of service) attack is when hackers overwhelm a Web site preventing its actual users from accessing it. Essentially, they are barring anyone from using the targeted site.
+
+The threat was real and Meetup’s servers were suddenly overwhelmed with traffic forcing the to crash. The site was down for almost 24 hours straight before service was restored. However, each time the company managed to bring the struggling site back up, a similar bombardment of traffic would begin and the Meetup site would crash again. The most recent attack was Monday afternoon.
+
+The attacks rendered the social networking site and its mobile apps inactive for most of the weekend, during which approximately 60,000 meetings were supposed to take place. The site’s users and paying subscribers who create events could not RSVP for events, check on names or locations or use other features of Meetup. This was during the busy Oscar weekend, when many groups planned viewing parties.
+
+Heiferman explained on a blog post several reasons why his company would not pay the paltry ransom amount. Primarily, Meetup did not want to negotiate with criminals and felt the lowball extortion amount suggested amateurs were involved. Heiferman noted that payment makes companies a target for further extortion demands, which has happened to other companies.
+
+Security experts say a situation like this is more common than people are aware of. As one expert told NBC News, this kind of thing has been happening under the radar for years and not attracted attention. If confidential customer data (such as credit card information) is not stolen during an attack, the company usually will not make the situation public for fear of encouraging others.
+
+Perpetrators of cyber attacks are often hard to catch. There may be multiple people involved across the globe. The Secret Service gets involved when financial information is at risk. Interpol and the Federal Bureau of Investigation sometimes get involved, but attacked Web sites that are not security risks are not a priority.
+
+For many firms, DDoS and other cyber attacks, such as malware, are hard to predict and expensive to protect against. For some, the inconvenience of an outage hurts the bottom line less than purchasing expensive security software that might be unnecessary.
+
+A privately-held, New York-based firm, Meetup has over 16 million members and enables approximately 20,000 people every day to sign up for events. The cyber space, DDoS hostage situation was the first Meetup has encountered during its 12 years in business.
+
+By Dyanne Weiss
+
+Sources:
+
+Meetup HQ Blog
+
+Reuters
+
+NBC News
+
+PC World
+
+CBS New York
+
+Share this: Print
+
+LinkedIn
+
+Pinterest
+
+Pocket
+
+Reddit
+
+Email
+
+Twitter
+
+Google
+
+Facebook
+
+Tumblr

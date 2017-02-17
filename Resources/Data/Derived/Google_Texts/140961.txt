@@ -1,0 +1,69 @@
+USA July 17 2014
+
+Retaining or hiring employees as part of a transaction, even in the context of an asset acquisition, presents a host of issues related to potential successor employer obligations under the various labor and employment laws. Generally, the courts and government will look to the following criteria, which are applicable in some way or another to most of the statutes discussed below , in determining whether a buyer that hires employees as part of an acquisition will have successor liability for pre-closing conduct of the seller:
+
+Substantial continuity of the same business operations;
+
+Use of the same plant or facility;
+
+Continuity of the workforce;
+
+Similarity of jobs and working conditions
+
+Similarity of supervisory/managerial personnel;
+
+Similarity in machinery, equipment and production methods;
+
+Similarity of products or services; and
+
+Ability of the seller to provide relief.
+
+​ERISA Successor Liability Considerations
+
+The Employee Retirement Income Security Act (ERISA) covers employee benefit plans such as pension benefit plans, health insurance, employee stock options, severance benefit plans and life insurance. The general test for determining whether a successor is responsible for the ERISA debts of the predecessor is whether:
+
+the successor employer had prior notice of the claim against the predecessor; the predecessor was able, or was able prior to the purchase, to provide the relief requested; and there had been sufficient continuity in the business operations of the predecessor and successor
+
+​Schilling v. Interim Healthcare of the Upper Ohio Valley, Inc., 2008 U.S. Dist. LEXIS 45233 (S.D. Ohio June 9, 2008) (holding that the purchaser of the business assets of an employer was liable for the unpaid medical claims of the employees where the buyer knew the company had more than US$340,000 in unpaid medical claims, and knew that the company did not have the ability to pay those claims); Brend v. Sames Corp., 2002 U.S. Dist. LEXIS 12648 (N.D. Ill. 2002) (holding that under the doctrine of “successor liability,” a company purchasing the assets of a business could become responsible for “top hat” plan liabilities of the selling company).
+
+The two biggest issues for consideration in an asset purchase are single employer plans and multi-employer pension plans of the seller. As to single employer plans, an asset sale does not ordinarily involve the assumption of the seller’s plan or liability for it. However, an asset buyer may assume liability simply by “maintaining” the plan through contributions or by sponsoring it. If the seller does maintain such a plan, statements and actions to ensure that the buyer will not sponsor or contribute to any such plan are prudent, if not indemnification from the seller.
+
+With respect to multi-employer pension plans, a buyer of assets wants to avoid any “withdrawal liability,” which is imposed upon employers who cease to contribute to a Multi-Employer Plan. An asset sale will presumptively trigger a withdrawal if the seller is no longer a contributor to the Plan. Therefore, it is important at a minimum to confirm that the seller does not participate in any multi-employer plans, and if it does, to obtain appropriate assurances so that an unintended withdrawal does not occur so as to result in buyer liability.
+
+COBRA Successor Liability Considerations
+
+The Consolidated Omnibus Budget Reconciliation Act (COBRA) requires employers to offer employees and covered dependents continued group health plan coverage at the employees’ expense upon a qualifying event – including termination of employment. In an asset sale, COBRA is the issue an issue for the seller, who will need to ensure that terminated employees are provided COBRA notice and opportunity for continuing coverage.
+
+However, if the seller continues to sponsor a group health plan after the sale, the seller is reasonably assumed to have a continuing legal responsibility to continue COBRA coverage to former employees currently enrolled in COBRA, as well as employees who lose COBRA coverage for themselves and their dependents because they are not retained by the successor employer.
+
+Further, the COBRA regulations contain a number of regulations explaining what happens to qualified beneficiaries in the event of an asset purchase transaction. Included in these regulations is an explanation of instances where the buyer is obligated to provide the continuation coverage under its own plan, even though it may not have ever employed the individual employees.
+
+OSHA Successor Liability
+
+The Occupational Safety and Health Act (OSHA) imposes general and specific health and safety requirements upon employers. OSHA can impose successor liability for pre-closing conduct when the buyer continues the business using the same premises, machinery, employees and supervisory personnel. See e.g., Dole v. H.M.S. Direct Mail Service, Inc., 752 F. Supp. 573 (W.D. N.Y. 1990), rev’d in part on other grounds, 936 F.2d 108 (2nd Cir. 1991). Therefore, appropriate representations and warranties, and indemnification from the seller are prudent for the buyer. Further, a buyer must retain the seller’s OSHA records for five years after the end of the year to which the records relate.
+
+In very general terms, if the seller ceases to provide health coverage as a result of the transaction, and if the buyer continues the business operations associated with the assets purchased “without interruption or substantial change,” the buyer becomes a “successor employer.” If the buyer is a “successor employer,” a group health plan maintained by the buyer has the obligation to make COBRA coverage available to qualified beneficiaries with respect to that asset sale (which could include current and former employees of the seller currently on COBRA).
+
+While the COBRA regulations acknowledge that the determination of the obligation to provide COBRA coverage under asset purchase arrangements is based on “relevant facts and circumstances,” and thus clear cut guidelines do not exist, at minimum certain representations, allocations of responsibility and indemnification where possible, should be secured from the seller.
+
+Successor Liability Under Wage and Discrimination Statutes
+
+The Fair Labor Standards Act (FLSA) governs the pay of minimum wage and overtime to employees. The FLSA applies to companies with one or more employees and mandates that employers pay non-exempt employees at least the federal minimum wage and overtime when the employee works over 40 hours in a working week. There are analogous state statutes. The penalties for non-compliance are possible double back wages up to three years for willful violations and attorneys’ fees. Class actions naturally will increase the amount of potential liability. The successor rules apply to the FLSA in asset transactions; therefore, particularly in transactions involving many employees, the asset buyer should review payroll practices to determine wage and hour requirements and exceptions. Most successor liability under the FLSA will stem from (1) misclassification of employees as exempt, (2) allowing employees to work off the clock, (3) failure to calculate overtime correctly, or (4) misapplication of the exemption rules.
+
+Successor liability will generally not be imposed under other employment discrimination statutes (e.g. age, race, sex, etc.) following an asset sale when the seller is fully capable of providing relief or when the buyer did not have the opportunity to protect itself by an indemnification clause in the acquisition agreement or by a lower purchase price. When determining successor liability in the context of discrimination, (assuming the buyer meets the initial criteria of a successor employer – i.e., essentially, substantial continuity of the business operations), courts will also look to whether the buyer had notice of a charge or pending suit prior to acquiring the business or assets. Successorship principles may not apply, however, if the successor employer had no notice of a charge of discrimination.
+
+Transaction Implications Under Other Employment Statutes – WARN, FMLA and IRCA
+
+The Worker Adjustment and Retraining Notification Act (WARN) should be considered in larger transactions. WARN requires an employer (defined as 100 or more employees) to give 60 days detailed notice before closing a facility or a mass layoff at single site of employment. A “mass layoff” means a loss of 33% of the workforce equal to at least 50 employees or a loss of 500 or more employees. The seller has responsibility for providing notice of a plant closing or a layoff which takes place up to and including the closing date of the sale. Thereafter, notice is the buyer’s obligation. The regulations also provide for notice from the buyer prior to the sale/merger if so contracted. Because of the large potential penalties involved (i.e., back wages and benefits for up to 60 days, attorneys fees and other penalties), companies should obtain specific advice when facing potential WARN issues in a transaction.
+
+The Family and Medical Leave Act (FMLA) requires that employers with 50 or more employees within 75 miles provide to employees who have worked 12 months and 1,250 hours in the last year with 12 weeks of unpaid leave or equivalent intermittent leave for the birth, adoption or placement in foster care of a child, or the serious health condition of a family member or the employee.
+
+If a new employer is deemed a successor in interest to an employee’s previous employer, the new employer must grant FMLA leave to eligible employees who had provided appropriate notice to the selling employer. Further, the new employer must continue the leave begun by an employee while employed by the seller, including maintenance of group health benefits during the leave and job restoration at the conclusion of the leave. Finally, a successor in interest meeting FMLA coverage requirements must count periods of employment and hours worked for the seller for purposes of determining eligibility coverage. 29 U.S.C. §825.107; Cobb v. Contract Transp., Inc., 452 F.3d 543 (6th Cir., 2006) (broad successor obligations under FMLA); Wright v. Sandestin Invs., LLC, 914 F. Supp.2d 1273 (N.D. Fla., 2012). Therefore, a buyer after making its selection decisions should determine which employees (whether active or on leave) qualify for or are currently taking FMLA leave.
+
+The Immigration Reform and Control Act (IRCA) prohibits an employer from hiring, recruiting or referring for a fee an individual without properly verifying the individual’s identity and authorization to work in the US. The Act also prohibits discrimination on the basis of citizenship. Proper identification involves completion of Form I-9. Therefore, if the buyer intends to maintain or hire part of the workforce, it should obtain all new Form I-9s to insure proper completion.
+
+The buyer should also assess the number of foreign workers and each worker’s immigration status. Acquisitions can impact visa status, as H-1B and L visas are tied to specific employers and therefore an acquisition can have a critical impact on a foreign national’s ability to work in the United States and affect the validity of the visa. The issue turns on whether the individual is working for a “new employer” or under “changed circumstances” such that a new application or new visa petition must be filed. Normally, a successor in interest will assume the rights, obligations and duties of the original petitioner/applicant, and the visas will remain intact. However, under certain circumstances (e.g., change in terms of employment) a new visa will have to be obtained.
+
+State Law Specific Successor Issues in Transactions
+
+Asset buyers must also be aware of successor-in-interest rules that apply under state workers’ compensation and unemployment compensation statutes. The rules vary based on state and the nature of the transaction (e.g., substantially all v. partial asset purchase). Therefore, a buyer should obtain specific advice regarding the implications of the sellers’ existing workers’ compensation claims and rating experience on the buyer.

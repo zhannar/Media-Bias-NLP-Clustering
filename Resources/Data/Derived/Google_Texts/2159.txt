@@ -1,0 +1,33 @@
+Months before the ill fated launch of Healthcare.gov — the website built to give millions of Americans access to affordable health care — government officials were already describing it as something special.
+
+Healthcare.gov “is going open by design and default,” said Bryan Sivak, Chief Technology Officer at the Department of Health and Human Services, in a Twitter message posted last April. “This is a big deal.”
+
+Sivak’s agency had tapped a small, but tech savvy company called Development Seed to build the front-end of the website, and according to a report at the time, they envisioned a site that was very much in line with cutting edge web development techniques. Healthcare.gov would use Jekyll, a widely used tool for building sleek and fast websites, and the software code underpinning the site would be released on GitHub, the social coding site where you can let anyone fix problems with your software.
+
+But things didn’t quite work out as planned. After the site went live on October 1, it was buggy, as millions sought new healthcare plans. And then, in a move that symbolizes its inability to completely grasp the new tech status quo, the federal government put the kibosh on the GitHub repository where much of the site’s code was housed.
+
+But ultimately, outside coders showed the federal government just how powerful open source code can be.
+
+By all accounts, the Development Seed code performed as expected when Healthcare.gov finally went live, but other back-end components didn’t do so well. Users reported problems with the systems used to register accounts on the site — WIRED attempted to register an account on the site Monday night; our two attempts failed thanks to a glitch in the account activation process — and as the complaints piled up, angry users went to the one public venue that the government had provided to report problems: the healthcare.gov source code repository on GitHub.
+
+Instead of using GitHub to report issues with the source code that had been released, they started to vent about bugs in the closed-source code that ran the site’s back-end. “Actual plans and rates are hidden behind an application process that literally takes 5 days to complete,” wrote one user who went on to detail a litany of glitches. “Seriously, this is the worst, most frustrating web experience I have ever had. Ever. And I started browsing the Web using NCSA Mosaic.”
+
+— Clay Johnson ‘It makes me think that anytime the government puts code into GitHub, someone should go fork it, just in case.
+
+By Monday, things had become so bad that President Barack Obama held a press conference to discuss the problems. “No one is madder than me that the website is not working as well as it should — which means it’s gonna get fixed,” he said.
+
+As the complaints piled up, the Centers for Medicare & Medicaid Services, which manages the site simply shut down the entire GitHub repository without explanation. According to them, they did this because people were confused about the difference between the front-end and back-end systems and the issues that people were raising on GitHub was only adding to the confusion. From the perspective of the open-source community, it was exactly the wrong thing to do.
+
+“By removing the GitHub repository, they removed from view any surface area by which they might communicate to interested developers what the actual situation was,” says Karl Fogel, an open-source technology consultant who works with government agencies. “Instead they just took it down so there’s this blank space leaving everyone speculating and assuming the worst.”
+
+But they couldn’t erase the code from the web. Fogel and several other GitHub users have now built their own “forks” of the Development Seed software — something that GitHub and open source let you do so easily. And now anyone can once again propose changes or comment on the website. They’ll just be commenting or coding for Karl Fogel, or another forker like him.
+
+The government isn’t going to use these forks, although they may look at them. They’re more likely to simply restore their own repository on GitHub when things cool down. But that isn’t the point. “I wanted to preserve the code-base on GitHub and have it be forkable on GitHub just as matter of principle,” Fogel says. “It’s really there as an admonition.”
+
+“That’s the great part about open source, you can never take it back,” says Clay Johnson, the founder of Blue State Digital, the company that Built Obama’s 2008 campaign website. Last year, he spent six months as a White House Presidential Innovation Fellow, where he got an insider’s look at technology in the federal government. “It makes me think that anytime the government puts code into GitHub, someone should go fork it, just in case.”
+
+Still, while Johnson agrees that the government removing its own GitHub repository was a bad move, he says it must have been hard to have been the one open-source component in this project. “I think that if you or I were in their shoes over the past weeks, we might be making some irrational and erratic decisions too.”
+
+The federal government’s Centers for Medicare & Medicaid Services declined to comment directly on the Healthcare.gov issues, but when we asked a spokeswoman there how people should report technical issues with the site, she gave an answer that once again shined a harsh light on the problem.
+
+She said they should give Obamacare’s 800 number a call. That number is: 800-318-2596.

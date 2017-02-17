@@ -1,0 +1,19 @@
+With the help of a new laser-based scanning technique, scientists from Stony Brook University have produced the first-ever images of the brain’s blood vessels while high on cocaine. The new research could advance diagnostic efforts during brain cancer surgery and help drug addicts kick their habit.
+
+Drugs like cocaine come pre-loaded with the potential to cause significant internal bleeding because the heart now has a new set of demands, namely, to pump faster. This causes the body’s blood pressure to rise; however, for reasons that are still largely unknown, the vessels are being told to constrict. When enough blood flow is impeded, to the point it reaches a standstill and can’t reach the brain, there’s a stroke.
+
+The new technology is called optical coherence Doppler tomography, or ODT. Unlike fMRI, whose image resolutions are too low to peer inside the vessels, and two-photon microscopy, which uses a too-small field of view to track the movement of many red blood cells labeled with fluorescent dyes, ODT uses a laser light to bounce off the red blood cells. By measuring the frequency of the light wave as the cells move, they can determine its location. The phenomenon is called the Doppler Effect, and it’s the same principle that explains why ambulances sound different as they travel past your ears.
+
+According to study researcher and associate professor in the Department of Biomedical Engineering at Stony Brook Yingtian Pan, “this is a unique technology that can do both” — track a lot of cells at a high resolution, Pan said in a statement. A third benefit is that ODT doesn’t rely on fluorescent dyes, which can trigger harmful side effects in human patients.
+
+With their new technique, Pan and his colleagues gave mice a regular injection of cocaine for 30 days. They found blood flow speed dropped substantially. And, for the first time, they observed microischemia — a miniature form of the full-blown stroke, when blood flow comes to a halt.
+
+Scientists can now observe blood vessels' response to cocaine, as the vessels are still healthy (left) and as they constrict (right). Photo courtesy of Biomedical Optics Express. The Optical Society
+
+The implications of this result are vast, the researchers say, and they could benefit both clinicians and patients. When doctors want to peer into their patients’ brains, they have to use invasive methods to check for blood flow. Right now the laser light can only pierce a millimeter or so beneath the surface, but with further refinement it may be able to penetrate deeper. When the brain is exposed, doctors have the luxury of checking blood flow far more easily.
+
+For drug addicts, too, the research suggests better access to understanding the brain’s physiology. Researchers can look at how blood vessels respond in the presence of certain drugs and use the information to target certain vessels and pathways over others. As for future research, the team has a few wrinkles to iron out. For one, the laser doesn’t work when the vessels sit at specific angles relative to the beam, so Pan and his team are forced to fill in the missing pieces manually. Also, the laser can’t measure blood flow beneath certain speeds.
+
+In the meantime, bioengineers can use the technique to develop tissues to help brain surgeons repair tumor sites, and clinicians can stay focused on providing treatment to the roughly 23.5 million people 12 and older who receive treatment for a drug and alcohol abuse problem each year.
+
+Source: You J, Du C, Volkow N, Pan Y. Optical coherence Doppler tomography for quantitative cerebral blood flow imaging. Biomedical Optics Express. 2014.

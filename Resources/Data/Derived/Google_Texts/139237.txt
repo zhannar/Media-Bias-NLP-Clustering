@@ -1,0 +1,27 @@
+Portability is not a feature that one thinks of when they consider 3D printers. These large, bulky machines are meant to stay in one place, and are only to be moved when absolutely necessary. However, wouldn’t it be nice to be able to simply take that machine, fold it up, and put it into a satchel, that could go with you when you travel?
+
+A company called Portabee has done just this. They have created a 3D printer that is built in such a way that it can be folded up to make ease of portability a reality. They have been taking pre-orders for several months now, with a few hundred machines already being pre-purchased. The company also released their design for the Portabee GO last October, but now they are officially announcing that they are taking open orders for this unique 3D printer.
+
+“We have our latest mobile 3D printer, the Portabee GO, ready for open orders,” Portabee’s Business Lead Daniel Warner tells 3DPrint.com. “We believe we have a pretty unique 3D printer for 2014. The GO is a truly portable 3D printer with fantastic accuracy. Definitely the only 3D printer so far that can fold into a satchel, and yet will rival a Makerbot or Ultimaker in print quality. After a rigorous and mentally taxing engineering phase, we are finally ready to bring the GO to market “
+
+Thinking about folding a 3D printer up, is quite mind boggling. With so many moving parts, and so many delicate wires, it would seem as though it wouldn’t even be possible. However, the guys at Portabee have some how figured out how to do it, in a way that makes the process almost as simple as opening and closing a laptop. “There is a lot to get right with this little 3D printer, the gantry is free hovering, auto-leveling and the folding mechanism took a lot of effort to conquer also,” Warner tells 3DPrint.com. “The unfolding process requires a bit of a trick, however once you know how it works, you can unfold in around 10 seconds.”
+
+The process of opening and setting up the Portabee GO is extremely simple. You just plug it in, and load some gcode. The auto-leveling sequence will take care of the rest, and you will be up and running in no time. “We worked very hard on the workflow and turnaround time here, as we find ourselves frustrated often at the amount of work needed to set and re-set the majority, if not all of the 3D printers we have used,” explained Warner.
+
+The Portabee GO is priced at an incredible $595 and can be ordered today via the company’s website. For being able to fold up into such a small little rectangular box, it has a rather large build volume, bigger than that of competitors such as the MakerBot Replicator Mini.
+
+Here are some of the Portabee GO’s specifications:
+
+Technology Used – Fused Filament Fabrication (FFF)
+
+Build Volume – 12cm x 16cm x 12cm – 2304 cubic cm
+
+Print Nozzle – 0.35mm
+
+Layer Accuracy – 50 Micron (0.05mm)
+
+Folded Dimensions – 20.8cm x 22.5cm x 7.9cm
+
+Material Compatibility – PLA (polylactic acid)
+
+What do you think? Would you consider purchasing this extremely unique, yet very affordable 3D printer? Discuss in the Portabee GO 3D Printer forum thread on 3DPB.com. Check out a video of the Portabee GO in action below:

@@ -1,0 +1,27 @@
+Sunday, September 20, 2015
+
+Takeaway: Grounds raised during a preliminary proceeding, but not made part of the instituted trial, are not raised “during” an inter partes review and thus cannot be the basis for estoppel under 35 U.S.C. § 315(e)(1).
+
+In its Decision, the Board declined to institute the inter partes review of claims 1-23 of the ‘828 patent. It was the Board’s view that Petitioner had not established a reasonable likelihood of prevailing on its positions with respect to these claims.
+
+The ‘828 patent relates to “compositions comprising tigecycline, a suitable carbohydrate, and an acid or buffer.” Petitioner had challenged claim 1-23 of the ‘828 patent on the following grounds: (1) obviousness of claims 1-3, 6-9, 12, 13, 18, and 19 under 35 U.S.C. § 103(a) in view of CN ‘550, Kirsch, and Herman; and (2) obviousness of claims 4, 5, 10, 11, 14-17, and 20-23 under 35 U.S.C. § 103(a) in view of CN ‘550, Kirsch, Herman, Pawelczyk, and Remmers.
+
+Patent Owner had argued that Petitioner was estopped from seeking from requesting inter partes review of these claims “because the asserted grounds are based on prior art that Petitioner ‘was aware of, cited, and relied on in [its previous] ‘115 IPR[.]’” According to Patent Owner, because Petitioner could have raised these asserted grounds in the previous ‘115 IPR, Petitioner was estopped from bringing the instant proceeding by 35 U.S.C. § 315(e)(1).
+
+The Board found that because Petitioner could have raised ground (2) in its previous ‘115 IPR, Petitioner was estopped under 35 U.S.C. § 315(e)(1) from asserting ground (2) in the instant proceeding. On the other hand, the Board found that Petitioner was not estopped from asserting ground (1) in the instant proceeding because the panel in the previous ‘115 IPR had not reached the merits of the challenge of ground 1 in deciding whether to institute a trial in the previous ‘115 IPR. As reasoned by the Board, “grounds raised during the preliminary proceeding [in the ‘115 IPR], but not made part of the instituted trial, are not raised ‘during’ an inter partes review and cannot be the basis for estoppel under 35 U.S.C. § 315(e)(1).” The Board further reasoned that “[n]or are such grounds ones that ‘reasonably could have been raised during’ the review, because once denied, the Board’s decision on institution prevents Petitioner from raising that ground during the trial.”
+
+Patent Owner also requested the Board to decline institution under 35 U.S.C. § 325(d). However, the Board elected not to exercise its authority to decline inter partes review of the ‘828 patent under § 325(d) in view of the fact that the panel in the previous ‘115 IPR had not “[reached] the merits of Petitioner’s arguments with respect to [ground (1)] when considering the ‘115 IPR.”
+
+As for the obviousness challenges under 35 U.S.C. § 103(a), the Board concluded that “Petitioner [had] not provided sufficient rationale to explain why a person having ordinary skill in the art would have substituted tigecycline for minocycline in the CN ’550 compositions.” This led the Board to the ultimate conclusion that “the record . . . does not establish a reasonable likelihood that Petitioner would prevail in showing claim 1 and claims 2, 3, and 6–9 that depend therefrom, and claim 12 and claims 13, 18, and 19 that depend therefrom, would have been obvious over the combination of CN ‘550, Kirsch, and Herman.”
+
+Apotex Inc. v. Wyeth LLC, IPR2015-00873 Paper 8: Decision Denying Institution ofInter Partes Review
+
+Dated: September 16, 2015
+
+Patent: 7,879,828 B2
+
+Before: Jacqueline Wright Bonilla, Christopher L. Crumbley, and Jo-Anne M. Kokoski
+
+Written by: Kokoski
+
+Related Proceedings: Apotex Inc. v. Wyeth LLC, Case IPR2014-00115; Initiative for Responsibility in Drug Pricing LLC v. Wyeth LLC, Case IPR2014-01259

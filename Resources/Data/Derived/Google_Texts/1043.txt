@@ -1,0 +1,19 @@
+Rep. Joe Barton, (R-Tex.), hammered Cheryl Campbell, senior vice president of the main contractor on HealthCare.gov, over a privacy concern with the website during a hearing Thursday. (The Washington Post)
+
+About an hour and a half into this morning's Energy and Commerce hearing, Rep. Joe Barton (R-Tex.) showed off a slide of code he said was from the HealthCare.gov site, and which he believed was a violation of HIPAA heath privacy rules.
+
+It was a bit hard to see it in the hearing, but a helpful source has tracked down a copy for us. It's the PDF posted below.
+
+http://www.washingtonpost.com/blogs/wonkblog/files/2013/10/Barton-page-copy.pdf
+
+Here is the exchange that went along with it, via my colleague Juliet Eilperin.
+
+Rep. Joe Barton (R-Tex.) grilled CGI’s Campbell on a warning on the Web site that information visitors entered into the system would be subject to greater disclosure than the medical forms Americans typically fill out. That information is protected under the Health Insurance Portability and Accountability Act (HIPAA), a privacy law. “Are you aware this was in the source code? Do you think that’s HIPAA compliant?” Barton asked. “Admit it! You're under oath.” “Sir, that is CMS’s decision to make,” she replied, referring to the Centers for Medicare and Medicaid Services, the agency within the HHS that is overseeing implementation of Obamacare. “We're telling every American if you sign up for this, or you even attempt to sign up, you have no reasonable expectation of privacy,” Barton said. “That is a direct contradiction of HIPAA, and you know it.” “That is a CMS call,” Campbell said. “That is not a contractor call.” At one point Barton pressed Campbell to give her opinion on whether this is an acceptable part of the system as “an American,” which she declined to answer. “We’ll I’ll answer,” Barton said. “ I don't think it should be.”
+
+After this exchange, Rep. Frank Pallone (D-N.J.) called the committee a "monkey court," leading to some gavel banging on the behalf of Chairman Rep. Fred Upton (R-Mich.)
+
+It's not totally clear whether this information is actually covered under HIPAA; Rep. Diana DeGette (D-Colo.) suggested it wasn't. "This would only violate HIPAA if people were putting personal medical information into the application," she said. Law professor Tim Jost said something similar to ThinkProgress. A few technology folks I follow on Twitter have suggested that this code isn't really powering the Web site but rather is "commented out code," which is, as one follower explained it to me, "code that doesn't *do* anything. It's usually marked in some way so that it's ignored. It's used for, well, comments."
+
+If any HIPAA experts would like to weigh in over comments, would be interested to get your thoughts on this.
+
+Update: Clay Johnson e-mails to note that the fact that this is in the site's code as opposed to the displayed text kind of moots the debate.

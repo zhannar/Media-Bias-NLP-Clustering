@@ -1,0 +1,23 @@
+Yes, Microsoft CEO Satya Nadella put a bit of damper on things, with his, shall we say, ill-advised comments on the gender pay gap. But that’s just the side show. Until Nadella put his foot in his month, this week’s Grace Hopper conference was what it’s supposed to be: a celebration of women in technology.
+
+So lets turn the spotlight back where it belongs—on people like Arati Prabhakar, Shafi Goldwasser, and, yes, Navy Rear Admiral Grace Hopper, the conference’s namesake and perhaps the most important woman in the long history of technology.
+
+Heck, Hopper is one of the most important people in the history technology, period. Working with early computers like the Harvard Mark I and the UNIVAC, she eventually created the first compiler for turning human readable programming language code into something a machine can understand. She popularized the notion of the computer “bug.” And she helped spawn a language, Cobol, the would lay the groundwork for all other languages over the years—and is still used to today.
+
+Heck, Hopper is one of the most important people in the history technology—man or woman.
+
+David Letterman knows how important she was. In 1986, he hosted the then 80-year-old Hopper on his late-night talk show, and for a man who’s notorious for hazing his guests, he showed her an unusual amount of respect—as she deserved. “Our first guest,” Letterman says, “has credits that are far too impressive for any guest on this program.”
+
+Sitting with Letterman (see video above), Hopper talks about adjusting from the Navy to civilian life as an employee of Digital Equipment Corporation, and she flashes back to her time working on the Mark I, one of the first general purpose computers ever invented. It was 51 feet long, 8 feet high, and 8 feet deep, but, as she points out, would have fit on the corner of a tiny chip even in 1986.
+
+“How did you know so much about computers then?” Letterman asked.
+
+“I didn’t, it was the first one,” she replied, matter of factly.
+
+The interview provides a glimpse into the woman behind the legend—her sense of humor, and quick wit. But it only hints at the importance of Hopper’s contributions to computer science. Yes, she popularized the term debugging. But more than that, she paved the way for computer scientists to write programs in English-like languages, instead of in machine code, the instructions the computer hardware actually winds up executing when you run a program.
+
+That’s the importance of Hopper’s “compiler,” a type of computer program that translates code written in one programming language into another—generally from a “high level” language, meaning one that humans can understand, into a “low level” language that actually instructs the computer. For those of us who still find even the most simple programming languages cryptic, that might not sound like much. But Hopper enabled programmers to create far more complex applications, and create the much more quickly, than had been previously possible.
+
+She also created what may have been the first programming language to use English like syntax, Flow-Matic, which became the foundation of the programming language COBOL, short for Common Business-Oriented Language. Although it’s the butt of many jokes, the language enabled the business world to take advantage of computers. And for what it’s worth, Hopper can’t be blamed for the infamous Y2K computer bug that plagued many COBOL applications, requiring countless hours for programmers to fix.
+
+Although many banks, insurance companies and financial institutions still rely on COBOL applications running on old mainframes, the language is slowly being replaced by more modern technologies. But its influence can be felt in just about every modern programming language. The same goes for Grace Hopper.

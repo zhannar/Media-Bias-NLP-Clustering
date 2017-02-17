@@ -1,0 +1,15 @@
+New research shows the human visual system’s ability to multitask isn’t always a good thing.
+
+With little effort we recognize objects based on their dimensions of color, texture, and brightness. Focusing on a single dimension can aid object recognition, but vision doesn’t ignore any one dimension. Senior study author Michael Landy, a professor in New York University’s department of psychology, uses the example of cat’s fur in the study's press release: If a cat’s light fur is partially in shadow or partially in sunlight, it would be best to ignore light and focus on the color or texture of fur instead — but this is hard to do when we’re distracted by said light or shadow.
+
+“The object recognition problem can be defined as a labeling problem based on models of known objects. Formally, given an image containing one or more objects of interest (and background) and a set of labels corresponding to a set of models known to the system, the system should assign correct labels to regions, or a set of regions, in the image,” cited the University of South Florida, who was not involved with the present study. “The object recognition problem is closely tied to the segmentation problem: Without at least a partial recognition of objects, segmentation cannot be done, and without segmentation, object recognition is not possible.”
+
+Landy and his co-author Toni Saarela, a visiting scholar in the University of Pennsylvania’s Department of Psychology, conducted a series of experiments to see under which conditions human’s ability to account for multiple dimensions of an item help with recognition — and which serve as a distraction.
+
+Participants were asked to identify a series of single letters on a computer screen in one experiment, each letter distinguishable either by its surrounding background color, texture, light, or combination of two of the three dimensions. Researchers found participants were able to successfully identify the letters based on their visual dimensions. And participants fared even better when a letter’s background incorporated two visual dimensions.
+
+In another experiment, participants were asked to identify a letter defined by one dimension — a bright letter on a dark background — while ignoring its textured variations. These variations would sometimes indicate a completely different letter, thus participants had a hard time ignoring them. Researchers found, too, participants reported the textured letter more times than the actual, bright letter.
+
+These findings suggest a human’s ability to combine two dimensions can prevent from distraction, especially for those who often examine overlapping objects. This would include medical practitioners and airport screeners.
+
+Source: Landy M, et al. Current Biology. 2015.

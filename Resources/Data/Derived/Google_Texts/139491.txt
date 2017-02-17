@@ -1,0 +1,59 @@
+Print Article Email Article Section Sponsored by:
+
+
+
+From the HITECH Act's requirements for meaningful use of electronic health records to the Affordable Care Act's push to define quality measures for care, federal mandates are fueling the collection of more accurate patient data from multiple sources-including hospitals, physician offices, laboratories, pharmacies and medical claims.
+
+
+
+The collection of this data and electronic access to it represents great strides in the industry, but progress is coming at a cost. Healthcare providers face substantial revenue risk as payment models shift from fee-for-service to value-based reimbursement. Among the ACA's emerging pay-for-performance programs, the Hospital Readmissions Reduction Program resulted in Medicare payment reductions of $227 million in fiscal year 2014. This amount is expected to climb to $428 million as financial penalty rates for excess unplanned readmissions increase from 2% to 3% in fiscal year 2015 . To avoid penalty in 2017, hospitals must prevent excessive readmissions for Medicare patients discharged from July 2012 through June 2015-leaving only seven months to affect change.
+
+
+
+Adding fuel to the fire, caregivers' ability to focus on care is challenged by ever-changing deadlines to comply with mandates - from the adoption of EHRs and implementation of ICD-10's vast medical coding system to reporting quality measures to the Centers for Medicare and Medicaid Services. In a survey of more than 20,000 physicians, only 19% indicated they have time to see new patients-leaving more than 80 percent overextended or at full capacity . That's an unfavorable setting for the increasing number of Americans who are becoming insured through the ACA and likely seeking care.
+
+
+
+With pressures mounting on all sides, healthcare providers are wondering where they can find the additional resources they need to improve health outcomes while lowering costs. There's good news in emerging analytics solutions, which have made it easier to collect and analyze the flood of "big data." By actively monitoring data through analytics, healthcare providers are able to derive insights that help them make more informed medical decisions and gain operational efficiencies.
+
+
+
+• Making Data Useful: Data is one of healthcare's most valuable assets, offering breakthrough possibilities that can dramatically improve our understanding of disease progression, hospital practices, and quality and financial implications. One challenge toward this goal is that at least 80% of clinically relevant data is unstructured. This data lives in silos - within individual electronic medical records, lab and imaging systems, physician notes, medical claims, continuity of care documents and more. Moreover, healthcare systems' organizational structure separates patient care, finance, marketing and IT, further limiting the integration of data.
+
+
+
+Providers must have a clear data-integration approach and, when necessary, a partner capable of connecting data from multiple sources in a timely manner. By integrating analytics into this approach, healthcare providers can quickly make sense of big data. Advanced analytics consider numerous factors simultaneously and analyze relationships between processes and outcomes in hundreds, if not thousands, of combinations that can help identify gaps in care, detect emerging complications, predict outcomes and make recommendations to prevent negative outcomes in real time.
+
+
+
+• Improving Work Processes: Analytics solutions can be designed to collect and analyze data on every aspect of patient care. They can be configured into workflow software to deliver alerts and information relevant to each clinician group's role. Targeted alerts can help prevent negative outcomes and lead to better patient safety, operational performance and quality ratings.
+
+
+
+For example, in developing the Juvo Care Performance Platform, a healthcare analytics and workflow software package, Xerox ethnographers observed and analyzed workers' processes and needs. In tracking nurses' work habits, they found that only 30% of a nurse's day is dedicated to patient care, while 70% is consumed by administrative tasks such as searching for patient records and transferring paper notes to electronic records. Taking their workflow and needs into account, Xerox created an app that enables nurses to update a patient's information on a mobile device and displays past, current and planned actions for a patient in real time - maximizing efficiency away from the workstations.
+
+
+
+• Measuring Clinical Performance and Financial Risk: Analytics that access, analyze and learn from the data inside and outside of an organization's walls can provide predictive and comparative insights that help caregivers intervene in a timelier manner against emerging complications, such as hospital-acquired infections and unplanned readmissions.
+
+
+
+Infection surveillance analytics, for example, can alert caregivers of emerging HAI threats for individual patients and give hospitals insight on their historical HAI performance to help them detect risk patterns or trends in their patient screening and coordination services. When combined with comparative analytics, healthcare providers can see how they are performing compared to their peers on a national level, further easing the process of identifying which areas of the business should be prioritized to maximize performance and make the most positive impact on quality ratings.
+
+
+
+Meanwhile, advanced algorithms for predictive analytics on readmissions can analyze real-time information-such as vital signs, lab results and medications-to identify which patients are likely to return to the hospital. Clinicians are immediately alerted, so they can modify care and avoid the potential financial impact. This new breed of advanced analytics not only predicts patient and financial risk but also guides clinicians on specific actions to take.
+
+
+
+There are a number of companies looking to create a comprehensive platform that can help healthcare providers process and analyze data across the entire clinical cycle and provide actionable insight.
+
+
+
+With the right technology, healthcare providers will be able to access and use the massive amounts of data they already have to offer higher quality and more affordable care while meeting federal mandates.
+
+
+
+Justin Lanning is managing director, Midas+, A Xerox Company.
+
+Articles Archives

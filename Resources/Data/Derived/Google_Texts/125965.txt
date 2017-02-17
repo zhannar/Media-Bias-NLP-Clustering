@@ -1,0 +1,77 @@
+Amy Toft
+
+Not everything about Healthcare.gov is bad
+
+Share this article:
+
+
+
+linkedin
+
+google
+
+
+
+Email
+
+Print
+
+
+
+Amy Toft
+
+It should be no surprise to anyone that Healthcare.gov has become more than a website. Even before the site's highly publicized problems, the ideological battle over the Affordable Care Act and the implementation of insurance exchanges made it certain that whatever medium the government used to offer plans to the public would meet with unprecedented scrutiny.
+
+Add to that the site's technical glitches and controversy over whether the president did or did not promise that individuals could keep their old plans, and Healthcare.gov has become a front in the ideology wars, a political football, exhibit one in all sorts of arguments over the size and effectiveness of government, and so on, and so on.
+
+But Healthcare.gov is also a website—an interactive healthcare website with a budget and potential user pool that would make any pharmaceutical marketer's heart race. So the failures—and successes—of the site are worth another look by anyone in the business of creating a positive healthcare experience online on a large scale.
+
+While Healthcare.gov may or may not eventually serve its stated purpose as a useful portal for Americans to sign up for health insurance, at the very least our tax dollars have provided pharmaceutical marketers with a high-profile teaching opportunity in patient website development.
+
+Never assume that you know what information people need or expect. Ask them.
+
+This may seem self-evident to outsiders, but it is remarkable how infrequently it happens, or how late in the development process it often occurs. As a user-experience specialist exploring Healthcare.gov, I got the sense that its developers thought to themselves, “We know how to build a website; this is what we are going to do, and this is what people need.”
+
+It does not seem that they did much initial research into finding out what people actually need, as opposed to guessing on the user's behalf. And their guess-answer was “everything,” because the site tends to overwhelm users with content—pages and pages of it—with little sense of hierarchy or relative importance.
+
+This is a problem that can frequently be found on pharma and other healthcare-related websites, since healthcare likely leads all industries in sheer verbiage per capita, and the various constituencies in site development often get attached to their little pieces of the content pie. Some targeted research with potential users regarding their needs and expectations before the beginning of the development process could have gone a long way toward simplifying the end product of Healthcare.gov—or nearly any healthcare-related site—by helping the designers and developers narrow down the relative importance of all this content and organize it according to the needs and wants of actual users.
+
+If you expect people to use your site successfully, you'd better ask them in advance if they think it works.
+
+The latest reports suggest that some beta testing of Healthcare.gov was done, but that it was mostly focused on stress testing and happened just a few weeks before the site's launch. Stress testing is certainly important for any high-traffic site—and it sounds like not enough of that was done on Healthcare.gov—but a good designer or developer ought to be more concerned with how users actually experience the site and whether they think it works.
+
+The potential user needs to be a part of every element of development, especially on a project of this scale and budget; potential users should be seeing paper prototypes and clickable wireframes and clickable betas long before anyone starts thinking about launch, certainly much more than two weeks before.
+
+No large-scale website should see the light of day unless and until its potential user pool has had a chance to kick the tires at various levels of development, and the input derived from all that tire-kicking has been looped back into the development process. Does NASA wait until two weeks beforehand to let its astronauts test-drive the space shuttle? Why should this be any different?
+
+If too many cooks are a necessity, at least be sure someone is keeping the cooks in line.
+
+Reports vary, but it sounds like four primary contractors and a total of 55 vendors were involved in the development of Healthcare.gov. This multiplicity of vendors, apparently, were rowing the boat in a multiplicity of directions until the government brought in UnitedHealth's QSSI to serve as lead contractor—in October, after the site was launched.
+
+While few private-sector projects will ever require as many voices as Healthcare.gov did, we've all been a part of a few endeavors that involved too many parties, whether internal or external, and not enough leadership or planning or communication to keep all the parties working toward the same goal. Any website on the scale of Healthcare.gov should have had a military-grade project plan in place from day one, and military-grade leadership alongside that plan to keep everyone involved from straying or working at cross-purposes.
+
+While our own projects may be rather smaller than Healthcare.gov, the principle remains the same any time multiple cooks will be in the kitchen. We always try to be sure that all lines of communication remain open, no matter which agency is the project lead, so that whatever we are designing or developing takes into account what the other groups are working on. This ensures that the process runs smoothly and that the clients and their customers receive a well-thought-out and internally consistent final product.
+
+As far as user experience goes, artificially enforced waiting or stopping points can be catastrophic.
+
+I'm sure that it seemed perfectly logical to someone to require Healthcare.gov users to verify their identities before advancing past a certain point in the sign-up process. But this perfectly logical idea has metastasized into one of the least user-friendly elements of the site.
+
+Many users have complained that the identity verification portion of the site just plain doesn't work—that it fails even if they input correct information—and that was my own experience when I tried it out. More importantly, if identity verification fails, the user cannot continue until they pick up the phone and call a third party—Experian—to get it worked out.
+
+While verifying identity is important, it is a pointless exercise if your user gives up in frustration because of it. Perhaps the site's developers would have been better served by placing the identity verification at the end of the signup process, and integrating the “appeal” to fix errors into the site itself, perhaps via online chat.
+
+Whatever technical problems may or may not exist with identity verification, doing this would at least allow the user to complete the bulk of the sign-up process and get a sense of what policies are available to them—not to mention a sense of actually achieving what they set out to achieve by visiting the site in the first place—and leave the identity verification as just a final hiccup to overcome before everything becomes official.
+
+This offers a broader lesson for any interactive website as well: if your goal is to get the user to move from point A to point B and provide you with information along the way, building in hurdles or distractions is a bad idea. And if you must place hurdles or distractions, keep them integrated into the flow of the site and don't allow them under any circumstances to bring the entire interactive process to a halt.
+
+Not everything Healthcare.gov does is wrong.
+
+Whatever its critics may say, not everything about Healthcare.gov is bad; the site's designers did make some wise decisions. For example, when first entering the site, users have the option to either learn more or go ahead and get insurance.
+
+In helping people make a choice that is so information-dependent, I like the fact that the site is not funneling everyone down one path. Also, information for the two primary categories of users—Individuals & Families and Small Businesses—is linked prominently at the very top.
+
+The search function is also prominent at the very top, something that a remarkable number of website creators seem to forget. While the long list of links at the bottom of the home page could use some cleanup, it does include quick links to top content and resources in a variety of languages, both valuable to users, and a day-by-day countdown to the enrollment deadline, which provides a sense of urgency.
+
+The colors and contrast of the site are good, the size of the fonts is great especially when viewed on a mobile device, and the responsive nature of the site across multiple platforms seems solid. On top of that, the site includes a blog to keep users updated regarding site improvements and usage tips.
+
+And, in a display of transparency that one would rarely encounter—but should—in the private sector, the top of the homepage displays a message announcing daily downtime to make improvements. If things are going wrong on your website, the first and most important way to maintain trust with its user pool is to be completely transparent about what you are doing about the problem and how that work will impact the user experience, a lesson that any website manager would do well to learn from Healthcare.gov.

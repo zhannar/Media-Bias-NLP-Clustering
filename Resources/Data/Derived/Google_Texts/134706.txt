@@ -1,0 +1,77 @@
+Keeping travel lanes to Ebola-hit West Africa open is essential to fighting the outbreak, argues Tom Frieden, director of the Centers for Disease Control and Prevention, or CDC. The U.S. military has already mobilized more than 3,500 troops to the region, and an international assortment of healthcare workers also heads to Africa everyday, where there is a massive doctor shortage.
+
+But amid calls to suspend travel to and from the region, the question is, how does the United States allow health workers to help West Africa while minimizing their risk? One answer that the White House may be exploring is robots.
+
+Related: Maybe Robots Should Run Our Cyber Security
+
+On Nov. 7, the White House Office of Science and Technology Policy along with researchers from the Texas A & M University’s Center for Robot-Assisted Search and Rescue, CRASAR, the Worcester Polytechnic Institute, and others will convene a workshop to explore ways to keep health workers in Africa safe through robotics.
+
+But before we can send drones to battle Ebola, we first have to invent the right robots for the job.
+
+As Evan Ackerman makes clear in this post for IEEE Spectrum, “the problem that we’re having now with Ebola is the same as the problem that we had with Fukushima: there simply aren’t any robots that are prepared and ready, right now, to tackle an immediate crisis, even though robots would be immensely valuable in this situation.”
+
+Related: How to Protect Yourself from Ebola
+
+That doesn’t mean that there aren’t robots that could be used for individual tasks. Robin Murphy, the director of CRASAR spells out some of the jobs robots in the Ebola zone might be assigned. These nine points provide a fair indication of what we might soon be asking robots to do in West Africa. Also included, some of the systems that are fulfilling similar roles today, but not necessarily in places like Liberia.
+
+1. Mortuary robots could respectfully transport the deceased, as Ebola is most virulent at the time of death and immediately following death.
+
+Unsafe methods for handling the dead are directly linked to the rapid spread of Ebola particularly in Liberia. Believe it or not, there already exists a robot designed for emergency mortuary work called the Robokiyu Rescue Robot, which was built for the Tokyo Fire Department in 2008. The Robokiyu had a pair of giant claws to pull the injured or the dead onto a slide to move them away. In the video below, Robokiyu’s successor can be seen safely—if ghoulishly—scooping mannequins into its metal maw.
+
+2. Reduce the number of health professionals within the biosafety labs and field hospitals (e.g., automated materials handling).
+
+Epson markets several lab assistant robots. A company called Aethon sells a robot called TUG. Aethon is particularly boastful of TUG’s “real-time medication delivery tracking software system that keeps medications from falling into the ‘black hole.’” Swiss Logic’s Robbie has been well tested in Florida Hospital Orlando, but, to better function, the exact layout has to be programed into the robot’s software beforehand, which may be difficult in a clinic or triage setting in Liberia.
+
+Related: Ebola Scams Prey on the Public's Fear
+
+3. Detection of contamination (e.g., does this hospital room, ambulance or house have Ebola).
+
+Most of today’s ground robots that come with gripping arms, or “manipulators,” could take floor or surface samples then deposit those samples in a rapid RNA scanner to determine the presence of Ebola in a specific space.
+
+4. Disinfection (e.g., robots that can open the drawers and doors for the commercially available ‘little Moe’ disinfectant robot).
+
+Door-opening robots could include any ground unit with a functional manipulator. “Little Moe” is a reference to machine from the Xenex out of San Antonio. It uses high-intensity ultra violet radiation to kill germs and can destroy DNA.
+
+5. Telepresence robots for experts to consult/advise on medical issues, train and supervise worker decontamination to catch accidental self-contamination, and serve as ‘rolling interpreters’ for the different languages and dialects.
+
+The iRobot Ava 500 has a lot of autonomous navigation built in, which could be useful for navigating an unfamiliar hospital setting under difficult conditions. Probably the most popular telepresence robot on the market is the Beam from Suitable Technologies. Henry Evans, a quadriplegic robotic researcher affiliated with the Robots for Humanity project, last year used a Beam to deliver his highly-rated TedX Mid Atlantic talk… and then made a quadcopter drone attempt tricks, all from his bed 3,000 miles away.
+
+Related: Obama Risks U.S. Ebola Outbreak for His Own Ambitions
+
+6. Physical security for the workers (e.g., the food riots…).
+
+Neither the military nor robot manufacturers want to arm ground robotic systems to dispel riots. The chances of friendly fire and mishap are too large. But that doesn’t mean that robots can’t be used for police work or even crowd control.
+
+In 2009, Atlanta Mayoral candidate Rufus Terrill’s made a telepresence robot called the Bum Bot to guard his bar and disperse those whom he felt were infringing on his property. It’s certainly not the most humane or respectful approach to handling people who are frightened and working off of limited information in a crisis, but a similar system could, in the right context, offer crowd control capability while keeping hospital staff safe… or it may provide a cautionary example of how not to attempt crowd control with a robot.
+
+7. Waste handling (e.g., Where are the bio-waste from patients and worker suits going and how is it getting there?).
+
+The Andros Wolverine from Northrup Grumman can carry up to 145 pounds and is marketed to bomb squads around the country to help carry out extremely difficult tasks, including handling hazardous materials. The iRobot 710 Kobra can lift over 330 lbs. and was specifically designed for hazardous material disposal as well.
+
+8. Humanitarian relief (e.g., autonomous food trucks, UAVs that can drop off food, water, medicine, but also ‘regular’ medicine for diabetes, etc., for people who are healthy but cut off).
+
+Oshkosh Defense markets an autonomous driving system called TerraMax that can be outfitted to existing to tankers and fortified supply trucks for quick delivery of supplies from a safe distance. Mercedes, too, is working on semi-autonomous semi trucks to improve highway safety.
+
+Related: The Virus That's More Likely to Kill You Than Ebola
+
+For smaller payloads, a wide number of startups like the San Francisco-based QuiQui are looking to drones for future drug delivery. The MedicAir Courier UAV from BFA Systems has already been tested in more rugged terrain of South Africa and can carry up to 500 grams.
+
+9. Reconnaissance (e.g., what’s happening in this village? Any signs of illness? [How] are people fleeing?).
+
+Every drone with a camera is, essentially, performing reconnaissance. But areal drones can be noisy when operating close up. Smaller reconnaissance units that soldiers use in the battlefield like the iRobot FirstLook could be slightly disruptive on the streets of Monrovia.
+
+Robots aren’t going to build hospitals…but unmanned systems could enable more health professionals to join the fight in Africa.
+
+As Murphy makes clear in her post, trying to deploy any of these or any other robot to Liberia to fight will present huge logistics challenges. The U.S. military, USAID and other health workers will have to consider such questions as, “Can an isolated field hospital handle a heavy robot in the muddy rainy season?” and “What kind of network communication is available?” Then, when the attention of the international community turns elsewhere, the people of Liberia and Sierra Leone will still need to know how to repair these devices and to train people to operate on them if they are going to continue to be useful.
+
+Liberia’s public health or sanitation situation, as well as the country’s health worker shortage, is what’s accelerating the spread of the disease in that country. These robots aren’t going to build hospitals or water treatment plants and they aren’t going to train doctors. But, by decreasing risks to health workers, unmanned systems could enable more health professionals to join the fight in Africa.
+
+This article originally appeared in Defense One.
+
+Read more in Defense One:
+
+How 3D Printing Could Help Replace Russian Rockets
+
+Stop Saying the Pentagon Can't Pay for Our Wars
+
+Preparing for Future Catastrophes, VA Reaches to Past

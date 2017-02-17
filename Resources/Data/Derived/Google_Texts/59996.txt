@@ -1,0 +1,29 @@
+Oversight
+
+High-level management failures doomed HealthCare.gov
+
+After HealthCare.gov failed to work as advertised at launch, government officials pointed the finger at contractors, and at the lack of a unified management structure to oversee the development of the disparate systems involved in building the public-facing website to sell insurance under the Affordable Care Act.
+
+A new watchdog report, however, suggests that contractor and technical management were only part of the problem. Political mismanagement and a lack of a clear leadership structure on the part of senior non-technical officials set in motion a series of miscues that led to the Oct. 2013 failure, according to a the inspector general at the Department of Health and Human Services.
+
+The top political appointees at the Centers for Medicare and Medicaid Services failed in two key ways, according to the report. They did not "assign clear and dedicated leadership for the marketplace program," and they neglected to "fully assess project needs to determine how to best establish the marketplace program in CMS."
+
+Key responsibilities were split at CMS between the Center for Consumer Information and Insurance Oversight (CCIIO), the new organization set up to run the insurance marketplace and implement the Affordable Care Act, and the Office of Information Services, which handled the details of contracting and IT.
+
+According to the report, "this lack of unity and dispersion of responsibility had serious consequences, resulting in difficulty tracking progress and enforcing accountability."
+
+While the report doesn't quantify the cost of these management problems, the value of the main contracts to build the HealthCare.gov system exploded from $533 million to over $1 billion as officials worked to repair the malfunctioning website. (A previous IG report dealt with contracting problems on the project.)
+
+The report also found that CMS was repeatedly warned of serious problems well in advance of the launch. Between July 2011 and July 2013, CMS received 18 warnings, "all containing substantial detail about the project’s shortcomings and formally submitted to CMS senior leadership or project managers at CMS."
+
+In late 2011, federal CIO Steven VanRoekel urged top leaders at HHS and CMS to name a chief executive to run the entire project, to avoid fragmentation. The Marketplace CEO position was later instituted, and still exists.
+
+The report also noted that contractor CGI Federal, which bore the brunt of the blame for its work on the HealthCare.gov platform, was using agile development to roll out new functionality in two-week sprints. But the report indicates that policymakers took advantage of the quick cycles to introduce new requirements, and make changes in mid-stream. Sometimes those changes resulted in delays, or else resulted in a failure to connect changes to related parts of the project being coded elsewhere. CGI Federal also complained that CMS essentially forced them to adopt the MarkLogic NoSQL database platform, despite CGI's lack of expertise with that system.
+
+CGI's developers had issues as well. They failed to follow "best practices for making late stage coding changes," according to the report, which led to conflicts between systems.
+
+There were red flags raised for top officials, but these came rather close to the planned Oct. 1, 2013, launch date. When CMS requested a demo of the insurance shopping system in September, CGI Federal responded with a slideshow of screenshots.
+
+"[CMS senior officials] would sit in meetings across from me and not know there is an enormous fire burning behind them," one anonymous CCIIO official told the IG.
+
+Nor did the CMS tech team seem unduly alarmed by the potential for system failure. According to the report, the IT team "considered launching the website on time [to be] the priority over testing for and resolving performance problems." The report noted that, "one CMS technical official characterized the launch itself as a test of the system and indicated that CMS planned to resolve problems after launch, as CMS had done with other large programs, such as Medicare Part D."

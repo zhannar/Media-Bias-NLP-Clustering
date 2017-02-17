@@ -1,0 +1,23 @@
+The technology used to help tag your friends in Facebook photos is more accurate than the FBI’s new billion dollar facial recognition system that’s supposed to help track down bad guys.
+
+That’s according to a test run done by the Electronic Frontier Foundation, a tech industry trade group, which found that the FBI’s Next Generation Identification (NGI) system was only 85 percent accurate—compared to Facebook’s system that works 97 percent of the time, The Verge first reported.
+
+Related: Federal IT Flaws Go Well Beyond Obamacare
+
+The FBI’s system matched a suspect’s photo with the wrong name about one in seven times.
+
+To be sure, the experts stress caution when comparing Facebook’s database of 250 billion photos to the FBI’s database of 50 million. Still, That’s a pretty big problem for a facial recognition system that the FBI has said is supposed to be faster and more accurate than police lineups.
+
+Shahar Belkin, CTO of FST Biometrics, told The Verge that the problem with the FBI’s system is mainly the quality of the pictures the government is using. These systems typically require photos with people facing forward “no more than 15 degrees off the center axis.” Mug shots, for example, will work, but if the FBI is using the system to identify criminals through surveillance cameras, it’s going to be more difficult to get an accurate read out.
+
+People have raised concerns about the program’s accuracy for years. In 2010, a government auditor reported that the FBI’s facial recognition technology could fail up to 20 percent of the time, The National Journal reported.
+
+And inaccuracies aren’t the only problems critics have with the FBI’s new technology.
+
+Just last month at least 30 civil rights groups sent a letter to Attorney General Eric Holder asking the Justice Department to do an audit of the FBI’s facial-recognition database. They said the program poses privacy risks to American citizens and expressed concern over whether it has been properly vetted.
+
+"The capacity of the FBI to collect and retain information, even on innocent Americans, has grown exponentially," the letter said. "It is essential for the American public to have a complete picture of all the programs and authorities the FBI uses to track our daily lives, and an understanding of how those programs affect our civil rights and civil liberties."
+
+FBI Director James Comey told Congress last month that the agency will not be collecting and storing photos of average citizens.
+
+Top Reads from the Fiscal Times:

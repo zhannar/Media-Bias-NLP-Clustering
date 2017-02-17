@@ -1,0 +1,17 @@
+The government performed some "white hat," or ethical, hacking on Healthcare.gov over the summer to test the health insurance marketplace's security measures and to determine if there were any critical flaws in the system. The hack found Healthcare.gov to be relatively secure, though there were some vulnerabilities detected by the hackers.
+
+The government-led hack was performed to detect ways hackers could access Healthcare.gov and take sensitive and confidential data. Healthcare.gov was hacked in the summer, but no personally identifiable information was stolen. The site's rollout was also marred by technical glitches.
+
+The Department of Health and Human Services' Office of Inspector General's report, "Health Insurance Marketplaces Generally Protected Personally Identifiable Information But Could Improve Certain Information Security Controls," evaluated the security systems for the federal marketplace, Kentucky and New Mexico. "These reviews generally examined whether information security controls were implemented in accordance with relevant Federal requirements and guidance and whether vulnerabilities identified by prior assessments were remediated in a timely manner," reads the report.
+
+For the Federal Health Insurance Marketplace, the controls to protect personally identifiable information were in place, but the report said security could be improved. Kentucky received the same evaluation, while New Mexico's security system didn't meet all of the federal requirements and could lead to hackers exploiting those vulnerabilities, the report found.
+
+The collective "Marketplaces," which include federal, state and partnership Health Insurance Exchanges, must meet federal regulations based on eight principles. These principles are: ease of access to personally identifiable information; the ability to dispute any information; transparency; personal choice regarding data collection and disclosure; non-discriminatory data collection use, collection and disclosure; accurate data collection; data safeguards; and accountability.
+
+Continue Reading Below
+
+Simulated hacks were performed on Healthcare.gov in April and May 2014 and the inspector general conducted interviews with officials and reviewed documentation for the Centers for Medicare and Medicaid Services, the agency responsible for implementing the security measures for the program.
+
+The inspector general's report detected several ways for CMS to improve their security measures, including the use of automated testing and scanning tools for site vulnerabilities and settings and improved documentation. Kentucky's security flaws were to due to the transition of "its information technology responsibilities among agencies and had not sufficiently established coordination between them."
+
+New Mexico's security system was the most problematic as the simulated hacks found more than 60 vulnerabilities. "In addition, our Web application vulnerability scan of the NMHIX Web site revealed 64 vulnerabilities. The tool we used for the scan classified the vulnerabilities as critical (2), high (2), medium (4), and low (56)," reads the report. The hack also detected encryption and remote access vulnerabilities. The U.S. Government Accountability Office reached a similar conclusion in its report published last week.

@@ -1,0 +1,31 @@
+Geographic variation in Medicare utilization and spending has been a frequent subject of discussion and analysis among researchers and policymakers for many years. Some researchers have suggested that the differences in Medicare spending across geographic areas resulted mainly from differences in practice patterns, which could be addressed by policy interventions, such as changes in financial incentives for providers. Other researchers have emphasized differences in beneficiaries’ health and socioeconomic status as drivers of geographic variation in Medicare spending, which are less amenable to policy intervention than practice patterns.
+
+This paper contributes to the body of research on geographic variation in Medicare spending by analyzing variation in Medicare per capita spending at the county level, using the most current data available (2013); analyzing detailed county-level data on utilization and spending for specific types of services; and examining changes over time from 2007 to 2013 in county-level Medicare per capita spending growth rates. We rank counties based on Medicare per capita spending in 2013 and spending growth rates between 2007 and 2013, and examine characteristics of counties at the top and bottom of the rankings. (A related interactive map shows Medicare per beneficiary spending, and spending growth, in counties across the U.S.) The primary data source for this analysis is the February 2015 update of the Medicare Geographic Variation Public Use File (GV PUF) from the Centers for Medicare & Medicaid Services (CMS).
+
+Key Findings from this Analysis
+
+Geographic Variation in 2013 Medicare Per Capita Spending
+
+Unadjusted Medicare per capita spending averaged $9,415 in 2013, but was nearly two times greater in the 20 counties with the highest per capita spending ($13,149) than in the 20 counties with the lowest per capita spending ($6,726).
+
+The 20 counties with the highest unadjusted Medicare per capita spending in 2013 were primarily in northeast, mid-Atlantic, and southern states. Compared to the 20 lowest-spending counties, and the national average, the 20 highest-spending counties have much sicker and poorer beneficiary populations, on average, and a substantially greater share of black and Hispanic beneficiaries.
+
+Medicare per capita spending on hospital inpatient care is more than twice as high in the highest-spending counties than in the lowest-spending counties, making it by far the most important service category in terms of explaining spending differences between the highest- and lowest-spending counties.
+
+When we adjust per capita spending in the 20 highest-spending counties and the 20 lowest-spending counties to account for differences in Medicare prices and beneficiaries’ health risk, we find that the gap between the averages narrows substantially—from a 96 percent difference ($13,139 versus $6,726) to a 22 percent difference ($9,344 versus $7,640)—but does not disappear.
+
+Ranking counties based on price- and health-adjusted spending, we find that 19 of the 20 counties with the highest adjusted per capita spending are in the south, with Texas and Louisiana together accounting for 14 of the 20 counties. The 20 highest-spending counties stand out for having significantly more post-acute care providers per capita and significantly fewer physicians than the 20 lowest-spending counties.
+
+Geographic Variation in Medicare Per Capita Spending Growth Rates, 2007-2013
+
+The average annual rate of growth in unadjusted Medicare per capita spending between 2007 and 2013 was 2.2 percent nationwide, but ranged from -0.9 percent among the 20 counties with the lowest spending growth rate to 4.6 percent among the 20 counties with the highest spending growth rate.
+
+Fifteen of the 20 counties with the lowest spending growth rates are in southern states; the 20 counties with the highest spending growth rates are more geographically dispersed. In the counties with the lowest spending growth rates, Medicare per capita spending for hospital services, home health care, and durable medical equipment fell from 2007 to 2013.
+
+Change in Geographic Variation, 2007-2013
+
+Counties with relatively high unadjusted Medicare per capita spending in 2007 tended to experience relatively low spending growth between 2007 and 2013, and vice versa. But counties at the top of the ranking of unadjusted Medicare per capita spending have tended to remain at the top over time.
+
+The amount of geographic variation in unadjusted Medicare spending—as measured by the coefficient of variation—began to decline after 2009, indicating a modest narrowing of geographic variation in recent years.
+
+Our analysis shows that geographic variation in Medicare per capita spending persists, although the gap between the highest- and lowest-spending counties appears to have narrowed since 2009. Recent activities, including new efforts to change how providers deliver care and how Medicare pays for it, may be helping to curb Medicare spending in many parts of the country, including areas with some of the more notable excesses in spending. The Affordable Care Act included a number of provisions designed to encourage greater efficiency in the delivery of care for Medicare beneficiaries by modifying incentives for providers to reduce excess costs and improve quality of care. Yet even with such efforts, deep differences in per capita Medicare spending in different parts of the country remain and are likely to persist due to underlying differences in beneficiary characteristics related to poverty and poor health, along with differences in the prices that Medicare pays for services, that contribute to variations in spending.

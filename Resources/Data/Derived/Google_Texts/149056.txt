@@ -1,0 +1,77 @@
+CMS released updates to the Hospital Inpatient Prospective Payment System (Hospital IPPS) and Long-Term Care Hospital Prospective Payment System (LTCH PPS) in a proposed rule on April 18, 2016 (Proposed Rule). The Proposed Rule is scheduled to be published in the Federal Register on April 27, 2016. Comments are due by June 16, 2016.
+
+Proposed Changes to IPPS rates
+
+CMS has proposed an overall 0.9 percent increase in operating rate payments to acute care hospitals for Fiscal Year 2017. The 0.9 percent increase is a net of the following positive and negative adjustments: a positive hospital market basket update of 2.8 percent; negative adjustments of 0.75 percent and 0.5 percent required by the Affordable Care Act; and a 1.5 percent reduction to compensate for prior documentation and coding overpayments as required by the American Taxpayer Relief Act of 2012. And finally, the payment update also includes a proposed increase of 0.8 percent to offset cuts implemented in FYs 2014 – 2016 related to the Two Midnight policy.
+
+The 0.9 percent increase in payment rates applies to hospitals that satisfy CMS requirements for the Hospital Inpatient Quality Reporting (IQR) Program and meaningful use for electronic health records. Those hospitals that do not participate fully in those programs will see a 0.25 percent reduction to the market basket update related to the Hospital IQR Program, and a 0.75 percent reduction to the market basket update if the hospital does not participate in the EHR meaningful use program. If finalized as proposed, the standardized operating payment rate to hospitals in FY 2017 would be $5,511.79; the current payment rate for FY 2016 is $5,467.39. CMS has also proposed a fixed-loss threshold for outlier payments of $23,681 for FY 2017, which represents a slight increase compared to the FY 2016 threshold of $22,539.
+
+In addition to the standardized rate updates described above, CMS has proposed a number of adjustments related to uncompensated care payments and a number of patient safety and quality performance programs, as described below. CMS estimates that that total Medicare spending on inpatient hospital services will increase by about $539 million in FY 2017.
+
+IPPS Adjustments Related to the Two-Midnight Rule
+
+In this rule, CMS proposes to permanently end the 0.2 percent reduction the agency implemented in FY 2014 to offset the alleged increase in IPPS expenditures that CMS predicted would be brought about by the Two-Midnight rule. The 0.2 percent negative rate adjustment was proposed and adopted in FY 2015 and FY 2016 as well. The 0.2 percent negative adjustment was challenged by King & Spalding on the basis that it was inconsistent with Medicare data. In September 2015, the United States District Court for the District of Columbia relied upon King & Spalding’s comments in response to the FY 2014 IPPS proposed rule and held that CMS failed to disclose significant assumptions to the public when describing the 0.2 percent rate cut.
+
+The district court ordered CMS to provide an additional round of notice and comment rulemaking. Rather than litigate further, CMS now proposes to retroactively reverse the effects of the three-year rate cut and permanently retire the 0.2 percent rate cut prospectively. Accordingly, CMS has proposed a one-year 0.6 percent increase in payments for inpatient stays as well as permanently eliminating from the standardized rate the factor that was used to implement the 0.2 percent downward adjustment in FY 2014.
+
+Medicare DSH and Uncompensated Care Payments
+
+CMS is proposing to distribute roughly $6.0 billion in uncompensated care payments in FY 2017, a decrease of $400 million from the FY 2016 amount. Based on the policies enacted under the Affordable Care Act, disproportionate share hospitals (DSHs) will continue to receive 25 percent of the amount they previously would have received under the statutory formula for Medicare DSH payments (otherwise known as “empirical DSH payments”) and an additional, hospital-specific payment for the cost of uncompensated care (known as “uncompensated care” or “UCC” payments) which is awarded on a proportional basis from the national uncompensated care pool.
+
+In order to distribute the pool among hospitals qualifying for UCC payments, CMS proposes to continue using the formula based on “insured low income days,” which include inpatient days for patients eligible for Medicaid and inpatient days for patients entitled to Medicare and Supplemental Security Income (SSI), with two proposed changes to this methodology. First, CMS plans to move from using one-year of data to three years to better account for yearly fluctuations in uncompensated care. In addition, CMS proposes to substitute 14 percent of Medicaid days as a proxy for Medicare SSI inpatient days in Puerto Rico, where residents are not eligible for SSI benefits.
+
+The most significant proposal involving UCC payments relates to the proposal regarding S-10 data. Starting in FY 2018, CMS intends to incorporate uncompensated care cost data from Worksheet S-10 of the Medicare Cost report into the methodology for distributing uncompensated care funds, proposing to use S-10 data only for the uncompensated care calculation by FY 2020. CMS proposes to define uncompensated care costs as the costs of charity care and non-Medicare bad debt; insured low income day data from the preceding two years will be averaged with uncompensated care cost data.
+
+Hospitals should review their S-10 Worksheets for FY 2014 to make sure that information related to uncompensated care costs are accurate, as this data will be used to determine uncompensated care payments in the near future.
+
+Hospital Acquired Conditions Reduction Program (HRRP)
+
+CMS has proposed a number of changes to the Hospital-Acquired Condition (HAC) Reduction Program in the FY 2017 rule. For example, CMS proposes to use a new scoring methodology for the FY 2018 Hospital-Acquired Condition Reduction Program based on how hospitals perform relative to the national average rather than the previously used decile performance system. CMS has also proposed new data submission requirements for newly opened hospitals; has shortened the window needed to incorporate “complete data” for Domain 1 measures from 24 months to 12 months; and has proposed to adopt the refined PSI 90: Patient Safety and Adverse Events Composite measure, which reflects not only the volume of each patient safety or adverse event, but also the relative harm associated with those events.
+
+Hospital Readmission Reduction Program
+
+CMS is not proposing any changes to the hospital readmission reduction measures in this rule, but has proposed changes to reporting timelines intended to align the HRRP with other quality reporting programs. Specifically, CMS is proposing to update the public reporting policy so that excess readmission rates will be posted to the Hospital Compare website as soon as feasible following the hospitals’ preview period. For FY 2017 and future years, the HRRP reduction will be based on a hospital’s risk-adjusted readmission rate during a three-year period for acute myocardial infarction (AMI), heart failure (HF), pneumonia, chronic obstructive pulmonary disease (COPD), total hip arthroplasty/total knee arthroplasty (THA/TKA), and, effective for FY 2017, coronary artery bypass graft (CABG).
+
+
+
+Notification for Observation Services
+
+CMS proposes to institute a standardized written notice, known as the Medicare Outpatient Observation Notice (MOON) to implement the 2015 Notice of Observation Treatment and Implication for Care Eligibility (NOTICE) Act, which requires acute care and critical access hospitals to provide notification to Medicare patients receiving observation outpatient care for more than 24 hours. The MOON will inform patients and their families of the reason the individual is an outpatient receiving observation services and the implications of observation services on cost sharing and post-hospitalization eligibility for Medicare coverage of skilled nursing facility (SNF) services. Hospitals are required to provide oral explanations of the MOON to Medicare beneficiaries and receive signature verification that the beneficiary or their representative has received and understood the notice.
+
+CMS anticipates that the MOON will need to be provided to almost one million beneficiaries annually. The proposed MOON notice will be posted on the CMS website for a 60-day public comment period prior to implementation.
+
+Hospital Inpatient Quality Reporting (IQR) Program
+
+
+
+In the Proposed Rule, CMS proposes changes to the Hospital IQR Program reporting measures, but the agency does not propose changes to any Hospital IQR Program policies. CMS proposes to remove 14 measures entirely from the FY 2019 payment determination and payment determinations in subsequent years and one measure, VTE-6 Incidence of Potentially Preventable Venous Thromboembolism, from the electronic from. Two of the measures removed are structural measures, participation in a systematic clinical database registry for general surgery and participation in a systematic clinical database registry for nursing sensitive care. Two of the measures are being removed in their chart-abstracted form because they are “topped-out,” meaning that CMS has determined that measure performance among hospitals is so high and unvarying that meaningful distinctions and performance improvements cannot be made. Thirteen of the 15 measures are electronic clinical quality measures (eCQMs).
+
+CMS also proposes to refine the following two claims-based measures: (1) PH Payment: Hospital-Level, Risk-Standardized 30-Day Episode-of-Care Payment Measure for pneumonia and (2) PSI 90: Patient Safety and Adverse Events Composite. CMS also requests comments on updating the MORT-30-STK measure to include the NIH Stroke Scale as a measure of stroke severity in the risk adjustment. Finally, the Proposed Rule would add four new measures for the FY 2019 payment determination and subsequent years, three of which are clinical episode-based payment measures and one of which is a required outcome measure.
+
+Hospital Value Based Purchasing (VBP) Program
+
+The Hospital VBP Program was established by the Affordable Care Act. The program reduces base DRG payment amounts for inpatient hospital services by a certain percentage each year and redistributes that total amount to inpatient hospitals based upon each hospital’s performance under certain metrics. CMS proposes to refine several measures for the FY 2019 program year and proposes new measures and other refinements for the FY 2021 program year and subsequent years. Moreover, whereas previously CMS has adopted a new baseline and performance period for each program year for each domain, in the Proposed Rule, the agency proposes some baseline and performance periods to be used for all future years. The Proposed Rule also proposes revisions to existing performance standards and new performance standards.
+
+Finally, CMS proposes to change the criteria for determining hospitals that are excluded from the Hospital VBP Program. Specifically, a section (d) hospital is excluded from participation with respect to a fiscal year if during the performance period of the fiscal year, the Secretary has “cited for deficiencies that pose immediate jeopardy to the health or safety of patients.” CMS proposes to amend the regulatory definition of “cited for deficiencies that pose immediate jeopardy” by increasing the number of surveys from two to three on which a hospital must be cited for deficiencies that pose immediate jeopardy during the performance period. Additionally, with respect to EMTALA-related immediate jeopardy citations, CMS proposes to change its policy with respect to the date of the immediate jeopardy citation from the survey end date generated in ASPEN to the date that CMS issues the final Form CMS-2567 to the hospital.
+
+Moreover, where one hospital onsite survey results in immediate jeopardy citations as well as EMTALA immediate jeopardy citations, CMS proposes that the survey end date would be the default date for potential exclusion from the Hospital VBP Program.
+
+PPS-Exempt Cancer Hospital Quality Reporting (PCHQR) Program
+
+The Affordable Care Act established a new quality reporting program for PPS-exempt cancer hospitals, or “PCHs,” known as the PCHQR Program. CMS proposes to update one measure and to add one new measure to the PCQHR Program, Admissions and Emergency Department Visits for Patients Receiving Outpatient Chemotherapy. Among other proposed changes to the PCHQR Program, the agency also proposes criteria to be used for determining whether to remove or retain criteria.
+
+Inpatient Psychiatric Facility Quality Reporting (IPFQR) Program
+
+As with the Hospital VBP Program and the PCHQR Program, the Affordable Care Act also established the IPFQR Program. Under the IPFQR Program, the Secretary is required to reduce any annual update to an inpatient psychiatric hospital or psychiatric unit paid under Medicare’s IPF PPS by two percentage points that fails to comply with the quality data submission requirements. Failure to report can result in payment rates being less than the preceding year. CMS proposes to retain 15 and update one of the previously adopted reporting measures. The Proposed Rule proposes to add the following two measures: Third-Day All-Cause Readmission Following Psychiatric Hospitalization in an IPF, and SUB-3: Alcohol & Other Drug Use Disorder Treatment Provided or Offered at Discharge.
+
+LTCH PPS Changes
+
+Starting with FY 2016, the Pathway for SGR Reform Act made the LTCH PPS a dual payment rate system. Discharges that meet the statutory criteria for exclusion from the site neutral payment rate are paid at the LTCH PPS rate, referred to as the “LTCH PPS standard Federal payment rate case.” Discharges that do not meet the statutory criteria for exclusion are paid at the site neutral payment rate, referred to as the “site neutral payment rate case.” For FY 2017, CMS proposes to rebase and revise the LTCH-specific market basket to reflect a 2013 base year. CMS estimates that overall LTCH PPS payments will decrease by 6.9 percent for FY 2017, but that LTCH PPS standard Federal payment rate cases will increase by approximately 0.3 percent.
+
+LTCH Quality Reporting Program (LTCH QRP)
+
+As with the other Quality Reporting Programs described above, the LTCH QRP was also established by the Affordable Care Act and applies to all Medicare-certified LTCHs. Under the Program, the payments of any LTCH that fails to submit the requisite data are reduced by two percentage points. CMS does not propose to change its policies with respect to the retention and removal of measures, but the agency does propose to add four new measures. One measure, Drug Regimen Review Conducted with Follow-Up for Identified Issues, is assessment-based, and the following three new measures are claims-based: Discharge to Community – Post Acute Care (PAC) LTCH QRP, Medicare Spending Per Beneficiary (MSPB) – PAC LTCH QRP, and Potentially Preventable 30 Day Post-Discharge Readmission Measure for LTCHs.
+
+A display copy of the Proposed Rule is available here.
+
+Reporters, Kate Stern, Atlanta, +1 404 572 4661, kstern@kslaw.com, and C’Reda Weeden, Washington D.C., +1 202 626 5572, cweeden@kslaw.com.

@@ -1,0 +1,31 @@
+A major technology initiative at the Internal Revenue Service that was previously dubbed a “rare federal IT success story” has missed its deadline and is tens of millions of dollars over budget.
+
+The latest attempt by the IRS to shift the data of 140 million taxpayers from an old master file on 1960s-era software to a modernized database is now estimated to cost $83 million – or 74 percent more than the agency anticipated, according to a new report from the Treasury Inspector General for Tax Administration (TIGTA).
+
+Related: Federal IT Flaws Go Well Beyond Obamacare
+
+The project, known as the Customer Account Data Engine 2 (CADE 2), missed its June deadline and won’t be ready until at least January of 2014. The new system, which will house all taxpayer data filed electronically, still lacks a functional security system, the audit said.
+
+CADE 2, which the Government Accountability Office called a “successful major IT acquisition” in 2011, now seems to be following in the footsteps of its predecessor, CADE 1 – which was the IRS’s first attempt to modernize its taxpayer database.
+
+CADE 1 eventually fell two years behind schedule and went $37 million over budget due to inadequate definitions of system requirements and inaccurate cost and timeframe estimates, according to the GAO.
+
+It was ultimately scrapped. In 2008 then-IRS commissioner Doug Shulman brought in an IT expert from Boeing, Terry Mulholland, to try again. Critics say transitioning the data from the old file to a new modern system was easily doable decades ago, and question why it has taken the IRS so long.
+
+CADE 2 is eventually supposed to replace the current Individual Master File (IMF) with a relational database. The new system will allow the IRS to update taxpayer accounts and process tax returns quickly and easily every day, compared to the current system, which can only be updated weekly. The IRS says CADE 2 will be a “key component of the IRS’s data-centric technology strategy.”
+
+That’s if it doesn’t meet the fate of CADE 1.
+
+“I am troubled by these delays and the escalating costs associated with implementing this significant component of the IRS’s modernization efforts,” said J. Russell George of TIGTA. “The IRS needs to be aggressive in its efforts to resolve these problems.”
+
+Related: Incompetence and Abuse Call for a Clean Sweep of the IRS
+
+This is just the latest example of the IRS’s technology struggles. Just last week, TIGTA reported that the agency had failed to fix security weaknesses in its databases, leaving millions of taxpayers’ financial information vulnerable to hackers.
+
+The agency’s lax IT security raises questions about whether it is positioned to take on new and crucial responsibilities under the Affordable Care Act, which will require the IRS to store even more sensitive health care information from taxpayers.
+
+Under the new law, the IRS will enforce 45 new tax-related provisions, including imposing new taxes on medical devices and Medicare, overseeing new itemized deductions for medical expenses, and imposing penalties on uninsured Americans who fail to purchase coverage on the new exchanges.
+
+Follow Brianna Ehley on Twitter @BriannaEhley
+
+Top Reads from The Fiscal Times:

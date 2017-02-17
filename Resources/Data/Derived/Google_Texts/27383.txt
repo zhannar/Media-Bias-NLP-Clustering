@@ -1,0 +1,69 @@
+A government data warehouse stores personal information forever on millions of people who seek coverage under President Obama's health care law, including those who open an account on HealthCare.gov but don't sign up for coverage.
+
+At a time when major breaches have become distressingly common, the vast scope of the information -- and the lack of a clear plan for destroying old records -- have raised concerns about privacy and the government's judgment on technology.
+
+"A basic privacy principle is that you don't retain data any longer than you have to," said Lee Tien, a senior staff attorney with the Electronic Frontier Foundation. "The more data you keep, the more harm an attacker or unauthorized person can do."
+
+Electronic record-keeping systems are standard for businesses and government agencies. But they are supposed to have limits on how long data is kept.
+
+The health care system, known as MIDAS, is described on a federal website as the "perpetual central repository" for information that the Affordable Care Act authorizes federal agencies to collect.
+
+"Data in MIDAS is maintained indefinitely at this time," says another document, a government privacy assessment dated Jan. 15.
+
+It lists the kinds of information stored, including names, Social Security numbers, birthdates, addresses, phone numbers, passport numbers, employment status and financial accounts.
+
+Before HealthCare.gov went live in 2013, Obama administration officials assured lawmakers and the public that an individual's personal information would be used mainly to determine eligibility for coverage, and that the nation's newest social program would have a limited impact on privacy.
+
+Marilyn Tavenner, the Medicare administrator at the time, told a congressional hearing that the program's technology infrastructure was designed "to minimize all possible security vulnerability."
+
+"And we especially focused on storing the minimum amount of personal data possible," she added.
+
+In the new wired world, every few weeks brings news of another security breach. Personnel records of millions of federal employees, including background information for security clearances, were compromised in the latest attacks making headlines. Earlier this year, health insurer Anthem reported that information on 80 million customers was hacked.
+
+The Obama administration says MIDAS is essential to the smooth operation of the health care law's insurance markets and meets or exceeds federal security and privacy standards. "MIDAS is a critical piece of the marketplace ecosystem," spokesman Aaron Albright said in a statement.
+
+MIDAS has been criticized in opinion articles by former Social Security commissioner Michael Astrue, a Republican who disapproves of Obama administration policies. Independent experts on technology and privacy echoed some of the concerns.
+
+"I accept they have an operational reason, if not a legal obligation, to keep data for a reasonable period," said Astrue, commissioner from 2007-2013. But there's no justification for keeping data indefinitely, he added. "I don't think they should be allowed to do it."
+
+Michelle De Mooy, deputy director for consumer privacy at the Center for Democracy & Technology, said consumers have no way of knowing that their data is being routed to MIDAS. It's not mentioned on the HealthCare.gov website.
+
+"It doesn't make any sense that it wouldn't be listed in the privacy policy," De Mooy said.
+
+Although the policy does not mention MIDAS specifically, the administration says its general functions are described.
+
+MIDAS stands for Multidimensional Insurance Data Analytics System. It's owned by the federal Centers for Medicare and Medicaid Services and operated by a major government technology contractor, CACI. The administration says the contract is currently worth more than $110 million from 2011-2017. That's an increase of more than 85 percent from $59 million when it was awarded.
+
+Some details about MIDAS, gleaned from interviews and publicly available documents:
+
+--The administration launched MIDAS without a complete privacy assessment.
+
+The nonpartisan Government Accountability Office said in a report last year that the system went live without a thorough examination of privacy risks. Without such an analysis "it will be difficult for (the administration) to demonstrate that it has assessed the potential for (personal information) to be displayed to users ... and taken steps to ensure that the privacy of that data is protected," the GAO said.
+
+The privacy assessment was not completed until mid-January, well into the health law's second sign-up season.
+
+--The privacy analysis is vague on key details.
+
+In a section that asks how many individuals have personal data in the system, the administration's privacy assessment says "1 million or more."
+
+It's probably a lot more. In addition to the 10 million currently enrolled, MIDAS also keeps information on former customers, on consumers who started applications but never finished them and on people determined eligible for Medicaid.
+
+The administration says "1 million or more" is a standard category -- but won't specify the number.
+
+"It raises a red flag," said Tien, the technology lawyer.
+
+--MIDAS has had multiple, evolving missions.
+
+Government reports describe MIDAS as a resource for producing analytical reports. But it also seems to have evolved into a linchpin for data transactions with health insurance companies and state Medicaid agencies.
+
+MIDAS gathers information from many other systems, including federal and state insurance exchanges, the federal "data hub" that verifies eligibility for benefits, insurance companies and the government's casework system for consumer complaints.
+
+The MIDAS privacy assessment says policies about personal data have changed over time to allow additional uses and disclosures beyond what is needed for the minimum functions of the insurance exchanges. The scope of data collected also has been widened.
+
+--MIDAS information can be shared.
+
+The administration says MIDAS is hosted in a secure data center.
+
+Upon approval, personal information can be shared with a range of parties, including the research arm of the Department of Health and Human Services, states and private insurers. The administration says a limited number of government and contractor employees have regular access, and that is monitored and tracked.
+
+But officials won't say how many people have direct access.

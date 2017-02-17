@@ -1,0 +1,17 @@
+São Paulo -- Desenvolvido ao longo de três anos a um custo estimado em 634 milhões de dólares, o site Healthcare.gov, portal do novo sistema de saúde americano apelidado Obamacare, entrou em operação no dia 1º deste mês. Mas as falhas têm sido tantas que o site até teve de zerar as senhas dos usuários.
+
+O Healthcare.gov marca o início da operação plena do novo sistema de saúde que é uma das marcas da administração Obama. Ele oferece planos subsidiados com base no chamado Patient Protection and Affordable Care Act, a lei da proteção ao paciente e assistência média acessível.
+
+Essa lei foi aprovada em 2010 em meio a intenso debate político. Para Obama e seus partidários, o Healthcare.gov é importante demais para falhar. Mas falhou em grande estilo, naquele tipo de situação que os americanos chamam de "epic fail".
+
+O sistema foi desenvolvido por três empresas contratadas pelo governo americano. No dia 8, Sean Gallagher, do site Ars Technica, fez um teste e verificou que só para entrar na tela de login demorava-se até quatro minutos. Muitos usuários reclamavam que não conseguiam entrar no site após registrarem-se.
+
+Gallagher afirma que o Healthcare.gov nunca foi testado com a carga de usuários que teria de suportar. Além disso, ele parece não ter sido projetado para suportar tráfego tão intenso.
+
+Ele examinou a página inicial do Healthcare.gov e verificou que ela inclui 2.099 linhas de código HTML e ainda chama 56 arquivos com código em JavaScript e 11 folhas de estilo em CSS. É uma página pesada demais para um site de alto tráfego.
+
+John Casaretto, do blog Silicon Angle, diz que a possibilidade de um ataque cibernético ter prejudicado o site foi investigada e afastada. Se não houve ataque, conclui ele, só se pode concluir que o sistema foi subdimensionado.
+
+Casaretto cita outro especialista, Matthew Hancock. Como Galagher, Hancock analisou as páginas do Healthcare.org e verificou que elas são terrivelmente pesadas. Quando alguém clica em Registrar-se, há uma torrente de dados trocados entre o servidor e o computador do usuário.
+
+Hancock rastreou os arquivos requisitados pela página. São 92, sendo que 56 deles contêm código em JavaScript. Sua conclusão é que o site gera tanto tráfego para si mesmo que é quase como se ele se auto-atacasse. O efeito é similar ao de um ataque de negação de serviços realizado por hackers.

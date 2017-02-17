@@ -1,0 +1,19 @@
+Hackers have successfully gained access to the protected health information of some 4,200 individuals after hacking into an Ohio-based medical supply company's server back in March.
+
+The Twinsburg, Ohio Edgepark Medical Supplies reported this January that hackers had gained access through an Adobe software used to operate the company's website and subsequently installed malware which intercepted user login data.
+
+The login data stolen allowed the hackers to view individuals' names, dates of birth, medical diagnoses, order history, phone numbers and credit card information.
+
+For 126 of the 4,200 individuals affected, full credit card numbers and expiration dates were accessed.
+
+[See also: 4-year long HIPAA breach uncovered.]
+
+According to Edgepark Medical Supplies officials, hackers gained access to the data back in March 2013, but the breach wasn't discovered by the company until nine months later in December.
+
+Cindy Sackett, vice president of compliance and privacy officer at AssuraMed, the parent company of Edgepark, said the Web server hacked had anti-virus software, but it failed to identify the malware until December.
+
+"We take the protection of your personal information very seriously and have taken steps to prevent a similar occurrence, including resetting your account password and removing the malware," Sackett wrote in a January letter to affected individuals.
+
+[See also: Ready or not: HIPAA gets tougher today.]
+
+In addition to recommending that affected individuals place fraud alerts on their credit cards, company officials also suggested those affected request their medical records to identify any healthcare services not provided.

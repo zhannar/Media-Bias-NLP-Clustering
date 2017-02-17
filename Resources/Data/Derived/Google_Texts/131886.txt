@@ -1,0 +1,55 @@
+Robert Graboyes is a Senior Research Fellow at the Mercatus Center at George Mason University. He’s created a video that purports to explain how the ACA’s actuarial value (AV) provision is a driving force for policy cancellations, including both pre-2014 plans and – quite perplexingly – plans that will be purchased in the future.
+
+Graboyes penned an article for US News and World Report a year ago, calling the ACA a “raw deal” for young adults and noting that premiums have increased under the ACA for people in their 20s and 30s. Yet his article doesn’t even mention the premium subsidies that are a cornerstone of the ACA and have actually resulted in significantly lower premiums for many young people.
+
+During the first open enrollment, 85 percent of people who enrolled through the exchanges received premium subsidies. This is not a minor issue that one can choose to ignore in an article about premiums under the ACA. Doing so highlights an obvious bias against the ACA, and leaves us wondering whether the Mercatus Center’s video about AV can be fully trusted.
+
+A little bit right …
+
+In the video, Graboyes starts by accurately explaining how AV distinguishes one metal level from another. Bronze plans cover 60 percent of average medical expenses. Silver plans cover 70 percent, Gold plans cover 80 percent, and Platinum plans cover 90 percent. For each level, there can be a variation of 2 percentage points in either direction. So a Bronze plan can have an AV of 58 to 62 percent, while a Silver plan can have an AV of 68 to 72 percent.
+
+And it’s important to understand that the AV applies to the entire pool of average insureds… a person who has a Bronze plan and only incurs $1,000 worth of costs in a year might end up paying the vast majority of his costs out-of-pocket (ie, the health plan will pay far less than 60 percent of his costs), since he likely won’t meet his deductible. But if that same person ends up with a million dollars in healthcare costs during the year, his health plan will cover far more than 60 percent of his costs, since his out-of-pocket maximum will kick in very early in the process, and the health plan will cover everything else.
+
+Incidentally, the beauty of the AV regulation is that it makes plans very easy to compare to one another. Instead of wading through a vast range of plans that differ in myriad ways, consumers can concentrate on factors like networks, price, and quality ratings, knowing that the underlying coverage of all the plans in the same metal level is very similar.
+
+… but mostly dead wrong
+
+Unfortunately, the Mercatus Center’s video goes on to make it appear that the reason pre-2014 plans were cancelled was because most of them didn’t fall within the narrow AV ranges required by the ACA.
+
+But AV is just one of numerous factors involved in compliance with the ACA. There were many other reasons that existing plans were not compatible with the law. Of particular importance, less than 2 percent of the individual health plans in existence in early 2013 provided coverage for all ten of the ACA’s mandatory essential health benefits.
+
+In addition, before the ACA, there was no limit on how high a plan’s out-of-pocket could be. Plans were often sold with individual deductibles in excess of $10,000 – an amount that far exceeds the ACA’s out-of-pocket limit. (In 2014, the limit is $6,350 for an individual and $12,700 for a family. These amounts are increasing to $6,600 and $13,200 in 2015.)
+
+Those are just two examples, but regardless of AV, essentially all non-grandfathered plans must be replaced with ACA-compliant coverage. (In many states, this has been delayed as the Obama Administration has twice granted extensions allowing non-grandfathered pre-2014 plans to extend out as far as 2017 if permitted by the state and the insurance carrier.)
+
+So when policies are being cancelled and replaced with ACA-compliant coverage, AV isn’t likely to be the primary culprit. Virtually no individual policies that were in effect prior to 2014 are compliant with the ACA, for a host of reasons other than AV.
+
+ACA-compliant plans will be cancelled? Wrong.
+
+But what about Graboyes’ claim that going forward, even new ACA-compliant plans will be cancelled and need to be replaced because of changes in AV calculations?
+
+That is simply false.
+
+Over the years, plans have always made small changes to their benefits, deductibles, copays, and coinsurance. Now, when they need to make modifications to their plan designs, they have a standardized AV calculator with which to work. So it will be relatively easy for actuaries to make the adjustments needed to keep their plans compliant with the AV requirements for each metal level. There’s also a provision for alternative methods of calculating AV if a plan’s design isn’t compatible with the standard calculator.
+
+HHS released the 2015 AV calculator earlier this year. It’s virtually identical to the 2014 calculator, but with an adjustment for the increased maximum out-of-pocket in 2015, along with “minor technical corrections and clarifications” to the old calculator. HHS clarified in 2013 (see page 12850) that they “[do] not anticipate making annual changes to the AV calculator logic or underlying standard population.”
+
+And part of the reason that HHS allowed for a 4 percentage point AV variation at each metal level (for example, permitting gold plans to have AVs of 78 to 82 percent, instead of requiring exactly 80 percent) is to minimize the need for frequent modifications to plan designs. Coverage will have to be modified as necessary, but “the de minimis range [+/- 2 percentage points] also mitigates the need for annual plan redesign, allowing plans to retain the same plan design year to year and remain at the same metal level.” (See page 12851).
+
+In 45 CFR 156.135, HHS lays out various provisions that will be updated in order to keep the AV calculator current in future years. HHS confirmed by email that the purpose of these updates is to “ensure that the AV Calculator evolves with the market and that the majority of plans can continue to use the AV Calculator without adjustment.”
+
+Even with the updates, some plans will shift outside the allowable AV ranges from one year to another. But that can be addressed by making changes (under uniform modification requirements laid out in Exchange and Insurance Market Standards for 2015 and Beyond) to the plan design to bring it back in line with the AV requirements.
+
+What else Graboyes missed
+
+But there’s another important point that Graboyes has overlooked. In May, HHS issued a final rule that includes 45 CFR 147.106. This regulation maintains that “a health insurance issuer offering health insurance coverage in the individual, small group, or large group market is required to renew or continue in force the coverage at the option of the plan sponsor or the individual, as applicable.”
+
+The ruling allows for some exceptions and grants carriers permission to pull out of a market entirely (meaning all of their plans would be cancelled) or discontinue a particular product as long as specific consumer-protection rules are followed. But in most cases, plan availability will be continuous.
+
+Consumers will have the option to shop around for coverage each year during open enrollment (or if they have a qualifying event), but they will also be able to renew an existing plan if they choose to do so. The coverage can change slightly from one year to another in order to maintain AV and keep up with inflation-adjusted changes to the out-of-pocket maximum.
+
+But policies will not simply be cancelled in order to accomplish this. Tim Jost, professor at the Washington and Lee University School of Law, detailed more about this issue in a May article on Health Affairs.
+
+In Graboyes’ explanation of how AV requirements will supposedly cause repeated policy cancellations, he says “I know it sounds odd, but that’s the way the ACA works.”
+
+No, it sounds odd because that’s not how the ACA works at all. But it’s a good story if you’re simply opposed to the ACA and trying to convince people it will fail … when it’s already succeeding.

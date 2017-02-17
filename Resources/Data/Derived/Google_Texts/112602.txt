@@ -1,0 +1,41 @@
+SIGN UP FOR OUR NEWSLETTER
+
+The news about the massive data breach of the Office of Personnel Management, and other federal agencies, by Chinese hackers just keeps getting worse. Estimates of the scope of the breach have increased since the initial reports on Friday, while the ability of the attackers to bypass state-of-the-art defensive software is frightening. Even so, some experts are saying the damage could have been contained if the government had taken better precautions to protect the pilfered data.
+
+SIGN UP FOR OUR NEWSLETTER
+
+The damage estimate is reaching epic proportions. It now appears security clearance applications and background checks dating back 30 years were compromised.
+
+“This is deep. The data goes back to 1985,” a U.S. official is quoted at Business Insider. “This means that they potentially have information about retirees, and they could know what they did after leaving government.”
+
+“Access to information from OPM’s computers, such as birthdates, Social Security numbers, and bank information, could help hackers test potential passwords to other sites, including those containing information about critical weapons systems,” the official added.
+
+Two months later, the public still isn’t being given straight answers about how much data was stolen.
+
+“The Office of Personnel Management and the Interior Department have declined to publicly identify which database in the business center was targeted in the breach disclosed Thursday, one of the largest intrusions into federal employees’ personal information,” writes the Washington Post. “But experts in and out of government in technology and federal personnel systems say they strongly suspect that a central database hosted by the Interior Business Center containing all executive branch personnel information, called Enterprise Human Resources Integration, was targeted.”
+
+If that suspicion is correct, the hackers will have access to information on every affected employee’s “career in the government, from salary to benefits to training and certification,” and the raiders may have further penetrated “other federal data sources on employees, including sites containing former employees’ retirement status and benefits.”
+
+The information taken from OPM could already be fueling further hacking attacks. Hewlett-Packard security expert Mark Bower explained to the Christian Science Monitor that data already taken by these thieves could be used to construct massive “phishing” attacks, i.e. sending email laced with malware to family, friends, and business associates of the four million already compromised, “with the aim of getting access to data about economic policy plans, military and defense data sets, or for committing intellectual property theft.”
+
+The Boston Herald reports senior counterintelligence official Dan Payne sent a videotaped message to federal employees on Friday, telling them to “change all their passwords, put fraud alerts on their credit reports and watch for attempts by foreign intelligence services to exploit them.”
+
+“Some of you may think that you are not of interest because you don’t have access to classified information. You are mistaken,” Payne said in the video.
+
+If the attackers were agents of the Chinese government working for one of the PLA’s huge cyber-commando operations, or (rather implausibly) a private operation coordinated enough to pull off a caper of this magnitude, they have already had six months to pick targets out of that massive database they stole.
+
+The only thing that makes it plausible this might not have been a Chinese military operation is that the U.S. government’s extremely expensive security system was penetrated with disturbing ease.
+
+“The breach was an embarrassing showing for the U.S. government’s vaunted computer-defense system for civilian agencies — dubbed ‘Einstein’ — which is costing $376 million this year alone,” the Boston Herald reports. “It’s supposed to detect unusual Internet traffic that might reflect hacking attempts or stolen data being transmitted outside the government.”
+
+Instead, the Herald compared the performance of the system to “a smoke alarm sounding after the house burned down.”
+
+Bloomberg Business reveals the Einstein-3 system was “behind schedule, the result of inter-agency fights over privacy, control and other matters, and only about half of the government was protected when the hackers raided OPM’s databases last December.”
+
+Even that protection is already outdated, as James Lewis, senior fellow in cybersecurity at the Center for Strategic and International Studies, explained: “Einstein 3 was state of the art two years ago. It’s good, but it’s not enough, and we know that because the commercial security industry is already moving away from that kind of defense.”
+
+Naturally, the Obama White House did what it always does in moments of national crisis, and began pointing fingers of blame at everyone else, specifically blaming Congress for not signing President Obama’s preferred cybersecurity legislation.
+
+“This Administration is notorious for not working with Congress, but they could at least read the news,” House Majority Leader Kevin McCarthy (R-CA) responded in a statement. “Congress has, in fact, passed cyber legislation, and the House has been leading on this issue for years.”
+
+The White House is also going to have a hard time blaming anyone else for OPM’s failure to encrypt the data that was stolen.

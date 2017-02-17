@@ -1,0 +1,35 @@
+The way the justice system sets bail for defendants is far from a hard science, and the numbers bear that out: African Americans between the ages of 18 and 29, for example, are given much higher bail amounts than any other demographic, a 2012 study found.
+
+Racism, conscious or not, also exists in the labor market. In a 2009 study published in the American Sociological Review, white, black and Latino job applicants were given equivalent resumes to apply for hundreds of entry-level jobs in New York City. The results found that black applicants were half as likely as equally qualified whites to be asked for a callback or given a job offer.
+
+In an effort to combat these often undetected biases and predispositions, both the criminal justice system and companies looking to hire are turning more and more to technology.
+
+Related: The One Profession Robots Haven’t Cracked Yet
+
+After two years of testing, the Laura and John Arnold Foundation is introducing a new tool called the Public Safety Assessment to help judges make bail decisions. The foundation said the tool, built by analyzing data from more than 1.5 million cases across 300 U.S. jurisdictions, assesses a defendant based on factors related to criminal history, current charge and current age. Its algorithm gives defendants two scores — one for the probability of them committing a crime, especially a violent one; the other for the risk that they will skip court dates. In pilot jurisdictions, the algorithm was shown to ignore both race and gender.
+
+Since many pretrial release decisions are made subjectively without risk assessment, “the result, although unintended, is that many of the individuals who are held in jail before trial pose little risk to public safety, while many violent, high-risk defendants are released into the community,” the foundation said in announcing the new assessment.
+
+The foundation says its tool, developed at a cost of $1.2 million, can instead provide “reliable, predictive information about the risk that a defendant released before trial will engage in violence, commit a new crime, or fail to return to court.” The assessment will be rolled out to 21 jurisdictions, including Arizona, Kentucky and New Jersey as well as the cities of Charlotte, Chicago and Phoenix, the foundation announced last week.
+
+The idea of incorporating scientific measures of risk into bail decisions carries some obvious appeal, and some lawyers and law enforcement groups have supported the use of such tools, The New York Times reported. But only about 10 percent of courts now use such “evidence-based risk-assessment instruments” when deciding whether to release or detain defendants, according to the Arnold Foundation.
+
+Costs are one reason for that limited adoption, though the foundation hopes to address that issue; it plans to make its Public Safety Assessment available for free to any city, county or state “within the next few years,” according to a statement issued last week.
+
+Related: When Big Data Becomes Big Brother
+
+Bias and preconceptions also plague hiring. People usually make unconscious hiring decisions based on factors that don’t have anything to do with the job.
+
+New startups — including Textio, Doxa, Entelo, GapJumpers and Gild — are refining ways to automate hiring. The companies claim that their software will result in a more effective and efficient hiring process. Using computers to filter through candidates’ data could allow recruiters to quickly reach people who are good matches for the position, saving the effort of sifting through profiles of both qualified and unqualified candidates.
+
+Another benefit of the software could be a more diverse workplace, since the human biases of recruiters, which usually revolve around demographic characteristics such as age, race and gender, are largely eliminated.
+
+Textio CEO Kieran Snyder said in an email that human recruiters are still necessary since there are a number of duties that an algorithm cannot handle, such as deciding what roles to hire for or conducting face-to-face interviews. The software exists to support the humans, she said.
+
+“Textio looks at previous job listings and how they've performed in the past, and then optimizes new listings right as you're typing them so that you attract more qualified and diverse people to apply,” Snyder said. “Textio uses statistics and data to help you get the candidates you want — so we address bias statistically, on the basis of how previous listings have performed.”
+
+The idea of hiring people based off an algorithm is controversial, but it’s taking off at some recruiting firms. Well-known headhunters such as Korn Ferry are now using hiring formulas. In August of last year, Korn Ferry introduced a new system, called KF4D, to identify the profile of a perfect candidate for a position.
+
+“Algorithms don’t replace human recruiters; they replace human error,” Jonathan Foley, vice-president for science at Gild, said in an email. “While recruiters rely on certain (occasionally random) benchmarks to assess candidates — schools, past companies, etc. — Gild’s algorithms take into account all of the publicly available data about a person, including their skill set, educational and work history. They aren’t affected by biased assumptions about certain schools, companies, or backgrounds. Run our search algorithms and you’ll find a diverse range of candidate recommendations, based purely on skill level, not human prejudice."
+
+Top Reads from The Fiscal Times:

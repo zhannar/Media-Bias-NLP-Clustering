@@ -1,0 +1,39 @@
+Affordable Care Act phishing campaign identified, US-CERT issues advisory
+
+Share this content:
+
+
+
+linkedin
+
+google
+
+
+
+Email
+
+Print
+
+
+
+SophosLabs became the recipient of an email that references the Affordable Care Act and purports to come from the U.S. Department of Labor.
+
+The United States Computer Emergency Readiness Team (US-CERT) issued an advisory on Thursday, stating it is aware of phishing campaign that involves communications claiming to be from a U.S. federal government agency.
+
+“The phishing emails reference the Affordable Care Act in the subject and claim to direct users to health coverage information, but instead direct them to sites which attempt to elicit private information or install malicious code,” according to the advisory.
+
+SophosLabs recently became the recipient of one such email.
+
+That message states that the U.S. Department of Labor's Employee Benefits Security Administration has updated its Affordable Care Act web page, and the recipients should follow a link and download and open a PDF document, according to a Wednesday post by Paul Ducklin, of Sophos.
+
+The email is particularly convincing – it has proper spelling and grammar, and has the makings of an authentic message – because the scammers mostly copied it from an official email bulletin, Ducklin notes. The primary giveaway to the scam is in the body of the email where it plainly states: ‘FOLLOW LINK.'
+
+“Instead of being hosted on a dol.gov server, like the real Department of Labor documents, this one is “hosted” on the website of a Turkish nutrition business,” Ducklin wrote.
+
+“Judging by the URL that the crooks have used, it looks as though they've camped in a subdirectory on the server that belongs to a WordPress plugin. If so, that plugin is presumably one that either has not been correctly configured, or, more likely, has not been patched against known security holes.”
+
+The PDF document that recipients are asked to download and open is named “health_coverage_webcast.pdf;” however, it is actually a .SCR file – or a screensaver file – and opening it ultimately results in the recipient's computer being infected with a variant of Vawtrak banking malware that is detected by Sophos as Mal/Vawtrak-H.
+
+Recently, the number of reported scams and phishing campaigns seems to be on the rise, but Aaron Higbee, CTO of PhishMe, told SCMagazine.com in a Friday email correspondence that there is no specific time of year when phishing activity regularly peaks. Notably, he said that leveraging current events is effective all the time.
+
+“Phishing is effective regardless of the season,” Higbee said, going on to add, “For enterprises, defending against phishing is important all 12 months of the year, which is why training employees to recognize and report phishing emails should be a continuous effort that occurs at various times throughout the year.”

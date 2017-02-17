@@ -1,0 +1,43 @@
+I use the Firefox web browser with Adblock, and I run AVG anti-virus. Frequently, but not always, when I click on a link in a Google search result, it takes me to a page advertising something instead of going to the page indicated. If I go back to the search results and click the same link, it usually goes to the correct site. I thought this might be malware, but I have scanned with AVG and Malwarebytes, including anti-rootkit, and there is no indication of anything wrong. Researching the problem, I came across concerns that the Chrome browser could have this behaviour, and the suggestion was to disable extensions. I’m not very happy to do this because my various Firefox extensions add functionality I value. Geoff
+
+Google’s Chrome browser has been having problems with something known as the chrome-navigation-error.info redirect, which may be botnet related. This also seems to afflict Apple Mac OS X users and apparently some Linux users, but not Firefox users. Either way, it’s not your problem.
+
+Usually, the best way to tackle malware is to identify it, so that you can search for specific solutions. In this case, you’re not sure if your PC has any malware, and you haven’t identified it, so we will have to take a generic approach. This isn’t a bad thing. The danger is that an attacker can use a small security hole to install more malignant software, so it’s best to give your PC a thorough inspection.
+
+Before you start, make sure you have all your programs and data backed up, and that you can restore Windows to its factory condition if necessary. Your PC probably has a hidden recovery partition that will do this. It’s also a good idea to make a restore copy of Windows on DVD as well. Your PC may well prompt you to do this each time you restart it.
+
+Unfortunately, there are several ways of redirecting search traffic, so we can’t even be certain that Firefox is the problem. It could be something to do with your Hosts file (though it probably isn’t), with a rootkit on your hard drive, or with a “poisoned” domain name service (DNS). Some redirections are the result of websites being hacked, and in these cases, there’s nothing wrong with the user’s PC.
+
+Preparations
+
+Start by making a list of your useful Firefox extensions and then uninstalling and re-installing Firefox. Make sure you download the new version from https://www.mozilla.org/ (note the https for security). This link takes you to a page where you can download all the localised versions from Acholi to Xhosa, including “English (British)”.
+
+Don’t use Google to search for this kind of thing: it is targeted by scammers and it is far too easy to be duped by the adverts that Google puts above search results. As when searching for visa, health card and similar application forms, use the DuckDuckGo search engine, which doesn’t track you and also protects your privacy.
+
+Does your new, guaranteed-legitimate version of Firefox still have a redirection problem? If not, you can start to install the extensions you need. You could start with Adblock Edge – a forked version of Adblock Plus – and then install one extension per day. Don’t install a new extension until you’re sure the last one is OK.
+
+Next, replace your Hosts file, since one of its purposes is to redirect websites. I recommend the MVPS Hosts file created by a group of Microsoft-designated Most Valuable Professionals (they’re not employees). This also works on non-Windows systems. Follow the instructions to install it, bearing in mind that you must have Administrator access.
+
+Finally, in this section, download Farbar’s MiniToolBox from Bleeping Computer. This can detect and fix problems with proxy settings and search redirects, hijacked routers and so on. You don’t need to install MiniToolBox, it just runs. In this case, tick the boxes for Flush DNS, Reset IE Proxy Settings, and Reset FF Proxy Settings, then click Go.
+
+Problem solved? If not, it’s time to play hunt the malware…
+
+Malware removal
+
+In general, I’ve found that running Malwarebytes Anti-Malware in Safe Mode is the quickest way to remove malware that has evaded whichever anti-virus program you have installed. Start by saving the free MBAM to your desktop, updating its detection database, and running a quick scan. Remove any malware it finds, but don’t stop there. Reboot your PC and keep pressing F8 before Windows loads, to bring up the boot menu (some PCs may use a different hotkey). When you get the boot menu, select Safe Mode, and run Malwarebytes again. If it finds any malware, delete it and repeat the process. Keep rebooting and re-running Malwarebytes until it doesn’t find anything bad.
+
+You’ve already tried Malwarebytes so you may want to try an alternative such as Norton Power Eraser. It’s another program that targets the sort of stuff that everyday anti-virus programs might miss, and it targets “scamware” in particular. Symantec warns that it is aggressive and may detect threats in legitimate programs, but at this stage, a bit of aggression is a good idea.
+
+If Malwarebytes and/or NPE don’t find your malware, there are a few more targeted programs you can run. The ones worth trying include – in order – Bleeping Computer’s RKill, Kaspersky Lab’s TDSSKiller, SurfRight’s HitmanPro, and Xplode’s AdwCleaner. RKill tries to kill any known-bad processes running on your PC, which may be preventing other programs from running or finding malware. TDSSKiller finds rootkits. You can download all of these from Bleeping Computer’s Downloads section. There are also lots of tutorials on the site to explain how to do things.
+
+When everything else fails, there’s ComboFix. This has been developed by Bleeping Computer to tackle hard problems, and is used by many other anti-malware forums. However, unless you’re an expert, it’s not something you should run yourself. You should create an account at Bleeping Computer (or a similar website such as Geeks To Go), select the correct forum for your problem, and start a new query as explained in the Welcome Guide. One of the site’s volunteers will try to help you to find a solution. This will often involve running RKill and ComboFix and posting logs from your PC, but you need to be familiar with the area to make sense of the logs.
+
+Updating Windows
+
+Malware is relatively rare on Windows nowadays, at least since we all stopped using 32-bit Windows XP – I’ve not found any on my 64-bit Vista, Windows 7 or Windows 8 in more than half a decade of running multiple machines. However, that’s mainly because I keep Windows and all my other software up to date. I run Secunia’s Personal Software Inspector (PSI), which does a weekly scan, and I check Windows Update manually, often after Microsoft auto-installs updates on “Patch Tuesday”. I also minimise the amount of Adobe, Apple and Java code on my Windows PCs, though they all have Adobe Flash installed.
+
+Microsoft’s SmartScreen filter has also helped a lot. When you run a new program, SmartScreen creates an SHA-256 hash of the executable code and sends this gibberish to a Microsoft server, which looks to see if the same hash is associated with any malware. If it is, it blocks the code or website and puts up a message to say that “Windows protected your PC”. Importantly, it provides protection against social engineering attacks (eg fake codec updates) and drive-by downloads. SmartScreen has been part of Internet Explorer but is now plumbed into Windows 8. Yes, it has some privacy implications, but they’re nothing like as bad as downloading anything from the Windows Store, iTunes, Google Play or a similar service.
+
+You don’t have to be perfect. Most malware writers target the “low hanging fruit” represented by the hundreds of millions of users who never install patches, run pirate copies of software with built-in back doors, or are still using Windows XP. Being up to date will not save you from a professional attack from the National Security Agency, GCHQ and other organisations with access to unknown or zero-day exploits, but unless you’re a potential target, you’re very unlikely to fall victim to one of those.
+
+This article originally appeared onguardian.co.uk

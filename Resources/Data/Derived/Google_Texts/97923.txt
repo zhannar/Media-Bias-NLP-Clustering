@@ -1,0 +1,77 @@
+Imagine you’re waiting to see your doctor for an annual checkup. Instead of leafing through a months-old copy of People Magazine in a stale waiting room for 30 minutes (despite arriving ten minutes early), you’re sitting on your couch at home perhaps finishing up some last minute work. You pick up your phone, tap on an app and initiate a video chat with your doctor.
+
+When your doctor answers, she greets you and asks you to put a palm-size wireless stethoscope against your chest so she can listen to your heart and make sure your breathing is unrestrained. She then takes your blood pressure using another remote monitor. That data is automatically sent to a mobile health app that both you and your doctor have access to. After checking your vitals, your doctor goes over the lab results for the blood you had drawn at a nearby clinic last week.
+
+She reviews an analyzed report of your nutrition statistics from the past year, since you’ve been logging your meals everyday. After assessing your diet she looks at how many steps you’ve been taking daily along with your exercise regimen, all of which is collected from your Fitbit or Apple Watch. Overall, she says, your diet looks good, and the shedding of a few pounds since your last visit illustrates a healthy lifestyle. However, she’s concerned that you’re not sleeping. Are you under stress? Do you need a recommendation for a therapist? Or is it something else?
+
+This scenario may sound overly futuristic, but in fact this technology is mostly here. Many medical appliances are already Internet connected, and an increasing number of startups are developing home monitoring systems to better capture day-to-day health data. The rise of Fitbit and fitness apps also means we have oodles of circumstantial data about our health right at our fingertips. The reason doctors aren’t already considering patients’ daily exercise regimens in their overall health report is because there is no platform that meaningfully collects this data.
+
+Though nascent, this platform may soon materialize. The University of Michigan in partnership with AirStrip and IBM is currently testing a way to predict when someone will get ill. To do that, it needed a platform capable of compiling a stream of health data while analyzing a patient’s conditions in real-time.
+
+Same old technology
+
+“I have no better tools to save your life than I had 25 years ago, and the same thing is true of other critical-care units you might go to if you’re sick,” says Dr. Kevin Ward, who leads the University of Michigan’s Fast Forward Medical Innovation program. “And that’s not acceptable, really.”
+
+This predictive-medicine study is taking place inside the University of Michigan’s intensive care wing, where having access to real-time patient data is most critical.
+
+A lot of patient information is automated through medical monitors and ventilation devices, giving doctors potential access to hundreds of thousands of data points on each patient. The problem is that much of this data is unstructured. There is no singular hub that takes in medical data, analyzes it, and allows doctors to consume it holistically. Instead, doctors have to consider all of this data, mostly by themselves.
+
+“So if I have you in the intensive care unit and I have all these monitors on you, you can produce maybe upwards of 100,000 data points per second. And human-wise, I can only track a couple a second on a patient, much less track 15 patients I might be caring for. So we have not done a great job leveraging data to do either predictive or prescriptive analytics,” says Dr. Ward.
+
+Building a platform
+
+In addition to a lack of infrastructure for crunching big streams of real-time data, there isn’t a system for collecting patient health data from various sources.
+
+For instance, let’s say a person is involved in a car accident, and a paramedic responds. The patient is immediately treated at the scene and while in transit to a hospital. The patient then enters an emergency room where nurses and doctors try to stabilize her. Perhaps after that, the patient goes into surgery so doctors can repair any life threatening damage and is transitioned to the intensive care unit. At each of these stages of care there are different people working on this one person and Dr. Ward says contextual data about a patient’s health gets lost in the shuffle. Only the broad strokes get reported. Using the example above, a patient’s record would show all the stages of care, but not details about the treatment or how the patient responded.
+
+To capture the details, Dr. Ward needed a way to update a patient’s record at each echelon of care.
+
+That’s where the partnership with AirStrip comes into play. AirStrip already has a platform in place for gathering patient information into a single application. The platform is called AirStrip One and it takes data from any input, filters it into an ecosystem where both patients and doctors can access it, and arranges it in a meaningful way. No small task considering that hospitals use a variety of devices and electronic health record systems — there is no one standard.
+
+Predicting health
+
+With the health data corralled in one place, Dr. Ward is hoping to draw meaningful conclusions about a patient’s health. Combining health records with incoming real-time data, Watson could assist doctors in making diagnoses. Not only that, but a system like this could also give doctors a heads up when someone’s health is taking a turn for the worse.
+
+“Even if I have ten minutes, that’s better than being called to the bedside because someone is now totally unstable. We’re hoping to have these windows of time to be able to come up with something to prevent that from happening,” says Dr. Ward. That time frame could grow as the network amasses data.
+
+In addition to working towards predicting health conditions, Dr. Ward also wants analytics to reduce the number of alarms that go off in a hospital. Walk into an ICU on any given day and you’ll be bombarded with a cacophony of high-pitched beeps and alarms. That’s the sound of each individual monitor notifying a doctor that something is either normal or out of sync, and it’s causing nurses to develop alarm fatigue, trivializing their effectiveness.
+
+With the right analytics, alerts could be greatly reduced and their significance retooled so they indicate an action that needs to be taken rather than a response to something that’s happening.
+
+Early signs have been good
+
+Dr. Ward says that early tests have shown that this system will work. He declined to give any specific examples, because he and his team have only just begun testing the technology in the last few months.
+
+But University of MIchigan has shown that this model can work in other scenarios. In a collaborative project with the U.S. Army Institute for Surgical Research a few years ago, the University of Michigan was able to develop an algorithm for predicting a sudden drop in blood pressure known as hemodynamic instability. Since the original tests, the University of Michigan has brought on both IBM and AirStrip to tweak the study’s key algorithm so that it can assess damage to a human body involved in an explosion.
+
+“What happens is those kids, they get hit by the IED shock wave. They’re put on observation and then they end up going to the [Mobile Army Surgical Hospital] unit, and then that becomes an intensive care treatment quickly, and then they die,” says AirStrip CEO Alan Portela.
+
+So far the collaboration has been fruitful. The University of Michigan says it can now detect early evidence of internal bleeding and inflammation from infection using a connected defibrillator to monitor breathing in tandem with its algorithm for hemodynamic instability. Not only can this system potentially help doctors identify patients with serious, difficult-to-detect injuries, it also gives doctors a chance to prevent instability or death.
+
+Predictive analytics for all
+
+That bodes well for the University of Michigan’s ICU study, which hopes to make predictive health algorithms available to a broad spectrum of hospitals. The university’s work in intensive care is a first step towards developing a more comprehensive system of analytics that can predict simpler health problems, like whether you’re susceptible to a virus that’s going around. If predictive health care can be perfected in an intensive environment, it can more easily be applied to less extreme health scenarios.
+
+“We want to have data products that help empower practitioners no matter where they practice. So it could be in a small rural hospital or a larger community hospital, and for that you really had to have a partner like AirStrip, who could easily integrate into any particular system,” Dr. Ward says.
+
+Once the network and analytics are in place, the university and AirStrip have an opportunity to expand the platform to include features like text messaging and other utilities aimed at servicing a wider population.
+
+Overcoming hurdles
+
+Though the promise of app-connected care is great, there are a series of hurdles that AirStrip will have to overcome in order to get its platform into hospitals. Making way for real-time care means changing the American health care system as we know it. Currently, doctors provide care on a fee-for-service basis. AirStrip and the University of Michigan’s platform is centered on treating health before issues arise. In effect, it keeps patients out of the hospital through remote monitoring.
+
+That approach fundamentally challenges the way medical institutions make money.
+
+Though the Affordable Care Act is nudging medical-care providers to adopt a financial strategy that supports value-based care, they are still largely dependent on charging patients large sums of money for addressing health problems as they arise. Changing that structure to reward doctors for keeping patients healthy is a gargantuan undertaking and poses questions about how medical institutions will make money from outpatient care. For instance, how do you charge a client who’s being remotely monitored? Do you charge for text-message check ins?
+
+Making this change will also require some behavioral training. Rather than reacting to symptoms, doctors will have to be more forward thinking about treatment plans.
+
+“Right now we wait and watch and we need to get out of that mode,” says Dr. Ward. In order to get on board with predictive medicine, doctors will have to get used to a different pace and process of handling incoming data.
+
+Another bump on the road to predictive-care ubiquity is that most electronic health records (EHR) are proprietary and don’t play well with competing networks. That’s made it nearly impossible for hospitals to exchange patient records. It’s also the main reason why a third-party platform like AirStrip could play a crucial role in connecting all these systems — if electronic record companies are willing to cooperate. But in reality, AirStrip may have just as much difficulty in getting EHR companies to operate with its platform.
+
+The University of Michigan study has just reached its halfway point; there’s still another year to go. Still, Dr. Ward is hopeful that his team will have a finished product in the next two years.
+
+“We’re going to do everything we can to get something that is usable, of value, and scalable as quickly as possible. That’s our stretch goal.”
+
+Correction January 12: The name of AirStrip’s CEO is Alan Portela, not Portella.

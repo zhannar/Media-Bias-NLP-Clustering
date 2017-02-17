@@ -1,0 +1,35 @@
+The story that was rarely told in the Healthcare.gov debacle?
+
+The federal government’s health exchange was initially intended as a “front door” to private sector innovation. As Aneesh Chopra, the White House’s former chief technology officer, put it in a guest post for VentureBeat, “The real story, likely to play out over the coming months, will be its rise as a new platform for innovation – one that will lead to the creation of new private sector services to improve our nation’s health.”
+
+Nearly six months after Healthcare.gov’s disastrous launch, the new commercial exchanges are just beginning to emerge. GetInsured, a startup that has been around since 2005, claims to have developed the first real online alternative to Healthcare.gov.
+
+GetInsured’s new site lets consumers shop for insurance before being redirected to Healthcare.gov to check their eligibility for a subsidy. Consumers are then directed back to GetInsured to purchase a plan.
+
+MORE: We’re now entering the post-HealthCare.gov phase of Obamacare
+
+The site integrates with the Centers for Medicaid and Medicare (CMS) and currently serves patients in 36 states.
+
+Krzysztof Kujawa, GetInsured’s vice president of product management, expects some of the state-run exchanges to open up their API to commercial players in the coming months. GetInsured plans to integrate with these exchanges to reach people in states that don’t rely on Healthcare.gov.
+
+“We see this as a first step in a much longer relationship where commercial players can interact with the government-run health exchanges,” said Kujawa in an interview.
+
+Similarly to the government alternatives, for people who don’t have access to the Internet, GetInsured can complete the enrollment process by phone.
+
+What are the advantages for patients over the government exchanges?
+
+GetInsured claims that it can enroll patients in about 10 minutes, which is a darn sight faster than the federal and some of the state-run alternatives. In addition, the company has developed tools that make it easier for people to select the optimal plan. GetInsured offers a tax credit estimator to estimate eligibility for government assistance in purchasing insurance coverage. The GetInsured Plan Score (GPS) helps customers easily compare health plans based on what’s important to them, such as monthly premium amount and estimated out-of-pocket expenses.
+
+However, Kujawa admits that the site needs plenty of design work, as the team is primarily focused right now on making the experience much simpler.
+
+“There are people who get stuck and need to pick up the phone,” he said. “This is just the beginning, and it will get better in the next six to nine months.”
+
+GetInsured wouldn’t disclose its revenues, but the company has significantly benefited from the Affordable Care Act. Kujawa said the company has grown “two or three times” in the previous fiscal year.
+
+The company developed software for California’s state exchange, as well as for New Mexico’s and more recently Idaho’s. Earlier this month, Your Health Idaho announced it would work with Accenture and GetInsured to create the technology site, day-to-day project management, and risk mitigation services.
+
+Despite the earlier hiccups, Kujawa is confident that the government is steadily improving its technology infrastructure. Kujawa said the team is working closely with CMS and the White House’s technology team.
+
+“They are beginning to be more realistic about what they can accomplish, he said. “They’ve learned their lesson.”
+
+Facebook Get more stories like this on Twitter

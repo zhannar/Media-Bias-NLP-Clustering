@@ -1,0 +1,53 @@
+Future Stack 15 was an outstanding event with plenty for everyone, including mimosas for breakfast if you could stomach it.
+
+Last week I attended Future Stack ’15, New Relic’s annual customer shindig. It was an unusual affair by my standards. Long on demos and technical sessions, short on marketing BS but with enough of a twist here and there to make anyone smile. If you don’t know who New Relic is then you should do. They are part of the burgeoning Application Monitoring segment in technical IT that is essential for the successful transition to new models of computing.
+
+CEO Lew Cirne’s first day keynote had the right balance between announcement, demo and storytelling to make for a convincing opener. Making the case for analytics, he argued that:
+
+We think that all the data needs to be in a platform and the only way to do this is in the cloud…Because [monitoring] is an enormous data problem…The data from monitoring your app dwarfs the data inside the app. Some have tried to solve it in arcane ways. Single tenancy is catastrophically expensive because it’s like buying a 747 simply because you cross the country three times a year.
+
+As has become my standard operating method, I wanted to meet with customers. I was not disappointed. Whether speaking with David Kent, senior director enterprise architecture at US Foods, Danielle Hewitt, director IT at Ontegrity or Kevin Klein, VP engineering BloomThat, the message was consistent: New Relic is solving problems in ways that customers appreciate. That’s always a good sign. (more on these in a following story)
+
+But to hear from Paul Cheesbrough, CTO News Corp who I know from his time at The Telegraph was eye opening. I didn’t for instance know that News Corp has 4,000 developers or that Rupert Murdoch takes a keen interest in how technology is applied across his sprawling media empire. I also learned that News Corp has moved 75% of its server estate over to Amazon Web Services. the reason?
+
+Although there is a cost advantage to us, speed is much more important in media.
+
+Then there was Sean O’Neil’s humor laden presentation around how Healthcare.gov was rescued from the jaws of disaster. According to O’Neil, everything that could have gone wrong went wrong and at the same time. The list of problems were all familiar to this crowd. Check this list:
+
+Processes, missing: change, incident, problem, config, release, job, control
+
+Automation and monitoring missing
+
+Load testing inadequate
+
+Unclear lines of responsibility
+
+A high profile customer with high expectations
+
+Technology change approval process complex and bureaucratic
+
+Functional requirements changed at the last minute
+
+Hundreds of serious defects known at launch
+
+‘Reference architecture’ overly and unnecessarily complex
+
+COTS software used inappropriately.
+
+My favorite quote from O’Neil’s presentation:
+
+The only monitoring being done was on CNN
+
+Ouch! The solution was remarkably straightforward. Move to a modern architecture, dump legacy COTS that were not performant, use open source wherever possible, monitor: (check this illustration)
+
+O’Neil believes the lessons learned from the healthcare.gov situation has served to inform a fresh approach to US government digital delivery that focuses on a changed culture, change in technology and oversight of agency budgets. I look forward to hearing how that’s working out in a year’s time but it was clear to me that there is vigor and enthusiasm which is rare to see.
+
+Where does Woz fit in? Steve Wozniak, the inventor of the Apple I and II computers was brought on stage as the ‘original data nerd,’ to share some of his anecdotes. Well known as a genial figure, Woz was asked to retread some of the recent historical reruns around the early days of Apple and the whole Steve Jobs ‘thing.’ It’s fun stuff for a Silicon Valley crowd. But for me, his discussion about becoming a volunteer teacher for eight years and his love of open systems rather than the commercially preferred closed options is impressive. It was a real treat which the packed crowd certainly appreciated, giving him a standing ovation.
+
+Mimosas? That was something entirely new. On the morning of the second day and after a late night at the Filmore, New Relic was serving up Bloody Marys and Mimosas before the second set of keynotes. I chose not to partake (honest guv) but I can absolutely see that as a trend for the future and one that puts the Jaegermeister laden SAP hacker events into the shade.
+
+In between, there was much to enjoy and I especially warmed to the forthright words of Camille Fournier, former CTO Rent The Runway who talked in clear terms about the need to retain discipline in modern development. It was unusual in the sense that there is so much pressure to get to first base with new technology that you sometimes get the feeling that testing, monitoring and documentation are sacrificed in favor of minimal viable product. That cannot continue. Hear, hear.
+
+As I said at the top of this story, Future Stack 15 was, for me, an unusual event. I had not expected the crowd to warm to the marketing messaging and yet, New Relic delivers those messages with convincing real world examples and demos. In the halls, there was much talk and excitement around the new analytics work the company is doing and a clear understanding that while anyone can start small (at $150/month), New Relic has something for any development shop, regardless of size. So while some of the messaging was clearly aimed at the large enterprise, New Relic has set out a model that allows it to reach any constituency of developers. That’s rare.
+
+Disclosure: New Relic covered most of my travel and expense for attending Future Stack.

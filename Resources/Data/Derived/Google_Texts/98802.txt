@@ -1,0 +1,131 @@
+ObamaCare Exchanges: Just Because You Are Eligible For a Subsidy Doesn't Mean You Will Qualify for One by David Hogberg, Ph.D., and Sean Parnell
+
+
+
+
+
+Executive Summary
+
+The ObamaCare exchanges are supposed to subsidize the health insurance of everyone earning between 138 percent ($15,856 for an individual) and 400 percent ($45,960) of the federal poverty level (FPL) in a state that has expanded Medicaid and 100 percent ($11,490) and 400 percent FPL in a state than has not expanded Medicaid. However, an examination of the 15 exchanges that have released age-specific data on their insurance prices shows that many in those income ranges will not receive a subsidy.
+
+Because of the way the subsidies are calculated, younger people will be less likely to receive an exchange subsidy. Most single people without children aged 18-34 will not receive a subsidy if their income exceeds 300 percent FPL ($34,470). However, most people age 51-64 will receive a subsidy up to 400 percent FPL.
+
+If the average incomes at which subsidies end in the 15 exchanges examined in this study are extended to the nation as a whole, then over 1.1 million of those age 18-34 who are single, do not have children and have incomes below 400 percent FPL will receive no exchange subsidies. These people will pay full price for insurance on the exchange, making it far more attractive to forgo buying coverage. With a subsidy structure that makes insurance less attractive to the young and healthy but quite attractive to those who are older and sicker, the ObamaCare exchanges are likely headed for an insurance "death spiral."
+
+
+
+
+
+Introduction
+
+Starting October 1, 2013, ObamaCare's most significant element is scheduled to begin operation. This is when individuals, in most states, will be able to go online to purchase an individual health insurance policy that goes into effect on January 1, 2014.
+
+Known as exchanges, the online sites will allow would-be-purchasers of health insurance to compare different plans according to price. Insurance plans on the exchanges will be listed as either bronze, silver, gold, or platinum, depending on how much of a person's medical expenses they cover. Platinum plans will cover the most and, hence, will be the most expensive plans. On the other end, bronze plans cover the least and will be the cheapest. 1
+
+Preston "Mark" Cohen is a Chicago, Illinois resident considering buying insurance on an exchange. At age 27 he is single, has no children, and currently works in a distillery and tends bar. He is presently uninsured, as neither of his employers offer insurance and he has not purchased it on the individual market.
+
+"I don't feel that health insurance is something that I have been able to financially sustain," Mark said. "Working in the service industry, sometimes you can lose a job at a moment's notice without any good reason."
+
+Then there are his monthly expenses.
+
+"My rent is a little more than $700 a month," said Mark. "My phone bill is another $100, student loans are another $200, plus feeding myself, and as a young person in the city I like to go out."
+
+He is also in excellent health and thus has not felt much need for health insurance. What's getting him to consider insurance is the individual mandate, which requires people to pay a fine if they do not get coverage. For Mark, that fine could be as high as $350 in 2014. 2
+
+Whether Mark buys insurance on the exchange, though, will depend on how much he would pay in premiums.
+
+"I think where I would tap out is about $100 to $125 a month," he said. "That seems reasonable. Beyond that, it seems too much for something I only need right now for something catastrophic."
+
+It would also depend on whether he received a subsidy from the exchange and the size of that subsidy. Suppose the full cost (prior to a subsidy) of his insurance premium was $150 a month. If Mark received a $30-a-month subsidy to contribute toward that premium he isn't sure he'd get the insurance.
+
+But if his subsidy was $60 a month? "That would make me much more likely to get insurance," Mark said.
+
+At this point, how much insurance would cost Mark is not known since the state government of Illinois has not released data on insurance rates on its exchange. However, it is possible to know how likely it is Mark will qualify for a subsidy.
+
+A person who purchases insurance on an exchange will be eligible for a subsidy if his annual income is between 138 percent FPL ($15,856 for an individual) and 400 percent FPL ($45,960) and if he resides in a state that has expanded its Medicaid program. If he resides in a state that has not expanded its Medicaid program, he will be eligible for a subsidy if his income is between 100 percent FPL ($11,490) and 400 percent FPL.
+
+Mark's annual income is about $45,000. Since his income is just below 400 percent FPL, he is eligible for a subsidy. However, as we explain below, given the way subsidies are calculated on the exchanges, it is likely that Mark will receive no subsidy at all.
+
+Indeed, a crucial question for the success of the exchanges and ObamaCare overall is whether the subsidies will be sufficient to bring large numbers of younger and relatively healthy persons like Mark into the insurance market. Advocates for ObamaCare often dismiss this concern, stating their belief that the subsidies will be generous enough to ensure that the risk pool remains stable. Jonathan Cohn of the New Republic expresses views typical of this argument, writing, "The law's subsidies limit what most will pay for coverage, no matter how high the premiums go." 3
+
+That may be true, but it ignores an important question: Will the subsidies in fact extend all the way to 400 percent FPL? We examined that question by looking at the premium data of the exchanges in thirteen states and Washington, D.C. What we found was that in most states, the subsidies for young people (18-34) usually disappeared by 300 percent FPL ($34,470). However, for most people over the age of 51, the subsidies extend up to 400 percent FPL. This will likely create serious problems for the survival of the exchanges by drawing in a population skewed toward the older and sicker.
+
+
+
+
+
+Why The Subsidies Disappear
+
+In this study we examined the 15 exchanges that have released age-specific 4 premium data: California, Colorado, Connecticut, Georgia, Maine, Maryland, Minnesota, Montana, Nebraska, New Mexico, Oregon, Rhode Island, Virginia, Washington, and Washington, D.C. We then found in that data the second lowest-cost silver plan (on which the subsidies are based) for each "rating region" in each state. From that we created a "weighted average" premium for each state based on the population of each rating region. We then entered that data into an Excel file created to find the income amount at which a person at a given age would no longer qualify for an exchange subsidy.
+
+The reason that some people who have incomes below 400 percent FPL won't qualify for a subsidy is found in the formula used to calculate the subsidies. The formula is the price of the second lowest-cost silver plan on the exchange minus the "applicable percentage." Under ObamaCare, the applicable percentage is the percentage of your income that you must pay toward your insurance before you qualify for a premium subsidy on an exchange. The applicable percentage is based on a sliding scale, starting at two percent for those with incomes at 100 percent or 138 FPL and rising to 9.5 percent for those with incomes at 400 percent FPL. So, if the second lowest-cost silver plan is $2,439 and the dollar amount of an individual's applicable percentage is $1,439, he or she qualifies for a premium subsidy of $1,000. However, no premium subsidy is offered if the applicable percentage equals or exceeds the cost of the silver plan. Thus, if both the premium and dollar amount of the applicable percentage are $2,439, then the above individual does not qualify for a subsidy.
+
+That last example is not hypothetical, but is almost exactly the situation facing a single, childless individual in the age range of 21 to 24 in Virginia who is making 257 percent FPL or $29,537. Like D.C. and all states in our analysis, the income levels in Virginia at which subsidies disappear moves steadily upward as people age and premiums likewise rise. The reason for this is that the insurance premiums vary by age, while the applicable percentage does not. So, while the silver premium in Virginia for a 21-year-old is $2,439, for a 64-year-old it is three times as much, about $7,316. However, the dollar amount of the applicable percentage for both a 21-year-old and a 64-year-old making $29,537 is $2,349. As a result, the 21-year-old receives no subsidy on the Virginia exchange, while the 64-year-old receives one of $4,877.
+
+Of particular concern for the exchanges is the 18-to-34 age group, sometimes referred to as the "young invincibles." It is crucial that this group participate if the exchanges are to succeed. Unfortunately for the success of ObamaCare, they also have lowest incomes at which exchange subsidies disappear.
+
+For those age 18-20 in Virginia, the subsidies end at 206 percent FPL ($23,718). As Table 1 shows, that's a common pattern. In seven states and D.C., subsidies stop for an 18-to-20-year-old below 206 percent FPL. Thus, an 18-to-20-year-old making that amount would have to pay the full premium of whatever plan he chose on the exchange. (Note: the full results for each age and state can be found at http://www.nationalcenter.org/NPA653FullResults.pdf.
+
+
+
+
+
+A 34-year old in Virginia can earn up to 285 percent ($32,707) before her subsidy disappears. Indeed, that is another common pattern found in Table 1. In ten states and D.C., the income at which a 34-year-old is no longer eligible for a subsidy is below 300 percent FPL. They range from a high of 297 percent FPL ($34,154) in California to a low of 236 percent FPL ($27,132) in Minnesota. One other state, Washington, barely missed that category at 301 percent FPL ($34,553).
+
+The subsidy picture doesn't look much better for people a few years older. As Table 2 shows, with the exceptions of Connecticut and Maine, no 40-year-old will receive any subsidy with an income of $40,000, or 348 percent FPL, in any state or D.C. The range goes from a high of 329 percent FPL ($37,826) in Rhode Island to a low of 242 percent FPL ($27,792) in Minnesota.
+
+For those age 45, only Connecticut and Maine have subsidies for those earning up to the 400 percent FPL cut-off level. In D.C., Maryland, Minnesota and Oregon, subsidies still stop for a 45-year-old prior to 300 percent FPL. The state of Georgia is just outside that range at 301 percent FPL.
+
+
+
+
+
+Age Has Its Subsidies and a Death Spiral
+
+Further examination reveals that the subsidy structure becomes far more generous as an individual nears age 50. As Table 3 shows, in twelve states subsidies extend to the 400 percent cut-off level by no later than age 52. The exceptions are D.C., age 54, and Maryland, age 56, and Minnesota, age 59. In Connecticut, the subsidies extend to 400 percent FPL as early as age 40.
+
+This is a potentially very serious problem because it means that insurance on the exchange will be far more attractive to those who have high medical expenses. For example, a 2004 study found that, on average, about 80 percent of an individual's lifetime health care expenses occur after the age of 40. Not even 13 percent of those expenses occur between the ages of 20 to 40. 5 Although the study didn't include an 18-34 category, the percentage of lifetime health care expenses for that group would be even less. Nevertheless, the implications are clear for an "insurance pool." To be sustainable, a sufficient number of 18-to-34-year-olds are needed to help "cross-subsidize" the medical costs of those age 51-64.
+
+If the large numbers of young people needed to stabilize the risk pool don't sign up for insurance, premiums for those who do purchase insurance will climb. In a vicious circle that actuaries refer to as a "death spiral," the higher premiums encourage even more young and healthy people to drop insurance as premiums become less affordable, causing premiums to rise again the next time rates are set. This eventually leads to a rising number of uninsured while those who remain insured are only the sickest, with the highest health care costs. 6
+
+The subsidy structure of the exchanges looks like a prime catalyst for a death spiral. In no exchange will the subsidies for those 18-34 extend all the way to 400 percent FPL indeed, in most exchanges the subsidies will stop before 300 percent FPL for that age group. At the other end of the age range, everyone age 59 to 64  and in most states examined here everyone age 52 to 64  will be eligible for a subsidy at 400 percent FPL.
+
+To see this even more starkly, compare two individuals each making $35,000 annually, the first age 30 and the second age 60. For both, the dollar amount of their applicable percentage is $3,325. Yet as Table 4 shows, the results for the average subsidy in the 15 exchanges are quite different
+
+In only two of the 13 exchanges examined in this study would the 30-year-old receive a subsidy, while the 60-year-old does in every exchange. On average, the 60-year-old would receive a subsidy of $3,354. Ultimately, the subsidy structure means that most people in their 50s and 60s in the 100-400 percent FPL range will have their insurance subsidized. However, many 18-34-year-olds in that income range will pay full price for their insurance. That will increase their incentive to eschew insurance on the exchanges, with a death spiral the likely result.
+
+
+
+
+
+Discussion
+
+Finally, we applied nationally the average income at which subsidies disappeared in the 14 exchanges for those age 18-to-34 who are single and without children. Using Census Bureau data, we found about 1,185,881 in that age range who are under 400 percent FPL and are eligible for the exchanges will not qualify for an exchange subsidy. 7 Extending the analysis to those whose incomes exceed 400 percent FPL show about 1,961,990. That's out of a total of over 6 million 18-to-34-year-olds who are single, have no children and are likely eligible for the exchanges. In short, over 32 percent of that group could pay full price for insurance on the exchanges.
+
+In a previous study the National Center for Public Policy Research found that, despite both the subsidies and individual mandate, about 3.7 million 18-34-year-olds would save at least $500 by forgoing insurance and paying the fine. Of that group, about 3 million would save at least $1,000. 8
+
+This study not only finds well over 1 million 18-to-34-year-olds will not receive any subsidy, but also nearly all of the population that tends to be older and sicker and is eligible for subsidies will qualify for them.
+
+Combined, these two National Center studies provide compelling evidence that insurance on the exchanges will not be attractive to many who are young and healthy but will be considerably more attractive to the older and sicker. Any insurance scheme that produces this set of incentives is very likely to end up in a death spiral.
+
+One consequence of the problems we have identified in these two studies is that ObamaCare could cause younger people to have an even higher rate of being uninsured that they do now. The rate of coverage among those age 18-to-34 is lower than any other age group. 9 This nation needs policies that lead to a reduction of health insurance rates for people that age so they will be more likely to purchase insurance. Unfortunately, the exchanges in particular, and ObamaCare in general, move the cost of insurance in the wrong direction.
+
+David Hogberg, Ph. D., is senior fellow for health care policy at the National Center for Public Policy Research and Sean Parnell is president of Impact Policy Management, a public policy consulting firm.
+
+Footnotes:
+
+1 The exchanges will also offer a cheaper "Catastrophic Plan." However, it will be primarily available to those ages 18-29 and no subsidies will be available for them.
+
+2 The fine for 2014 is $95 or one percent of income, whichever is higher. The one percent applies to income after the standard deduction and personal exemption are deducted. Combined those total $10,000. Mark Cohen's annual income is about $45,000. His fine would be one percent of $35,000 ($45,000 minus $10,000), or $350.
+
+3 Jonathan Cohn, "Anatomy of a Bogus ObamaCare Argument," The New Republic, June 3, 2013, at http://www.newrepublic.com/node/113362 (June 10, 2013).
+
+4 "Age-specific" means that a state had to report its premiums in way that was linked to age, such as "The silver premium offered by Blue Cross for a male age 25 would be $1,000 a year." If that was done, we could calculate the premiums for everyone between the ages of 18 and 64. However, if a state did not link the premiums to an age but only released an "average premium," as was the case in New York, then the data could not be used in this study.
+
+5 Berhanu Alemayehu and Kenneth E. Warner, "The Lifetime Distribution of Health Care Costs," Health Services Research, June 2004, Vol. 39, No. 3.
+
+6 For more on insurance death spirals see Conrad F. Meier, "Destroying Insurance Markets in Eight States," Council for Affordable Health Insurance and the Heartland Institute, 2005; and Leigh Wachenheim and Hand Leida, "The Impact of Guaranteed Issue and Community Rating Reforms on Individual Markets," Milliman, August 2007.
+
+7 Census Bureau, Current Population Survey, March 2012 Supplement. These numbers includes both the uninsured and those who have insurance on the individual market.
+
+8 David Hogberg, "Why The 'Young Invincibles' Won't Participate In The ObamaCare Exchanges and Why It Matters," National Policy Analysis, National Center for Public Policy Research, August 2013, No. 652, at http://www.nationalcenter.org/NPA652.html (August 24, 2013).

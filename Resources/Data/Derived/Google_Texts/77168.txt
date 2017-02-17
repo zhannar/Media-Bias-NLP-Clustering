@@ -1,0 +1,15 @@
+AURORA, Colo., July 29 (UPI) -- A new tool could help doctors treat cancer patients by choosing the most effective combination of drugs by considering the genetic sensitivities of a tumor and the "spillover" benefits of drugs for a specific patient's cancer.
+
+Tyrosine kinase inhibitors block proteins that help mutated genes in cancerous cells. The drugs often affect other proteins, which is called "drug spillover."
+
+Using the Genomics of Drug Sensitivity in Cancer database, the Kinase Addiction Ranker is shown in a study published in Bioinformatics to predict the genetic motivators powering cells in a tumor and select a kinase inhibitor to block them.
+
+"A lot of these kinase inhibitors inhibit a lot more than what they're supposed to inhibit. Maybe drug A was designed to inhibit kinase B, but it also inhibits kinase C and D as well. Our approach centers on exploiting the promiscuity of these drugs, the 'drug spillover'," said Dr. Aik Choon Tan, an associate professor of Bioinformatics at the University of Colorado School of Medicine, in a press release.
+
+In the study, researchers worked with 151 leukemia patients and 21 cancer cell lines, the information for which were fed into the KAR. The tool ranks the kinases most important to the growth of the cancer and then offers combinations of existing drugs that would be most effective at blocking those kinases.
+
+The suggestions from the tool were shown to predict the correct outcomes from the leukemia patients' treatment, and its suggestions for the cancer cell lines matched the results of experiments in the lab.
+
+"For example, we know that the disease Chronic Myeloid Leukemia is driven by the fusion gene bcr-abl and we can treat this with the tyrosine kinase inhibitor imatinib, which targets this abnormality, Tan said. "But for many other cancers, the genetic cause and best treatments are less distinct. The KAR tool clarifies the drug or combination of drugs that best targets the specific genetic abnormalities driving a patient's cancer."
+
+The Kinase Addiction Ranker is available for download as a Python function or MATLAB script at the Tan Laboratory's website.

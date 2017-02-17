@@ -1,0 +1,37 @@
+As the world becomes ever more digital, it is a great time to be in the cybersecurity business with everything from our cars to our most critical infrastructure being controlled by computers and therefore at risk of attack.
+
+However it is not such a great time to be in the cybersecurity industry when it is your software that is shown to be vulnerable and open to exploit -- which is exactly what has happened to Kaspersky Lab and FireEye, two of the best known cybersecurity companies in the world.
+
+Tavis Ormandy, a security researcher at Google, made public the fact he had cracked Kaspersky’s anti-virus product before revealing the details to the Russian company. Ormandy has been criticized within the cybersecurity industry for his practice of disclosing vulnerabilities publicly rather than informing the company first and giving them time to fix the flaw.
+
+Photo: Reuters/Pawel Kopczynski
+
+Photo: (Twitter)
+
+Ormandy, who has previously cracked anti-virus software from Sophos and ESET, called this flaw “a remote, zero interaction SYSTEM exploit, in default config. So, about as bad as it gets.” However, according to the researcher himself, Kaspersky Lab has already begun to roll out a patch for the flaw to its users around the world.
+
+Continue Reading Below
+
+Kaspersky Lab is one of the best known cybersecurity companies in the world, founded by Eugene Kaspersky back in 1997. It has been responsible for uncovering some of the most high-profile cyberespionage campaigns in recent years, including Flame as well as revealing the operation of the highly-sophisticated Equation Team earlier this year. In August, Kaspersky Lab denied claims from two former employees that it seeded fake malware signatures to competitors’ anti-virus products so they would label benign files as malicious.
+
+FireEye
+
+Of potentially more concern are the FireEye vulnerabilities, which were revealed by Kristian Erik Hermansen on Twitter. Los Angeles-based researcher Hermansen claims he has discovered at least four flaws within FireEye’s core security product -- revealing details of one and offering the other three for sale to the highest bidder.
+
+Hermansen posted details of how to trigger the remote file disclosure vulnerability as well as details of a file that is used to keep track of every registered user that has access to a particular system.
+
+FireEye, a well known security company, has been called in to help investigate major cybersecurity breaches in recent times, including attacks on JPMorgan Chase & Co., Anthem Inc, Target Corporation and Sony Corp.
+
+The one vulnerability that Hermansen did disclose was one that he has been “sitting on for more than 18 months with no fix from those security “experts” at FireEye.” He added that he was “pretty sure Mendicant staff coded this and other bugs into the products,” referring to the security company that FireEye bought at the end of 2013 for $1 billion in stock and cash.
+
+Trust
+
+The vulnerability allows those exploiting it to gain remote access to files while the three other exploits Hermansen claims to have discovered would allow users to bypass logins, along with two command injection vulnerabilities one of which is unauthorized and one authorized.
+
+Hermansen published details about the remote file disclosure vulnerability on Pastebin and Exploit-DB saying: “FireEye appliance, unauthorised remote root file system access. Oh cool, web server runs as root! Now that’s excellent security from a security vendor :) Why would you trust these people to have this device on your network?”
+
+There is no indication if Hermansen has sold the three other vulnerabilities yet, having posted his ad on Twitter on Sept. 2 though at least one person responded saying they are interested in acquiring one of the vulnerabilities.
+
+FireEye told International Business Times in an email that it had "learned of four potential security issues in our products from Kristian Hermansen’s public disclosure of them being available for purchase." The company added that while it appreciates the efforts of security researchers in pointing out security flaws, it has a "documented policy for researchers to responsibly disclose and inform us of potential security issue" and encourages "responsible disclosure."
+
+Hermann most recently came to prominence when he posted a video on YouTube revealing a vulnerability in the Obamacare website "Covered California," which allowed him to take over another person’s account and change their information. After a month of not getting a response from the website, Hermann decided the only way to get its attention was to publish the video, which was quickly removed from YouTube after complaints by the healthcare provider.

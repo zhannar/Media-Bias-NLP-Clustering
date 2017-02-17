@@ -1,0 +1,19 @@
+A significant amount of information is being generated in healthcare these days, as part of its transition to a technology-driven industry. All that material—electronic health records (EHRs), test results, emails, private communications, and research—needs to be stored safely and securely, and many organizations are turning to data centers to deliver.
+
+“Hospitals first started out with a few computers, and then they started centralizing that into a room somewhere in the basement of the hospital,” says James Coe, senior vice president and director of critical facilities at Syska Hennessy Group (New York). “That room started overheating or ran out of space or power, so they had to make the room bigger or dedicated to data.”
+
+Today, healthcare providers are considering a host of options to serve as the next generation of data storage, including new or renovated facilities located on or off campuses, outsourcing to third-party operators, and cloud services. Forty-three percent of architecture, engineering, and construction firms that responded to Healthcare Design’s 2014 Corporate Rankings Survey reported working on data center projects in 2013, up from 37 percent in 2012.
+
+As owners focus on compliance with changing regulations, such as HIPAA’s meaningful use requirement, which incentivizes providers to implement EHR technology to improve patient care while maintaining privacy and security of that information, and as the Affordable Care Act brings more patients into the system and further increases the volume of EHRs and other information, these projects are expected to remain prevalent for some time.
+
+Making the right choice
+
+Industry professionals say the first step in choosing an appropriate storage option is measuring a facility’s or system’s current and projected critical load, or how much power computers, servers, and networking equipment are drawing. Organizations also need to identify their budget and how quickly they need to deploy a solution.
+
+According to a report from DPR Construction, “The Convergence of Healthcare and IT,” mechanical and electrical systems account for more than two-thirds of a data center’s cost, so space is typically measured in terms of kilowatts (kW) of power available for computing equipment. A large healthcare organization might need a data center with the capacity to handle more than 5,000 kW, while a midsize provider might have a need between 1,000 to 4,000 kW.
+
+In addition to size capacity, certain data center options are faster to bring to market (such as cloud storage and collocation within an existing data center), while others might take a few months to more than a year (wholesale leasing of substantial data storage and processing capacity from a developer/provider and new construction).
+
+Organizations that want tight control of their data and servers might look at owning as the only option. This requires a substantial financial investment for construction as well as ongoing operations and maintenance, including staffing, utility fees, and the need to update or refresh computer and server equipment and applications on an average of every three to four years.
+
+On the flip side, owning means providers control who can access the building and when maintenance and upgrades are performed. “There are a lot of issues that can come from other people in your building who have access to your equipment,” says Mark Thompson, who oversees the advanced technology market for DPR Construction (Redwood City, Calif.). “It’s not just your computer equipment but the infrastructure. You can be exposed to data center outages when you had no idea someone was in there working on the switchgear.”

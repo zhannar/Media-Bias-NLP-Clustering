@@ -1,0 +1,19 @@
+What were they thinking? As CEO of text analytics firm Luminoso Technologies Inc., Catherine Havasi spends most of her time answering that question for business clients. Last week Luminoso took a stab at understanding the dialog coming out of Washington D.C.
+
+Luminoso offers a dashboard and API that businesses can use to understand comments in context, to pull out the key concepts and make sense of what people are saying. "It takes into account what people are thinking and lets people dig in to make sense of the text in that way," she says.
+
+So what can that tool tell us about Washington politicians and the current budget impass? Havasi's team took up the challenge and threw the text of Republican Sen. Ted Cruz's 21-hour diatribe into the analytic meatgrinder. Here's what came out.
+
+Luminoso calls this a "concept cloud," with procedural words in green at the top, health insurance concepts below and on the left, and political concepts in the center and right side. The text also included comments and questions by other lawmakers in the Senate who spoke during the course of Sen. Cruz's filibuster.
+
+There are some predictable results that appear in the concept cloud. For example, Republicans were ten times more likely to refer to "ObamaCare," and usually associated it with terms such as "train wreck," "nightmare" and "socialized medicine," while Democrats preferred "Affordable Care Act," and associated it with "preexisting conditions," "benefits," "Medicaid," and "government shutdown."
+
+But the language also conveys something more subtle.
+
+Havasi has analyzed political speech before. Traditionally, she says, Republicans as a group have tended to focus on a few key concepts and hammer on those over and over again. "With Republicans there's great unity, whereas on the Democratic side people are all over the place," she says.
+
+But that unity appears to be fracturing. In the case of Cruz's speech, Democrats and Republicans were being "tarred with the same brush," says analytics engineer Alice Kaanta. While he may have used different words, Cruz spoke of each party in the same way, talking about Democrats as "irresponsible" and Republicans as "careless," for example. He also lumped both parties together, talking about what both Republicans and Democrats needed to do. In Cruz' speech, "Democrat" and "Republican" concepts had an 87% overlap and were in fact so interrelated that "we had to mathematically separate the two concepts to get a clean analysis of the difference between the two parties," Kaanta says.
+
+"Democrats and Republicans tracked very closely throughout Sen. Cruz's speech, which suggests that they were mentioned together, and in a similar manner, consistently throughout the speech. Also, the recital of 'Green Eggs and Ham' coincided with a drop in every other topic of discussion." --Kaanta
+
+So what does this all mean to those of us who are not experts in text analytics? "The fact that Sen. Cruz mentioned Democrats and Republicans in the same breath so consistently was in fact an indicator of party divisions and polarization," Kaanta says.

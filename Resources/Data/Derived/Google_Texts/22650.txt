@@ -1,0 +1,59 @@
+Hackers could be raiding your computer right now. But how can you stop them if you don’t know they’re inside?
+
+This is one of the key questions facing private companies and government agencies as hackers evade detection in computer systems around the world.
+
+ADVERTISEMENT
+
+Cyber criminals can easily avoid discovery for weeks or months while harvesting valuable data from a compromised computer network.
+
+The task of finding — let alone expelling — unauthorized users is a major challenge that often catches companies off guard.
+
+“Ninety-nine percent of the time when we’re deployed into a network, we find something bad that is already taking place,” said Jasper Graham, a former technical director with the National Security Agency who is now a senior vice president at the cybersecurity software firm Darktrace.
+
+“Once, we got deployed into a bank [as a preventive measure]. Within about a week, after all our models were built, we noticed some really strange behavior happening on their servers,” he recalled. “It turns out that there was a whole bitcoin operation being run out of the bank.”
+
+The cybersecurity consulting world is replete with similar stories, underscoring the ease with which hackers can break into corporate networks and hide there.
+
+Often, companies do not realize they have been hacked until they receive an alert from the FBI, private researchers or even the hackers themselves.
+
+In 2013, hackers went unnoticed in Target’s network for several weeks and stole 40 million credit card numbers despite reported warnings from anti-hacking software.
+
+Last year, a data breach at JPMorgan that affected 76 million households went unnoticed for two months before the company realized it was hit.
+
+The hack of Sony Pictures provides the clearest example: According to reports, it is possible the studio’s networks were compromised for more than a year before hackers revealed their presence on Nov. 24.
+
+With typical flourish, the intruders flashed a disturbing image on Sony employees’ computer screens, one of the first signs there had been a break-in.
+
+Ben Johnson, chief security strategist with cyber firm Bit9 + Carbon Black, said the problem lies partially in understaffed and overwhelmed IT departments around the country.
+
+“Even advanced IT teams still have humans investigating upwards of 30 or 50 alerts a day, and that is after they’ve weeded out millions of other potentially harmful events through automated means,” he said.
+
+“Threat hunting, risk hunting, is so rare because teams are just swamped.”
+
+Security researcher and consultant Matthew Harmon agreed, estimating that a big company might generate hundreds of thousands if not millions of pages of system logs for administrators to weed through on a regular basis.
+
+“We are grossly outmanned and grossly underfunded,” said Harmon, a principal consultant with IT Risk Limited. “The job of defenders is far more difficult than the job of attackers.”
+
+Companies are beginning to wise up to the threat posed by cyber criminals as hacks litter the headlines.
+
+But the recent spate of attacks exposes the rudimentary nature of the cybersecurity systems that many firms currently use as protection.
+
+Most involve scanning for known pieces of malicious code, the so-called signature-based approach by which software blocks known viruses.
+
+The problem is, hacking evolves much more quickly than most software used to fight it.
+
+“We know now that [signature-based] systems are clearly ineffective,” said Tim Ryan, managing director with risk consulting firm Kroll — a former supervisory special agent with the FBI.
+
+“The virus writers deploy their software knowing full well that anything they deploy will be scanned by anti-virus programs. So they obscure the signature to make it look like it’s something else.”
+
+The problem arguably gets worse once a hacker is inside the network and can obtain valid user credentials to break in again and again disguised as company personnel.
+
+As a result, the image of a hacker as a thief crossing a fence vastly understates the problem, experts said.
+
+“Hackers are like burglars, but worse,” said Nicholas Oldham, a former federal prosecutor who now counsels cyber clients at King & Spalding.
+
+“They put their gloves on, they put their dark clothes on, and they use their tools to get inside the network, but unlike traditional burglars they might be able to steal digital loot without anyone even knowing the loot is gone.”
+
+“People ask: Why didn’t the company catch the hackers sooner? But they often don’t appreciate that the person hacking is taking every defensive measure possible not to get caught. It’s sometimes amazing that companies are able to catch them as quickly as they do.”
+
+—This post was updated at 9:11 a.m.

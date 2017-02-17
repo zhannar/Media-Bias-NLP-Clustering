@@ -1,0 +1,41 @@
+Credit card payment security is a common source of concern for nearly any business as Target and Neiman-Marcus recently found out when suffering their own security breaches. Restaurants aren't immune to being victimized; Wendy's, for example, is investigating reports of "unusual activity" on payment cards that had been used at some of its restaurants Jan. 27.
+
+"Wendy’s is currently investigating reports of unusual activity involving payment cards at some restaurant locations," said Bob Bertini, spokesperson for Wendy's, which has more than 6,500 franchised and company-owned restaurants worldwide. "Reports indicate fraudulent charges may have occurred elsewhere after payment cards were legitimately used at some restaurants."
+
+Bertini said the chain has been working with its payment-industry contacts since learning of these reports and has launched a comprehensive investigation with the help of cybersecurity experts to gather facts.
+
+"We also are fully cooperating with law enforcement authorities. Until this investigation is completed, it is difficult to determine with certainty the nature or scope of any potential incident," Bertini said. "As always, in line with prudent personal financial management, we encourage our customers to be diligent in watching for unauthorized charges on their payment cards. Generally, individuals that report unauthorized charges in a timely manner, to the bank that issued their card, are not responsible for those charges."
+
+Bertini declined further comment.
+
+Since Wendy's is just one of many restaurants that face such issues, QSRWeb turned to James Wester, research director, Worldwide Payment Strategies, for IDC Financial Insights, and Jeremy Gumbley, a veteran in payments and security technology and CTO and CSO of Creditcall, for insight on credit card payment security.
+
+QSR: How could Wendy's have prevented this? How could other merchants have prevented data breaches?
+
+Wester: At this point, what Wendy's could have done depends upon how the breach was perpetrated. My understanding of the situation is that Wendy's is still investigating that. The main things that merchants can do are tokenization, end-to-end encryption and implementing EMV at the point of sale. Tokenization protects card data "at rest," meaning data stored in databases. It replaces account data with proxy data that doesn’t connect back to the actual account. That way, if bad actors get into a database, there’s nothing they can do with the data it contains. End-to-end encryption protects data in transit by making it impossible for the bad guys to intercept and use any card data being sent and received from the POS. And EMV protects against fraudulent cards being used—that’s what prevents data stolen somewhere else from being used as a cloned card.
+
+QSR: What solutions are available for Wendy's and other restaurants to use to prevent such breaches?
+
+Wester: For merchants, their first line of defense is their payment providers, the companies that offer access to electronic transactions. Those companies all provide the services that protect merchants from data breaches, including tokenization, encryption and EMV migration. But there is a cost to security and merchants have to balance that cost with the benefit. That might sound odd, after all, who wouldn't want to be protected? But there’s a balance between security and access to data. Data can be so protected that it's virtually impossible to access, or so open that it's completely vulnerable to theft. Striking a balance between those competing interests, as well as the cost vs. the benefit, are what all merchants are looking at these days.
+
+QSR: Do you believe we'll see more such breaches at restaurants?
+
+Wester: I do think we've reached the point where the cost to protect data, as well as the technologies employed to transact payments, are changing towards more and better security. That will mean fewer breaches over time. We're not there yet, but a great example is consumers using new payment mechanisms, specifically mobile devices with biometric signatures. That's much better, from a security standpoint, than static data sitting on plastic cards or in unencrypted databases?
+
+Gumbley: No one wants to be the next Target. It's too soon to tell what the scope of damage will be for Wendy's, but with Target, the data breach impacted its bottom line, stock price and consumer perception.
+
+Wendy's data breach offers lessons for large and small retailers alike — again, hinged on the need for a multi-pronged payments security. EMV is a great first step, but it alone cannot prevent a data breach. P2PE is a fantastic complement, and for optimum comprehensive security, tokenization is an essential part of the mix. (P2PE is an acronym for Point to Point Encryption. It stands for the invisible encryption process that takes place between the payment terminal, processor, database and merchant.)
+
+Retailers often don't care about the technical nuances. They want their payment technology to work — and be secure. The silver lining with the Wendy's breach is that it reminds the industry that there are still too many loop holes and we need to move faster to more secure technology such as EMV and P2PE.
+
+QSR: What makes the risk of arrest worth committing this crime to those who do so?
+
+Wester: As for why would bad guys do this? Because the risk of arrest, at least for the ones who do the actual hacking, is pretty low with the reward being a few bucks for each account stolen (depending upon the actual data they have). Multiply that times hundreds of thousands of hacked accounts — or even millions — and you can see why bad guys might be attracted to hacking payment data.
+
+Gumbley: Why go to jail for stealing card data for 4,000 cards when you can steal the data of 40 million? Fame. Yes, financial incentives abound, but in underground hacker forums, compromising the card data of a major brand like Wendy's gives you plenty of bragging rights. Cyberhackers are intrigued by the challenge of a hack and how they can monetize breaches. This is why well-known brands and large companies are popular targets, even though smaller merchants are often easier to hack.
+
+QSR: Is mobile / NFC / CNP / Apple Pay more secure than chip cards?
+
+Gumbley: The only way that mobile, NFC, Android Pay, Apple Pay and the mobile brigade will have a tangible dent in card fraud prevention is if everybody starts to use it. These are two very different ends of the spectrum in payment technologies with different merit when it comes to data security.
+
+Consider first the adoption rate of NFC. Do banks really want to send everyone an Android or Apple phone to rely on Android Pay or Apple Pay, or a chip card that is far cheaper to manufacture? The adoption for the Apple, Android, Samsung Pay options are currently relatively small. Given the volume of EMV terminals supporting chip cards out there globally, and increasingly being installed in the US, it's unlikely we'll move solely to NFC for a very long time. Most of the modern payment tools and devices are built on the EMV chip card framework.

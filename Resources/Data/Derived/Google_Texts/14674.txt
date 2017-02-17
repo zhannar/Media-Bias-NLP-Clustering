@@ -1,0 +1,25 @@
+Nutrients are broken down efficiently thanks to the newly discovered switch that tells the cell to burn sugars instead of fats.
+
+Science is one step closer to figuring out how cells process the breakdown of glucose (sugar) and fat. Researchers from the Centro Nacional de Investigaciones Cardiovasculares (CNIC) have outlined the signals and molecules that are activated during fat to sugar digestion, which are necessary at certain times to guarantee efficient use of nutrients.
+
+The study, which was published in Cell Metabolism, describes the process that cells go through in order to optimize and regulate their ability to use sugars and fats as food sources, and how different factors can affect the cells. Some cells prefer sugars over fats, while others can switch from one nutrient to another. Researchers knew why cells changed how they broke down nutrients, but now they finally know what and how the nutrient's sugar and fat are broken down, thanks to one key trigger.
+
+“The real digestion of foods takes place in all the cells of the body,” said lead Dr. José Antonio Enríquez, the study’s lead author.
+
+The cells have their own system with rules that allow them to capture certain nutrient molecules and transport them to a place where they’ll be ideally used, and if there’s a surplus of nutrients, cells can choose to discard undesirable molecules.
+
+Nutrients are attracted to the mitochondria, known as the powerhouse of the cell. This specialized organelle triggers nutrients to release the energy held in their chemical bonds. Sugars and fat are both burned in the mitochondria, but since certain cells are inclined to burn one or the other as their main fuel source, the cells adjust themselves.
+
+"This adjustment can be likened to refitting your boiler to burn natural gas or butane,” Enríquez said.
+
+The amount of nutrients that are made available to cells depends on a person’s diet, exercise, activation of the immune system in the case of sickness, and also fasting periods. Cells must adapt themselves to these changes in order to use the nutrients given to them as efficiently as possible. For example, if the body is fighting off an infection, the immune system is working hard and, even if cells are receiving the same type and amount of nutrients, the cells will adjust themselves to burn more sugar and use less fat.
+
+Mitochondria’s adjustment to certain factors is called the electron transport chain (ETC). Previously, researchers didn’t know how the cells would adjust to certain signals, but they've recently discovered an additional gas that mitochondria uses to burn sugars and fats aside from oxygen, water, and carbon dioxide. The relative oxygen species (ROS) and hydrogen peroxide (H2O2) is produced.
+
+"The ETC was known to adapt, but the signals that promote this change and the molecules responsible for it were not known," Enriquez said.
+
+When H2O2 is produced, it activates a sensor called Fgr-tyrosine kinase (Fgr), which tells the ETC that it isn’t burning fatty acids arriving in the mitochondria efficiently. The cell adjusts itself and begins to optimize burning fatty acids. Fgr is the key mechanism that researchers can now recognize as the trigger cells use to breakdown fats from sugars.
+
+The research team believes there is another molecule that is used to act as an alarm to tell ETC to switch back to burning fats to sugars, just like Fgr does for the reverse.
+
+Source: Enriquez JA, Acín-Pérez R, Carrascoso I, et al. ROS-Triggered Phosphorylation of Complex II by Fgr Kinase Regulates Cellular Adaptation to Fuel Use. Cell Metabolism. 2014.

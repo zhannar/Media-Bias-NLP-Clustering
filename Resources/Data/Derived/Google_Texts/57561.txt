@@ -1,0 +1,21 @@
+As the American public becomes more mobile, it’s becoming increasingly impatient with medical providers that can’t keep up. A growing number of organizations are meeting the demand by offering patients the ability to make appointments or access their records through their mobile devices. But it’s now possible to also accept payments at the point of care with a mobile device by using phone add-ons like Square – a technology more and more physicians are considering.
+
+Square, one of the biggest players in this market, offers a white cube-shaped credit card reader that attaches to a mobile phone. Entrepreneur magazine explains that the platform also provides “An online dashboard [that] tracks detailed sales data and businesses can look at charts analyzing day-to-day, week-to-week or month-to-month performance.”
+
+[See also: Doctor extends good bedside manner to debt collection by starting Debt M.D.]
+
+The vendor charges a 2.75 percent swipe fee, but also tacks on 3.5 percent and a 15 cent transaction fee if you have to key in the credit card number manually. Other vendors that offer similar services include Intuit GoPayment and PayAnywhere.
+
+Traditional credit card readers require a merchant account with a bank, an expensive reader, setup and subscription fees, plus a fee for each transaction. A recent review in PCWorld pointed out that most mobile payment systems offer pay-as-you-go plans, as well as free apps and readers. The fixed percentage fee per transaction is higher, however.
+
+If your organization already has a reliable in-house credit card system and the vast majority of the fees you collect are done in the office or clinic, these mobile payment systems may not offer too many advantages. But that depends on the nature of your practice. If your point of care is in a patient’s home, for example, this approach can make sense. Drew Nash, MD, a pediatrician in California, who makes a lot of house calls, said in a testimonial that it meets his needs and he finds it’s easier than constantly taking cash and checks to the bank for deposit.
+
+But since the technology behind mobile payment devices is relatively new, many worry about security. “Smaller medical practices don’t necessarily have the proper security controls in place,” said Tatiana Melnik, JD, an Tampa, Fla., attorney with expertise in healthcare IT and data privacy. “When you are looking at financial data, there are a number of federal and state rules that you have to comply with.”
+
+While credit card theft can certainly occur using a traditional credit card terminal, Melnik’s concern about mobile payment apps centers around the fact that many mobile phones contain unsecured apps, and some of these apps may contain malware. If such a rogue app is inadvertently uploaded, it can get between a mobile payment reader and the phone itself, allowing hackers to steal financial data.
+
+In 2011, Visa released a list of best practices for companies that are developing mobile payment systems to help thwart such attacks, Melnik said. Visa recommended, for instance, that encryption be used in the card reader itself, not just the phone. Square addressed that concern in 2012 when it issued new reader cubes.
+
+Not everyone agrees that mobile payment systems are too risky. “For providers looking for more creative ways to accept payment, it’s absolutely a great decision,” said Jeff Hoffman, a senior partner with the advisory firm Kurt Salmon.
+
+One of the fastest growing segments of providers’ bad debt is uncollected co-payments, Hoffman said. These tools offer convenience at point of service, which may help increase this revenue stream. “The people who are complaining about data problems with a credit card swipe – it’s time they entered the 21th century ... I don’t think swiping your card at your doctor’s office has any more risk than buying something on Amazon.com.”

@@ -1,0 +1,33 @@
+Go figure. Just when you thought the Supreme Court's new lineup might turn it more consumer-friendly, the eight-member court went and blew a hole in one of the most promising new approaches to healthcare cost transparency.
+
+The issue in Gobeille vs. Liberty Mutual, which was decided Tuesday, was whether Vermont could require all payers for healthcare, including insurers and self-insuring employers, to report to a state-run database what they pay to every hospital or doctor for every claim. The court answered no.
+
+[Large insurers] often get better deals with providers, but ... don't tend to pass these savings to patients -- something they might not want the public or regulators to know. — Yevgeniy Feyman and Austin Frakt, on the consequences of the Supreme Court's Gobeille ruling
+
+Vermont's goal was to give planners and consumers a clearer idea of what every doctor and hospital charges for every procedure. This is a key to the nirvana of consumer-driven healthcare and to holding costs down, because those ends can't be met unless the actual costs are known. Information about what providers charge patients is the most closely guarded secret in the healthcare industry. Vermont was one of 18 states attempting to compile what's known as an all-payer claims database.
+
+The court's decision was not a conservative-liberal split, but 6 to 2, with liberal Justices Stephen Breyer and Elena Kagan joining the majority opinion written by Justice Anthony Kennedy. Ruth Bader Ginsburg and Sonia Sotomayor dissented.
+
+At the heart of the split was not ideology but the Employee Retirement Income Security Act of 1974, or ERISA, which governs retirement and health insurance benefits and involves perhaps the most far-reaching preemption of state law in the federal code. It's so broad, indeed, that the court has on occasion tried to place modest bounds on the preemption out of fear that otherwise "preemption would never run its course," as the court observed in a 1995 case. But not this time.
+
+ERISA long has been held to govern health insurance benefits offered by self-insuring employers, which cover 60% of all workers. The original plaintiff, Liberty Mutual Insurance Co., refused to comply with the Vermont rule because it self-insured its own workforce, numbering 60,000 employees in all 50 states.
+
+Other payers are still subject to Vermont's law and presumably those of the other states that have set up all-payer databases. But cutting out the self-insureds effectively makes those databases useless.
+
+"Instead of a vital resource for policymakers and researchers, all-payer claims databases are likely to become partial and misleading repositories of healthcare prices," writes Nicholas Bagley of the University of Michigan law school.
+
+The reason, according to an amicus brief from the American Hospital Assn. cited by Bagley, is that "different industries self-insure at different rates"-- 20% of employers in construction and agriculture self-insure, while 55% of retailers do. "To the extent that construction workers have different healthcare needs than retail workers, excluding self-insured claims from these databases will skew the picture painted of the population, by overcounting workers in industries that tend not to self-insure and undercounting those that do."
+
+Health policy experts Yevgeniy Feyman of the Manhattan Institute and Austin Frakt of Veterans Affairs describe what may be lost as a result of the Gobeille ruling: the ability to create cost-estimation tools enabling patients, especially those in high-deductible plans who pay large portions of their costs out-of-pocket, to "assess the real cost of their care and make better decisions about it."
+
+Who benefits from the ruling? Feyman and Frakt point to "large, consolidated hospital systems, which usually provide higher-cost care" and large insurers, who "often get better deals with providers, but ... don’t tend to pass these savings to patients -- something they might not want the public or regulators to know."
+
+There may be ways to get around the ruling. One suggestion came from Justice Breyer, in his concurring opinion. He said the secretary of Labor, who oversees ERISA, could issue rules allowing self-insured plans to provide data to the states. Congress could also amend the law.
+
+Bagley is pessimistic that either option could happen, at least in the near term. He thinks the piece that needs fixing is ERISA, whose preemption power he argues has been given too much range by the courts. ERISA, he says, was never designed to prevent the states from overseeing their own healthcare markets, which "look nothing like they did back in 1974." In her dissenting opinion, Ginsburg agreed, arguing that Vermont's demands didn't come close to infringing on ERISA's goals. The ERISA preemption doctrine, she wrote, "belongs in the discard bin."
+
+Nevertheless, Bagley says, "the statute is a political third rail: I can’t remember even a half-serious proposal from any politician urging that its preemptive scope be restrained." The spectacle of its inadvertently interfering with efforts by 18 states to make their healthcare markets more transparent for the benefit of consumers should, in a sensible world, spur lawmakers to bring ERISA up to date.
+
+Yet there are no signs of the dime dropping. "As frustrating as it is," Bagley concludes, "it seems that we’re stuck with ERISA -- and with the Supreme Court’s wrongheaded interpretation of it."
+
+Keep up to date with Michael Hiltzik. Follow @hiltzikm on Twitter, see our Facebook page, or email michael.hiltzik@latimes.com.

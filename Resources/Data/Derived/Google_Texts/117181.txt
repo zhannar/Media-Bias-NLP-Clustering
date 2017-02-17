@@ -1,0 +1,41 @@
+I'm not an economist. But when it comes to determining the value of goods and services, I tend to focus on dollars and cents. I don't think I'm alone in this. Money is the lowest common denominator. Value is a variable, while money, for the most part, is a constant. This is all fairly logical in theory; in practice, however, the determination of value becomes muddied. This murkiness becomes more pronounced when trying to determine value in health care. For us, placing a dollar value on health care services requires a deeper look into the downstream effects of health prevention and management.
+
+The Affordable Care Act:
+
+A component of the Affordable Care Act (ACA) is a massive shift in the financial incentives underlying our health care system. At health care conferences, the string of words "shift from fee-for-service to fee-for-value" is uttered rather frequently. Yet, "fee-for-value" is really rather nebulous. Despite the term being vague, a large goal of this shift is very specific: to reduce the vast amounts of money our country spends on health care.
+
+Fee-for-service is straightforward and well understood. I have a doctor's appointment for a cold, I'm charged for the appointment. I hit my head, I'm charged for stitches. It's not a new model, just look at how we pay to service our cars. The oil needs to be changed, pay for an oil change. The headlight goes out, well, you get the point. In health care, however, focusing individually on each service and its corresponding fee neglects the long-term and cumulative impacts of services and their value to our health.
+
+This neglect is all right in the case of automobiles. People buy new vehicles. We have junkyards. That is, cars are expendable. Our bodies are not. Since we can't just replace our bodies when they breakdown, we have to fix them or −- more often then not -- manage the irreversible damage that has been done to them. Hence the importance of incentives that promote long term health and wellness.
+
+However, connecting health services that help people lead healthier lives to one of the huge goals of the ACA −- reducing the health care spending of our nation −- is indirect at best.
+
+
+
+Disease Management:
+
+One huge cost driver in health care is treating patients with chronic conditions. Helping people effectively manage chronic conditions is a service that aptly falls under "disease management." This term, as defined by the Care Continuum Alliance, is "a system of coordinated health care interventions and communications for populations with conditions in which patient self-care efforts are significant." The intervention services found within disease management are indeed valuable, but connecting their value to overall cost reduction is complicated.
+
+The Congressional Budget Office (CBO) has put together a model that we use in determining our value. This model offers a path from health intervention to cost reductions as simplified here: Disease management interventions lead to process outcomes (things like patients attending medical appointments, or taking their medications); process outcomes produce intermediate outcomes (improvements in blood pressure and weight, etc.); intermediate outcomes in turn reduce the number of adverse health outcomes (heart attacks, blindness, etc.); reduction in poor health outcomes leads to reduced health care utilization (hospital & ER visits, etc.). Finally, reduced health care utilization yields reduced costs in our health care system as a whole.
+
+From a health care startup's perspective, this model is helpful in mapping out areas to add value in healthcare. But, with limited bandwidth and the need to focus on one specific step of the model, it becomes difficult to prove overall value in the terms that most companies crave: cost reduction.
+
+Process Outcomes:
+
+We're constantly making hypotheses and testing our assumptions. Given we make more assumptions than time permits us to test, we prioritize our assumptions by risk (the probability of the assumption being wrong) and focus on testing those with the greatest risk first. The pathway from a health intervention to improvements in process outcomes is where we see the greatest risk and that's exactly where we're focused on determining our value. It's the first step on the long and windy road of health behavior change.
+
+While determining the cost reductions that come from improved process outcomes is indirect, this is where the CBO model is helpful. It helps health care companies focused on providing one specific service extrapolate out the broader cost reductions that may arise from that service.
+
+In no way is this to suggest that the CBO's model is gospel. It's not. But it's a start. It's a framework to be filled in by all of the fragmented players in health care. A framework that needs to be better understood for our country to realize its goal of reduced health care expenditure.
+
+
+
+Stan Berkow is the co-founder and CEO of Sense Health, a New York City based healthcare startup. Sense Health offers the simplest way for healthcare providers to create, deliver, and monitor patient support plans in between appointments. Sense Health helps providers efficiently and effectively support their patients with over 1,000 premium health messages written by experts and a behaviorally based process for creating individualized health support plans in seconds.
+
+Sense Health is one of five semi-finalists in the Merck | Heritage Provider Network Innovation Challenge. The sponsors have called on entrepreneurs, data scientists, designers, health care providers, and big thinkers to create the products or services that will support patients with diabetes and/or heart disease in adhering to their care plans and ultimately improving health. Semi-finalists will be presenting their solutions at Demo Day on January 23rd in NYC. Check out their progress, watch their Demo Day presentations, and find additional open innovation challenges by visiting Health Data Challenges.
+
+---
+
+This blog series is produced in partnership with Health Data Challenges, creators of The Health Data Challenge Series, a formal initiative of the Health Data Consortium, powered by Luminary Labs. The platform seeks to foster the use of data to drive innovation that will ultimately transform health and healthcare through high-stakes innovation challenges. Learn more at www.healthdatachallenges.com.
+
+Follow Stan Berkow on Twitter: www.twitter.com/SenseHealth

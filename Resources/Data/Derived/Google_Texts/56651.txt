@@ -1,0 +1,59 @@
+Wednesday, December 2, 2015
+
+Affordability—i.e., whether health coverage is “affordable”—occupies an important place in the Affordable Care Act’s (ACA) regulatory scheme. Under that law’s individual mandate, no penalties are imposed for failure to maintain coverage that is not affordable. And low- and moderate-income individuals may qualify for premium subsidies on a sliding affordability scale. For applicable large employers, the group health plan coverage that they offer affects their exposure for assessable payments under the ACA’s employer shared responsibility rules. Generally, if an applicable large employer makes an offer of group health plan coverage that provides minimum value (e.g., major medical coverage) and is affordable, then the employee is barred—or “firewalled”—from obtaining a premium tax credit from a public insurance exchange even if he or she would otherwise qualify for the subsidy. This is important because, where any particular employee cannot qualify for a subsidy, there can be no penalty under Code § 4980H(b) with respect to that employee.
+
+This post examines the manner in which an employer reports “affordability” for purposes of Form 1095-C, Part II, Line 16.
+
+Background
+
+Coverage is affordable for purposes of determining an applicable large employer’s exposure for assessable payments under Code § 4980H if the employee’s required contribution for self-only coverage does not exceed 9.5 percent of the employee’s household income. “Household income” for this purpose means modified adjusted gross income for the taxable year. Affordability is based on the employee cost for self-only coverage despite that the employee qualifies for and enrolls in family coverage. Because an employer generally will not know the employee’s household income, the final Code § 4980H regulations establish three alternative safe harbors under which an employer can determine affordability based on information that is readily available to the employer. The safe harbors are:
+
+The Form W–2 wages safe harbor,
+
+The rate of pay safe harbor, and
+
+The federal poverty line safe harbor.
+
+A not uncommon mistake is to assume that the 9.5 percent amount has subsequently been increased since the publication of final Code § 4980H regulations in February 2014. It has not . Acknowledging the potential for confusion, the 2015 Instructions for Forms 1094-C and 1095-C (“instructions”) include the following advice:
+
+Note. References to 9.5% in the IRS guidance provides that the percentage is indexed in the same manner as that percentage is indexed for purposes of applying the affordability thresholds under Internal Revenue Code section 36B (the premium tax credit). In general this should not affect reporting for 2015, but taxpayers may visit IRS.gov for any related updates.
+
+Where the requirements of any of these safe harbors are satisfied, the employer’s offer of coverage is deemed affordable regardless of whether it is affordable to the employee under the ACA’s rules governing premium tax credits. Each of the affordability safe harbors will generally understate the amount of employee contributions needed to establish affordability where there are other wage earners in the family. There are, however, rare instances, such as where a self-employed spouse has a net loss for the year, in which the safe harbors will overstate the amount of employee contributions needed to establish affordability.
+
+According to the final Code § 4980H regulations, the safe harbors are all optional. This does not appear to be borne out in the instructions, however. There is no separate 2-series code for household income.
+
+An employer may choose to use one or more of the affordability safe harbors for all of its employees or for any reasonable category of employees, provided it does so on a uniform and consistent basis for all employees in a category. Reasonable categories include specified job categories, nature of compensation (for example, salaried or hourly), geographic location, and similar bona fide business criteria. In contrast, an enumeration of employees by name would not be considered a reasonable category. While not addressed, it would seem that a reasonable category might include employees for whom one of the other safe harbors is unavailable.
+
+Series 2, Code 2F: Section 4980H affordability Form W-2 safe harbor
+
+Under the Form W-2 safe harbor, the employer is permitted to calculate the affordability based solely on the wages paid to the employee as reported in Box 1 of the Form W-2 (Wage and Tax Statement) for the year. Additionally, the employee’s required contribution must remain a consistent amount or percentage of all Form W–2 wages during the year. Thus, the employer is not allowed to make discretionary adjustments to the required employee contribution for a pay period. Where an employee is employed for less than the full year, the employee’s required contribution is adjusted accordingly.
+
+The advantage of the Form W-2 safe harbor is that it most closely approximates household income, at least when compared to the other safe harbors.
+
+The downside of the Form W-2 safe harbor is its inflexibility. Because the amount of W-2 income is not known until after the end of the year, and because employers may not make discretionary adjustments to contributions as the year proceeds, this safe harbor is ill-suited to employees with unpredictable or variable work schedules. Moreover, since the income reported on Box 1 of Form W-2 is net of pre-tax contributions for 401(k) or cafeteria plans, each employee’s individual elections will affect the affordability determination. This safe harbor is best suited to employers with stable workforces that have historically provided robust group health benefits to all of their employees with generous employer subsidies. Conversely, it is least useful in industries and companies with large cohorts of variable and contingent workers.
+
+Series 2, Code 2G: Section 4980H affordability federal poverty line safe harbor
+
+According to the final Code § 4980H regulations:
+
+An applicable large employer member satisfies the federal poverty line safe harbor with respect to an employee for a calendar month if the employee’s required contribution for the calendar month for the applicable large employer member’s lowest cost self-only coverage that provides minimum value does not exceed 9.5 percent of a monthly amount determined as the federal poverty line for a single individual for the applicable calendar year, divided by 12.
+
+The advantage of this safe harbor is its predictability. There is no need to separately calculate affordability by employee. Instead, this safe harbor operates as a fail-safe, which accounts for its popularity among carriers and third-party-administrators.
+
+The disadvantage of the federal poverty line safe harbor, of course, is that this safe harbor least closely approximates household income, and it almost always understates the amount of employee contributions needed to establish affordability. Consequently, it is the most expensive way for an employer to comply. According to the 2015 Poverty Guidelines for the 48 contiguous states and the District of Columbia, the 2015 FPL is $11,770. The maximum affordable employee contribution for the year is $93.18. In contrast, under the W-2 safe harbor, a contribution of $119.38 would be affordable for an employee making the current Federal minimum wage of $7.25.
+
+Series 2, Code 2H: Section 4980H affordability rate of pay safe harbor
+
+The rate of pay safe harbor is, at the same time, the most practical and the most challenging affordability safe harbor. In contrast to the W-2 safe harbor, this safe harbor is best suited to industries and companies with large cohorts of variable and contingent workers. The final Code § 4980H regulations provide two separate rate of pay safe harbor rules, one for hourly employees and another for non-hourly employees:
+
+Hourly employees
+
+An applicable large employer member satisfies the rate of pay safe harbor with respect to an hourly employee for a calendar month if the employee’s required contribution for the calendar month for the applicable large employer member’s lowest cost self-only coverage that provides minimum value does not exceed 9.5 percent of an amount equal to 130 hours multiplied by the lower of the employee’s hourly rate of pay as of the first day of the coverage period (generally the first day of the plan year) or the employee’s lowest hourly rate of pay during the calendar month.
+
+Non-hourly employees
+
+An applicable large employer member satisfies the rate of pay safe harbor with respect to a non-hourly employee for a calendar month if the employee’s required contribution for the calendar month for the applicable large employer member’s lowest cost self-only coverage that provides minimum value does not exceed 9.5 percent of the employee’s monthly salary, as of the first day of the coverage period (instead of 130 multiplied by the hourly rate of pay); provided that if the monthly salary is reduced, including due to a reduction in work hours, the safe harbor is not available, . . ..
+
+(Emphasis added).
+
+The attractiveness of this safe harbor is that the amount at which an employee’s contribution is affordable may be known up front. The challenges, however, are many. In the case of hourly employees, the hourly rate is multiplied by 130 hours, despite that the employee may work more hours. Also, the rate of pay for an hourly employee can change if the rate of pay decreases (but not where it increases). Worse, the rate of pay safe harbor is unavailable in the case of non-hourly employees whose monthly salary is reduced mid-year. Thus, the safe harbor cannot be used, as a practical matter, for tipped employees or for employees who are compensated solely on the basis of commissions. For these employees, the employer must use one of the two other affordability safe harbors.

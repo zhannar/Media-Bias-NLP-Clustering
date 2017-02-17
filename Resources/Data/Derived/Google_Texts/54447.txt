@@ -1,0 +1,57 @@
+Joseph Ladapo and Dave Chokshi
+
+November 18, 2014
+
+Continuity of care is a bedrock principle of the patient-doctor relationship and is believed to be a fundamental attribute of high-quality medical care. Mounting evidence suggests that continuity of care for patients with chronic conditions prevents hospitalizations, reduces health care costs, and may prolong life in some populations.
+
+Because patients are most likely to have longitudinal relationships with their pediatricians, family physicians, and internists, taken together, these primary care doctors are integral to translating continuity into meaningful care coordination. However, within the rapidly shifting landscape of health care delivery in the United States, continuity of care is simultaneously threatened and promoted by emerging care models.
+
+Anatomy of Continuity of Care in the United States
+
+Using office-based physician data collected in the National Ambulatory Medical Care Survey (NAMCS) from 2005-2010, we analyzed measures of care continuity among adults with at least one of 10 prevalent chronic conditions often managed in primary care: hypertension, diabetes, hyperlipidemia, osteoporosis, coronary heart disease (CHD), congestive heart failure (CHF), asthma, chronic obstructive pulmonary disease (COPD), obesity, and depression.
+
+We focused on patients with chronic conditions because they stand to benefit most from care continuity. In the NAMCS, the two principal measures of continuity assess whether a clinician is the patient’s primary care provider (irrespective of the clinician’s specialty), and how frequently the patient was seen in the practice during the preceding 12 months.
+
+According to this survey, the annual number of ambulatory care visits among patients with chronic conditions grew from 408 million to 444 million, and primary care physician visits accounted for 57 percent of these visits in 2005 and 46 percent in 2010, respectively (Figure 1).
+
+Figure 1. Primary Care Physician Visits as A Proportion of Total Ambulatory Visits Among Adults With Comorbid Conditions In The United States, 2005-2010
+
+Note: Data are from NAMCS. The National Hospital Ambulatory Medical Care Survey (NHAMCS), a companion to the NAMCS that captures visits to hospital outpatient departments, was not included in this analysis because it lacks information on physician specialty. Hospital outpatient visits account for about 8-10 percent of all ambulatory visits annually.
+
+During this time, there was also a trend toward more frequent ambulatory care visits by patients who had either never been seen in a practice before or were seen previously but not within the past 12 months. The prevalence of these visits increased from 14 percent in 2005 to 17 percent in 2010.
+
+Together, these findings offer a modest but significant indication that, prior to the Affordable Care Act (ACA), continuity of care—particularly primary care—for patients with chronic conditions may have been declining.
+
+Threats to Continuity of Care
+
+While potential declines in continuity measures reflect a complex mix of changes in patient and physician preferences, they are likely to be exacerbated by a number of challenges. New models of ambulatory care, such as retail clinics, commercial e-visit websites and smartphone apps, and freestanding urgent care centers could diminish continuity of care. While these new models may represent a ‘disruptive innovation’ in convenience—particularly for minor acute illnesses—they may also erode the relationship between a patient and a primary care physician. For this reason, the American Academy of Pediatrics released a policy statement describing urgent care facilities as “an adjunct to, but not a replacement for, the medical home.”
+
+Meanwhile, the ongoing specialization of medicine and constrained access to primary care make effective coordination and continuity more difficult. An industry report by IMS Health, based on a survey of 3,500 office-based physicians in 2013, showed that the number of patient office visits to primary care physicians fell by 0.7 percent in 2013, while visits to specialists increased by 4.9 percent overall and by 9.5 percent for seniors compared to 2012. The Affordable Care Act’s coverage expansion is likely to exacerbate challenges with primary care access, at least in the near term.
+
+New insurance plans with restricted physician networks and “churning” between different types of coverage—particularly Medicaid and subsidized plans on health insurance exchanges—may also engender discontinuity of care. At the same time, the portion of physicians that work part-time has increased from 13 percent in 2005 to 21 percent in 2010, according to a recent American Medical Group Management Retention Survey, and is almost certainly still rising. This trend reflects shifts in physician preferences that support work-life balance and personal well-being, but may also threaten continuity by reducing access to any particular physician.
+
+Opportunities to Improve Continuity of Care
+
+Despite these threats, countervailing forces may improve continuity of care. Payment and delivery system reform promoted by the ACA creates incentives for health systems to better manage the care of patients with chronic diseases. In Medicare, bundled payment initiatives, accountable care organizations responsible for cost and quality targets, and a focus on preventing hospital readmissions all place a premium on care continuity and coordination. At the state level, New York recently received a Medicaid waiver to channel funds toward safety-net delivery system restructuring. The waiver aims to reduce avoidable hospital use by 25 percent over 5 years, with an emphasis on transitional care and care coordination.
+
+It is worth mentioning that continuity of care and care coordination are not identical—rather, continuity contributes to coordination. But new care paradigms and technological advances show how our traditional concept of care continuity—longitudinal relationships between patients and particular clinicians—may need reinvention to better foster coordination.
+
+For example, the patient-centered medical home and other models of advanced primary care are oriented around continuous relationships with clinical teams, rather than individual physicians. And as interoperability of electronic health records and health information exchange matures, the baseline level of continuity is raised, as clinicians can have instantaneous access to a patient’s medical profile—and an improved ability to communicate with other members of the care team.
+
+Policy Implications
+
+Three policy implications bear upon advancing care continuity in a way that is consequential for patients. First, more systematic methods to track continuity of care nationally are needed. The NAMCS, while nationally representative, samples visits from a provider-centric perspective — and therefore lacks a longitudinal view of patients’ visits to different providers.
+
+The survey also does not sample directly from retail clinics or urgent care centers, effectively excluding many of these rapidly-growing sources of ambulatory care. Tracking a sample of patients over time and extending the NAMCS to convenient care options like retail clinics would be an important step to better understand how continuity of care is changing — and to begin disentangling effects on health care spending.
+
+Second, federal and state regulation must keep pace with the dynamic market for ambulatory care services. For instance, in New York, the state-level Public Health and Health Planning Council undertook a redesign of the regulatory framework for ambulatory care. The group found a pressing need to better define the taxonomy of ambulatory care services.
+
+Recommendations included: clarifying reporting requirements from new health care entities (e.g., urgent care centers); establishing connections with regional and state health information technology hubs; and ensuring a uniform nomenclature for services to facilitate the consumer’s understanding of rights and responsibilities.
+
+Finally, particular attention should be paid to how continuity of care may differ for vulnerable populations. Patients who are uninsured or underinsured are particularly subject to care disjuncture when moving between health systems, plans, or geographies. The proliferation of convenient care options may increase overall access to care for low-income populations, but could also widen the divide between those with continuous sources of care and those without.
+
+Historically, continuous doctor-patient relationships have been essential to sound medical practice. But the concept of continuity must adapt to health care delivery transformation. Commitment to a revitalized notion of continuity of care is likely to be equally important to the high-performing health systems of tomorrow.
+
+Authors’ note: The authors are grateful to Dr. Mark Schwartz for his insightful comments on an earlier version of this manuscript. Dr. Ladapo’s work is supported by a K23 Career Development Award (K23 HL116787) from the National Heart, Lung, and Blood Institute (NHLBI). Dr. Chokshi reports serving as a consultant to the New York Public Health and Health Planning Council on their report regarding ambulatory care services. Dr. Chokshi’s work is currently supported in part by a grant from the United Hospital Fund on convenient care options in New York.
+
+The views expressed in this article are those of the authors and do not necessarily reflect the policies or views of the authors’ respective institutions. Dr. Ladapo had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.

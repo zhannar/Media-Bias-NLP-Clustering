@@ -1,0 +1,77 @@
+For once, Tom Wheeler is leaving wireless carriers wanting more.
+
+Brendan Smialowski/AFP/Getty Images
+
+In an op-ed piece published on Wired.com Wednesday, the chairman of the Federal Communications Commission laid out his proposal to treat both wired and wireless data services as public utilities under Title II of the Communications Act of 1934. If Wheeler's rules pass, broadband providers -- like Verizon and AT&T -- will have to deal with greater regulatory oversight compared with the "light touch" they get now as information services.
+
+Wheeler waved an olive branch of sorts yesterday, saying he won't apply Title II's most onerous rules, including having the FCC tell broadband companies the rates they can charge.
+
+The FCC, which has been debating new rules ever since the old ones were thrown out a year ago, is using the rule change as an opportunity to redefine what it means to be an Internet service provider. Wheeler is basing his change on Title II and one of its key policies: the principle of the common carrier, which forbids businesses from unfairly discriminating between customers. Wheeler wants to apply that concept to the Internet -- mandating that Internet service providers treat all traffic equally and preventing them from creating "fast lanes" that would allow some businesses to pay for priority access to their online customers. People refer to this as Net neutrality.
+
+While wired broadband players, including traditional telecommunications companies such as AT&T and cable providers including Comcast, have been in the middle of the Net neutrality debate for years, it's new territory for wireless carriers. AT&T, Verizon Wireless, Sprint and T-Mobile are the top wireless service providers in the US, and defined as information services, they've enjoyed far fewer regulations on the data services they provide.
+
+Wheeler's unexpected proposal has put wireless carriers on edge -- and eager for more details.
+
+What does this mean for you? For now, not a lot. The carriers still need to digest the details of the proposal, which likely won't come out until the FCC is ready to vote on it on February 26. Legal challenges to the proposal could put the Net neutrality rules in limbo for years.
+
+In the longer term, the wireless carriers warn, the stricter regulations mean that they won't be as willing to invest in new network technologies, leading to a worst-case scenario in which your service is slower because the networks lack the capacity to carry your traffic.
+
+Internet companies and consumer advocates, however, dismiss this warning, and believe that competition will continue to spur investment in new services and technologies.
+
+Reactions from A to Z
+
+Depending on whom you ask, Wheeler's proposal ranks somewhere between slightly positive and counterproductive.
+
+"It will no doubt provoke intense ire from AT&T and Verizon, for whom the non-regulation of wireless is a high," said Paul de Sa, an analyst at Sanford Bernstein Research.
+
+Sprint struck a cautiously supportive tone for Title II, saying a light-touch application of the rules wouldn't hurt investment. But it reserved its final assessment for when the rules become public.
+
+"Sprint will review the proposed rules to confirm that they give carriers sufficient flexibility to control their networks and offer differentiated pricing and products, thus allowing competition to govern the market," the company said in an emailed statement on Wednesday.
+
+T-Mobile CEO John Legere tweeted that he supported "an open and free Internet," but said he was looking forward to seeing the rules later this month. He never specifically referred to Title II.
+
+Verizon and the CTIA wireless trade group took a harsher stance against the proposal.
+
+"Heavily regulating the Internet for the first time is unnecessary and counterproductive," said Michael Glover, Verizon's deputy general counsel.
+
+CTIA CEO Meredith Attwell Baker likewise said Title II could have a long-lasting negative impact on the industry: "We are concerned that the FCC's proposed approach could jeopardize our world leading mobile broadband market and result in significant uncertainty for years to come because the FCC lacks congressional authority to impose Title II public utility regulation on mobile broadband services."
+
+In contrast, Internet trade groups, which represent companies including Yahoo, applauded Wheeler's decision to redefine wireless as a utility under Title II.
+
+"We thank Chairman Wheeler for including equal treatment of wireless and fixed broadband connections in his proposal," said Michael Beckerman, CEO of the Internet Association, which represents Google, Yahoo, Amazon and other Internet companies. "There is only one Internet, and users expect that they be able to access an uncensored Internet regardless of how they connect."
+
+Test case: T-Mobile
+
+An interesting test case for the proposed rules will be the fate of T-Mobile's Music Freedom program and its "zero rating" business model. The nation's fourth-largest wireless carrier, looking for an edge over its larger rivals, said in June it would no longer count certain streaming music services against customers' data allotment. Large players such as iHeartRadio, Pandora and Spotify, were among the first to enjoy the no-data privilege.
+
+It's called "zero rating" because carriers charge little or nothing for the data used by specific apps.
+
+James Martin/CNET
+
+While the feature benefits consumers, an argument can be made that T-Mobile discriminates -- even if unintentionally -- against smaller music services that don't take advantage of Music Freedom. The thinking: Customers would opt for one of the larger services to save data, which in turn would give those companies an unfair advantage over their rivals.
+
+So while zero rating would be a positive for consumers, it can also threaten the openness of the Internet. The FCC plans to look at deals case by case and evaluate whether they are "just and reasonable" under the new rules, according to a senior official for the agency who asked not to be identified because they're not authorized to speak on behalf of the FCC.
+
+The FCC doesn't want to step in too quickly since these services are only now starting to pop up, and it doesn't want to quash them prematurely, the official said. Carriers will be able to ask the agency for guidance, but the FCC won't bless any plans before carriers offer them.
+
+The agency will probably respond only if consumers or businesses file a complaint.
+
+T-Mobile believes Music Freedom complies with the idea of Net neutrality. After launching with seven music streaming services, the company now offers 27, many chosen by popular demand or write-in votes.
+
+"Our vision is to include every streaming service that's legal," said a T-Mobile spokesman, who encouraged any company building a music service to talk to the carrier early in the process.
+
+Finding a middle ground?
+
+AT&T, like Verizon, offers both wireless and landline service. The company, which is the largest provider of wired phone service in the US, has been looking for a way around Title II for a while.
+
+AT&T
+
+"We continue to believe that a middle ground exists that will allow us to safeguard the open Internet without risk to needed investment and years of legal uncertainty," said Jim Cicconi, senior executive vice president of external and legislative affairs for AT&T.
+
+Cicconi warned that future FCC commissioners could undo this rule with another vote . The FCC has three Democratic commissioners, including Wheeler who was appointed by President Obama in 2010, and two Republican commissioners. Cicconi's comments suggest the broadband players could wait for more favorable conditions -- perhaps when a Republican president takes over and appoints a Republican chairman to lead the FCC -- to revisit the topic.
+
+But the broadband players probably won't wait that long to take a stand. While wireless carriers haven't threatened legal opposition to Wheeler's proposal, it's almost certainly coming.
+
+"If the Commission proceeds down the Title II path," the CTIA's Baker said in testimony before the House Energy and Commerce subcommittee on communications and technology last month, "the wireless industry will have no choice but to look to the Court of Appeals for a remedy.
+
+This story is part of a CNET special report looking at the challenges of Net neutrality, and what rules -- if any -- are needed to fuel innovation and protect US consumers.

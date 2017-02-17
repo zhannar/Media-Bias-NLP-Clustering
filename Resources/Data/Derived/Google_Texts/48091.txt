@@ -1,0 +1,27 @@
+Software expert Dan Weber, in a comment on Marginal Revolution, offers a cogent technical explanation of the failure of the Obamacare launch:
+
+The front end technology is not the problem here. It would be nice if it was the problem, because web page scaling issues are known problems and relatively easy to solve.
+
+The real problems are with the back end of the software. When you try to get a quote for health insurance, the system has to connect to computers at the IRS, the VA, Medicaid/CHIP, various state agencies, Treasury, and HHS. They also have to connect to all the health plan carriers to get pre-subsidy pricing. All of these queries receive data that is then fed into the online calculator to give you a price. If any of these queries fails, the whole transaction fails.
+
+Most of these systems are old legacy systems with their own unique data formats. Some have been around since the 1960′s, and the people who wrote the code that runs on them are long gone. If one of these old crappy systems takes too long to respond, the transaction times out.
+
+Amazingly, none of this was tested until a week or two before the rollout, and the tests failed. They released the web site to the public anyway – an act which would border on criminal negligence if it was done in the private sector and someone was harmed. Their load tests crashed the system with only 200 simultaneous transactions – a load that even the worst-written front-end software could easily handle.
+
+When you even contemplate bringing an old legacy system into a large-scale web project, you should do load testing on that system as part of the feasibility process before you ever write a line of production code, because if those old servers can’t handle the load, your whole project is dead in the water if you are forced to rely on them. There are no easy fixes for the fact that a 30 year old mainframe can not handle thousands of simultaneous queries. And upgrading all the back-end systems is a bigger job than the web site itself. Some of those systems are still there because attempts to upgrade them failed in the past. Too much legacy software, too many other co-reliant systems, etc. So if they aren’t going to handle the job, you need a completely different design for your public portal.
+
+A lot of focus has been on the front-end code, because that’s the code that we can inspect, and it’s the code that lots of amateur web programmers are familiar with, so everyone’s got an opinion. And sure, it’s horribly written in many places. But in systems like this the problems that keep you up at night are almost always in the back-end integration.
+
+The root problem was horrific management. The end result is a system built incorrectly and shipped without doing the kind of testing that sound engineering practices call for. These aren’t ‘mistakes’, they are the result of gross negligence, ignorance, and the violation of engineering best practices at just about every step of the way…
+
+…“No way would Apple, Amazon, UPS, FedEx outsource their computer systems and software development, or their IT operations, to anyone else.”
+
+You have to be kidding. How do you think SAP makes a living? Or Oracle? Or PeopleSoft? Or IBM, which has become little more than an IT service provider to other companies?
+
+Everyone outsources large portions of their IT, and they should. It’s called specialization and division of labor. If FedEx’s core competence is not in IT, they should outsource their IT to people who know what they are doing.
+
+In fact, the failure of Obamacare’s web portal can be more reasonably blamed on the government’s unwillingness to outsource the key piece of the project – the integration lead. Rather than hiring an outside integration lead and giving them responsibility for delivering on time, for some inexplicable reason the administration decided to make the Center for Medicare and Medicaid services the integration lead for a massive IT project despite the fact that CMS has no experience managing large IT projects.
+
+Failure isn’t rare for government IT projects – it’s the norm. Over 90% of them fail to deliver on time and on budget. But more frighteningly, over 40% of them fail absolutely and are never delivered. This is because the core requirements for a successful project – solid up-front analysis and requirements, tight control over requirements changes, and clear coordination of responsibility with accountability, are all things that government tends to be very poor at.
+
+The mystery is why we keep letting them try.

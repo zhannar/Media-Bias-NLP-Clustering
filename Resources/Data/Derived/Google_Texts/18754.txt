@@ -1,0 +1,57 @@
+Thursday, October 29, 2015
+
+On October 28, 2015, the U.S. House of Representatives approved legislation that, if enacted, would, among other things, substantially alter how and how much Medicare pays for outpatient services furnished by hospitals. The legislation, known as the Bipartisan Budget Act of 2015, principally reflects and implements a two-year federal budget and debt limit compromise negotiated between President Obama and congressional Republicans that diminishes many of the harshest spending reductions wrought by sequestration, and avoids a potential default on U.S. debt obligations. Nonetheless, the legislation is drawing heightened scrutiny by, and concern within, the health care community— not because of the central purposes of the bill, but rather because of a handful of Medicare and Medicaid related provisions also included in the legislation.
+
+Of perhaps greatest significance to the health care community is a provision (Section 603) that would provide that effective January 1, 2017, Medicare payments for most items and services furnished at an off-campus department of a hospital that was not billing as a hospital service prior to the date of enactment would be made under the applicable non-hospital payment system. This “site neutrality” provision begins to address concerns raised by certain policymakers in recent years that Medicare should not be paying different amounts for the same services based on the location or type of provider, and that hospitals may be improperly incentivized to acquire and label physician practices and ambulatory surgery centers (ASCs) as hospital outpatient departments due to higher rates available for services furnished in hospital outpatient settings.
+
+Site Neutrality Provision
+
+Background
+
+Medicare utilizes several different payment systems to pay for services furnished to beneficiaries on an outpatient basis. Generally speaking, when a Medicare beneficiary receives a physician office service in a physician’s office, Medicare pays for that service pursuant to the Medicare Physician Fee Schedule (MPFS). If that Medicare beneficiary receives the same service in a hospital setting, Medicare also pays a facility fee under the Hospital Outpatient Prospective Payment System (OPPS). When Medicare pays both a professional fee (under the MPFS) and a facility fee (under the OPPS), the total payment is typically higher than if Medicare makes just one payment to the physician under the MPFS. Similarly, if a beneficiary receives a surgical service in an ASC, the Medicare payment is always less than if the beneficiary receives that same service in a hospital setting.
+
+Policymakers and watchdogs, most notably the Medicare Payment Advisory Commission, have expressed concerns for years that these disparities are not justified and incentivize hospitals to acquire physician practices and ASCs to capture the higher payment for furnishing the services in a hospital setting. In recent years, there has been increasing criticism that these incentives have led to widespread vertical integration and increased Medicare expenditures.
+
+New Payment Limits
+
+Under Section 603, effective January 1, 2017, when an item or service is furnished at an off-campus outpatient department of a hospital, unless that location was billing as a department of a hospital prior to the date of enactment, Medicare will pay for that service under either the MPFS or ASC fee schedule, as applicable to the service provided. Notably, this limitation will not apply to off-campus emergency department services (i.e., services coded using HCPCS codes 99281-99285).
+
+Analysis
+
+This limitation begins to address concerns about site-driven payment disparities and the behaviors they motivate, but it is much less onerous than alternative solutions that could have advanced. First, the limitation applies only prospectively. As such, any arrangement billing as a hospital outpatient department service prior to the date of enactment would be exempt from this limitation, and would be able to continue to bill and be paid by Medicare under the OPPS. Nonetheless, hospitals should be prepared for the possibility that the Centers for Medicare and Medicaid Services (CMS), which will be responsible for implementing this provision, may seek to stretch its authority and add further limitations that effectively “freeze” the size and scope of the existing location.
+
+Second, the limitation applies only to items and services furnished off-campus. Under existing Medicare regulations at 42 C.F.R. § 413.65 governing provider-based status, the term “campus is defined as the physical area immediately adjacent to the provider’s main buildings and other areas and structures that are not strictly contiguous to the main buildings but are located within 250 yards of the main buildings” (plus, other areas determined on an individual case basis by CMS). Locations not on the “campus” are deemed “off campus.” Consequently, this limitation technically applies only to those entities not meeting this definition of “campus,” although how a provider has positioned a location as on or off campus with CMS will be just as important. Under the statutory amendment, services furnished at remote locations of a hospital would be considered on campus.
+
+Third, the limitation will not apply to payments for items and services until January 1, 2017, although it would apply to any location not billing as a hospital outpatient department as of the date of enactment.
+
+Fourth, the limitation applies only to items and services furnished by a hospital department. Under those same regulations, an entity is considered a hospital department (as opposed to freestanding or a provider-based entity) if it is, among other things, furnishing services “of the same type as those furnished by the main provider.” Accordingly, this change applies to physician and ASC services, which are of the same type as those furnished by a hospital, and would not, for example, appear to apply to rural health clinic services.
+
+Also of note, the statutory language does not provide a specific mechanism for implementation of the site-neutral payments, but does suggest that CMS consider identifying services furnished at new off-campus outpatient locations through claim modifiers or information reporting during the Medicare enrollment process. Therefore, it remains uncertain how this provision may impact hospital Medicare enrollment and cost reporting obligations for off-campus outpatient locations and could have possible implications for hospital survey and certification requirements.
+
+Finally, there is a discrepancy between the actual text of the legislation and a published summary of the legislation, which states that an off-campus hospital outpatient department executing a provider agreement (rather than billing as a department of a hospital) after the date of enactment would not be eligible for OPPS reimbursement. Not only does the summary language differ from the legislative text, it is inconsistent with current CMS rules, which do not require hospitals to enter into new provider agreements to add off-campus hospital departments.
+
+Potential 340B Program Impact
+
+This change also has potential implications for hospital participation in the 340B Program, the federal program that permits certain safety net providers, including hospitals, to obtain outpatient drugs for dispensing to eligible patients at a significant discount. Depending on how the statutory change is implemented by CMS and interpreted by the Health Resources and Services Administration (HRSA), the federal agency that administers the 340B Program, it could impact 340B eligibility for off-campus outpatient departments created after the date of enactment of the provision. Current 340B Program policy extends access to 340B discounts to only those outpatient locations of an eligible hospital that are reported as Medicare-reimbursable outpatient locations on the hospital’s Medicare cost report. If CMS implements the statutory change in a manner that changes the way new off-campus outpatient locations are reported on the Medicare cost report, or if HRSA otherwise opts to consider such locations not part of the 340B-eligible hospital entity, outpatient drugs prescribed or dispensed at such locations could be ineligible for 340B discounts.
+
+Other Provisions
+
+The legislation has over three dozen distinct sections, only a few of which affect health care items and services.
+
+Sequestration
+
+The legislation also extends the across-the-board sequestration of Medicare payments for an additional year into fiscal year 2025. Under current law, Medicare payments for all items and services are, and will continue to be, cut two percent through 2023, and then four percent for the first six months of 2024. Congress has in recent years turned to the sequestration as an easy and distant mechanism for achieving measureable budget savings with minimal political implication. Congress chose that path again here.
+
+Part B Premiums
+
+The legislation avoids an anticipated spike in Part B premiums for a select cohort of beneficiaries beginning in 2016, but largely pays for this relief by increasing Part B premiums for a broader set of beneficiaries by a smaller amount.
+
+Medicaid Rebates from Generic Drugs
+
+There have been a number of hearings and congressional inquiries in 2015 concerning the rapidly rising price of generic drugs. This bill partially addresses these concerns through the rebates that are due to Medicaid for generic drugs. Currently, manufacturers of single source and innovator multiple source drugs pay an additional rebate if the price of the drug has increased faster than inflation (CPI-U). Generic drugs are not subject to the inflation-based rebate. This bill would apply the inflation-based rebate to generic drugs.
+
+Next Steps
+
+The legislation thus far has been approved only by the House of Representatives, and must still be approved by the Senate and signed by the president before it becomes law. This deal reflects a compromise negotiated with the president’s involvement, and therefore should garner bipartisan support and approval, enactment is not certain.
+
+Hospitals considering (or in the process of) acquiring or developing new off-campus outpatient locations, with particular attention to those participating in the 340B Program, should carefully monitor the status of this legislation and, if enacted, future CMS guidance implementing the provision.

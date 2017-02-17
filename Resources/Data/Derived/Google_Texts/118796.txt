@@ -1,0 +1,27 @@
+The U.S. intelligence community (IC) developed a secure, internal network version of Twitter called eChirp that allows its analysts to discuss breaking news across agencies, David Nakamura of The Washington Post reports.
+
+The IC is composed of 17 distinct organizations, each operating under its own shroud of secrecy.
+
+An IC presentation from 2010 notes that eChirp had 11,569 users and 99,723 "CHIRPs" at the time.
+
+The eChirp platform is one of a suite of services — collectively called Intelink — the IC offers. Each 'app' seems very impressive.
+
+It appears that the IC has created secured versions of the most popular apps around, suggesting that an officer's phone looks like a secure version of that carried by a regular person.
+
+
+
+Created by the intelligence field's Chief Information Officer, the presentation states that Intelink was created in 1994, making it the earliest government use of the World Wide Web.
+
+According to the slides, Intelink pioneered the culture shift from “need to know” to a “need to share” (years before 9/11).
+
+When it says "everyone Community-wide can connect in a shared space," the community includes all of these customers, users, and partnerships: Basically, Intelink appears to be an amazingly secure and extensive network for communication through multiple mediums.
+
+That makes sense — since the Internet was invented for military information sharing purposes — but it does make one wonder why public networks are not more secure.
+
+In 2010 Google asked the NSA to help secure its network, but this week we found out that the NSA infiltrated Google's cloud system.
+
+The situation creates the impression that the U.S. government could help public companies protect the user information they handle, but choose instead to insert secret backdoors into chips and other hardware and commercial software to aid surveillance efforts.
+
+On the other hand, the IC cannot give up the mechanisms for its Top Secret network or else Intelink will be useless. So like other military inventions that have reached the public (e.g. GPS), the public must be a few steps behind.
+
+Interestingly, the interaction of those two perspectives is central to the current debate created by the disclosures facilitated by Edward Snowden.

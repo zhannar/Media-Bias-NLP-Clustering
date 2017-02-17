@@ -1,0 +1,33 @@
+A man looks over the Affordable Care Act (commonly known as Obamacare) signup page on the HealthCare.gov website in New York in this October 2, 2013 photo illustration.
+
+NEW YORK An unknown hacker or hackers broke into a computer server supporting the HealthCare.gov website through which consumers enroll in Obamacare health insurance, a government cybersecurity team discovered last week, apparently uploading malicious files.
+
+The Centers for Medicare and Medicaid Services, the lead Obamacare agency, briefed key congressional staff on Thursday about the intrusions, the first of which occurred on July 8, CMS spokesman Aaron Albright said.
+
+The malware uploaded to the server was designed to launch a distributed denial of service, or DDoS, attack against other websites, not to steal personal information, Albright said.
+
+In a DDoS, Internet-connected computers are so overwhelmed by malware attempting to communicate with their website that, unable to handle legitimate requests, they crash.
+
+"Our review indicates that the server did not contain consumer personal information; data was not transmitted outside the agency, and the website was not specifically targeted," Albright said. "We have taken measures to further strengthen security."
+
+Albright said the attack would have no impact on the second open enrollment period for Obamacare, which begins on Nov. 15.
+
+The Office of Inspector General of the Department of Health and Human Services, CMS's parent agency, and HHS leadership were notified of the attack, which was first reported by the Wall Street Journal.
+
+Representative Diane Black of Tennessee, a longtime Republican critic of Obamacare, criticized CMS for the breach, saying: "Designing a secure website should have been a top priority for this administration."
+
+Republican Darrell Issa, chairman of the House of Representatives Oversight and Government Reform Committee, said the committee would seek answers from CMS Administrator Marilyn Tavenner at a hearing on Sept. 18.
+
+A spokesman for the Department of Homeland Security, which helps investigate cyber attacks, said its Computer Emergency Readiness Team, or US-CERT, had forensically preserved the affected server and had identified and extracted the malware designed to launch a denial of service attack.
+
+US-CERT analysis indicated that only one server was involved. It was not running HealthCare.gov, but was instead used by programmers to test new code before it goes live.
+
+The test server was not supposed to be connected to the Internet, but somehow was. In addition, access to it was protected by a default password installed by the manufacturer, said Albright, who declined to say if that default was 1-2-3-4-5 or something equally breachable.
+
+Cybersecurity expert David Kennedy, chief executive of the information security firm TrustedSec LLC, said he was unconvinced this was the first successful hack on HealthCare.gov.
+
+"There are fundamental flaws in how they're coding the website and it's going to take a long, long time to fix it," he told Reuters. "It continues to be a really big glaring security hole."
+
+It is rare for hackers to upload malware without following through to use it, he added.
+
+(Reporting by Sharon Begley, Doina Chiacu and Alina Selyukh; Editing by Dan Grebler and Peter Cooney)

@@ -1,0 +1,13 @@
+New evidence uncovered by security researchers suggests that a dangerous hacking collective is actually the National Security Agency.
+
+
+
+The so-called Equation Group, a set of hackers responsible for at least 500 malware infections in 42 countries, is considered one of history’s most effective cyber espionage rings.
+
+
+
+
+
+ADVERTISEMENT
+
+Now, the Moscow-based Kaspersky Lab is pointing to new signs that the group is actually made up of NSA personnel.In a report published Wednesday, Kaspersky researchers revealed that the term “BACKSNARF” was found inside the code of the Equation Group’s online platform. The same term was used by the NSA as the name of a project by its cyber warfare unit.In addition to that coincidence, analysis of the Equation Group’s working hours suggests it operates as a regular software development team, likely located on the East Coast of the United States. Members of the group work overwhelmingly during regular business hours from Monday through Friday and almost never on Saturday or Sunday.The Equation Group had already been suspected of ties to the NSA, though Kaspersky researchers still stop short of alleging a direct connection.The hacking collective is considered to be the work of a nation-state, given the vast resources required to support its highly sophisticated activities.Equation Group attacks have also focused almost exclusively on adversaries of the United States, including Iran and Russia.

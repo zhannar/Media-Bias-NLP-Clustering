@@ -1,0 +1,53 @@
+Two hospital case studies presented during at the Predictive Analytics conference in Boston on Tuesday show how looking at data can save providers, physicians and patients both money and time.
+
+"There's so much information in our own data that is not being utilized," said Dr. Nephi Walton of Washington University, St. Louis Children's Hospital
+
+For example, in one case an 8-month-old baby was brought in for seizures and unresponsiveness who had no other abnormalities, Walton said. She wasn't responding to medication.
+
+[Also: Baptist Health sees big payoff using predictive analytics]
+
+A test was sent out to sequence for genes for Dravet Syndrome, a rare form of epilepsy that begins in infancy. It cost $8,000 and returned back normal.
+
+An epilepsy panel was then ordered, at a cost $6,000.
+
+It returned no significant variants.
+
+A third test did whole exome sequencing, at a cost of $9,000, where a pathogenic mutation was found in the GABRA1 gene.
+
+"It was first described in epilepsy in 1996, but we didn't find that out because we sent the wrong test," Walton said.
+
+[Also: Predictive analytics can help solve hospital problems, CFOs say]
+
+The end result was more than $14,000 spent in unnecessary tests and a diagnosis that was delayed for two years.
+
+Walton went looking for what went wrong.
+
+He found the Dravet Syndrome test was done first because checking for the chromosomal microarray is the standard of care.
+
+Walton looked at 2,900 CMAs from the past five years, and saw that out of 102 tests for isolated epilepsy, zero percent had come back with that finding.
+
+This translated into thousands of dollars spent on one test when the money would have been better placed into having the more expensive test done in the first place, he said.
+
+His research also revealed a wide variation in methods and costs.
+
+[Also: Xerox buying RSA Medical, ramps up predictive analytics business]
+
+"There's no data standard for genetic testing," Walton said. "No one had a clue (how much) we were spending."
+
+Jessica Taylor, director of Care Management at St. Joseph Healthcare in Bangor, Maine, uses analytics daily to see which patients are at greatest risk for being readmitted.
+
+Dr. William Wood, the hospital's vice president of medical affairs, said the hospital has a robust health information exchange called HealthInfoNet that's used by healthcare business intelligence for predictive analytics on the hospital's 20,000-patient population.
+
+"It's all clinical, real-time data," he said.
+
+Follow Healthcare Finance on Twitter and LinkedIn.
+
+On the day the patient is discharged, Taylor can see information on the risk of that person being readmitted, or going the emergency department. The data can predict future cost and also drives the care of the patient.
+
+"We're actually understanding what's causing that risk," she said. "We can reach out to the patient and see they have the support they need."
+
+This compares to the prior procedure when nurses would spend half an hour or more interviewing the patient upon discharge. The analytics tool has shown better outcomes of prediction and therefore offers better care alternatives, she said.
+
+"Algorithms have been identified for at-risk patients that would have been missed," Taylor said. "When person is discharged, the first 72 hours (represent) the highest risk for returning, especially for the elderly."
+
+Twitter: @SusanMorseHFN

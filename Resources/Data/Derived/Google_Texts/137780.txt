@@ -1,0 +1,17 @@
+In an attempt to enhance user privacy, Google is now encrypting global Internet searches. National Security Agency (NSA) revelations have spurred a company-wide effort to secure user data and to thwart intelligence agency snoops.
+
+A Google spokesperson told The Washington Post:
+
+The revelations of this past summer underscored our need to strengthen our networks. Among the many improvements we’ve made in recent months is to encrypt Google Search by default around the world.
+
+The encryption turns search terms into a jumbled up sequence of characters, making them unreadable. This makes it difficult for interlopers to target users who search for certain material, and hobbles the state's ability to track search history.
+
+The tech giant has already started to roll out its Web search encryption scheme in China, targeting the nation's censorship project, also known as the Great Firewall. According to Time, “The move represents a shot at Beijing in Google’s standoff with Chinese authorities over unmet demands that the company send Chinese users to government-approved sites.”
+
+Google searches constitute a small portion of Chinese searches, the bulk of which are made through China-based service Baidu. But Percy Alpha, co-founder of GreatFire.org, a non-profit that monitors Chinese censorship, told the Post, “It will be a huge headache for Chinese censorship authorities. We hope other companies will follow Google to make encryption by default.”
+
+Because of encryption, Google chair Eric Schmidt expects worldwide state censorship to fizzle out. He said in a lecture at John Hopkins University late last year, "I believe there's a real chance that we can eliminate censorship and the possibility of censorship in a decade.”
+
+Google's encryption efforts got more attention after Edward Snowden's leaks revealed the NSA had been hacking links to Google and Yahoo data centers, circumventing legal procedures. Since then, Google, Microsoft, and Yahoo all moved to encrypt these links.
+
+It is unclear whether politicians will make meaningful reforms to the sprawling surveillance state programs. Legislative efforts have been slow. But corporations that rake in data are beholden to their consumers, and are rushing to invest in encryption. Google's attempt doesn't give perfect privacy, but it's an important safeguard, and a step towards thwarting the ease of government data harvesting.

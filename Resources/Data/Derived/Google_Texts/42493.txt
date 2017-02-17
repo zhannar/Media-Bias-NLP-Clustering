@@ -1,0 +1,39 @@
+Healthcare.gov – the web-based manifestation of Obamacare – launched last month to numerous and widely-publicised problems including long wait times, corrupted data and nonfunctional buttons.
+
+Although it was widely portrayed as an unprecedented fiasco, significant problems, and even catastrophic failures, are actually very common in large and complex IT projects.
+
+Just last year, the US Air Force abandoned one system after already spending $1 billion. In Australia, a defective data exchange in the court information system led to 22 false arrests. In 2010, a data entry bug led 25 organ donors losing the wrong organs.
+
+We’ve seen Google classifying all websites as malicious and even a computer virus suspected in the deaths of 154 Spanair passengers.
+
+While Healthcare.gov’s specific faults do differ from the previous examples, the underlying problem is the same: the combination of size and complexity.
+
+Keith Allison
+
+One website, 36 states
+
+The Patient Protection and Affordable Care Act, aka Obamacare, establishes public “exchanges” or marketplaces, where individuals can compare and select private health insurance plans. While 14 states built their own exchanges, the federal government built healthcare.gov, a single exchange for the remaining 36 states.
+
+In principle, companies list insurance plans, which individuals compare and choose from. The website then transmits the orders to the insurance companies. This sounds simple, but the details are extraordinarily complicated.
+
+Healthcare.gov has to interact with the independent systems of multiple government agencies and insurance companies. This creates incompatibility problems like those between Windows, OS X and Linux, except instead of three disparate systems there are dozens.
+
+Exacerbating the situation, insurance plans and subsidies are also complicated and obfuscatory. Furthermore, the website is used by regular folk (not insurance experts), many of whom may know little about insurance.
+
+Complexity breaks everything
+
+Meanwhile, the software engineering community manifests two broad schools of thought. In the Agile school, self-organising developers focus on coding and testing, minimise formal processes and documentation and deploy in small increments. In the Planning school, managers control development using budgets, schedules and formal processes while developers focus on the software’s high-level design (architecture) and deploy in large increments.
+
+The problem is that neither approach is suited to large, complex projects. Agile’s informal controls and self-organisation break down as teams exceed 20 or so developers. Meanwhile, Planners cannot cope with the ambiguity and unpredictability of complex systems – as no one has built an interstate healthcare exchange before, no one can reliably predict how long it will take, how much it will cost or how users will react to various design choices.
+
+The uncomfortable reality is that no one really knows how to design or manage large, complex IT projects.
+
+Radical idea: ditch the website
+
+However, the history of IT project problems and failures suggest we need to eliminate unnecessary complexity. The US could simply cover all citizens, like every other western democracy, removing the need for the website. More generally, each feature of a system should be weighed against the complexity (and confusion) it adds.
+
+Healthcare.gov should also have been deployed one state at a time to gauge traffic levels and identify technical problems before most users had access. Any system with many potential users, applications or domains should adopt phased deployment.
+
+Finally, it is critical to stop making important decisions based on fantasies. Approved projects tend to be the ones where “proponents best succeed in designing – deliberately or not – a fantasy world of underestimated costs, overestimated revenues, overvalued local development effects, and underestimated environmental impacts.” Forecasted schedules and costs are simply unreliable – 60-80% of IT projects experience effort or schedule overrun –- and the “system requirements” that drive large projects are often little more than speculation.
+
+Healthcare.gov is undoubtedly a mess, but no more so than usual for a large, complex IT project. To minimise problems in these projects, we have to eliminate unnecessary complexity, deploy incrementally and accept that there are some things that we just don’t know.

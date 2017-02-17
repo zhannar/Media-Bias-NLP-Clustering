@@ -1,0 +1,29 @@
+Uber is investigating whether there is a connection between the hacker behind a major data breach at the driving service and Lyft, Uber’s chief rival, Reuters reports.
+
+Court papers claim an unidentified person using a Comcast IP address used a security key to improperly download 50,000 drivers’ names and license numbers in 2014. Sources told Reuters that the address belongs to Lyft’s chief technology officer, Chris Lambert.
+
+ADVERTISEMENT
+
+Uber disclosed the breach in February and filed suit in San Francisco in an effort to uncover the hacker. A U.S. magistrate judge has approved a subpoena of Comcast records sought by Uber, saying that such a request was “reasonably likely” to identify the “bad actor” behind the breach.
+
+A Lyft spokesman said Monday that the company had investigated the matter internally and found that “there is no evidence that any Lyft employee, including [Lambert], downloaded the Uber driver information or database, or had anything to do with Uber’s May 2014 data breach."
+
+According to court documents, Uber found that someone had used a digital security key that the company had inadvertently published on a public development page to download the company’s driver database.
+
+Uber combed through the IP addresses of every visitor to the page during the time the key was posted and determined that "the Comcast IP address is the only IP address that accessed the … post that Uber has not eliminated" from suspicion.
+
+The company has declined to say what led them to believe the Comcast address will lead them to the identity of the hacker.
+
+Sources told Reuters that the company researched the address and found that it appeared in other Internet postings associated with Lambert and that the address is assigned to his name.
+
+Comcast has appealed the subpoena, which would command it to turn over the unnamed subscriber’s identity, payment information and information connecting the subscriber to the development page where the key was posted.
+
+Lawyers for the subscriber have insisted that because the key was posted publicly, just visiting the page was not an indication of guilt.
+
+They also stress that the hack originated from an entirely different IP address.
+
+Lyft also noted that Uber itself posted the security code used in the breach.
+
+"Uber allowed login credentials for their driver database to be publicly accessible for months before and after the breach,” the spokesman said.
+
+Lyft and Uber compete fiercely for both drivers and customers. Lyft is valued at $2.5 billion, compared to Uber’s $51 billion valuation.

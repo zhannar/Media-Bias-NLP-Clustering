@@ -1,0 +1,59 @@
+To help you optimize security as you cope with complexity, InformationWeek is offering you an excl
+
+Obamacare Health Exchanges: How Oregon Got It Done
+
+Oregon's experience building a health insurance exchange shows what's involved for IT operations.
+
+As certain members of Congress tried to stop or delay Obamacare, members of Oregon's IT team spent last Saturday and Sunday doing what IT teams do ahead of a big tech launch: testing, bug fixing, conference calling, retesting.
+
+Across the U.S., insurance-buying exchanges go live on Oct. 1 as part of the Affordable Care Act healthcare reform law, meant to let people shop for health insurance using exchanges that factor in their eligibility for tax credits and other assistance. Reports already have trickled in about technical glitches. Expect more this week.
+
+Oregon's plan was to launch its exchange on Tuesday but give access only to insurance agents and other community partners, who can guide their customers through the buying process. Oregon won't open the online exchange to the general public until later in the month. It's a play-it-safe, soft-launch approach that recognizes glitches are likely, so better to work those bugs out with a limited number of agents and lessen the general public's confusion.
+
+[ What's the role for private HIEs? Read Obamacare: The Rise Of Private Health Insurance Exchanges. ]
+
+Oregon's approach left me wondering: What's so hard about creating an online insurance buying exchange, this technology that's so pivotal to making healthcare reform work? Progressive already can give me a handful of car insurance quotes in a few minutes online. Amazon.com sells thousands upon thousands of different products. Ecommerce feels like pretty mature technology.
+
+To understand the challenge, I spoke with Aaron Karjala, CIO of Cover Oregon, which runs Oregon's health insurance marketplace, and Carolyn Lawson, CIO of Oregon Health Authority and Department of Human Services, which started the exchange project before state lawmakers created Cover Oregon. Here's a look inside some of the challenges facing Oregon's more than two-year effort.
+
+Established Technology, Complex Rules Engine
+
+Presenting a product -- an insurance policy -- isn't the hard part. The hard part is figuring out which federal and state programs and tax credits a person or family is eligible for. Getting that part right takes creating an extremely complex rules engine.
+
+About 1,700 individual rules affect eligibility for health insurance subsidies in Oregon. Children might qualify under different rules from their parents, or half-siblings might have different eligibility based on their parents' income. In Oregon, writing the eligibility rules engine took 12 people nine months. Confirming eligibility requires integration with multiple outside data sources, such as confirming income and citizenship with federal sources, and that process is what separates it from ecommerce sites.
+
+"When you go to Amazon you're not applying to get a product for free if I say what my income was last year and what I think it is going to be next year and who I'm related to and all those type of things," says Karjala.
+
+Cover Oregon's insurance exchange is built on an Oracle technology stack and hosted by Oracle in two U.S. data centers. Siebel CRM provides the core software for managing customer information. It uses Oracle's database, rules engine software, SOA integration and Web front end. Call center reps (who are Cover Oregon employees) can view CRM data that people enter into the Web-based exchange, so they can guide people through enrollment.
+
+Hard Deadline, Shifting Requirements
+
+Oregon began its project in 2011. It was among the first states to start building a health insurance exchange, landing $48 million as one of seven federal "early innovator" grant recipients.
+
+But the question was what to build. Oregon needed a highly iterative development strategy because the federal government was itself just figuring out how it would implement the Affordable Care Act and deliver the needed data.
+
+"The policies and rules came to us a little at a time," Karjala says. "It was constantly emerging requirements." For example, the Federal hub that state exchanges connect to for verifying income and citizenship was completed this summer. That timing helps explain why exchanges are doing so much testing down to the deadline.
+
+The solution, says Lawson, was "ruthless incrementalism. We had to build in an agile fashion and build what we know, and then put the pieces together like Legos."
+
+Cover Oregon also had to build new ties with private insurers -- creating real-time, bidirectional interfaces with them to offer the 16 different medical plans that are set to be available on its exchange. From spring 2012 through mid-July of this year, 80 to 100 people from Cover Oregon and insurers held twice-weekly joint development sessions -- some in a room in Oregon and others online.
+
+How do you herd that many cats? "We did it well sometimes and learned lessons other times," Karjala says. It helped to come into those meetings with interface prototypes and specific plans to discuss, rather than starting wide open discussions, he says.
+
+Politics?
+
+In parallel to all this work ran an impassioned national political debate about the merits of the Affordable Care Act, along with an ongoing effort to roll it back. "We just focused on getting people covered in Oregon," Karjala says.
+
+More complicated were the practical, Oregon state-level dynamics for how the insurance exchange would run. Oregon started the exchange project under the Health Authority, where Karjala was deputy CIO, before the state legislature created the Cover Oregon organization to run the exchange. The Health Authority was the system integrator, a job that it didn't completely hand over to Karjala's Cover Oregon team until June.
+
+Karjala's team started with a few people in a rented house north of the state capital building and has grown to about 200 tech pros, most of them contractors. Karjala needed to create an IT shop that could ramp up to build the exchange but then shrink to a self-sustaining run-the-exchange operation after 2014.
+
+The work doesn't end with the Oct. 1 launch. To make that deadline, the IT team focused its energy on the consumer-facing elements. Work started this week on version 1.1 of the exchange, which includes building a lot of the behind-the-scenes processing and automation. Since insurance coverage doesn't begin until Jan. 1, the IT team pushed work around payments and other back-end systems down the priority list. "Oct. 1 is just a point in time," Karjala says.
+
+Perhaps. But it's a point that a state, and a country, is watching with intense interest to see if this new technology backbone is up to the formidable task it's been given.
+
+Comment |
+
+Email This |
+
+Print |

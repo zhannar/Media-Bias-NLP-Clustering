@@ -1,0 +1,49 @@
+Children are often told to share with siblings and friends, as it fosters good will and harmony. Leaders of Michigan and Illinois have applied that life lesson to technology, partnering so both states can share –and benefit—from Michigan’s Medicaid Management Information System (MMIS).
+
+Illinois will access Michigan’s MMIS as a cloud-based shared service instead of purchasing its own new system. The partnership should help both states to save millions of dollars in implementation and maintenance costs. Representatives from both states believe the shared MMIS will be the first of its kind in the U.S.
+
+Michigan’s MMIS was implemented a few years ago by CNSI, an IT solutions provider based in Maryland. The mission critical system retrieves Medicaid information and processes claims. Under federal law, every state must operate technology to support backend administrative functions of their Medicaid programs. Around the country, states are racing to modernize their legacy systems as they prepare for the expansion of Medicaid under the Affordable Care Act. The feds are offering to fund 90 percent of MMIS upgrades and, according to a survey by the National Association of State CIOs, 78 percent of state CIOs said they expect to modernize their MMIS by 2014.
+
+According to Michigan and Illinois, The Centers for Medicare and Medicaid Services (CMS) says the technology sharing approach meets federal standards and regulations.
+
+Illinois had been looking to modernize its 1970s-era, Medicaid system for quite some time. Stephen DePooter, CIO for the Illinois Department of Healthcare and Family Services (HFS), recalled having discussions about purchasing a stand-alone system just for Illinois, but that view changed when Michigan unveiled its MMIS, which was certified by the feds. Illinois started thinking about whether Michigan’s system could support Illinois as well, and a partnership was born.
+
+Throughout 2012 and into 2013, the two states identified their commonalities and differences with processing Medicaid information. There were no “show stoppers” noted, and any changes to Michigan’s system were deemed to be configuration adjustments rather than major code changes. That cleared the way technologically for the two states to use the same MMIS.
+
+“The fact we can minimize our risk over a traditional stand-up of a customized system and leverage Michigan … was an easy sell to the internal folks,” DePooter said.
+
+Illinois CIO Sean Vinck said he and DePooter engaged their state’s procurement office early in the process to make sure the partnership with Michigan wasn’t seen as an attempt to circumvent competitive bidding, but a rational way to address the state’s needs. The states’ procurement code allows an exception to competitive bidding for intergovernmental agreements.
+
+The Illinois Department of Healthcare and Family Services and Michigan Department of Community Health executed a preliminary intergovernmental agreement (IGA) in Dec. 2012 to determine whether MMIS-as-a-service model would work. Further amendments to that initial agreement have been made to continue the process. Another IGA is under discussion to cover the next phases of the project.
+
+If the union doesn’t work out, Illinois can separate itself from the contract and pursue alternative options without penalty. And should that need arise, DePooter felt that accessing Michigan’s MMIS via cloud-based technology would enable Illinois to disconnect from Michigan fairly smoothly, given the complexity of the system.
+
+By having its data and procedures modernized as a result of the partnership, Illinois would have little problem if it had to implement its own system, or partner with another state, according to DePooter.
+
+Vinck agreed. The change management process Illinois has to go through to jump onto Michigan’s MMIS will make Illinois more agile if something occurred that required severing ties with Michigan. “The state is not prejudicing itself by entering into this partnership on the backend,” he said. “We materially improve our position even if at some point in the future, the state of Illinois needs to find an alternative method of getting an MMIS-like service.”
+
+Responsibilities and Benefits
+
+According to Michigan CIO David Behen, Michigan will maintain full technical and operational responsibility of running the MMIS application. Michigan will provide application, infrastructure and operational support as a service to Illinois.
+
+Michigan has approximately 30 percent excess capacity in its MMIS, so Behen doesn’t expect any performance impact by hosting Illinois. The state will also will work with Illinois to build a Web portal for Illinois users to access the MMIS, including establishing additional security measures to prevent any cross-state data access.
+
+DePooter explained that while the core system will continue to operate in Michigan, the technology will access the data of all Illinois agencies and departments that are involved with Medicaid claims. A majority of that Medicaid data is housed in the state’s enterprise data warehouse, which Illinois will continue to support.
+
+The state’s technical staff will shift their priorities from focusing on maintaining a backend system to front-end data analysis and system support for agencies. DePooter added that the change will allow Illinois to use its resources more wisely and efficiently which should result in better service toward state agencies.
+
+Both Illinois and Michigan should also see significant cost savings as a result of the partnership. By not having to pay the 90 percent cost for two separate systems, Uncle Sam makes out on the deal as well. An early savings estimate has reduced a conservative estimate of $190 million to purchase a stand-alone system to $85 million. That means Illinois will save roughly $10 million by sharing Michigan’s MMIS, while the federal government will save approximately $76 million.
+
+Michigan should also see an estimated 20 percent reduction in operation and maintenance costs, which translates to a savings of $10 million over five years. Illinois and the federal government also estimate saving $57 million and $196 million, respectively, for operational costs over a five-year period versus Illinois purchasing its own stand-alone MMIS.
+
+By using Michigan’s MMIS, Illinois will not have to go through formal federal certification for the system. Since Michigan’s is already certified, the nine-month process should be cut significantly, improving implementation time.
+
+First Steps
+
+Nick Lyon, chief deputy director of the Michigan Department of Community Health, said enrollment on the shared MMIS will begin in March 2014 and the system will be fully operational at the end of 2015. Behen added that Michigan has multiple project deployment phases planned to accommodate Illinois’ impact on the system, with some initial technical work being started this October.
+
+To accommodate Illinois, Michigan is adding an Electronic Health Records Medicaid Incentive Payment Program (eMIPP) and an Provider Enrollment (PE). Those programs will be deployed on Michigan’s existing MMIS platform and according to Behen, will consume 10 percent or less of the system’s overall capacity.
+
+A third phase, called Service Implementation Assessment (SIA) which is required to provide functional, architectural and technological analysis of the future cloud solution, will be handled by the contractor. Once the assessment is complete, the states will discuss hardware, software and other technical components needed to implement MMIS on a cloud.
+
+“This is really something I think will be seen as groundbreaking for these big systems,” Lyon said. “I hope this is sort of a trend where you see states coming together to save the federal government a lot of money and I think that works for the benefit of all.”

@@ -1,0 +1,47 @@
+If you get an email from a seemingly trustworthy organization about the Ebola virus in the coming days, beware. It could very well be a scam to obtain your personal info.
+
+The emails look like they're from organizations like the World Health Organization. But when you click on its attachments, they install a DarkComet Remote Access Trojan (RAT) onto your computer, giving hackers access to your computer and the files on it. Here's an example of the phony emails that are being sent out:
+
+Looks legit, right? Well, it isn't.
+
+The United States Computer Readiness Team (US-CERT) released a notice last week about these scams, writing that "phishing emails may contain links that direct users to websites which collect personal information such as login credentials, or contain malicious attachments that can infect a system." US-CERT warns people to be wary of opening attachments or clicking links in emails from unknown senders.
+
+It's actually pretty common for hackers to send out emails like these during major news events. To avoid getting hacked, you should never open or download an attachment from an unknown email address.
+
+Cybersecurity company Symantec first found that people were sending Ebola-themed phishing emails last August, and the emails have continued since then.
+
+In a blog post Wednesday, Trustwave, another cybersecurity company, released a list of email subject lines that are being used in these phishing emails. Be sure to avoid emails with subject lines similar to the following:
+
+RE: Ebola Survival Guide
+
+What you need to know about the deadly Ebola outbreak
+
+So Really, How Do You Get Ebola?
+
+Ebola virus outbreak: Curing Breakthrough Revealed?
+
+SHOCKING Health Alert: Secret Cure for Ebola?
+
+HEALTH NEWS: Secret Cure for Ebola?
+
+Is there ANY way to cure Ebola?
+
+First GMO foods, now Ebola. What Obama doesn't want you to know.
+
+Ebola, GMO, What they don't want you to know.
+
+SHOCKING Health Alert: Ebola is spreading
+
+EBOLA Outbreak - FEMA Storing 250,000 Plastic Coffins
+
+You won't believe what Obamacare & Ebola have in common.
+
+Ebola Outbreak Now WORSE Than We're Being Told
+
+Ebola & Obamacare - a match made in heaven.
+
+CDC ALERT: 1.4 Million EBOLA Victims by January?
+
+The #1 Food Items You'll Need In An EBOLA Crisis
+
+SHOCKING Health Alert: Secret Cure for Ebola/

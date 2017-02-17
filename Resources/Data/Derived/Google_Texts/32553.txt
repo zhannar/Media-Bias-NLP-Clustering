@@ -1,0 +1,311 @@
+The Patient Protection and Affordable Care Act (the "Affordable Care Act") imposes four new requirements that Section 501(c)(3) "hospital organizations" operating "hospital facilities" must meet to keep their tax-exempt status.
+
+Each "hospital facility" must conduct a "community health needs assessment" ("CHNA") at least once every three years;
+
+Each hospital facility is required to adopt both a written financial assistance policy and a written emergency medical care policy that comply with certain statutory criteria;
+
+Hospital facilities may not charge patients eligible for financial assistance more than "amounts generally billed" to insured patients and are prohibited from using "gross charges" for patients eligible for financial assistance; and
+
+Hospital facilities may not commence certain "extraordinary collection actions" before making "reasonable efforts" to determine if the patient involved is eligible for financial assistance under the financial assistance policy.
+
+The requirements were added to the Internal Revenue Code (the "Code") under new Section 501(r). Failure to meet these requirements can have significant consequences, ranging from the $50,000 excise tax for each hospital facility that fails to perform a timely community health needs assessment and adopt a corresponding implementation plan, to taxing all of a hospital facility's revenue for one or more years, to loss of exempt status for that hospital and for the interest on its bonds. If the hospital organization is part of a joint venture that operates one or more hospitals, Section 501(r) can apply to those hospitals as well.
+
+
+
+The Treasury Department and the IRS have now issued final regulations implementing these requirements. The regulations go into effect for taxable years beginning after December 29, 2015, giving tax-exempt hospitals time to ensure they are in compliance with the specific requirements.
+
+
+
+WHO IS SUBJECT TO THE SECTION 501(r) REQUIREMENTS?
+
+
+
+Hospital Organizations. Section 501(r) applies to "hospital organizations," which include any Section 501(c)(3) organization that operates one or more "hospital facilities." Thus, the term includes not only health systems but also other Section 501(c)(3) organizations that primarily qualify for Section 501(c)(3) status under a non-health care category (e.g., colleges and universities) that operate "hospital facilities." Governmental hospitals, with one exception, are generally not subject to these requirements because their exclusion from tax comes under Section 115 of the Tax Code, not Section 501(c)(3). A "dual status" governmental hospital that has received a Section 501(c)(3) status determination letters from the IRS, however, is subject to Section 501(r) unless it voluntarily relinquishes its exemption under Section 501(c)(3).
+
+
+
+Hospital Facilities. The Section 501(r) rules are applied on a facility-by-facility basis. A "hospital facility" is any facility required under state law or the law of the District of Columbia to be licensed, registered, or otherwise recognized as a hospital. Foreign facilities are not subject to Section 501(r) because they are not required to be licensed by a state. Multiple buildings operated under a single license are considered to be one hospital facility. The final regulations clarify that if a single building houses operations with multiple licenses, each separately licensed hospital operation will be considered a separate facility. If state law exempts a hospital from generally applicable licensing requirements, it may still be subject to Section 501(r) if the terms of the state law "recognize" it as a hospital.
+
+
+
+Operation of Hospital Facilities Through Management Contracts, LLCs and Other Joint Ventures
+
+
+
+A hospital organization is responsible for meeting the four new requirements for each hospital facility that it operates. A hospital organization that hires a management company to operate a hospital facility is still considered to be operating that facility. Thus, the hospital organization is at risk if the management company fails to comply with Section 501(r) with respect to the managed hospital.
+
+
+
+Consistent with guidance in other areas under the Code, the operation of a hospital facility through a single-member LLC that is treated as a disregarded entity under the Code will be treated as operation of the facility directly by the hospital organization that holds the membership interest in the LLC. Thus, while the single-member LLC will have a separate existence from the sole member for federal employment tax purposes and for certain state law purposes, the hospital organization will be treated as directly operating the facility for purposes of Section 501(r).
+
+
+
+Consistent with prior IRS guidance on joint ventures between Section 501(c)(3) organizations and for-profit entities, a hospital organization "operates" a hospital facility if the hospital organization is a partner in a partnership or a member of an LLC treated as a partnership that operates the hospital facility. However, there are two exceptions to this general rule.
+
+
+
+The first exception is for circumstances where the operation of the hospital owned by the joint venture is treated as an unrelated trade or business by the tax-exempt participant in the joint venture. If the hospital organization does not have control over the operation of the joint venture's hospital facility sufficient to ensure that the operation of the hospital facility furthers an exempt purpose and, as a result, treats the operation of the hospital, including the facility's provision of medical care, as an unrelated trade or business, then the hospital organization will not have to comply with Section 501(r) with respect to that facility.
+
+
+
+The second exception is for circumstances where the tax-exempt hospital has a very small interest in the joint venture. This exception applies to preexisting (as of March 23, 2010 when the ACA was enacted) joint ventures of certain academic medical centers that are operated as part of colleges and universities. To qualify for this exception, the hospital organization must be organized primarily for educational or scientific purposes, cannot be engaged primarily in the operation of a hospital, must own no more than 35 percent of the capital or profits interest in the partnership, must not have a general partner or managing member or similar interest, and must not have control over the operation of the hospital facility sufficient to ensure that the facility complies with Section 501(r).
+
+
+
+WHAT IS REQUIRED FOR COMPLIANCE WITH SECTION 501(r)?
+
+
+
+Community Health Needs Assessment
+
+
+
+A community health needs assessment ("CHNA") is a document compiling the results of a process including community representatives that evaluates the health needs of the community the hospital facility serves. The implementation strategy is a separate document that describes, with respect to each significant health need identified through the CHNA, how the hospital facility plans to address the health need or why the hospital facility does not intend to address the health need. Each hospital facility must complete a new CHNA once every three years, and each hospital organization must adopt an implementation strategy in connection with the CHNA.
+
+
+
+Required Contents and Process for Developing a CHNA. As its name implies, a CHNA assesses the health needs of the community served by the hospital. The hospital has discretion to define the community it serves. The community may take account of special areas of focus such as certain populations, like children or women, or certain specialized services such as an eye hospital or a cancer hospital. However, the definition of the hospital's community may not be designed to exclude the medically underserved, the low-income, minority populations who live in the geographic area the hospital serves, individuals who are not insured at all or are insured by particular payors, or individuals who are eligible for financial assistance under the hospital's policy.
+
+
+
+The CHNA must identify the community's significant health needs, prioritize those needs, and identify resources available to address those needs. Health needs include whatever the community needs to improve or maintain its health, including but not limited to better access to care, better nutrition, and ways to address social, behavioral, and environmental factors. The hospital has discretion to determine which needs are significant based on all facts and circumstances. The hospital also may use whatever criteria it thinks best to prioritize the need though it must describe the criteria in the assessment.
+
+
+
+In performing the assessment, the hospital must solicit input on identifying and prioritizing community health needs from at least one governmental public health department and from members of medically underserved, low-income, and minority members of the community. The hospital has the option of soliciting input from other community sources as well. The final regulations make clear that the hospital is responsible for soliciting the input but will not fail to meet the requirement if input is not in fact received. The CHNA must take account of written comments submitted in response to the last CHNA the hospital conducted and released.
+
+
+
+The CHNA must be documented in a report that describes the community, the needs identified, the prioritization and criteria used to set the priorities, a description of resources available to meet the needs, and an evaluation of the impact of any actions taken to address community health needs since the last CHNA was conducted. The report must also describe the process and methods used to conduct the CHNA, including the community input solicited and received and the data collected, though the final regulations allow hospitals that use data from external sources to cite to those sources rather than describing how the data was collected. The community input may be summarized. It is not necessary to describe each piece of input or written comment received.
+
+
+
+Each hospital facility may conduct its own CHNA or it may conduct the CHNA in concert with other hospital facilities. If two or more hospital facilities serve the same community, they may issue a joint CHNA. If two or more hospitals have parts of the community in common, the parts of their separate CHNAs addressing the shared portion of the community may be identical.
+
+
+
+The CHNA is complete when it is released to the public. The hospital organization must make the CHNA, and the last two preceding it, widely available to the public on a web site. Paper copies must be available for public inspection upon request.
+
+
+
+Implementation Strategy. The board of the hospital organization (or a committee or person delegated responsibility as permitted under state law) must adopt an implementation strategy that describes what the hospital plans to do in response to the health needs identified and the resources the hospital will bring to bear. If the hospital is not going to address one or more significant health needs identified, it must say why. Resource constraints or a lack of competence to address the need are satisfactory reasons. The final regulations extended the deadline for adopting the implementation strategy. Rather than requiring that it be done by the end of the taxable year in which the CHNA is completed, the final regulations give the hospital until the fifteenth day of the fifth month after the taxable year ends. That is the date the hospital's Form 990 is due for the taxable year if no extension is taken. If a new hospital facility is acquired or placed in service during the year, the facility has until the last day of the second taxable year beginning after the hospital facility is acquired, placed into service, or becomes subject to Section 501(r) to conduct the CHNA and adopt the implementation strategy for that facility. For example, if a hospital organization that is a calendar year taxpayer acquires a hospital facility on February 1, 2015, it will have until December 31, 2017, to complete the CHNA and adopt the implementation strategy for the newly acquired hospital facility. The hospital organization must also attach a copy of the most recently adopted implementation strategy for each hospital facility it operates to its Form 990 or provide the specific URL on the Form 990 of the web page on which it has made each implementation strategy widely available.
+
+
+
+Form 990 Reporting. On every year's Form 990, the hospital must describe the actions it has taken to address the significant health needs identified in its last CHNA. If no actions were taken, it must indicate why. The hospital is prompted to provide the information on the 2014 version of Schedule H, by Part V, Section B, line 11. It must enter the information in Part V, Section C.
+
+
+
+Tax for Failing to Complete Timely CHNA. A hospital organization that operates a hospital facility that fails to complete a CHNA, make it widely available and adopt an implementation strategy on a timely basis becomes liable for a $50,000 excise tax under Section 4959 of the Internal Revenue Code. The tax is due by the fifteenth day of the fifth month after the end of the taxable year in which the hospital facility was required to complete the CHNA. The tax is reported and paid with a separate return (Form 4720) but the amount of the tax is also required to be disclosed on Form 990.
+
+
+
+Financial Assistance Policy
+
+
+
+A hospital organization's governing board (or a committee or person delegated responsibility as permitted under state law) must adopt a written financial assistance policy ("FAP") for each hospital facility and consistently carry out the policy.
+
+
+
+Required Contents. The FAP must state the criteria for awarding financial assistance, the method of application for financial assistance, the nature of the financial assistance, and the basis for calculating charges for patients who qualify. The policy must state that those eligible for financial assistance will be charged no more than amounts generally billed. If the hospital does not have a separate billing and collection policy, the FAP must describe the actions the hospital may take in the event bills are not paid. Under the final regulations, if the hospital facility uses information separate from the FAP application to determine eligibility, it must describe what it uses and how. The policy must also describe whether and how it presumes certain individuals to be FAP-eligible. The policy must apply to all care provided by the hospital facility and—new to the final regulations—care provided in the hospital facility by a partnership or LLC in which the hospital owns a capital or profits interest. If a hospital organization operates more than one hospital facility, it may use the same policy for multiple facilities. The hospital retains full discretion to determine the eligibility criteria for financial assistance.
+
+
+
+The final regulations require the FAP to list nonemployee third-party providers who deliver emergency or other medically necessary care in the hospital facility and indicate whether or not each such provider is covered by the hospital's FAP. The regulations do not define "provider," leaving the hospital to exercise reasonable judgment about how providers are listed. The hospital may choose to list the names of the medical groups or professional corporations with whom it contracts rather than individual practitioners, particularly where the practitioners in the group change regularly and services are billed in the name of the group. If a third-party provider operates the hospital's emergency room and is not covered by the FAP, the IRS has said that the hospital facility "may not be considered to operate that emergency room, which in turn could have an effect on whether the hospital satisfies the factors for exemption under the community benefit standard long applied to hospitals under Revenue Ruling 69-545, 1969-2 C.B. 117." Note that under published IRS guidance, a specialty hospital is not required to operate an emergency room in order to meet the community benefit standard. Neither the regulation nor the preamble comments on consequences from having consulting specialists who are not subject to the FAP on call for the emergency room.
+
+
+
+Widely Publicizing the Policy. The hospital facility must widely publicize the FAP using specified procedures, including a couple added in the final regulations. It must post the FAP, the FAP application form and a plain language summary of the FAP in downloadable form on its web site or a web site linked to the hospital's web site. If the hospital has a separate billing and collection policy, it must post that as well. The plain language summary has to include a number of specified elements including contact information for a hospital office, a government agency or a nonprofit organization that assists patients with the financial assistance application process. The posted documents must be provided on request for free in paper form in the emergency room, admitting office, and by mail. Notices and applications may be provided electronically if the patient consents to using the electronic format. A paper copy of the plain language summary of the FAP must be offered to patients as part of intake or discharge. Conspicuous public displays about the FAP must be placed in the emergency room, admitting office, and other public locations in the hospital. A conspicuous written notice must be placed on all billing statements alerting the recipient to the availability of financial assistance and providing contact information for the office that can help provide information about the FAP and the application process. The requirement for a conspicuous notice was substituted for the provision in the proposed regulations requiring a plain language summary of the FAP on billing statements. To widely publicize the FAP, the hospital must also notify members of the community served by the hospital about the FAP in a way that has a high probability of reaching the individuals most likely to need assistance.
+
+
+
+The FAP, FAP application form, and plain language summary must be accessible to individuals who do not speak English. The final regulations require the documents to be translated into any language spoken by a group of 1000 or more individuals in communities of 20,000 people or larger and by five percent or more of the community in communities smaller than 20,000 people. Hospitals that participate in Medicaid and Medicare must already address comparable parameters as part of their compliance with nondiscrimination requirements under Title VI of the Civil Rights Act.
+
+
+
+Finally, the regulations make clear that the hospital must not only have the policy in place, it must consistently carry out the policy. The IRS acknowledged that errors may occur, but also said that the hospital facility will have met the requirement to establish a policy if resources have been provided and diligent effort made at implementation.
+
+
+
+Emergency Medical Care Policy
+
+
+
+A hospital organization governing board (or a committee or person delegated responsibility as permitted under state law) must also adopt a written emergency care policy for each facility that requires the facility to provide emergency care without discrimination regardless of whether the patient is eligible for financial assistance. A policy that requires operation consistent with the requirements of the Emergency Medical Treatment & Labor Act ("EMTALA") will be satisfactory. Under the final regulations, the policy must explicitly prohibit debt collection or other actions that discourage individuals from seeking emergency medical care such as demanding payment for unpaid balances or prepayment before providing treatment. Although a policy that requires compliance with EMTALA should implicitly prohibit such activities, hospitals may want to add an explicit provision to their emergency care policy prohibiting such activities for avoidance of doubt. Activities related to payment that do not create obstacles to treatment, such as inquiring about insurance coverage or method of payment, are permitted. As with the FAP, the regulations require the hospital not only to adopt the emergency medical care policy but also to consistently carry it out.
+
+
+
+Limitation on Charges
+
+
+
+For those eligible for financial assistance under the hospital's FAP, charges for emergency medical care and medically necessary care may be no more than amounts generally billed ("AGB"). Two methods are offered for computing AGB for emergency or other medically necessary care. One is a look-back method based on the average charge allowed by Medicare fee-for-service programs (i.e., Medicare Part A or Part B, Medicaid, and private insurers (including in their capacity as administrators of Medicare Advantage plans)). The other is a prospective method using amounts that Medicare's fee-for-service programs or Medicaid (fee for service or managed care) reimburse for the services. The final regulations added charges allowed by Medicaid to the permitted methods and also eliminated a reference to "primary payors." For the lookback method, charges allowed by both primary and secondary insurers are included. Both methods result in the calculation of a percentage reflecting the average amounts allowed by payors for emergency and medically necessary care during a 12-month period by the payors included in the method relative to the gross charges for the care. The final regulations confirm that the hospital has discretion to determine what is medically necessary care. The final regulations also allow the hospital to change the method used at any time. They also permit the hospital to use all charges allowed rather than just those for emergency and medically necessary care. A hospital may also use different percentages for different categories of care such as inpatient and outpatient or for separate items or services.
+
+
+
+Although the IRS offers only two methods for now, it left open the possibility of publishing future guidance offering other methods as knowledge is gained about other possible approaches. As reimbursement methodologies change with an increase in risk-based contracting, value-based billing, bundled payments and the like, additional methodologies are likely to be necessary. The IRS acknowledged in the preamble to the regulations that it was not clear how capitated payments could be associated with episodes of care. The preamble does say, though, that "if a hospital facility can reasonably allocate a capitated (or other lump-sum) payment made by an insurer to care received by particular patients during a 12-month period and has also tracked the gross charges for that care, it may be able to reasonably incorporate such payments into its calculation of one or more AGB percentages."
+
+
+
+Computation of AGB. Each hospital facility using the method that includes all payors must compute its AGB (or AGBs if distinguishing categories of care or items and services) separately unless multiple facilities are covered under the same Medicare provider agreement, in which case they may perform a combined calculation. The hospital facility must compute its AGB percentage at least once a year. The final regulations extended the amount of time the hospital has to implement the results of its AGB calculation, allowing it to take up to 120 days to implement the new AGB percentage once calculated.
+
+
+
+Resulting Charges to the Patient. When an individual is eligible for financial assistance, the hospital may bill the individual no more than the AGB percentage multiplied by what would otherwise be the gross charges for the care provided. The limitation applies only to the amount the patient is being asked to pay. Therefore, if a FAP-eligible patient is insured and must pay the hospital's charges until he meets his deductible, and must pay coinsurance beyond that point, the hospital may not charge the individual more than amounts generally billed for the services received, but the combination of the amounts billed to the individual and the amounts billed to the insurer may exceed amounts generally billed. This rule could provide meaningful assistance to individuals who have high-deductible plans and need help covering potentially thousands of dollars in costs before their insurance coverage absorbs any of the expenses.
+
+
+
+FAP-eligible patients must be charged something less than gross charges for any medical care that is not emergency medical care or medically necessary. Individuals not eligible for financial assistance under the FAP may be billed more than AGB (indeed they may be billed gross charges), and hospitals may continue to offer discounts to patients who are not eligible for the FAP. However, the IRS takes the position that any such discounts do not count as community benefit activities for purposes of the community benefit standard for exemption.
+
+
+
+Requirements Before Engaging in Extraordinary Collection Actions
+
+
+
+A hospital facility must make reasonable efforts to determine whether someone is eligible for financial assistance before proceeding to Extraordinary Collection Actions ("ECAs") for unpaid bills. If a hospital's financial assistance policy covers only emergency and medically necessary care and does not cover elective care, then the requirement for reasonable efforts does not apply to bills for elective care. However, it may not be practical to have different billing policies for different types of care.
+
+
+
+Extraordinary Collection Actions. In keeping with the proposed regulations, the final regulations define ECAs to include reporting individuals to credit agencies; legal or judicial processes such as filing liens, foreclosures, attachments, and garnishments; and selling debt. The final regulations create exceptions for liens on the proceeds of judgments resulting from personal injuries, claims filed in bankruptcy, and sales of debt to third parties subject to a binding agreement that requires the debt purchaser to refrain from ECAs, limit interest to the rate for tax underpayments established under the Internal Revenue Code, allow the hospital to recall the debt if the debtor is found eligible for financial assistance, and ensure that if the debtor is found to be eligible for financial assistance, the debt is reduced or eliminated to reflect the financial assistance. The final regulations add one more ECA: to defer or deny medically necessary care because of failure to pay for previously provided care or to require payment before providing medically necessary care because of an unpaid bill for previously provided care. (The care being deferred or denied would not be emergency care because EMTALA requires a hospital to stabilize the patient.) The hospital may still require payment of copays or other payments in advance of providing care as long as those are required regardless of any past nonpayment of the hospital's bills.
+
+
+
+Reasonable Efforts to Determine Eligibility for Financial Assistance. To make reasonable efforts to determine FAP eligibility, hospitals must refrain from taking ECAs for the first 120 days after the date of the first bill sent postdischarge unless the patient in question has submitted an application for financial assistance with the bill and an eligibility determination has been made. (Special rules described below permit the hospital to defer or deny medically necessary care during this 120-day period based on an unpaid bill if certain procedures are followed.) Reasonable efforts also require the hospital to provide notice to patients at least 30 days before the hospital initiates one or more ECAs. The notice must tell the patient that financial assistance is available, alert the patient to the ECAs that the hospital intends to take, and provide a plain-language summary of the financial assistance policy that must contain a number of specific elements, including information on how to apply for financial assistance and a contact that can help with the process. The hospital must also make a reasonable effort to notify the patient orally about the financial assistance policy and how to apply for financial assistance. The written notice is in addition to the conspicuous statement alerting patients to the availability of financial assistance the hospital must place on all billing statements as part of widely publicizing its financial assistance policy.
+
+
+
+With respect to applications for financial assistance, if notice has been provided no application for financial assistance is submitted, the hospital may proceed with ECAs beginning on the 121st day after the date of the first bill sent postdischarge. However, if an application is submitted anywhere up to 240 days after the date of the first bill sent postdischarge, ECAs must be suspended while the application is processed. If the hospital waits to send the notice informing the patient of its intent to begin ECAs until 210 days or more have passed from the first postdischarge billing statement, the hospital must give the patient at least 30 days after notice is sent to submit an application for financial assistance before beginning ECAs.
+
+
+
+The hospital must process any complete application filed within 240 days of the date of the first bill sent post-discharge, or if later, within a reasonable period of time after the notice informing the patient of the hospital's intent to pursue ECAs. ECAs must be suspended while the hospital reaches a decision on eligibility. The patient must be notified of the decision in writing. If the patient is found eligible for financial assistance but still owes the hospital something for the care, the hospital must provide a billing statement showing how the financial assistance has been applied and what is owed. The hospital must also make refunds of any amounts (over a $5 de minimis threshold) already paid that are not owed once financial assistance is applied and reverse any ECAs already taken. The hospital may proceed with ECAs once the application has been processed.
+
+
+
+If a hospital receives an incomplete application, it must suspend any ECAs and provide the individual with written notice describing what must be provided to complete the application and a contact who can help with the application process. The hospital must give the patient at least 30 days to respond and complete the application before initiating ECAs. If the patient completes the application during the time allowed, the hospital must suspend any ECAs while the application is processed. Once a complete application is submitted, the hospital must follow the process for completed applications described above. Note that if an application for financial assistance is submitted more than 240 days after the first postdischarge bill and after a reasonable period of time has elapsed since the hospital sent a notice of its intent to pursue ECAs, the hospital will not have to suspend ECAs while it processes the application. However, even if the hospital continues with ECAs, it must process the application, and if the application shows that the patient is eligible for financial assistance, it must reduce the charges to no more than the lesser of AGB or the amount provided in the FAP, and refund any amount paid in excess of the restated charges.
+
+
+
+Deferring or Denying Care Due to Unpaid Bill. There are special rules for compliance with the reasonable efforts requirement if the hospital is going to defer or deny medically necessary care to a patient because of unpaid bills for one or more prior episodes of care. Under these circumstances, if the patient were to come back for more care, the hospital might not be able to give at least thirty days notice before denying the care, which, as noted above, is considered an ECA. To make reasonable efforts to determine eligibility for financial assistance before denying care based on a past unpaid bill, the hospital must provide the patient with written notification that financial assistance is available and that care is being deferred or denied as a result of the prior unpaid bill. The hospital must also give the patient a financial assistance application form and clear notice of the deadline for filing the application which can be no earlier than 240 days after the first unpaid postdischarge bill. The deadline will need to be later than the 240 day mark if necessary to give the patient reasonable time (generally 30 days) to submit the application. If an application is submitted by such a patient, it must be processed on an expedited basis. If a patient with an unpaid bill returns for additional medically necessary care after a financial assistance determination has already been made for the unpaid bill, or more than 30 days after notice has been provided about ECAs the hospital intends to take regarding that bill, and that notice has alerted the patient that the unpaid bill means the patient could be denied care, the hospital may deny the care without providing additional notices or applications.
+
+
+
+The final regulations confirm that a hospital cannot satisfy the reasonable efforts requirement by soliciting waivers of financial assistance from patients, even those patients who clearly will not qualify. The hospital may use information from sources other than an application for financial assistance to determine eligibility for financial assistance, but those determinations are considered final only where the individual in question is determined eligible for the maximum level of financial assistance the hospital offers. If the individual is determined eligible for a lower level of financial assistance, reasonable efforts include telling the individual what was decided, what information was used to reach the presumption, and how the individual can apply for more generous financial assistance. Any application submitted thereafter must be processed promptly.
+
+
+
+The final regulations eliminate the requirement to keep documentation of all notices provided. However, hospitals must describe whether and how they made reasonable efforts to determine eligibility for financial assistance in response to question 20 of Part V of the 2014 version of Form 990, Schedule H, and keep the records necessary to substantiate their answers.
+
+
+
+Hospitals may provide required notices and information in electronic form if the recipient has agreed to accept electronic communication.
+
+
+
+Attachment of Audited Financial Statements
+
+
+
+The hospital must attach a copy of its audited financial statements for the taxable year to Form 990. The final regulations confirm that if the hospital's financial data are included in consolidated financial statements, the consolidated financial statements must be attached without redaction even if they include data from related taxable entities.
+
+
+
+IRS APPROACH TO ENFORCEMENT
+
+
+
+The Section 501(r) requirements are described in the statute as additional requirements for tax-exemption, suggesting that if a hospital facility fails to meet any of them, its exemption might be jeopardized. The IRS recognizes that hospital facilities may experience minor compliance failures despite their good faith efforts to comply with the Section 501(r) requirements. The final regulations take into account the efforts made by hospital facilities to comply with the law by using a three-tiered approach to failures to comply with Section 501(r).
+
+First, minor failures are disregarded if they are inadvertent or due to reasonable cause and are corrected as promptly as is reasonable given the nature of the error.
+
+Second, failures that are more consequential but are not "willful or egregious" will not result in loss of tax-exempt status or liability for a penalty if they are "corrected and disclosed" in accordance with future published guidance.
+
+Third, failures that are "willful or egregious" can result in taxation of the income from the noncompliant facility or loss of Section 501(c)(3) status.
+
+The IRS will disregard minor errors, or "foot faults," but only if they are inadvertent or due to reasonable cause. Repeating a failure that has previously been corrected may make it less likely the hospital can claim the failure is inadvertent. Having appropriate policies in place and practices and procedures reasonably designed to facilitate overall compliance with Section 501(r) helps a hospital establish that failures are due to reasonable cause. Appropriate procedures would include, for example, periodic monitoring to ensure that a financial assistance policy remains posted in visible locations, copies of required plain language summaries and applications for financial assistance are available in the right places in the hospital, and ensuring that all new employees in relevant departments are trained on the hospital facility's financial assistance policy. A single employee who fails to offer a patient a plain language summary of the financial assistance policy is likely a foot fault, but repeated failures to notify patients after neglecting to train staff in Section 501(r) requirements may be viewed as outside of the minor and inadvertent error exception.
+
+
+
+Under the final regulations, correcting an error must include establishment of procedures reasonably designed to achieve compliance (or review and possibly revision if procedures already exist).
+
+
+
+When omissions or errors rise above the level of minor and inadvertent, but do not reach the level of being willful and egregious, the IRS believes that a hospital facility's prompt discovery and correction, and public disclosure, of such omissions or errors is in the best interests of patients and will achieve transparency. Therefore, the final regulations excuse such failures if they are corrected and disclosed. The IRS has issued Revenue Procedure 2015-21 describing the required procedures for correction and disclosure that are effective as of March 10, 2015. Correction for the requirements other than the CHNA generally requires restoring individuals to the position they would be in had the failure not occurred and reviewing practices and procedures and making changes as needed to reduce the likelihood that errors will reoccur. Correction for CHNA errors involves making a CHNA containing all the required elements widely available. Disclosure must be made on Schedule H of Form 990. Dual status governmental hospitals that are not required to file Form 990 must disclose on the hospital facility's web site or on a site properly linked to the hospital facility's web site. Where multiple errors have occurred, they may be reported through a summary that aggregates the errors and estimates the number of individuals affected and, where applicable, the dollars involved.
+
+
+
+The final regulations define a willful violation as one that is due to gross negligence, reckless disregard, or willful neglect. Correction and disclosure of a violation tends to show that an error or omission was not willful. Failures are egregious if they are very serious, based on the nature of the impact and number of people affected.
+
+
+
+If a hospital violates the Section 501(r) requirements for a CHNA, and the violation is not minor and either inadvertent or due to reasonable cause, the violation will result in a penalty excise tax under Section 4959 regardless of whether the failure is corrected and disclosed.
+
+
+
+The Criteria for When Violations of Section 501(r) Requirements May Result in Revocation of Section 501(c)(3) Tax-Exempt Status
+
+
+
+Under the final regulations, a hospital organization's failure to comply with Section 501(r) will ordinarily result in revocation of Section 501(c)(3) status if the organization's failures to meet the requirements of Section 501(r) are willful or egregious. This determination is made on an "all-relevant-facts-and-circumstances" basis, including examination of the following nonexclusive list of factors:
+
+i. Whether the organization has previously failed to meet the requirements of Section 501(r), and, if so, whether the same type of failure previously occurred;
+
+
+
+ii. The size, scope, nature, and significance of the organization's failure(s);
+
+
+
+iii. In the case of an organization that operates more than one hospital facility, the number, size, and significance of the facilities that have failed to meet Section 501(r) requirements relative to those that have complied with the Section 501(r) requirements;
+
+
+
+iv. The reason for the failure(s);
+
+
+
+v. Whether the organization had, prior to the failure(s), established practices and procedures (formal or informal) reasonably designed to promote and facilitate overall compliance with the Section 501(r) requirements;
+
+
+
+vi. Whether the practices and procedures had been routinely followed and the failure(s) occurred through an oversight or mistake in applying them;
+
+
+
+vii. Whether the organization has implemented safeguards that are reasonably calculated to prevent similar failures from occurring in the future;
+
+
+
+viii. Whether the organization corrected the failure(s) as promptly after discovery as is reasonable given the nature of the failure(s); and
+
+
+
+ix. Whether the organization took the measures described in (vii) and (viii) before the IRS discovered the failures.
+
+Facility-Level Tax Imposed on Income from Noncompliant Hospital Facilities
+
+If a failure to meet one or more of the Section 501(r) requirements occurs at one hospital facility in a multifacility organization, does not result in revocation of tax-exempt status, but is more than minor and is not disclosed and corrected so as to be excused, the income (gross income less directly connected expenses) from the noncompliant facility will be subject to tax at the normal 35 percent corporate rate for the taxable year(s) during which it is noncompliant. This calculation excludes any gross income and deductions already taken into account in computing any "unrelated business taxable income" derived from the facility. If the organization has more than one noncompliant facility, it must make reasonable allocations of items of income and expense between and among the noncompliant facilities (the default rule for allocating exempt and non-exempt function expenses for unrelated business income ("UBI") purposes). The income from the noncompliant facility is to be reported on the organization's Form 990-T, Exempt Organization Business Income Tax Return, which will be revised to accommodate this new reporting.
+
+
+
+Limiting Adverse Impact on Tax-Exempt Bonds
+
+
+
+The final regulations make clear that if a hospital organization operating a noncompliant hospital facility continues to be recognized as described in Section 501(c)(3) and is otherwise exempt from tax under Section 501(a), the fact that a facility-level tax is imposed as a result of the facility's failure to comply with Section 501(r) will not itself cause the interest on the facility's bonds to be taxable. Hospital organizations, however, should be mindful of bond covenants and SEC Rule 15c2-12 disclosure obligations that may apply to instances of Section 501(r) noncompliance.
+
+
+
+When Do the New Requirements Go Into Effect?
+
+
+
+The requirement to perform a CHNA went into effect for taxable years beginning after March 23, 2012. Every hospital facility that was operated by a Section 501(c)(3) organization as of the date of enactment of the ACA (March 23, 2010) should have conducted at least one CHNA and adopted a corresponding implementation strategy by no later than July 2014. The requirements to adopt a written financial assistance policy, a written emergency care policy, to limit charges to those eligible for financial assistance to amounts generally billed and to make reasonable efforts to determine eligibility for financial assistance before initiating ECAs, all went into effect upon enactment on March 23, 2010. Hospital facilities must comply in the specific ways required under the final regulations for taxable years beginning after December 29, 2015. That gives most hospitals at least a year to ensure they have their policies properly publicized, they have a proper computation of amounts generally billed, and have appropriate adjustments to their billing and collection systems. For the time between enactment of the ACA and the date the hospital facility becomes subject to the final regulations, the hospital facility must still comply with the statutory requirements, but the IRS will treat the hospital as in compliance if it has been following a reasonable, good faith interpretation of the statute.
+
+
+
+Many hospitals also may be aware that Section 4959(c), added by the ACA, requires the IRS to review the community benefit activities of each hospital organization at least once every three years. These reviews are typically performed without direct contact from the IRS, e.g., by reviewing information filed on Form 990, Schedule H. The IRS, working with the Department of Health & Human Services, is also required by Section 4959(e)(1) to report annually to Congress on the levels of charity care provided by private tax-exempt, taxable, and governmental hospitals. Any of these review activities can lead the IRS to open an audit of a hospital organization to assess potential noncompliance with Section 501(r).
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

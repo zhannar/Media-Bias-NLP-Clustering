@@ -1,0 +1,47 @@
+The recent Ebola outbreak in West Africa has raised public awareness about the risks of healthcare associated infections, as the U.S. healthcare workers in Africa acquired Ebola while working in a healthcare setting.
+
+[See also: HAI monitoring technology use is lacking]
+
+Although the Centers for Diseases Control and Prevention reports a declining trend in HAIs in general, and while not all countries employ the same level of prevention control as the United States, the problem of HAIs remains a concern.
+
+According to the CDC, on any given day, about one in 25 hospital patients have at least one HAI. In 2011, the most recent CDC numbers show, there were an estimated 722,000 HAIs in U.S. acute care hospitals. Close to 75,000 hospital patients with HAIs died during their hospitalizations. In addition, more than half of all HAIs occurred outside of the ICU, according to the CDC.
+
+[See also: HAI benchmarking tool allows hospitals to share results, practices]
+
+Increasingly, healthcare professionals involved with infection control are using as part of their armamentarium, infection surveillance software to detect outbreaks of infectious diseases in healthcare settings as well as data mining tools to track the transmission of drug-resistant organisms.
+
+"Data mining has proven to be effective when used for medication safety practices and helps identify areas of improvement," said Allie Woods, director of the section of pharmacy informatics and technology at the American Society of Health System Pharmacists. "It could be used to access trends in anti-infectives regimens and utilized as part of anti-microbial stewardship."
+
+Saint Agnes Medical Center in Fresno, Calif., has seen a noticeable reduction in blood stream infections, urinary tract infections, as well as a significant decrease in Clostridium difficile, or C. diff., since deploying infection control software, MedMined, an evidence-based infection monitoring system from CareFusion Corp. in 2005.
+
+"We have a wide range of uses for MedMined," said Christi Paradise, RN, infection control and prevention coordinator at St. Agnes. "The first is a daily use. We have what are called sentinels [sentinel events] and we have defined what we want it to notify us about. Usually we set ours at multi-drug resistant organism."
+
+Paradise said MedMined has been effective because it gives health care professionals information they need in order to take actions or engage in activities that contribute to the reduction of HAIs.
+
+The technology also provides a cost accounting feature that takes a look at patients that are very similar in there risk of getting an infection and it compares with patients that did, and did not get an infection and then calculates the difference in cost.
+
+Early next year, the hospital will deploy a new component from CareFusion, that's more pharmacy-related, said Paradise. It will alert health care practitioners when a patient is on an antibiotic that they may be resistant to.
+
+Chad Glover, national vice president of sales and customer relations for CareFusion said MedMined's SaaS model offers plenty of benefits.
+
+"One of the great things having a software as a service model is that we have the ability to do population-wide analysis, not only at the hospital-level but across health systems, CDC regions, and nationally," said Glover. Moreover, he said, "standardized data enables us to know that we're viewing the data in the same manner at a hospital in Birmingham Ala. as we're viewing the data at a hospital in Seattle."
+
+MedMined employs the use of advanced analytics to help pinpoint patient population groups that need additional focus or that further evaluation of care. This is accomplished through a patented nosocomial infection marker. That patented algorithm, said Glover, identifies patients who have likely acquired an HAI.
+
+"We utilize algorithms to look at the patient's current condition as we receive them; it's not making the final clinical determination," he said. "The algorithm reviews all of the patients and acts as a filter to narrow the scope of what needs to be evaluated by the clinicians."
+
+Glover said it becomes very challenging for infection preventionists to be able to do whole-house surveillance on all infection types, not just does that are required to be reported to the government.
+
+"Our system uses data mining technology to mine through all the hospital data and identify trends that could be outbreaks or clusters that have occurred that the hospital may not have previously identified. We really look at this technology as identifying the smoke before the fire."
+
+Glover noted that the Affordable Care Act and meaningful use have brought increased visibility to infection prevention efforts to hospital board-rooms across America.
+
+"CMS has a penalty through the Inpatient Hospital Quality Reporting Program related to the reporting of HAIs," he pointed out. "If hospitals fail to meet the reporting requirements to the National Health Safety Network they are at risk for two percent penalty of CMS reimbursement dollars. This has certainly increased visibility as we're moving into value-based purchasing."
+
+Paradise noted that the complexity of health care and the overuse of antibiotics are among the contributors to HAIs. "There are more central lines, more ventilators, and the surgeries are more complex," she said. "So each time you have more complexity and you add more instrumentation, it just makes it more complex and more opportunities for those germs to get into a person."
+
+The worldwide overuse of antibiotics is also a major concern said Paradise.
+
+"People can go to other countries and sometimes just go into the pharmacy and buy antibiotics without a prescription. People share prescriptions. It's the misuse and overuse of antibiotics that has especially contributed to certain things like Clostridium difficile."
+
+[See also: iPad touch technology tapped to fight infections]

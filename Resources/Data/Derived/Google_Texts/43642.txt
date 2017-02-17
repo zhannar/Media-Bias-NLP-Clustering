@@ -1,0 +1,51 @@
+As the accountable care phenomenon continues to be embraced by patient care organizations across the U.S., it is flourishing strongly through a wide variety of different organizational arrangements. One of the very forward-thinking of these has been created by the St. Louis-based Ascension Health, the largest not-for-profit health system in the U.S. The leaders at Ascension Health have chosen to create Mission Point Health Partners, a Medicare MSSP ACO caring for more than 100,000 members across middle Tennessee, led by Jason Dinger, president and CEO of the Nashville-based Mission Point Health Partners. The focus there has been ramping up quickly around data analytics to identify the accountable care organization (ACO) members in need of the most intensive medical interventions and care coordination.
+
+At Mission Point, Dinger and his colleagues have been working with the Washington, D.C.-based Advisory Board Company in that area, leveraging a solution from that organization’s Crimson Analytics suite, one of the many analytics solutions options available on the market now. Speaking of the need to plunge into that area, Dinger says, “One of the most important things we’ve done is that we’ve made significant investments in data analytics and data mining tools, with the express interest in understanding our population and some of their unique needs. The technology really allows us to find the most people in need, and to discern what kinds of services they need.”
+
+
+
+Jason Dinger
+
+Mr. Dinger was one of a number of healthcare leaders interviewed by HCI Editor-in-Chief Mark Hagland for the magazine’s July-August cover story. Below are excerpts from his interview with Hagland this spring.
+
+Tell me about your organization?
+
+Mission Point Health Partners is, by the traditional definition, an ACO, meaning, we manage the healthcare needs for large populations. We are a subsidiary of Ascension Health; they are our parent organization. And we were created in order to do work on four issues: we wanted to improve the health outcomes of individuals, wanted to lower their healthcare costs, wanted to improve their satisfaction with the health system, and wanted to improve the satisfaction of providers. We’re based in Nashville; we manage more than 100,000 members across multiple populations, and our network involves more than 1,600 physicians and nine hospitals, in middle Tennessee.
+
+How many staff do you have?
+
+We are approaching 100 employees.
+
+When were you incorporated?
+
+We were founded in 2011 and started working with our first member in January 2012.
+
+Are you a Medicare MSSP?
+
+Yes, we’re participating in the Medicare Shared Savings Program; we started in July 2012 with that program. And then we also manage populations that are self-insured; an exchange population; and Medicaid members.
+
+You’re managing the care of members coming to you via a health insurance exchange set up through the Affordable Care Act?
+
+Yes, we have a contract with Blue Cross Blue Shield of Tennessee, to manage a large exchange population.
+
+What are some of the core things you’re doing?
+
+To start, we have made significant investments in data analytics and data mining tools, really with the express interest in understanding our population and some of their unique needs. The technology really allows us to find the most people in need, and to discern what kinds of services they need.
+
+Do you have a data warehouse?
+
+Our principal partner that we used to get started was Crimson Analytics, from The Advisory Board Company. We use a whole suite of tools that they provide. One initial tool we used is their population risk management tool, which allows us to understand the historical claims that each member has.
+
+It takes insurance claims data and helps you analyze it?
+
+Yes, and then we use what had been called Care Team Connect, and which they call it Crimson Care Management. It is an electronic health record [EHR] that tracks interactions; so when somebody does a home visit for a member, someone would track that. It’s separate from the hospital and physician EHRs, but interfaces with them. And then we use Crimson Care Registry, which aggregates discrete data elements across the population, so we can know how many people have gotten a flu shot or mammogram, and allows us to identify gaps. Both the Crimson Care Management and Crimson Care Registry interface with EHRs. And the Crimson tool aggregates into a master member index.
+
+And then Crimson Analytics helps you analyze all the data?
+
+Yes.
+
+When did you go live with the tools?
+
+We had been working with CareTeam Connect; they were a separate company at the time, but were later acquired by The Advisory Board Company. We deployed most of the tools in the middle of 2012.
+
+When you started applying the tools, what did you learn?

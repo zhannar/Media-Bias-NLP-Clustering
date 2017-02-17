@@ -1,0 +1,83 @@
+Many Americans assume their money is relatively safe regardless of where the account is located. As hackers have moved from retailers to banks, the likelihood of retirement accounts being the next target is increasing.
+
+While having access to financial accounts, including banking and retirement portfolios, has increased accessibility to consumes, it has also increased the risk of fraud “significantly,” said Paul Martini, CEO of iboss Network Security, a San Diego network security provider.
+
+The recent attack on the IRS used personal data such as Social Security numbers stolen in previous breaches and cyber attackers are now “monetizing insight from personal information aggressively,” said Ben Johnson, a chief security strategist of Bit9 + Carbon Black, a Waltham, Mass. security company.
+
+“Retirement accounts are squarely in their crosshairs,” he added.
+
+Related: Millions of Samsung Galaxy Phones May Be Vulnerable to Hackers
+
+IRA and 401(k) accounts are even more attractive targets for hackers, because most people do not track them the way they do their credit cards or checking accounts. The thefts could wind up being undetected for months.
+
+Even cyber criminals who are “semi-skilled” can access a victim’s 401(k) or IRA account easily using stolen personal information and social engineering tactics, Johnson said.
+
+“Once they have access to the account, it can be emptied in a matter of minutes, but the victim may not realize it until they do their annual review of their retirement accounts months later,” he said.
+
+Although retirement accounts are insured by the FDIC for up to $250,000,FDIC insurance only “comes into play if a bank fails,” said David Barr, a FDIC spokesperson. “Banks carry separate insurance to cover losses or other liabilities.”
+
+Vanguard, the Valley Forge, Pa. mutual fund company that has more than 20 million investors and manages $3.3 trillion globally, will reimburse funds taken from an account in an unauthorized transaction, said David Hoffman, a Vanguard spokesman.
+
+Related: Health Care Equipment Could Be Vulnerable to Hackers
+
+In 2014, Vanguard added two-factor authentication which allows investors to opt into a service that requires them to enter a code which is sent to their cell phone via text message before they are able to log onto the website.
+
+
+
+"Clients can choose to always receive this code for log-ins or only from unrecognized devices," he said. "This service is designed to provide added protection when accessing Vanguard, because someone will not only need to know your user name and password, but will also need access to your mobile device to obtain a one-time security code that would be sent to you during each log on once you opt-in to this service."
+
+After studying the top nine banking Trojans -- the software written to steal information from consumers that would allow the attackers to take over their bank accounts and transfer money out -- Symantec's research found that all nine of them are capable of stealing log-in and password information from customers of over 1,400 different banks, said Kevin Haley, director of security response at Symantec.
+
+“People's finances are already under attack,” he said. “The threat is there today.”
+
+Related: Cybercrime Costs the Economy Much More Than You Think
+
+Any data posted on the Internet is vulnerable to attacks, including that related to your 401(k) and IRA accounts.
+
+
+
+“Your money can disappear,” said Sergio Galindo, a general manager for GFI Software, an IT services provider based in Durham, N.C. If it happened to JP Morgan Chase and other financial companies that invest in millions of dollars to prevent and detect “rogue access,” then it can happen to any account, he said. Finding the hackers is becoming more of a challenge and can take weeks, if not longer.
+
+Cyber criminals are not giving up, especially since many consumers make hacking fairly easy for them. Industry experts estimate that half of people are using the same ID and password combination on multiple accounts.
+
+These criminals are coming smarter, and even phishing has become more sophisticated and believable, with emails claiming, for example, consumers' Home Depot accounts were accessed and asking them to log-in again to change the password, he said.
+
+Related: Fighting Cybercrime Doesn’t Have to Cost a Fortune
+
+Too few consumers are checking their accounts on a regular basis. Galindo recommends checking your account for charges or other changes at least once a month.
+
+“Little charges sometimes indicate bigger issues," he said. "If you don’t recognize it, ask and stop the charge.”
+
+Consumers can safeguard their accounts better by following these five tips:
+
+Don’t make it easy for the hackers. If your browser gives you the option to remember your password, always say no. “Typing in your password also assures that you are physically the one interacting with the system,” Martini said.
+
+Related: Your Identity May Be Stolen at Your Next Doc Visit
+
+When you are shopping online, make sure the website is one you can trust such as PayPal or Amazon, which are more likely to have “security policies in place over a small run-of-the-mill website,” he said.
+
+Always opt to use your bank card as a credit card instead of a debit card, because “recovering fraudulent activity from a credit card is much easier as it doesn’t lock up your bank account funds while that’s in process,” Martini said.
+
+Use strong passwords that are not related to your personal information. Avoid your birthday, a pet’s names or other information someone can find via social media, said Shawn Marck, an executive vice president at Nexusguard, a San Francisco-based security provider.
+
+Take advantage of two -factor authentication when it is available. Some retirement account providers such as Vanguard will text a code to your smartphone before you can log-in.
+
+Related: The Internet Scam That Hijacks Your Hard Drive
+
+“IRAs and 401(k)s are no more secure than your favorite online retail account,” Marck said. “The log-in processes are virtually the same, and in many cases, users do not follow good password discipline or take advantage of two-factor authentications unless they are forced to do so.”
+
+The bottom-line is that all of your accounts, ranging from your Dropbox to your financial ones, can be hacked because anything with a username and password connected to the Internet is “susceptible to an attack,” said Luis Chapetti, a software engineer and data scientist at Barracuda, a Campbell, Calif.-based security and storage solutions company.
+
+“Nothing is safe,” he said. “Proper security protocols and appliances mixed with educating users is the best way to mitigate these and any attacks.”
+
+Passwords remain the “weakest links” for data theft, Chapetti said. As the industry matures, passwords need to become obsolete, because they are “dangerous to Internet security and in this case, all information relating to 401k data.”
+
+This article originally appeared on Main Street.
+
+Read more from Main Street:
+
+'How I Retired Early': 6 Folks Share Their Unique Journeys and Secrets to Success
+
+10 Housing Markets Where It's Better to Buy Than to Rent
+
+6 Credit Cards That Give You the Most Cash Back

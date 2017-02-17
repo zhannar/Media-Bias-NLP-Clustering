@@ -1,0 +1,37 @@
+In theory, hospitals that don't keep patients' hospital-acquired infections (HAIs) under control are subject to costly penalties. In practice, they have numerous methods at their disposal to disguise the rates of such infections, according to a working paper from researchers at the Stanford Graduate School of Business.
+
+The researchers, led by Mohsen Bayati, compared data from states with stringent requirements for HAI reporting with data from states with weaker ones and found substantially lower rates in the latter states. The gap persisted after accounting for variations in patient demographics and other factors. Bayati and his team estimated about 11,000 cases per year of upcoding--assigning an inaccurate billing code to increase reimbursement--to infection data from 492,000 Medicare patients. This works out to about $200 million in reimbursements based on inaccurate information.
+
+It generally takes an audit to detect upcoding, according to an announcement from the university, as reimbursement claims at hospitals engaged in the practice will contradict lab results and nursing reports.
+
+The cost, Bayati said in the announcement, is not so much the $200 million itself; rather, the real danger in this practice is that HAI penalties don't provide incentives for improvement, but upcoding may create the mistaken impression the penalties work. The entire penalty system hinges on the assumption that hospitals' reported rates are accurate, according to the researchers.
+
+"Medicare's current plan to increase penalties through the HAC [Hospital-Acquired Condition] Reduction Program does not address these concerns, and may in fact exacerbate the problem since hospitals with high HAC rates will face even greater financial pressure to engage in upcoding," they wrote.
+
+For better results, the researchers argued, hospitals should step up reporting requirements and targeted auditing, as demonstrated by the data from states with stricter reporting rules. Rather than simply having a system in place for patient harm reporting, hospitals should require so much information that upcoding becomes too much trouble.
+
+The findings echo recent concerns that hospitals use admission status to create the illusion of readmission reductions, which the Department of Health and Human Services contradicted with its own data, FierceHealthcare previously reported.
+
+To learn more:
+
+- read the paper
+
+- here's the announcement
+
+Related Articles:
+
+CDC report indicates progress on HAI reduction
+
+Drop in HACs saves thousands of lives, $12B in costs
+
+Medicare to penalize hospitals with highest rate of HACs
+
+Infection prevention for ICU patients extends lives, saves hospitals thousands
+
+Hospital medical errors now the third leading cause of death in the U.S.
+
+Fed data contradicts theory that observation stays skew readmissions data
+
+Evidence grows of link between increased observation stays, lower readmissions
+
+As readmissions fall, observation status rises--even at hospitals outside readmissions programs

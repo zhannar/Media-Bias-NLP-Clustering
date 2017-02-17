@@ -1,0 +1,25 @@
+‘Use-or-Lose’ Budgeting Fuels U.S. IT Failures
+
+It's the end of the federal government's fiscal year, and that means government agencies will go on a use-it-or-lose-it spending spree before midnight on Sept. 30. Much of that last minute spending will go toward IT contracts that, according to researchers, frequently turn out badly.
+
+A study co-authored by a former U.S. budget official and a Stanford University economist examined the relative bang-per-buck of year-end spending over a five-year period on $130 billion worth of federal IT projects. They documented spending spikes in the last week of each fiscal year and concluded that "average project quality falls at the end of the year" and that IT projects in particular suffered due to year-end spending pressure.
+
+A key reason for the failure of U.S. IT projects is that most federal agencies must return obligated funds they do not spend by Sept. 30. In one instance, the researchers reported that potential IT contractors would line up outside federal agencies in the last week of the fiscal year in case last minute funding was approved for their project.
+
+A few agencies like the Justice Department have received special authority from congressional budget appropriators to roll over unused funding to the next fiscal year. In those instances, the researchers found only a small spike in end-of-year IT spending and above average quality for IT projects.
+
+The IT spending study was conducted by Jeffrey Liebman, a former Office of Management and Budget official who now teaches at Harvard University's Kennedy School of Government and Stanford economist Neale Mahoney. They looked at a dataset on the status of 686 major federal IT projects.
+
+"Spending on these IT projects spikes in the last week of the fiscal year, increasing to 7.2 times the rest-of-year weekly average," the researchers found. "In tandem with the spending increase, there is a sharp drop-off in investment quality."
+
+The inevitable result is wasteful spending on badly needed IT infrastructure as federal agencies struggle to make the transition to cloud computing and storage. A key federal IT initiative called the FedRAMP (Federal Risk and Authorization Management Program) was created to oversee the estimated $3 billion federal cloud computing market. So far, FedRAMP has had mixed results.
+
+Along with budget pressures, federal cloud computing competitions are plagued by constant protests and evolving security requirements. For example, the U.S. Government Accountability Office this week rejected claims by vendor SRA International that its proposal for a secure cloud services contract was unfairly evaluated by the Department of Health and Human Services.
+
+HHS oversees the healthcare exchanges created under the Affordable Care Act. The cloud infrastructure underlying the "Obamacare" website failed to keep up with soaring demand late last year in an IT failure characterized by frequent site crashes. In July, the healthcare site was breached when an IT administrator mistakenly connected a test server to the Internet.
+
+Besides FedRAMP, another remedy to the federal IT mess would be granting government agencies more budget flexibility to avoid the year-end spending binge and the resulting waste, researchers Liebman and Mahoney argued.
+
+Share this: Tweet
+
+Related

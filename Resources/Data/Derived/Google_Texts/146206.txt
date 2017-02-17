@@ -1,0 +1,33 @@
+The notice regarding ThreatConnect was posted by HHS at 3:42 PM on Thursday, December 5, and stated that responses would be needed by 8:00 a.m., Monday, December 9. The documentation accompanying the notice does not explicitly mention the Affordable Care Act or Healthcare.gov, but emails sent Thursday to the listed contracting officer and the HHS press office requesting clarification have not been returned.
+
+Some of the terminology used in this document raises questions about the scope of the monitoring. For instance, although the document references the "Healthcare Threat Operations Center (HTOC)", the federal government's 2013 Information Sharing Services annual report to Congress makes no mention of the HTOC among the five Federal Cybersecurity Centers, nor is there any other reference to a "Healthcare Threat Operations Center" on the HHS website or any other government website. References to each of the other potential data sources can be found on various government websites and documents.
+
+In the past eight months the number of indicators monitored by the CSIRC has grown well over 500 percent. With the inclusion of the federal Healthcare Threat Operations Center (HTOC) information sharing data from HHS CSO, VA-Network Security Operations Center (VA-NSOC), and the Space and Naval Warfare NSOC for Medical Health Systems (SPAWAR NSOC (MHS), the ability to analyze and correlate this much data requires the use of Threat Connect to be effective and efficient in combating cyber threats. This capability will allow for the joint collection and tracking of internally and externally derived indicators more efficiently as well as facilitate the analysis and correlation of a threat.
+
+The document states that the agency's Computer Security Incidents Response Center (CSIRC) has experienced more than a five-fold increase in the number of "indicators" monitored by the center in just the last eight months alone. To cope with the potential threats from this vast increase in data, HHS intends to negotiate a sole-source contract to Cyber Squared , an Arlington, Virginia, cyber security firm after allowing less than four days (including a weekend) for responses from other interested firms, and even explicitly states that HHS is not soliciting competitive quotations. HHS describes the apparently urgent need for upgraded threat monitoring as follows:
+
+Concerns have increased over the security of personal information collected by the Department of Health and Human Services (HHS) as the volume of personal data has multiplied dramatically with the implementation of Obamacare. Security experts have testified before Congress about flaws they have uncovered at Healthcare.gov, and various press reports have related other potential problems with the website or with information flowing to the Federal Services Data Hub that could be exploited by hackers and identify thieves. An HHS document dated December 5 describing a more than 500 percent increase in the monitoring of cyber threat indicators since April 2013 may only increase those concerns.
+
+The Weekly Standard http://assets.weeklystandard.com.s3.amazonaws.com/tws15/images/logo-large.png
+
+The Weekly Standard
+
+2013
+
+Washington, DC
+
+Politics
+
+http://www.weeklystandard.com/hhs-panics-about-security-glitches-offers-sole-source-contract-to-tech-firm/article/769723
+
+2013-12-09T08:54
+
+2013-12-09T09:13
+
+HHS Panics About Security Glitches, Offers Sole-Source Contract to Tech Firm
+
+Concerns have increased over the security of personal information collected by the Department of Health and Human Services (HHS) as the volume of personal data has multiplied dramatically with the implementation of Obamacare. Security experts have testified before Congress about flaws they have uncovered at Healthcare.gov, and various press reports have related other potential problems with the website or with information flowing to the Federal Services Data Hub that could be exploited by hackers and identify thieves. An HHS document dated December 5 describing a more than 500 percent increase in the monitoring of cyber threat indicators since April 2013 may only increase those concerns. The document states that the agency's Computer Security Incidents Response Center (CSIRC) has experienced more than a five-fold increase in the number of indicators monitored by the center in just the last eight months alone. To cope with the potential threats from this vast increase in data, HHS intends to negotiate a sole-source contract to Cyber Squared, an Arlington, Virginia, cyber security firm after allowing less than four days (including a weekend) for responses from other interested firms, and even explicitly states that HHS is not soliciting competitive quotations. HHS describes the apparently urgent need for upgraded threat monitoring as follows:
+
+Barack Obama, Health Care, HHS, Kathleen Sebelius, Obamacare, security, Jeryl Bier
+
+http://cdn.weeklystandard.biz/cache/280x280-d36685c72f2aeaccec08d092c68bdbca.jpg

@@ -1,0 +1,51 @@
+The probability of some repeal of Obamacare has increased in the 114th Congress, based on the repeal record of all landmark laws enacted since the 1950s. But the highest risk of repeal comes in the fifth Congress after a law is passed.
+
+In this Oct. 5, 2011, file photo, then-Sen. Jim DeMint (R) of South Carolina (c.) joins other conservative lawmakers to call for the repeal of President Obama's Patient Protection and Affordable Care Act, often called 'Obamacare,' during a news conference on Capitol Hill in Washington.
+
+It didn’t take them long, did it?
+
+Just a few days into the 114th Congress, Republicans in the House passed not one, but two bills to undo elements of the Affordable Care Act.
+
+What follows is the first of two posts about the effort to “repeal Obamacare.” For today, I’ll address two big picture elements of these repeal efforts. Next week’s post will tackle some finer questions, looking in particular whether Republicans are likely to succeed in repealing Obamacare.
+
+Recommended: How much do you know about health-care reform? Take our quiz!
+
+What follows is based on two papers I’ve written on the topic of policy repeal. See for example this paper published in the journal American Politics Research. In brief, for this project I dug through various historical documents and created a dataset of all major repeals since the late 1800s. With this data, I developed a statistical model that examines when and why repeal happens.
+
+Republicans are serious this time
+
+I first want to suggest that, this time around, Republicans are “serious” about repealing Obamacare. I also want to use last week’s votes to put repeals in historical context.
+
+Recall that, in the 113th Congress, the Republican-controlled House of Representatives passed more than 50 measures to undo Obamacare. Most of these votes were on bills designed to repeal all or most of the law. Notably, this isn’t how laws are usually undone.
+
+First, the word “repeal” is synonymous with various actions: defunding, invalidation by the courts, sunset provisions, amending activity, etc. All are tied to a broader topic, “policy change,” but are technically different actions.
+
+Second, it’s quite rare for a law to be repealed in its entirety. I found in the course of my research that this is true throughout history, but especially true today given the increasing complexity of legislation. Rather, individual provisions (often, a tiny fraction of a bill) are modified or repealed.
+
+For example, in 1988 Congress passed the Medicare Catastrophic Coverage Act and, just a year later, repealed major elements of it. Observers remember this landmark law as one of the “shortest-lived pieces of social legislation” (see Eric Patashnik’s excellent book “Reforms at Risk,” pg. 74). But even in this extreme case, some elements of the MCCA remained in place after those repeals were adopted.
+
+What’s important here is that, even if Republicans are successful in their repeals efforts, it’s likely that major elements of Obamacare will remain in place. Indeed, some aspects of the law are incredibly popular.
+
+Now, in the 113th Congress, because Democrats controlled the Senate, Republicans knew their chances of repealing the entire Affordable Care Act were almost exactly zero. Voting to repeal the whole bill wasn’t a “serious” attempt but was, instead, an act of what political scientists call “position-taking.” Note: that’s not a criticism. In some ways, you could argue the whole repeal drama in 113th Congress was a “good thing” because it gave voters a clear choice between two policy alternatives (i.e. voters knew what the two parties would do if given control of the House and Senate).
+
+Here’s the point: What happened in the first few days of the 114th Congress was something qualitatively different than what happened in the 113th Congress. On the surface, you would think that, after winning control of the Senate in rather dramatic fashion, Republicans would once again advance a bill to repeal the entire Affordable Care Act. But again, that’s not how laws are usually undone.
+
+Instead, Republicans advanced two piecemeal bills that target specific provisions of the act. Ergo, they’re going about it in a very calculated manner this time around (contrary to the wishes of some hardliners, who see this piecemeal approach as increasing the law’s strength). On Tuesday, the House passed a bill to exempt Veterans from what counts towards businesses’ employee limit. It passed 412-0. And on Thursday, the House passed a bill that changes a provision defining the work requirement regarding what’s considered “full time” employment. It passed 252-172.
+
+As a whole, don’t be surprised to see Republicans succeed in the 114th Congress modifying or even repealing some elements of the Affordable Care Act this session. In fact, I think it’s an inevitability.
+
+The likelihood of repeal will Increase in the 115th and 116th Congresses
+
+In next week’s post, I’ll examine specific factors that affect the probability of repeal. However, policy repeal has a broader pattern. Here’s a chart with what you need to know:
+
+The chart (from this paper) is the hazard of repeal after passage for all landmark laws enacted since the 1950s. Higher values indicate a greater likelihood of repeal in a subsequent Congress while lower values indicate a lower likelihood of repeal.
+
+What the figure shows is that repeals become increasingly likely up to five subsequent Congresses (or 10 years) after a law is enacted. We can see that the “peak” in the likelihood of repeal is in the fifth Congress after passage. After this 10-year window, repeals become increasingly less likely for the reminder of a policy’s lifecycle. After about 20 Congresses have passed (or, 40 years), repeals have just a 4 percent chance of happening.
+
+Now, because this is the 114th Congress, we’re at just three Congresses since the law was enacted. Big picture: the probability of some repeal has indeed increased in the 114th Congress, but we’re still two Congresses (or, four years) from when the law will be most “at risk.” (Note: This is based on the general pattern of repeal. Specific factors will vary.)
+
+Certainly, that’s bad news for Democrats (i.e. the worst isn’t here yet). However, the good news for Democrats is that if the law survives for the next decade (for example, if Hillary Clinton wins election in 2016), the probability of repeal begins to drop off precipitously.
+
+Why does this regular pattern exist? In the first part of a policy’s lifecycle, soon after it was signed by the president, when major elements or the law are being implemented for the first time, flaws begin to develop such that the original law needs to be revisited. In other words, it’s normal for lawmakers to revisit legislation after they observe its real world performance. After the 10-year period, however, laws become “institutionalized” such that modification or repeal is difficult to accomplish. Consider entitlement programs (like the Affordable Care Act). It’s hard to repeal a policy that provides groups of citizens with some material benefit.
+
+Jordan Ragusa publishes his Rule 22 blog at http://rule22.wordpress.com/.

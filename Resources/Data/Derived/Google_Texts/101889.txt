@@ -1,0 +1,33 @@
+Roger Cheng/CNET
+
+Verizon Wireless is testing out its cellular video service, called multicast, and will broadcast the Super Bowl over its network on Sunday.
+
+The only catch is the trial is extremely limited -- in fact limited to a single room inside Verizon's Power House, a temporary installation set up in Manhattan's Bryant Park.
+
+It's an extremely small scale test, but gives you a glimpse into the kind of service Verizon wants to offer later this year. As all of the US carriers begin to approach parity with their LTE networks, companies such as Verizon are looking for these kinds of services to set themselves apart, while creating a potential new revenue stream.
+
+CNET got a chance to check out the service, and the video quality does look pretty good. The "multicast LTE" room featured a handful of Samsung Galaxy Note 3 units tethered to a flat-screen television and already getting feeds from the NFL Network. You could watch a single live feed, or switch to four screens that juggled the live feed with three other on-demand videos.
+
+Multicast LTE, as its name implies, is a service that rides over the LTE network, pushing out the same video feed to multiple devices, rather than a single phone or tablet. Because its a single, one-way broadcast feed, it is far more efficient than the current method of delivering video, which is sent to a single person based on their request. Because people aren't constantly pinging the network for different streams of video, Verizon could see some of the congested lifted on its network.
+
+Because it is a single feed, there is higher picture quality, lower latency, and no buffering when the video is loaded up.
+
+The service is still a little ways away. Parissa Pandkhou, director of mobile video delivery for Verizon Wireless, said she expects the work on the network upgrades, which includes a mix of software and physical boxes, to conclude around the third quarter. It's still unclear when the service would actually be rolled out to subscribers.
+
+Verizon is working on signing up media partners, although it has at least one: the NFL's new digital network, NFL Now, will in some way incorporate multicast to Verizon customers sometime after it launches in the summer. That deal's not a huge surprise, with Verizon a key sponsor of the NFL and a marquee media partner for NFL Now.
+
+Car companies have approached Verizon about incorporating a potential dongle into their vehicles that would be able to pick up multicast signals. Media companies have also checked out the technology.
+
+There are also a few technical hurdles. Not every phone is compatible with the service, most notably the iPhone. Pandkhou noted that multicast uses a standards-based technology that would allow all vendors to incorporate software that's compatible with the service. She expressed confidence that a broad array of devices would be compatible at launch, noting Verizon was talking to every vendor, including Apple.
+
+Think of multicast as the next generation of several failed attempts to bring broadcast video to the wireless world. Think Qualcomm's MediaFlo or the broadcasters' little-used service, Dyle, the notion of live video on your cellphone has generally been rejected by consumers. Verizon thinks things will be different this time, with more devices and a higher level of video quality hopefully attracting users. Beyond "live" broadcasts, multicast can also handle on-demand videos that are already being streamed.
+
+The network efficiency angle might also be appealing, as the video service eats up a lot less data than traditional mobile streaming, critical at a time when customers are watching how much data they consumer. There's a chance that the data may not count against a customer's allotment at all, depending on how the business agreements are structured with media partners.
+
+Verizon's Power House
+
+Verizon, like much of New York, got into the Super Bowl spirit with its Power House installation, a gigantic tent that covers a large chunk of Bryant Park. It's just a block away from Super Bowl Boulevard, a section of midtown Manhattan that is playing host to a number of NFL and Super Bowl-related attractions.
+
+Multicast plays only a small part of the Power House, with much of the site dedicated to football-related digital stops, including a chance to talk with a virtual Clay Matthews, or create a digital football player avatar, complete with touchdown victory dance.
+
+The Power House, appropriately, allows visitors to drop their mobile devices up for a quick charge. Check out more photos below of the exhibition, which is free to visit.

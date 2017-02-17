@@ -1,0 +1,79 @@
+FBI data dragnet intercepting cellphone, computer info
+
+This story is the first of two parts. Coming Monday: The FBI goes to great lengths to hide the costs of eavesdropping devices. Related Stories • FBI closely guards details of spy gear technology Email Newsletters Sign up for one of our email newsletters.
+
+Don't assume it's the cellphone company's fault the next time you drop a call.
+
+The denial of service might be the result of a “StingRay” interceptor mounted on an FBI agent's car. The gadget works by mimicking a cellular telephone tower, fooling phones and wireless computers into connecting with its strong signal instead of the nearest antennae of the large telecommunications companies.
+
+The high-tech tool is handy when agents need to throw a wide electronic dragnet to capture all the cellular traffic in a neighborhood, especially to uncover criminals who use prepaid “burner” phones to evade police monitoring. But the cell tower simulator intercepts untold numbers of innocent calls, including the extensions dialed, the length of conversations and the caller's location.
+
+Nearly 5,000 heavily redacted Federal Bureau of Investigation documents — compiled between 2001 and 2012 and released to the Tribune-Review — indicate the device has been used in the Pittsburgh area, and enables the FBI to kill cellular service over a certain area. The documents outline internal FBI debates about the legality of some surveillance methods and concerns about secret procurement programs the agency has overseen to develop the next wave of spy equipment.
+
+“If people ask, ‘Why should I care about this?' I would answer that there are First Amendment concerns about the freedom of their speech when the government is tracking it,” said Ginger McCall, a Peters native and top lawyer for the nonprofit Electronic Privacy Information Center who spearheaded lawsuits over secret FBI surveillance nationwide.
+
+In an email response, FBI spokesman Christopher M. Allen defended this form of electronic surveillance as “a vital component of law enforcement investigations at the federal, state and local levels,” adding that the agency does not discuss specific surveillance techniques because of their sensitive nature.
+
+Public discussion, he warned, “could harm law enforcement efforts at all levels by compromising future use of the technique.”
+
+Suspicious snooping
+
+The FBI files sketch in broad strokes what appear to be numerous and routine operations to poach large amounts of call data from Pittsburgh's airwaves. A 2005 FBI “technology matrix,” for example, indicated the agency can capture and analyze all varieties of Verizon, Sprint, T-Mobile, Cingular and Nextel traffic.
+
+Other documents revealed agents exploiting Global Positioning System trackers embedded in phones to shadow people of interest.
+
+Government records indicate the FBI was granted authority by the Federal Communications Commission to coordinate use of the devices by state and municipal law enforcement. However, FBI officials heavily redacted the documents detailing those partnerships.
+
+In response to requests from the Trib, the Pittsburgh Bureau of Police, Allegheny County Police, the county District Attorney's Office, the state Attorney General's Office, Pennsylvania State Police and the Pennsylvania National Guard said they had not purchased such gear.
+
+Federal files from 2009 indicate that Pittsburgh's electronic surveillance operations are run by or receive assistance from a Cellular Analysis and Survey Team — or “CAST” — coordinated by the FBI's Criminal Investigative Division. Though most details about the teams were redacted, the cooperative effort is similar to what the FBI's Philadelphia field office performs for “Operation Pin-Point,” a task force brought together to eradicate gun violence in parts of Pennsylvania and New Jersey.
+
+Within law enforcement, Pin-Point is considered to have dramatically hiked the government's ability to track suspects and witnesses through classified mapping software, cell data, tower locations and other public information.
+
+Among those nabbed was former police Officer Kelvin L. Jones, who was communicating using a prepaid phone after an armed $500,000 perfume heist in New Jersey in early 2010. His phone's signals pinging off towers were like electronic gingerbread crumbs to federal authorities tracking his movements.
+
+In 2011, he was sentenced to four years in prison.
+
+Critics have long sought information on what the FBI does with data it hacks. Although a 2008 training slide advised agents to “not retain records beyond use to locate phone,” most FBI files provided to the Trib indicate agents failed to back up that policy. Censors removed whole sections detailing what the agency does with the public's call traffic, how long the logs are retained, and what analysts extract from them.
+
+“I have real doubts that they purge all that data,” McCall said. “The motto federal law enforcement agencies have always used is ‘the more data, the better.' ”
+
+Privacy vs. public welfare
+
+FBI files reveal the agency justifies its wholesale collection of cell data by leaning on statutes and federal court rulings that consider outgoing “pen” and incoming “trap” telephone calls as “traditionally” removed from the U.S. Constitution's Fourth Amendment protections against “unreasonable searches and seizures.”
+
+If the FBI wants to tap a phone to eavesdrop on the “content” or conversation in a call, agents must prove to a judge that they compiled probable cause that a crime is being committed. A magistrate's signed search warrant would give the FBI authority to tap the line.
+
+A judge will grant a more open-ended “pen/trap order” for an interceptor tower if an agent certifies that the phone data might be potentially “relevant” to an ongoing investigation, according to the FBI files. The files fail to show how much information the FBI and federal prosecutors disclose to magistrates to gain such orders.
+
+FBI training slides revealed that employees are coached for years on how to testify about surveillance devices and strategies without disclosing specifics about operations or technology.
+
+The U.S. Supreme Court has not ruled on a case involving cell site simulators, and Congress has not moved to restrict their use, pushing critics to press lawmakers and judges for change. Nationwide, there is a patchwork of policies.
+
+U.S. Attorney David Hickton told the Trib that it is difficult to craft a cookie-cutter policy on these legal issues because each investigation is “fact specific” and different from others. Surveillance technology and laws surrounding its use are rapidly evolving, he said, and federal prosecutors must adapt to changes.
+
+Hickton said that before seeking a pen/trap order or a search warrant, he carefully weighs the constitutional rights of citizens against the needs of law enforcement officers .
+
+“I reject the notion that you can't do both,” he said. “We look at the cases individually, and we always consider the public's welfare and their constitutional protections.”
+
+American Civil Liberties Union staff attorney Linda Lye said, “The technology is very invasive, and there needs to be clear and transparent guidelines by Congress and oversight by the courts on its use. It appears as if the government has made laws about this surveillance in secret.”
+
+Internal legality debates
+
+Lye isn't the only one who worries about FBI surveillance policies. The files obtained by the Trib reveal contentious debates within the agency over the legality of programs.
+
+Emails from 2005 between unnamed FBI employees and the agency's Science and Technology Law Unit, for example, reveal concerns that federal rulings guiding the devices were “unclear” and at least one key “issue” remained “under debate” inside the agency.
+
+An unknown employee assured the employees that the FBI took a “conservative” approach to comply with laws, but FBI censors removed details about that policy in records released to the Trib.
+
+In an email exchange two years later involving the FBI's Office of General Counsel, an unnamed agency supervisor “never felt comfortable with the Bureau's lack of guidance in this matter,” declaring “extremely problematic” the agency's “unofficial, non-written” operating procedures on data collection.
+
+Similar messages in 2010, linked to the Investigative Law Unit, indicate concerns about a “lack of clarity” in a statute governing surveillance. A “unit chief” in a conversation later that year echoed “legal question” worries. Again, FBI censors redacted key details from the documents.
+
+In another 2010 email chain, a whistle-blower warned that a new FBI restriction on data collection was disregarded by “case agents and supervisor” in at least one field office, who were “adamant about using the data” and had drawn the support of an unidentified federal prosecutor. The employee vowed to appeal to the unit's chief division counsel, but the FBI removed updates on the controversy.
+
+Although the agency by law must perform Privacy Impact Assessments on digital interceptors it buys, censors redacted the entirety of the statements in all the files, prompting the Trib to ask whether officials even did them.
+
+The FBI declined to comment on that, but spokesman Allen insisted in an email that the agency “only collects and maintains information that has investigative value and relevance to a case, and such data is retained in accordance with controlling federal law and Attorney General policy.”
+
+Carl Prine is a Trib Total Media staff writer. Reach him at 412-320-7826 or cprine@tribweb.com.

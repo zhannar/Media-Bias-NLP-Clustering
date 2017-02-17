@@ -1,0 +1,29 @@
+(AP Photo/J. David Ake)
+
+As much as any Web site claims to be an Amazon or a Kayak for health insurance, shopping for health insurance is still pretty difficult. Don't just take my word for it — just ask a health economist.
+
+How people get their health insurance is undergoing a major transformation, in part because of changes in how employers are providing benefits and the Affordable Care Act's coverage expansion. An estimated 25 million people will have individual coverage through Obamacare's health insurance marketplaces within just a few years, while an Accenture report found another 3 million people in 2014 received employer health coverage through similar private insurance marketplaces, or exchanges — where enrollment is projected to soon surpass the ACA exchanges, according to a couple of recent estimates.
+
+That all adds up to tens of millions of people buying health insurance on their own. They could use some help — and a painless-as-possible shopping experience that ultimately ends with them picking the best possible health plan for their particular situation. And here's where technology and health care firms are looking to step in.
+
+There's a simple reason why buying health insurance isn't as easy as buying a big-screen television — with a TV, you pretty much know what you're going to get after you buy it. It's not the same with your health. You can have a reasonable expectation for how much health-care services you'll consume in the coming year, but an accident or an illness could throw a wrench in those plans. So buying the right health insurance plan comes down to your health care needs and your ability to tolerate financial risk if the unexpected happens.
+
+In all, there are about an astounding 900,000 variables that go into choosing the right health plan, according to the founders of Picwell, a new company from University of Pennsylvania professors who are using predictive analytics to help people shop for the best coverage — in no more than four or five personal questions. People using Picwell's technology are asked their age, sex, zip code, any medications they're taking and, if they want, they can also include their doctor in their search. The company's algorithms — which cull from public and private claims data and demographic information — then spit out a few recommended health plans.
+
+"There's a big issue for consumers that you almost have to become an expert in health benefits — you have to understand all the way down to the micro level the cost structure," said Picwell chief executive Jay Silverstein, a longtime veteran of the health insurance industry. "We have all that seamlessly built in."
+
+Minnesota's state-run exchange recently hired the company to determine whether people shopping in the health insurance marketplace for the first time this past year purchased the best coverage for them.
+
+"We are very focused on getting Minnesotans into the most comprehensive coverage at the best price possible, and the tools being developed by Picwell add another layer to our existing efforts," said Jenni Bowring-McDonough, spokeswoman for the Minnesota exchange. "We believe their work will help us better identify and target populations and individuals who may need more information in order to choose the very best coverage."
+
+Several other state-run ACA marketplaces have also expressed interest in adding decision support tools that would make it easier for shoppers — many buying coverage for the first time — to pick the right plan, said Katherine Hempstead, a director at the Robert Wood Johnson Foundation. Hempstead's organization is overseeing a challenge for developers to build such tools that would help customers understand coverage options, including how much they're likely to pay out of their own pockets beyond just the cost of monthly premiums.
+
+"Nobody can wade through that landscape," Hempstead said. "There are so many salient features of how cost-sharing works in these plans, it's actually a difficult decision for consumers."
+
+Most private exchanges offering employer coverage offer some sort of online decision-support tool, according to a Kaiser Family Foundation report this fall. As the report points out, there seems to be some growing ease with these tools — Aon Hewitt in 2014, the second year of its exchange, saw significantly more of its enrollees rely on these kinds of technology tools to compare plan benefits and provider networks.
+
+Liazon, another private exchange, highlights the top three health plan recommendations based on information that consumers provide. About two-thirds of the time, consumers using Liazon will pick among or near the highest-recommended plans, estimates Alan Cohen, who founded the company in 2007. In all, it takes just about two minutes to fill out all the information Liazon's recommendation engine needs, according to Cohen.
+
+"There's always a battle between asking more and more information and making it easier to get through," he said. "The perfect recommendation engine would have someone sit down for an hour and answer questions, but you can't do that. You have to be able to get people in and out."
+
+But will this technology make it more likely that people will make shopping for health insurance an annual ritual to possibly get themselves a better deal? The evidence so far seems to suggest no. After two years, the vast majority of enrollees in private exchanges stuck with their coverage — which Kaiser said is either a sign of inertia or that enrollees are happy with their coverage. RWJF's Hempstead said the technology market for these tools is still developing in response the expected growth in consumers shopping for their own health insurance. "We're trying to sell a product to consumers that wasn't really designed to be sold directly," she said. "When I think about all the different [health plan] features, I feel like we're really asking a lot of consumers here."

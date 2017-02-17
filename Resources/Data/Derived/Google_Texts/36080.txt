@@ -1,0 +1,63 @@
+With ICD-10 just two months away, the question I’m asking providers is this:
+
+When was the last time you watched the 1999 American comedy Office Space?
+
+Not just because we could all use a little more levity in our lives — though that’s certainly reason enough. Rather, it’s because Office Space tells a story driven by the very same technological challenges we’re facing in healthcare today.
+
+As you probably recall, Y2K was an issue of concern in the late 1990s due to legacy software code that was written using two-digit syntax for time-stamped events — for example, 99 instead of 1999. The problem, of course, was that this prevented the software from distinguishing the year 2000 from the year 1900…or 1800…or 2200. In hindsight, this seems like a “duh” moment to us — but it was no one person’s error, and it wasn’t even limited to software. Yes, computer scientists were already discussing the Y2K problem in the 80s (meaning the 1980s, of course), but the problem pre-dated computer systems and was present in non-digital worlds as well — for example, printed forms that only had space for a two-digit year format.
+
+The main characters in the movie Office Space worked for a company call Initech, and their job was to update banking software and ensure that it was Y2K-compliant. Some banks and other types of businesses couldn’t replace their legacy software without massive costs and disruption, yet the legacy software itself was poised to create disruption that might be even more severe.
+
+And that captures the true hallmark of Y2K — and of ICD-10. No one can say with any real certainty how much disruption the new code set will create. It’s as though we have to prepare for a hurricane that might be Category 5 and might be little more than a brief thunderstorm. The crazy part is that we won’t know which until it starts.
+
+So, what do you do when no one knows what will happen?
+
+You make sure you’re prepared.
+
+As with anything else, there are extremes to consider. To continue the Y2K analogy, you can be the person who had plenty of canned food on hand and had taken out some extra cash ahead of Jan. 1, 2000, in case ATMs temporarily stopped working.
+
+Either way, preparation is the key to a successful ICD-10 transition. The only “wrong” way to approach ICD-10 is not to take it seriously.
+
+Some people say it will be worse than 5010. Some say it won’t be anything like 5010. In the ever-deepening stack of published opinions about the anticipated impact of ICD-10, there are a few that are no doubt correct. But everyone who says they know exactly which is correct is either lying or fooling themselves.
+
+So, let’s get ready. Here are four denials management best practices that will help ensure you are prepared for ICD-10:
+
+No. 1: Analyze where it makes sense to segment workflow by specialization or expertise.
+
+There’s one thing that the recent announcement from the Centers for Medicare & Medicaid Services (CMS) changes, even if no other payers follow suit. For the first year following implementation, there will be a non-trivial subset of claims that won’t be denied or audited, based solely on an unspecified ICD-10 diagnosis code, as long as the code is from the right “family” of ICD-10 codes.
+
+Now, think back on all of the articles you’ve read over the past four years that cited coders and other healthcare professionals who retired or planned to retire because of ICD-10. In some cases the writers may have exaggerated the scale of this mass exodus, but they certainly weren’t making it up.
+
+The change announced by CMS means that these professionals, even if they haven’t been fully trained on ICD-10, can choose to pick up contract or temporary work focused exclusively on Medicare claims. Already-expert denials-management specialists will have no trouble working on denied Medicare claims for the first year following implementation, because the denial won’t be based on ICD-10-related specificity.
+
+Providers need to be prepared to leverage this. Reach out to your network now, so that if you need additional help managing a backlog you know exactly who to call and they know exactly what kind of help you’ll need.
+
+No. 2: Improve denials management processes that won’t be impacted by ICD-10.
+
+Ninety percent of denials are preventable, and 60 percent are recoverable — at least today. The best way to be prepared for an increase in your overall denial rate is to get it as low as possible before that increase occurs. It can’t spike as high if it’s lower to begin with.
+
+Providers need to uncover the root causes of denials — this will enable confident, efficient routing of denials into ICD-10-related and non-ICD-10-related work queues. Management can then more easily and accurately gauge the impact of ICD-10 on their denial rate and, more generally, their AR days and other key financial metrics.
+
+No. 3: Identify the denials that have the greatest impact and that are most likely to be appealed successfully.
+
+Every denial matters, but some matter more. In addition, some denials aren’t worth appealing because there’s such a low likelihood that the appeal will be successful.
+
+When staff work these likely-unrecoverable denials, there are zero plusses and two clear minuses. It’s a waste of time, and the time wasted could have been spent working a denial that is recoverable. This leads to even more delayed and lost revenue; you’re digging a hole even as you’re working to fill it back up.
+
+No. 4: Get a holistic view of your current denials processes — who does what and how long does each step take?
+
+This is similar to understanding the root causes of denials, but the difference is that you need to identify the root causes of why it takes staff so long to work a denial. In all likelihood, it’s because they spend the majority of the time compiling and sourcing the information they need to start working the denial.
+
+Finding the clinical documentation…calling the payer…logging into the payer’s website…finding and filling out the correct appeal materials. The list goes on. These are the kinds of things that make denial management so time-consuming for even highly efficient healthcare organizations — problems that aren’t caused by ICD-10, and that won’t get any better through ICD-10 training or ICD-10-focused preparations. Yet improving and streamlining the denials management process is the best way to prepare for what is perhaps the single greatest fear related to ICD-10: an increasingly unmanageable backlog of denied claims.
+
+Simply put, it’s pretty simple:
+
+No one knows exactly what is going to happen after Oct. 1, 2015. It’s good to have a Plan B…but it’s better to have the right Plan A.
+
+About the Author
+
+Crystal Ewing is ZirMed’s senior business analyst and manager of regulatory strategy. Her current focus is managing all aspects of the transition to and compliance with ICD-10; she was previously responsible for managing ZirMed’s 5010 transition and is a nationally recognized expert on HIPAA, HITECH, and the Affordable Care Act.
+
+Comment on this Article
+
+editor@icd10monitor.com

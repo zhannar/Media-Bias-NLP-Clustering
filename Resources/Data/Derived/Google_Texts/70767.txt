@@ -1,0 +1,19 @@
+Science produces some dizzying breakthroughs with equally mysterious technology. But not all uses of technology, which then go on to receive publication in open-access journals, are necessarily novel. Recently, scientists from Harvard earned many an onlooker’s accolades for their apparent success with telepathy, though “earned” and “telepathy may both be questionable.
+
+The meat of the story is that researchers hooked up one set of subjects in India with a brain-reading EEG and another in France with a cap that emitted transcranial magnetic stimulation (TMS), a technique for probing the brain, which has been used in mostly its final form since 1985. While the specific robot used in the experiment, one which the researchers disclose they have a financial interest in promoting, may be elaborate, the findings aren’t all that exciting.
+
+Here’s the rub: Researchers used EEG over the sender’s motor cortex to read his brain activity as he imagined moving his feet and hands. Movement of the hands indicated a “1” and the feet a “0,” and the team used these digits to encode the messages they wanted to send — in this case, “hola” and “ciao.” The user spelled out the word using his thoughts, a method currently in use at several labs, and the computer then sent the message over email to the recipients in France.
+
+Each recipient in France was outfitted with a cap that emitted TMS, which the researchers used to produce phosphenes in the subjects’ field of vision. Phosphenes are those “stars” you see when you rub your closed eyes. The presence or absence of each phosphene determined whether the subjects reported a “1” or a “0.” After each digit was in place, the message translated back into regular text. Telepathy had been achieved. But not really.
+
+The sender's system on the left is shown transferring a packet of ones and zeroes to the recipient on the right, who decodes it with transcranial magnetic stimulation. PLOS ONE. PLOS ONE
+
+As a proof of concept for the utility of the TMS arm, the study may hit its mark. But the overall clinical significance is mostly absent. Consider the EEG’s ability to pick up the sender’s motor imagery and relay it to a computer. In order for the technique to merit use in a lab, let alone a doctors’ office, the EEG needs to have speed on its side. This means a fast transfer rate between the time the subject thinks about moving his hands and feet to the time a message is produced. In prior research, scientists have achieved 84.7 bits per minute. The latest study topped out at three bits per minute.
+
+Much of the same technology was used last year in a University of Washington study that used two players working together to solve a task, which, in this case, was a computer game. "Unlike our original system, which is a synchronous brain-to-brain interface where each person is interacting live with the other," UW researcher Dr. Andrea Stocco told Medical Daily, "their system is asynchronous and one-way — it uses email to send EEG signals."
+
+If anything can be gleaned from the study, it won’t be a future of mind-controled messages relayed around the globe. Being a buzzkill is unpopular, but the science of sending mind-controled messages still resides in the realm of fiction. In the meantime, the study may be a solid lesson in the incentives that lead to the curation of technology, rather than the creation of it.
+
+“Authors affiliated to Starlab or Neuroelectrics have a commercial interest in promoting the EEG/brain-stimulation system described in the paper (Starstim),” the paper reads. “Authors affiliated to Axilum Robotics have an interest in promoting their robot to automate the positioning of a transcranial magnetic stimulation coil.”
+
+Source: Grau C, Ginhoux R, Riera A, et al. Conscious Brain-to-Brain Communication in Humans Using Non-Invasive Technologies. PLOS ONE. 2014.

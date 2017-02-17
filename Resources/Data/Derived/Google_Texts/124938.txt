@@ -1,0 +1,31 @@
+Willem Buiter has a very nice piece critiquing the Swiss Gold Initiative; see here.
+
+Unfortunately, Buiter starts talking about Bitcoin, making false analogies between the cryptocurrency and gold. He should have just focused on gold.
+
+As it turns out, both gold and Bitcoin do share some important characteristics. I’ve written about this here: Why Gold and Bitcoin Make Lousy Money.
+
+The false analogy is in equating the mining of gold with the mining of bitcoin. Paul Krugman made the same mistake here: Adam Smith Hates Bitcoin. Here is the offending passage in Buiter’s notes:
+
+John Maynard Keynes once described the Gold Standard as a “barbarous relic”. From a social perspective, gold held by central banks as part of their foreign exchange reserves merits the same label, in our view. The same holds for gold held idle in private vaults as a store of value. The cost and waste involved in getting the gold out of the ground only to but it back under ground in secure vaults is considerable. Mining the ore is environmentally damaging, especially if it involves open pit mining. Refining the gold causes further environmental risks. Historically, gold was extracted from its ores by using mercury, a toxic heavy metal, much of which was released into the atmosphere. Today, cyanide is used instead. While cyanide, another toxic substance, is broken down in the environment, cyanide spills (which occur regularly) can wipe out life in the affected bodies of water. Runoff from the mine or tailing piles can occur long after mining has ceased.
+
+Even though, from a social efficiency perspective, the mining of new gold and the costly storage of existing gold for investment purposes are wasteful activities, they may be individually rational. The same applies to Bitcoin. Its mining is socially wasteful and environmentally damaging.
+
+No, no, no and no. This analogy is all wrong.
+
+Let me be clear about this. Bitcoin costs zero to produce. If one had control over the protocol, one could instantly and costlessly create as many bitcoins as one wanted. No environmental waste, no effort needed. The same is not true of gold.
+
+But wait a minute, you might say. Doesn’t mining for bitcoins require effort, waste resources, etc.? The answer is, yes, it does. But this fact does not make the analogy correct (though one can certainly understand why the analogy seems to be correct). Let me explain.
+
+The purpose of gold miners is to prospect for gold. The purpose of Bitcoin miners is not to prospect for bitcoins. The purpose of Bitcoin miners is to process payment requests. A bank teller also processes payment requests. To say that miners are mining for bitcoin is like saying that tellers are mining for dollars. Understand? Let me try again.
+
+Gold miners prospect for gold. But they do not necessarily get paid in gold. In fact, if they work for gold companies, they are likely to get paid in dollars. But they could get paid in gold, or anything else, for that matter. How they get paid does not take away their basic function, which is to discover new gold.
+
+Bitcoin miners, like bank tellers, process payments. Miners, like tellers, want to get paid for the service they provide. It really does not matter how they are paid. As it turns out, miners are paid in the form of newly-issued bitcoins (as well as old bitcoins offered as service fees by transactors). But this does not mean that they are “mining for bitcoin” any more than a bank teller is “mining for dollars.”
+
+But isn’t mining for bitcoin “wasteful?” In a sense, yes, but again, the “waste” here is not the same as the waste associated with commodity money. Again, let me explain.
+
+We live in a “second-best” world, where people lie and cheat. In a first-best world, money would not even be necessary (see my post here: Evil is the Root of All Money). It is unfortunate that we need Bitcoin miners (and tellers) to process payments. But the resources consumed in this process are necessary, given the safeguards that have to enforced to ensure the integrity of the payment system.
+
+The waste associated with mining gold is that in principle, gold money can be replaced by paper money (and please, do not give some weird “out of thin air” argument; see here.) Paper money, like Bitcoin, and unlike gold, is (near) costless to produce.
+
+Note: Of course, the limit on the supply of bitcoin is determined by a community consensus on following the protocol that adopts the 21M limit. Bitcoin advocates argue that this “hardwired” protocol that governs the supply of bitcoin is more reliable and less prone to political manipulation relative to existing central banking systems. This all may be true, but does not take away from my argument above concerning the false analogy between gold and bitcoin.

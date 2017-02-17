@@ -1,0 +1,25 @@
+New Hampshire’s Medicaid Information System has received federal certification. This is the first instance of certification for a Xerox Health Enterprise MMIS system, but the company says similar systems are under development in a handful of other states.
+
+“The CMS certification validates Xerox’s significant, ground-up investment in this comprehensive solution for modern Medicaid program management,” said Dave Hamilton, group president, Government Healthcare Solutions, Xerox. “The stamp of approval from CMS in New Hampshire should allow us to speed the process in other states we work with.”
+
+The certification is also notable given that Xerox received a no confidence vote in Montana for another Medicaid project it was involved with last year.
+
+Legacy systems
+
+A significant number of states are currently working through Medicaid system upgrades following the availability of federal funding. As a result, vendors have been rushing to take on the contract opportunity. HP was recently given an extension for its already lengthy contract with Massachusetts for the MMIS system there.
+
+The Centers for Medicare & Medicaid Services (CMS) requires each state’s new Medicaid application processing platform to be certified to validate that it meets all federal requirements, along with state Medicaid goals and objectives. With the certification, New Hampshire is eligible to receive the maximum amount of federal funding for its Medicaid program. The certification is retroactive to March 31, 2013, when the system first went live, and it was granted based on the latest federal checklists in the Medicaid Enterprise Certification Toolkit (MECT).
+
+Modern MMIS systems are meant to be designed to take over much of Medicaid eligibility and benefits management process, which has historically been a paper based system. Aspects of the Affordable Care Act make a strong push for moving these systems online and CMS has made funding available to the states. Still, organizing the patchwork of requirements including provider credentialing, patient eligibility, benefits and case management is a daunting task even before the inevitable statehouse politicization of Medicaid impacts the process.
+
+New Hampshire was one of the states that opted to expand Medicaid under the Affordable Care Act. By upgrading the MMIS system, New Hampshire was able to start onboarding and processing transactions in four months. On legacy systems that process could take between 6-10 months. Modernization has also created new interoperability between healthcare agencies. Under federal Medicaid Information Technology Architecture (MITA) requirements, the feds are pushing for greater information sharing. New Hampshire now has a Medicaid network of sorts that will facilitate information and data transmission throughout the state health and human services umbrella.
+
+The New Hampshire system also supports providing patients themselves with their own medical history through smartphone apps and online portals.
+
+Metrics
+
+Still, there are difficulties with monitoring the true effectiveness of these upgrades. Vendors have been pulled off of projects after they have run well over cost and time. States also have a pronounced inability to monitor outcomes once a system goes online. According to a recent GAO report, even while some states have updated Medicaid Management Information Systems (MMIS), there is no requirement for state officials to track the effectiveness of those systems. As such, it is unclear whether updates were actually useful in achieving desired outcomes.
+
+In a letter to Senator Carper included in the GAO report, authors note that Medicaid systems are particularly vulnerable to waste, fraud, and abuse and without proper tracking the problem is only expected to grow. Senator Carper requested the examination in his role as ranking member on the Committee for Homeland Security and Government Affairs.
+
+Indeed, according to a newer GAO report that came out on June 10, benefits and payments to providers are being mismanaged in some of the largest states. GAO suggests that technology be used to better automate processes like removing deceased beneficiaries from benefits systems automatically, but that implies a working and interoperable set of government systems. In order to get there, states will have to find the political will and the procurement relationships to architect systems that make the logical connections like automatically unsubscribing a beneficiary once a death certificate is issued. Good luck.

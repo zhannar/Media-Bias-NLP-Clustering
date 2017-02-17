@@ -1,0 +1,33 @@
+WASHINGTON, DC—To say that there are a lot of people who are angry with the National Security Agency (NSA) right now would be an understatement. But the things that are getting the most political attention right now—such as the invasion of the privacy of American citizens and spying on the leaders of American allies—are just a fraction of the problem, according to cryptographer and Harvard University Berkman Center for Internet and Society Fellow Bruce Schneier.
+
+At a presentation in a conference room inside the US Capitol on Friday, Schneier—who has been helping The Guardian review the trove of documents provided by Snowden—said that in its haste to "weaponize" the Internet, the NSA has broken its mechanisms of security. And those breaks—including the backdoors that the NSA convinced or coerced software developers to put into the implementations of their encryption and other security products, are so severe that it is now just a matter of time before others with less-noble causes than fighting terrorism will be able to exploit the holes the NSA has created.
+
+Schneier said that the vulnerabilities inserted into security products by the NSA through its BULLRUN program could easily be exploited by criminals and other nation-states as well once they are discovered. And the other attacks and surveillance methods used by the NSA "will be tomorrow's doctoral theses and next week's Science Fair projects."
+
+But with Congress focused on the woes of the Affordable Care Act, it's not clear if anyone other than those already friendly to Schneier's message was listening.
+
+Closing the holes
+
+Schneier has sounded the alarm about the damage done by the NSA before to the basic security of the Internet itself. But this time, Schneier was appearing on Capitol Hill in his role as a Fellow with the New America Foundation's Open Technology Institute, in the company of OTI director Sascha Meinrath and Rep. Zoe Lofgren (D-CA) to discuss how the NSA's surveillance has affected not just those surveilled by the NSA, but Internet users in general, the technology industry, and America's overall national security in a negative way.
+
+Schneier said that people within the Internet Engineering Task Force's working groups are just starting work to repair some of the damage. "Over the past decade, we built standards where security is optional," he said. "The IETF is starting to work on ways to harden the Internet to make it more secure against all actors. This is not because of the NSA's surveillance. They view this as the Internet is under attack and needs to be hardened—not against the NSA, but everybody. We think we have a two-to-three-year lead on what criminals can do right now."
+
+But when that time is up, Schneier believes the intelligence institutions of other countries and well-funded cyber-criminals will have unearthed the vulnerabilities put in place by the NSA and ways to duplicate the agency's attack methodologies. "The NSA may have a bigger budget," Schneier said, "but they are not made of magic."
+
+The only way to repair that damage, Schneier posited, is to let the technology community fix it with more secure standards and encryption—and keep the government's hands out of the process. As a result of the NSA revelations, much of the world doesn't exactly trust the US government to make that possible for everyone. "In the past, the world generally believed we were acting in the benefit of the world," Schneier said. "That governance model is gone, and the world doesn't see us as a good steward of the Internet. There are countries much worse than the US that are using our actions to justify theirs.
+
+There's an opportunity in the implementation of IPv6, the new version of the Internet Protocol, for the Internet to essentially be rebuilt in a more secure way. "If the government gets out of the way, we can secure the Internet," Schneier said.
+
+Fire and forget legislation
+
+Rep. Lofgren said that the justifications the NSA has used for some of its activities under the PATRIOT Act, Foreign Intelligence Surveillance Act, and the Stored Communications Act are based on interpretations of their provisions "in ways that I think is nonsensical." As a result, the overreach of the NSA is one of the rare things these days that has created bipartisan consensus that something has to be done.
+
+Freshman Michigan Republican Rep. Justin Amash's attempt to strip funding for surveillance from an intelligence budget bill "could have been drafted better, but it only fell seven votes short," Lofgren noted. Lofgren, who represents San Jose and much of the Silicon Valley, is working with Wisconsin Republican Rep. Jim Sensenbrenner—one of the original authors of the PATRIOT Act—on the USA FREEDOM Act, which seeks to rein back in NSA surveillance and provide for disclosure of surveillance activities in a number of ways.
+
+"I think we have an opportunity to put some law and order that is very necessary into our intelligence community," Lofgren said. "And we in Congress have had more briefings from the NSA in the last few months than we have in the last decade, which is a good thing."
+
+Further Reading Feinstein debuts NSA “reform” bill that’s really about the status quo A battle is brewing in Congress between surveillance reformers and hawks. But Congress' demonstrated difficulties in comprehending technology issues without a particular set of lobbyists' focus on the issue—as demonstrated repeatedly by efforts around computer security and copyright protection in the past—doesn't bode well for how these efforts will turn out. Other approaches being floated, such as those being put together by Sen. Diane Feinstein (D-CA)—who is "not a critic of the program," Lofgren said—could actually reinforce the NSA's surveillance programs by codifying them into legislation.
+
+The biggest concern Schneier expressed was that anything passed by Congress would lack enough technical precision to be useful and would rapidly become out of date. "The lack of technologists involved with policy is felt," Schneier said. "We do need lawmakers to understand the tech here. I'm actually worried that we'll get legislation passed, and then everyone pats themselves on the back and goes home; in five to six years, Facebook may be gone, there'll be a new cool thing, and the problems will be different."
+
+Update: here's a video of the presentation.

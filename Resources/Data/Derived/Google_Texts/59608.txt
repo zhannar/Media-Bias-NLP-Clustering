@@ -1,0 +1,17 @@
+Fires. Floods. Power problems. Software updates gone bad. Thermal events. There was a wide range of causes for data center downtime in 2013. The year’s major outages covered the spectrum, affecting clouds, companies, payment networks and governments at the federal, state and local level.
+
+Each incident caused pain for customers and end users, but also offered the opportunity to learn lessons that will make data centers and applications more reliable. Here’s a look at our list of the Top 10 outages of 2013:
+
+1. The Healthcare.gov Disaster: Downtime doesn’t get much more epic than this. The federal government’s online insurance marketplace has become the poster child for an IT project gone wrong. It wasn’t just a matter of a single downtime incident, it was a series of hard outages and an ongoing soft outage in which the site was barely functional. They tried adding more hardware, but it wasn’t until the Obama administration’s “IT surge” addressed software and data bottlenecks that the site became usable in early December. Given the status of the Affordable Care Act as the signature legislation, and the accompanying political scrutiny, the web site’s performance amounted to a perfect storm of the many ways in which key systems can fail. If nothing else, Healthcare.gov transformed web site performance into front page news.
+
+2. Major Outage for BlueHost, HostGator, HostMonster – The year’s most extensive web hosting downtime occurred Aug. 2, when a Utah data center supporting some of the industry’s best known brands suffered extended networking outage. The problems at a Provo, Utah facility operated by Endurance International Group led to downtime for customers of BlueHost, HostGator and HostMonster. Endurance attributed the incident to a hardware failure during routine server maintenance that “quickly cascaded throughout the network.”
+
+3. Visa Downtime Across Canada – Downtime is particularly costly in the financial sector, as many Canadians learned Jan. 28 when they were unable to use their Visa cards for much of the day due to a data center power outage at Total System Services Inc. (TSS), one of the largest processors of card-payment transactions in North America. The issue affected Visa cards issued by CIBC, Royal Bank of Canada and TD Canada Trust.
+
+4. Windows Azure, Xbox Live Problems as Xbox One Launches – Xbox One launch day in November turned out to be a rough ride for the Windows Azure cloud computing service, which helps power Xbox Live. The platform was plagued by problems for much of the day, including storage and network issues. It wasn’t the only high-visibility hiccup for Microsoft’s cloud operations. In March a heat spike in a data center caused a major outage for Microsoft’s web-based email services. Both Hotmail and Outlook.com were offline for up to 16 hours after a failed software update caused the heat to spike in one part of a data center supporting those services
+
+5. Power Outage Knocks DreamHost Customers Offline – Web hosting provider DreamHost experienced an extended outage on March 20 when power systems failed at its data center in Irvine, Calif. The incident created hours of downtime across two days for DreamHost’s more than 350,000 customers.
+
+Continue with numbers 6 through 10
+
+Pages: 1 2

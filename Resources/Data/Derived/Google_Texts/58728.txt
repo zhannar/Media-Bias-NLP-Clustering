@@ -1,0 +1,31 @@
+Photo
+
+Steven Keating, a graduate student at the MIT Media Lab and a brain cancer survivor, was the subject of an article this week, presented as a super data cruncher of his own patient information.
+
+The young scientist’s collection and analysis of his own data makes him an extraordinary exception today, but physicians and health care experts say he is a sprinter along a path others are walking — toward consumers taking a more active interest in gathering, studying and sharing their medical data. Better-informed patients, they say, are more likely to take better care of themselves, comply with prescription drug regimens and even detect early-warning signals of illness, as Mr. Keating did.
+
+But there is another big potential benefit of the wider use and sharing of patient information — medical research. Mr. Keating himself calls it a “huge crowdsourcing opportunity for research.” Not surprisingly, he has offered up his own data for several research projects.
+
+Research organizations are beginning to look at the opportunity in new ways as well. Traditionally, patient information has been tapped for research in large pooled databases. Individual contributions only made it in as part of these centralized efforts. That is still the norm, but change is coming. Institutional practice, individual attitudes and new technology are the reasons.
+
+One technical tool that could push things along is Apple’s ResearchKit, which was introduced last month. The open-source software in ResearchKit would let medical researchers write applications to recruit subjects and collect their data from their iPhones or iPhone-linked fitness monitors, like the FitBit or Apple Watch.
+
+New technology and the rise of the Facebook information-sharing culture have prompted researchers to rethink the patient asset in science. Dr. Stephen Friend is president of Sage Bionetworks, a nonprofit organization that advocates open-data policies. Until a few years ago, he said, he saw efforts to share patient data as mainly a step to get people more engaged in their own health, but not something that could improve medical research.
+
+Today, Dr. Friend said, his perspective is very different. “The patient, doctor and researcher – each is a different kind of expert,” he said. The promise, Dr. Friend said, is to “democratize medical discovery.”
+
+The patient information can be medical documents, lab results, and biometric or activity data from smartphones or wearable devices. But Dr. Friend said it could also be more subjective information, like health apps in which people report how they feel or social network conversations about health.
+
+Then, by mining the reports with analysis software, Dr. Friend said, “You can turn anecdotes into signals, unpacking the dimensions of disease and what makes people feel better. That’s what big data analysis is seeking to do.”
+
+The journey from health to disease, Dr. Friend explained, is not a single step but a progression. Aggregated patient data, he said, could well provide insights on how to stave off chronic ailments like diabetes and heart disease. “That’s potentially what this kind of citizen science can uncover — how to be resilient to disease,” he said.
+
+Reluctance to share personal health information is declining, and not only for cultural reasons. A prevalent fear, said Ben Heywood, co-founder and president of PatientsLikeMe, an online discussion and research forum, has been that if a person disclosed an illness, it might be more difficult to obtain health insurance. But the Affordable Care Act bans discrimination by insurers based on so-called pre-existing conditions. “The biggest deterrent has been removed by law,” Mr. Heywood said.
+
+But concerns remain, especially about privacy, given the sensitive nature of medical information. One of the research projects Mr. Keating plans to share his data with is the Personal Genome Project at Harvard. The file of a person’s DNA fingerprint need not bear a name to identify its owner.
+
+In its risks and benefits page, the project lists the benefits as contributing to a cause that advances science and satisfying personal curiosity. On the risk side, it states that in principle someone with scientific skills could use a person’s genome to infer paternity, generate statistical evidence that might hurt a person’s chances of getting a job, insurance or loans, and make synthetic DNA to plant at a crime scene.
+
+In agreeing to the terms of the Human Genome Project, “you do sign off a lot,” said Mr. Keating, who is doing so without hesitation.
+
+Related

@@ -1,0 +1,15 @@
+Security
+
+Northwestern U Updates File Transfer Tools
+
+Northwestern University in Evanston, IL has implemented a new file transfer system to securely send files between the university and external vendors or agencies.
+
+Until recently, Northwestern was using a Solaris server running Unix with custom scripts to handle file transfers, but the system had reached its end of life, and university administrators wanted to upgrade to a new platform with a simpler user interface and better reporting capabilities.
+
+The university is a large organization with many departments and a requirement to comply with the security and reporting requirements of HIPAA, PCI DSS, GLBA, FISMA, FERPA and other regulations. "We have numerous systems we call enterprise applications," said Ron Blitz, senior systems administrator for Northwestern's IT Administrative Systems Enabling Technologies department, in a prepared statement. "Student applications to the university, financial aid information, test scores, educational testing service results, W-2 forms and bank deposits and Affordable Care Act data are some examples. A lot of very essential functionality of the university is funneled through our systems. At least 115 ongoing projects currently require FTP."
+
+However, some secure file transfer systems on the market are designed for huge corporations. Northwestern needed only a fraction of the functionality of those systems and didn't want the added complexity and cost that comes with them. Ultimately, their search led them to GoAnywhere Managed File Transfer by Linoma Software.
+
+The university now runs GoAnywhere on a Linux 5 server, and the system eliminates the need for custom scripts, single-function tools and manual processes, according to a case study on the company's site. GoAnywhere "automatically encrypts files with AES-256, compresses and decompresses files, connects to other secure FTP servers, and guarantees file delivery with connection retries and file auto-resume." The system also replicates data between database servers and translates between file formats
+
+"I would say it's extremely flexible," said Blitz in the case study. "It's easy to construct a script-like process without writing any code. Customizing transfers specific to each trading partner takes minutes and is often just a simple 'drag-n-drop' or right-click away from being ready for Production."

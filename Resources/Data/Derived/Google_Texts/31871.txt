@@ -1,0 +1,27 @@
+A surprisingly small set of patterns characterize how our brains use genes, and these appear to be common to all of us: study.
+
+A surprisingly small set of patterns characterize how our brains use genes, and these appear to be common to all of us: study. Courtesy of the Allen Institute for Brain Science
+
+A surprisingly small set of patterns — a mere 32 — characterize how our brains express or use genes and these appear to be common to all of us, researchers at the Allen Institute for Brain Science discovered. Their new study illuminates how surprisingly similar our brains are.
+
+A medical research organization, the Allen Institute is dedicated to accelerating understanding of the human brain. The institute generates big data sets that can be shared with the global scientific community. For the current project, a research team led by Dr. Ed Lein used data from the Allen Human Brain Atlas, an existing resource.
+
+Specifically, the researchers analyzed six independent human brains to see how genes are used across hundreds of distinct brain regions.
+
+“So much research focuses on the variations between individuals, but we turned that question on its head to ask, What makes us similar?” Lein said in a press release.
+
+Common Patterns
+
+The six brains were from three males of European ancestry, two African-American males, and one woman of European ancestry. All of these adult brains came from six neurotypical adults. For each brain, 345 to 911 samples were analyzed. In total, samples from 232 discrete brain structures were sampled at least once.
+
+Then, the science team compared “expression patterns for a smaller set of 96 brain regions that were sampled at least twice in at least five brains, pooling across hemispheres,” wrote Lein and his colleagues in their published study.
+
+The scientists ranked the genes by the consistency of their expression (or usage) patterns across each brain, and then analyzed the relationship of these genes to one another as well as to brain function and disease. (Each of us has an estimated 20,000 to 25,000 total genes.) The researchers conducted their analysis using network-based approaches. After comparing brain anatomy and genes, what did the research team discover?
+
+Across all 20,000 or so genes, most of the usage throughout the different brain regions could be characterized by just 32 expression patterns.
+
+Many of these patterns were similar to those discovered in the brains of mice, however many genes showed distinct human patterns. While genes associated with neurons were most conserved across species, those for glial cells showed larger differences. (Glial cells surround and protect neurons, which conduct signals and perform the work of the brain.) Importantly, the genes most consistent across all the six brains included those associated with diseases and disorders like autism and Alzheimer's.
+
+The scientists were surprised such a small number of patterns explained most of the gene variability across the brain. According to Dr. Christof Koch, president and chief scientific officer, the number of genes combined with the complexity of the brain meant there easily could have been thousands of common patterns... or none at all.
+
+Source: Hawrylycz M, Miller JA, Menon V, et al. Canonical genetic signatures of the adult human brain. Nature Neuroscience. 2015.

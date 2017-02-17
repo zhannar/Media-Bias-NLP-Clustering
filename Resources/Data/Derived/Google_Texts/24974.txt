@@ -1,0 +1,41 @@
+A Barcelona-based disability foundation has created an intelligent chair so that severely disabled children can better explore their surroundings. Previous models of wheelchair were usually joystick-operated and were unusable for children without the necessary motor skills or with limited awareness of their environment.
+
+This model of wheelchair responds to voice command, head movement, or sucks of a pacifier.
+
+Parents and medical staff are calling on industry professionals to evolve the prototype into a model that is accessible to all.
+
+When Anna Raig was diagnosed with Wolf-Hirschhorn syndrome at eight months old, her father Andreu didn't know what help was available or what kind of support Anna needed.
+
+Medical staff put him in touch with the Nexe foundation, a school for children with multiple disabilities, which also provides assistance to families.
+
+Anna struggled with interacting with her environment and responding to external stimuli.
+
+"Anna has Wolf-Hirschhorn Syndrome, a rather rare genetic condition, affecting one in 50,000. The main problems she faces are hypotonia, meaning she has very little strength, she has growth problems, intellectual disability, her communication is very, very basic, and once in a while she has epileptic seizures. So one of the problems she faces is how to interact with her surroundings, so the chair could primarily help her do that. The fact that she has to push a button in order to do something, allows her to interact," said Andreu Raig.
+
+The prototype was built with 3D technology sensors that detect obstacles, decide how to move in the space and send information about the distance to the closest object.
+
+With a very simple jack and switch, the chair can be activated with any part of the child's body, according to Nexe physiotherapist and creator of the chair Jordi Ventura
+
+"The way to turn on the chair, as it is today, for a specific child, would be through the button," he said. "The button would be like a light switch: I push the button, the light turns on, I press the button and the chair is activated. So in order to turn it on, a simple jack is connected to the back side of the chair, and the chair works when I push. This can be done with the hand, with a finger, with the chin, we could do it with the head, or if we put the piece that's inside in a pacifier, like we have done before, the child by sucking could move the chair."
+
+The low-cost intelligent chair responds to the individual child's needs.
+
+A team of 16 people - eight professionals and eight relatives of disabled children - created the prototype of the intelligent chair for just 400 euros.
+
+The intelligent chair could be tailor-made for the child depending on their individual motor and cognitive abilities, height, weight and comfort requirements.
+
+The chair comes free of copyright and has online instructions that are freely distributed to anyone who wants to build it.
+
+Nexe wants to offer workshops to teach families how to build the chair.
+
+Fran Segovia, IT engineer and father of a severely disabled child, developed the software.
+
+"In the end for the children this is also a way to play. It's how they learn. Like any other child who wants to have an electric tricycle, a bicycle and go around in the courtyard of the house or in the garden, they just go around because that's how they have fun. This can give these children, who are obviously a lot more limited in their ability to drive a tricycle or a bicycle, the opportunity to be able to experience that feeling. This is also one of the project's goals - a therapeutic part but also a way for them to play. Play in a monitored way," he said.
+
+Nexe has received a year's worth of funding that has allowed it to construct the prototype, built with 3D technology sensors that detect obstacles.
+
+An IT program controls the computer board that decides, based on the information provided by the sensors, which way to go.
+
+A Java Android tablet application allows control by tablet and, in the future, from mobile phones.
+
+In its next phase Ventura and Segovia would like to be able to decide where the chair is going - a particular room or destination - through a tablet or mobile phone.

@@ -1,0 +1,15 @@
+Lung cancer cells (green) are cultured together with normal lung cells (red); the triple-antibody combination EGFR, HER2 and HER3 strongly impairs the survival of tumor cells while sparing normal cells. Weizmann Institute of Science
+
+Lung cancer is one of the most aggressive forms of cancer, and it’s also one of the leading causes of cancer death in the world. It’s especially difficult to defeat because even after chemotherapy and initial remission, it often comes back; the recurring cancer then becomes even harder to push back into remission.
+
+But researchers hope they’ve found a new approach that will change that. A new study out of the Weizmann Institute of Science explains how researchers developed a treatment involving three avenues that has the potential to prevent the recurrence of lung cancer.
+
+The researchers came across their findings in a rather unexpected way. There’s a certain type of lung cancer that’s caused by a mutation in a receptor on the cell membrane, called EGFR, which can be treated with a drug that halts a growth signal from entering the cell. However, even after patients are treated with this drug, second EGFR mutations can occur and produce more cancer growth; so scientists added an antibody used to treat colorectal cancer into the mix. But this didn’t work, which made them wonder how the cancer cells managed to persistently avoid the anti-EGFR effects of both the drug and the antibody.
+
+That’s where the new study comes in. Led by Professor Yosef Yarden, the researchers discovered that EGFR has other similar companions that can come in and complete its task when EGFR is blocked. “The blocked receptor has ‘siblings’ — other receptors that can step up to do the job,” Yarden said in the press release.
+
+Yarden and his team then found a way to block both EGFR and those pesky “siblings.” They developed new monoclonal antibodies that would block two of the receptor siblings, HER2 and HER3. Using these two antibodies — in addition to the original anti-EGFR one — the researchers attacked the cancer with a three-pronged treatment. When they tried this out in mice, tumor growth was stopped almost completely.
+
+“Treatment by blocking a single target can cause a feedback loop that ultimately leads to a resurgence of the cancer,” Yarden said in the press release. “If we can predict how the cancer cell will react when we block the growth signals it needs to continue proliferating, we can take preemptive steps to prevent this from happening.”
+
+Source: Mancini M, Gaborit N, Lindzen M, Salame T, Dall’Ora M, Sevilla-Sharon M. Combining three antibodies nullifies feedback-mediated resistance to erlotinib in lung cancer. Science, 2015.

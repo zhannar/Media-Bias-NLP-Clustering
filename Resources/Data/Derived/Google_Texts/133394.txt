@@ -1,0 +1,43 @@
+That tweet or that status of yours may be an indicator of your personality, your potential health risks, and the cultural differences between you and others.
+
+That tweet or that status of yours may be an indicator of your personality, your potential health risks, and the cultural differences between you and others. Tash Lampard, CC BY 2.0
+
+A lot more can be said in 140 characters then you might have previously thought. That tweet you just posted in which you firmly assert you do not care about that ugly dress, but suggest it's blue and black anyway may actually speak volumes about facets of yourself beyond a need to comment on what’s trending.
+
+Researchers are finding that social media has exposed a whole new venue for psychological research through language analysis. From revealing your personality, to potential mental and physical health risks, and even the appearance of cultural differences, four researchers have found that status about your Oscar predictions is loaded with hidden information about you.
+
+Utilizing novel methods of analysis, these four researchers plan to discuss their findings at the symposium, “Finding Psychological Signal in a Billion Tweets: Measurement Through the Language of Social Media” at the Society for Personality and Social Psychology’s 16th Annual Convention in Long Beach, California.
+
+As Twitter and Facebook are now offering new avenues of psychological study, researchers are developing new methods of analysis to get down to the nitty gritty of our pressing thoughts. Social scientists are now using computer science techniques to generate conclusions from large-scale data sets. This collaboration of psychologists and computer scientists allows for better data analysis than either party could do independently, and may be the key to discovering the truth beneath our publically streaming thoughts.
+
+For example, a study utilized the new technique of “open vocabulary analysis”, and was able to find striking differences in language amongst varying genders, ages, and personalities. One instance the study sites occurs within the varied use of the possessive “my” amongst men and women; researchers found men used “my” more often when mentioning their “wife” or “girlfriend”, while women used “my” less frequently in relation to “husband” or "boyfriend."
+
+“Data-driven techniques are mostly limited to finding correlations rather than causation…Future analyses are moving beyond words to capturing less ambiguous meaning,” says Andy Schwartz of the University of Pennsylvania. Open-vocabulary analysis is just one method that can discover these unanticipated variations that most other techniques have yet to find.
+
+In another study published in the Journal of Personality and Social Psychology, the fusion of psychology and computer science found that words posted on Facebook are strikingly reliable indicators of personality. Using predictive algorithms of language to assess personality on a large-scale, researchers found that personality traits attributed to certain language usage were consistent with the participant’s self-reported personality identification.
+
+Lead author of the study Gregory Park explains, “We evaluated the method in several ways. Predictions from the automated methods can accurately predict the scores the users receive on personality tests. They are consistent with personality ratings made by the users’ actual friends, and other personality-related outcomes, such as the number of friends, or self-reported political attitudes.”
+
+Adding to this finding, another study published in the journal Assessment looked at Facebook statuses using open-language analysis. Using word clouds that visually generated how personality traits from extraversion, agreeableness, conscientiousness, to emotional stability and openness, appear on Facebook, the study found that certain phrases indicated certain personality traits. For example, individuals who score high for neuroticism were more likely to use words like sadness, fear, pain and loneliness.
+
+Within this vain of research, Twitter appeared to offer even more interesting conclusions about the hidden meaning beneath our words, possibly predicting our future health risks. In a study published in the Journal of Psychological Science, researchers compared tweets to possibility of heart disease, finding that language analyses can predict the risk of heart diseases just as well, or possibly better than risk factors found in epidemiology.
+
+“Languages associated with anger, negative emotions, hostility, and disengagement within a community was associated with increased rates of heart disease. Language expressing positive emotions and engagement was associated with reduced risk,” says lead author of the study Johannes Eichstaedt.
+
+It is important to note that the study is not suggesting Twitter users are at greater risk for heart diseases, but rather that tweets may be able to reveal the general negativity of a certain population. This can further deduce social and environmental stressors which contribute to the risk of heart disease. As a result, researchers were able to conclude that Twitter is a correct indicator of health risks in a given community. Eichstaedt plans to move forward by analyzing words to predict depression and anxiety across communities as well.
+
+The final study found that social media can be a clue into cultural differences and similarities on a whole new level. As finding cultural differences is usually very time-consuming, researchers like Margaret Kern of the University of Melbourne have found Twitter may be just as effective a tool as previous methods. Researchers used differential language analysis to evaluate Twitter posts from eight countries (United States, Canada, United Kingdom, Australia, India, Singapore, Mexico and Spain), evaluating the two languages English and Spanish. They found many fascinating similarities across countries, as emoticons and iconic pop artists were used most often with positive emotions and curse words, while aggression often meant negative emotions.
+
+Kern explains, “A challenge for us is understanding how to interpret any differences we see- is it really difference, or simply noise? In the future, we hope to work directly with people from these cultures to help us interpret and understand the results.”
+
+While the results of some of these studies may seem self-explanatory, the idea that our compulsion to record all our lives’ moments is not “simply noise” may prove revolutionary for the world of psychology. There may be something to be said about what we have to say after all, and it goes beyond your mom’s embarrassing comments on your latest selfie.
+
+Sources: Kern, M. From “Sooo excited!!!” to “So proud”: Using Language to Study Development. Developmental Psychology. 2015
+
+Eichstaedt, J. Psychological Language on Twitter Predicts County-Level Heart Disease Mortality. Psychological Science. 2015.
+
+Kern M, Eichstaedt J, Lyle U, et al. The Online Social Self: An Open Vocabulary Approach to Personality. Assessment. 2015.
+
+Kern M, Eichstaedt J, Schwartz A, et al. Automatic Personality Assessment Through Social Media Language. Journal of Personality and Social Psychology. 2015.
+
+Schwartz, A. Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach. Plos One. 2013.

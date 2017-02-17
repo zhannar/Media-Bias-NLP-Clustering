@@ -1,0 +1,83 @@
+Hopefully, most employers that are applicable large employers (“ALEs”), i.e., employers that averaged 50 or more full-time employees (including full-time equivalents) in the prior calendar year, now have their game plan in place for complying with the “employer mandate” of the Affordable Care Act (“ACA”). Nevertheless, there still are ACA-related hoops and ladders to deal with that may catch the unwary (or even the wary) employer off-guard. This article briefly addresses several such obstacles, which seem to continue to develop and pop up on the ACA compliance landscape.
+
+
+
+Employee and Hours Counting; Employee Classification
+
+
+
+There are several general “catches” that employers need to be aware of in counting and classifying employees for purposes of the ACA employer mandate, including the following:
+
+In determining ALE status, have you properly taken into account employees of controlled group members and of entities under common control? (Focus generally is on 80% or more owned entities, with some specific tricky ownership attribution/exclusion rules that may apply.) Are you counting hours of service properly in the case of employees who are paid during periods in which no duties are performed, e.g., due to vacation, holiday, illness, disability, leave of absence, and military duty? Are you properly classifying and measuring hours for “variable hour” employees (i.e., employees for which it cannot be determined at their start date whether they will be full-time (30 or more hours/week)) and “seasonal employees” (i.e., employees who customarily work for 6 months or less in approximately the same part of each year)? Are you misclassifying workers who actually are common law employees as independent contractors? (Of course this issue has broader implications than just the ACA!)
+
+ACA Reporting for 2015
+
+
+
+Although the IRS extended the deadline for ACA information reporting and disclosure for ALEs for 2015, the extended deadlines basically now are upon us. The Internal Revenue Code requires annual information reporting and disclosure by an ALE as to the group health coverage that the employer offers, if any, to full-time employees, generally using an IRS Form 1095-C for each full-time employee (with a single transmittal Form 1094-C for the employer’s submission to the IRS). The IRS previously extended (i) from February 1, 2016 to March 31, 2016, the deadline for furnishing the Form 1095-C disclosure to employees for 2015; and from February 29, 2016 to May 31, 2016, the deadline for paper filing, and from March 31, 2016 to June 30, 2016, the deadline for electronic filing, of the Forms 1095-C (with the Form 1094-C transmittal form) for 2015 with the IRS.
+
+
+
+ALEs that do not comply with the extended reporting and disclosure due dates are subject to potentially steep penalties: Generally $250 for each affected (i) Form 1095-C disclosure to the employee and (ii) Form 1095-C fling with the IRS. The IRS has stated that for the 2015 reporting and disclosure, it will not impose applicable penalties on ALEs that show good faith efforts to comply with the ACA information and reporting requirements in furnishing and filing incorrect or incomplete information. But such relief does not extend to a failure to timely furnish or file the applicable Forms.
+
+
+
+Nevertheless, the $250 penalty for a late disclosure or filing is reduced to $50 in the case of a failure corrected within 30 days, and reduced to $100 in the case of a failure corrected after 30 days, but before August 1st. In addition, the IRS has the discretion to abate any such penalties with respect to a failure if the employer shows that such failure is due to reasonable cause. In this connection, the IRS will take into account whether an employer made reasonable efforts to prepare for the reporting and disclosure obligation, such as gathering and transmitting the necessary data to an agent to prepare for submission to the IRS, and the extent to which the employer is taking steps to ensure that it will be able to comply with the reporting and disclosure requirements for 2016.
+
+
+
+Some additional important things to remember about the ALE reporting and disclosure requirements:
+
+If you qualify as an ALE, you must report and disclose even if you do not (a) sponsor a group health plan or (b) offer group health coverage to any employees. If you are an employer that averaged 50 to 99 full-time employees (including full-time equivalents) in 2014 and qualified for the medium-sized employer exception to offering group health plan coverage for 2015, you still qualify as an ALE and must report and disclose for 2015. Although all corporate controlled group members and entities under common control (e.g., parent and controlled subsidiary companies) are combined to determine if a group of related companies is an ALE, each such ALE member must do its own separate ACA filing and disclosures.
+
+Cash Incentives to Employees to Opt out of Coverage
+
+
+
+To avoid any penalties under the ACA, an ALE generally must offer group health plan coverage to its full-time employees that is affordable and that provides minimum value. Coverage is affordable for 2016, if an employee is not required to pay more than 9.66% of his or her household income for self-only coverage. (The ACA also permits an employer to use “safe harbors,” whereby the 9.66% threshold is determined based on the employee’s W-2 income or rate of pay, or the federal poverty line for a single individual.)
+
+
+
+If an employer unconditionally offers to employees a cash amount to opt out of the employer’s coverage, the IRS recently has made it clear that it views such “opt-out payments” as part of an employee’s cost of coverage under the employer’s plan. So, for example, if an employer provides that employees who elect self-only coverage contribute $200 per month, but also offers employees $100 per month if they instead opt out of coverage (unconditionally, with no other requirement, such as proof of coverage under a spouse’s employer), that $100 opt-out amount should be added to the $200 contribution amount, for a total of $300 in testing employee “affordability” under the ACA.
+
+
+
+While the IRS’s position is now clear in this regard as to such unconditional opt-out payments, the IRS has said that until its issuance of prospective final regulations addressing the matter, the IRS will not require employers that adopted unconditional opt-out arrangements prior to December 17, 2015 to include available opt-out amounts in the cost of coverage for purposes of determining affordability. Similarly, employers that offer conditional opt-out payments (e.g., only if employees provide proof of having other coverage, like through a spouse’s employer) are off the hook in this regard, at least until issuance of such final regulations.
+
+
+
+If an employer first adopts an unconditional opt-out arrangement after December 16, 2015, however, any such offered opt-out payment is required currently to be added to the cost of coverage in determining whether the employer’s coverage is affordable.
+
+
+
+Employer Payment Plans
+
+
+
+As a result of the ACA, an employer cannot reimburse employees for the purchase by the employees of individual health insurance policy coverage (whether purchase is via the Health Insurance Marketplace or on the individual market), without subjecting the employer to steep excise taxes under the ACA ($100 per day for each affected individual, i.e., up to $36,500 per individual per year). This is the case regardless of whether the employer reimburses on a tax-free or on an after-tax basis, or whether the employer pays the employee’s individual insurance policy premiums directly or via reimbursement. The IRS views such “employer payment plans” as group health plans that inevitably fail to satisfy certain ACA requirements applicable to group health plans and that therefore are subject to such excise taxes.
+
+
+
+As to whether there is any alternative arrangement that is permitted, an employer is permitted under the ACA to simply increase an employee’s taxable compensation without conditioning the payment of the additional compensation on the employee’s purchase of individual health insurance policy coverage; provided the employer does not otherwise endorse any particular policy, form or issuer of health insurance. In this regard, the employer should clearly communicate and document that the employee may use the compensation increase for any purpose the employee so chooses.
+
+
+
+Beware of ERISA Section 510 Claims if you are Reducing Employees’ Hours
+
+
+
+Section 510 of ERISA (i.e., the Employee Retirement Income Security Act of 1974) prohibits an employer from discharging, disciplining or discriminating against an employee benefit plan participant for the purpose of interfering with the attainment of any right that the participant may become entitled to under the plan.
+
+
+
+In a recent class action lawsuit brought in federal court in New York (Marin v. Dave & Buster’s, Inc., S.D.N.Y., No. 1:15-cv-036081), the plaintiffs—current and former employees of Dave & Buster’s (“D&B”)--brought a claim against D&B alleging discrimination in violation of Section 510 by reducing employees’ hourly work schedules as part of a company-wide effort to reduce costs under the ACA employer mandate, resulting in a loss of employee coverage under D&B’s health insurance plan.
+
+
+
+D&B moved to dismiss the complaint, but in a recent ruling, the court allowed the lawsuit to move forward, holding that the lead plaintiff had alleged sufficient facts (including at least 2 meetings held by store management with staff explaining that D&B was reducing work schedules because of ACA cost to the company, and a public statement made by a senior executive that D&B was reducing its workforce to adapt to changes associated with the ACA) to show that D&B violated ERISA Section 510.
+
+
+
+While the court’s decision to allow the case to proceed certainly does not mean that the plaintiffs will prevail, it highlights a risk in reducing employees’ schedules solely to avoid or reduce group health coverage obligations under the ACA employer mandate. Employers should be aware of the latent risk in the strategy of cutting employees’ hours to reduce ACA costs, and also, in particular, should be careful as to communications regarding reductions in hours.
+
+To review the entire document and formatting for this alert (e.g., footnotes), please access the original below:

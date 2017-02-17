@@ -1,0 +1,61 @@
+The research and innovation benefits of a properly managed healthcare data sharing scheme are obvious, but as is so often the case the roll out of care.data has been mishandled and rushed through seemingly without due care and attention.
+
+There’s something about grand healthcare schemes that seems to bring out the worst in technophobia and techno-incompetence.
+
+In the US of course, the travails of the Obamacare web site roll-out have been cataloged in all their gruesome detail, while in the UK the taxpayer is still handing over piles of cash to suppliers for the supposedly aborted NHS National Programme for IT, the grand totem of everything that could ever be said to be wrong with public sector IT schemes.
+
+But just to prove that there’s always more to be had from the same deep pool, the UK government has just pulled off an embarrassing climbdown from a controversial scheme for data sharing of medical records.
+
+Under plans to digitise the NHS in England and make anonymised medical data available for wider use, the Health and Social Care Information Centre (HSCIC) planned to start accumulating data from doctors and public health bodies from April and to store this in a new database, known as ‘care.data’.
+
+But NHS England has now decided that will not now happen until the autumn following a massive outcry by the medical professionals, patients and privacy campaigners, including the Royal College of GPs, the British Medical Association and patient watchdog Healthwatch England.
+
+Care.data is pitched by its advocates as a giant database of medical records showing how individuals have been cared for across the GP and hospital sectors.
+
+Supporters of the scheme argue that its contents will be pseudonymised, leaving only the patient’s age range, gender and area they live in.
+
+To date UK authorities have gathered information about what happens in hospitals, but not what goes on in local doctors surgeries and practices.
+
+But inevitably when the state starts putting together plans for a giant database, Orwellian fears about Big Brother come to the fore, a state of affairs clearly aggravated of late by the NSA spying scandal.
+
+Privacy campaigners warned that putting all this information in one place is an open invitation for data protection and data leakage problems.
+
+The NHS authorities shot themselves in the proverbial foot in a leaked risk analysis document that covered its other proverbial part of the anatomy by conceding that despite the data being anonymised, patients could be “re-identified” if database data, which is subject to the Data Protection Act 1998 and Information Security management NHS Code of Practise, were to be combined with other information.
+
+The risk assessment stated:
+
+While there is a privacy risk that the analysts granted access to these pseudonymised flows could potentially re-identify patients maliciously by combining the pseudonymised data with other available datasets (a technique known as a jigsaw attack) such an attack would be illegal and would be subject to sanction by the Information Commissioner’s Office.
+
+Equally controversially there is also a proposal to allow non-NHS organisations, including private sector firms, the right to ask for access to the data.
+
+In the US where the private sector’s role in healthcare delivery sits firmly at the center it might seem surprising perhaps that this issue causes so much concern in the UK.
+
+But the post-World War II creation of a ‘free at the point of care’ National Health Service is regarded as one of the great political triumphs of any UK government.
+
+As such, and despite the NHS growing over the years in a manner that long ago lost sight of its initial mission statement, the service is a political ‘no go’ area when it comes to serious reform – and that includes any and every suggestion that the private sector should get more involved.
+
+NHS England has supposedly delivered a mass mail-out to every household in England since the start of 2014 outlining the proposals and informing everyone of what needs to be done to opt-out of the scheme, but according to a BBC poll of 860 people this week, fewer than a third could recall getting them. There certainly hasn’t been one delivered through my letterbox.
+
+So against all this, the NHS has blinked first and now states:
+
+“To ensure that the concerns are met, NHS England will begin collecting data from GP surgeries in the autumn, instead of April, to allow more time to build understanding of the benefits of using the information, what safeguards are in place, and how people can opt out if they choose to.”
+
+The final straw may well have been the intervention by the government’s own Information Commissioner’s Office (ICO) which monitors and manages data protection regulations across both the private and public sectors. In a damning statement, the ICO warned:
+
+“The NHS themselves have introduced an opt-out – it’s not an opt-out under the Data Protection Act – but even so they’re still obliged to let people know about it, and that’s what we’re looking at. Our role is to see whether patients are being made aware of what’s happening to their records and the fact that they can opt out if they want to. We feel that the opt-out itself has not been explained as clearly as we were told it would be by NHS officials.”
+
+Nick Pickles, director of privacy campaigner Big Brother Watch, said:
+
+“NHS England has failed to properly communicate to patients or GPs what this new database involves, how it affects our medical records and what the risks are. “The scheme’s benefits are no justification for not properly informing people what will happen and a delay is the right thing to do. Our medical records contain some of our most private information and any changes to how they are used should not be rushed into.”
+
+Verdict
+
+The prognosis for this whole scheme is now looking less certain.
+
+The research and innovation benefits of a properly managed data sharing scheme are obvious, but as is so often the case the roll out has been mishandled and rushed through seemingly without due care and attention.
+
+The UK government should have known better: the uproar among the media when prior to the last national elections Prime Minister David Cameron loosely floated the idea of putting patient records into a Google cloud should have been warning enough that when it comes to matters of personal data and the NHS, politicians need to tread incredibly carefully.
+
+The six month stay of execution on the scheme is welcome, but it is to be hoped that the time is spent well and on re-evaluating the approach that needs to be taken.
+
+In a follow up to this piece, guest contributor Graham Sadd offers a personal opinion on this latest NHS debacle based on ten years of lobbying on just this topic.

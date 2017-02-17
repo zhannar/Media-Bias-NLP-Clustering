@@ -1,0 +1,57 @@
+In a recent piece here at FiveThirtyEight, one of us (it was Ollie) wrote about CourtCast, an effort to predict Supreme Court decisions by algorithm. Analyzing only oral argument transcripts, CourtCast scores the case on a variety of metrics, including the justices’ sentiments, word counts and interruptions.
+
+More Politics
+
+Unless our article launches CourtCast’s profile into the stratosphere, it’s probably safe to say that the reigning interpreter of Supreme Court arguments is NPR’s Nina Totenberg. Totenberg doesn’t just report on the proceedings — she’s famous for her lively readings of the transcripts.
+
+Totenberg’s analysis comes in two steps. First, after watching a day’s arguments, she decides which key moments to include in her reporting. This is what all journalists do. But she then goes the extra step of re-creating — with tone, pacing and volume — the proceedings to bring them to life for her listeners.
+
+We thought it would be instructive to break down audio of Totenberg’s reporting alongside the CourtCast interpretation of the same argument. Think of it as Kasparov vs. Deep Blue, but somehow wonkier.
+
+We chose King v. Burwell, the recent high-profile case that calls into question whether the federal government can subsidize health insurance for people in states that choose not to set up their own insurance exchanges. The King side is arguing against the Affordable Care Act; Burwell — the head of Health and Human Services — is the respondent.
+
+First, here is Nina Totenberg’s full piece that aired on All Things Considered. You don’t have to stop and listen to the full six minutes right now, but it’s a great piece of legal journalism:
+
+“The Supreme Court justices were sharply divided today during a sometimes emotional argument over the fate of President Obama’s health care law…”
+
+And below is a chart created by CourtCast. We discuss the meaning of this chart more in our companion article, but here’s the gist: The bigger the bar, the worse it is for that side. (For example, the liberal Justice Stephen Breyer spoke a lot, and in a way that was detrimental to the petitioner, King. No surprise there.)
+
+Below, we break down three key sections from Totenberg’s piece and see whether the CourtCast algorithm agrees.
+
+Stumped By The Swing Votes
+
+Totenberg sets the case up as hinging on two swing votes:
+
+“By the end of the argument, it was clear that the outcome will almost certainly be determined…”
+
+You can see this in the CourtCast chart as well. Compared to full-throated liberals like Ginsburg and Breyer, neither Roberts nor Kennedy offered many clues when it came to word count. Let’s consider both Totenberg and CourtCast stumped on this front.
+
+Scalia Rides To The Rescue
+
+We pick up Totenberg’s piece in a section where she mimics Kennedy (a swing vote) critically questioning King’s lawyer:
+
+“That is a form of coercion, so it seems to me there’s a serious constitutional problem if we accept your argument…”
+
+In this stretch, we see Totenberg highlight Kennedy’s willingness to probe both sides of the argument — and conservative Scalia’s willingness to “jump in” and help King. No surprise, the CourtCast data’s “interruption” index for Scalia also shows him heavily skewed against Burwell.
+
+Sentiment Is Hard To Interpret
+
+Here’s a stretch where the Totenberg and CourtCast interpretations don’t seem to match up. Justice Ginsburg is considered a safe bet to rule in favor of Burwell and uphold the Affordable Care Act. Totenberg reflects this in her reading of a skeptical Ginsburg question to King:
+
+“Justice Ginsburg, however, pointed to what she called the familiar patterns of federal aid. Here’s a grant — take it or leave it — or a pattern like this, which says to a state, ‘you can have your program if you want it, and if you don’t,’ the fallback is a federal program…”
+
+Interestingly, CourtCast gives Ginsburg a “sentiment” score that’s pro-King — the opposite direction — albeit slightly. This is not to say that CourtCast thinks Ginsburg won’t vote with the liberal bloc — check out how high she scores in Burwell’s favor under “word count” and “interruptions” — but it does illustrate how a straight textual analysis can differ from a reporter’s interpretation.
+
+Totenberg has chosen to characterize Ginsburg as a safe liberal vote. This is a decision based on history and a reporter’s sense of how one justice reliably votes. The cold, raw data on sentiment is a little noisier.
+
+One More For Good Measure
+
+The three examples above are the most instructive for our purposes, but we can’t let a piece about Nina Totenberg go by without highlighting another moment from her piece on King v. Burwell. Here it is, one of our favorite examples of Totenberg interpretation. Every reporter wrote about this moment of levity, but only she brought it to life:
+
+“Justice Scalia – you really think Congress is just going to sit there while all these disastrous consequences ensue? How often…”
+
+All hail Nina Totenberg.
+
+Whether you prefer tuning in to NPR or staring at a chart, it’s clear that the nature of legal interpretation is in flux. Totenberg, like any dispassionate journalist, wisely ends her piece by saying “nobody was making any predictions.”
+
+That may be technically true — nobody was — but CourtCast gave it its best algorithmic shot. The program predicts, with 61 percent confidence, that King will fail and the Affordable Care Act will be upheld.

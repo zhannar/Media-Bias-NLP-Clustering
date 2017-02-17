@@ -1,0 +1,41 @@
+In a request for information to be published in the Federal Register tomorrow, the Office of the National Coordinator for Health Information is taking the first steps toward defining EHR interoperability under the Medicare Access and CHIP Reauthorization Act.
+
+According to the pre-publication document, the ONC RFI seeks information across three areas: measurement population and key component of interoperability to be measured; current data sources and potential metrics; and others sources of data and metrics for consideration to broaden interoperability measurement.
+
+"The Secretary of HHS will delegate authority to carry out the provisions of section 106(b)(1) of the MACRA to the Office of the National Coordinator for Health Information Technology (ONC)," the RFI states."
+
+Section 106 of MACRA contains the bill's definition of interoperability:
+
+the ability of two or more health information systems or components to: (1) exchange clinical and other information and (2) use the information that has been exchanged using common standards to provide access to longitudinal information for health care providers in order to facilitate coordinated care and improve patient outcomes.
+
+Additionally, it includes a definition of widespread interoperability as the ability for health information to move between meaningful use providers' certified EHR technology (CEHRT) and the EHR technology of meaningful use non-participants nationwide.
+
+According to the RFI, ONC intends to limit its assessment of interoperability to meaningful use providers and their exchange partners:
+
+ONC would measure interoperability for section 106(b)(1)(B) of the MACRA by assessing the extent to which “meaningful EHR users” are electronically sending, receiving, finding, integrating information that has been received within an EHR, and subsequently using information they receive electronically from outside sources. Thus, this RFI focuses on obtaining input on measures that address these aspects of interoperability for the specified populations.
+
+However, the division of the Department of Health & Human Services (CMS) is seeking comment on whether this limitation is sufficient.
+
+On the subject of available data sources and potential measures, ONC touches on the information currently available for assessing interoperability nationally:
+
+national survey data from key stakeholder organizations and federal entities CMS’s Medicare and Medicaid EHR Incentive Programs data
+
+"ONC recognizes that its currently available data sources might not be sufficient to fully measure and determine whether the goal of widespread exchange of health information through interoperable certified EHR technology has been achieved," the RFI reads.
+
+In the RFI, ONC lays out several measures currently under consideration:
+
+• Proportion of health care providers who are electronically sending, receiving, finding, and easily integrating key health information, such as summary of care records. This can be a composite measure (engaging in all four aspects of interoperable exchange) or separate, individual measures. • Proportion of health care providers who use the information that they electronically receive from outside providers and sources for clinical decision-making. • Proportion of health care providers who electronically perform reconciliation of clinical information (e.g. medications).
+
+Despite its dependence on meaningful use data, ONC points out potential limitations in the information.
+
+"One primary limitation is that differences exist in how CMS currently receives performance data from each of the Medicare and Medicaid EHR Incentive Programs," the document states. "Currently, Medicare collects and reports on performance data for each individual eligible professional, eligible hospital, and CAH. However, performance data is not available for each individual Medicaid eligible professional, eligible hospital, or CAH as the Medicaid EHR Incentive Program is operated by the states."
+
+Those limitations aside, ONC is considering the following measures based on meaningful use data:
+
+• Proportion of transitions of care or referrals where a summary of care record was created using certified EHR technology and exchanged or transmitted electronically. • For 2017 and subsequent years, the proportion of transitions or referrals and patient encounters in which the health care provider is the recipient of a transition or referral or has never before encountered the patient, and where the health care provider (e.g., eligible professional, eligible hospital, or CAH) receives, requests or queries for an electronic summary of care document to incorporate into the patient's record. • Proportion of transitions of care where medication reconciliation is performed. • For 2017 and subsequent years, the proportion of transitions or referrals received and patient encounters in which the health care provider is the recipient of a transition or referral or has never before encountered the patient, and the health care provider performs clinical information reconciliation for medications, medication allergies, and problem lists.
+
+As for other data sources for measuring interoperability, the federal agency is considering Medicare Fee-For-Service (FFS) claims data as well as electronically-generated data from CEHRT and other health IT systems for exchanging health information.
+
+"ONC recognizes this will require collaboration and coordination with federal entities and stakeholders across the ecosystem including entities that enable exchange and interoperable health information use, such as technology developers, Health Information Organizations (HIOs) and Health Information Service Providers (HISPs)," ONC states.
+
+Comments are due by close of business on June 3, 2016.

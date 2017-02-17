@@ -1,0 +1,33 @@
+TAMPA, Fla., Aug. 19, 2015 (GLOBE NEWSWIRE) -- MedHOK®, a pioneering software platform for health plans and other risk-bearing entities participating in government-sponsored programs, announced enhancements to its enrollment and financial reconciliation modules to help Medicare Advantage (MA) plans succeed in the transition to the new Risk Adjustment encounter process, recently announced by the Centers for Medicare and Medicaid Services (CMS). The enhancements will allow health plans to replicate the new risk adjustment process, providing for crucial visibility into factors affecting reimbursement and risk.
+
+
+
+CMS is moving away from the Risk Adjustment Processing System (RAPS) format to 837 encounter data system (EDS) for Medicare risk adjustment factor determination. For 2016, CMS will blend encounter data-based risk scores with RAPS-based risk scores in an effort to begin the conversion to full encounter data reliance. In 2016, the calculation will be weighted as 90% RAPS and 10% encounter data; in the future, the percentage of encounter data will increase and eventually completely replace RAPS data.
+
+
+
+"This is a major change for health plans and our enrollment and financial reconciliation modules are designed to account for this eventual shift to using encounter data," said Marc Ryan, Chief Compliance and Strategy Officer at MedHOK.
+
+
+
+MarketProminence, an enrollment and financial reconciliation solution by MedHOK-subsidiary Continuum Performance Systems and part of the MedHOK software platform, helps plans financially reconcile both enrollment and financial indicators. It compares information received from the federal government on enrollment and during a member's tenure (e.g., Batch Eligibility Query (BEQR), enrollment transactions, and RAPS Return Files) to the Monthly Membership Report (MMR) and Part C and D Model Output Reports (MOR).
+
+
+
+As part of the migration to EDS risk adjustment, in 2016 the software will incorporate both the response file from CMS (MAO-004), which reports the encounters accepted for risk adjustment, and the RAPS data, giving MA plans the opportunity to replicate the CMS process and ensure appropriate payments, remediate discrepancies, and increase revenue. MedHOK's enterprise-wide platform also helps MA plans monitor diagnoses for risk adjustment requalification and possible revenue opportunities.
+
+
+
+"MedHOK's platform provides the tools to remove obstacles to revenue reconciliation and help plans succeed in the value-based healthcare model," concluded Ryan.
+
+
+
+About MedHOK
+
+MedHOK's pioneering software platform empowers health plans and other risk-bearing entities offering government-sponsored programs to excel in risk, quality, and care management, while ensuring compliance with federal and state requirements. The only software that integrates pharmacy and medical care on a single platform, MedHOK creates a 360o view of the member, allowing payers to identify and target member health risks, intelligently trigger workflow interventions, and improve quality of care to succeed in the value-based revenue model. Out-of-the-box compliant and proactively updated for Medicare, Medicaid, and Affordable Care Act regulations, our SaaS-based software is a compliance powerhouse.
+
+
+
+Recognized by Inc. magazine in 2014 as the nation's 25th fastest growing private company and the 6th fastest growing private healthcare company, MedHOK is NCQA certified in HEDIS®, Pay for Performance, and Disease Management. MedHOK is the software platform of choice for more than 50 of the nation's largest healthcare payers, managing close to 40 million lives. Visit www.MedHOK.com or call (888) 9MEDHOK.
+
+Jan Luongo, APR (813) 304-2800 x1036

@@ -1,0 +1,65 @@
+Data shows some EHR vendors lag in attestations
+
+With help from David Pittman (@David_Pittman) and Arthur Allen (@ArthurAllen202)
+
+DATA SHOWS SOME EHR VENDORS LAG IN ATTESTATIONS: Data from DocGraph.org shows wide variation in success with attesting to Stage 2 of meaningful use, our own Arthur Allen writes for Pros. The clients of vendors Epic Systems and athenahealth had a lot of success in moving along to stage 2; more than 99 percent did so, with very few availing themselves of CMS’s flexibility rules.
+
+Story Continued Below
+
+Those vendors formed the upper stratum; most other vendors’ clients settled in the 5 to 15% range of flexibility usage.
+
+Then there were companies whose clients used the flexibility rule frequently: GE Healthcare, NextGen, and Greenway. Pros can read more here: http://politico.pro/1YCSERn
+
+SOMETHING CONGRESSIONAL THIS WAY COMES: Fall season is Congress season. Next Thursday will see yet another HELP conclave, this time with administration officials on the hot seat. That won’t be the end of legislative activity, in case you were wondering.
+
+We’ve been told the Government Accountability Office has delivered a report on health information exchange to HELP that was requested by committee chair Sen. Lamar Alexander (R-Tenn.) and the senators who penned the “reboot” report two years ago. (HELP hasn’t confirmed this to us.)
+
+There’s also a Wednesday markup of a mental health reform bill; one provision requests a GAO report on 42 CFR Part 2, the legal language that restricts sharing information on patient substance abuse.
+
+eHealth tweet of the day: Steven Posnack @HealthIT_Policy Ah! But is there a #ICD10 code for selfie accident? If not, we should bag the whole thing for ICD11 http://bit.ly/1FvNYX7
+
+ENTOMBMENT THURSDAY: Day 1 of the Franciscan Invasion featured mild temperatures, smiling children hollering in the park, and a moderately longer line than the typical weekday at his local deli. Your correspondent, as a member of the media, knows that its outlets would never hype, exaggerate, misunderstand, or poorly predict the implications of a major event. Therefore he assumes yesterday was a mere opening skirmish and is redoubling his fortification efforts. Send him mortar, supplies, or … perhaps even news tips at dtahir@politico.com. Contact us on social media at @David_Pittman, @arthurallen202, @DariusTahir, @POLITICOPro, @Morning_eHealth.
+
+HILLARY’S HEALTH CARE PLAN ON DIGITAL HEALTH: Most of the attention drawn to Hillary Clinton’s health care plans has focused on her criticism of pharma and promise to lower patients' out-of-pocket costs. But Clinton has also embraced health care innovation.
+
+The candidate is committed to “expanding access to high-quality data on cost, care quality, and health delivery system performance to help patients and doctors make informed choices and entrepreneurs build new products and services, making our health care markets more price and quality transparent as well as efficient,” the plan states.
+
+It also praises the “innovative entrepreneurs” who are creating technology helping patients “monitor their heart rhythms and count their calories, matching patients with doctors, making prices more transparent and easier to understand for consumers, and even offering new ways of providing health insurance coverage that are accessible and affordable.”
+
+The rhetoric here is pretty similar to what one hears these days in the Humphrey building (HHS' HQ), which may mean the digital health status quo would be maintained in a Clinton administration.
+
+APPLE BACKS DOWN ON HINDER: Hinder – the app aiming to educate users on politicians’ views of abortion, sexual education, and birth control – will be coming to the App Store after all. UltraViolet, the women’s rights group campaigning against Apple's removal of the app, declared victory today after the tech company backed down. For details see yesterday's Morning eHealth...
+
+FINGERPRINTS ALL OVER THE OPM HEIST: The hackers who entered OPM’s system burgled reams of sensitive biometric data – far greater than previous estimates, in fact. Nearly 5.6 million current and former federal employees have had their fingerprint data taken, the agency revealed; the previous estimate was 1.1 million. The agency is convening a working group to .... close the barn door.
+
+FDA SEARCHING FOR DIGITAL HEALTH SCIENTISTS: As tweeted by head digital honcho Bakul Patel (appropriate medium!), the FDA is searching for some digital health scientists.
+
+The job descriptions seek employees who will spend time “researching emerging digital health technologies,” “drafting technical papers and presentations for delivery to a variety of audiences,” and “negotiating with regulated industry to accept requirements which involve substantial changes in established methods, policies, or programs,” among other things. Get your resumes in.
+
+EHRA – WE SUPPORT DIAGNOSTIC IMPROVEMENT: EHR vendors come in for their share of criticism in this week’s Institute of Medicine report on diagnostic errors. Their professional organization points out that they are working hard with the rest of the IT community on interoperability, and that the 2013 EHR Developer Code of Conduct commits those who sign it to alerting customers of product safety issues. “In terms of the proposal for independent evaluation and notification of adverse effects on the diagnostic process ... most EHRs do not provide native diagnostic decision support, but instead integrate various third party tools and resources to provide these capabilities to clinicians,” says the group’s vice chair, NextGen Chief Medical Officer Sarah Corley. And while EHR companies encourage customers to share best practices with one another, “we note that any public commentary must respect the boundaries of intellectual property, and is something addressed by each individual company in their partnership with researchers.”
+
+STUDY ASKS PATIENT PREFERENCE FOR POST-OP FOLLOW-UPS: A majority of veterans preferred a telephone or video-based follow-up visit after their surgery, a JAMA Surgery letter reported Wednesday. Researchers at Vanderbilt University followed 35 veterans who received in-person, telephone and video follow-ups and asked them about their preference. Thirty percent preferred video and 39 percent preferred telephone. Those who preferred telehealth visits traveled almost twice as much compared to than those who preferred in-person visits, an average of 162 miles versus 75 miles, the researcher reported. “Importantly, there were no instances in which we failed to detect a wound or postoperative complication by telephone or video,” the authors wrote.
+
+HANDLING COMPLEX NEEDS PATIENTS: An issue brief from the National Governor’s Association provides states tips on how to use data analytics to handle the high-spenders and super-utilizers, a persistent budgetary bugaboo. Among the recommendations: use data to understand their needs, determine who are most likely to benefit from intervention and monitor their progress to shift tactics. Sounds simple enough. The brief: http://bit.ly/1NTAQhi
+
+MARK YOUR CALENDARS: The Bipartisan Policy Center and Council of Accountable Physician Practices will hold an event Nov. 4 on how technology is changing the patient-physician relationship. http://bit.ly/1NMLEwb
+
+MORE BAD STATE PAYMENTS IN MEANINGFUL USE: Oklahoma Medicaid mispaid $888,000 to 47 hospital-based doctors, the HHS’s Inspector General said Wednesday. The HHS watchdog recommended the state refund the federal government $127,500 in incorrect EHR incentive payments. The OIG has previously investigated Texas, Massachusetts and Louisiana.
+
+PEW ON UDI: Pew Charitable Trusts has released a report on one of its favorite ideas — the unique device identifier’s potential to help healthcare, and how to implement it throughout the healthcare system.
+
+The idea of a UDI is to give each device a numeric identifier — in effect naming it — so it can be tracked throughout the healthcare system. That’s in opposition to the current system, where a given device — say, an intraocular lens — will have different numbers in different parts of the system. That complicates efforts to track devices and determine whether there’s a problem, and to recall devices when there is.
+
+The key, Pew says, is to the get the identifiers into the patient’s EHR. That makes them more likely to flow to other hospitals, registries, and other stakeholders. Pew would also like to see UDIs included in a “Blue Button+” and summary-of-care documents like the C-CDA.
+
+WHAT WE’RE CLICKING ON:
+
+The Pitfalls of Health-Care Companies’ Addiction to Big Data -- http://bloom.bg/1KSyZXx
+
+Online Prediction of Health Care Utilization in the Next Six Months Based on Electronic Health Record Information -- http://bit.ly/1YCSTfi
+
+Jodi Daniel lists her 'greatest hits' at ONC -- http://bit.ly/1iy177w
+
+Why Cleveland Clinic Shares Its Outcomes Data with the World – http://bit.ly/1Fhc2Nz
+
+Tips, comments, suggestions? Send them along via email to our team: Arthur Allen (aallen@politico.com, @ArthurAllen202), David Pittman (dpittman@politico.com, @David_Pittman) and Darius Tahir (dtahir@politico.com, @DariusTahir).

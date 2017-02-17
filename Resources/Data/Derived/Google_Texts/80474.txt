@@ -1,0 +1,19 @@
+The majority of bank account hacks could have been thwarted had organizations looked for and blocked transactions coming through Tor, an online anonymity communications network.
+
+That's the conclusion of a confidential Treasury Department document obtained by security researcher and journalist Brian Krebs.
+
+ADVERTISEMENT
+
+The report comes from the Financial Crimes Enforcement Network (FinCEN), Treasury’s bureau that analyzes information about financial crimes.
+
+Between August 2001 and July 2014, “the majority” of suspicious activity reported to the Treasury, nearly $24 million, “might have been prevented if the filing institution had been aware that their network was being accessed via Tor IP addresses.”
+
+An IP address is the number assigned to a device while connected to an Internet network.
+
+In over a decade, almost no banks knew their attacker was using an IP address on the anonymous Tor network.
+
+Cyber thieves must have caught on to this vulnerability. Overall fraud reported to Treasury increased 50 percent from October to March 2013. After that, reported fraud skyrocketed, doubling between March 2013 and July 2014.
+
+Tor has been in the news recently. In early November, federal law enforcement officials revealed they had taken down hundreds of websites using Tor to hide themselves from regular Internet browsers.
+
+It was the largest ever crackdown on Tor users.

@@ -1,0 +1,47 @@
+Above, the Esri map visualization created from a Department of Health and Human Services report about Affordable Care Act enrollment figures. Click on the bar at the top to open different data views.
+
+The document itself is dry: A U.S. government report, 29 pages of text and tables.
+
+The report’s subject, however, is hot: The first three-month enrollment period for the Affordable Care Act. The January 13 issue brief from the Department of Health and Human Services shares information about who signed up for the new Obamacare health insurance marketplaces and includes data about the population of enrollees, including age, gender and financial assistance status, along with state-by-state enrollment figures and website traffic data.
+
+Related Stories Robert Kosara of Tableau on using data to tell a story.
+
+Read the story » Podcast: Esri’s Jack Dangermond on marrying maps with big data analytics.
+
+Read the story » Advances in data visualization software empower business users.
+
+Read the story » Telling stories with visualizations: lessons from data journalists.
+
+Read the story »
+
+Extracting and formatting data from the tables and creating a visualization, in this case a website map presentation, provides a clear opportunity to see both the opportunities and limitations of such a project, said Bill Davenhall, a senior health adviser at Esri, the geographic information systems vendor.
+
+In an interview, Davenhall talked about how this presentation—created by one Esri communications staff member during part of a business day—is like many maps in that it spurs more questions than answers, and that those questions depend on the audience.
+
+“Most people who look at a map will say, ‘I wish they had it for my neighborhood, or I wish they had this piece of information that is more valuable to me,’” Davenhall said. “That is what puts ideas into motion.
+
+“When you visualize this information, people can tell you what’s wrong with it. It sounds negative, but it’s positive because what you’ve done is you’ve got them thinking. Where did this data come from? What is the quality of this data? Once you start down that road, I think you are on the way to what I would call this enhanced understanding with what the visualization is doing,” he added.
+
+In this case, the quality of the geographic-oriented data is limited: it only goes down to the state level. So while the map shows views of enrollment figures, gender and age group breakdowns, financial status and plans chosen, the granularity is limited to state boundaries.
+
+There are a number of ways to enhance this view, depending on the goals of the visualization creator and especially the interests of the audience, Davenhall said. But two main themes are clear: it would help to have more granular geographic data for enrollments—such as by metropolitan area, by Congressional district or ZIP code.
+
+More granular details about enrollment trends enable these kinds of questions: How is this Congressional district (or city or neighborhood) doing in terms of health insurance enrollments? Where are certain age groups participating more than others?
+
+The second move would be to augment the map with additional datasets, from public or proprietary sources. The list of potential questions is long and should interest partisans in the Obamacare political debate as well as health care industry players, policymakers, and the public at large. Questions like:
+
+• How are enrollments doing in areas where members of Congress opposed Obamacare? Where the law won support?
+
+• How do enrollments fare in areas where TV commercials have aired trying to influence citizens’ behavior?
+
+• How are enrollments doing in states with the highest incidence of stroke, diabetes and other conditions?
+
+• How does the data look in areas where health care costs are higher than national averages? Where they are lower?
+
+A third way to build on the visualization would be to revisit it when the government issues future enrollment reports. That could allow a user to see changes over time in enrollment trends.
+
+In the map of the Affordable Care Act (and other public projects like it), Davenhall emphasized that Esri maintains an agnostic point of view. The data is the thing. But he also said that a visualization needs to point users in a direction.
+
+Take the question about enrollment trends. “I encourage people that less is more,” he said. “It’s about putting information on the map that’s smart. If you have two periods of time, don’t show me all the data ever collected on this. Show me something where the data is doing something you wouldn’t expect.”
+
+This map sets the table for more questions. What questions, and what kinds of data, would you add? Put your suggestions in the comments section at the end of this article.

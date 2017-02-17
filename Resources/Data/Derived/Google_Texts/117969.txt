@@ -1,0 +1,21 @@
+Oracle is requiring database administrators to upgrade their certifications if the ones they hold are for older versions of its platform.
+
+"Earning an Oracle certification is a well-respected achievement," the company said on its website. "However, as products age and are removed from Oracle standard support maintenance, the technology becomes less relevant, devaluing the associated credential(s)."
+
+While that may seem like a reasonable enough conclusion, one question in a FAQ page on the site notes that "Oracle has stated that certification is permanent" and the policy change "seems to go against that."
+
+The change "helps maintain the integrity of our certification program and the value of your certification," the site states.
+
+The policy reflects certifications for Oracle database versions ranging from 7.3, which dates to the mid-1990s, up to 10g, which was released in 2003.
+
+DBAs certified on those versions must recertify on a newer version of the database by either November 2015 or March 2016 if they want to keep their credentials in an "active" status. Oracle recommends that DBAs upgrade their certification to version 11g or later, the site states.
+
+Oracle stands to benefit financially from the recertifications, given the fees charged to take the tests.
+
+Still, one longtime Oracle DBA, who asked to remain anonymous, praised Oracle's decision.
+
+"It was never a good idea that certifications were permanent," the DBA said via email. "Changes in features and architecture, for example 12c multi-tenant, should render previous certifications null and void. Will it ruffle some feathers? Yeah probably. Should it? No. In my opinion certifications should apply to a single release and nothing more."
+
+There could be more news on this front yet to come. A decision on whether to require all product certifications to be recertified is "currently under discussion," according to the Oracle FAQ.
+
+Chris Kanaracus covers enterprise software and general technology breaking news for The IDG News Service. Chris' email address is Chris_Kanaracus@idg.com

@@ -1,0 +1,13 @@
+Sometime during tonight's State of the Union address, President Obama will call upon Congress to pass cybersecurity legislation in order to "better meet the evolving threat of cyber-attacks, combat identity theft, and protect our children's information," according to USA Today.
+
+Here's the full passage.
+
+"No foreign nation, no hacker, should be able to shut down our networks, steal our trade secrets, or invade the privacy of American families, especially our kids. We are making sure our government integrates intelligence to combat cyber threats, just as we have done to combat terrorism. And tonight, I urge this Congress to finally pass the legislation we need to better meet the evolving threat of cyber-attacks, combat identity theft, and protect our children's information. If we don't act, we'll leave our nation and our economy vulnerable. If we do, we can continue to protect the technologies that have unleashed untold opportunities for people around the globe."
+
+The federal government is not exactly excellent at maintaining data security.
+
+Earlier tonight, the Associated Press reported that HealthCare.gov, the federally run web portal for Obamacare's health insurance exchanges, has been quietly sharing potentially identifying personal information, including age, zip code, and Internet address, with as many as 50 third party advertising and marketing agencies. The White House could not say how it was ensuring that the outside firms were complying with federal data privacy guidelines, according to the AP. In September of last year, the Government Accountability Office reported that HealthCare.gov still had security vulnerabilities that left personal information submitted to the site "at risk."
+
+Overall, the government's track record at protecting sensitive data is poor. As Ars Technica notes, a recent paper by Eli Dourado and Andrea Castilla of George Mason University found a dramatic increase in federal data security breaches between 2006, when there were 5,503 breaches, and 2013, when there were 61,214 breaches.
+
+Maybe that's just bad luck. Or maybe the federal government isn't best suited to setting cybersecurity standards.

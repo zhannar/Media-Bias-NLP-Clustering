@@ -1,0 +1,53 @@
+Linda Burt, vice president and chief financial officer at Nebraska Methodist Health System in Omaha, Neb., knows the importance of data to limiting financial risk at an integrated health system. Since 2008, Burt has managed finance, treasury and revenue cycle operations across the system, which includes the flagship Meist Hospital and Methodist Women's Hospital, both in Omaha, and Jennie Edmundson Hospital in Council Bluffs, Iowa.
+
+Previous to joining NMHS, Burt served as CFO at Saint John's Health Center, in Santa Monica, Calif.; Ancilla Systems, Inc., in Hobart, Ind., and Rockford Health System, in Rockford, Ill. In addition, she held senior finance positions at Northwestern Memorial and Lutheran General Hospitals in Chicago, Illinois.
+
+Burt recently sat down with Healthcare Finance News to discuss the primary ways in which hospital CFOs use analytics, and how data – if assessed properly – can reduce risk.
+
+Most people understand that hospital CFOs rely heavily on financial data in their daily work lives, but given the fast-changing nature of the healthcare industry, some of those perceptions may be outdated. What are the primary ways you and your colleagues currently use financial analytics?
+
+There are actually five or six ways that the finance department uses analytics.
+
+The primary area of analytics use probably involves medical supplies. We use analytics to benchmark and compare the price and utilization of medical supply items. In the past, we were focused primarily on discovering the best pricing opportunities, but we have moved beyond that, and want to use our data to determine supply utilization and improve inventory management.
+
+We also want to make sure we adequately price products into our medical procedures. In some cases, we actually end up decreasing procedure prices, based on improved supply prices.
+
+You've said before that data is critical to Methodist's value analysis program.
+
+Yes, that's true. In fact, our whole program is built on financial analytics. You have to validate the actual pricing of supplies, measure the total cost of items versus your historical costs. And we have to monitor compliance, to determine if staffers are ordering items outside of contract.
+
+You've mentioned the importance of medical supply costs. What about employing data even deeper on the clinical side?
+
+Well, a third way to use analytics in finance is to examine clinical documentation. I am the sponsor of the clinical documentation program at Methodist Health System. We use various metrics to study the quality of clinical documentation: charge capture rates, case mix index, severity of illness, risk of mortality. We also look closely at expected length of stay versus actual length of stay, and one of our technology tools risk-adjusts physician performance and utilization.
+
+And I really should note that a fourth area of analytical use is linked closely to clinical documentation: That's ICD-10. The success of the ICD-10 transition will depend ultimately on the robustness of your clinical documentation program. These metrics will tell us what kind of clinical documentation training needs to take place with physicians.
+
+And is that important to provide insight into the overall costs of care.
+
+Yes, and as we move toward a better understanding of the total cost of care, another area of analytical focus is on patient claims data. This is central in the move toward population health. In fact, we currently manage our own employees under a population health model. We have access to per-member, per-month costs from Blue Cross Blue Shield of Nebraska, and we use this data to determine where opportunities exist to reduce cost or utilization.
+
+Analytics allow us to see things we did not know previously. You can compare your patients to a "well-managed" patient population, and the process can reveal quite a specific cost-reduction opportunity. It's been very interesting to get to this level of data, because the information you have is so robust. You can even drill down to determine individual physicians who generate the most cost. This is so important to financial risk management.
+
+You referred to the population management of your own employee health costs. But you've also teamed with a rival health system on that project?
+
+Yes, we've created a common network for our employees along with our partner, the Nebraska Medical Center. The employees of each organization can go to the other facility for care without penalty. We want to manage our shared population in the most cost-effective manner. I think we're moving toward that, but you need a constant flow of data to know where you stand and what potential exists for improvement.
+
+A key area of financial risk management must be in compliance, related to audit?
+
+Yes, and I'd call that the final area of financial analytics usage. For us, that is specifically in our payer audit tool. We have to respond to pre-payment audits and post-payment audits, and manage all sorts of claims denials. And we perform pre-emptive audits on ourselves. Data is key to this.
+
+What departments or individuals does finance partner with on analytics and risk management initiatives?
+
+I work closely with our vice president of performance improvement, Anton Piskac, who is a physician. We meet weekly and determine which of the various data sources we have are the most useful. For instance, Dr. Piskac manages a physician utilization tool that has the ability to risk adjust, and he is the primary user of our population health management tool. On the finance side, we have a business intelligence tool that hooks into our clinical and revenue cycle data. We also have an ICD-10 analytical tool that is claims-based. We are also adding a cost accounting tool. Anton and I discuss what data is available, and what data we can best use. When we begin an initiative, he goes out and speaks with the physicians who are falling short of expectations on clinical documentation, and will discuss ways to improve data capture.
+
+In the future, different physician management workgroups will use the information we're collecting. Some workgroups will be organized around specialties, but there will be workgroups around, for example, ER usage, and pre-surgical evaluation. Finance and clinical are working together to improve care and reduce costs.
+
+The term "big data" has been a catchphrase with regard to population health, but is it used much in financial analytics and risk management?
+
+Internally, we don't call it big data. We are simply using data analytics in managing our business. We don't pull in unstructured data. We are pulling in claims data, so we're getting to see data on where patients are going to get their care.
+
+But we're also beginning to venture into predictive analytics. Some of the first uses are basic, such as predicting readmissions and predicting patients who are at-risk. We spend a tremendous amount of time validating the accuracy of data in our databases. Now that we have a reliable database, we will certainly use predictive analytics more frequently.
+
+Ultimately, what's the biggest challenge in collecting, analyzing and deploying data to lower financial risk and improve outcomes and revenue?
+
+It might seem small, as opposed to an all-encompassing theme, but don't underestimate the time it takes to validate the data within the databases. It's a huge effort. Constantly having to revalidate data after different initiatives and upgrades is very demanding.

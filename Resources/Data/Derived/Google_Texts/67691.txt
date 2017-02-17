@@ -1,0 +1,15 @@
+Ah, the future. As we’ve seen in countless robot-based movies and television series since those things became an actual thing, the future is going to be filled with robots doing our bidding (and hopefully not resenting us, turning on us, or destroying the planet.) As we are slowly moving into “the future” and robotics turn from science fiction to fact, it’s very cool when a new innovation is announced in a field we kind of take for granted.
+
+Today’s announcement comes by way of researchers from the Automation and Interventional Medicine (AIM) Robotics Research Laboratory. They have started developing plastic and ceramic robots that act as automated surgical assistants during prostate biopsies in Boston’s Brigham and Women’s Hospital.
+
+The purpose of having these robots help doctors during surgery is so that the surgeons can make use of the magnetic imaging as they operate. Instead of going in blind, doctors can use the MRI to find suspicious-looking tissue within the prostate first, and then send in the robots to remove said tissue.
+
+A very important aspect of these new robots is that they are plastic and ceramic, not metal. As you may or may not be aware, metal and MRIs do not mix. If you’ve ever gotten an MRI done before, you know that there’s a long list of things that you cannot have on you or in you before you get scanned. Any loose metal items can become a deadly force the second an MRI is turned on.
+
+If you are interested in how the robot and you can both fit inside the magnetic doughnut that is an MRI scanner, check out this article. If you’re wondering how the robot can be in the MRI scanner with you and not mess with the pictures being sent to the doctor performing the surgery, the plastic parts and ceramic piezoelectric motors allow it to safely operate.
+
+“Essentially, we made a device that can move around the MRI bore without affecting image quality,” said Gregory Fischer, a professor of mechanical engineering at WPI whose Automation and Interventional Medicine Robotics Lab led the research.
+
+Atypical biopsy finds a doctor searching a man’s prostate for cancer with a bunch of needles and an ultrasound wand. As you might expect, that’s a pretty dreadful way of doing things. Since doctors are going in without the best images possible, they end up taking 10 to 50 samples with the needles and each one brings a risk of infection.
+
+With the robot and the MRI scanner, doctors have a much better image of where the prostate is and the robot will be able to pinpoint the exact location and place the needle, leading to a much safer, smarter way of doing the biopsy.

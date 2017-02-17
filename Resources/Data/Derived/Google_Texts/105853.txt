@@ -1,0 +1,61 @@
+Timothy Jost
+
+March 15, 2016
+
+Implementing Health Reform (March 17 update). On March 16, 2016 the United States District Court for the Western District of Missouri entered summary judgment (link provides court opinion search page) in St. Louis Effort for Aids v. Huff, permanently enjoining the state of Missouri from enforcing several sections of its Health Insurance Marketplace Innovation Act (HIMIA) which limited the actions of health insurance marketplace certified application counselors (CACs) and navigators.
+
+The court had entered a preliminary injunction enjoining enforcement of the HIMIA against navigators in January of 2014. Its decision was largely upheld by the Eighth Circuit federal court of appeals in April of 2015, although the appellate court narrowed the scope of the district court decision.
+
+The ACA preempts state laws that prevent the application of its provisions. In its March 16 decision on remand from the Eighth Circuit, the district court held that the HIMIA’s provisions prohibiting navigators from providing advice to consumers about the “benefits, terms, and features of a particular health plan” and from providing information regarding off-exchange plans were preempted by the federal navigator regulations. The court also held that HIMIA provision requiring navigators to refer consumers to insurance agents and brokers with whom the consumer had obtained existing insurance coverage was preempted by federal regulations requiring navigators to provide “fair, accurate, and impartial information” and “to act in the best interest of the applicants assisted.”
+
+The responsibilities of navigators and CACs were a major area of controversy in the early years of ACA implementation. Agents and brokers feared that navigators might usurp their traditional roles and state insurance regulators were concerned that navigators might defraud or mislead consumers. In fact during the past two years there have been very few reported problems involving navigators and CACs and these controversies have quieted down. The court decision almost seems an afterthought.
+
+Update on HIPAA rules and wellness programs. Wellness programs are very popular with American employers. The 2015 Kaiser Family Foundation Employer Health Benefits Survey found that a majority of large employers offered employees health assessment programs in 2015 and half asked or offered employees the opportunity to complete a biometric screening.
+
+Wellness programs also raise a host of legal, ethical, and economic issues. One of these involves what protection is offered to all of the sensitive personal health information that employers routinely collect on their employees through the programs. The answer to this question involves the Health Insurance Portability and Accountability Act (HIPAA) privacy, security, and breach notification rules, the primary rules protecting the privacy of personal protected health information (PHI) in the United States.
+
+On March 14, 2016, the HHS Office of Civil Rights (OCR) posted a blog post discussing how the HIPAA rules apply to workplace wellness programs. The blog post in turn linked to OCR guidance on this topic.
+
+The HIPAA rules apply to health plans, health providers, and health information clearinghouses and their business associates. They do not apply to employers as such. If a workplace wellness program is offered as part of a group health plan, it is subject to the HIPAA rules. A wellness program could be part of a group health program if wellness incentives involve reductions (or increases) in premiums or cost-sharing.
+
+If a wellness program is not offered as part of a group health plan, the information the wellness program collects through health assessments, biometric screenings, or even fitness tracking devices is not protected health information under HIPAA. It may not be obvious whether a wellness program is part of a group health plan or not. It is incumbent on employees who care about the privacy of their health information to find this out.
+
+Employers that do not perform plan administrative functions on behalf of a group health plan may only (absent written authorization from a plan participant) access 1) plan information identifying which individuals are participating in the group health plan or enrolled in health coverage offered by the plan and 2) summary health information requested from the plan for purposes of modifying the plan or securing premium bids for plan coverage.
+
+An employer that performs administrative responsibilities for a group health plan has broader access to PHI, but is prohibited by HIPAA from using or disclosing the PHI collected by the plan for employment-related actions or for other purposes not permitted by HIPAA, like marketing, without express authorization from the employee. This is also true if information is held by an employer as group health plan sponsor on the plan’s behalf.
+
+An employer that performs plan administrative responsibilities is responsible for establishing firewalls and other security measures to ensure that information collected through the wellness program cannot be accessed and used for employment functions or decisions. The employer must also ensure that employees who perform plan administration functions are separated from employees who do not.
+
+A group health plan that learns of the unauthorized use or disclosure of PHI by an employer administering a wellness program must notify the affected individuals, HHS, and in some cases the media in accordance with the HIPAA breach notification rule. Entities that violate HIPAA can face civil penalties of up to $50,000 or more per violation, up to $1.5 million per year for repeat violations.
+
+Original Post.
+
+Recognizing that it was likely that once health status underwriting was abolished and preexisting conditions exclusions were banned the individual market would likely disproportionately attract high-cost enrollees, Congress established under section 1341 of the Affordable Care Act a transitional reinsurance program for the years 2014 to 2016, Under this program, insurers and third party administrators of group health plans are required to pay contributions into a reinsurance fund. These contributions are distributed to health insurers in the individual market to reinsure them for covering high-cost individuals.
+
+The Department of Health and Human Services (HHS) was supposed to set the amounts to be contributed under this program so that they would yield $10 billion for 2014, $6 billion for 2015, and $4 billion for 2016 for financing the reinsurance program. In addition, it was to collect $2 billion for 2014, $2 billion for 2015, and $1 billion for 2016 for the Treasury general fund, presumably to reimburse the federal government for the costs of the early retiree reinsurance program which operated from 2010 to 2013.
+
+In 2012, HHS finalized a rule setting the method through which it would determine the per-enrollee assessments insurers and third party administrators would pay for the three years of the program based on its estimate of how much it projected would be needed to cover these amounts plus the administrative costs of operating the program. On the basis of this method it set the per capita reinsurance rate at $63 for 2014, $44 for 2015, and $27 for 2016.
+
+Reinsurance contributions for 2014 in fact only amounted to about $9.7 billion instead of the approximately $12 billion expected. The problem that then confronted HHS was how to account for the shortfall. In its 2015 Exchange and Insurance Market Standards final rule, HHS concluded that in the event of a shortfall, it would allocate the full amount to the reinsurance program, and that only amounts that exceeded what the statute established for the reinsurance program should be allocated to the general fund and for administrative costs. It determined that the purpose of the program was to provide reinsurance and that the statute gave HHS discretion to prioritize funding the reinsurance program over collecting money for the general fund in the event of a shortfall.
+
+The Congressional Research Service (CRS) in a recent report to Congress criticized HHS for this decision, stating that it “would appear to be in conflict with the plain wording of Section 1341(b)(4).” It seems to me, however, that the interpretation of Section1341 by HHS is permissible.
+
+The Statutory Background
+
+Section 1341(b)(1) directs HHS to establish standards for collecting reinsurance contributions from insurers and third party administrators. Section 1341(b)(3)(A) directs HHS to establish a method for determining the amount health insurers and third party administrators are required to contribute. Under Section1341(b)(3)(B)(ii) each insurer’s contribution amount should proportionately reflect the size of its commercial insurance business and third party administrator fees and coverage costs. Section 1341(b)(3)(B)(iii) states that the aggregate contribution amounts to be collected should cover the cost of the program ($10 billion for 2014, $6 billion for 2015, and $4 billion for 2016). Under 1341(b)(3)(B)(iv) the amount collected should also “reflect” each insurer’s share of the amount to be contributed to the Treasury ($2 billion for 2014 and 2015 and $1 billion for 2016). Under Section1341(b)(3)(B)(ii), administrative costs could also be covered.
+
+Section 1341(b)(4)(A) provides that provides that the amounts collected for reinsurance over the three years can be allocated to cover the costs of reinsurance for any of the three years and funds left over can be used to make payments for reinsurance programs for the two years following 2017. Section 1341(b)(4)(B) then says:
+
+Notwithstanding the preceding sentence [addressing distribution of reinsurance funds], any contribution amounts described in paragraph (3)(B)(iv) shall be deposited into the general fund of the Treasury of the United States and may not be used for the program established under this section.
+
+The Dispute
+
+The CRS reads this provision to mean that some share of each contribution must be allocated to reimbursing the Treasury. HHS, however, reads it as saying that if funds are collected under Section 1341(b)(3)(B)(iv) to reimburse the Treasury, those funds must be used for this purpose and not for reinsurance. HHS concluded, that since less than $10 billion were collected for the reinsurance fund in 2014, no funds were available to repay the Treasury; thus, this provision did not apply for 2014. In 2015, contributions are expected to exceed the $6 billion allocated under the statute to reinsurance, and the excess will be used to reimburse the Treasury and cover administrative costs.
+
+HHS Reading Is Reasonable
+
+The HHS interpretation of the section is, of course, not the only reading possible. But it appears reasonable and consistent with the Supreme Court’s admonition in King v. Burwell:
+
+Congress passed the Affordable Care Act to improve health insurance markets, not to destroy them. If at all possible, we must interpret the Act in a way that is con­sistent with the former, and avoids the latter.
+
+The CRS conclusion thus could be seen to be at odds with the deference agencies are usually given in statutory interpretation.

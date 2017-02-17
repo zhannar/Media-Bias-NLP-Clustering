@@ -1,0 +1,13 @@
+There is a reason for doctor-patient confidentiality. Our health is a private matter, which is why the news that Aids.gov and another major government website directing people to AIDS-related treatments have left user data exposed is so disturbing.
+
+Recently, Aids.gov decided to encrypt its locations website to protect users...but only after years went by where that information was not encrypted, and only after the Washington Post brought the fact that a site handling sensitive medical information should probably at least adhere to the most routine form of privacy protection for websites to their attention.
+
+In addition to Aids.gov, another government website that helps people find AIDS testing locations also made the switch to encryption recently. Better late than never, I guess, but these two major federal healthcare efforts went years without bothering to put the same kind of security feature (Secure Sockets Layer, or SSL) in place that banks use. SSL makes it a lot harder for low-grade snoops to poke through your data.
+
+Advertisement
+
+That is a huge oversight, and one at odds with the requirements the government puts on private healthcare providers, as the Washington Post pointed out:
+
+The security upgrades pleased privacy advocates, but they also expressed frustration that government sites handling potentially sensitive medical inquiries waited until 2014 to begin offering automatic encryption – something that for several years has been routinely available for online banking, shopping and many other online services. Federal rules governing healthcare privacy typically require the use of encryption when private institutions, such as hospitals or insurance companies, transmit personal medical information over the Internet.
+
+[The Verge via Washington Post]

@@ -1,0 +1,21 @@
+Despite incentives provided by the Affordable Care Act and the prevalence of the cloud in most of our lives, the software used by the health care industry continues to lag behind what you find in the consumer space or most big enterprises.
+
+When was the last time you went to a doctor? To check, you’d probably check one of your calendar apps for an appointment. How were you doing — was it a regular scheduled trip, or an impromptu visit because of a persistent cold? Do you remember how the doctor or nurse practitioner treated your issues?
+
+The fact that those questions aren’t easy to answer for most people is an opportunity for startups like Y Combinator-backed CloudMedx, who’s building a suite of physician- and patient-facing apps that together lead to better, cheaper outcomes.
+
+CloudMedx CEO Tashfeen Suleman recently took some time to walk me through how the company gets both health care professionals and the patients who see them onto their platform. It starts with CloudMedx selling to physician organizations — typically about 100 physicians who treat people at their own facilities but share resources and clients between different specialties.
+
+These organizations pay a subscription based on the number of physicians in their network. When you first visit a doctor at an organization using the platform, the relevant data for their trip (the basic questions they ask and the stuff you have to fill in on forms when you show up) is entered into the same electronic medical record systems staff is already familiar with using. Once that’s done, the EMR syncs with CloudMedx’s system, creating a profile of your data that will go with you whenever you go to other doctors who have signed up.
+
+Patients get access to that same data as soon as it’s in the system, with an SMS automatically going out with a link to download a CloudMedx app. In addition to giving you immediate access to your health care records on the go, the app also gives a quick way to show your data to new doctors in the case of an emergency or when switching physicians due to a move.
+
+Of course, just being able to see your health history isn’t useful unless you know what to look for. So CloudMedx runs analytics on top of its profiles, providing risk analysis for conditions Suleman says are responsible for as much as 90 percent of health care costs: congestive heart failure, stroke, hypertension, heart attack, COPD, pneumonia and diabetes.
+
+Instead of dealing with these conditions when catastrophic issues arise, patients who regularly go in for check-ups would have small bits of data add up over time that show how likely it is that conditions could develop. If the risk gets too high, doctors can prescribe proactive measures to head them off, like exercise, a modified diet or medication.
+
+At scale, such proactive measures could save the health care system billions of dollars a year in ultimately unnecessary costs. Unfortunately, the reality is that it’s hard to push adoption in a heavily regulated market like health care. So CloudMedx’s sales strategy pushes network effects at a more realistic scale — bringing in physician organizations means you deal with fewer payers and increase the likelihood that the patients involved will move between doctors at the same organization, increasing utilization.
+
+CloudMedx launched its beta last July and brought on six physician organizations by the end of December. They’re now ramping up their sales and on-boarding processes — just last month they had 10 sign up. So far the largest organization on the platform brought in 150 physicians.
+
+Featured Image: YouTube

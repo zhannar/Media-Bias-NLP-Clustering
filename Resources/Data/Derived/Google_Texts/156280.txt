@@ -1,0 +1,65 @@
+On Sunday, Kristian Erik Hermansen disclosed a zero-day vulnerability in FireEye's core product, which if exploited, results in unauthorized file disclosure. As proof, he also posted a brief example of how to trigger the vulnerability and a copy of the /etc/passwd file. What's more, he claims to have three other vulnerabilities, and says they're for sale.
+
+Based on the published information on Exploit-DB and Pastebin, the basic setup of the compromised appliance is exactly what you'd expect it to be; the box has Apache, pushing PHP, running as root.
+
+The other listed services are also expected on a forward facing Web-appliance, including SSH and FTP. However, the disclosed flaw looks to be centered in a PHP script on the FireEye appliance itself.
+
+"FireEye appliance, unauthorized remote root file system access. Oh cool, web server runs as root! Now that's excellent security from a _security_ vendor :) Why would you trust these people to have this device on your network," wrote Hermansen in a note that accompanied the disclosure and proof.
+
+"Just one of many handfuls of FireEye / Mandiant 0day. Been sitting on this for more than 18 months with no fix from those security "experts" at FireEye. Pretty sure Mandiant staff coded this and other bugs into the products. Even more sad, FireEye has no external security researcher reporting process."
+
+Salted Hash has reached out to FireEye for comment, but given that it's a holiday weekend here in the U.S., it's unlikely they'll respond any time soon. If they do, this story will be updated. FireEye has issued a brief statement, which is published below.
+
+
+
+While one of the FireEye vulnerabilities has been published, Hermansen has claimed three others on Twitter. The remaining three, which have not been posted to the public, are for sale.
+
+In addition to the file disclosure vulnerability (which can be triggered remotely), Hermansen has claimed to have a login bypass vulnerability, as well as command injection vulnerabilities; one unauthenticated and the other authenticated.
+
+-
+
+-
+
+Early last year, Hermansen made headlines after dealing with lawyers working for Covered California, the website responsible for the state's Affordable Care Act registrations.
+
+He had disclosed a number of security issues with the website, but was met with silence from the state and those responsible for the portal's development. After a month of waiting, he disclosed the issues publicly.
+
+Shortly after the public disclosure, lawyers for Covered California reached out; but not to move forward with a fix - they were more interested in getting the disclosure video and all mentions of the flaw removed form the Web, Hermansen said in an interview with Forbes.
+
+Given his past experience with disclosure, perhaps history is repeating itself with FireEye, only now, Hermansen is willing to sell the vulnerabilities.
+
+The last time FireEye had to deal with vulnerabilities and negative reactions form the InfoSec world, it was because they were accused of putting pressure on a researcher's employer after he disclosed flaws in FireEye's Malware Analysis System (MAS).
+
+Update:
+
+
+
+Shortly after this story went live, Hermansen responded to our email requesting additional information. He said that while working with another researcher (Ron Perris), the two discovered thirty vulnerabilities in FireEye's product, including multiple remote root issues.
+
+"I tried for 18 months to work with FireEye through responsible channels and they balked every time. These issues need to be released because the platforms are wrought with vulnerabilities and the community needs to know, especially since these are Gov-approved Safe Harbor devices with glaring remote root vulnerabilities," Hermansen told Salted Hash via email.
+
+"No one should be trusting these devices on their network if FireEye can't be bothered to fix the problems. As a security company, their standards should be higher."
+
+The Safe Harbor mention is in reference to claims made by FireEye earlier this year, where the company told customers they have liability shields. FireEye said that customers using their Multi-Vector Virtual Execution engine and Dynamic Threat Intelligence platform will see "potential savings on both insurance and legal expenses" due to the legal protections afforded by the SAFETY Act.
+
+Given a choice, Hermansen said he'd rather disclose the zero-day vulnerabilities to FireEye directly and be compensated for the work they've done. However, the base asking price starts at around $10,000 USD per bug.
+
+Update 2:
+
+FireEye has sent a brief statement to SaltedHash.
+
+"This morning, FireEye learned of four potential security issues in our products from Kristian Hermansen's public disclosure of them being available for purchase. We appreciate the efforts of security researchers like Kristian Hermansen and Ron Perris to find potential security issues and help us improve our products, but always encourage responsible disclosure. FireEye has a documented policy for researchers to responsibly disclose and inform us of potential security issues. We have reached out to the researchers regarding these potential security issues in order to quickly determine, and potentially remediate, any impacts to the security of our platform and our customers."
+
+[Note: For those following the story, a follow-up has been posted here.]
+
+Update 3:
+
+In a vulnerability report, FireEye says the vulnerability disclosed by Hermansen on Sunday was previously patched flaw in the HX system.
+
+
+
+"Recent updates have reduced the impact of this issue to customers running legacy versions of the product (HX 2.1.x and DMZ 2.1.x). However, in order to eliminate risk immediately, FireEye strongly recommends upgrading to the current release (version 2.6.x) of the HX product. For customers who remain on the legacy version, FireEye is actively working on a fix for the reported issue in the HX 2.1.x series and will update impacted customers through our official Customer Support channels."
+
+Reached via email, Hermansen said that he was glad to see FireEye pushing fixes for this and other issues.
+
+"When you run your web server as root, and don't have adequate SDLC process, you get smacked pretty badly because even a minor bug can allow full remote compromise. No security company should be doing things like that in this decade. They are supposed to be leading he charge against 0day in customer networks and yet cannot even be bothered to harden their own devices..."

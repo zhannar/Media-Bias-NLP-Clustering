@@ -1,0 +1,15 @@
+Breast tissue is computationally stained using data from infrared imaging without actually staining the tissue, enabling multiple stains on the same sample. From left, the image shows a Hematoxylin and Eosin stain (pink-blue), molecular staining for epithelial cells (brown color) and Masson's trichrome(blue, red at right).
+
+Breast tissue is computationally stained using data from infrared imaging without actually staining the tissue, enabling multiple stains on the same sample. From left, the image shows a Hematoxylin and Eosin stain (pink-blue), molecular staining for epithelial cells (brown color) and Masson's trichrome(blue, red at right). Rohit Bhargava, University of Illinois
+
+Recycling is usually a goal for any resource-conscious scientist. Thanks to new research from the University of Illinois, that mission can now be fulfilled in as faraway applications as tissue staining.
+
+Old-world methods for analyzing bodily tissue for disease diagnosis involve applying a chemical stain or dye over and over again, so that transparent tissue can show malformations in greater relief. If the tissue needs to be checked for multiple purposes, even more tissues are needed. Not only does this take time, but it requires extra dye, tissue, and leaves more room for that inevitable variable: human error. A new contender could be on the horizon.
+
+"This approach promises to have immediate and long-term impact in changing pathology to a multiplexed molecular science — in both research and clinical practice," said Professor Rohit Bhargava, senior author of a new study detailing the technique, in a statement. Scientists currently look at many different types of tissue, including brain cells, breast tissue, prostate biopsies, and skin samples. Without the hassle of physical stains, researchers will be able to “paint” infrared light onto these tissues and see it digitally as many times as they’d like, for whichever stain they prefer.
+
+The process begins similar to normal tissue sampling, by slicing the desired tissues very thin. But rather than lay them in a solution of chemicals, Bhargava and his team scan the tissues with infrared light. These images then get transferred from the microscope to a digital copy on the computer, where a special program can overlay various stain patterns. This last step eliminates the problem of choosing what to stain for, as one biopsy may only allow for one type of stain.
+
+"One of the bottlenecks in automated pathology is the extensive processing that must be applied to stained images to correct for staining artifacts and inconsistencies," said David Mayerich, first author of the study. "The ability to apply stains uniformly across multiple samples could make these initial image processing steps significantly easier and more robust."
+
+Source: Mayerich D, Walsh M, Kadjacsy-Balla A, et al. Stain-less staining for computed histopathology. Technology. 2015.

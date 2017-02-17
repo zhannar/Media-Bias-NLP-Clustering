@@ -1,0 +1,33 @@
+Last week, the Department of Health and Human Services welcomed its third group of “entrepreneurs-in-residence” — mainly private-sector tech experts and start-up founders who are spending a year advising the agency on its health IT projects.
+
+Two are working on data collection and analysis. Paula Braun, a data scientist with Charlottesville, Va.-based consulting firm Elder Research, is embedded in the Centers for Disease Control and Prevention to devise a better Electronic Death Registration System, so that the CDC can refine its analytics and predictive modeling.
+
+David Portnoy, chief technology officer of Chicago start-up Symbiosis Health, an Internet service that compares prices for medical treatment, is working with the HHS chief information officer’s team to link disparate data sets, so that HHS can analyze a broader scope of information from other agencies along with its own data.
+
+Danny Boice, chief technology officer and co-founder of Sterling-based conference-call company Speek, is working with the HHS Administration for Community Living to help aging and disabled citizens keep track of health services. Mark Scrimshire, chief technology officer at New York start-up Medyear — a service pulling patients’ records from disparate doctors into once place — is working with Centers for Medicare and Medicaid Services to redesign the Blue Button, which lets federal beneficiaries view health records electronically.
+
+Amid recent scrutiny about rising premiums under the Affordable Care Act and the botched rollout of Healthcare.gov in October 2013, the yearlong program is one of several ways HHS has been encouraging creativity during the past couple years. On Monday, it plans to announce a new class of employee-led start-ups slated to participate in its internal start-up “accelerator.” Selected teams get $5,000 in funding, and access to software and other resources for three months. (One team, from the CDC, has proposed an open-access Web site where researchers can collaborate on epidemic forecasting.)
+
+“What the administration is trying to do is encourage agencies to use a broad range of approaches to solving problems,” said Tom Kalil, deputy director for technology and innovation at the Office of Technology and Policy. Often, start-ups favor what is known as an agile approach to product development — rapidly experimenting with prototypes and making frequent adjustments, instead of waiting until a product is fully developed before testing.
+
+The program is part of a growing federal effort to nurture entre­pre­neur­ship. In April, for instance, the General Services Administration created an IT problem-solving service, called 18F, to help other agencies create new products quickly. Two years ago, the Department of Homeland Security introduced its own entre­pre­neur­s-in-residence program at the U.S. Citizenship and Immigration Services.
+
+In their first week at HHS, the entrepreneurs are still in the research phase. Over the next few months, they — along with HHS project leads — will start developing products or systems for the groups for which they are working.
+
+Boice said he was drawing on product development at Speek — which lets users dial into conference calls with one click. He hopes to simplify the Web experience for aging and disabled populations, like he did for those making conference calls.
+
+Scrimshire said the brief crossover into the federal government gives him access to a larger volume of users. If the project is successful, he said, patients could eventually add apps to Blue Button — tracking the interactions between medications they’re taking, for instance.
+
+“Medicare has something like 50 million beneficiaries,” he said. “So just simply dealing with the sheer scale is a challenge that you don’t always get unless you’re a Google or similar in industry.”
+
+Expanding Blue Button so that more health-care providers offer electronic access to records could eventually generate more business for his start-up, and similar services, Scrimshire said.
+
+“If we implement [Blue Button] for all the Medicare beneficiaries, it makes a difference to the industry,” he said.
+
+In the entrepreneurs-in-residence program’s third year, HHS is still working on how to evaluate whether it’s worth the time and financial investment, Kalil said. Each agency hires and pays the entrepreneur for the year. The entrepreneurs are then bound by the same conflict-of-interest restrictions that federal employees face when they leave public service.
+
+If agencies ask to keep the products the entrepreneurs developed — even after the residence ends — that’s a sign of success, he said. (An HHS spokesman said that at least one software project during the past three years has been officially implemented. He said the agency is planning an event to announce details.)
+
+Another measure, Kalil said, is the impact on employees.
+
+“A harder one to evaluate, but probably more evident, is the cultural change issue — demonstrating [to federal employees] that there are other ways to get things done.”

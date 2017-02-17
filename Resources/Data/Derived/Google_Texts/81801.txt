@@ -1,0 +1,23 @@
+Billy Mitchell is FedScoop's managing editor covering innovation and emerging tech in and around federal government. In addition to helping produce...
+
+White hat hackers within the Department of Health and Human Services' Office of the Inspector General set out to test the integrity of Healthcare.gov security earlier this year and found critical vulnerabilities in the marketplace, according to an IG report released Tuesday.
+
+The report, published in the wake of an actual July breach of Healthcare.gov, says white hat hackers conducted similar simulated attacks on the federal marketplace, as well as state marketplaces in Kentucky and New Mexico, in April and May.
+
+Though the IG found that personally identifiable information (PII) was secured in the federal marketplace's network, there were areas for the Centers for Medicare and Medicaid Services to improve security controls. Due to the highly sensitive nature of that information, the specifics were not revealed in the report.
+
+Since launching Healthcare.gov in October 2013, CMS has improved several security aspects, the report said, but the website still showed vulnerabilities during the simulated attacks and vulnerability scanning, both on the website's architecture and supporting databases containing critical user information. According to the report, CMS performs weekly vulnerability scans on its systems connected to the federal marketplace.
+
+Although CMS had set up a plan to remediate the vulnerability found in the website's architecture, it had not fully corrected the issues with the databases during the test hacks. "These critical vulnerabilities placed the confidentiality, integrity, and availability of PII at risk and could have allowed unauthorized access to consumer PII," the report states.
+
+The inspector general made classified recommendations to CMS, all of which the agency concurred with. However, according to the report, CMS disagreed with a recommendation on "encrypting files using an encryption module that has been FIPS 140-2 validated," saying it had already conformed to that National Institute of Standards and Technology standard. HHS' OIG said because it didn't receive explicit documentation verifying the encryption module, it remains concerned.
+
+Months after the OIG audit, an actual "malicious attack" occurred, breaching a Healthcare.gov test server with denial of service malware, according to HHS officials. There was no personal information obtained from that attack, which was confirmed Sept. 4, but the hack has thrust the security concerns of Healthcare.gov back into the national spotlight less than two months out from the Affordable Care Act's second open enrollment period, beginning Nov. 15.
+
+Testifying in front of the House Oversight and Government Reform Committee last week, CMS Administrator Marilyn Tavenner was grilled about the July breach. While she maintained no user information was compromised in the attack, she did confirm that personally identifiable information may have been vulnerable due to early technical glitches when the marketplace was launched.
+
+The Government Accountability Office last week filed a similar report to the HHS OIG's with 28 security vulnerabilities listed, most of which CMS and HHS agreed with. Oversight committee Chairman Rep. Darrell Issa, R-Calif., told Tavenner that by launch of the second enrollment period, CMS must take care of the vulnerabilities.
+
+The IG tests also found that the Kentucky marketplace sufficiently protected personal information, but it lacked certain security controls. New Mexico used necessary security controls, but "its information technology policies and procedures did not always conform to Federal requirements to secure sensitive information stored and processed by the New Mexico Marketplace," the report states. In all, the IG found 74 vulnerabilities in the New Mexico exchange.
+
+An HHS OIG spokesperson said the office will continue to test both the federal and state health exchanges for vulnerabilities and follow up on CMS' implementation of recommendations in the report.

@@ -1,0 +1,37 @@
+Unknown attackers hacked into a supposedly isolated test server over the summer. HHS: Obamacare website is safe
+
+Americans’ personal information is safe on HealthCare.gov, says a senior Obamacare official, seeking to allay public concerns as the days count down to the start of the second open enrollment season on Nov. 15.
+
+“There’s no higher priority than protecting consumer information and maintaining trust for the consumers,” said Andy Slavitt, principal deputy administrator at the Centers for Medicare & Medicaid Services, who has been in charge of the health exchanges since late June.
+
+Story Continued Below
+
+It’s a point he made more than once during a Wednesday interview with POLITICO, where he discussed behind-the-scenes work to beef up security. Slavitt pointed to cooperation with the Homeland Security Department and outside security certification of the data centers hosting the website as evidence the site is safe.
+
+( Also on POLITICO: Top Republicans: Get ready to make deals)
+
+And well he might — in the wake of massive data breaches at Target and other major retailers, Obamacare opponents have been quick to seize on website security concerns as another way of attacking the health care law. Although there’s no evidence that any personal data have been stolen from the site, House Majority Leader Kevin McCarthy and other top Republicans have issued dire warnings that it “remains unsecure and millions of people’s sensitive personal information is at risk.”
+
+Security concerns aren’t purely a partisan fantasy. Over the summer, unknown attackers hacked into a supposedly isolated test server, infecting it with malware used to launch distributed denial-of-service attacks.
+
+The Government Accountability Office in September published a report containing no fewer than 22 confidential technical recommendations. A few weeks later, Health and Human Services Department auditors criticized their agency for not properly fixing a handful of server-based critical vulnerabilities.
+
+“Anybody who told you a system was foolproof didn’t understand their own system, or didn’t understand the environment they’re living in,” Slavitt said Wednesday. The summer hacking incident was “what I think anybody in the private sector would consider to be a very minor and inconsequential penetration,” he added.
+
+( POLITICO's 2014 race ratings)
+
+HealthCare.gov was safe for users last year, and it’ll be safe this year, Slavitt stressed.
+
+Last year there was “a small period of time when a number of consumers who had the same name” were able to see “a very limited amount of data” entered by their name mates, he acknowledged. But Americans’ sensitive personal information, such as Social Security numbers or financial data, never leaked, he said.
+
+“We all feel like we had a successful first year in terms of protecting consumer information and the security of the site,” he said.
+
+That’s an assessment few Republicans on Capitol Hill would accept, though House committee staff with oversight responsibilities say they are withholding judgment for now.
+
+( WATCH: Election Day 2014 videos)
+
+These days, the site gets scanned for vulnerabilities and threats three times a day, administration officials say: Once by CMS, once again by HHS, and additionally by the Homeland Security Department’s National Cybersecurity and Communications Integration Center.
+
+“We are testing this system more than any system I’ve ever seen,” said David Nelson, the CMS chief information officer.
+
+Authors:

@@ -1,0 +1,39 @@
+The Centers for Medicare & Medicaid Services' (CMS) IT security controls for its Multidimensional Insurance Data Analytics System (MIDAS) needs improvement, according to a recent investigation by the Office of Inspector General (OIG).
+
+Moreover, consumers’ personally identifiable information (PII) could also be vulnerable because of these security issues, OIG found. The audit as a whole was conducted from August to December 2014.
+
+“MIDAS is a central repository for insurance-related data intended to provide reporting and performance metrics to the Department of Health and Human Services for various initiatives mandated by the Patient Protection and Affordable Care Act,” OIG explained in its report. “The MIDAS collects, generates, and stores a high volume of sensitive consumer information, and it is critical that it be properly secured.”
+
+The audit was performed because OIG wanted to determine whether CMS had adequate IT security measures in place to keep PII “related to the MIDAS and a certain number of its supporting databases” safe.
+
+While the review showed that CMS had certain IT security measures, there were four areas that were found to need improvement:
+
+CMS had not disabled unnecessary generic accounts in its test environment
+
+CMS had not encrypted user sessions
+
+CMS had not conducted automated vulnerability assessments that simulate known attacks, which would have revealed vulnerabilities (e.g., password weaknesses and misconfigurations) specific to the application or databases that support the MIDAS
+
+CMS used a shared read-only account for access to the database that contained the PII.
+
+The OIG vulnerability scans also identified 22 high, 62 medium, and 51 low vulnerabilities, the report explained.
+
+In response, CMS Acting Administrator Andrew Slavitt explained in a letter that (PII) is a top · priority for the organization, and added that “no person or group has maliciously accessed personally identifiable information from HealthCare.gov or its related systems.
+
+“CMS worked with the OIG during the security testing and within a week of the findings being identified, CMS had addressed all the high vulnerabilities identified,” Slavitt stated. “CMS had addressed a majority of the remaining findings within 30 days of identification.”
+
+Furthermore, Slavitt said that all OIG findings were addressed by February 2015 and that all recommendations were implemented before the report’s draft was even issued.
+
+“CMS thanks OIG for their efforts on this issue and looks forward to working with OIG on this and other issues in the future,” Slavitt wrote.
+
+Health data security, specifically whether consumers’ personal information is safe, was listed as one of OIG’s top priorities for its Health Reform Oversight Plan for 2015. Specifically, OIG explained that it wanted marketplaces and related programs to be its primary focus for 2015. This included four key areas:
+
+Payments: Are taxpayer funds being expended correctly for their intended purposes?
+
+Eligibility: Are the right people getting the right benefits?
+
+Management and Administration: Is HHS managing and administering Marketplace programs effectively and efficiently?
+
+Security: Is consumers’ personal information safe?
+
+“In planning and executing our health reform portfolio we are guided by our four key strategic goals: fighting fraud, waste, and abuse; promoting value, safety, and quality; securing the future; and advancing excellence and innovation,” OIG stated.

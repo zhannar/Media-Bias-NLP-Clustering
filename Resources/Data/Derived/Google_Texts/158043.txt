@@ -1,0 +1,43 @@
+Jared Bernstein is a senior fellow at the Center on Budget and Policy Priorities in Washington and a former chief economist to Vice President Joseph R. Biden Jr.
+
+The economist Alan Blinder and I were recently discussing whether technology was making a serious dent in job growth. Technically, we were considering whether the pace at which labor-saving technology is entering the workforce has accelerated — that is, whether the likelihood of “technological unemployment” had grown — when he suggested this thought experiment:
+
+Today's Economist Perspectives from expert contributors.
+
+Say you were Thomas Jefferson’s chief economist and you’d just somehow seen a report from the year 2013 showing that 1.5 percent of the workforce was in agriculture, as opposed to the 90 percent in your day. You ran to the president with news of this crisis, telling him we’ve got to start preparing for mass unemployment.
+
+Alas, like most similar warnings throughout history, yours would have been wrong. While productivity in farming has grown tremendously, displacing millions of workers, they’ve mostly found work elsewhere. That’s not at all meant to dismiss the disruption caused by technological progress on the lives of those displaced. It is simply to state that the predictions of the type we’re hearing more and more of — these days, about how robotics and digitized intelligence are finally going to cast us into unemployment in large numbers — have been wrong for centuries.
+
+Of course, that doesn’t mean they’re wrong now. And in fact, a few years ago I plotted some data points that surprised me and many others. The plot simply compared the growth of productivity to that of employment (using “full-time equivalents” for the latter, so that two half-time jobs are counted as one full-time job).
+
+Photo
+
+The standard view, the one that dismisses Jefferson’s shocked economist, derives from the fact that the two lines track each other for decades. I’ll explain why that’s been true in a moment, but what’s surprising here is the fact that this decades-long relationship appears to have broken down in recent years. A natural question is whether that gap toward the end of the chart is the work of robots or other labor-displacing technologies of the type discussed by Erik Brynjolfsson and Andrew McAfee in their compelling new book on this question, “The Second Machine Age.”
+
+Before we get to the split in the lines, let’s discuss the decades of uniform growth (and longer historical charts show the same thing). A tiny bit of math from a recent analysis by the economist Lawrence Mishel, a critic of the robots-are-coming hypothesis, turns out to be elucidating.
+
+First, Y = (Y/L)*L where Y is output, or gross domestic product, and L is hours worked, which you can think of as jobs. Now, with a bit more algebra, including taking natural logs, you quickly end up with:
+
+Job Growth = Output Growth — Productivity Growth
+
+With constant output growth, more efficient production (faster productivity growth) means fewer jobs, which is pretty much common sense: If we can produce the same output in fewer hours, we need less work to hold steady. But of course output has been anything but constant. The intervening variable, which has always glued those two lines together, is greater demand for the additional goods and services we can produce by dint of our increasing productivity. The fact that more efficient production typically lowers prices is a key part of the demand boost.
+
+Therefore, the first thing your average macroeconomist would think when looking toward the end of the figure above is not “robots!” It’s “weak growth!” And that, in fact, is what Mr. Mishel finds. Here are his annualized growth numbers to fill into the little formula above for the last two business cycles: 1989-2000 and 2000-2007 (of course, since 2007, both growth and jobs have been cyclically depressed). Remember, it’s job growth equals G.D.P. growth minus productivity growth.
+
+The 1990s: 1.5% = 3.3% — 1.8%
+
+The 2000s: 0.3% = 2.4% — 2.1%
+
+Looking to the right of the equal sign, what really changed in the 2000s was output growth, which fell almost a point (to 2.4 percent from 3.3 percent) over the period where the lines above diverge. Yes, productivity accelerated a bit, but had growth remained constant at 3.3 percent, we would have added jobs at a rate of 1.2 percent per year (3.3 percent minus 2.1 percent) instead of a measly 0.3 percent. That fourfold difference would have amounted to seven million more full-time jobs.
+
+So weak growth and demand is the culprit. But “weak demand” is itself a pretty amorphous explanation. Perhaps that maps onto the tech story, with capital equipment replacing workers faster than normal, so that there’s more unemployment, less consumer spending, and weaker output growth.
+
+Maybe, but that, too, is hard to see in the numbers, and it also has some tough competitors. That is, there are other explanations for the especially weak demand growth in the 2000s. Capital investment — spending on business equipment, including software and robotics — slowed in the 2000s relative to the 1990s, and while productivity accelerated slightly, it too has since slowed. On the other hand, Moore’s Law means that as time progresses, businesses can buy a lot more computing power for a lot less.
+
+Still, this line of reasoning hardly makes sense. If technological advances lead to both fewer jobs and less growth for the length of a whole business cycle, why undertake them?
+
+In fact, the 2000s were characterized by particularly large trade deficits that sapped domestic demand, along with a large and destructive increase in financial “innovation” that fueled a housing bubble from which we’re still recovering. True, the bubble spun off a construction boom and “wealth effect” that created some jobs in those years, but not enough to offset the slowdown in underlying demand. And again, exploding synthetic derivatives and a housing glut are not what the technologists have in mind when they analyze how robotics and artificial intelligence are improving the economy. Since that bubble burst, joblessness has been driven by cyclical forces and austere public policy.
+
+None of this is dispositive evidence against either President Jefferson’s economist or Mr. Brynjolfsson and Mr. McAfee, who present a lot of anecdotal indicators of labor-saving advances that could conceivably increase the rate of technological unemployment going forward. But for now, I see nothing in either the data or the anecdotes that leads me to conclude that labor-saving technology is preventing us from getting back to full employment. To explain that, I’d invoke a far more evident culprit: the damaging policy set that has brought us bubbles and busts coupled with political resistance to the necessary policies to help get things back on track.
+
+My argument regarding the question posed above is simple: Before we can assess the state of technological unemployment, we have to get rid of bad policy-induced unemployment. At that point, perhaps we can get a better handle on what the robots are really up to.

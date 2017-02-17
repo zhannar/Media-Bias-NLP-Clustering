@@ -1,0 +1,19 @@
+A Department of Homeland Security review of a cyberthreat information-sharing program has revealed some inadequacies in how the system protects privacy.
+
+Despite safeguards to prevent personally-identifiable information from being transmitted, there is a "residual privacy risk that these processes may not always identify and remove unrelated [personal information], thereby disseminating more [information] than is directly related to the cybersecurity threat," the report reads.
+
+The automated system, required under a major cybersecurity bill signed into law in December, is intended to allow private companies to share threat indicators with the federal government without impacting privacy by stripping personal information out of the shared data.
+
+ADVERTISEMENT
+
+The so-called Cybersecurity Information Sharing Act placed the system under the umbrella of the Department of Homeland Security, widely seen as the agency with the best privacy protections in the federal government.
+
+The bill requires any personally-identifiable information that is shared through the program — which is voluntary — to be directly related to a cybersecurity threat.
+
+But whether the government can be trusted to adequately protect the information it receives and shares was a major sticking point in the passage of the bill.
+
+Some privacy advocates argued vehemently that breaches like the one discovered last summer at the Office of Personnel Management — which exposed over 20 million people — demonstrate the risks of providing such information to a federal agency.
+
+The system, known as the Automated Indicator Sharing initiative, is ultimately intended to be fully automated, although right now some data still requires human attention.
+
+If a field contains information that the system doesn’t recognize, it will flag it for a human analyst who can determine whether it contains personal information before it is shared.

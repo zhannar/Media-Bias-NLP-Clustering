@@ -1,0 +1,89 @@
+Data from mHealth can inform, assess, anticipate, and aid in interventions while monitoring and coordinating patient health status and care.
+
+Betsy J. Lahue, MPH; Kathleen Hughes, MBA; Bethany J. Hills JD, MPH: Sophia S. Li, MPH; Jo Carol Hiatt, MD, MBA, FACS
+
+ABSTRACT
+
+
+
+Mobile health (mHealth) is a branch of the digital health market that specifically uses mobile technologies. Data from mHealth can inform, assess, anticipate, and aid in interventions while monitoring and coordinating patient health status and care. The vast majority of American adults own cell phones, and innovators in mHealth have been developing platform-agnostic, validated instruments for patientcentric realtime mobile data capture. With high technology access in place and mHealth tools emerging, the potential exists to revolutionize the way health services are delivered and experienced. To date, mHealth applications and devices have been used within the areas of epidemiology, general public health, and clinical trials. As mHealth can collect and analyze multifaceted data in near real time, these technologies may dramatically alter the speed with which evidence-based practice can be customized toward achieving the triple aim of high-quality care, improved out-comes, and lower costs. Challenges to achieving this revolution are seen in the complexities of integrating new technologies into the existing health service record systems, the needs of multiple and diverse healthcare stakeholders, and the research burden of producing high-quality evidence to demonstrate the clinical and economic outcomes enabled by mHealth.
+
+
+
+This article reviews mHealth’s promises and challenges in the context of multiple US healthcare system stake-holders. We include specific commentary and examples for mHealth application in evidence-based diabetes care.
+
+INTRODUCTION
+
+
+
+Digital health devices, as defined by Accenture, are “Internet-connected devices or software created for detection or treatment of a medical indication.”1 Mobile health (mHealth) is a form of digital health that specifically includes the use of mobile technologies within healthcare. Data from mHealth can be used to inform, assess, anticipate, and aid in in-terventions while monitoring and coordinating patient health status and care. This use of real-time patient data will facilitate evidence-based practice, which is a research-informed, interdisciplinary ap-proach to coordinating clinical care.
+
+
+
+This paper is the result of a multiple stakeholder issue panel on the promise of mHealth presented at the 19th Annual International Society of Pharmacoeconomics and Outcomes Research (ISPOR) congress. The authors reflect the panel membership encompassing the perspectives of US decision makers in the life science industry, health service providers, and regulatory and payer communities. This review was augmented with specific mHealth examples relevant to diabetes care. To the best of our knowledge, there has been no comprehensive survey of where and how mHealth is being used to execute health services research and deliver evidence-based practice. This paper includes expert opinion and information gathered from a non-systematic scan of the peer-reviewed literature, government reports, news releases, and intelligence gathered at or after our issue panel. No attempt was made to include a comprehensive list of citations and sources.
+
+
+
+THE STATE OF THE ART: 2015
+
+
+
+The field of mHealth is experiencing rapid growth, with the market expected to reach $26 billion by 2017.2 Overall, the digital health industry is projected to save $30 billion from improvements in medication adherence, behavior modifications, and fewer emergency department visits within the US healthcare system.1 Multiple stakeholders are engaged in realizing this promise, and a majority (59%) of physicians and insurers view mHealth as an integral piece of the future of healthcare, believing that widespread adoption of such technologies and applications is unavoidable.3
+
+
+
+While some healthcare applications may require dedicated mobile devices, the more common forms of mHealth require only modest hardware augmentations or application downloads using general purpose devices. In fact, the adoption of the types of enabling technologies required for mHealth applications is currently nearly universal in the United States, where 90% of American adults own a cell phone, followed closely by access to tablets and personal computers.4 Building off of this broad technology access, innovators in the mHealth field have been engaged in developing location- and platform-agnostic validated instruments for patient-centric real-time data capture using mobile technology. Captured data can be integrated with existing patient and guidelines information, and system-atically analyzed via clinical algorithms, to provide timely and customized evi-dence-based care, often self-directed, to the patient.5-6 This is noteworthy because many stakeholders believe that savings in the healthcare system can only be realized by taking providers out of the equation where possible and appropriate.
+
+
+
+Arguably, the well-developed applica-tions of mHealth have been in epidemi-ology and general public health—often in remote areas where traditional means of disease monitoring, response, and in-person examinations are lacking.7 Diabetes is a disease area in which mHealth applications may be particularly relevant given the demographics, the public health challenge, and the fact that it is a condition that relies largely on self-management. This space is rife with potential for realizing the health efficiency promise, as $176 billion is spent annually on diabetes care, based on 2012 estimates.8 Further, mul-tiple researchers have documented an inverse relationship between diabetes pa-tient adherence to treatment and annual healthcare costs.9,11
+
+
+
+Increasing access to healthcare may highlight an even greater need for care coordination support; for instance, in the past year, researchers observed that 23% more Medicaid patients were diagnosed with diabetes in states that adopted Medicaid expansion as permitted under the Affordable Care Act, compared with 0.4% in states that did not expand Medicaid programs.10 The prevalence of diabetes is especially high in rural areas—estimated to be about 17% greater than in urban areas.11 Consequently, remote monitoring technologies, telehealth, and other digital health tools are increasingly being used in the attempt to improve diabetes care in these communities.12 Although some evi-dence exists that these tools are improv-ing health outcomes and reducing costs among persons with diabetes, limited data and uncertain findings persist. Further, research specifically calls for opti-mal care coordination in this population, which mHealth may support.13,14
+
+
+
+Multiple stakeholders may hold a key to unlocking the potential of mHealth to revolutionize evidence-based practice in critical areas such as diabetes care, including the life sciences industry, providers, regulators, payers, and policymakers. The following commentary will explore each of these stakeholder perspectives in terms of the mHealth promise and challenge as it relates to the US health system’s ambitious goals and evidence-based practice.
+
+
+
+LIFE SCIENCES INDUSTRY
+
+
+
+Evidence for Registration and Marketing
+
+
+
+Life sciences industry stakeholders often consider using mHealth applications to augment the disease monitoring and tracking required in clinical trials. Much of the documentation associated with clinical trials can be transmitted by electronic, if not mobile, means. Automation facilitates the potential of lower-cost and higher-quality trials through enhanced data elements, superior accuracy, reduced risk of bias, and other technical improvements to research techniques. Although mHealth is still in its infancy, most fre-quently cited opportunities include in-corporation of patient reported outcomes (PROs) into pre-, peri-, and/or post clini-cal research (within or outside of regis-tries). Examples of PRO measures include symptoms, quality of life, health states, patient experience, patient satisfaction, perceived “value” of treatment, activity improvement or limitations, and therapy adherence tracking.15
+
+
+
+Using the medical product development process (as adapted in FIGURE 1 ), mHealth can be applied to research and marketing in at least 8 different aspects of a product life cycle.
+
+
+
+In addition to registration requirements, industry stakeholders have a strong mandate to market the effective-ness of healthcare technologies (traditionally drugs, devices, and diagnostics) from both a clinical outcomes and and an economic point of view. Toward this end, longitudinal data series are be-ing created as additional “extensions” of current warehouse data sets become available through mobile device facilitated transmissions. In selected instances, data professionals are reporting “cyber” comparative effectiveness based on mobile transmissions of real-world evidence.16 As an example, in single data warehouses, researchers are compiling clinical and administrative data, clini-cal trials and research information, mo-lecular and biological data, and PROs. Professionals also report that they can connect processed information in the warehouse to clinical care outputs transmitted by mobile means to the patient. For instance, the algorithms developed to provide patients with diabetes or their providers with specific and relevant in-formation related to a device, treatment, or recommended intervention are based on patterns seen in large public data sets coupled with proprietary patient-level information facilitated by mHealth tools and data linkages.
+
+
+
+Various applications of this real-time information are now emerging in the dia-betes care and population health space. For example, mHealth technologies and tools have been incorporated into patient wellness and disease prevention plans. These include smartphone apps that record food intake or exercise activ-ity as well as text message services with healthy living reminders.17 For patients with type 2 diabetes mellitus, a mobile application can be prescribed that contin-uously monitors the patient’s key health metrics and behaviors in real time and adapts prescription therapy intervention recommendations based on these data. This demonstrates a potential place for mHealth in patient care as well as the advancement of knowledge on best practices in abetting self-care. 18 Another mHealth device that measures the pa-tient’s key health metrics is the continuous glucose monitor. This device provides the capability for patients to actively and continuously monitor their own health status, and some have the added capability of sharing data with their caretakers and physicians through connected mobile applications, supporting care integra-tion (see stories, SP374, SP378).19,20 With the growing innovations and possibilities in mHealth technologies, life science and other consumer product companies can explore opportunities to market solutions that inform, assess, anticipate, and aid in interventions with the purpose of deliv-ering evidence-based management, driving better outcomes, and delivering value to various customers.
+
+
+
+PROVIDERS
+
+
+
+Evidence-Based Practice Considerations
+
+
+
+Healthcare providers are critical stake- holders in the integration of mHealth into evidence-based practice.
+
+
+
+
+
+PDF is available on the last page.

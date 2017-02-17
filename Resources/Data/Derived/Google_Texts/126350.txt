@@ -1,0 +1,93 @@
+While healthcare provider directories have always been hard to maintain, new regulations can mean costly fines if insurers fail to keep accurate, up-to-date information on the physicians who are in their health plans.
+
+The Centers for Medicare and Medicaid Services put new regulations into place this January that levies fines against insurers of up to $25,000 per beneficiary for errors in Medicare Advantage plan directories and up to $100 per beneficiary for errors in plans sold on the federally run insurance exchanges in 37 states.
+
+Payers found in violation of the CMS rules can also be banned from new enrollment and marketing.
+
+While the penalties are specific to Medicare Advantage programs and policies sold through Healthcare.gov., the new policy directives are emblematic of a larger trend, according to Louis Kolssak, vice president of Network Management at McKesson Health Solutions.
+
+Regulators are responding to consumer frustration by calling attention to those health plans that struggle to manage their provider network databases, he said.
+
+[Also: AHIP tests 'one stop' provider directory model as fines threaten insurer inaccuracies]
+
+"In their view, when a payer tries to manage costs with a narrow network design, the least it can do is tell consumers which providers are in or not in their plan," Kolssak said. "What the insurer sees as a clerical error, the regulator or state attorney general may see as a deceptive business practice."
+
+Some states have also gotten onboard. New York and California are penalizing health plans that fail to provide accurate provider information to consumers, according to Kolssak.
+
+Health plans want to comply but several hurdles exist, according to Dan Medin, director of service products at HealthSparq, which helps payers navigate through provider updates.
+
+Challenges include the accuracy of the data, being fully dependent on providers to get the information and, once in hand, having the ability to input it on a timely basis.
+
+"What we're hearing, you can never guarantee full accuracy," Medin said. "Most of the plans we're working with are concerned with getting a process that's manageable. These health plans are having to pay for regulatory compliance work, they know it's going to take an investment."
+
+To come up to compliance, and to make it easier for providers to submit information on changes to their physician rosters, America's Health Insurance Plans recently announced a new test model for updating provider directories.
+
+Ari Tulla is co-founder and CEO of Better Doctor, one of two vendors that will be working with AHIP on the pilot program. Better Doctor will be contacting physicians in Indiana and California to update the provider directories for health plans in those states, and Availity will be doing the same in Florida.
+
+"We make phone calls, send faxes, make it easy and simple to them," Tulla said. "We send them information every quarter, (asking) is this correct? We've been talking with big and small health plans and payers. I think the common feeling is, they're excited to fix this data."
+
+[Also: Getting to clean claims: Costs start to add up for payers, providers on the first error]
+
+Each year, about 20 percent of doctors move or change practices, making current information unreliable, Tulla said.
+
+Health plans are currently reaching out to update information perhaps only once a year, while Better Doctor will reach out to providers at least four times a year, Tulla said.
+
+The first effort will be the most challenging, connecting to 75,000 of California's 90,000 physicians by phone or fax or email.
+
+"Thirty people are on the phone every day," Tulla said.
+
+After that, the physician office staff can self-report through a portal system.
+
+One of the benefits to having a statewide system, according to AHIP President and CEO Marilyn Tavenner, is that it gives providers a one-stop method for submitting changes to their physician roster, rather than having to answer the same questions multiple times from various health plans. AHIP would like to see this method of updating provider directories become the norm nationwide.
+
+Tulla said he believes it's is the only way the system can work effectively. "There has to be a depository for information in one place," he said. "In our case in California we are now going to validate about 85 percent of all providers. In California there are eight different health plans working together."
+
+Through the vendors, updates are made in real-time, he said. When a change comes into the Better Doctor system, it gets out to the health plans the next day.
+
+"We want to be the middleman in this data," Tulla said. "We deliver the information to all the health plans. It's up to them to get up and running on their site."
+
+This is a real problem for health plans, according to Medin and others interviewed.
+
+"The hard part is the last stage in getting it back into their system," Medin said.
+
+The information for storing provider's names, addresses and other information may be in several different systems, none of which talk to each other.
+
+"It's a challenge on the health plan's side," Medin said. "Where we've landed, all the data we're sending daily is going back to the health plan. They're accepting, it's up to them to get it into the system. Even just the core technology can be such a barrier to getting the data to where it needs to go."
+
+Medin said the data provided should be more personalized than simply name, address and phone number. He'd like to see information consumers might value, such as a doctor's philosophy of care, a description of some uniqueness about the facility, or even the parking situation.
+
+For consumers choosing a doctor, "a level of personalization is important," he said.
+
+Kolssak outlined several reasons why keeping accurate directories is so tough.
+
+The first, he said, is organizational complexity due to provider enrollment, provider contracting, credentialing and claims processing being located in different departments and systems. All too often, a record is corrected in one database but not another, Kolssak said. Or, because of faulty data processes, the newer corrected data record keeps getting overwritten with outdated information.
+
+Secondly, often there is no one owning the process for updating and correcting directory entries.
+
+Third, physicians who work out of multiple facilities sometimes need to be listed in different networks for each location.
+
+The net result is a web of interconnected relationships that most systems can't handle without massive manual entries, Kolssak said.
+
+Data flows and exception handling processes foster integrations and manual workarounds that can be so brittle that the slightest change can break them, increasing the inconsistencies and manual work required.
+
+"Provider directory errors have been causing claims problems and frustration for providers and consumers for years -- decades, even -- as well as headaches for payers themselves," he said. "What might have been treated as an administrative problem before is now unacceptable in an era of increasing consumerism and physician incentives."
+
+Kolssak suggests five steps payers can take to improve the system.
+
+Create a "single source of truth" for provider records. There should be one authoritative record for every provider, one place all other systems go to retrieve provider records, and one place to make corrections. In addition, there should be one process owner.
+
+Also, be ready to handle data complexity. The data model must be advanced enough for the matrix of relationships between providers, facilities, networks, and contracts. That means understanding that the Dr. Smith who (A) practices out of the local university hospital is (B) the same person as the one with an office on Main Street and (C) may only be an in-network provider for services provided at the hospital, dependent on the plan.
+
+Enforce a workflow for collecting and correcting data. It's essential to assess the business processes that impact the data. Make sure the software aligns with the business processes and that the software can validate and record data correctly the first time. Also, ensure processes are in place to check and correct data. Finally, make sure that employees who detect data errors are trained and able to fix the error.
+
+Like Healthcare Finance on Facebook
+
+Make extensive use of business rules. The best business processes will use automated business rules with every data entry process to find and prevent errors. Simple business rules such as validating the National Provider Identifier or checking the number of digits can help reduce data entry errors. In addition, some business rules can trigger a task or update a missing or outdated data field. More advanced rules might include network participation logic or fee schedule look-ups.
+
+Structure data entry to help lower errors. Wherever possible, standardize data collection routines to ensure quality throughout the organization. For example, give drop-down lists for physician specialties, hospitals, network and product names, institutions (hospitals, education), and so on. Data entry processes should also contain automated checks throughout the system to look for duplicate or similar data before creating a new record. These steps will help guard against data duplication errors.
+
+The positive part of the challenge is that it is forcing innovation and cooperation between insurers, and between health plans and providers, Kolssak said.
+
+"I think it's exciting proof that innovation is happening," he said. "I think it shows a new spirit of collaboration in the industry."
+
+Twitter: @SusanJMorse

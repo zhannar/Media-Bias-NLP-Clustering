@@ -1,0 +1,49 @@
+WASHINGTON — Privacy advocates say the Obama administration needs to make more changes to protect consumer privacy on the government’s health insurance website.
+
+The administration reversed course Friday and scaled back the release of personal information from HealthCare.gov, after The Associated Press reported that such details as consumers’ income and tobacco use were going to private companies with a commercial interest in the data.
+
+The episode could become a blemish on what’s otherwise shaping up as a successful open enrollment season for the second year of expanded coverage under President Barack Obama’s health care law.
+
+Lawmakers continue to insist on a full explanation.
+
+HealthCare.gov is used by millions to sign up for subsidized private coverage under the law, or to merely browse for insurance plans in their communities.
+
+The latest changes by the administration mean that the website is no longer explicitly sending out such details as age, income, ZIP code, tobacco use and whether a woman is pregnant.
+
+But HealthCare.gov still has embedded connections to a number of outside commercial websites, and it’s not clear how or if the administration intends to address that.
+
+An administration spokesman had no comment Friday on the changes, which were verified by the AP’s analysis. Earlier, officials had said the sole purpose of the embedded connections to private firms was to monitor the health insurance website and improve performance for consumers.
+
+The AP previously reported that HealthCare.gov was quietly sending consumers’ personal data to companies that specialize in advertising and analyzing Internet data for performance and marketing.
+
+Cooper Quintin, a staff technologist with the Electronic Frontier Foundation, said the government’s changes are “a great first step,” but more needs to be done.
+
+For example, the health site should disable third-party tracking for people who enable the “do not track” feature on their web browsers.
+
+“HealthCare.gov should meet good privacy standards for all its users,” he said. The foundation is a civil liberties group.
+
+Quintin had verified the AP’s initial findings and added more detail, showing that HealthCare.gov was sending personal health information to at least 14 third-part Internet domains.
+
+Privacy advocates say the mere presence of connections to private companies on the government’s website -even if they don’t explicitly receive personal data- should be examined because of their ability to reveal sensitive information about a user.
+
+Third-party outfits that track website performance are a standard part of e-commerce. It’s a lucrative business, helping Google, Facebook and others tailor ads to customers’ interests. Because your computer and mobile devices can be assigned an individual signature, profiles of Internet users can be pieced together, generating lists that have commercial value.
+
+The third-parties embedded on HealthCare.gov can’t see your name, birth date or Social Security number. But they may be able to correlate the fact that your computer accessed the government website with your other Internet activities.
+
+Have you been researching a chronic illness like coronary artery blockage? Do you shop online for smoking-cessation aids? Are you investigating genetic markers for a certain type of breast cancer? Are you seeking help for financial problems, or for an addiction?
+
+Google told the AP it doesn’t allow its systems to target ads based on medical information.
+
+Sens. Orrin Hatch, R-Utah, and Chuck Grassley, R-Iowa, called the situation “extremely concerning” for consumers. Grassley said Friday it’s still unclear how consumers’ information is being used and he wants a full explanation.
+
+“People using HealthCare.gov should have the confidence that their information is secure and not being used for sales pitches by outside firms,” he said in a statement.
+
+Officials of the Health and Human Services Department had at first defended their information-sharing practices. There is no evidence that consumers’ personal information was misused, they said.
+
+The website’s privacy policy says in boldface type that no “personally identifiable information” is collected by outside Web measurement tools. That is a term defined in government regulations, but other personal details were being allowed through.
+
+HealthCare.gov is the online gateway to government-subsidized private insurance for people who lack coverage on the job. It serves 37 states, while the remaining states operate their own insurance markets. The privacy concerns surfaced just as the president was calling for stronger Internet safeguards for consumers, in his State of the Union speech.
+
+The website was crippled by serious technical problems when it made its debut in the fall of 2013. This year it has worked much better, a marked contrast. The administration is aiming to have more than 9 million people signed up by Feb. 15, the last day of open enrollment.
+
+But the privacy issues were a reminder that the website remains a work in progress, like the underlying law that created it.

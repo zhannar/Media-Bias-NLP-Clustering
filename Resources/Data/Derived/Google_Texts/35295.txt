@@ -1,0 +1,203 @@
+Employer policies for access to maximum benefits do not always match those for access to obesity therapy.
+
+Theodore K. Kyle, RPh, MBA; Joseph F. Nadglowski; Mechelle D. Claridy, MPH; and Fatima Cody Stanford, MD MPH, MPA
+
+Objectives. Under provisions of the Affordable Care Act (ACA), employers may impose substantial penalties on employees who miss specific wellness goals. This study examined the prevalence of employer practices linking wellness programs, goals for weight, and other health indicators, with access to evidence-based obesity treatment.
+
+
+
+Methods. The study utilized a representative sample of 9644 US adults designed to match US population demographics based on gender, age, and geographic location in May 2013. Respondents were asked whether their employer (1) requires participation in a wellness program to receive full health benefits, (2) sets goals for weight and other health indicators, and (3) includes coverage for evidence-based obesity treatment in their health plan. Descriptive statistics provided sample characteristics and distribution of all variables. Pearson’s chi-square analyses were used to evaluate differences in the responses for each outcome, with further assessment through multivariable logistic regression models.
+
+
+
+Results. The study found 16% of employers required participation in wellness programs to receive full health benefits. Most programs set targets for weight and related health indicators, but they did not typically provide coverage for evidence-based obesity treatments.
+
+
+
+Conclusions. For people seriously affected by obesity, the coverage gap described here is problematic because substantial improvement in their condition is unlikely without evidence-based treatment.
+
+Introduction
+
+
+
+Approximately 36% of US adults are obese, defined by the CDC as having a body mass index (BMI) ≥30.1 It is known that persons with obesity have a higher likelihood of having co-morbid conditions such as type 2 diabetes, hypertension, cardiovascular disease, and obstructive sleep apnea. In addition, persons with obesity have significantly higher health-related costs than their normal-weight counterparts.2
+
+
+
+One strategy that has been entertained to reduce obesity and subsequent healthcare costs is the utilization of employer-sponsored wellness programs. More than 60% of Americans receive their health insurance through their employer.3 Despite the recent recession and implementation of the ACA, employers will likely continue to prevail as the top provider of healthcare insurance to Americans.4
+
+
+
+Employers have begun to try to manage health costs by addressing their employees’ key lifestyle risk factors.5 In 2005, physical inactivity, overweight, and obesity were associated with more than 20% of health plan healthcare charges and more than 25% of national healthcare charges.6 Health economists have projected that the total healthcare costs attributable to obesity or overweight will double every decade to $860.7 to $956.9 billion US by 2030, accounting for 16% to 18% of total US healthcare costs.7
+
+
+
+The ACA includes provisions that permit employers who implement wellness programs to impose financial penalties on employees who do not meet specific health-related goals, including BMI. Although these provisions took effect in 2014, a growing number of employers had already begun implementing programs that require employee participation as a condition for receiving more than minimal health benefits.8 Towers Watson and the National Business Group on Health report that rewards and penalties for health outcomes such as BMI, blood pressure, and cholesterol are growing rapidly and that the proportion of employers using them will approximately double to 28% of employers in 2014 and grow to 68% in 2015.9
+
+
+
+Yet, evidence of long-term effectiveness for financial penalties based on health outcomes is lacking. Horwitz and colleagues recently reviewed randomized controlled trials of workplace wellness programs and concluded that any savings to employers from these programs are likely to be the result of cost-shifting to employees with higher health risks, such as obesity.10 Mattke and colleagues recently published a comprehensive analysis of workplace wellness programs and found low participation (10%) and minimal effects (~1lb/year over 3 years) for interventions targeting obesity.11
+
+
+
+Concerns about the potential for discrimination against people at increased risk for obesity led the US Departments of Treasury, Labor, and Health and Human Services to issue final regulations for wellness programs under the ACA that include significant protections against these programs being used as a subterfuge for discrimination.12 For the same reasons, in 2013, the Obesity Society published a position statement recommending against financial incentives or penalties based on an employee’s weight or BMI.13 The objective of the present study was to examine the prevalence of employer practices linking wellness programs to goals for weight and other health indicators and the access of employees in such programs to evidence-based obesity treatment through employer-sponsored health plans.
+
+
+
+METHODS
+
+
+
+Data Sources. A stratified representative sample of US adults was recruited in May 2013 for an anonymous, voluntary online survey through Google Surveys. As described by McDonald et al,14 this methodology draws from a broader sample of Internet users and delivers a higher response rate than typical Internet panel surveys and Internet intercept surveys due to the brevity of the questions. Using inferred demographics means that respondents answer only 1 or 2 questions. In a comparison of this methodology with both probability- and nonprobability-based Internet panel surveys, the accuracy of results was found to be equivalent or superior. The research performed herein is considered Institutional Review Board-exempt, as it involves research in which persons complete a survey. The information obtained is recorded in a manner that is unidentified and may not be linked to individual survey respondents.
+
+
+
+The general population sample of 9644 adults (POP) was constructed to match US population demographics based upon gender, age, and geographic location. Respondents were asked if their employer:
+
+
+
+• Requires wellness plan participation to receive full health benefits
+
+
+
+• Sets goals for weight and other health indicators
+
+
+
+• Covers evidence-based obesity treatments
+
+
+
+The total sample yielded 6608 employed adults (EMP) prepared to answer questions about their employer’s wellness programs.
+
+
+
+Characteristics of the sample are summarized in TABLE 1.
+
+
+
+Statistical Analysis. Descriptive statistics were used to provide sample characteristics by whether or not respondent’s employer requires wellness plan participation to receive full health benefits. A P <.05 determined a significant association. To assess the differences in those whose employers require wellness plans, multivariable logistic regression models were conducted, adjusting for age, gender, urban density, and income. Odds ratios and 95% CIs were reported for each outcome. Frequency distributions were used to determine the prevalence of employers setting goals for health indicators and the prevalence of employers covering evidence-based obesity treatment. All missing variables were removed from this analysis. All analyses were conducted using SAS version 9.2.
+
+
+
+RESULTS
+
+
+
+TABLE 1 characterizes the overall sample by total survey respondents (POP) and those survey respondents who answered questions about their employer’s wellness programs (EMP). TABLE 2 presents the characteristics of those who responded to the question, “Does your employer require participation in a wellness program before you can get the maximum health benefits they offer?”< by age, gender, urban density, and income. Of 6608 employed adults, 16% reported that their employer required participation in a wellness program to get the maximum health benefit. Persons who reported an employer requirement were more likely to be 25-44 years old, male, and urban or suburban.
+
+
+
+DISCUSSION
+
+
+
+The study found that 16% of employees report that their employer requires them to participate in wellness programs to receive their full health benefits. Most employees faced with outcome-based incentives in their employer’s wellness programs report that weight is the most common target. But most of those employees report not having access to evidence-based obesity treatment in their employer’s health plans.
+
+
+
+This study has some important limitations. Drawing the sample from Internet users introduces bias because Internet penetration in America is only 78% of adults. Internet users tend to be younger, more educated, and have higher incomes. Participants are recruited from a network of content providers that is large, but cannot represent the full breadth of Internet content available.
+
+
+
+Demographic data are inferred from IP addresses and cookies. Though this method helps to improve response rates and reduce sampling error, respondents are not explicitly answering questions about demographics as they do in more traditional surveys. This can introduce errors at the level of individual respondents, even though aggregate demographic findings are generally comparable to more traditional methods. While these results come from a national sample, they rely on the self-reported information provided by survey respondents about their employer’s wellness program and coverage of health benefits related to obesity. Some survey respondents may not have been well-informed about their employer’s wellness program and coverage. The study might have been strengthened by querying the employers of those who responded to the survey to ascertain if the information provided by the employees was congruent.
+
+
+
+Nonetheless, to our knowledge, this is the first study which has sought to determine whether employers who require their employees to meet health indicator goals, such as weight loss, provide coverage for their employees to achieve goals. For people seriously affected by obesity, the coverage gap described here is serious because substantial improvement in obesity is unlikely without evidence-based treatment. This is true because obesity and its complications are typically chronic and progressive.15 Wellness programs may have little impact on costs drivenby severe obesity in the absence of access to effective treatment for this chronic disease.
+
+Theodore Kyle, RPh, MBA, is the founder of ConscienHealth, Pittsburgh. He chairs the Obesity Action Coaltion.
+
+Joseph F. Nadglowski is president and CEO of the Obesity Action Coalition, Tampa, Florida.
+
+Mechelle D. Claridy, MPH is with the Department of Community Health and Preventive Medicine, Morehouse School of Medicine, Atlanta, Georgia.
+
+Fatima Cody Stanford, MD, MPH, MPA is with Massachusetts General Hospital, MGH Weight Center, Disparities Solutions, Department of Medicine-Division of Gastroenterology, Department of Pediatrics, & Mongan Institute of Health Policy, Boston, Massachusetts.
+
+
+
+
+
+Corresponding Author
+
+Fatima Cody Stanford, MD, MPH, MPA MGH Weight Center 50 Staniford Street, Suite 430 Boston, MA 02114 Tel: 617-726-4400 Fax: 617-724-6565 fstanford@mgh.harvard.edu
+
+
+
+Contributions All authors provided substantial contributions to the conception or design of the work, the acquisition, analysis, or interpretation of data for the work; drafting the work or revising it critically for important intellectual content; and final approval of the version to be published.
+
+
+
+Funding The direct costs of this fielding study were funded by an unrestricted financial grant from the Obesity Action Coalition, a 501(c)(3) corporation funded by membership dues of people affected by obesity and by corporate donors that include the providers of treatments and services for obesity.
+
+
+
+Disclosures TKK has received consulting fees from providers of treatments and services for obesity, including 3D Communications, BMIQ, Body Media, Eisai Inc, EnteroMedics, and Vindico Medical Education. JFN is an employee of the Obesity Action Coalition. FCS is an editor for Ebsco/DynaMed and has received honoraria from the American Academy of Nutrition and Dietetics and Medscape. MDC has no financial disclosures.
+
+
+
+References
+
+
+
+1. Flegal KM, Carroll MD, Kit BK, Ogden CL. Prevalence of obesity and trends in the distribution of body mass index among US adults, 1999-2010. JAMA. 2012;307(5):491-497.
+
+
+
+2. Thorpe KE, Florence CS, Howard DH, Joski P. The impact of obesity on rising medical spending. Health Aff. 2004;Suppl:W4-480-486.
+
+
+
+3. Blumenthal D. Employer-sponsored health insurance in the United States--origins and implications. N Engl J Med. 2006;355(1):82-88.
+
+
+
+4. Blumberg LJ, Buettgens M, Feder J, Holahan J. Why employers will continue to provide health insurance: the impact of the Affordable Care Act. Inquiry. 2012;49(2):116-126.
+
+
+
+5. Heinen L, Darling H. Addressing obesity in the workplace: the role of employers. Milbank Q. 2009;87(1):101-122.
+
+
+
+6. Anderson LH, Martinson BC, Crain AL, et al. Health care charges associated with physical inactivity, overweight, and obesity. Prev Chronic Dis. 2005;2(4):A09.
+
+
+
+7. Wang Y, Beydoun MA, Liang L, Caballero B, Kumanyika SK. Will all Americans become overweight or obese? Estimating the progression and cost of the US obesity epidemic. Obesity. 2008;16(10):2323-2330.
+
+
+
+8. Punitive wellness programs are already here. ConscienHealth website. http://conscienhealth.org/2013/04/ punitive-wellness-programs-arehere/. Accessed December 20, 2013.
+
+
+
+9. 2013/2014 Staying@Work Report. Tower Watson website.http://www.towerswatson.com/en/Insights/IC-Types/Survey-Research-Results/2013/09/2013-2014-stayingatwork-us-executive-summary-report. Accessed December 20, 2013.
+
+
+
+10. Horwitz JR, Kelly BD, DiNardo JE. Wellness incentives in the workplace: cost savings through cost shifting to unhealthy workers. Health Aff. 2013;32(3):468-476.
+
+
+
+11. Mattke S, Caloyeras JP, Huang CY, Van Busum KR, Khodyakov D, Shier V. Workplace wellness programs study, final report. RAND Health website. http://www.nexgenhce. com/images/RAND_Wellness_Study_-_May_2013.pdf. Published May 2013. Accessed October 25, 2015.
+
+
+
+12. Incentives for nondiscriminatory wellness programs in group health plans, final rule 2013. US Departments of Treasury L, and Health and Human Services website. http:// webapps.dol.gov/federalregister/HtmlDisplay.aspx?DocId =26880&AgencyId=8&DocumentType=2. Published June 3, 2013. Accessed October 25, 2015.
+
+
+
+13. Kyle TK. Tsai A. Penalties related to BMI and weight loss. The Obesity Society website. http://www.obesity.org/images/0913_TOS_Position_Statement_Employer_Wellness_FINAL.pdf. Published September 2013. Accessed October 2015.
+
+
+
+14. McDonald P MM, and Slatkin B. Comparing Google consumer surveys to existing probability and non-probability based Internet surveys. Google website.
+
+
+
+http://www.google.com/insights/consumersurveys/static/consumer_surveys_whitepaper.pdf. Accessed March 17, 2014.
+
+
+
+15. Ochner CN, Tsai AG, Kushner RF, Wadden TA. Treating obesity seriously: when recommendations for lifestyle change confront biological adaptations. Lancet Diab Endocrinol.2015;3(4):232-234.

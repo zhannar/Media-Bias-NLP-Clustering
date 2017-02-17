@@ -1,0 +1,33 @@
+This week, a California Labor commissioner found that one of Uber's drivers was an employee of the company and not an independent contractor. This is just the latest, and most high-profile, of a series of cases about the workers in the new sharing economy, and what rights and protections companies like Uber, Lyft, and others must give them. But the whole argument is premised on government rules that divide all workers into just two broad categories—a system that the actual economy may have long since passed by.
+
+Right now in the U.S., workers are bucketed into either the employee or contractor category. But these distinctions were made in a pre-internet era: the IRS’s 20-point test to determine if a worker is an employee or contractor is from 1987 (though the IRS has provided small updates).
+
+The judge in the case against Lyft in Northern California summarized the issue well: "the jury in this case will be handed a square peg and asked to choose between two round holes."
+
+Is the answer to create a third class of workers—perhaps somewhere in the middle? Here is what a new kind of job, the "dependent contractor," could look like.
+
+One major concern relates to what happens when something goes wrong, and who should bear the risk of liability. We’ve already started to see companies forced to provide insurance coverage. For example, in California, ride-sharing companies must soon provide auto insurance coverage during certain periods.
+
+Finding solutions for all potential liabilities will be difficult though. What if the provider has the app on, but doesn’t intend to actually work? Who is responsible if the provider is then injured? This may lead to years of debates between lawyers and insurance companies, or might get worked out via individual cases that go to court.
+
+At its conception, health insurance was intended to inspire loyalty to a company. But if both the company and provider assume it’s a temporary relationship, why would the company want to pay for it? And how much would be covered?
+
+But would the Affordable Care Act require companies to provide health insurance for a third class of workers? The ACA did create a provision called the Employer Shared Responsibility Payment, which fines "Applicable Large Employers" for not offering coverage. Part-time employees are included in the determination of whether a company is an Applicable Large Employer; however, fines are only assessed for full-time employees not given health insurance, and . Companies would likely be able to treat this third class like the part-time employees group.
+
+Right now, there isn’t an easy way for the provider to extract the data about their work from the company they're working for. This creates a form of lock-in to the platforms, since the providers build their reputation on a single platform, and lose it if they leave. If a five-star Uber driver moves to Lyft, there's no way of knowing she's a five-star driver.
+
+If access was opened up, a provider could export their data for their own use. For example, they could take their good rating to another company, where they could continue building that rating. The competitor may even pay more to a provider with a good rating, which opens up other earning opportunities for the provider.
+
+It’s much easier for the government to get a company to comply than an individual. An IRS survey found that while 99% of wage information was reported for employees, only 77% of total gross self-employment income was reported when companies issued a Form 1099 and 29% when it was not (a 1099 summarizes payments made to a contractor).
+
+It seems likely that the government will put some of the tax withholding and remittance responsibilities on the companies. This is already happening; for example, in San Francisco, Airbnb now collects transient occupancy taxes on behalf of their hosts.
+
+Right now, the tax system is a mess for dealing with contract work. For example, Uber used to send out 1099-MISCs (sent if you make over $600), then switched to 1099-Ks (which don’t have to be sent unless there is over $20,000 processed across 200 or more transactions). But then this year, they decided to send everyone a 1099-K, regardless of the total amount or number of transactions. Chaos ensued in all the Uber drivers forums.
+
+At the end of the day, the companies don’t know what they’re supposed to do, because the IRS hasn’t addressed their situation. 1099-MISCs were created before these technology platforms existed; 1099-Ks were created to address PayPal-like payment processors. Maybe a new type of 1099 will appear (since there are already more than 15 types of 1099s).
+
+Most platforms remove providers who don’t meet minimum rating requirements, which can be devastating to the provider who no longer has that income source. New regulations could require a better procedure for review before termination of the contract, to give the provider a chance to argue their case.
+
+We’re witnessing a monumental shift in the labor market. Existing labor laws are outdated and don’t address the current state of work well. Technology is changing so quickly that legislation likely won’t keep up. But this technology is also improving access to work opportunities that previously weren’t available simply by sharing existing spare time or assets.
+
+It’s tough to say what will happen in the lawsuits. Ultimately only one thing is certain, which Steve King (the go-to expert in the independent contractor research space) puts well: "The next five to seven years are going to be a great time to be a labor lawyer."

@@ -1,0 +1,59 @@
+Looks like you will finally be able to see how much your doctor is making from Medicare. I wrote a paper on this very issue back in 2012 for my health care fraud seminar in law school. You can read the paper here . The paper describes the whole background regarding the injunction that the American Medical Association had placed on CMS (then HCFA) back in 1979. The injunction was finally lifted last year when the Wall Street Journal, through its parent company Down Jones, challenged the injunction. The big takeaway, according to headlines is that approximately 15 percent of billings come from 1 percent of doctors.
+
+White House CTO, Todd Park, made the announcement via the White House Blog this week. You can download the data in Excel format from the CMS website here , or you can take a look at the data in an easy to use format from the Wall Street Journal, here . Or, you can use the New York Times' infographic, here , if you think possible partisan bias matters when you are looking at raw data. That being said, the NYT also published a piece on Democratic donors who are also Medicare's top billers. Here are the main articles on the data release from the NYT , WSJ , WaPo , USA Today , the AP , and a nice little explainer from Vox .
+
+If you don't feel like reading my entire paper, here is my analysis of what the release of the claims data means for health care fraud and whistleblower suits:
+
+A public Medicare claims database would make fraud detection much easier. However, once the statistical signs of fraud are detected, the actual fraud still needs to be investigated and prosecuted. If private companies, journalists or other data analysts all have access to a public database, there may be a risk that these outside groups detect the possible fraud faster than the Justice Department can investigate or prosecute it.
+
+This may also have significant implications for the public disclosure bar to qui tam actions. Naturally, a federal public database of Medicare claims would constitute a public disclosure. If this data were analyzed and published by the news media or other researchers, then the government and the public, including employees of providers, would be on notice about which providers are associated with anomalous billing data. On the one hand, this would decrease the number of relators who make completely frivolous accusations of fraud, since those accusations could easily be double-checked against the database. On the other hand, if the database reveals anomalous billing patterns for certain providers, then there may be more relators coming forward regarding those providers. In order for these relators to constitute an "original source" and circumvent the public disclosure bar, they will need to have more information than just suspicious billing patterns. Relators will have to come forth with much more specific pieces of evidence that would explain the anomalous billing patterns which have already been publicly disclosed. Relators may also have to make increased use of pre-filing disclosures to the government to make sure that the government knows that the relator is not simply riding the coattails of the publicly disclosed data, but is providing original information.
+
+The public disclosure bar is a feature of the False Claims Act which has undergone much judicial interpretation and legislative revision in recent years. In Rockwell Int'l Corp. v. U.S., [1] the Supreme Court determined that a relator is not an original source if all the relator provides is background information and the government subsequently amends the complaint. [2] The Court also determined that the relator must have "direct and independent knowledge of the information on which the allegations are based," specifically "the relator's allegations and not the publicly disclosed allegations."[3] The Court subsequently ruled in Graham County Soil & Water Conservation Dist. v. U.S. ex rel. Wilson, [4] that public disclosures are "not limited to federal sources."[5]
+
+This jurisprudence was slightly altered by the Affordable Care Act's amendments to the FCA, but it still applies to all qui tam actions filed before the enactment of ACA.[6] The ACA amendments to the FCA explicitly restrict the public disclosure bars to disclosures made by the Federal government or the news media.[7] The statute still states that the public disclosure bar stands if "substantially the same allegations or transactions as alleged in the action or claim were publicly disclosed." [8]
+
+Different courts have interpreted the phrase "allegations or transactions" in different ways. The United States Court of Appeals for the First Circuit has decided that public disclosure of fraud occurs "when the essential elements exposing the particular transaction as fraudulent find their way into the public domain."[9] The First Circuit also only requires a relator to provide information to the government before the filing of the qui tam suit and not before the public disclosure in order for the relator to be considered an "original source."[10] For a public disclosure to be considered a public disclosure of fraud, the disclosure must contain "(1) a direct allegation of fraud, or (2) both a misrepresented state of facts and a true state of facts so that the listener or reader may infer fraud."[11] The First Circuit has also stated that "[i]f the materials necessary to ground an inference of fraud are generally available to the public, however, there is nothing to prevent the government from detecting it," thus making as qui tam action unnecessary for exposing the fraud.[12]
+
+Moreover, in Ondis, the First Circuit determined that the relator was not an original source because the relator's knowledge did not meet the requirements of being "direct" or "independent." [13] This was because the relator had conducted a private investigation into public records through a FOIA request.[14] At that time, the requirement of "direct" knowledge precluded a relator from obtaining the knowledge from some intervening agency, but the ACA amendment to the FCA eliminates the word "direct."[15] The ACA kept the requirement of "independent" knowledge but adds the requirement that the relator's knowledge have "materially added" to any publicly disclosed information. [16] Consequently, if a news organization or private data analysts generate reports based on public Medicare claims data; those reports could be considered materials from which an inference of fraud emanates, thus barring subsequent qui tam claims if the relator does not "materially add" to the public data. Since there was no definition of the phrase "materially added" in the legislation or in the legislative history, commentators anticipate that "this language is sure to engender significant litigation in the coming years to construe and define its application."[17]
+
+Most importantly, the ACA changed the public disclosure bar by requiring a dismissal "unless opposed by the Government."[18] By allowing federal prosecutors to override a court's dismissal of a claim, Congress had changed the public disclosure bar from a jurisdictional matter to a discretionary one.[19]
+
+Presumably, the government will still need to use relators to obtain hard evidence of fraud as opposed to just anomalous claims data from which fraud could only be inferred. Congress may need to add in a modification to the public disclosure bar so that relators can still come forward with hard evidence of fraud to supplement the claims data without worrying that their clams may be dismissed for not being the original source of the fraud.
+
+[1] 549 U.S. 457 (2007).
+
+[2] Id. at 473-75.
+
+[3] Id. at 470, 473 (emphasis added).
+
+[4] 130 S. Ct. 1396 (2010) reh'g denied, 130 S. Ct. 3351, 176 L. Ed. 2d 1241 (U.S. 2010).
+
+[5] Id. at 1411.
+
+[6] Id. at 1400 n.1.
+
+[7] Pub.L. 111-148, Title X, § 10104(j)(2), Mar. 23, 2010, 124 Stat. 901.
+
+[8] Id.
+
+[9] U.S. ex rel. Poteet v. Bahler Med., Inc., 619 F.3d 104, 110 (1st Cir. 2010) (quoting Ondis, 587 F.3d at 54).
+
+[10] U.S. ex rel. Duxbury v. Ortho Biotech Products, L.P., 579 F.3d 13, 28 (1st Cir. 2009).
+
+[11] U.S. ex rel. Poteet v. Bahler Med., Inc., 619 F.3d 104, 110 (1st Cir. 2010) (citations omitted).
+
+[12] Id. at 111.
+
+[13] U.S. ex rel. Ondis v. City of Woonsocket, 587 F.3d 49, 59-60 (1st Cir. 2009). "Knowledge that is based on research into public records, review of publicly disclosed materials, or some combination of these techniques is not direct." Id. at 59.
+
+[14] Id.
+
+[15] See Pub.L. 111-148, Title X, § 10104(j)(2), Mar. 23, 2010, 124 Stat. 901.
+
+[16] See id.
+
+[17] 52 NO. 14 Gov't Contractor ¶ 123.
+
+[18] Pub.L. 111-148, Title X, § 10104(j)(2), Mar. 23, 2010, 124 Stat. 901.
+
+[19] 38 Rutgers L. Rec. 1"

@@ -1,0 +1,37 @@
+The list of organizations lining up against ICD-10 is growing -- as is the ferocity of their tone, as the latest in the fray is a conservative think tank that's calling on Congress to abandon the code set transition.
+
+That would be the Heritage Foundation, with its new report titled, "The New Disease Classification (ICD-10): Doctors and Patients will Pay," which makes some rather strong recommendations.
+
+“While an updated diagnostic system for disease classification might be in order, there are significant costs and trade-offs," write Heritage authors John O’Shea, MD, and John Grimsley in the report. "To protect practicing physicians and other health care workers from such an unfunded mandate, Congress should delink the disparate goals of research and reimbursement, and develop a more appropriate coding system that makes the billing process less, not more, burdensome.
+
+"In the interim," they add, "Congress should allow providers to have the choice of continuing to use the current ICD-9 system or adopt the new ICD-10 system until the alternative reimbursement arrangement is complete."
+
+Without specifically endorsing either Tennessee Republican Rep. Diane Black’s newly-proposed bill, the ICD-TEN Act (Increasing Clarity for Doctors by Transitioning Effectively Now) or Texas Republican Rep. Ted Poe’s resurrection of the Cutting Costly Codes Act, Heritage wades into both waters with suggestions of enabling dual-coding and essentially doing away with any mandate that healthcare entities must convert to ICD-10.
+
+[Innovation Pulse: Hardest part for FHIR still ahead.]
+
+Where Heritage hits hardest is in the treatment of what it considers 'weak arguments for ICD-10.' On the point that ICD-9 is outdated as a way to track clinical data, O’Shea and Grimsley write thart "there is no good evidence that a substantially more complex coding system makes the billing process any easier. In fact, just the opposite may be true."
+
+Addressing the oft-cited claims that the U.S. lags behind those developed nations already on ICD-10, meanwhile, the Heritage authors counter that "currently only 10 countries employ ICD-10 in the reimbursement process, six of which have a single-payer healthcare system."
+
+And to the proponents advocating that ICD-10 improves patient care, O’Shea and Grimsley write that "if the goal is to collect data that will make it easier for researchers and health care analysts to retrieve that data, there are better ways. For example, SNOMED-CT, a coding system specifically designed to capture patient data for clinical purposes and facilitate sharing of such data, may be more ideal for coding and classifying disease than ICD-10."
+
+Heritage stops short of recommending SNOMED-CT in lieu of ICD-10, but perhaps the most interesting suggestion to Congress is that the U.S. "develop a more appropriate coding system that makes the billing process less, not more, burdensome."
+
+In the past, there has been chatter of opting instead for SNOMED-CT or even LOINC -- or, as American Medical Association incoming president Steven Stack, MD, said in an interview Healthcare IT News sister site Healthcare Finance, holding out for ICD-11.
+
+In reality, however, the Department of Health and Human Services has not exactly given any of those options serious consideration – so it seems rather unlikely that the U.S. is going to completely change course, eschew ICD-10 entirely, and build our own alternative.
+
+Or am I wrong? Should we seriously consider starting from scratch to create an ideal, if not near-perfect, modern classification system that benefits payers, providers of all sizes and, most important, patients?
+
+Related articles:
+
+ICD-10: What's different this time?
+
+3 ways Congress could still kill ICD-10
+
+Should HHS delay ICD-10 penalty by two years?
+
+Anti-ICD-10 bill gets AMA support
+
+Read the Heritage Foundation report on the next page.

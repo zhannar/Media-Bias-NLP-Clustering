@@ -1,0 +1,43 @@
+By now you’ve heard about the new credit cards with computer chips in addition to the traditional magnetic stripes. Maybe you have one already, though it’s likely you haven’t gotten yours yet. Either way, you’re probably wondering what all the buzz is about.
+
+Here’s what you need to know.
+
+What are these new cards?
+
+At long last the U.S. is playing catch up, adopting a technology known as EMV (Europay, MasterCard and Visa) that is long past being headline news in Europe and other places around the globe. The new card includes a chip — it’s a small metallic rectangle or square embedded in the plastic — that acts like the magnetic stripe with two key differences to improve security. “The chip generates a unique code for every transaction so it cannot be easily copied,” explains Gary Davis, chief consumer security evangelist at Intel Security. Second, the cards typically will require you to enter a PIN to verify that you are who you say you are.
+
+Related: Your Credit Card Is Getting an Upgrade. Are You Ready?
+
+The old cards and readers aren’t going to disappear all at once, but Oct. 1 is the deadline created by Visa, MasterCard and American Express for retailers to switch over to the new technology or be held liable for any fraudulent credit card activity they process. As part of the change, about 1.2 billion credit and debit cards and 12 million card-reading terminals have to be upgraded.
+
+What does this mean for me?
+
+“Better overall security than magnetic strip cards because they require a two-factor authentication,” says Davis. He adds that the credit card readers that store magnetic information and record your PIN number don’t work with these cards, “so career criminals will have a harder time stealing your information.” Also, in case of a database hack, cyber criminals would see a useless log of transaction codes rather than sensitive card information.
+
+Related: The Upside to Those Credit Card Hacks
+
+So can I stop worrying about credit card fraud?
+
+Nope, sorry. The “protection” you get with a chip card doesn’t really extend beyond the brick and mortar world. In fact, experts expect that online credit card fraud will dramatically increase. “This was the experience in the United Kingdom, where online credit card fraud went up 79 percent in the three years following the switch to EMV chip credit cards,” says attorney Steven Weisman, author of Identity Theft Alert. “The chip cannot be used in online purchases, so all the criminal needs is the credit card number and the expiration date, which can be obtained in a myriad of ways.”
+
+There are safeguards, however. At American Express, you can get an “alert” any time your card is charged but not present.
+
+The bottom line: EMV technology is not a silver bullet. It can reduce fraud but not eliminate it.
+
+Related: 3 Simple Steps to Protect Yourself from Cyber Criminals
+
+How exactly do the new cards work?
+
+The credit card machines in retail stores will still function with a swipe because your card will continue to have a magnetic stripe on the back. If a merchant is switching to EMV acceptance, check-out clerks will forego asking you to swipe and instead will have you insert the card into the slot, chip side first. The card remains in the slot for long enough that the chip security data can be read and verified, which is a couple of seconds or less, says Toffer Grant, CEO and founder of PEX Card, a pre-paid expense card solution for small and medium sized businesses. You may also need to enter a PIN code — or, more likely, sign a slip because chip-and-signature is taking much stronger root in America than chip-and-PIN, says Robert Siciliano, CEO of www.IdTheftSecurity.com.
+
+This last part isn’t good news. “The signature version’s most obvious drawback is that it’s useless in all the other nations where PIN technology rules. A signature can be forged and a card can be intercepted prior to transaction completion. Consumers, thinking that the ‘chip’ part of their signature version means great security, will be miffed once they realize how vulnerable signature really is,” says Siciliano.
+
+So what’s this all going to cost?
+
+Additional security isn’t free. The average cost of a new card to the issuers is estimated to be $3.50, and the point-of-sale terminals can run from $500 to $1,000. Consumers shouldn’t have to pay any direct costs, but because adoption is likely to be slow, there may be some hiccups as part of the transition. “Given that this is new for everyone, shoppers and merchants together can expect that it will take a little time for habits to change,” says Grant.
+
+Related: The Best Things to Charge on Your Credit Card
+
+The changeover may cause some confusion for check-out employees and shoppers alike, which could add to the amount of time it takes to pay for your purchases. Keep in mind that as merchants switch over, many will have new hardware, but not new software. Hopefully, this problem will dissipate as everybody gets the hang of the new system — and by the time holiday shopping season rolls around, the new technology will feel more familiar. For now, says Matthew Goldman, CEO of Wallaby Financial, “You can ask the merchant, or just try swiping. If the terminal accepts chip cards, it will flash an error and instruct you to dip instead of swipe.”
+
+But any temporary pain will be worth the long-term gain. Wade Barnes, senior vice president and director of retail banking at 1st Mariner Bank sums it up for consumers: “Be excited that steps are being made to protect you from fraud with no action or cost required at your expense. The cards are safe and a step forward in fraud protection.”

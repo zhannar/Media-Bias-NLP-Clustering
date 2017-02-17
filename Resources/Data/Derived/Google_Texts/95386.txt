@@ -1,0 +1,39 @@
+More than a year after launching, state-run health insurance exchanges, including Connecticut's, still hadn't fully completed key information technology functions, federal auditors said in a report released Wednesday.
+
+The Government Accountability Office’s report, which noted that states have spent close to $1.45 billion in federal funds on IT systems for the insurance marketplaces created by the federal health law, rated the 14 state-run exchanges' capabilities as of February in four categories.
+
+No state was deemed to be fully operational in all categories. Vermont's exchange, which has struggled, scored the highest, deemed fully operational in three of four categories.
+
+The report rated Connecticut’s exchange as “partially operational” in all four.
+
+The report did not identify specific issues with Connecticut's exchange, but said the "partially operational" designation was used to indicate that functions either didn’t work as intended, hadn’t been fully implemented, or required the use of manual processes in addition to automated functions.
+
+Some aspects of the system used by Connecticut’s exchange, Access Health CT, include manual processes.
+
+For example, the exchange’s eligibility system can determine if a person is eligible for Medicaid or a private insurance plan, but if a person signs up for Medicaid, his or her information must be manually entered into the state Department of Social Services’ eligibility management system, which cannot communicate with the exchange enrollment system. Last year, delays in getting people’s information into the Medicaid eligibility system led to some new clients being unable to fill prescriptions or schedule doctors’ appointments.
+
+The state is in the midst of a multiyear project to replace the DSS system, which was implemented in 1989. The replacement is expected to, among other things, communicate with the eligibility system.
+
+Similarly, Access Health uses a manual process to verify whether a person applying for coverage is in the country legally if an initial check is inconclusive, rather than using a separate federal process. Access Health CEO Jim Wadleigh said the exchange opted not to use the federal process because of concerns that it could take longer for applicants’ information to be verified.
+
+"We think our process is better," he said.
+
+DSS officials have favored more automation, including using the federal system for verifying lawful presence, a spokesman said.
+
+The report also listed Connecticut’s exchange as being partially operational in financial management functions like collecting premiums for insurance plans and giving them to insurers, and submitting information to the Internal Revenue Service about tax credits used to subsidize customers’ premiums.
+
+Wadleigh questioned the report’s characterization of the exchange’s IT functions. Access Health never implemented a financial management system to collect customers’ premiums; instead, customers pay insurers directly. In addition, Wadleigh said the exchange has been providing information to the IRS on a daily basis. He said he also wasn’t sure what aspects of the eligibility and enrollment system the report had deemed less than fully operational.
+
+“I think it’s a point in time,” Wadleigh said of the report. “We’ll continue to read through it and try to understand the background where they made suggestions. As has always been the case with all of our audits, we will continue to improve our system.”
+
+According to the report, as of March, Connecticut had received $175 million in federal grants for marketplace activities, including $116.4 million authorized for IT. As of March, Access Health had spent $76.8 million on IT.
+
+Members of Congress requested the review of state and federal actions related to IT projects for insurance exchanges in the wake of problems people had applying for coverage and accessing exchange systems during the first open enrollment period, which began in 2013.
+
+The report noted that the federal Centers for Medicare and Medicaid Services, which oversees the exchanges, had conducted operational readiness reviews of the state-run marketplaces in advance of the first open enrollment period, but “conditionally passed all of those states without fully ensuring that they had conducted all required system testing and demonstrated that their systems were ready for production.”
+
+Connecticut’s exchange fared better than many during the first open enrollment period, although it was not immune to glitches. The GAO report noted that Maryland used Connecticut’s system for the following year, and said that system “had been successfully implemented in Connecticut.”
+
+In a response included in the report, the U.S. Department of Health and Human Services wrote that state-run exchanges faced tight implementation timeframes and said some “deferred automating functionality and utilized operational workarounds to provide their consumers the best possible eligibility and enrollment experience.”
+
+Despite the challenges, the agency added, nearly 2.2 million people signed up for coverage during the first three months of the first open enrollment period.

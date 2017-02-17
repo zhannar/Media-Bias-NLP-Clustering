@@ -1,0 +1,67 @@
+Whether your organization is considering the use of big data and analytics, or has taken its first
+
+CrescentCare CIO: How Analytics Improves Patient Outcomes
+
+CrescentCare Health in New Orleans has expanded beyond its original charter as the NO/AIDS Task Force to serve the broader community. CIO Seema Gai is leading the charge to incorporate data analytics to improve patient outcomes.
+
+
+
+9 Tech Pioneers To Celebrate For Women's History Month (Click image for larger view and slideshow.)
+
+When Seema Gai took on the role of CIO at CrescentCare Health, the organization was preparing for a big and positive change. Formerly known as the NO/AIDS Task Force, this New Orleans-based healthcare organization's charter was preventing the spread of HIV and helping patients who had contracted it.
+
+After Hurricane Katrina devastated the city in 2005, the organization's stakeholders wanted to expand and serve the broader community and open a full-time clinic. In November 2013, CrescentCare won designation as a Federally Qualified Health Center as the Affordable Care Act paved the way for new funding.
+
+CrescentCare now serves 6,000 patients in and around southeastern Louisiana. Its services include medical care, nutrition and meal deliveries, preventative medicine, dentistry, and obstetrics and gynecology. The organization still provides care to HIV patients. It is now leveraging analytics to improve health outcomes.
+
+The expansion came with challenges for the IT organization at CrescentCare. A few months after the change, the organization promoted Gai to lead the way as its new CIO. Trained as a medical doctor with an advanced degree in public health, Gai has overseen the transformation process. She has spearheaded a number of projects to improve operations, billing, and patient care with new data management and analytics technologies.
+
+"We saw a change in how healthcare would be delivered and the scope of services we could provide," Gai said in an interview with InformationWeek. Yet, new services meant new challenges for the IT organization. Her group is responsible for multiple systems, including electronic health records (EHR), a separate dental EHR, an incident management system, support services software, and more. CrescentCare's systems were in silos. They didn't talk to each other, and that's an obstacle when you need to perform meaningful analytics.
+
+Create a culture where technology advances truly empower your business. Attend the Leadership Track at Interop Las Vegas, May 2-6. Register now!
+
+Gai partnered with analytics software provider SAS to leverage the company's Visual Analytics technology to help with the issues around multiple data sources.
+
+"The partnership with SAS has enabled us to get data out from multiple systems to OBDC connections and metadata layers," Gai said. "It's allowing our analysts to have data at their fingertips, and not to process the data and go through that labor-intensive process of identifying data elements. They have much more ready access to the data that they need, and are able to process data requests faster, and at the same time build solutions for their teams."
+
+Risk Registry
+
+In addition to her other skills, Gai's background includes experience with public health and statistics. She also completed an internship with the Illinois Department of Public Health in statistics. Her skills in that area, together with the analytics technology from SAS, facilitated the creation of new systems designed to improve health outcomes. One such project is a multi-factor, multi-disease risk registry.
+
+"We took the top four chronic conditions that are most prevalent in this community and looked at them within our clinic," Gai said, including HIV and cardiovascular disease. "We identified clinical observation values and lab values in each of these conditions and gave them a score. And then we used that scoring algorithm to give a total score to each patient."
+
+(Image: CrescentCare)
+
+If patients score above a certain level, they are designated as high-need patients. This algorithm -- and the ability to identify these patients -- opened the door to providing improved, proactive care to them.
+
+"At that point the nurse tries to engage the patient and develop an individualized care plan -- and directs the patient to other resources if the patient agrees to go along with the recommendations," Gai said.
+
+The scoring has led to significant improvement with HIV patients, Gai said. "That's where most of our expertise lies."
+
+The information is embedded into the process now, so everyone who works with patients, from case managers to the clinical leads, gets the scoring information.
+
+CrescentCare CIO Seema Gai (Image: Seema Gai via CrescentCare)
+
+Gai's group is working on a number of other projects designed to improve data flow and interoperability. These include generating compliance reports for required government reporting, and building business rules into the billing process, among others.
+
+Many data processes have required IT workers to extract and transform data to move it to other databases. CrescentCare is looking at ways to automate this process further by leveraging interoperability standards.
+
+Farther out on the horizon, Gai said her organization is beginning to talk about how to connect Internet of Things (IoT) devices for medical data collection, such as a blood glucose monitor, to IT systems.
+
+"We want to meet the consumer where they want to be met, and we are trying to build that model."
+
+She said her organization has secured some devices, but they are not available for all patients. These are pilots that haven't been scaled. It's still early days.
+
+"We haven't thought through the full process yet, and we are still trying to get a unified vision of what that should look like."
+
+Which is generally the story of healthcare CIOs today -- working with silos of data, adding analytics capabilities, fulfilling regulatory requirements and compliance reporting requirements, improving healthcare outcomes, and working to embrace new technologies.
+
+"It requires thoughtful approaches and being very strategic in keeping the rules and regulations in mind," she said. "But I also look forward to what is coming through value-based care, and what applications we can build today to be able to deliver in the future, because healthcare is going to change."
+
+Jessica Davis has spent a career covering the intersection of business and technology at titles including IDG's Infoworld, Ziff Davis Enterprise's eWeek and Channel Insider, and Penton Technology's MSPmentor. She's passionate about the practical use of business intelligence, ... View Full Bio
+
+Comment |
+
+Email This |
+
+Print |

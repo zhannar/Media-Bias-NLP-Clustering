@@ -1,0 +1,31 @@
+Rob Stone is a partner in the Atlanta-based law firm Alston & Bird, a full-service nationwide firm with about 850 attorneys, half of them in Atlanta. Stone is a regulatory healthcare partner at the firm.
+
+Stone spoke recently with HCI Editor-in-Chief Mark Hagland regarding some of the recent developments around bundled payments at the federal level, some of which have implications for healthcare IT leaders. Among other developments the Centers for Innovation at the federal Centers for Medicare & Medicaid Services (CMS)
+
+Has proposed a new Comprehensive Care for Joint Replacement Model, which, as the website of the Center for Medicare & Medicaid Innovation, or CMS Innovation Center, describes it, is “a new model to support better and more efficient care for beneficiaries undergoing the most common inpatient surgeries for Medicare beneficiaries: hip and knee replacements (also called lower extremity joint replacements or LEJR). This model, called the Comprehensive Care for Joint Replacement Model, would test bundled payment and quality measurement for an episode of care associated with hip and knee replacements to encourage hospitals, physicians, and post-acute care providers to work together to improve the quality and coordination of care from the initial hospitalization through recovery. With publication of this proposed rule, CMS is seeking input and comments from the public, including beneficiaries, health care providers, and other stakeholders.”
+
+So, broadly speaking what’s going on right now with bundled payments, at the federal level?
+
+A lot of it is under the ACA [Affordable Care Act]. Specifically, the CMMI, the Center for Medicare & Medicaid Innovation, was created to implement these kinds of demonstration projects and initiatives, and accelerating ACOs [accountable care organizations] and bundled payments, is a major portion of the work that they’re doing around healthcare reimbursement reform.
+
+
+
+Rob Stone
+
+Specifically, there have been some much-smaller-scale bundled payment programs going back about six years. I worked on the Acute Care Episode (ACE) Demonstration Project, a small-scale pilot. And the Bundled Payments for Care Improvement (BPCI) Initiative, under CMMI, was the first significant expansion of these programs, a couple of years ago.
+
+Four different BPCI models were created, with BPCI Model 2 being the largest. In the last 16 months, the second round of BPCI participation has been getting up and running, and folks have been going live in the past six months. And BPCI Model 2, among the four models, is the largest of the models. More recently, a new mandatory bundled payment program for joint replacements was announced last month, and is set to go live in 75 markets, beginning January 1 of next year. It will be called the Comprehensive Care for Joint Replacement (CCJR) program.
+
+Every acute-care hospital located in one of these 75 metropolitan statistical areas, which I understand is about 800 hospitals, is going to have to enter into the program and will be reimbursed under retrospective bundled payment methodology.
+
+What are the differences between the new Comprehensive Care for Joint Replacement Program and the existing Bundled Payments for Care Improvement Initiative?
+
+The big shift between fee-for-service payment and a retrospective bundled payment is that, from an economic standpoint, under a bundled payment, all the services related to an episode of care, including physician care, hospital-based acute care, and through to skilled nursing, long-term health, etc., will be bundled, in that the actual spend that Medicare pays will be calculated on a retrospective basis. So they’ll work up a target price and say, we believe based on your region, that the target for your hospital for a knee replacement for all these services, will be $X. And that will be set as the goal.
+
+Inherent in that amount is a 2-percent discount for CMS. So for example, if it were a $10,000 historical spend, they would take $200 and say, your target will be $9,800, so right away, they’ve got a 2-percent savings for themselves, baked in. If your actual payment for a patient is $9,000, the hospital would receive a check for $800. You’ve beaten the target and are spending less, and CMS will cut you a check for the cost up to certain limits. That’s how CMS is framing this as sharing the savings, by encouraging the hospitals to hopefully manage expenses and provide more efficient care, while still having to hit certain quality metrics.
+
+And the last issue is that after the first year of the program, if the flip side happens, and the expenses CMS pays is actually $11,000, then they’ll look to the hospital to pay back the $1,000. It’s a two-sided risk after the first year. And my first thought that January 1 might not be feasible as a go-live date, having that first year be an upside-only arrangement for the hospitals has made me think maybe January 1 will stick.
+
+What should our audience know about the data and analytics implications of all this?
+
+There are three general categories of quality metrics involved in the program, having to do with hospital complications, hospital readmissions, and satisfaction. And there are some new metrics they’re adding, while some are existing metrics. But the quality metrics are one component of the categories of data in these programs.

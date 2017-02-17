@@ -1,0 +1,43 @@
+If patients are told about medical studies they're in, what, exactly, will they be told? When Big Data gets patient info
+
+A research network funded with millions by the Affordable Care Act will begin conducting vast studies next year to compare standard medical treatments. But what about the 100 million patients in the network — do they have a choice in the matter?
+
+Will researchers get permission from each of those patients? And if patients are told about the studies, what, exactly, will they be told? These questions have bioethicists, scientists and health care officials debating how to bring the question of patient informed consent into the 21st century.
+
+Story Continued Below
+
+Obamacare is best known for extending health coverage to more Americans. But the health care law has many provisions aimed at improving health care outcomes and safety while lowering costs. One element is “comparative effectiveness” research: not just finding out whether a drug or treatment is safe and effective but comparing drugs head to head to find out which is better, for everyone or certain populations.
+
+And with electronic medical records and vast pools of data, some of these studies have the potential to make lightning-fast, dramatic discoveries. But informed consent issues have the potential to slow such studies and make them too expensive.
+
+( Also on POLITICO: Hackers steal 4.5M patients' data)
+
+Moves are afoot to overhaul federal regulations such as the 1991 Common Rule, which governs informed consent in all federally backed research, according to Kathy Hudson, the National Institutes of Health deputy director for science, outreach and policy. But such rule-makings are long drawn-out affairs that won’t happen in time to get the comparative effectiveness research underway.
+
+The principle of informed consent — the idea that patients need to be advised of a study and its risks — was enshrined at the Nuremberg trial of Nazi doctors in 1947. But the process has grown cumbersome and expensive. Informed consent forms can be 30 pages long and may seem aimed more at protecting hospitals from lawsuits than informing patients.
+
+No one wants to expose patients to dangerous trials without their consent. In these comparative effectiveness studies, the risks are usually small or similar for different groups of patients. And researchers are intent on gaining some degree of patient engagement in the studies.
+
+Drug companies and other deep-pocketed sources are rarely interested in funding such studies, though, so there’s a pressing need to make them cheap. Traditional drug trials can cost hundreds of millions of dollars each.
+
+( Also on POLITICO: Will better technology save the VA?)
+
+Many comparative studies are planned by the National Patient-Centered Clinical Research Network, which involves 11 research networks and 19 patient advocacy groups. It’s getting at least $100 million from PCORI, the Patient-Centered Outcomes Research Institute, which was created and funded — to the tune of about $650 million per year — under the health law.
+
+For comparative effectiveness trials, patients might be randomly selected to receive one of two drugs. In other studies, researchers might simply electronically rummage through patient files to examine outcomes from similar drugs in similar populations. Both types of study raise practical questions for informed consent.
+
+Some patients in the records-based studies might be dead, or impossible to reach. As for the randomization trials, “How do you integrate consent for research into regular health care delivery if you have 1 million patients and 20-30 minutes for each clinical encounter?” asks Joseph Ali, a researcher at the Johns Hopkins Berman Institute of Bioethics.
+
+Most everyone agrees that “informed consent needs to be fixed,” says Julia Adler-Milstein, a health informatics specialist at the University of Michigan. “If we can’t do informed consent right, we’ll be so much more limited in what we can do with data, and that would be a huge loss.”
+
+The power of big data
+
+Doctors often prescribe drugs without knowing whether they are the best choice. For example, a common anti-hypertension drug is the diuretic hydrochlorothiazide. The older, cheaper drug chlorothiazide may be just as good, but doctors almost always prescribe hydrochlorothiazide — possibly because its abbreviation is widely known and easy to scribble on a pad: HCZT.
+
+Both are safe and effective; the FDA has established that. But there no requirements and few incentives in the current system to figure out which drug is better.
+
+A physician studying a relatively rare disease, meanwhile, could easily recruit thousands of, say, cystic fibrosis patients from a database that included millions of people. “I will no longer have to spend years recruiting 3,000 patients for a study, because I will already have 10,000 banging on the door,” says Michael Lauer, director of the Division of Cardiovascular Sciences at the National Heart, Lung, and Blood Institute.
+
+“As a Harry Potter fan, this is magic in the muggle world,” Lauer says. “It will allow us to do dozens, hundreds of large-scale studies at a very low cost.”
+
+Would it be necessary to tell patients they were in such a trial?

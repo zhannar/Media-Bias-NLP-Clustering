@@ -1,0 +1,27 @@
+Community health centers are not generally known for delivering exceptionally high-quality care. But Carlos Olivares had had enough of this reputation.
+
+"Frankly, I was tired of reading about the outcomes of care that community health centers have," said Olivares, CEO of Yakima Valley Farm Workers Clinic.
+
+He knew there was a better way to highlight where his organization succeeded and improve the areas where it was lacking. He knew data was part of the answer, but the problem was how to get the data out of record-keeping systems and into a health analytics system that could report results.
+
+A main impediment was the record-keeping system itself. Part of the 2009 American Recovery and Reinvestment Act (or the Stimulus) was set aside to incentivize doctors to adopt electronic medical records (EMRs). But the incentives created an industry-wide rush toward implementation, and systems are notorious for lagging in interoperability.
+
+This is a significant problem for providers, particularly because elements of the Affordable Care Act that are now going into effect stress care coordination. Many providers are reforming themselves as accountable care organizations, which get paid a lump sum to manage the health needs of a large population, and hospitals are being penalized for having high readmission rates. Many providers are looking for analytics technology to help them manage these new demands.
+
+"When we look at how we get information, we were restricted to looking at what the EMR reporting infrastructure looks like," Yakima's Olivares said. "The problem with that is that it just told us something like taking a picture. What it didn't do was provide the analysis that was behind that information. So, we were searching for something we could use to create some actionable work."
+
+[Doctors] all say they take fantastic care of their diabetics until the data starts rolling in that says standard protocol calls for a foot examination and your diabetic hasn't had one in the last two years. Carlos Olivares, CEO of Yakima Valley Farm Workers Clinic
+
+For Oliveras, the answer was a third-party health analytics system from Massachusetts-based Arcadia Solutions called LaunchPad, which Yakima took live in February. The system sits on top of the organization's EMR and pulls out data. It also collects data from other organizations in Yakima's network, which is known as Community Health Best Practices and is a collection of community health centers that collaborate to improve quality.
+
+LaunchPad is a cloud-based service that Yakima can set up to generate regular reports or perform ad hoc queries. Right now Yakima is mainly using it to compare its performance on quality metrics to the performance of other groups in the network. For example, it is tracking how often doctors provide recommended preventive care, such as administering foot examinations to patients with diabetes or offering flu shots to elderly patients. Clinical leadership staff are the primary users of the system, and they develop improvement initiatives based on their scores.
+
+Olivares said having access to this kind of performance data makes it easier to start a conversation with clinicians about ways they can improve the care they deliver. "I don't think you've ever met a doctor who says, 'I don't take good care of my diabetic patients,'" he said. "They all say they take fantastic care of their diabetics until the data starts rolling in that says standard protocol calls for a foot examination, and your diabetic hasn't had one in the last two years."
+
+Since Yakima has been using LaunchPad for only a few months, the organization has not yet measured a specific return on its investment in the health analytics system. But Olivares said it has enabled Yakima to lessen its reliance on outside consultants, whom it had previously used whenever it needed any data analysis done. Now in-house staff can handle most of the organization's analytics needs. It has also helped solve the technical challenge of getting data out of Yakima's EMR.
+
+Additionally, Yakima was just recognized as a level 3 patient-centered medical home (PCMH) by the National Committee for Quality Assurance, a private nonprofit group that accredits providers that pursue emerging care delivery models. The PCMH concept leans heavily on data-driven care coordination.
+
+"We are seeing some things that are creating value to the system, and that is creating new opportunities," Olivares said.
+
+Ed Burns is site editor of SearchBusinessAnalytics. Email him at eburns@techtarget.com and follow him on Twitter: @EdBurnsTT.

@@ -1,0 +1,25 @@
+On Monday, I wrote a brief op-ed for the Wall Street Journal about the reality of cloud computing. You can read the full article here.
+
+I classified cloud computing in three different concepts:
+
+Infrastructure as a Service (IaaS): your applications outsourced to someone else’s servers.
+
+Platform as a Service (PaaS): a set of foundational software tools for building your applications on someone else’s servers and software.
+
+Software as a Service (SaaS): a set of applications, created and operated by a third party which does not require installation of local hardware or software. You subscribe to comprehensive remotely hosted functionality.
+
+I concluded that outsourcing your mess to someone else to host is not cloud computing.
+
+Instead IT leaders should focus on a variation on SaaS, which I called “Outcomes as a Service”. Software and hardware are one component, but the combination of business processes, people, and technology work in concert to achieve a desired result. Payment is made when that result is delivered. Examples are the athenahealth EHR/practice management/billing service, the Cornerstone Learning Management System service, and the Workday financial applications.
+
+CIOs throughout the country are struggling with IT scalability: the capacity to meet the automation needs of the business given regulatory demands (ICD10, Meaningful Use, HIPAA Omnibus Rule, Affordable Care Act), limited time, and relatively fixed resources.
+
+Often IT is asked to delivered unplanned work, within current budgets, and without disrupting current projects in process. It’s like asking 9 women to gestate a baby in 1 month.
+
+One of the few ways that a CIO can stay sane (other than resource leveling and governance, which I discussed last week ) is to have the flex capacity to deliver outcomes for a price.
+
+The business can be told that an Outcomes as a Service provider exists and the business can have as much of that service as they can pay for. The CIO enables the service but does not provision it or operate it.
+
+As I’ve written about before, the CIO’s role is increasingly diverse. I’ve watched CIOs crumble under the strain the job -- which often seems overwhelming -- demand exceeding supply, constant change with complete reliability, and perfect security with ubiquitous access.
+
+Relying increasingly on Outcomes as a Service vendors, freeing up the CIO to spend more time with business owners and governance activities, is likely one of the most successful tactics to enhance CIO job retention and satisfaction.

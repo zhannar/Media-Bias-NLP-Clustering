@@ -1,0 +1,21 @@
+Sunday, February 1, 2015
+
+The U.S. Patent and Trademark Office (PTO) Patent Trial and Appeal Board (PTAB or Board) provided guidance as to what constitutes a patent subject to covered business method (CBM) review and what are “technological inventions” in context of CBM patent reviews. Groupon Inc. v. Blue Calypso Inc., CBM 2013-00033 (PTAB Dec. 17, 2014) (Benoit, APJ).
+
+The petitioner, Groupon, filed a petition pursuant to § 18(a) of the America Invents Act (AIA) requesting a CBM review of a patent directed to a system and method for peer-to-peer advertising between mobile communications devices. The patent describes how advertisements may be transmitted before or after transmissions between peer-to-peer devices, such as cellular phones. In addition, the patent describes that in order to encourage transmissions of advertisements, advertisers may provide subsidies and incentives, such as reduced communication fees or product discounts, to qualified subscribers.
+
+In discussing the issue of CBM standing, the PTAB explained that review under § 18 is limited to persons (or their privies) who have been sued or charged with infringement of a “covered business method patent” and that a CBM does not include patents for “technological inventions.”
+
+The Groupon contended that the patent in issue was subject to CBM patent review because the claimed subject matter is directed to providing a subsidy or incentive, which is financial in nature. The PTAB explained that by statute its inquiry is controlled by whether the patent “claims a method or corresponding apparatus for performing data processing or other operations used in the practice, administration, or management of a financial product or service.” Noting that the claim for which CBM review was sought recites the steps of “recognizing a subsidy, according to a subsidy program, for the subscriber,” and considering the term “subsidy” as “financial assistance given by one to another” and the term “subsidy program” as “a system of opportunities designed to give financial assistance to another,” the Board concluded that the claimed subject matter is “financial in nature” and it “performs data processing or other operations used in practice, administration, or management of a financial product or service.”
+
+Next, the Board considered whether the claims were directed to “technological invention” and thus excluded from CBM review. As the Board explained, the test for a technological invention is “whether the claimed subject matter as a whole recites a technological feature that is novel and unobvious over the prior art; and solves a technical problem using a technical solution.”
+
+Citing to the PTO Trial Practice Guide, the Board explained that the following claim drafting techniques, for example, typically do not render a patent otherwise subject to § 18 into a “technological invention”:
+
+a) Mere recitation of known technologies, such as computer hardware, communication or computer networks, software, memory, computer-readable storage medium, scanners, display devices or databases, or specialized machines, such as an ATM or point of sale device.
+
+b) Reciting the use of known prior art technology to accomplish a process or method, even if that process or method is novel and non-obvious.
+
+c) Combining prior art structures to achieve the normal, expected, or predictable result of that combination.
+
+Under this framework, the Board concluded that the patent in issue is not directed to a “technological invention,” because the claims recite known components and are directed toward a business problem, not a technical solution. Accordingly, the PTAB concluded that the patent is a covered business method patent and subject to CBM review under § 18.

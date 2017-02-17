@@ -1,0 +1,53 @@
+The 3 core measures of acute myocardial infarction, congestive heart failure, and pneumonia are the leading causes of hospital admissions and expenditures. Our study sets the benchmark foundation for outcome evaluations of CMS’s value-based purchasing program and the Affordable Care Act.
+
+Chapy Venkatesan, MD; Alita Mishra, MD; Amanda Morgan, MD; Maria Stepanova, PhD; Linda Henry, PhD; and Zobair M. Younossi, MD
+
+ABSTRACT
+
+
+
+Objectives: The CMS core conditions—acute myocardial infarction (AMI), congestive heart failure (CHF), and pneumonia—are a focus of hospital quality reporting and its value-based purchasing program. The study's purpose was to assess national trends of in-hospital mortality and resource utilization for these core measures.
+
+
+
+Study Design: A time series study using outcomes from the 5 yearly cycles of the Nationwide Inpatient Sample (2005-2009).
+
+
+
+Methods: Stratum-specific χ2 test for independence (binary or categorical parameters) or t test for a contrasted mean (continuous parameters) were used to identify parameters that changed significantly over time (in-hospital mortality, length of stay, cost, charges, severity of illness, diagnoses per case, procedures per case). Multiple logistic and linear regression models were used to identify factors associated with in-hospital deaths, hospital charges, and length of stay (LOS).
+
+
+
+Results: In-hospital mortality decreased for AMI, CHF, and pneumonia. LOS was unchanged for CHF, but decreased for AMI and pneumonia. Average inflation-adjusted charges per case increased for all 3 conditions, while the average inflation-adjusted cost per case decreased for CHF and remained stable for AMI and pneumonia. The proportion of patients with extreme disability and extreme likelihood of dying, as defined by All-Patient-Refined Diagnosis Related Group, increased for all 3 diagnoses. The number of diagnoses and procedures were independently associated with LOS, cost, and charges for all 3 conditions.
+
+
+
+Conclusions: Many measures of quality of inpatient care and resource utilization for CMS core conditions improved despite increases in patient complexity and risk of mortality. Further research is necessary to determine the exact causes of these improvements.
+
+
+
+Am J Manag Care. 2016;22(1):e9-e17
+
+METHODS
+
+Patient Population and Data Source
+
+Eligibility Criteria
+
+Table 1
+
+Statistical Analysis
+
+RESULTS
+
+Table 2
+
+Pneumonia
+
+Table 3
+
+Table 4
+
+Table 5
+
+Cardiovascular disease (CVD) remains the number one disease affecting Americans and consumes the most healthcare dollars.The American Heart Association’s statistical update on heart disease and stroke reports that CVD outpaces all cancers in healthcare resource consumption and mortality.CVD consumed $316.4 billion in 2010 and causes 1 in 3 deaths per year. The major contributors to these figures are acute myocardial infarction (AMI) and congestive heart failure (CHF); 1 in 9 death certificates indicates heart failure as a cause of death.Overall, pneumonia ranks as the fifth-most frequent cause of admission, but the second-most frequent cause for those aged less than 17 years and more than 85 years.There were 1.1 million discharges with the primary diagnosis of pneumonia in 2010.Pneumonia also accounts for 16.1 deaths per 100,000 people, consumes $10.5 billion annually, and contributes 2.9% to annual costs for all hospitalizations.Given the impact of these 3 core diseases—AMI, CHF, and pneumonia—on our public health, and the financial costs to our healthcare system, major efforts have been focused on improving their outcomes. In 2002, hospitals accredited by the Joint Commission started collecting data on standardized care process measures to improve care. In 2004, the Joint Commission and CMS synergized their efforts and developed the National Hospital Quality Measures, standard measure sets common to both organizations. Currently, there are 12 broad classifications covering major areas of potential improvement including AMI, CHF, and pneumonia.In 2012, CMS continued efforts to improve quality care and to control costs by introducing the hospital value-based purchasing (VBP) program, funded through a 1% reduction in diagnosis-related group (DRG) payments for discharges. Of this 1% portion, 70% can be “earned back” based on adherence to the approved clinical processes of care for selected patient outcomes. The core measures of AMI, CHF, and pneumonia were selected for the fiscal year 2013 hospital VBP program.Hospitals responded with several initiatives (ie, broader use of new care delivery systems, such as telemedicine and hospital-based disease management programs) to reduce costs, hospital readmissions, length of stay (LOS), and inpatient mortality.The goal of this paper, then, was to establish a base of comparison for VBP by examining—prior to its implementation—national trends for inpatient mortality, LOS, cost, and charges related to these 3 core measures in a population of all-payers and all patients 18 years or older.For this study, we used the National Inpatient Sample (NIS) database, an all-payer database of hospital discharges maintained as part of the Healthcare Cost and Utilization Project by the Agency for Healthcare Research and Quality. The NIS approximates a 20% stratified sample of community hospitals in the United States. The sampling frame in each of the study’s surveys was a sample of hospitals that represented 90% to 95% of all hospital discharges for the particular year. Specifically, between 2005 and 2009, each NIS cycle included information on approximately 8 million discharges from approximately 1000 hospitals located in 37 (in 2005) to 44 (in 2009) states. Each NIS record represents a single hospital discharge and includes a unique identifier; basic demographics for the patient; admission and disposition type; up to 15 primary and secondary diagnoses; a list of potential comorbidities; up to 15 primary and secondary procedures; expected primary insurance payer; total hospital charges excluding physician and other professional services; LOS; type of hospital (teaching/nonteaching), bed size, and location; and mean cost-to-charge ratio.Furthermore, the severity of illness scores defined by the All Patient Refined Diagnosis-Related Groups (APR-DRGs)were evaluated and reported together with the respective risk of mortality scores. The APR-DRGs expand the basic DRG structure by adding 4 severity-of-illness and 4 risks-of-mortality subclasses to each DRG: for severity of illness, minor, moderate, major, or extreme loss of function; for mortality risk, minor, moderate, major, or extreme likelihood of dying. The APR-DRG severity scores of 3 and 4 (major/extreme loss of function), likelihood-of-dying scores of 3 and 4 (major/extreme likelihood of dying), and the number of diagnoses were used as markers for the severity and complexity of cases, respectively. The outcomes included in this study were in-hospital mortality and resource utilization, which included the length of inpatient stay, as well as the total costs and charges per discharge. These outcomes were assessed in each calendar year and in patient subgroups as described below.We included all adult (18 years or older) discharges from the NIS between 2005 and 2009 with the principal diagnoses of AMI, CHF, or pneumonia. The diagnoses and procedures were identified using the International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM).summarizes the multiple ICD-9-CM codes for each principal diagnosis used for the study.We obtained national estimates for the total number of hospitalizations for each of the 3 diagnoses and total resource utilization parameters by calendar year, by totaling individual discharge sampling weights (which are the inverse of probability selection for the sample from the entire population). Since not all participating hospitals had reported their average cost-to-charge ratios, the national estimates of total costs were reweighted to account for all discharges where cost estimates were missing.All charges and costs were adjusted to the year 2009 using medical consumer price indices for the study years.All available clinical and socioeconomic parameters were compared for change between years using a stratum-specific χtest for independence (for binary or categorical parameters) or a t test for a contrasted mean (for continuous parameters). Additionally, resource utilization was studied separately for 2 age groups: 18 to 64 years and 65 years or older. Taylor series linearization was used to account for the stratum units used in NIS to sample hospitals based on geographic region, control, location, teaching status, and bed size.Multiple logistic models were used to identify factors associated with in-hospital deaths while accounting for potential confounders. Similarly, factors that impacted hospital charges and LOS were assessed using multiple linear regressions after logarithmic transformation of the respective outcomes. Coefficients from these models were exponentiated to yield a percentage change in the outcomes associated with each predictor. All P values of .05 or less were considered to be statistically significant.All analyses were run with SAS version 9.1 (SAS Institute, Cary, North Carolina) and SUDAAN version 10.0 (RTI International, Research Triangle Park, North Carolina). The study was reviewed and approved as meeting the exempt criteria by the Inova Health System Institutional Review Board.Overall, 33.3 million hospitalizations were included in the 5 years of NIS, ranging from 6.54 to 6.84 million yearly, representing 164.14 million hospitalizations nationwide. Of those 33.3 million, the overall numbers of pneumonia, AMI, and CHF cases decreased. The decrease for pneumonia was from 1.17 million in 2005 (3.64% of all hospitalizations) to 1.01 million in 2009 (3.04%); for AMI, 662,000 in 2005 (2.07%) to 633,000 in 2009 (1.91%); and for CHF, 1.09 million in 2005 (3.39%) to 1.02 million (3.09%) in 2009 ().Over time, approximately 53% of patients were female; 77% were white. Reported ethnicities for the remainder, were, on average, 10.5% black, 7.5% Hispanic, 2% Asian, and less than 1% Native American. Sixty percent of the patients were 65 years or older; of these, the majority were Medicare patients, although the proportion of Medicare patients in the entire pneumonia cohort decreased from 70.22% in 2005 to 63.68% in 2009 (P

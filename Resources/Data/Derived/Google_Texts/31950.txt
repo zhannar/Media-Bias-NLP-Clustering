@@ -1,0 +1,23 @@
+Even more research has found social media sites, like Twitter, can be used to advance scientific research. A new study published in PLOS ONE looks specifically at Twitter, and how it can be used to extract meaningful information from situations users experience in their daily lives.
+
+The study was conducted by David Serfass, a doctoral candidate at Florida Atlantic University, and Dr. Ryne Sherman, a psychology professor at FAU. Since recent studies have found status updates and tweets can be used to accurately predict a person's personality and psychopathy, Serfass and Sherman wondered if it could be used to describe psychological characteristics of real-world situations. To their knowledge this type of research has not been done before.
+
+"Twitter is a digital stream of consciousness of its users, even a pulse of the nation," Serfass and Sherman wrote. "There are few compilations of data on human thought, behaviors and emotions this vast, making Twitter an excellent medium for understanding the human experience."
+
+Serfass and Sherman set out to address two questions: "Is it possible to automatically and accurately extract situation characteristics from a large quantity of tweets?" and, "What can we learn about the situations people experience from their tweets?" They collected more than 20 million Tweets from a millions-plus users between Aug. 14-28, 2014.
+
+Research assistants helped rate each tweet using the eight items from the Situational 8 DIAMONDS (Duty, Intellect, Adversity, Mating, pOsitivity, Negativity, Deception, and Sociality) dimension. Assistants visited any links incorporated in the tweet to incorporate any information from these websites in their ratings, as well as counted each word using a computer program called the Linguistic Inquiry Word Count (LIWC). The LIWC program includes a dictionary of 4,500 words grouped into 64 categories, including standard linguistic information (pronouns), psychological constructs (anxiety), and personal concern (work and leisure).
+
+All these measures factored into a rating that was applied to tweets. So for example, the item pertaining to duty reads, "The situation contains work, tasks, duties" and received a rating rated on a scale from 0-4, with 0 meaning "not characteristic or unclear" and 4 meaning "very characteristic." The last part of the study involved prediction; Serfass and Sherman set out to see if they could predict these ratings from word usage in the Tweets themselves — and they totally did.
+
+"We applied our scoring algorithms to more than 20 million Tweets gathered from Twitter," Sherman said in a press release. "Thus, we were able to map out the kinds of situations that people experience across time and day, and in urban versus rural areas of the U.S."
+
+Tweets scoring high on duty were often about work or school, whereas tweets scoring high on Intellect were about thoughts, feelings, and/or motivational quotes. For Adversity, tweets tended to contain more vulgar and angry language, usually directed at an outside source. For Mating, tweets contained phrases like, "I love you," and though love was also mentioned in pOsitivity tweets, it was separate from romantic love. And like Adversity, tweets scoring higher on Negativity contained more vulgarity, anger, and frustration.
+
+Some of the other findings were interesting, too, Serfass said. He explained, on average, people experienced more positivity on the weekend and more negativity during the work week. People seemed to experience higher levels of duty during the "9 to 5" workday, while they experienced more sociality (marked by the use of @ to tage other users) at night. There were also gender differences: females experienced higher levels of mating and more emotional situations, both positive and negative, than males.
+
+This is just the tip of the iceberg, Serfass and Sherman said. They showed it's possible to provide insights about the psychological experience of a typical workday or week. Although they anticipated these findings, it was "essential to first demonstrate that this method can be used to capture basic human experiences before attempting to uncover experiences that may be more hidden."
+
+Sherman concluded: "This research has implications for how we can use social media to understand human experience. Think about what we can learn from situations surrounding holidays, festivals, sporting events, political upheavals, and even natural disasters, which could be examined using these methods. In that sense, we are really just getting started."
+
+Source: Serfass DG, Sherman RA. Situations in 140 Characters: Assessing Real-World Situations on Twitter. PLOS ONE. 2015.

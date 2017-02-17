@@ -1,0 +1,169 @@
+BY: Follow @BillGertz
+
+
+
+U.S. intelligence agencies last week urged the Obama administration to check its new healthcare network for malicious software after learning that developers linked to the Belarus government helped produce the website, raising fresh concerns that private data posted by millions of Americans will be compromised.
+
+The intelligence agencies notified the Department of Health and Human Services, the agency in charge of the Healthcare.gov network, about their concerns last week. Specifically, officials warned that programmers in Belarus, a former Soviet republic closely allied with Russia, were suspected of inserting malicious code that could be used for cyber attacks, according to U.S. officials familiar with the concerns.
+
+The software links the millions of Americans who signed up for Obamacare to the federal government and more than 300 medical institutions and healthcare providers.
+
+“The U.S. Affordable Care Act software was written in part in Belarus by software developers under state control, and that makes the software a potential target for cyber attacks,” one official said.
+
+Cyber security officials said the potential threat to the U.S. healthcare data is compounded by what they said was an Internet data “hijacking” last year involving Belarusian state-controlled networks. The month-long diversion covertly rerouted massive amounts of U.S. Internet traffic to Belarus—a repressive dictatorship located between Russia, Poland, and Ukraine.
+
+“Belarusian President [Alexander] Lukashenko’s authoritarian regime is closely allied with Russia and is adversarial toward the United States,” the official added.
+
+The combination of the Belarus-origin software, the Internet re-routing, and the anti-U.S. posture of the Belarusian government “makes the software written in Belarus a potential target of cyber attacks for identity theft and privacy violations” of Americans, the official said.
+
+Security officials urged HHS to immediately conduct inspections of the network software for malicious code. The software currently is used in all medical facilities and insurance companies in the United States.
+
+The officials also recommended that HHS use security specialists not related to software vendors for the inspections to reduce further risks.
+
+Officials disclosed the software compromise last week after the discovery in early January of statements by Belarusian official Valery Tsepkalo, director of the government-backed High-Technology Park (HTP) in Minsk.
+
+Tsepkalo told a Russian radio station in an interview broadcast last summer that HHS is “one of our clients,” and that “we are helping Obama complete his insurance reform.”
+
+“Our programmers wrote the program that appears on the monitors in all hospitals and all insurance companies—they will see the full profile of the given patient,” Tsepkalo said June 25 on Voice of Russia Radio.
+
+White House National Security Council spokeswoman Caitlin Hayden said an intelligence report on the Belarusian software was “recalled by the intelligence community shortly after it was issued.”
+
+The report has prompted HHS to conduct a review to determine if software related to the Affordable Care Act “was written by Belarusian software developers,” she said.
+
+“So far HHS has found no indications that any software was developed in Belarus,” Hayden said. “However, as a matter of due diligence, they will continue to review the supply chain. Supply chain risk is real and it is one of our top concerns in the area of cyber-security.”
+
+A senior administration official questioned whether suspect software mentioned in the report would be valuable to a nation state.
+
+“Nation states are generally not interested in [personal identification information] for its own sake,” the official said. “Given that, we would be surprised to see a nation-state capability applied in this matter. But we are doing a thorough review anyway.”
+
+HSS spokeswoman Dori Salcido referred questions about the matter to Richard A. Olague, spokesman for the HHS’ Centers for Medicare and Medicaid Services (CMS). Olague declined to discuss the software vulnerability.
+
+He also would not say if CMS is conducting a search for malicious software emanating from Belarus.
+
+CMS said in a statement to the Washington Free Beacon that assessments by independent security contractors are conducted regularly by companies such as MITRE and Blue Canopy.
+
+The website also is continuously monitored by CMS technicians and electronic sensors, and weekly penetration tests to check the security of the system are carried out.
+
+A CMS security team in place also seeks to “identify anomalous activity, and to deter and prevent any unauthorized access,” the statement said.
+
+“In addition, as new website functions continue to go live, CMS follows a rigorous and regular change management process with ongoing testing and mitigation strategies implemented in real time,” the statement said. “This occurs on a regular basis, in between the [source code analysis] testing periods.”
+
+A spokeswoman for CGI Federal, the main federal contractor for the healthcare network, also had no immediate comment.
+
+Intel chair calls for probe
+
+House Permanent Select Committee on Intelligence Chairman Rep. Mike Rogers (R., Mich) said he was surprised by media reports from Belarus indicating “some parts of Healthcare.gov or systems connected to it may have in fact been written overseas.” He called for an independent security review of the Obamacare website.
+
+Rogers said he was especially concerned by the potential software vulnerability because a CGI executive, Vice President Cheryl Campbell, testified to Congress that all software work for the network had been done in the United States.
+
+“We need an independent, thorough security evaluation of this site, and we need the commitment from the administration that the findings will be acknowledged and promptly addressed,” Rogers told the Free Beacon.
+
+“I continue to call on HHS to shut down and properly stress test the site to ensure that consumers are protected from potential security risks from across the globe.”
+
+Details of the software work done by Belarusians could not be learned. Tsepkalo could not be reached for comment and did not respond to emails sent to his technology park website.
+
+The company involved in the software was identified as EPAM, a Belarusian firm with U.S. offices and international clients that conducts programming work in Belarus.
+
+A company representative denied any involvement in the software development.
+
+“EPAM is not now and has never been involved in software development for the Healthcare.gov website. Any claim to the contrary is completely false,” said Ginger Mosier, EPAM general counsel.
+
+The officials said there are serious concerns that the Belarusian software contains malicious code that could be used to covertly route data from the Obamacare website to foreign locations.
+
+Additionally, they suspect the Belarusians planted secret “backdoor” openings to the software that will permit surreptitious entry to U.S. government networks by hackers or spies.
+
+The malicious code could reroute Obamacare website data to Belarus, or possibly permit illegal backdoor access to the Healthcare.gov networks and other government and health industry networks, the officials said.
+
+The security vulnerability could provide “access to all necessary personal information of U.S. residents for identity theft and privacy violations,” said one official.
+
+Software security issue follows website problems
+
+Disclosure of cyber attack vulnerabilities follows months of software problems with the Healthcare.gov rollout that began Oct. 1. The troublesome software cost the government more than $400 million. The government spent several months attempting to repair the software.
+
+The software problems prevented hundreds of thousands of people from obtaining health coverage and undermined confidence in the government-run health care system.
+
+President Barack Obama said on Sunday that “glitches” with the Obamacare website were expected but “I don’t think I anticipated or anybody anticipated the degree of the problems with the website.”
+
+“The good news is that right away we decided how we were going to fix it. It got fixed,” Obama said.
+
+Obama said three million people signed up through the website after delays of a month and half.
+
+“Now it’s working the way it’s supposed to and we’ve signed up three million people,” the president said. “What we’re constantly figuring out is how do we continue to improve it?”
+
+According to HHS, between Oct. 1 and the end of the year, 1. 9 million people signed up for healthcare through the federal website. Another 956,000 enrolled through state websites. More than 55 million people visited both the federal and state websites.
+
+The threat of data diversion is compounded by the discovery last year that Belarus covertly diverted massive amounts of U.S. Internet traffic to Belarus.
+
+According to the New Hampshire-based security firm Renesys, which discovered the data diversion, throughout February 2013, Internet traffic from the United States was sent to Belarus. The purpose likely was to allow hackers or government agencies to sift for data for financial, economic, or government intelligence.
+
+The data also may have been modified for other purposes before being returned to the original U.S. and other foreign destinations.
+
+The bulk diversion technique is called border gateway protocol hijacking. It involves using a series of network addresses to mask the data diversion through numerous Internet hubs around the world.
+
+Renesys traced the data diversion from Washington to New York and Moscow and finally to Minsk, the Belarusian capital. It was returned to the United States via connections in Moscow, Frankfurt, and New York.
+
+Internet diversion linked to state telecom
+
+U.S. officials believe the Belarus state-controlled telecommunications provider Beltelecom took part in the Internet data hijacking last year. The company operates fiber optic networks and controls all Belarus Internet traffic and infrastructure. Technical evidence in the diversion revealed that the hijacking was intentional and not the result of mistakes by network operators.
+
+“Beltelecom has a chance to examine the traffic, and then sends it back out on the ‘clean path’ through Russian provider ReTN,” Renesys’ Jim Cowie said in a report on the incident.
+
+“Victims whose traffic was diverted varied by day, and included major financial institutions, governments, and network service providers,” the report said, noting that among the countries affected were the United States, South Korea, Germany, the Czech Republic, and Lithuania.
+
+According to the officials, the diversion allowed American’s Internet activities to be viewed in Minsk.
+
+U.S. officials said a future hijack of U.S. Internet traffic to Belarus combined with malicious software implanted in Belarus would increase the damage of a cyber attack.
+
+Regarding the Belarusian official who disclosed his country’s involvement in the Obamacare software, U.S. officials said Tsepkalo is a former Belarusian ambassador to the United States and held several high-level posts in the Lukashenko government. He also was a former Soviet foreign ministry official.
+
+Tsepkalo is said to maintain close ties to Russia and in May 2012 he signed a cooperation agreement with Novosibirsk Technopark, a Russian high-technology enclave located in the Far East north of Kazakhstan.
+
+Rogers warned last year that security vulnerabilities in the healthcare website make it a “magnet” for hackers and foreign intelligence services.
+
+Rogers stated in October that a component of the health insurance exchanges called the Federal Data Services Hub, created under Obamacare, is vulnerable to cyber attack and that the hub connects seven different agencies.
+
+“Social Security numbers, employment information, birth dates, health records and tax returns are among the personal data that will be transmitted to this hub, consolidating an unprecedented amount of information,” Rogers stated in an op-ed in USA Today Oct. 10.
+
+“Every shred of data one would need to steal your identity or access your confidential credit information would be available at the fingertips of a skilled hacker, producing a staggering security threat,” he said.
+
+The hub “will be a magnet for hackers, creating inherent vulnerability and risk by connecting these seven interfaces,” he said, adding that security vulnerabilities are “a dream of faceless international hackers and hostile foreign intelligence services.”
+
+Belarus software not raised during Hill probes
+
+The website vulnerability to cyber attack from Belarus, a former Soviet republic, was not raised during several congressional hearings over the past several months on the problems with Healthcare.gov.
+
+Kevin Charest, chief information technology officers at HHS, told the House Oversight and Government Reform Committee earlier this month that numerous cyber attacks against the website were investigated. “To date, there have been no successful security attacks on Healthcare.gov and no person or group has maliciously accessed personally-identifiable information (PII) from the site,” he said Jan. 16.
+
+Committee Chairman Rep. Darrell Issa (R., Calif.) said at the hearing that his committee obtained HHS documents revealing shortcomings in security testing of the website prior to the Oct. 1 launch.
+
+“When Americans submit their sensitive personal information to Healthcare.gov—or, I might add, when government takes sensitive information, including your IRS information and makes it available through a Website to outsiders—they deserve to know that it is safe from hackers, bad actors, and security glitches,” Issa said before a closed hearing by the committee.
+
+“The possibility of security breach is not some vague, distant concern. It is a real and tangible threat that could affect millions,” he added.
+
+Issa said HHS officials repeatedly have said personal data submitted on the website is safe. “But because officials authorized the launch of the website full of functional errors, Americans have deep skepticism that the site was in fact secure,” he said.
+
+The components the Healthcare.gov website, involving government agencies, hospitals and insurance firms, were put together by the federal Centers for Medicare and Medicaid Services.
+
+In testimony before a House committee Oct. 24, Cheryl Campbell, the CGI Federal vice president, said developing the federal healthcare system, known as the exchange, involved 55 contractors, five government agencies, 36 states, and more than 300 insurance firms.
+
+CGI calls its healthcare system software the Federally Facilitated Marketplace, or FFM. The application manages the web portal, a transaction processor and a business analytics functions. It links insurers to consumers.
+
+The exchange has six complex systems, Campbell said.
+
+David Kennedy, head of the security firm TrustedSec, said the Obamacare website was not designed well and has “a lot of security flaws.”
+
+One major concern is that the system connects the healthcare network to other sensitive U.S. government networks, including the Internal Revenue Service and the Department of Homeland Security.
+
+“That makes it a treasure trove for hackers,” Kennedy said in an interview, adding that a major concern would be cyber attacks from sophisticated state-sponsored adversaries.
+
+The threat of “backdoor” access points is a particular worry. The Chinese military-linked Huawei Technologies is suspected of using that technique in its network equipment, Kennedy said.
+
+HHS technology officials recently contacted him about the security vulnerabilities and indicated the department is interested in taking measures to mitigate the security flaws.
+
+The human rights organization Freedom House describes Belarus as a dictatorship with few freedoms.
+
+In a report last year on Internet freedom, Freedom House said the state-run Beltelecom and the National Center for Traffic Exchange are “the only entities with the ability to handle connections with [Internet service providers] outside of Belarus.”
+
+“Beltelecom also holds a monopoly on fixed-line communications and internet services inside Belarus,” it said, adding, “all ISPs depend on the facilities of the state-owned Beltelecom, which allows the authorities to control access speeds for the entire country, if needed.”
+
+Belarus’ Ministry of Communications and Information Technology and the presidential administration’s Operational and Analytical Center control ISPs, “conduct overseas online surveillance, and manage Belarus’ top-level domain.”

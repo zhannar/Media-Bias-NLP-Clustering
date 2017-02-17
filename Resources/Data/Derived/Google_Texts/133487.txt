@@ -1,0 +1,55 @@
+December is here, and you know what that means. No, not just winter and shopping and “Star Wars” and Santa Claus. This year, December likely also means a long-awaited interest rate hike.
+
+It is widely expected that the Federal Reserve will raise rates at its policy meeting later this month, from a range of 0-to-0.25 percent to 0.25-to-0.50 percent. This, despite the small absolute change, is actually a pretty big deal. It would end the long experiment with rock bottom interest rates that started in 2008. And it would represent the first monetary policy tightening in nearly 10 years.
+
+Millions of Americans will be affected. Car loans will get more expensive. Mortgage rates will rise. Floating rates on credit cards and home equity loans will rise.
+
+Related: 10 Ways the Fed’s Looming Rate Hike Touches You
+
+But how, exactly, will Fed Chair Janet Yellen and her cohorts actually increase the cost of credit?
+
+The simple answer, according to Mark Cabana at Bank of America Merrill Lynch: They will likely raise the interest rate on excess reserves, or IOER, to 0.50 percent while increasing the overnight reverse repo rate (ON RRP) to 0.25 percent
+
+What? IOERs and ON RRPs? I know it reads like Greek. Allow me to explain.
+
+There are many different interest rates and many different benchmarks, from the Prime Rate to the 10-year Treasury yield. But the Fed's preferred policy target is the Federal Funds rate, a very short-term (overnight, in fact) interest rate on unsecured loans between banks to bolster their required reverses.
+
+The amount of reserves they are required to hold is set by another less-used policy lever known as the reserve requirement ratio, which determines the amount of capital that must be set aside against a bank's loan book. In our fractional reserve banking system, this ensures a measure of stability by only allowing, for instance, $90 worth of loans to be issued on $100 in deposits.
+
+Related: The Federal Reserve Bank, Explained
+
+As an aside, banks in our system actually have the ability to create money by expanding the money supply via this fractional reserve system. To illustrate: The U.S. Mint prints $100 worth of currency, gives it to the Fed, which then issues it to Bank A in exchange for Treasury bonds. Bank A then issues $90 worth of loans, which then become $90 worth of deposits at Bank B. Now, the money supply totals $190, not $100. Bank B issues $81 worth of loans (assuming a 10 percent reserve requirement ratio), which becomes $81 of deposits at Bank C, which decides to not issue loans, so it stores the money as excess reserves at the Federal Reserve. The money supply now totals $271, broken down like this:
+
+Bank A: $100 in Deposits, $90 in loans, $10 Required Reserves
+
+Bank B: $90 in Deposits, $81 in loans, $9 Required Reserves
+
+Bank C: $81 in Deposits, $0 in loans, $8.10 Required Reserves, $72.90 Excess Reserves
+
+In a banking panic, all depositors rush to withdraw their deposits at the same time. But they all can't have their money, since only $100 in hard currency is supporting a total of $271 in deposits. The financial system is built on trust, confidence and the maintenance of bank balances instead of cash under mattresses.
+
+Related: Major Banks Facing $120 Billion Shortfall
+
+Now, say Bank A in our example was a little overzealous and issued $95 worth of loans by the end of the day. It is now $5 below its required reserve level and needs to borrow money from Bank C, which is holding $72.90 in excess, or unneeded, reserves in the Fed's vaults. Bank C collects an interest rate on these excess reserves, which is the IOER mentioned above.
+
+Here's the kicker: The rate that Bank C charges Bank A on the overnight loan of excess reserves is the Federal Funds rate. This is the interest rate the Fed "changes" when it sets policy. Changes are done mainly by buying and selling short-term Treasury bills to add or remove cash from the financial system (the initial issuance of $100 to Bank A in our example above).
+
+When the rate is low, it encourages banks to issue more loans since they can cheaply acquire necessary funding to meet their regulatory requirements; when it's high, the cost of overnight funding becomes prohibitive, which has a chilling effect on credit creation, which in turn, helps fight inflation by slowing the economy.
+
+Related: Inflation Is Coming — for Real This Time
+
+The current situation, however, is more complicated than usual. Multiple iterations of bond-buying stimulus have flooded the market for excess reserves. Before the financial crisis, excess reserves totaled around $1.4 billion. Now, the total is nearly $2.6 trillion.
+
+As a result, lending volume in the Fed funds market has slowed substantially, which means the central bank's goal of raising the Fed funds rate could be trickier than usual this time around since it would need to sell a very large volume of short-term Treasury bills to get rates to move higher.
+
+One likely policy lever will be the raising of the IOER rate, which will encourage banks to store more idled cash as excess reserves within the Fed's vaults rather than lending the money to consumers or other banks. According to Cabana, this strategy is untested. And it's limited to banks, with money-market funds, federally sponsored home loan banks and Wall Street dealers excluded.
+
+Thus, the Fed will also likely raise the overnight reverse repo rate, which is the interest rate it pays a wider variety of market participants to deposit excess cash.
+
+Related: What’s Driving Corporate America’s Merger Mania?
+
+Cabana believes the Fed will increase the amount it accepts in its ON RRP program, while banks and other institutions will be more willing to give their cash to the Fed because of the higher interest rate they'll receive.
+
+Expect some volatility after the Fed announces its rate hike as all these systems are tested and people remember, for the first time since 2006, what living with rising rates feels like — because, as all of the above illustrates, actually increasing the cost of money is no easy task.
+
+Anthony Mirhaydari is founder of the Edge and Edge Pro investment advisory newsletters. A two-week and four-week free trial offer has been extended to Fiscal Times readers.

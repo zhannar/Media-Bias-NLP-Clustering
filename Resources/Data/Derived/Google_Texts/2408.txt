@@ -1,0 +1,23 @@
+Topics: Bike share, Dream City, Editor's Picks, sustainability, Innovation News, Sustainability News, Life News, News
+
+Last year, a German landscape architect named Alexander Dunkel built an unusual map of San Francisco. Harnessing data from Flickr to map both geotags (where a photo was taken) and tags (what a photo was taken of), Dunkel was able to chart the city’s sightlines.
+
+This project would have been impossible a decade ago, but today, it’s one of many examples of how the geodata of urbanites, culled from Twitter, Instagram, Facebook and company can color the map of the city. Consider the visualizations of FourSquare check-ins, which vividly chart the pulse of commuting in cities like London and Tokyo.
+
+But any map that relies on thousands of random, isolated data points is doomed to generalizations. (It’s visually appealing, but is it useful?) For a more precise portrait of human movement, cities have already installed the perfect system, one that records users’ travels from start to finish: bike share.
+
+This kind of numerical abundance has long been the privilege of the hard sciences, as Jon Froehlich, a professor of computer science at the University of Maryland, pointed out to me. Sociology, architecture, anthropology and other fields that look at urban life have typically been limited to qualitative reports, surveys and above all, observations. That is changing. “Everything is being digitized, including human behavior-type data,” Froehlich says. In the future, it may be routine for major transit systems like turnpikes and subways to release staggering quantities of data on how and when people move. For now, there is bike share.
+
+Many cities with bike share systems — there are now around 500 worldwide — have made their data easily accessible to programmers, leading to an explosion in bike-based mapping. In M.V. Jantzen’s Capital Bikeshare visualization, for example, you can click on a station to see where in Washington, D.C., the bikes are going. Some docks, like those near busy Union Station, extend red lines (weighted by use) to neighborhoods across the city. Others, like the pair of stations connecting the Woodley Park Metro with the popular strip of bars in Adams Morgan, are nearly monogamous. Segments involving slopes, like the stretch between Dupont Circle and the Zoo, are heavily weighted towards downhill use.
+
+This type of data could be funneled back into the system’s management to great effect. In D.C., 13 percent of stations are in areas that experience fewer than 18 trips per day. Should they be moved to facilitate greater total use? Or should the city try to reach out to those communities? It’s a case that clearly illustrates the respective goals of city planners (equity) and mathematicians (efficiency).
+
+But bike share figures can also illuminate overall cycling habits, which tend to be underreported:
+
+— Bike lanes: One analysis of Capital Bikeshare found that the popularity of a bike share dock is markedly increased by proximity to a bike lane, suggesting the positive effect that bike lanes have on urban cycling. More broadly, station-to-station traffic reveals the preferred paths of urban cycling, and offers guidance to urban design professionals.
+
+— Helmets: Bike share data is also a good way to measure the devastating effect of mandatory helmet laws on urban cycling. In Australia, which has nationwide helmet laws, systems have struggled as a result. Mexico City, by contrast, repealed a helmet law just as the city inaugurated its bike share system.
+
+— Traffic: By analyzing onboard computers on the bicycles of Lyon’s bike share system, researchers concluded that Lyon’s bikes (and, by extension, we may presume, private bikes as well) actually travel faster than cars at rush hour.
+
+— Demographics: Bike share’s user base — mostly white, male, and well educated, in the United States — is an extreme example of the type of demographic bias that persists in commuter cycling at large. As cities attempt to address this issue, bike share rolls are a useful gauge of progress.

@@ -1,0 +1,41 @@
+Obamacare continues to be haunted by its complexity.
+
+The federal insurance exchange created under the health law doesn’t effectively verify critical information about applicants’ income and citizenship—information that is used to determine whether an applicant qualifies for federal subsidies—according to a new report by the Health and Human Services (HHS) Office of the Inspector General.
+
+It’s the latest confirmation of continuing technical troubles for the health care law, and yet another indication of how difficult it's proving to get the law to work as intended.
+
+When the health law’s coverage expansion went live in January, 2014, former HHS Secretary Kathleen Sebelius promised that the exchanges would "verify that applicants for advance payments of the premium tax credit and cost-sharing reductions are eligible for such payments and reductions."
+
+Sebelius didn’t just give her word that information provided by applicants would be independently verified; it’s required by law.
+
+But key parts of the verification system don’t work, according to the IG report.
+
+"Not all of the Federal marketplace’s internal controls were effective in ensuring that individuals were determined eligible for enrollment in [insurance plans] and eligible for insurance affordability programs according to Federal requirements," the report says.
+
+In particular, the system has deficiencies related to verifying Social Security numbers, citizenship, annual household income, and family size.
+
+These aren't minor issues. These are the most important variables the law uses to determine eligibility for subsidies, and yet the system can't regularly perform an effective validation of any of them. Household income, in particular, is the biggest factor in determining whether someone qualifies for subsidies, and, if so, how much. But Obamacare’s system doesn’t consistently provide an accurate check.
+
+Are there lots of subsidies going out that shouldn’t be? This is, at the very least, a real possibility. The lack of effective verification doesn’t tell us that what percentage are wrongly awarded—just that we can’t be sure what percentage is handed out correctly.
+
+In addition, the report says that applications with inconsistencies aren’t always resolved properly, and that records related to inconsistent applications aren’t well maintained.
+
+Why is the system unable to do what it is supposedly designed to do? Basically because it’s just too complicated. Information sent through the exchanges is sent through the Federal Data Services Hub, a kind of air-traffic control system for all the personal data that Obamacare’s federal exchange system handles. The Data Hub then connects to HHS, the Social Security Administration, the Department of Homeland Security, the IRS, as well as a number of other agencies.
+
+Except, well, sometimes it doesn’t. As the Inspector General’s report says, "The deficiencies related to verifying applicants’ eligibility occurred because, for example, the Federal marketplace’s eligibility and enrollment system was not designed to always validate Social Security numbers through SSA."
+
+Basically, the Data Hub is supposed to send personal data out to do digital wind sprints—touching some other agency database, then coming back through the central hub. But sometimes it just doesn’t work. There’s too much information trying to connect to too many different systems. It’s a technical problem born out of bureaucratic sprawl, and it's a mess.
+
+The result is a system that could well be rife with errors, and lends itself to exploitation. Just last month, the Government Accountability Office (GAO), another federal watchdog, released a report showing that Obamacare’s exchange technology had allowed 11 fake accounts made up by undercover GAO investigators to stay in the system, even though the GAO had made the existence of those accounts public a year earlier. Indeed, about half of those fake accounts were actually granted even larger subsidies their second year in the system. The watchdog agency’s blunt conclusion was that "HealthCare.gov [the federal health exchange site] does not appear to be set up to detect fraud."
+
+This is one of the dangers of a law like Obamacare, which, for political reasons, largely built on top of the already-complicated, already-fractured existing health system. The result is a makeshift, patchwork add-on that in many ways makes the system even more frustratingly complex, and in the process creates more problems—like this.
+
+It's not just subsidy verification that is turning out to be harder than expected. The law's back-end payment systems, which were supposed to be completed and online in 2013, still aren't fully finished, meaning that insurers are just estimating how much they're owed under the law. Earlier this year, the administration sent out hundreds of thousands of tax forms related to the law with errors on them, and didn't even know why. A similar problem affected more than 100,000 Obamacare enrollees in California. In the state-run exchanges, many crucial functions remain incomplete.
+
+Think of it this way: Before Obamacare, the U.S. health system was like a giant tangled knot. If you’ve ever tried to untangle a big knot, you know that it can take a while, and that the trick is to patiently loosen one bit at a time.
+
+Obamacare’s designers, in contrast, saw that they couldn’t undo the knot, so they added more string, and tied it into the knot that was already there. Now it’s an even bigger mess.
+
+That’s obviously a problem for reformers who want to begin the slow, frustrating process of untangling the knot. Obamacare has made the age-old problems with the U.S. health care system even harder to unravel.
+
+But it’s also a problem for people trying to make Obamacare work. HHS officials basically agreed with the IG report and said they are taking some steps to address. Yet it’s clearly a harder problem to solve than anyone expected. I wouldn’t be surprised if this administration never gets it all resolved. Obamacare is likely to continue struggling with the burden of its complexity for as long as it lasts.

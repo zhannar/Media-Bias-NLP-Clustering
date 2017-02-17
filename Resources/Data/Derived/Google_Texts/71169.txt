@@ -1,0 +1,21 @@
+As the federal government struggled on Wednesday to explain the technical problems experienced by would-be users of the health exchange Web site, www.healthcare.gov, computer security specialists say they had ruled out a cyberattack known as a denial of service, or DDoS, attack. Those occur when attackers fire huge amounts of traffic at a Web site until it collapses under the load.
+
+Such attacks typically entail hundreds of millions of data requests to a site per second. The federal health care site experienced 4.7 million unique visitors in the first 24 hours. New York State’s site experienced 30 million Web requests, which could have been fueled at least in part by a New York advertising blitz on sites like CNN.com, media coverage, and links from news sharing sites like Reddit.
+
+By comparison, Connecticut reported just under 80,000 Web site visits by the end of Tuesday.
+
+The more likely source of the problems, security specialists say, was growing pains. Some questioned whether the government had enough database resources to accommodate the huge spike in first- and second-day Web site traffic from insurance shoppers. Federal officials have yet to respond to questions about the problems.
+
+Planning for that kind of capacity can be tricky, experts say, because if the government spends vast amounts of resources accommodating first-day traffic, its databases could sit idle a week later. If the government underinvests, computer specialists say, they could encounter the problems that cropped up Monday.
+
+“It’s a cost-benefit trade-off,” said Matthew Prince, the founder of Cloudflare, a San Francisco start-up that distributes vast amounts of Web traffic across the Internet. “At the end of the day, you can solve these problems by throwing more money at them. In this case, they could have built an entire data center to accommodate first- and second-day traffic, but at some point, it would have sat empty.”
+
+Both the federal and New York State health exchanges rely on Akamai, which helps distribute Web traffic across the Internet, and was able to keep the Web sites online even as millions flocked to them.
+
+The real issue, security experts said, was not that users couldn’t access the site, but that databases could not keep up with the influx of requests. When users tried to register their accounts, they would encounter annoying error messages, such as one many users encountered informing them that the answers to their security questions were not sufficient.
+
+Services like Cloudflare, Akamai and Amazon Web Services help spread traffic from one site to Web servers all over the world, so that an unexpected peak in traffic does not bring down a site. But scaling databases, where a company’s actual data is stored, can be much harder.
+
+“These are systems that have finite resources,” Mr. Prince said. “If too many requests go to them, they stop working.”
+
+New York State officials said on Tuesday that they were doubling capacity to address application processing delays.

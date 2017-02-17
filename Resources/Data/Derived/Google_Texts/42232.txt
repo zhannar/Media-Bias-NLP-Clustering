@@ -1,0 +1,49 @@
+Kristin Madison
+
+March 17, 2016
+
+Editor’s note: This post is part of a Health Affairs Blog Symposium on Health Law stemming from 4th Annual Health Law Year in P/Review conference hosted by the Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics at Harvard Law School. Holly Fernandez Lynch wrote an introductory post in January 2016 and you can access a full list of symposium pieces here or by clicking on the “The Health Law Year in P/Review” tag at the bottom of any symposium post. You can also watch a video of the presentation on which this post is based.
+
+Wellness programs remain a popular feature of the employer landscape, but the legal environment surrounding them has long been uncertain. In April 2015, the Equal Employment Opportunity Commission took a significant step toward resolving this uncertainty by formally proposing a rule clarifying the applicability Americans with Disabilities Act of 1990 (ADA) to wellness programs.
+
+In doing so, it staked out middle ground between an approach that would have sharply limited the use of incentives in wellness programs, and a more permissive approach consistent with regulations already in place under the Affordable Care Act (ACA). The proposed rule has the potential to shape, or reshape, future wellness programs. The extent to which it will do so, however, remains uncertain.
+
+Health Risk Assessments, Biometric Screenings, And The ADA
+
+According to the Employer Health Benefits 2015 Annual Survey published by the Kaiser Family Foundation and the Health Research & Education Trust, wellness programs have become very common at firms with more than 200 employees. Of large firms that offered health benefits, about half reported offering health risk assessments (HRAs), which ask employees about their health status and health behaviors; a similar number provided screenings for things like blood pressure or body mass index (Exhibits 12.1 and 12.5).
+
+Large firms often provide incentives to employees to participate in these programs. About 62 percent of survey respondents incentivized HRA completion, while about 56 percent incentivized biometric screening (Exhibits 12.3 and 12.6). About 20 percent of the large firms that conducted biometric screening tied financial incentives to biometric outcomes, and in more than 40 percent of these firms, incentives exceeded $500 (Exhibits 12.6 and 12.9).
+
+HRAs and screenings can benefit employees by informing them about health risks and linking them to programs that address these risks. At the same time, by revealing information about employee health, they potentially increase the risk of health-related discrimination.
+
+As I have described in a previous post, the drafters of the ADA acknowledged both the benefits and the risks of HRA-based wellness programs by limiting disability-related inquiries and medical examinations, but carving out an exception for voluntary wellness programs. The question of how to define “voluntary” lingered for many years. Is a program voluntary if an employee is offered an incentive for completing an HRA? What if the incentive is very large, or takes the form of a penalty?
+
+In its April 2015 proposed rule, the EEOC decided to permit employer health plans to tie incentives to HRAs involving disability-related questions as well as to biometric exams. It limited the magnitude of such incentives, however, to 30 percent of the total cost of employee-only coverage. While this limit closely resembles the 30 percent ceiling applicable to health-contingent incentives under the ACA (42 USC § 300gg-4(j)(3)(A)), in some ways it is more restrictive.
+
+Because HRA incentives are pulled under the ADA’s ceiling, there will be less room remaining to accommodate health-contingent incentives, such as premium discounts tied to cholesterol levels. Furthermore, the ACA ceiling is set at 30 percent of the cost of family coverage when incentives are offered to family members; the proposed rule makes no mention of such an adjustment. As a result, the proposed rule effectively represents a compromise between those who oppose incentives and those who would like to take full advantage of incentives permitted under the ACA.
+
+The ADA Safe Harbor
+
+In light of recent litigation, however, it is unclear how much influence this compromise will have in the long term. What might undermine the compromise? The ADA itself.
+
+The ADA places limits on employers’ abilities to engage in disability-related inquiries or medical examinations. These limits are subject to the wellness program exception that the EEOC addressed in its April proposed rule. But these limits are also potentially subject to an ADA “safe harbor” that states that certain ADA provisions “shall not be construed to prohibit . . . a person or organization . . . from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that are based on underwriting risks, classifying risks, or administering such risks that are based on or not inconsistent with state law” (42 USC § 12201(c)(2)).
+
+In 2011, a federal district court found that this provision applied to an employer wellness program that imposed surcharges on employees who refused to complete an HRA questionnaire and biometric exam. Seff v. Broward County, 778 F. Supp. 2d 1370 (S.D. Fla 2011), affirmed, 691 F.3d 1221 (11th Cir. 2012). The court noted that the employer’s insurer paid for and administered the program, and that only employees enrolled in the health plan were eligible to participate in the program. It therefore found that the wellness program was a benefit plan term.
+
+Was it based on “underwriting risks, classifying risks, or administering such risks?” The court states that the “program renders aggregate data to the County that it may analyze when developing future benefit plans,” that the County “uses this information to classify various risks and decide what types of benefit plans will be needed,” and that “the wellness program is an initiative designed to mitigate risks.”
+
+The EEOC criticized the Seff decision in a footnote to its proposed rule, arguing that the Seff interpretation of the safe harbor provision would render the ADA’s wellness program exception superfluous. But in an opinion issued in December 2015, a different federal district court rejected this argument.
+
+In EEOC v. Flambeau, Inc., the court noted that the safe harbor provision applies only to benefit plan-based wellness programs, whereas the wellness program exception applies to programs offered outside of benefit plans. The court further noted that “defendant’s consultants used the data gathered through the wellness program to classify plan participants’ health risks and calculate defendant’s projected insurance costs” and “made recommendations regarding plan premiums,” including a recommendation for a smoker surcharge. The court concluded that “[t]hese types of decisions are a fundamental part of developing and administering an insurance plan and therefore fall squarely within the scope of the safe harbor.”
+
+Because of its nature, HRA data is likely to be useful to “developing and administering an insurance plan.” This interpretation would therefore sweep many wellness plans within the ADA’s safe harbor. But was the safe harbor intended to cover such a broad range of activities?
+
+A House Report from 1990 indicates that the purpose of the safe harbor was to shield the insurance industry from the impact of the ADA. The report emphasizes that the ADA’s prohibition on discrimination did not preclude insurers from taking into account increased risks. It states that the safe harbor was added:
+
+to make it clear that this legislation will not disrupt the current nature of insurance underwriting or the current regulatory structure for self-insured employers or of the insurance industry in sales, underwriting, pricing, administrative and other services, claims, and similar insurance related activities based on classification of risks as regulated by the States.
+
+Can this long list of insurance-related activities be reduced to “developing and administering an insurance plan?” Does it encompass initiatives aimed at reducing risks, as opposed to just classifying them? Perhaps not, but neither this description nor the statutory language is a model of clarity.
+
+Continued Uncertainty
+
+The EEOC’s proposed rule has not yet been finalized, and more litigation on the applicability of the safe harbor to wellness programs is likely. As a result, despite the EEOC’s recent efforts, the legal uncertainty surrounding wellness programs continues.

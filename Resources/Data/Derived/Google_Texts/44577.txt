@@ -1,0 +1,35 @@
+Despite having more than three and a half months under its belt, Obamacare's state and federally run health exchanges have been wrought with glitches.
+
+For some state-run exchanges it's been nothing more than server-related overflow issues, but for many, such as the federally run Healthcare.gov, or state-run exchanges like Hawaii, it's been due to poorly executed IT source code that made their websites practically unusable for weeks or months. Although the majority of errors on Healthcare.gov have been fixed, the stigma of those two glitch-filled months remains in the forefront.
+
+Other opponents of the health-care reform law would point to its fluid deadlines as perhaps its greatest flaw. Since the summer we've witnessed the delay of the employer mandate -- the actionable component of the Patient Protection and Affordable Care Act that requires employers of 50 of more full-time employees to offer them health insurance and to subsidize that employees' health coverage if it crosses a certain percentage of income or face a penalty -- as well as a twice-delayed December coverage cutoff date in order to have insurance by Jan. 1. In other words, these opponents would claim that the structure of the law itself, and an inability of the U.S. government to stick to set deadline, is Obamacare's greatest flaw.
+
+This could be Obamacare's biggest flaw
+
+Yet for all of Obamacare's delays and technical glitches, there is potentially a bigger flaw that I believe could dwarf both of these concerns. That gigantic flaw is none other than cybersecurity concerns surrounding Obamacare.
+
+We often hear about the safety concerns of using a debit card and having a thief or hacker steal our credit card information or PIN, but we're talking about a completely different can of worms with Healthcare.gov. A potential security breach into Healthcare.gov could give hackers access to names, email address, physical addresses, Social Security numbers -- basically the whole enchilada.
+
+The Centers for Medicare and Medicaid Services, which oversees the day-to-day operations of Healthcare.gov, notes that no such attacks have been noted by the agency since it went live on Oct. 1, but a recent report by Reuters this past week would suggest that the site is far from safe.
+
+According to David Kennedy, CEO of computer security consulting business TrustedSec, there are more than 20 security vulnerabilities that have been uncovered in Healthcare.gov since it went live on Oct. 1 that have yet to be dealt with. Not only can hackers steal individual information according to these potential flaws, but they could upload malware that could infect users utilizing Healthcare.gov's website, creating a problems that could quickly cascade.
+
+Can Obamacare's biggest flaw make you rich?
+
+While the potential for a cybersecurity breach is a very real threat, the possibility that you as an investor could profit from the millions, perhaps billions, of dollars being thrown at protecting your vital information is also quite tangible.
+
+One plain-as-day move that the Obama administration recently made was to dump the primary architect behind Healthcare.gov, CGI Group, and replace it with IT-consulting juggernaut Accenture (NYSE:ACN) when CGI's contract expires at the end of February. CGI's tenure as lead contractor has been miserable, with Healthcare.gov practically unusable during the majority of its first two months, Vermont's health exchange still struggling to get off the ground, and Hawaii's Connector bringing up the caboose in national enrollments. Accenture, on the other hand, steps into a role where baseline expectations are already low (thanks to CGI's multiple fumbles), giving it the time to potentially focus its efforts on improving security measures with Healthcare.gov.
+
+Beyond Accenture, it's a bit tougher to see who might benefit directly, but a few names nonetheless stand out.
+
+Take Science Applications International (NYSE:SAIC), perhaps better known by its shorthand, SAIC. SAIC is the cybersecurity brainchild behind a number of government agencies, including the Department of Homeland Security as well as various CMS programs. Because of the pressing need for cybersecurity -- because, let's face it, cybersecurity is no longer optional given how advanced hackers have become these days -- companies like SAIC can still land new government contracts even while government spending shrinks. There are few segments of government spending that are practically limitless, but SAIC is sitting in one of those sweet spots.
+
+Along those same lines is Booz Allen Hamilton (NYSE:BAH), which acts as a technology and cybersecurity consulting company to businesses and the U.S. government. Like SAIC, Booz Allen Hamilton is intricately involved in consulting the U.S. government and its military branches on how best to secure its IT infrastructure. As a known consultant to Healthcare.gov already, it would only make sense that the U.S. government could continue to funnel more money and contracts Booz Allen Hamilton's way to ensure the security of millions of Americans' personal information.
+
+Two more dark-horse candidates that could see a dramatic boost in their cybersecurity business are Amazon.com (NASDAQ:AMZN) and Palo Alto Networks (NYSE:PANW).
+
+Amazon.com's EC2 virtual data centers are a lot cheaper to operate and provide more storage space than most cloud-computing companies, making Amazon a potentially smart choice for Obamacare's massive data needs moving forward. Furthermore, Amazon's Web services already come with cybersecurity measures, and I certainly don't recall seeing any massive cyber-attacks successfully perpetrated against Amazon since 2008, long before the cloud was what it is today.
+
+I believe Palo Alto Networks holds a unique advantage over stodgier security companies in that its security applications are based in the cloud and geared more toward a social media-type setting. Put plainly, Palo Alto's firewalls allow for the company to handle nearly all source-code updates from the business end, requiring little effort from the end user, yet it can still protect users against older IT-architecture cyber concerns.
+
+It remains to be seen what, if anything, CMS plans to do about protecting the integrity of Healthcare.gov from hackers, but I would certainly recommend keeping an eye on these five companies as possible beneficiaries.

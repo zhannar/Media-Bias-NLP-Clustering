@@ -1,0 +1,31 @@
+Twitter users who post personal health-related information online may help hospitals predict how many emergency room visits they can expect on a given day, according to new research from the University of Arizona.
+
+Researchers, led by Sudha Ram, a professor of management information systems and computer science at the university, created a predictive model that used tweets to predict roughly how many people would visit a large Dallas hospital's emergency room for asthma-related issues on a particular day.
+
+Ram and her team collected air quality data from environmental sensors near the hospital as well as tweets that contained terms such as "inhaler," "wheezing" or "asthma" over a three- month period. They then used text-mining techniques to narrow down the millions of tweets to those within ZIP codes associated with the hospital's patient population, according to the study.
+
+The data they collected indicated an increase in asthma visits to the emergency department as certain air quality measures worsened and as the number of asthma-related tweets increased. Analysis of air quality measures in combination with tweets enabled Ram and her team to predict ED volume levels on a given day with 75 percent accuracy. Researchers also analyzed the frequency of asthma-related Google searches but found no meaningful relationship between them and ED visits for asthma.
+
+"We realized that asthma is one of the biggest traffic generators in the emergency department," Ram said in the research announcement. "Often what happens is that there are not the right people in the ED to treat these patients, or not the right equipment, and that causes a lot of unforeseen problems."
+
+The healthcare industry is increasingly plugged into Twitter as well, with U.S. doctors, nurses, pharmacists and healthcare consultants comprising 31 percent of the 75,000 health professionals using the social medium worldwide. The benefits of healthcare workers using Twitter are numerous, FierceHealthcare previously reported. Not only does it allow them to collaborate with others in their field, it creates an opportunity to raise awareness with their expertise, particularly on subjects where online misinformation abounds, such as vaccination.
+
+To learn more:
+
+- here's the study (.pdf)
+
+- read the announcement
+
+Related Articles:
+
+Healthcare professionals flock to Twitter
+
+3 reasons healthcare pros should join Twitter
+
+How Twitter can help track the spread of influenza
+
+How social media can combat chronic disease
+
+Hospitals turn to social media for 'virtual' patient advice
+
+Patients choose hospitals based on social media

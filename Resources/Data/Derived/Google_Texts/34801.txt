@@ -1,0 +1,55 @@
+Health care information technology is growing fitfully — hurt and helped by government policies. Still, HCIT software makers Cerner (CERN), Allscripts (MDRX), Athenahealth (ATHN) and Quality Systems (QSII) are expected to see their combined revenue rise more than 12% this year to $8.14 billion, and 11%, to $9 billion, next year, Wall Street analysts estimate.
+
+That’s an achievement, since the biggest spenders — hospitals — are expected to increase their IT budgets by only 8% in 2016, up from 6%-7% in 2015, says analyst Matthew Gillmor with investment banker Robert W. Baird.
+
+That 8% increase will be shared with other companies that compete in HCIT, including IBM‘s (IBM) Watson Health, an analytics provider launched last year that is expected to ramp up to 2,000 employees. Another rival is Verona, Wis.-based, privately held Epic Systems, which employs some 8,500 workers and reportedly generated $1.7 billion in sales in 2014.
+
+The workforce for Kansas City, Mo.-based Cerner, the largest of the HCIT software pure plays, reached 22,000 employees last year after the company acquired Siemens Health Services for $1.3 billion. Analysts polled by Thomson Reuters expect Cerner’s revenue to rise 13% in 2016, to $5.01 billion.
+
+Doctors Struggle With New Laws
+
+HCIT growth faces a unique struggle, heavily influenced by policymakers in Washington, D.C., determined to expand and improve care while keeping a lid on patient costs. While federal rules have stimulated HCIT growth, they’re also challenging hospitals’ ability to keep up, compromising doctors and nurses’ ability and time to provide care, some observers say.
+
+The American Recovery and Reinvestment Act of 2009, which includes the Health Information Technology (HITECH) Act, established the Electronic Health Records Incentive Programs that reward and punish hospitals and doctors’ practices for the pace of their EHR transition. Then the Affordable Care Act of 2010, better known as ObamaCare, and most recently the Medicare Access and CHIP Reauthorization Act of 2015 (MACRA), which became law in April, also hasten higher HCIT standards.
+
+In between the lawmaking, rule writers continue to draft implementation language that the federal director of HCIT standards in October called an “IT bonanza.”
+
+This is good for the software vendors as they race to refine and sell Population Health software. PopHealth records expenses, tracks patient care and outcomes, incorporates patients’ evaluations of their care, parses data from similar patient populations, encourages communication between caregivers, and collects performance metrics throughout a hospital — all intended to improve patient care while giving regulators tools to measure compliance.
+
+Cerner calls its PopHealth platform HealtheIntent and says it’s used “to address the growing demand, payer pressures and policy mandates organizations face today.”
+
+Those policy mandates are driving some doctors, nurses and hospital IT executives up the wall — and some are pushing back.
+
+Health Rules Changing — Again
+
+At this month’s JPMorgan Healthcare Conference in San Francisco, where Cerner was among presenters, Andy Slavitt, acting administrator of the Centers for Medicare and Medicaid Services (CMS), which oversees HCIT, tweeted: “In 2016, MU as it has existed – with MACRA – will now be effectively over and replaced with something better.”
+
+In other words, the rules are changing again, maybe.
+
+MU is meaningful use, a protocol that has guided health care IT spending and systems development, and which the director of HCIT standards, Steven Posnack, has been implementing with a certification process under the auspices of MACRA. (At 39,010 words, MACRA is 10% the length of ObamaCare, which most consider complex.)
+
+In November, Dr. John Halamka went public with the case for changing or eliminating MU.
+
+“I’m likely going to violate many rules with this post,” he prefaced in a blog post. He’s chief information officer of Beth Israel Deaconess Medical Center, the 631-bed teaching hospital for Harvard Medical School. Halamka wrote in a post titled “The Path Forward for Meaningful Use” that MU had outlived its usefulness and is doing damage.
+
+“Stage 1 created a foundation of functionality for everyone,” Halamka wrote. “That was good.
+
+“Stage 2 tried to change too much too fast and required an ecosystem of applications and infrastructure that did not exist. … Stage 3 makes many of the same mistakes as Stage 2, trying to do too much too soon. …
+
+“Clinicians cannot get through a 12-minute visit, enter the necessary Stage 3 data elements, reconcile problems/allergies/medications from multiple institutions, meet the demands of the Stage 3 clinical quality measures, make eye contact with patients and deliver safe medical care. There needs to be a new approach.”
+
+As a veteran medical-surgical registered nurse at a big California hospital told IBD: “We’re set up to fail.”
+
+Electronic Health Records ‘Elusive’
+
+This uncertainty helps explain why HCIT spending is growing slowly as hospital administrators hesitate to invest in systems requiring, as Halamka put it, “infrastructure that did not exist” under a “meaningful use” protocol of questionable viability for a MACRA law just 9 months old, with pending regulations yet to come.
+
+Two days after Slavitt’s declaration to do away with MU under MACRA, his office issued its regular newsletter, “What’s Happening in Health IT,” highlighting news of the “Adopted 2015 Edition Criteria for Testing and Certification Under the Health IT Certification Program” and “In Preparation for Testing, ONC Publishes Certification Companion Guides,” among other HCIT must-reads.
+
+“HCIT spending is still in the process of resetting post the MU bonanza, but the overall environment remains healthy,” said Baird analyst Gillmor in a research note issued Jan. 8.
+
+He says the electronic health records replacement “opportunity remains elusive,” even though many hospitals need to get moving on their EHR efforts.
+
+Chicago-based HIMSS Analytics says only 4% of U.S. hospitals had achieved the most advanced Stage 7 of EMR proficiency as of Q3 2015, with 25% in Stage 6 and the remainder at the lower levels.
+
+“Replacement activity has been slow, and we expect this will continue in 2016,” said Gillmor. “CERN and Epic will continue to win the lion’s share of replacements.”

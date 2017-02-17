@@ -1,0 +1,27 @@
+An upcoming drill aimed at testing the ability of the health sector to communicate with the government in the face of a debilitating cyberattack might just end up infiltrating HealthCare.gov, the top network security official at the Health and Human Services Department told Nextgov.
+
+Intertwined systems that shuttle personal health information, such as the Obamacare website, can create headaches for entities trying to exchange threat intelligence while protecting privacy. So, in anticipation of a sector-wide hack someday, hospitals, insurers, HHS and other health-related organizations will rehearse real-time information sharing during a live, simulated attack.
+
+"HealthCare.gov is one of the systems that connect these players to the government," HHS Chief Information Security Officer Kevin Charest said in an interview. That being the case, testers may exploit that connection during the exercise, he said.
+
+Separately, security testers routinely try to penetrate HealthCare.gov to identify weaknesses, he added.
+
+Charest spoke on Monday amid allegations by House Oversight and Government Reform Committee Chairman Darrell Issa, R-Calif., and other Republicans that data is less secure in the online hub than officials have claimed.
+
+This spring’s simulated attack, scheduled for March, will not target a specific website, network or facility, but rather execute an assault that touches on all segments of the industry. The storyline is still in development.
+
+Peripherally, in the course of this exercise, HealthCare.gov might be drawn into the attack. “We want to get as many folks playing as we can,” Charest said.
+
+Complicating security matters that arise from the interconnected networks, health care officials also must comply with medical privacy laws and be attuned to liability issues.
+
+In an industry where information sharing can break the law, leaders are still trying to figure out how to communicate, HHS officials said.
+
+"We may create a different way of speaking about incidents -- maybe we can find a way to genericize them such that they are non-attributable," Charest said. "Let’s get the information out, and let’s let folks know what’s happening, but do it in a way that protects the entity doing the sharing."
+
+The results of the March exercise might prompt entities to change their business practices, not just technology operations.
+
+"We don’t necessarily need a lot about the context if we’re looking at a particular campaign by some would-be attacker,” Charest said. “What we need to understand is the M.O.: How is this attacker going about doing what they are doing? And if we can do that in a way that takes the attribution -- Who might be being attacked and what’s happening in their particular networks? -- out of the equation, I think we [enable] the sharing."
+
+Get the Nextgov iPhone app to keep up with government technology news.
+
+(Image via Olivier Le Queinec/Shutterstock.com)

@@ -1,0 +1,47 @@
+Chapin White and Christine Eibner
+
+February 7, 2014
+
+Although the new coverage options in the Affordable Care Act (ACA) took effect on January 1, 2014, enrollment in its health insurance exchanges, or marketplaces, began several months ago. The federal government recently released enrollment figures through December 2013 for Medicaid and the Health Insurance Marketplaces. These numbers offer some early insights into how the ACA is playing out. Three key findings from our examination of the numbers follow here.
+
+1. Getting To Universal Coverage Will Be A Long Process
+
+The guiding vision behind the ACA is for everyone in the U.S. to be enrolled in adequate health care coverage. The way most high-income countries achieve that goal is to confer health care coverage, more or less automatically, on all legal residents. The premise behind the ACA is different. The ACA is designed to make adequate coverage available and affordable, but individuals still have to “opt in,” meaning they have to do something voluntarily to enroll.
+
+Based on RAND’s COMPARE model, we estimate that there were close to 50 million uninsured legal residents in the U.S. in 2013; these are the ACA’s target population. Today, the vast majority of those 50 million individuals are required to obtain coverage, and about two-thirds of them—32 million—are eligible for either free coverage through Medicaid or a tax-credit subsidized Marketplace plan.
+
+How is the ACA’s voluntary opt-in approach working out? As of the end of December 2013, 7.7 million individuals had gone through the process of applying for Marketplace coverage, 2.1 million individuals had actually enrolled in a private plan, and 1.6 million had been determined by the Marketplaces to be eligible for free Medicaid coverage. Put another way, as of January 1 the ACA had put roughly a 4 million-person dent in a 50 million-person problem.
+
+These modest early enrollment numbers are not a huge surprise, and are roughly in line with analysts’ expectations. What they underscore is that the voluntary path to universal coverage will be a long one, and may plateau well shy of the goal. According to a recent Gallup poll, 38 percent of the uninsured say they are likely not to obtain coverage and, instead, pay the individual mandate penalty.
+
+We have no doubt that the exchange enrollment numbers will climb rapidly in 2014 and beyond, and that many uninsured individuals will reconsider when faced with larger penalties in 2015 and 2016. But, in the meantime, we expect policymakers to begin to grapple with the limits of the voluntary opt-in approach, and at some point turn to a discussion of automatic enrollment mechanisms. There are two avenues this discussion could take. The first is auto-enrollment with an opt-out, meaning that states would proactively enroll uninsured individuals in Medicaid or an exchange plan, but give them the option of declining coverage. The opt-out could be made available to anyone, or limited to individuals who can show they already have adequate coverage or cannot afford the premium. The opt-out approach could move many individuals into coverage, but the state would pretty much have to have the Medicaid expansion in place for it to work—you cannot autoenroll someone below the poverty line into an unsubsidized exchange plan.
+
+Similar considerations may apply to individuals who are disqualified from Marketplace tax credits due to an employer offer, but who could nevertheless face high employer premiums. The second approach, which Vermont is studying, would make all state residents automatically eligible for universal coverage that is financed from a broad-based revenue source, such as a payroll tax. That approach sidesteps the problems with unaffordable premiums, but would require profound changes in how health care is financed.
+
+2. Tax Credit Eligibility Is Strongly Correlated With Enrollment
+
+As of the end of December, 5.1 million individuals had applied for Marketplace coverage and had been determined eligible to enroll, but only 2.2 million had actually enrolled. One reason for that large dropoff is that many individuals find out after applying for coverage that they are not eligible for Marketplace tax credits. Based on our calculations, the likelihood of enrolling in an exchange plan is 62 percent for those who are determined to be eligible for tax credits, and only 19 percent for those who are determined ineligible for tax credits.
+
+We do not have enough information yet to know exactly why so many people were found ineligible for tax credits. However, there are several factors that preclude tax credit eligibility among those eligible for Marketplace plans:
+
+.
+
+Tax credits are only available to people with incomes between 100 and 400 percent of the federal poverty level (FPL). In states that have opted to expand their Medicaid programs, those with incomes below 100 percent of FPL are all Medicaid eligible. However, in non-expansion states, individuals below 100 percent of FPL can fall into a coverage “doughnut hole” with income too high for Medicaid and too low for the exchange subsidies (see below).
+
+People with incomes above 400 percent of FPL are not eligible for tax credits.
+
+People with access to employer coverage are ineligible for tax credits, unless they would have to pay more than 9.5 percent of income for single employee coverage. The 9.5 percent threshold is high relative to the exchange tax credit amounts, and individuals remain ineligible for tax credits even if they would have to pay more than 9.5 percent of income for family coverage.
+
+It remains to be seen whether those individuals found ineligible for tax credits eventually sign up for an unsubsidized exchange plan, obtain coverage through an employer, or remain uninsured.
+
+3. In States That Have Not Expanded Medicaid, People Are Falling Into The Coverage Doughnut Hole
+
+As drafted and enacted, the ACA was designed to offer affordable coverage to the entire population—Medicaid for those with the lowest incomes, employer coverage for those with employer offers, and Marketplace coverage for those who fell in between—with a “no wrong door” policy. The Supreme Court decision in June 2012 partly dismantled that structure, by making the Medicaid expansion optional for states.
+
+Twenty-five states have chosen not to expand Medicaid. In those non-expansion states, there is a coverage gap, or doughnut hole, for parents with dependent children between the income level where Medicaid eligibility ends (typically well below poverty) and the income level where subsidized exchange coverage starts (100 percent of poverty). Childless adults in those states are generally ineligible for Medicaid no matter how low their incomes, and so face an even larger coverage gap. Those gaps show up in the Marketplace enrollment data for the non-expansion states:
+
+Source: author’s analysis based on Department of Health and Human Services, 2014, “Health Insurance Marketplace: January Enrollment Report” and Department of Health and Human Services, 2014, “Medicaid & CHIP: December Monthly Applications and Eligibility Determinations Report”
+
+Note: Excludes Colorado, Hawaii, and Massachusetts because of missing data. *Totals may not sum to 100 percent due to rounding.
+
+In the non-expansion states, 42 percent of those who completed applications were found ineligible for both Medicaid and Marketplace tax credits, and enrollment in those states is correspondingly low. We do not know exactly how many people fell into the doughnut hole, but, based on the data from the Medicaid expansion states, it seems reasonable to assume that it was roughly 13 percent (i.e. 42 percent minus 29 percent) of applicants in non-expansion states. The vision of the ACA was “no wrong door” and an affordable option for everyone, but it appears based on the data available so far that, in the non-expansion states, there is a closed door.

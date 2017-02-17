@@ -1,0 +1,21 @@
+It’s been two weeks since the Federal Communications Commission voted to overhaul the way broadband Interner service is regulated, changing it from a Title I information service to a Title II telecommunications service—essentially making it a utility, like the phone system—in order to enforce net neutrality rules.
+
+And yet only today is the 300-page order, drawn up by FCC Chairman Tom Wheeler and supported by the commission’s two Democratic members, available for public viewing. This was perhaps the most consequential shift in Internet policy in nearly two decades, and it was put in place without full public access.
+
+And yet even though the rules are now available for all to see, it remains somewhat unclear how exactly they will work in practice. As The New York Times notes today, the FCC is “set to decide what is acceptable on a case-by-case basis. The regulations include a subjective catchall provision, requiring ‘just and reasonable’ conduct.”
+
+What counts as ‘just and reasonable’ will, naturally, be up to the whims of the FCC.
+
+In some ways, this is the worst part of the agency’s net neutrality push: It’s not even that it puts in place bad rules; it’s that it installs potentially strict but ultimately vague rules, and leaves the FCC as the final arbiter of what is and isn’t acceptable, with little to constrain its decisions. The FCC will have some guidelines, of course, but Wheeler’s book-length bureaucratic proposal will surely provide legal ammunition for whatever creative interpretation the agency settles on (or desires) at any given time.
+
+Wheeler’s description of how this will play out is flawed but also instructive. “We don’t really know. We don’t know where things go next,” he said, according to The New York Times. “We have created a playing field where there are known rules, and the F.C.C. will sit there as a referee and will throw the flag.”
+
+On the contrary, under the standard set by the order, the FCC isn’t enforcing known rules; it is roaming the field making the rules up on the spot. Imagine a game in which the referee was authorized to throw a flag for “unjust” or “unreasonable” conduct any time players attempted a new strategy or innovative style of play. Players might have some general sense of what would trigger a ref’s particular sensibility, but wouldn’t ever know for sure.
+
+As a result, you’d expect two things to happen: Players would deploy new moves more cautiously, and teams would spend more time pressuring the refs to use their wide discretion to allow certain types of plays—probably while arguing that their opponents’ signature plays were out of bounds.
+
+This is more or less what to expect in the wake of the FCC’s rules: ISPs will probably invest and innovate more cautiously, knowing that the FCC has veto power over their decisions. And armies of expensive telecom lawyers will spend their days arguing about what, exactly, constitutes “just and reasonable” in a wide variety of circumstances.
+
+As telecom analyst Roger Entner told the Times, “Telecom lawyers in Washington popped the corks on the champagne,” when the rules were passed last month. “It will be at a least a hundred million in billable hours for them. This will go on for a while.”
+
+Critics sometimes describe net neutrality as a government takeover of the Internet. This is in most ways an exaggeration; the Net will remain for the most part privately operated, with competing though heavily regulated firms continuing to own and operate the infrastructure. But though this line is an exaggeration, it has a grain of truth, in that the FCC has now inserted itself in a potentially prominent into the decision-making of these private Internet service providers. ISPs will now need the FCC’s permission, at least tacitly, to innovate and to invest, and they will inevitably make major business decisions with the FCC’s veto power in mind. The agency, and its murky “just and reasonable” standard, will be a shadow presence whenever any major move is contemplated. The publication of the FCC’s order, in other words, mostly serves to confirm that the rules will mean whatever the agency wants them to mean.

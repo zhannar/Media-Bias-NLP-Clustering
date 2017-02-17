@@ -1,0 +1,17 @@
+Autism Spectrum Disorder (ASD) may be associated with an overproduction of inhibitory neurons, according to a new study.
+
+ASD is a group of complex neurodevelopmental disorders characterized by communication problems, social deficits, and repetitive behaviors. Some studies have revealed a link between certain genes and ASD, but the majority of cases are idiosyncratic, meaning their origins are a mystery.
+
+“These are patients with idiopathic autism that do not share any genetic causes, and yet the authors find phenotypes shared between their cells. That’s impressive,” neuroscientist and stem cell biologist Alysson Muotri, of the University of California, San Diego, told The Scientist. Muotri was not involved in the study. “If someone had asked me, I would have said, ‘You won’t find anything in common, it’s probably going to be a mixed bag.’ But no... there seems to be key things that are dysregulated in all of them.”
+
+In the study, researchers gathered skin cells from four male ASD patients and their four biological fathers who did not have ASD. They converted these cells into induced pluripotent stem cells, meaning they could subsequently be directed to develop into any type of cell. The team turned them into cellular aggregates that resembled the telencephalon — the embryonic structure from which the brain’s cerebrum develops.
+
+Analysis showed considerable differences between the cells of those with ASD and the ASD-free cells. The ASD cells tended to have unregulated gene expression involved in synapse assembly, neuronal development, and cell proliferation. The patients’ cells also divided faster than their fathers’ cells. In a second look, the researchers determined that only inhibitory neurons were increased, and excitatory ones were not affected. Among the consistently upregulated transcripts was the messenger RNA and the encoding FoxG1, an important factor in telencephalon development.
+
+Researchers suggested that excess inhibition early in development may affect the way neurons are connecting with each other.
+
+Apart from identifying possible mechanisms associated with the development of ASD, the study also showed how patient-derived organoids may be helpful for providing clues about other neurological disorders with mysterious causes. The reasons for Alzheimer’s disease and Parkinson’s, for example, are still largely unknown.
+
+“We think that these are very complex disorders and that it is probably very hard to find similar molecular pathways in idiopathic groups,” Muotri said, “but maybe not. ... This paper offers the perspective that it’s doable.”
+
+Source: J Mariani et al., FOXG1-dependent dysregulation of GABA/glutamate neuron differentiation in autism spectrum disorders. Cell. 2015

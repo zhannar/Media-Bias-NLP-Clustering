@@ -1,0 +1,47 @@
+According to the American Cancer Society, breast cancer is the most commonly diagnosed type of cancer on an annual basis within the United States. However, when it comes to cause of death, no cancer is more terrifying than lung cancer.
+
+The deadliest type of cancer
+
+ACS statistics point to an estimated 221,200 cases of lung and bronchus cancer diagnosed in 2015, with an estimated 158,040 people dying from the disease, or more than one in four cancer-related deaths. In other words, lung cancer kills as many people each year as breast, colon, prostate, and pancreatic cancer combined. It's a statistic I hold near and dear to my heart, as I lost my mother to lung cancer in 2010.
+
+What's even more worrisome is that, while the survival rate has moved substantially higher in other cancer types over the last couple of decades, lung cancer five-year survival rates haven't witnessed much of an uptick, rising from 12% between 1972 and 1978 to 18% between 2004 and 2010. ACS data demonstrates that five-year survival rates for localized lung cancer are slightly better than 50%, but survival rates for regional or metastasized lung cancer drop to 27% and 4%, respectively, after five years.
+
+Improved consumer education regarding the dangers of smoking has certainly played some role in stymying lung cancer. Unfortunately, lung cancer isn't a disease only reserved for smokers. That's why it's important for drug developers to devote ample resources to discovering new treatment pathways for this terrible disease.
+
+Lung cancer treatment gets personal
+
+The good news is that we may be on the cusp of seeing pharmaceutical companies make a genuine dent into lung cancer -- and it all ties back into the push toward personalizing treatments for patients.
+
+In previous decades, global chemotherapies were used to treat lung cancer. While those chemotherapies -- often platinum-based -- did usually lead to some cancer cell death, they also killed proliferating cells indiscriminately, meaning healthy cells perished as well and the patient wound up dealing with a poor quality of life during treatment. New therapies seek to change this, with efficacy and response rates much improved from past-generation global treatments.
+
+Here are a few lung cancer treatments (some approved, and some still in clinical trials) that are making things personal, and could push the survival and quality of life needles significantly higher.
+
+Keytruda & Opdivo
+
+In terms of therapies approved by the Food and Drug Administration, few have been as exciting as cancer immunotherapies Keytruda from Merck (NYSE:MRK) and Opdivo from Bristol Myers-Squibb (NYSE:BMY).
+
+Cancer immunotherapies work by enhancing the body's immune system to more efficiently locate and kill cancer cells. Most cancer cells are able to go undetected by the immune system, which is what allows them to grow and potentially spread. Checkpoint inhibitors like Keytruda and Opdivo attempt to fight the immunosuppressant quality of cancer cells and "turn on" the immune system to attack these foreign cells.
+
+Keytruda and Opdivo were both approved first as treatments for an advanced type of melanoma, but have been given the green light by the FDA this year to treat non-small cell lung cancer (NSCLC), the most common form of lung cancer. What's noteworthy is that both immunotherapies were shown to be considerably more effective when targeted at patients expressing high levels of PD-L1, which can bind with PD-1 receptors on tumor cells and is believed to provide an immunosuppressant quality that allows them to go undetected.
+
+Keytruda, which was more recently approved to treat NSCLC, shrank tumors in 41% of the subgroup that identified as having high expression of PD-L1, with the duration of response lasting between 2.1 months and 9.1 months. As for Opdivo, its large study revealed a 27% overall response rate and 2.8-month survival advantage across all subsets. However, focus on just the high PD-L1 expressing patients and the response rate shoots up to 60%, with a survival advantage of around eight months compared to the control group.
+
+Bavituximab & atezolizumab
+
+A number of cancer immunotherapies currently in clinical development also look promising.
+
+Roche's (NASDAQOTH:RHHBY) atezolizumab recently impressed in midstage studies for advanced bladder cancer and advanced NSCLC. In bladder cancer it returned a response rate of 27% for high PD-L1-expressing patients, which may not seem high, but is encouraging given the lack of responses shown with traditional chemotherapy. Within NSCLC, atezolizumab also produced a 27% response rate, but in the subgroup with high PD-L1 expression survival was improved by 7.7 months over the control group. This result is similar to the data that led to Opdivo's approval in NSCLC.
+
+Peregrine Pharmaceuticals' (NASDAQ:PPHM) bavituximab is an immunotherapy as well, but it targets a different pathway -- phosphatidylserine (PS). In tumor cells, PS receptors are located on the outside of the cell instead of the inside as in normal cells. These are the receptors that alert the immune system not to destroy the cell. Bavituximab aims to bind to those receptors in order to prevent the immunosuppressant response and expose cancer cells to the immune system's attacks.
+
+In midstage clinical studies, bavituximab led to a statistically significant improvement in median overall survival. Patients given bavituximab in combination with chemotherapy in a second-line setting lived for a median of 11.7 months compared to the 7.3 months in the chemotherapy monotherapy arm. A phase 3 trial known as SUNRISE is currently under way studying bavituximab in second-line NSCLC, and is expected to yield top-line data in the latter-half of 2016.
+
+Zykadia
+
+Finally, we're witnessing a push toward gene-focused therapies. Drug developers hone in on a particular cancer mutation, then develop (or discover through clinical trials) a drug that best counteracts the mutation.
+
+A good example here is Novartis' (NYSE:NVS) Zykadia, which was approved in late April as a treatment for ALK-positive NSCLC in patients who have progressed after taking Xalkori. ALK-positive lung cancer is fairly rare, only encompassing between 2% and 7% of all diagnosed NSCLC cases, but treatment with Zykadia dramatically improved response rates for patients with this gene rearrangement in clinical trials. Median progression-free survival clocked in at seven months for ALK-positive patients, and an impressive 58% responded in some way to the treatment vis-à-vis tumor shrinkage or elimination. As a breakthrough therapy drug, Novartis' Zykadia was also able to bypass a costly and time-consuming phase 3 study and hit pharmacy shelves years earlier than if it had to run a phase 3 study.
+
+Drug developers push on
+
+We're finally beginning to see the investments in personalized medicine pay off in lung cancer treatments. However, there's plenty more to be done to improve upon a still low five-year survival rate. I look forward to ongoing research into this deadly cancer and hope that one day a long-term solution can be uncovered to improve patient quality of life and survival substantially.

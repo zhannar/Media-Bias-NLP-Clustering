@@ -1,0 +1,25 @@
+In a new report from the California HealthCare Foundation, the report's author, health economist and consultant Jane Sarasohn-Kahn concludes that while the increasing amount of consumer wellness and fitness data collected today has a lot of value for personalized healthcare, it also presents new risks for consumer privacy.
+
+For one thing, as healthcare moves out of the hospital and onto the wrist, the smartphone, or the Facebook wall, healthcare data moves out of the realm of HIPAA, the law designed to protect patients' healthcare data. HIPAA can't protect things like your Fitbit steps, what health search terms you enter into Google, or where you check in on FourSquare.
+
+As Deloitte's Harry Greenspun puts it in the CHCF report, "It's one thing to know you're on a statin. It's another thing to know that you eat fast food three times a week. What is more predictive?"
+
+HIPAA also doesn't govern "health scores", algorithm-generated numbers used by insurers that are similar to credit scores for health. These scores are built entirely from data that rests outside the purview of HIPAA.
+
+"Digital dust can have health implications, even if the actual 'dust' is devoid of health information," Deven McGraw of Mannatt, Phelps and Phillips tells Sarasohn-Kahn in the report. "[The FICO Medication Adherence Score] and other 'scores' could have significant implications for consumers -- arguably as significant as a score generated using health data."
+
+What makes health scores, including the FICO score and the Individual Health Risk Score mandated under the Affordable Care Act, so problematic is that, unlike credit scores, consumers can't even gain access to their own health scores.
+
+Politico's Arthur Allen recently raised the question of whether the use of these scores by employers to isolate at-risk employees is ethical. Allen points out that the trend seems to partly be a result of the ACA's ban on payors denying coverage to people with pre-existing conditions. Since they can no longer choose not to cover unhealthy individuals, instead they're turning to data mining to try to prevent as many expensive chronic conditions as possible.
+
+"Used together, the electronic medical records and wellness promotion enable companies to find their sickest, most expensive employees, and push and cajole them into healthier lifestyles," Allen writes. "The wider use of health care data analytics raises many questions. Does it work? Is the intrusion ethical? Where’s the line between encouragement and coercion?"
+
+But the CHCF report suggests, as Patient Privacy Rights' Deborah Peel has also contended, that non-HIPAA healthcare data is getting around and not just to employers and insurers. Data brokers buy and sell bundles of non-HIPAA consumer health information and the subject of all that data isn't aware it's being collected. They also have no recourse to access it themselves. Even data that is de-identified can often be re-identified, as a number of studies have shown.
+
+And while many people are often unaware of the risks to their data, surveys show just as many are aware but continue to use online and mobile health services that put their data at risk. Sarasohn-Kahn points to data from an iHealthBeat study that found 72 percent of patients willing to share their data believed it could be used to deny them health insurance, and 66 percent believed it could be used to deny them jobs.
+
+The CHCF report concludes with three recommendations for tackling some of these privacy problems. One, control needs to be returned to the consumer, in the form of laws that give people a right to access their own data or clearer and more explicit privacy policies on apps and services. Two, government regulation should be simplified.
+
+"It has become clear that existing laws and policy frameworks have not kept pace with the technology," Sarasohn-Kahn writes. "Furthermore, there is no over-arching national law that addresses citizens' privacy. Instead, user-generated data and health information relate to a patchwork of laws and regulations for which responsibility falls into many federal agencies, along with individual state regulations for specific health and privacy issues."
+
+Finally, another possibility is personal health data lockers, cloud-based technology that would allow people to keep a tighter hold on their own data. Drchrono is currently dabbling in this space, according to the report, as is Dr. Robert Rowley, former chief medical officer at Practice Fusion, with his new startup FlowHealth.

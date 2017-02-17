@@ -1,0 +1,43 @@
+Technology concept: hex-code digital background (Photo: Maksim Kabakou, Getty Images/iStockphoto)
+
+Chicago health officials had a serious problem. The city had long been trying to attack breast cancer among minorities with a program offering uninsured women free mammograms at Roseland Hospital in the predominantly black South Side. But black women – who are far more likely than white women to die of breast cancer – weren't getting screened.
+
+Because traditional public health outreach didn't seem to be working, the city's Department of Public Health decided to do something new: It turned to a Chicago-based data-mining company, Civis Analytics, for help.
+
+Data mining, often employed by political teams and mass marketers, uses statistical analysis to find patterns within large data sets to project trends about individual behavior and demographics.
+
+Civis, a private company with offices in Chicago and Washington, D.C., was formed by members of the data analytics team from President Obama's re-election campaign. Back then, as campaign staffers, they used their skills to identify Obama voters for a get-out-the-vote effort. Later, after the company was formed, Civis employees worked with Enroll America, a nonprofit group, to find people to sign up for health insurance under the Affordable Care Act.
+
+When Civis teamed up with Chicago's health department, it moved on to another health-related mission: to help the city refine its outreach for the breast cancer-screening program by using its big-data tool box to identify uninsured women aged 40 and older living in the South Side.
+
+This project represents a distinctive step in public health outreach, said Jonathan Weiner, professor and director of the Johns Hopkins Center for Population Health IT in Baltimore. But Chicago is not the only city investigating how population data can be used in health programs, he added, citing New York City, Baltimore and San Diego as other examples.
+
+"It's a growing trend that some of the techniques first developed for commercial applications are now spinning off for health applications," he said.
+
+As it happens, in this case, the company didn't have to start from scratch.
+
+"There's pretty rich data" out there, said Kate Jordan, an engagement manager at Civis who leads the company's health practice. The U.S. Census Bureau tracks demographic factors -- such as gender, race, income, location and insurance status – data, Jordan said, that with the right analysis, "can tell us a lot about the statistical mathematical pattern between various characteristics and whether a person might be uninsured."
+
+Civis' side of the project, which it did as a pro bono initiative, began after the city reached out in July. It took about two months, Jordan said, enlisting between two and five Civis employees – analysts, statisticians and data experts – at any given time, though she and another senior analyst did the bulk of the work.
+
+The Civis team sorted through material from the Census Bureau's American Community Survey to uncover how characteristics such as gender, race and income correlate to insurance status.
+
+Civis then used its own survey findings to build an algorithm to predict, with confidence, where, by neighborhood, the uninsured are most likely to cluster. It's "a proprietary way of walking public data onto our own data," Jordan said.
+
+"Neighborhoods have a high rate of uninsurance or a low rate of uninsurance, which makes a lot of sense," she said, since the traits that correlate to whether people purchase insurance often also seem to influence where they live.
+
+From that point, the team was also able to locate women who were likely to lack insurance and who fell into the appropriate age range. The city then used this information to mail fliers to about 5,000 women, according to Jay Bhatt, chief innovation officer and managing deputy commissioner at the health department.
+
+Meanwhile, at Roseland Hospital, staffers were eager for assistance. The mailings "generated quite a bit of buzz," said Nikisha Coleman, a Roseland spokeswoman. For instance, she said, the hospital usually provides fewer than 10 free mammograms per month. But in October, the month the city sent out the mailers, 31 women came in for the free service. She expects that, for months, they will continue to receive telephone inquiries and do more screenings.
+
+"To send out that sort of mailing, it creates awareness," Coleman said. That's important, said Rhonda Perdue, a Roseland staff member who does outreach for the hospital's mammography program. "Most of us who have insurance, who go to the doctor," are reminded about getting mammograms, but that's not true for the uninsured, she said.
+
+The city intends to "continue its approach in leveraging open data and predictive analytics" to address public health issues, a department spokeswoman said. Civis, for its part, "absolutely" sees potential for doing more such public health projects and not just in Chicago, according to Jordan.
+
+But population modeling isn't a silver bullet, said Weiner, the Johns Hopkins professor.
+
+"Identifying the problem, looking at both community and individuals who are in need of services, that's definitely part of what's needed," Weiner said. "But having solutions once you identify the problem … that's far more challenging, and the data alone will not solve the issue."
+
+Kaiser Health News is an editorially independent program of the Kaiser Family Foundation.
+
+Read or Share this story: http://usat.ly/1rkK10t

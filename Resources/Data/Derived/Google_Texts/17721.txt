@@ -1,0 +1,17 @@
+Guest post by Warren Strauss, director of the Advanced Analytics and Health Research Resource Group at Battelle, a private nonprofit applied science and technology development company
+
+From required Centers for Medicare & Medicaid Services (CMS) and Centers for Disease Control and Prevention reporting to Agency for Healthcare Research and Quality (AHRQ) indicators, hospitals now track and report large volumes of data on a daily basis. But how can hospitals use these data to drive improvement initiatives, predict performance for value-based purchasing and improve patient outcomes? For many healthcare IT professionals, these are critical questions that play a big role in shaping the effectiveness (or ineffectiveness) of their hospital's quality improvement program.
+
+The data-driven healthcare movement is premised on the idea that better data will lead to better patient outcomes. By looking at patterns in adverse events, for example, hospitals can determine where they need to focus quality improvement efforts and track the results of those efforts over time. However, many hospitals find it difficult to cut through the clutter and find actionable, meaningful information among the data points.
+
+Missed opportunities for improvement
+
+While nearly all hospitals use data in some form to make quality decisions, evidence suggests that the industry has a long way to go to fully realize the potential of data-driven improvement. It's easy to generate data. Pulling it in a timely fashion and in a format that is usable for decision-makers has proven to be a challenge for many hospital systems.
+
+For example, hospitals can now leverage AHRQ quality data to evaluate their performance and benchmark against their peers. However, organizing the data and producing models of the results is slow; it can take up to seven quarters to get the comparative data back for benchmarking purposes. With this much of a time lag, it is very difficult to link specific policies and procedures to outcomes in order to recommend changes.
+
+At the same time, the sheer volume of data produced is daunting. Sophisticated analytics are needed in order to draw connections between data points and understand the story they are trying to tell. Unless hospitals are able to extract meaning from the data, they will not be able to use it to guide appropriate quality-improvement decisions.
+
+The stakes for hospitals that fail to meet quality standards are getting higher. Increasingly, payers are moving to value-based purchasing and reimbursement models in which hospitals are paid for outcomes achieved, not services rendered. CMS is already moving in this direction, and private insurers are starting to follow suit with their own value-based purchasing programs.
+
+Read the full commentary at Hospital Impact

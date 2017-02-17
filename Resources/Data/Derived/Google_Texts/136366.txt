@@ -1,0 +1,23 @@
+Social Media | Project Spotlight
+
+Students at Clemson U Monitor Social Media for Collaborative Research
+
+Clemson University in South Carolina has developed a Social Media Listening Center (SMLC) for real-time monitoring of online blog posts, tweets, status updates and other public social media communications. Students in the university's Creative Inquiry class use the SMLC for research projects, as do students in management, communications and other classes. Clemson also uses it to monitor online conversations about the university itself, and researchers use it for partnership projects with industry.
+
+Project Inspiration
+
+Jim Bottum, Clemson's chief information officer, was inspired to create the SMLC after a visit to Dell headquarters in Round Rock, TX. He was there on unrelated business when somebody suggested he check out the company's social media command center, which Dell uses to monitor trending online conversations related to the company. According to Barbara Weaver, IT lead of the SMLC at Clemson, Bottum is "a very visionary kind of person," so when he saw Dell's social media command center, he immediately thought of the undergraduate students in the university's Creative Inquiry class for collaborative, multidisciplinary research projects.
+
+"Jim's immediate thought was, Clemson students in Creative Inquiry will discover things that faculty and staff would never think of because they don't feel the same kind of constraints that we do," said Weaver. "They come up with great ideas that just wouldn't cross our minds, so he was excited about the possibility of having them use the Social Media Listening Center."
+
+According to Weaver, Bottum had other visions for Clemson's SMLC as well. She said he wanted to use it to learn what people were saying about the Clemson Computing and Information Technology (CCIT) department, so they could use that information to respond to customers' needs proactively; to work with South Carolina businesses; and to monitor online conversations about the public affairs office, admissions and other campus organizations. "But his first thought was for our undergraduate students," said Weaver.
+
+Implementing the SMLC
+
+Dell mentored Clemson through the process of setting up the SMLC, and the university used the same technology as Dell's social media command center: Dell computers and Salesforce Radian6 social media listening software. Radian6 is hosted in the cloud by Salesforce.com and provides a graphical dashboard of social media content, including trend information, geolocation information and more. Clemson uses the Dell PCs to drive the information from the cloud onto the center's video displays.
+
+The SMLC is located in a single room with six large video panels arranged in a three-by-two configuration on a single wall. "There are six computers tied to the six different screens," said Weaver. "It's all hardware driven and there's a touchpanel on the wall where the professor or the student can say, I want this computer's screen on that display and that one on that display, or they can have it on all of them, or whatever best fits what they want to see." The room also has a a little teaching area for presentations or training.
+
+Clemson's SMLC welcomed its first students in the spring semester of 2012, and it was so successful, the university has already developed a second Social Media Listening Center in another building on campus. Because the team already had experience implementing that type of facility, they tried some different technology the second time around.
+
+The second room also uses Salesforce Radian6 "because we were in a contract and things were going great, so we didn't look at anything else or think about replacing it," said Weaver. But the team wanted to try something different with the second listening center so they could experiment and learn new things. The second Social Media Listening Center uses Mac Minis instead of Dell computers, operated via a Hiperwall video wall system. "Hiperwall drives what is being shown on each screen, so instead of having a touchpanel, we just use a wireless keyboard and interact with the Hiperwall software to get what we want on the screen," said Weaver.

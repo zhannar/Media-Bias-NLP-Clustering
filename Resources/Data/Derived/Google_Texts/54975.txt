@@ -1,0 +1,45 @@
+One of the dirty secrets about “alternative-strategy mutual funds” is that there are alternative ways to calculate a fund’s expense ratio.
+
+Steve R., a 50-something investor from Kansas City, found that out recently when he checked out a local fund he heard about from a friend.
+
+When he reviewed Cognios Market Neutral Large Cap COGMX, -0.40% at MarketWatch.com, he saw a “total expense ratio” of 2.25%. When he looked at a fact sheet on the fund, however, the company listed its total expense ratio at 6.16%. Even the fund’s net expense ratio was 3.95%.
+
+“I think somebody has to be wrong here,” Steve wrote. “Either [MarketWatch] has it wrong or the fund does. … Expenses should be easy enough to calculate and get right.”
+
+But they’re not — and both numbers can indeed be correct — because when it comes to alt funds, calculating the expense ratio is quirky. With alternatives being the hot asset class, knowing why the numbers are different and what they mean will, at the very least, make you a better consumer investor.
+
+Traditionally, a fund’s expense ratio includes the management fee and the costs associated with running the money, but it excludes transaction costs like brokerage and transaction fees. If a fund has high turnover and trades all the time, those costs are paid by the fund, but they are not a part of the expense ratio.
+
+Love locks removed from bridge in Paris (1:09) The weight of love is taking its toll on the Pont des Arts fences in Paris. On Monday, city officials began to remove the famed love locks because of safety concerns.
+
+Ideally, the expense ratio covers fees with a direct connection to investment returns; cutting costs should increase shareholder returns by the same amount.
+
+Investment-related expenses like brokerage costs can be avoided or cut, but doing so won’t automatically increase returns. If a high-turnover fund stops trading so much — cutting trading costs — the fund’s results are completely different.
+
+Alternative funds — especially those using an investment strategy called short-selling — have a lot of those investment-related expenses.
+
+In a short sale, the investor (in this case a fund manager) is betting against a stock, borrowing shares to sell at the current market price. If the stock price drops, the investor buys back the shares and returns them, pocketing the difference in price.
+
+There’s a cost for borrowing the shares, like any other loan. Further, when a company pays a dividend, the short-seller — who doesn’t actually own the shares — actually must pay the dividend out to whoever loaned the shares.
+
+That payment gets reported as an “expense,” and therefore becomes a part of the expense ratio, in the eyes of the U.S. Securities and Exchange Commission and, therefore, on the fund’s documents.
+
+Ratings agencies like Lipper Inc. — which MarketWatch uses to report fund data — and Morningstar Inc. pull the investment-related costs out and come up with their own expense number.
+
+That’s how TFS Market Neutral TFSMX, -0.73% — which faces heavy borrowing costs because the small-company stocks it trades in are less liquid than the big names — show an expense ratio on their website of more than 8%, about four times higher than what Lipper and Morningstar say investors are paying.
+
+Consider that the TFS site reports an expense ratio higher than that of the Cognios fund, but that adjusted ratio reported by the research firms is lower. The way these numbers play out isn’t always intuitive, which makes it hard on investors.
+
+Jeff Tjornehoj, head of Americas Research for Lipper, said that the firm excludes investment-related expenses “because those were only incurred based on how the fund invested.” In that way, they’re like transaction costs and brokerage commissions, which don’t belong in the expense ratio.
+
+Said Tjornehoj: “It would not be fair to say ‘I would have received X% more if the fund hadn’t incurred those expenses’ because those returns were only possible by creating those expenses. It’s not like an expensive management fee that could, in theory, be reduced to zero and returns would be improved by that amount. In this case, returns were solely made possible by incurring investment-related expenses like short interest.”
+
+In other words, to avoid short interest and dividend repayments, a fund would have to stop short-selling, which would pretty much put an end to the idea that it’s an “alternative fund.”
+
+Alt funds do have to overcome those costs, the same way a high-turnover fund must cover the burden of additional transaction costs, but that’s part of the strategy. It’s something managers plan for; a short-seller would never make a trade if they didn’t think the stock would decline enough to make their profit — after all costs — worthwhile.
+
+The Cognios fund, for example, is up more than 10% in the last year, near the top of its peer group, while the TFS fund has gained more than 7% per year, on average, since it opened in 2004. Those are pretty good numbers, achieved regardless of the expense ratio.
+
+But if you are going to use alternative funds, at least look at the gross expense ratio listed in the fund documents and compare it to the raters’ numbers, just to see how big a burden the fund managers are willing to take on, because that’s your money they are playing with.
+
+More from MarketWatch

@@ -1,0 +1,31 @@
+A vital aspect of population health management requires that we communicate with one another and with our patients in a manner that improves outcomes. To achieve this goal, we need true interoperability — access to usable information as well as avenues for communicating it when and where it's needed.
+
+Sounds simple enough. Yet, interoperability has been and continues to be an issue. Why? The data. Getting data in a usable form was the primary goal of meaningful use Stage 1. Incredible amounts of money, energy, time and effort went into making this a reality. Some have called the shift from paper to digital the largest single industry change in history.
+
+But the aftermath of this shift increased the isolation of health-related data. These silos of data virtually screamed to connect with each other. Health information exchanges and electronic health record technology companies pushed solutions for achieving integration and interoperability. Yet, we continue to fall short. The answer must be universal, non-proprietary and accessible.
+
+'Curing' Interoperability
+
+Today, we stand in the midst of meaningful use Stage 2, and the impediments to interoperability are vast, especially for the patient. As long as a patient or provider stays within one system, meaningful data are sent and received. But once the data need to go from one system or network to a different system or network, it is like one system speaks English and the other Chinese, making the data unusable. With many patients having eight or more providers — who often are in completely separate systems — interoperable becomes inoperable. It also means that patients are the only ones who really know who all these providers are and what they are treating. True interoperability means the patient must be a part of the provider communication chain.
+
+The Cures Act went to the House floor on May 21 with bipartisan support. The act goes further than any previous effort to demand interoperability: It gives the Office of the National Coordinator for Health Information Technology the power to decertify and penalize any EHR vendor who is not interoperable. The act, like many of its predecessors, does not adequately define the "how" of interoperability. However, the office has encouraged organizations to adopt direct secure messaging, a transmission standard the office developed.
+
+Direct secure messaging. Known as simply "direct," direct secure messaging provides a universal means for the delivery of data, the security measures necessary to protect the data, and a tool to engage the patient. Every certified EHR was required to demonstrate the use of direct. While meaningful use Stage 2 focused on transitions of care and continuity of care document exchange, the functionality of direct is significantly broader and extends to population health, interoperability and patient engagement.
+
+Getting providers onboard with direct is a significant uphill battle. No one said that modernizing workflows built around faxes and paper would be easy. But the widespread presence of direct in every Stage 2-certified acute and ambulatory EHR system is a significant building block toward interoperable messaging with the patient. After all, a major component of direct is email — secure and identity-validated email — but email nonetheless. And email remains a dominant form of communication and file-based collaboration for billions of Internet users, so it's got a good pedigree.
+
+Many providers have a Web-based patient portal, which is a great start. But these portals typically allow patients to exchange messages only with providers registered on the system. Such a barrier greatly limits patients' ability to involve other members of their care team.
+
+To remove this limitation, direct must be integrated into the patient portal. Application program interfaces allow messaging to be stitched transparently into the portal user interface. Adding direct allows patients to send their medical data to providers and specialists who are not affiliated with the patient portal. This solution enables patients to play a greater role in improving their own health care outcomes.
+
+Mobile health apps. Besides direct-enabling patient portals, another great potential for patient engagement is mobile health or mHealth apps. Just like any other consumer, health-conscious users vote by their actions. And they're downloading mHealth apps from their smartphones and tablets by the millions.
+
+Following a path similar to that of EHR systems, most mHealth apps are introduced to market with proprietary, closed-data silos. In large part, these apps operate in isolation and can't import patient data from other clinical systems. They also don't allow health data to be securely sent to other members of the user's care team, nor directly into the workflow of a provider's EHR system.
+
+Just as meaningful use Stage 2 has required EHR systems to go down the path of interoperability, mHealth apps need to evolve and allow data to be exchanged with care teams and clinical workflows. This evolution will empower mHealth app users to take a more prominent role in producing better health outcomes.
+
+More Interoperability Solutions Expected
+
+Population health is the next, critical step in better patient outcomes. The patients want this, for they know they must be more involved, informed and actively engaged in their own health care. The major obstacle to their involvement is a lack of interoperability. But the solutions keep coming.
+
+Andrew Nieto is a health information technology strategist, and Robert Janacek is the chief technology officer at DataMotion in Florham Park, N.J.

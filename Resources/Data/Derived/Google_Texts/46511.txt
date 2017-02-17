@@ -1,0 +1,37 @@
+For all the problems with HealthCare.gov, one very big, very important piece of Obamacare technology seems to be working well.
+
+It's called the "data services hub"—and it's not nearly as boring as it sounds. When the law's critics raise fears of security breaches, they're talking about the data hub. The hub transmits massive amounts of information about people seeking health insurance, drawing from several federal agencies and communicating with every state's insurance marketplace.
+
+It was initially seen as one of the most likely places for problems to arise in the enrollment process.
+
+So far, though, the reviews are positive.
+
+"It's working well for us," said Chris Clark, the technology program manager for Kentucky's insurance exchange.
+
+The data hub is a massive IT operation that pulls information from myriad federal databases, including records from the IRS, the Social Security Administration, and the Homeland Security Department.
+
+When people apply for insurance through an exchange—whether it's the federally run portal at HealthCare.gov or one of the 14 state-run exchanges—the data hub is the tool for verifying their identity. It's supposed to pull various records to verify that applicants are who they say they are, and also to verify their income and employment information.
+
+Clark said 92 percent of the applicants through Kentucky's exchange have been successfully verified through the data hub.
+
+"We're overjoyed with that 92 percent. I don't know that we thought it would be that high of a success rate," he said.
+
+Several other health care analysts also said the data hub seems to be working well so far, noting that HealthCare.gov has been able to verify their identities—and reject inaccurate information—when they have tried to use the site.
+
+A successful data hub is critical to the enrollment push for the Affordable Care Act and was a prime target for criticism before the enrollment window opened on Oct. 1.
+
+"I have grave concerns about the ability to establish sufficient security in this massive, unprecedented network by Oct. 1.… I fear that our government is about to embark on an overwhelming task that will at best carry an unfathomable price tag and at worst place a target on every American who enters the exchange," Rep. Pat Meehan, R-Pa., said this summer at an Oversight and Government Reform Committee hearing about the data hub.
+
+Republicans in Congress have raised concerns about the data hub and painted it as a magnet for fraud, implying that a sophisticated hacker could gain access to reams of personal health care information.
+
+Many of their fears are unfounded: The data hub doesn't store any information. It's simply a conduit. And it doesn't collect personal health care records.
+
+Still, the hub isn't perfect. And so few people have been able to use the exchanges that bigger issues could emerge down the line, once the system grows.
+
+Andrew Slavitt, a vice president at Optum, the contractor that built the data hub, acknowledged some problems during a House Energy and Commerce Committee hearing Thursday.
+
+But he said the problems haven't been severe—unlike those that have prevented users from accessing the federal marketplace at HealthCare.gov.
+
+"When we have encountered occasional bugs in the Data Services Hub, they have been discrete issues and we have promptly corrected them," he said in prepared testimony. "While future issues could arise and business requirements could change, to my knowledge, the Data Services Hub continues to operate well."
+
+(Image via voyager624/Shutterstock.com)

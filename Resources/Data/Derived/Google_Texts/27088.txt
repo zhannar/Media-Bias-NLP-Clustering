@@ -1,0 +1,93 @@
+The Affordable Care Act’s Reporting Requirements for Carriers and Employers (Part 10 of 24): IRS Issues Final Form 2015 Instructions for Forms 1094-B and 1095-B, 1094-C and 1095-C—Good News for HRAs, Changes to COBRA Reporting, Clarifications for Multiemployer Plans, and More
+
+The IRS recently issued final instructions for Forms 1094-B and 1095-B and Forms 1094-C and 1095-C . The 2015 Instructions for Forms 1094-B and 1095-B implement a suggestion we made in a previous post relating to the reporting of Health Reimbursement Arrangements (HRAs) that are integrated with other group health plan coverage. The 2015 Instructions for Forms 1094-C and 1095-C make a substantive change in the manner in which offers of COBRA coverage are reported and clarify the reporting of multiemployer plan coverage. The Treasury Department and IRS also issued Notice 2015-68 , which announces their intent to propose regulations to reflect recent changes in the law (e.g., the Expatriate Health Coverage Clarification Act of 2014) and to clarify existing regulations (e.g., the reporting of coverage under integrated HRAs, as discussed below.
+
+Reporting of HRAs
+
+Our previous post entitled, The Affordable Care Act's Reporting Requirements for Carriers and Employers (Part 5 of 24): Reporting of Health Reimbursement Arrangements under Code § 6055 discussed an apparent change of position in the draft instructions for IRS Forms 1094-B and 1095-B that, if implemented, would (among other things) require the separate reporting of HRAs that are integrated with fully-insured group health plan coverage. We opined in that post that such a rule would be particularly burdensome for small employers, i.e., those employers with fewer than 50 full-time and full-time equivalent employees, who fully insure their group health benefits. These employers presumed that they had no reporting obligations. The carrier would be preparing and filing the Forms 1094-B and 1095-B, and the employer would not be required to file Forms 1094-C and 1095-C. The draft rule would have required small employers to get into the reporting business. In addition, large employers with an integrated HRA that fully-insure would have to complete Part III of Form 1095-C.
+
+The final 2015 Instructions to Form 1094-B and 1095-B do not adopt this approach to HRA reporting in the case of an integrated HRA that is paired with a group health plan of the same plan sponsor. But what, exactly, is an "integrated" HRA?
+
+Viewed in isolation, HRAs impose annual limits, and they generally do not provide first dollar coverage for preventive services. Such an HRA—which is referred to as a "stand-alone" HRA—would ordinarily trigger ACA penalties if the arrangement covers active employees. But HRAs for the most part do not operate in isolation. Rather, the vast majority of HRAs provide amounts that can be applied by employees and their dependents to reduce cost-sharing and/or to pay premiums under the employer's primary group health plan. Where this is the case, and where certain additional requirements (enumerated below) are satisfied, the HRA is said to be "integrated" with the employer's group health plan. Integrated HRAs are permitted to piggy-back on the employer's primary group health plan for purposes of determining whether the combined arrangement complies with the ACA insurance market reforms. (For a discussion of integrated and stand-alone HRAs, please see this presentation I gave earlier this year on the intricacies of health premium reimbursements.)
+
+For an HRA to be integrated with an employer's group health plan that provides major medical benefits (or, in the parlance of the ACA, the plan provides "minimum value"), it must satisfy the following criteria:
+
+The employer must offer a group health plan to the employee that provides minimum value;
+
+The employee receiving the HRA must actually be enrolled in a group health plan that provides minimum value, regardless of whether the employer sponsors the plan (e.g., the group health plan may be that of the employee's spouse);
+
+The HRA must be available only to employees who are actually enrolled in the group coverage; and
+
+Under the terms of the HRA, an employee (or former employee) is permitted to permanently opt out of and waive future reimbursements from the HRA at least annually, and, upon termination of employment, either the remaining amounts in the HRA are forfeited or the employee is permitted to permanently opt out of and waive future reimbursements from the HRA.
+
+Because the ACA's insurance market reforms do not apply to an HRA that has "fewer than two participants who are current employees on the first day of the plan year," stand-alone retiree HRAs are permitted.
+
+When paired with the group health plan of the employer that sponsors the HRA, an integrated HRA does not function like a separate group health plan. Instead, it modulates the costs of coverage to the employee by providing funds to pay premiums or help with cost-sharing. In the case of the former (payment of premiums), the HRA affects affordability; in the case of the latter, the HRA affects minimum value. According to a 2013 proposed regulation implementing the minimum value standard for group health coverage (that has been amended but not finalized), amounts newly available for the current plan year under an HRA offered in connection with a group health plan are treated as follows:
+
+Amounts that can be used only to reduce cost-sharing under the employer's primary group health plan are taken into account in determining minimum value;
+
+Amounts that can be used only to pay premiums under the employer's primary employer group health plan are taken into account in determining affordability; and
+
+Amounts that can be used either to pay premiums or help with cost-sharing under the employer's primary group health plan are taken into account only in determining affordability (they may not be taken into account for minimum value purposes).
+
+There are some important exceptions to these rules under which the HRA does not count toward the affordability or minimum value requirements. These include instances in which the HRA is integrated with the plan of another employer, and cases in which the purpose of integrating the HRA is to enable the employer's primary plan to satisfy the ACA's preventive services or annual dollar limit requirements.
+
+The reporting consequences of integrated HRAs under Code §§ 6055 and 6056 are as follows:
+
+Small employer; fully-insured group health plan
+
+In the case of a small employer (i.e., an employer that is not subject to the ACA employer mandate) that maintains a fully-insured group health plan and an integrated HRA, the carrier will prepare, distribute to employees, and transmit, as appropriate, the Forms 1094-B and 1095-B with respect to the fully-insured group health plan.
+
+Under the final 2015 Instructions for Forms 1094-B and 1095-B, this employer would be required to transmit or report on Forms 1094-B or 1095-B with respect to any employee that is covered by the combined HRA/group health plan. But if the HRA was integrated with another group health plan, e.g., that of the employer's spouse, then the employer would be required to issue a separate Form 1095-B and transmit on Forms 1094-B or 1095-B for the HRA coverage.
+
+Small employer; self-funded group health plan
+
+In the case of a small employer that maintains a self-funded plan, the plan itself is an issuer of minimum essential coverage. The employer/plan sponsor in this instance will prepare, distribute to employees, and transmit, as appropriate, the Forms 1094-B and 1095-B that will cover the integrated arrangement (group health plan/HRA). (For a group health plan maintained by a single employer, the plan sponsor is the employer. For a multiple employer welfare arrangement, the plan sponsor is each participating employer. And for a multiemployer plan, the plan sponsor is the joint board of trustees.)
+
+Large employer; fully-insured group health plan
+
+In the case of a large employer (i.e., an employer that is subject to the ACA's employer mandate) that maintains a fully-insured group health plan and an integrated HRA, the carrier will prepare, distribute to employees, and transmit, as appropriate, the Forms 1094-B and 1095-B. If the HRA may be used only to pay premiums, then the HRA will affect the amount that is reported on Form 1095-C, Line 15 ("Employee Share of Lowest Cost Monthly Premium, for Self-Only Minimum Value Coverage"). If the HRA may be applied to reduce cost sharing, irrespective of whether it may also be applied to the payment of premiums, then the result will be an adjustment to the plan's minimum value. This may, in turn, change which series-1 Indicator Code is appropriate for Form 1095-C, Line 14 ("Offer of Coverage"). Under the final 2015 Instructions for Forms 1094-C and 1095-C, this employer does not fill out Forms 1095-C, Part III ("Covered Individuals (Lines 17-22)") for employers covered by the HRA and the employer's group health plan. But they would do so if the HRA was integrated with a group health plan other than that of the employer.
+
+Large employer; self-funded group health plan
+
+In the case of a large employer that maintains a self-funded group health plan and an integrated HRA, the employer will prepare, distribute to employees, and transmit, as appropriate, the Forms 1094-C and 1095-C (including Part III), which will include the information ordinarily solicited and provided by Forms 1094-B and 1095-B. In this case, the effect of the integrated HRA will appear in Part II of Form 1095-C. If the HRA may be used only to pay premiums, then the impact will appear on Part II, Line 15 (relating to affordability). If the HRA may be applied to reduce cost sharing, irrespective of whether it may also be applied to the payment of premiums, then the result will be an adjustment to the plan's minimum value. This may, in turn, change which series-1 Indicator Code is appropriate.
+
+The final Instructions include this helpful example:
+
+An ALE Member with a self-insured major medical plan and a health reimbursement arrangement (HRA) is required to report the coverage of an individual enrolled in both types of minimum essential coverage in Part III under only one of the arrangements. An ALE Member with an insured major medical plan and an HRA is not required to report in Part III HRA coverage of an individual if the individual is eligible for the HRA because the individual enrolled in the insured major medical plan. An ALE Member with an HRA must report coverage under the HRA in Part III for any individual who is not enrolled in a major medical plan of the ALE Member (for example if the individual is enrolled in a group health plan of another employer (such as spousal coverage)).
+
+COBRA
+
+Under prior instructions, the manner in which an offer of COBRA coverage was reported depended on the nature of the qualifying event—i.e., reduction in hours vs. termination of employment—and on whether the offer of coverage was accepted. Where the terminated employee elects COBRA coverage, the employer would use the same series-1 Indicator Code that would apply in the case of similarly situated active employees (i.e., Form 1095-C, Part II, Line 14 Indicator Codes 1B through 1E, as appropriate) going forward. The cost to the employee of the single COBRA premium would appear on line 15 (i.e., the "employee share of the lowest cost monthly premium for self-only minimum value coverage"). And line 16 would be code "2C" ("employee enrolled in coverage"). But where the terminated employee declined coverage, the employer would report no offer of coverage using Indicator Code 1H on line 14; leaving line 15 blank; and using code 2A ("employee not employed during the month") in line 16.
+
+In the case of a reduction in hours, however, the offer of COBRA coverage was reported irrespective of whether the coverage was elected.
+
+Under the final 2015 Instructions, an offer of COBRA continuation coverage made to a former employee upon termination of employment is no longer reported as an offer of coverage on Form 1095-C, Part II, Line 14 irrespective of whether the employee accepts or declines the coverage. Instead, the Indicator Code 1H ("no offer of coverage") is applied for any month for which the offer of COBRA continuation coverage applies. An offer of COBRA coverage made to an active employee (e.g., an offer of COBRA continuation coverage that is made due to a reduction in the employee's hours resulting in the loss of eligibility under the employer's group health plan) is reported in the same manner and using the same code as an offer of that type of coverage to any other active employee.
+
+Multiemployer Plan Reporting
+
+In a previous post, we discussed the problems with the reporting rules as originally issued and how the rules were subsequently revised. The 2014 instructions required participating employers to obtain information from the multiemployer plan concerning which employees were actually enrolled. In addition to some practical problems, this posed a challenge under the HIPAA privacy rules. In a subsequent set of Q&As on the subject, the draft 2015 Instructions for Forms 1094-C and 1095-C allowed participating employers to use code 1H ("no offer of coverage") on Form 1095-C, Line 14 for any month in which the employer claimed the benefit of the multiemployer plan transition relief made available in the preamble to the final Code § 4980H regulations. These employers also were instructed to enter code 2E ("multiemployer interim rule relief") on Form 1095-C, Line 16. Some employers were confused by this instruction based on the direction to use code 2C as the default when more than one code might apply. Code 2C ("employee enrolled in coverage") is used in instances where more than one code might be appropriate. Here, either 2C or 2E would be appropriate. The 2015 final instructions clarified that 2E is the proper code.
+
+Notice 2015-68
+
+Notice 2015-68 sets out a series of items with respect to which the Treasury Department and IRS intend to propose regulations which includes (i) providing that health insurance issuers must report coverage in catastrophic health insurance plans through a public exchange, (ii) allowing electronic delivery of statements reporting coverage under expatriate health plans unless the recipient explicitly refuses consent or requests a paper statement, (iii) allowing filers reporting on insured group health plans to use a truncated taxpayer identification number (TTIN) to identify the employer on the statement furnished to a taxpayer, and (iv) specifying when a provider of minimum essential coverage is not required to report coverage of an individual who has other minimum essential coverage. The Notice also advises the U.S. territories that they are not required to report coverage under Medicaid and CHIP, and it provides that the state government agency sponsoring coverage under the Basic Health Program is required to report that coverage.
+
+For purposes of this post, the most interesting part of Notice 2015-68 is its treatment of HRAs. In an instance of refreshing candor, the Notice explains,
+
+The supplemental coverage rule in § 1.6055-1(d)(2) is intended to eliminate duplicate reporting of an individual's minimum essential coverage under circumstances when there is reasonable certainty that the provider of the "primary" coverage will report. This rule has proven to be confusing. (Emphasis added.)
+
+According to the notice, the Treasury Department and the IRS anticipate proposing regulations that would replace this rule with rules providing that:
+
+If an individual is covered by multiple minimum essential coverage plans or programs provided by the same provider, reporting is required for only one of them
+
+
+
+Under this rule, if an individual is enrolled in a self-insured group health plan and also has a self-insured health reimbursement arrangement (HRA) from the same employer, the provider (the employer) is required to report only one type of coverage for that individual. But if an employee is covered under both arrangements for some months of the year but retires or otherwise drops coverage under the non-HRA group health plan and is covered only under the HRA, the employer must report coverage under the HRA for the months after the employee retires or drops the non-HRA coverage. The employer must also report the coverage of any individual who is covered by only one arrangement. Reporting generally is not required for an individual's minimum essential coverage for which an individual is eligible only if the individual is covered by other minimum essential coverage for which § 6055 reporting is required.
+
+
+
+Under this rule, reporting would not be required for an HRA that is available only to employees and other individuals who enroll in an employer's insured group health plan for months that the individual is enrolled in the insured group health plan. This rule would apply only if the two types of coverage are eligible employer-sponsored coverage of the same employer. If an employee is enrolled in an employer's HRA and in a spouse's non-HRA group health plan, the employee's employer would be required to report for the HRA, and the employee's spouse's employer (or the health insurance issuer or carrier, if the plan is insured) would be required to report for the non-HRA group health plan coverage.
+
+Though not stated explicitly, it should be inferred that the type of coverage elected under the group health plan and the integrated HRA are the same. Thus, for example, if the employee elects self-only coverage, then the HRA must also be self-only. If the group health plan coverage is self-only but the HRA is also available to the employee's spouse and dependents, then presumably the HRA would violate the ACA requirements relating to preventive care and annual limits as to the spouse and dependents.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

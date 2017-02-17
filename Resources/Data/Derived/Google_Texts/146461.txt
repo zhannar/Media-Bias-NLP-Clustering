@@ -1,0 +1,29 @@
+At a recent population health summit, I led a discussion group with 12 active health system-led accountable care organizations. When the conversation turned to IT best practices, I asked for a show of hands of how many systems were on a single electronic medical record across the enterprise – acute, post-acute and physician services.
+
+No one raised their hand.
+
+I also asked how they were managing the health of their attributed beneficiaries. All said they were waiting for adjudicated claims data from CMS. Of the 12, three were also using billing data on a limited basis to get closer to real-time risk stratification for some initiatives. Only one was in the early stages of experimenting with near real-time data from providers.
+
+Given the potential of real-time clinical data, that’s unfortunate.
+
+Clinical data (such as data from physician office and hospital-based EMRs) has the potential for helping those involved in population health take a large step forward. While adjudicated claims data (and to a lesser degree billing data) have a significant lag to them, clinical data is closer to real-time, allowing for interventions while the patient is in need. And while billing and claims data provide excellent information, they lack the detail of the medical record.
+
+And the benefits aren’t just clinical. From an administrative viewpoint, clinical data provides the potential for a number of opportunities, such as:
+
+Greater alignment of physician and system incentives through more customized and less labor intensive performance metrics
+
+Reduction of redundant diagnostics
+
+Identification of gaps in HCC capture
+
+Better risk stratification of populations (such as the identification of potential substance abuse that may not be reflected in the available claims data)
+
+Of course clinical data isn’t perfect. It lacks the ability to see all sites of care the way adjudicated claims data can. Even within an integrated health system, disjointed systems may not communicate and there may be the need to reach into multiple systems. And there’s little commonality or standardization of how the records are organized.
+
+Part of why clinical records are valuable is because of the notes and observations a physician may have made that aren’t reflected in the diagnosis codes. Mining the record continues to be a daunting task. Billing data and adjudicated claims may not be as rich. But they’re much more geared toward mining.
+
+Rather than thinking of clinical data and claims data separately, there’s more power in using them together. No single data source can identify all potential patients. So using multiple sources is a more accurate picture of the population’s health.
+
+There’s a lot of value to be gained from billing and adjudicated claims data. It just takes the right people and processes to deliver that value.
+
+This post appeared first at Action for Better Healthcare.

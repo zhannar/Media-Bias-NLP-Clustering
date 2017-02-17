@@ -1,0 +1,39 @@
+In theory, health wearables could make a real difference by providing a way to monitor at-risk people, like diabetics. They might be a great way to monitor poorer people who often never touch the health care system until it becomes an emergency.
+
+Also, the Affordable Care Act (ACA) is introducing millions more people into an already taxed healthcare system, and wearables could be a powerful tool to monitor those new members, catching illnesses before they turn into clinic visits.
+
+Those are pretty ideas, but health wearables, at least so far, have very little to do with real health care issues, the ones that are costing the U.S. billions to treat every year. For the most part, health wearables are worn by the “wealthy and well.”
+
+There is no connection between wearables and the population health management that healthcare reform emphasizes. By the end of 2019 experts expect that about half of the healthcare services delivered will be paid for based on their quality and the health outcomes they create.
+
+The consumer health platforms being built by Google (Google Fit), Apple (Health Kit), and Samsung (SAMI), we’re told, will act as cloud repositories for health and biometrics data collected by wearable devices. They’re also supposed to foster sharing of health data sets by device, app, and analytics players.
+
+At Apple and Samsung’s announcements the companies also trotted out doctors from big-name hospitals, suggesting that these platforms might act as a conduit through which consumer-generated health data might make its way into real, clinical systems within the healthcare system. Furthering the suggestion is the fact that Apple and Samsung say they are working directly with Epic, the dominant electronic health record company in the U.S.
+
+If the healthcare system could make good use of this data, the thinking goes, doctors might be able to keep in touch with patients while they’re well, and keep them well, instead of coming in contact with them only when they get sick.
+
+But sources in the medical devices, digital health, and healthcare industries say that most doctors have little time for, or interest in, using wellness data collected by wearable devices. They don’t want to spend money on additional (and unproven clinical systems), and most of all, they don’t want to worry about keeping the data private.
+
+“It’s just one more data set they have to deal with, and they’re already wrestling with lots of data every day,” one source told me. A doctor might be interested in knowing whether or not a patient wears a Fitbit or a Jawbone wearable to count steps, and even encourage the habit, but they do not want to receive a constant flow of biometrics data from patients.
+
+“Doctors would love to be excited about wearables — they’re gadget guys at heart — but their day-to-day is spent battling 30 year old fax machines to get your last lab report.” says Jeff Tangney, CEO of Doximity, which makes a social communication platform for clinicians. “For a busy doctor, the ability to use email would save more lives than a Fitbit.”
+
+Another source told me that hospital administrators don’t want the data coming into clinical systems because it’s a liability. If the data fell into the wrong hands it could expose the hospital to privacy violations under HIPAA laws.
+
+“Or what if an ambulance chaser (FitBit chaser!) claims we should have taken action for a patient who stopped walking daily?” our source asks.
+
+Then there’s the issue of the quality of the data coming from consumer wearables. Many of the wearables that will plug into the big health platforms will not be clinical grade. “Doctor’s do care about the reliability of the sampling and the quality of data,” says medical technology expert Jim Bloedau, “. . . although there’s little proof that consumer devices and self-measurements meet a clinically acceptable threshold.”
+
+In order for the data from your Fuelband to matter clinically, it would have to flow securely in to the electronic health record used the clinic and/or hospital. And in the cases of Apple’s and Samsung’s platforms that means the Epic electronic health record.
+
+Epic has proven to be very pragmatic and non-progressive when it comes to data sharing. The company has built a highly functional electronic health record (EHR) product, both for clinics and hospitals, but it has never been big on sharing data with other EHR systems. At one time, Epic built a product that would allow its health provider customers to share clinical data with other health facilities that used a competing EHR product. They named it “Epic Elsewhere,” which speaks loudly of the company’s closed, proprietary approach to building software.
+
+So is Epic really a company that’s likely to work hard to collect consumer biometrics data, crunch it, and display it in the EHR in a way that doctors can easily understand and use? It’s easy to find people in the industry who have serious doubts.
+
+Because Apple and Samsung have been completely silent about their consumer health platforms this summer, we have no idea what Epic’s real role in the whole thing is. To its credit, Epic has developed a well-used and well-respected app called MyChart used by patients to view parts of their patient record. The company might be developing an EHR module that contains secure health and wellness data taken from Apple’s or Samsung’s consumer health data platforms.
+
+But I’m guessing that if Epic does enable doctors and other practitioners to use the data in a compelling way, smart money says it will be a conservative effort, and slow to arrive.
+
+One of the marquee hospitals Apple has partnered with on Health Kit is Mayo Clinics. Mayo’s marketing medical director, Dr. John Wald, told VentureBeat at the Apple Health Kit launch that doctors will have good reasons to access the data from Apple’s Health Kit. “If it makes life easier for the physician by helping to keep patients healthy they’ll want to use it,” he said.
+
+I’ve no doubt he’s right, but that’s a pretty big “if”.

@@ -1,0 +1,77 @@
+Yesterday the Center for Immigration Studies (CIS) published a report authored by Jason Richwine on the welfare cost of immigration. The CIS headline result, that immigrant-headed households consume more welfare than natives, lacks any kind of reasonable statistical controls. To CIS’s credit, they do include tables with proper controls buried in their report and its appendix. Those tables with proper controls undermine many of their headline findings. In the first section, I will discuss how CIS’ buried results undermine their own headline findings. In the next section, I will explain some of the other problems with their results and headline findings.
+
+CIS’s Other Results
+
+The extended tables in the CIS report paint a far more nuanced picture of immigrant welfare use than they advertised. To sum up the more detailed findings:
+
+“In the no-control scenario, immigrant households cost $1,803 more than native households, which is consistent with Table 2 above. The second row shows that the immigrant-native difference becomes larger — up to $2,323 — when we control for the presence of a worker in the household. The difference then becomes gradually smaller as controls are added for education and number of children. The fourth row shows that immigrant households with the same worker status, education, and number of children as native households cost just $309 more, which is a statistically insignificant difference. The fifth row shows that immigrants use fewer welfare dollars when they are compared to natives of the same race as well as worker status, education, and number of children.” [emphasis added]
+
+All of the tables I reference below are located in CIS’s report.
+
+Table 5 shows that households headed by an immigrant with less than a high school education consume less welfare than native households with the same education level. For every other level of education, immigrant-headed households consume more than natives in the same education bracket.
+
+Table 6 controls for the number of children in native and immigrant households. Immigrant households with one child, two children, and three or more children all consume fewer welfare benefits that the same sized native households. The only exception is that immigrant households without any children consume more.
+
+Table 7 has more mixed results. It shows that Hispanic and black immigrant-headed households consume less welfare than Hispanic and black native-headed households. Immigrant white and Asian immigrants consume more welfare than native households headed by whites and Asians. Table 8 breaks down their results with numerous different controls. When controlled for a worker in the household, the number of children, the education of the head of household, and race, immigrant households consume less welfare.
+
+Table A3 shows that immigrant households with the youngest heads, 29 years old and under, impose a much lower cost than households headed by natives of the same age. Table A4 shows that immigrants impose the greatest welfare costs in their first five years of residency but it decreases afterward and never again rises to that high initial level. Table A5 shows that immigrant-headed working households with less than a high school degree consume less welfare than their native household counterparts. For all other educational groups, the immigrant-headed households consume more than the comparable native-headed household.
+
+Table A6 shows immigrant headed households with children by race. Households headed by Hispanic, black, and Asian immigrants all consume less welfare than their native counterparts. Households headed by white immigrants consume more welfare than white natives.
+
+Table A7 controls for poverty and race. Overall, immigrant households in poverty consume less welfare than native households in poverty. Hispanic and black immigrant households both massively under consume compared to native Hispanics and blacks. White and Asian immigrant-headed households, on the other hand, consume more welfare than native households headed by members of the same race.
+
+Many of the report’s detailed tables that use proper controls undermine their main conclusion. Excluding the bullet points at the beginning, this is a much more careful report than CIS has issued in the past. As a result, the report does come to a more nuanced conclusion than the headlines about it indicate.
+
+Broader Issues
+
+Below I will describe in detail some methodological and other issues with the CIS analysis – some of which expand on CIS’s controlled results that were not headlined.
+
+Individual Welfare Use or Head of Household
+
+The CIS report compared all immigrant households and all of their inhabitants, including millions of native-born citizen children and U.S.-born spouses, with all households headed by native-born Americans. Richwine admits that the larger family size of immigrant households accounts for much (not all) of their greater welfare use because those born in the United States are eligible for all means-tested welfare benefits – even though Table 6 shows that immigrant households controlled for children consume a lower level of benefits. A household level analysis does not reveal who receives the benefits, leaving the impression that the immigrants are the intended legal beneficiaries when they are often legally excluded from these programs.
+
+The CIS report should have compared immigrant individuals to native-born individuals for three reasons. First, the number of people in an individual does not vary but the number of people in a household can vary tremendously. The greater number of children in the immigrant household, rather than any different level of individual welfare use, is what largely drove the report’s results.
+
+Second, Medicaid and SSI benefit levels and eligibility are determined on an individual basis, not a household one. Many immigrants are legally ineligible for those programs but their U.S.-born spouses and children do have access. Thus, CIS counts the benefits received by the U.S.-born children even though the immigrants themselves are often ineligible. This gives an inflated picture of immigrant welfare use.
+
+Third, it’s a lot easier and more accurate to compute the immigrant and native welfare costs when they are individuals than it is to work backward from the Survey of Income and Program Participation (SIPP), budgetary data, and imputations of program costs necessary due to a household analysis.
+
+Cato published an analysis of poor immigrant welfare use that compares individuals. As a result, we can see the immigration or citizenship status, within limits, of the actual welfare users and the amount they consume. The immigrants themselves are almost always less likely to use welfare and consume a lower dollar value of benefits than similar natives – as CIS corroborates in Table A7 of their report.
+
+The immigrant-headed household unit of analysis used in the CIS report presents other problems. As a unit, it is just not as meaningful as it once was. Professor Leighton Ku, director of the Center for Health Policy Research at George Washington University and a nationally recognized expert on these issues, wrote:
+
+“Another problem is the ambiguous nature of what it means to be an ‘immigrant-headed household.’ In the CPS, a head of household is often assigned by the parent who is completing the survey: it could be the husband or wife. Consider an example of a five-person household, consisting of an immigrant male, a native-born wife, two native-born children, and a native-born unrelated person (such as someone renting a room). If the male has been deemed the head of household, this is an immigrant-headed household despite the fact that only one of five members is an immigrant and one (the renter) is not financially dependent on the immigrant. But if the wife was deemed the head of household, this would be a native-headed household, even though one member is an immigrant. Given that many families today have dual incomes and that the wife’s income often exceeds the husband’s, it is not clear if being assigned the ‘head of household’ in the Census form has much social meaning.”
+
+The CIS report included the welfare cost of all the people living in the immigrant-headed household. They make the defensible case that those U.S.-born children should be included because they would not exist in the United States and, therefore, would not consume welfare without the immigrant being here. That’s a fair point, but it also leads to the defensible claim that the welfare consumed by the grandchildren, great-grandchildren, and every subsequent generation of an immigrant should also be included in the welfare calculation. After all, without the initial immigrant, those subsequent welfare consuming native-born Americans wouldn’t be here either.
+
+The choice of researchers is to count just the immigrants and their welfare usage or to count the welfare consumed by the immigrants and all of their subsequent descendants. Influenced by the Texas Office of the Comptroller, Cato decided to measure the welfare consumption of the immigrants themselves and excluded all of the subsequent generations. CIS just counted the immigrants and their U.S.-born children and excluded their subsequent descendants (there are many grandchildren and great-grandchildren of immigrants alive today consuming welfare).
+
+Medicaid and Obamacare
+
+Differing Medicaid use rates and consumption levels account for over two-thirds of the entire gap between native and immigrant households in their headline results (table 2 of the CIS report). That result is an artifact of the welfare system prior to the implementation of Obamacare’s Medicaid expansion. This difference will shrink or reverse when native enrollment and use rates rise in response to Obamacare’s mandated 2014 Medicaid expansion and rollout of exchange subsidies.
+
+Reform Welfare or Restrict Legal Immigration – Which is Easier?
+
+CIS seeks to use immigrant welfare use as an argument for cutting legal immigration. Cato, on the other hand, has sought to build a wall around the welfare state and restrict non-citizen access rather than to more strictly regulate the international labor market. When I suggested that CIS concentrate on reforming welfare over further restricting immigration, Richwine said, “[welfare reform is] not a policy change likely to occur in the near future.” That may be true, but legally restricting legal immigration to the United States is even less likely to occur.
+
+Richwine’s explanation for focusing on immigration cuts rather than welfare reform doesn’t stand to scrutiny. Congress has continually increased legal immigration levels since 1965. Congress considered a more restrictive immigration reform in 1996–and it was defeated handily. In the mid-1990s, a high of 65 percent of Americans wanted to decrease immigration and Congress still couldn’t pass such a reform. By mid-2015, only 34 percent of Americans wanted to decrease immigration. The last time the anti-immigration opinion was this unpopular was in 1965 – on the eve of a transformative liberalization.
+
+Welfare, on the other hand, was reformed and restricted in 1996. Furthermore, the public wants more reforms that limit welfare access and place more restrictions on welfare users. Historical trends and public opinion indicate that welfare reform is more likely and more popular than a severe reduction in legal immigration. Regardless, CIS should join Cato and focus its efforts on restricting immigrant access to welfare rather than spin its wheels in a quixotic quest for a more restrictive immigration policy.
+
+Excluding the Big Welfare Programs
+
+The CIS report only includes some means-tested welfare programs but excludes the rest of the welfare state. Their report includes all immigrants and natives divided by households so it should include all of the welfare state – including the largest portions of Social Security and Medicare. Immigrants pay large surpluses into Medicare and Social Security. Richwine might object to including these programs because age and work history determine eligibility for the programs, so he might want to control for those factors. That is a defensible argument, but it appears CIS thought that such a correction was not appropriate for the report’s headline results because they do not control for the eligibility of the programs. Tables with proper controls are buried later in the paper and the appendix. CIS should at least add Medicare and Social Security to the tables in its appendix.
+
+One of the explanations Richwine gave for this report was “[w]ith the nation facing a long-term budgetary deficit, this study helps illuminate immigration’s impact on that problem.” As the OECD makes clear in its fiscal analysis, it makes little sense to exclude immigrant consumption and contribution to the old-age entitlement programs that are actually driving the long-term debt. If CIS wishes to grapple with the fiscal issues surrounding immigration, there is vast empirical literature on the topic that they should consult.
+
+As a final point, CIS’s headline result should have compared poor immigrant welfare use to poor American welfare use instead of comparing all American households to all native households. The welfare benefit programs analyzed here are all intended for the poor. It adds little to include Americans and immigrants who are too wealthy to receive much welfare.
+
+Net Fiscal Effects
+
+Richwine includes a section in this CIS report where he attempts to defend his 2013 Heritage Foundation fiscal cost estimate that was roundly criticized by economists on the left and right. He makes a lot of confused statements concerning how to measure the fiscal impact of immigration. Instead of rehashing those arguments, here’s one small criticism of his 2013 Heritage paper: It was a 50-year fiscal cost analysis without a discount rate.
+
+Conclusion
+
+When they use appropriate controls in the later parts of their paper and their appendix, CIS reaches much less negative and sometimes even positive results than their messaging indicates. Many of the issues raised in this post may be too wonky for general consumption, but they are important for producing excellent research. Cato has published two working papers, a bulletin, a policy analysis, and a book chapter on immigrant welfare use and the broader fiscal effects in which we explain our methods and defend them against criticisms. We even include a literature survey on the topic that discusses the different results from the National Research Council. I invite anybody more interested in these issues to read them.
+
+Special thanks to Charles Hughes for his excellent comments and suggestions on an earlier draft of this blog post.

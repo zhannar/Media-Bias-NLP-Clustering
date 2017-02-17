@@ -1,0 +1,57 @@
+Booz Allen Hamilton Holding Corp., the contractor Edward Snowden worked for when he took more than a million documents about U.S. spy programs, is one of the few companies that could handle storing bulk phone records for the National Security Agency.
+
+President Barack Obama yesterday proposed the possibility of having a third party, rather than the NSA or phone companies, keep the information about billions of phone calls made each day. Several analysts said Booz Allen, based in McLean, Virginia, may be one of the few companies capable of handling the job because of its experience working on classified contracts.
+
+“There’s zero upside to the carriers holding customer data for the government and no amount of money will make it worthwhile,” said Roger Entner, an analyst with Recon Analytics based in Dedham, Massachusetts. Some companies, such as Booz Allen and Computer Sciences Corp., specialize in the work, he said.
+
+The NSA now obtains and stores metadata such as numbers and duration of calls under standing orders from the secret Foreign Intelligence Surveillance Court. Obama yesterday gave his attorney general and intelligence leaders 60 days to develop a plan for storing those records outside of government spy agencies.
+
+The task of storing, securing and providing access to that data is “probably the most sensitive, visible international job imaginable,” said Rodney Joffe, a senior vice president and senior technologist at Neustar Inc.
+
+Obamacare Echoes
+
+In addition to Booz Allen and Falls Church, Virginia-based CSC, federal contractors including General Dynamics Corp., also based in Falls Church, and Palo Alto, California-based Hewlett-Packard Co. would be logical third-party choices because of their secure storage capabilities, said Larry Allen, president of Allen Federal Business Partners, based in McLean, Virginia.
+
+The question is: who would want the work?
+
+“In this environment people would be looking for a good large contract because it would generate business, but on the other hand, high-profile contracting projects haven’t worked out well recently” for either the government or contractors, he said in a phone interview.
+
+Allen said he was referring to the Obamacare website, which debuted in October with crippling technical shortcomings, prompting criticism of contractors including CGI Group Inc.
+
+Encryption, Access
+
+Obama administration officials may not understand how difficult it would be for a third party to juggle conflicting obligations to national security, the public and shareholders, Joffe said.
+
+From a technical standpoint, the project would be uniquely difficult because of the amount of data involved, the degree of encryption that would be required to safely store it, and the “rigorous access controls” a company would have to provide, said Fatemeh Khatibloo, a senior analyst with Forrester Research Inc., based in Cambridge, Massachusetts.
+
+While companies including International Business Machines Corp., Accenture Plc and Neustar have expertise in some aspects of the work needed, it’s tough to envision that any of them have all skills necessary for the project, she said.
+
+Neustar is a former Lockheed Martin Corp. unit that manages the National Portability Administration Center, which enables the convergence of wireless, wired, and Internet communications.
+
+Creating a startup firm to take on the task may not be practical, in part because managing such sensitive data requires a proven track record and an understanding of the nuances of being a neutral third party, Joffe said.
+
+Still Qualified
+
+“Even the best startup in the world takes nine or 10 years,” he said.
+
+Booz Allen’s employment of Snowden shouldn’t tarnish its reputation or opportunity to pursue such work, Allen said.
+
+Snowden worked for Booz Allen for less than three months, assigned to a team in Hawaii, the company said in June. He was fired on June 10, shortly after he revealed a top-secret U.S. electronic surveillance program.
+
+“I don’t think that is a stain on Booz’s permanent record,” Allen said. “It’s a big company and overall they have an outstanding reputation.”
+
+James Fisher, a Booz Allen spokesman, declined to comment about whether his company would be interested or qualified to store phone records for the government.
+
+Booz Allen is the No. 13 federal contractor, receiving $4 billion in awards in the 2012 fiscal year, according to a Bloomberg Government review published in May. U.S. government awards were the source of almost all its $5.76 billion in revenue in the year ended March 31, according to a regulatory filing.
+
+‘Clean Skirts’
+
+Michelle Herd, spokeswoman for Computer Sciences, also declined to comment.
+
+“I can’t imagine anybody who would want to do that work if they didn’t have a plan to exploit it,” by finding other money-making uses for the data, said Ed Meagher, a former deputy chief information officer for the Department of Veterans Affairs and an information technology consultant in Washington.
+
+While defense and intelligence contractors experienced with classified information are best equipped to handle the task, they may appear to be surrogates for the government and therefore politically unacceptable, Joffe said.
+
+Meagher, a former Computer Sciences vice president, questioned whether CSC or Booz Allen would be probable choices to store the phone records.
+
+“They’ve both had security breaches, as has everyone in their industry,” Meagher said. “There are no clean skirts in that area. This is a big data exercise and I trust contractors even less than the government.”

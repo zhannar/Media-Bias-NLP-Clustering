@@ -1,0 +1,95 @@
+There was an interesting variety of reported IT snafus, snarls, and snags reported in the news last week. We start off with a story of a database update that didn't happen. The result: a massive number of erroneously issued traffic citations in New Zealand.
+
+According to the New Zealand Herald, the country’s police force last week apologized for mailing over 20 000 traffic citations to the wrong drivers. Apparently, NZ Transport Agency, which is responsible for automatically updating drivers’ details and sending them to the police force, failed to do so from 22 October to 16 December 2013. As a result, “people who had sold their vehicles during the two-month period… were then incorrectly ticketed for offenses incurred by the new owners or others driving the vehicles.” In New Zealand, unlike the U.S., license plates generally stay on a vehicle for its life.
+
+National road policing manager, Superintendent Carey Griffith, was quoted as saying, “Police sincerely apologize to all of those who have been affected by this one-off technical issue, which has now been resolved… I can also reassure anyone who has been incorrectly ticketed as a result of our mistake that they won't need to pay the fine, and anyone who has paid in error will be completely refunded.”
+
+News reports state that the police became aware of the problem only after a motorist complained that she had received a ticket for an automobile she no longer owned. A story at 3News/NZN reported that, “Police originally said there were 38,000 false fines, but later revised the number to 20,000 thanks to a separate mistake by police collating the data.”
+
+The police have emphasized that they are not going to waive the tickets, which range from NZ $30 to NZ $630, for those who actually committed the traffic infringements. But they do admit that getting the whole mess sorted out will take some time. Griffith is encouraging those who were likely incorrectly ticketed to call the Police Infringement Bureau “straight away,” but that might prove to be a problem, too: Griffith confessed that those who have tried have been experiencing long delays in trying to get through to the PIB since the error was disclosed.
+
+North Carolina’s New PowerSchool Misfires
+
+Parents, teachers, and school administrators in North Carolina must be getting tired of it all. Since 1998, they have had to suffer through the unreliable and problem-plagued performance of the state’s Windows of Information on Student Education, or NC WISE, system to manage and access student attendance, grades, test reports, and class schedules. The late and over-budget $52 million system’s performance was so bad that it became colloquially known as NC STUPID.
+
+So when it was announced in 2010 that NC WISE would be phased out and replaced with PowerSchool, the sighs of relief across the state were almost palpable. The state promised that the rollout of PowerSchool should be “fairly smooth and require less change management than staff encountered in moving to NC WISE.” They also promised that the never-ending troubles associated with NC WISE would soon be only a bad memory. However, the state government of North Carolina, which has less than a stellar record in IT systems acquisition and management, has apparently managed to create an uncomfortable sense of déjà vu all over again across the state’s educational community.
+
+For according to McClatchy News Service, the state’s new PowerSchool system that was rolled out last summer “has so many problems that the accuracy of transcripts, athletic eligibility and the number of students enrolled in schools is uncertain.” The system, for example, has not been able “to produce updated, accurate student transcripts, something high school seniors need to apply for college admissions and scholarships," which is making both the seniors and their parents very unhappy. In addition, PowerSchool cannot be counted on to verify whether student athletes are academically eligible to participate in their respective sports, a problem in a state where it is not uncommon to have more than half the students in a school participate in sports activities.
+
+North Carolina education officials knew that rolling out PowerSchool last summer instead of this summer was “ambitious,” but convinced themselves that any issues would be minor. Why the rush? The idea of saving $2.1 million by rolling it out last summer seemingly played a big part in their decision, according to McClatchy.
+
+North Carolina education officials are promising that PowerSchool, when it is fixed, will be better than NC WISE, but that is a pretty low bar to hurdle. If it isn't fixed soon, PowerSchool may soon be known around the state as ImpotentSchool.
+
+California Online Health Exchange Falls and Took Days to Get Up
+
+It is time once more for another look at the IT issues still impacting the rollout of the Affordable Care Act (ACA), aka Obamacare, at the state and federal levels. The 2014 open enrollment deadline closes on 31 March, unless that date gets delayed as several others have been.
+
+We start with California’s health exchange, Covered California, which last Wednesday suffered what at first was described as a minor software “fault,” but was significant enough to take down its enrollment portal. State health officials promised that the issue was being worked on by “engineers around the clock,” and expected it would be solved no later than 1300 Thursday. Then the state revised the timetable, saying the fix would be completed by Friday morning. When that didn’t happen, they said they'd have it worked out over the weekend, and most recently, 0600 PST Monday. I checked early this morning, and the enrollment portal now appears to be operational. I will update this post if any lingering issues remain.
+
+California health officials said that the problem originated, they think, with a planned software maintenance update the previous weekend. They apologized for the inconvenience.
+
+Things have been going a bit better at Oregon's health exchange. Last week, Cover Oregon finally was able to enroll at least some small number of applicants online. However, individuals couldn’t sign-up online themselves; only insurance and other authorized agents who were allowed online access could complete the registrations. The reason is that the online system is still considered so buggy (it still had 1200 problems that need fixing) that state officials don’t dare let the average citizen attempt to use it.
+
+Unfortunately, the Massachusetts and Maryland online health exchanges are still struggling to gain altitude. In Massachusetts, no one has been able to enroll for insurance online yet, and there is a backlog of 70 000 paper health insurance applications that still need to be processed. In Maryland, the state halted work on its small business health exchange (something California also did recently) until it figures out how to find someone to implement it correctly.
+
+At the federal level, the White House confirmed that it will take “several months” before the automated payment system will be complete. Until then, “the administration won’t be able to verify how many of the consumers who signed up for Obamacare insurance are, in fact, paying their premiums and are hence truly enrolled,” CBS News reported. However many people actually do end up enrolling, Vice-President Biden admitted, it will likely be fewer than originally expected.
+
+Also not hitting its original predictions is the cost of “the computer cloud that supports back-end data sharing for HealthCare.gov and state Obamacare marketplaces,” Nextgov.com reported last week. Instead of a final cost around $12 million, as predicted by the Centers for Medicare & Medicaid Services, Nextgov.com’s analysis now places the cost at some $60 million. Given all the money so far spent, at least CMS says that the performance has now reached an acceptable level.
+
+Thousands of Drivers Get Undeserved Tickets in New Zealand
+
+Over 20 000 New Zealand Traffic Tickets Wrong Issued
+
+Police Apologize for Incorrect Tickets
+
+Police Issue 20 000 Fines to the Wrong People
+
+North Carolina PowerSchool System Misfires
+
+NC Schools Dealing with Problem-Plagued Computer System
+
+PowerSchool Has Some “Bumps” Officials Admit
+
+PowerSchool's Rocky Start
+
+California and Other State Health Insurance Exchanges Continue to Have Problems
+
+Covered California Suffers Website Malfunction
+
+Covered California Remains Offline
+
+California Health Exchange Now Working After 5 Days
+
+States Struggle with Online Health Insurance Exchanges
+
+Oregon Finally Enrolls Health Insurance Applicants Online
+
+Massachusetts Slowly Addressing Health Insurance Application Backlog
+
+Maryland Halts Small Business Health Exchange
+
+ACA Payment System Will Take Months to Complete
+
+Biden Says ACA Enrollment May Miss Target
+
+Cost of Obamacare Cloud Contract Has at Least Quintupled
+
+In Other News …
+
+United Airlines Suffers Reservation System Outage Again
+
+New Zealand Novopay Bug Continues To Bug Teachers
+
+Robocall Glitch Floods Arkansas Senate With Calls
+
+Network Router Cause of WhatsApp Outage
+
+Google Drive and Docs Out for 5 Hours
+
+UK Nationwide Bank Experiences IT Problems
+
+Kiwibank Suffers Tech Glitch
+
+Banner Health Hospitals Feel IT Problems
+
+Photo: Jeffrey Coolidge/Getty Images

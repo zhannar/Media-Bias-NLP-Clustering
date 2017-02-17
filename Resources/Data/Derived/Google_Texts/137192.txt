@@ -1,0 +1,7 @@
+It’s National Consumer Protection Week, so an infographic by Laird Technologies highlighting some of the security challenges with the Internet of Things seems appropriate.
+
+The infographic highlights both consumer technologies such as fitness wearables and apps that connect to homes to do tasks such as remotely adjusting home thermostats and enterprise technology, such as medical devices that can be located and tracked.
+
+Connecting, authenticating and securing Internet of Things communications is critical to prevent untrusted devices from gaining access. Another challenge is the need for alternative distributed computing models to handle the high volume of data.
+
+Earlier this year a Federal Trade Commission report called for tougher laws to shore up consumer privacy and security concerns they identified with The Internet of Things. It called for device developers do a better job of building security into their devices from the start. It also recommended that companies consider measures to keep unauthorized users from accessing a consumer’s device, data, or personal information stored on the network.

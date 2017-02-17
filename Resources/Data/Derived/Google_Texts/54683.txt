@@ -1,0 +1,39 @@
+Thursday, August 14, 2014
+
+Takeaway: The Board will not find an expert declarant’s testimony on an issue to be persuasive if simply asserted by the declarant and with no credible support.
+
+In its Final Written Decision, the Board determined that challenged claims 1, 3, and 5-10 of the ’936 patent were unpatentable, but that Petitioner had not shown that challenged claim 4 was unpatentable. Moreover, the Board denied Patent Owner’s Motion to Amend because it found that Patent Owner had not shown that its proposed substitute claims 17, 18, and 20-25 were patentable over the prior art. The Board noted that claims 2 and 11-16 were not at issue in this proceeding because the Board had declined to institute inter partesreview of these in its Decision to Institute.
+
+The ’936 patent relates to “a language independent software development tool having a graphical user interface, also referred to as an Integrated Development Environment or IDE.” The IDE exchanges, edits, debugs, visualizes, and develops software code for “data manipulation centric languages.” The disclosed IDE includes a visualizer that allows for the display of code in ways different than a typical text editor.
+
+The Board’s Decision to Institute had expressly construed the claim term “data manipulation language” to mean “a programming language used to access data in a database, such as to retrieve, insert, delete, or modify data in the database,” and the claim term “graphical representation of flows” to mean “a diagram that depicts a map of the progression (or path) through the source code.” Nonetheless, because the Board found that many of the arguments relating to obviousness were more accurately viewed as claim construction issues, the Board also construed other claim terms as well.
+
+The Board maintained its initial construction for the claim term “data manipulation language,” finding that the change proposed by Patent Owner did not affect the Board’s substantive analysis and that Patent Owner’s arguments that the Board should depart from the dictionary definition proffered by Dr. Nick Roussopoulos (Petitioner’s declarant) were not persuasive. The Board was also not persuaded by the testimony of Mr. Ivan Zatkovich (Patent Owner’s declarant) on this point. The Board was not persuaded that its initial construction for the claim term “graphical representation of flows” needed any modification either.
+
+As for certain claim terms not previously construed, the Board went on to analyze terminology such as “program flows” (dependent claim 3) and “data flows” (dependent claim 4). The Board then went on to discuss the prior art.
+
+In this connection, the Board maintained its preliminary finding that claim 1 is unpatentable based on the combination of Coad and the Oracle and Oracle8 Primers. Although Petitioner disputed this finding, the Board concluded that Petitioner’s assertions on this point were based on claim constructions that the Board had not adopted, and that certain testimony by Mr. Zatkovich (Patent Owner’s own declarant) was in agreement with the Board’s position.
+
+Regarding Petitioner’s challenge that claims 1 and 3-10 would have been obvious in view of Antis taken in combination with Coad (claims 1, 3, 5, 6, 8, and 10) or in view of Antis taken in combination with Coad and one other reference (claims 4, 7, and 9), the Board maintained that independent claim 1 was unpatentable in view of the obvious combination of Antis and Coad. Then, after noting that Patent Owner had not separately argued the patentability of certain claims depending from independent claim 1, namely, dependent claims 5, 6, 8, and 10, the Board likewise concluded that these dependent claims were unpatentable as having been obvious in view of Antis and Coad.
+
+In related fashion, the Board found that dependent claim 3 was unpatentable as having been obvious in view of Antis taken in combination with Coad. Although there was conflicting evidence on this point, the Board credited the evidence proffered by Petitioner – especially the testimony of Dr. Roussopoulos – which the Board found was supported by objective evidence. The Board contrasted this with Patent Owner’s evidence, which, according to the Board, was based on unpersuasive and unsupported testimony.
+
+The Board found that Petitioner had not shown by a preponderance of the evidence that dependent claim 4 would have been obvious in view of Coad, Antis, and Burkwald. According to the Board, for example, the conclusions of Dr. Roussopoulos’s were unsupported on this point.
+
+The Board next addressed dependent claims 7 and 9. For essentially the same reasons as discussed in connection with independent claim 1, the Board concluded that claim 7 was unpatentable in view of the obvious combination of Antis, Coad, and Eick, and that claim 9 was unpatentable based on the obvious combination of Antis, Coad, and Building Applications.
+
+The Board denied Patent Owner’s Contingent Motion to Amend, which sought to replace claims 1 and 3-10 with proposed, amended claims 17-25 (in the event that claims 1 and 3-10 were, respectively, were found to be unpatentable). According to the Board, Patent Owner had not met its burden of showing that the amended claims were patentable not only over the prior art references applied to the original patent claims, but also over other IDE’s known in the art. And even if Patent Owner’s burden to show that the claims as proposed to be amended were patentable over the prior art of record, the Board said that it would still not be persuaded that the proposed claims were patentable over Coad viewed in combination with either the Oracle Primers or Antis.
+
+SAS Institute, Inc. v. ComplementSoft, LLC, IPR2013-00226
+
+Paper 38: Final Written Decision
+
+Dated: August 6, 2014
+
+Patent 7,110,936 B2
+
+Before: Kevin F. Turner, Justin T. Arbes, and Jennifer S. Bisk
+
+Written by: Bisk
+
+Related Proceedings: ComplementSoft, LLC v. SAS Institute, Inc., No. 1:12-cv-07372 (N.D. Ill. Sept. 14, 2012) (stayed pending this inter partes review proceeding)

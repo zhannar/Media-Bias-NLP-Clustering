@@ -1,0 +1,45 @@
+Helping healthcare stakeholders get in line with requirements of the Affordable Care Act will help speed adoption of your device.
+
+John Walmsley
+
+Innovators need to know their market and target their design to it. In the world of medical devices, there are many more stakeholders than in other technological adoptions. The patient, payer, and provider are rarely the same person. They each have their priorities in addition to their shared goal of a successful health outcome.
+
+Adoption is the process through which your innovative medical device finds—or fails to find—its market. If the device is truly innovative, we know from Geoffrey Moore that there is a chasm to cross before the majority of adopters will pick up the innovation. Given the significant investment of time, money, and attention it takes bring an innovative medical device from idea to market-readiness, it is important to understand the forces that will allow this chasm to be crossed as elegantly and efficiently as possible. Even better is to develop an understanding early enough that it can shape and direct the development of the innovation, tailoring it for easy adoption.
+
+If your target is an innovative clinician provider, you need to know that a couple of their priorities right now are learning how to adapt to the Affordable Care Act and how to begin to use the opportunities of digital health to maximum effect.
+
+The Affordable Care Act aims to maximize health outcomes while minimizing total cost. It encourages clinicians and hospitals to group together in accountable care organizations (ACOs), managing service to at least 5000 Medicare beneficiaries for at least three years. This management of service typically means that a primary care physician is at the center of coordinating the care of individual patients. There are significant incentives to coordinate this care to save money while also meeting quality targets. There is an option for the ACO to gamble for higher incentives at the risk of losing money if they miss the targets. In short, the payers want to pay for quality.
+
+Digital health has many definitions. One common element is that it allows us to build devices with amazing capabilities and stay in close touch with our users, patients and clinicians. It can enable new business models, new diagnostic and therapeutic modalities, and a new level of postmarket surveillance.
+
+Digital health product adopters are creating a pulling force that is characteristic of the medical industry. Patients pay to be healthy, doctors push for purchases in their hospitals to help with patient care, and providers are willing to invest in order to save more later.
+
+Personal smartphones mean that the expectations of everyone are changing. All stakeholders—patients, their families, care provider, and payers—have a new idea of the amount and kind of information that should be available (appropriately secure and private, of course). For an example of what an empowered patient can do with their own data, see Kim Goodsell’s story in Eric Topol’s book The Patient Will See You Now .
+
+To cross the adoption chasm, there are many opportunities at the intersection of the Affordable Care Act and digital health. Let’s examine how companies are using the power of digital health to address goals of the various constituencies and speed adoption.
+
+Dr. Bob Thornberry is an orthopaedic surgeon in Tallahassee, FL. The biggest orthopaedic care challenge is the “re-do.” For instance, if a total hip replacement is positioned off-axis, there are significant chances of the patient experiencing issues. These may need to be addressed by bringing the patient back for a repeated surgery. Under ACO incentives, this repeat would not be reimbursed. Furthermore, there is a list of quality metrics by which the surgeon is judged and reimbursed. Dr. Thornberry is developing a tool that will provide input to the surgeon so that misalignments are avoided. Even better, the device provides the opportunity to record a quality metric that is directly under the surgeon’s control. The metric connects with HIPAA data with the patient’s electronic health record and is also stored without identifiers for quality measurement within the ACO.
+
+Proteus Digital Health offers an adherence solution for those interested in ensuring people take their pills. A small radiofrequency tag emits a signal—powered by a version of the potato battery—when the pill reaches the stomach. Based on this signal, patients can monitor their own medication habits and their physicians can access the data as well. This particularly comes into its own when the patient is older and living independently: Grown children can have confidence that pills have been taken.
+
+In time, it is expected that families will come to expect to see evidence that their loved ones are being cared for. The Affordable Care Act clearly imagines that everyone will benefit if the ACO is aligned with this desire.
+
+eTreat addresses both Patient and Doctor need to drive adoption. Patients needed a solution to arthritis issues. In chronic arthritis care management, the doctors can feel helpless without better actionable information, and the patients have trouble knowing what information is right to share. eTreat leverages patients’ smartphones to build a time series data set of objective physical images and subjective pain assessments. The eTreat solution drives adoption by providing patients some control over their health and doctors accurate information for action and efficient treatment; physician evaluation times are reduced by the ongoing monitoring.
+
+ACOs can save money in a variety of ways, in particular by increasing the speed in which they can discharge patients promptly, direct to home with high satisfaction.
+
+Home monitoring with behavioral prompts is a great way to tick all these boxes: Patients are in charge of inputting data, doctors can quickly review status and set up automated outpatient care, and healthcare providers will salivate over the savings when patients are discharged days sooner.
+
+MedUX is a company leveraging personal mobile devices to address the surgeons need for information in the operating room. They are solving one of the most vexing problems in the hospital today: how to give surgeons and radiologists direct, tactile control over their digital data, mobile devices, and medical equipment from within the sterile field. Surgeons say solving this issue would save 10%–20% of a typical procedure's time while drastically reducing tension, miscommunication and frustration in the operating room. The sterile controller is the world's first tactile controller for surgeons, eliminating the barrier that previously existed between surgeons and their digital data and medical equipment controls, without the user interface compromises inherent in gesture and voice recognition systems
+
+Pump Essentials has identified the opportunity provided by assured reimbursement for breast pumps for new mothers. In addition to providing the tool and completing the paperwork, their mission is to help mothers achieve their individual breastfeeding goals
+
+Conclusion
+
+To achieve fast adoption, you need to understand your potential adopters. All stakeholders’ expectations are changing in the context of the Affordable Care Act and the digital health revolution that is just starting to gather pace.
+
+The most successful products are those that consumers want even before being invented. Translated into medical devices, they deliver desired outcomes for three constituents: patients, payer, and providers. Relief, control, and reduced cost are key to user adoption.
+
+John Walmsley is vice president of product development at StarFish Medical . Hear him speak on the topic of "Growth Opportunities in Patient Compliance" at the MEDevice San Diego conference on September 2, 2015.
+
+[image courtesy of STOCKIMAGES/FREEDIGITALPHOTOS.NET]

@@ -1,0 +1,45 @@
+A new report dives into the problem-plagued development of the ObamaCare website and finds repeated warning signs that went unheeded before its failed launch.
+
+President Obama has called the launch of healthcare.gov a “well-documented disaster,” and a Department of Health and Human Services Inspector General report provides a new in-depth look at the problems and lessons learned.
+
+ADVERTISEMENT
+
+The IG report finds that the Centers for Medicare and Medicaid Services (CMS), which oversees healthcare.gov, received 18 “documented warnings” of problems with the site’s construction between July 2011 and July 2013. But the warnings were either not communicated across the agency or not acted upon, the report says.
+
+One lower-level agency worker told the IG investigators: “[CMS senior officials] would sit in meetings across from me and not know there is an enormous fire burning behind them.”
+
+Just one month before the Oct. 1, 2013 launch, CMS officials requested a live demonstration of the application process from CGI Federal, one of the main contractors. But the contractor provided only snapshots of the software, rather than an actual demonstration. But, according to the report, the incident didn’t set off alarm bells among CMS leadership.
+
+A CMS technical official told the IG, “You can’t test drive a Ferrari just by looking at pictures of a Ferrari going fast.”
+
+CMS technical staff also often avoided reporting bad news, the report says.
+
+“Correspondence indicated that this was driven in large part by the belief that they would be able to succeed in the end, and thus there was little benefit to causing alarm,” the IG report reads.
+
+The IG says that just days before the launch, CMS officials visited the offices of another contractor, Terremark, after realizing the site’s capacity needed to be doubled.
+
+There was also a lack of testing to make sure the system worked, the report found. One CMS technical official “characterized the launch itself as a test of the system.”
+
+Still, the IG reports that CMS leadership held no formal discussion about delaying the website launch date. CMS officials told the IG they “did not understand the depth of the technical problems.”
+
+“CMS leadership and staff took little action to respond to warnings, remaining overly optimistic about the launch, and developing few contingency plans,” the IG report states.
+
+And when the site did crash upon its debut, efforts to fix the problems went into overdrive. But repair work was hampered by a lack of tools to monitor problems.
+
+“A member of the ad hoc technology team noted that in the absence of comprehensive monitoring tools, ‘There was no place to look to find out whether the site was up today or not except CNN, which was literally how we found out about problems a good part of the time in the beginning,’” the report states.
+
+An influx of new staff, including experts from the private sector, helped right the ship and register nearly 5.5 million people by the end of that first year’s enrollment period. A less hierarchical, “badgeless” work environment contributed to the improvement, the report found.
+
+CMS said in response to the IG report that it has made improvements to how the agency operates. For example, there is now a Marketplace CEO within CMS – previously, there was no single person with clear leadership over the health insurance exchange.
+
+CMS also ended its contract with CGI and awarded a different type of contract to Accenture, with a structure aimed at rewarding performance.
+
+“The lessons learned from the initial problems in 2013 and CMS’ subsequent improvements to the website have also been applied throughout the organization in order to improve management with a clear focus on leadership, accountability, and prioritization of deliverables,” CMS spokesman Aaron Albright said in a statement.
+
+But the report found that some problems persisted beyond the first year. CMS’ 2014 efforts to fix major problems with the site ultimately delayed work on an automated financial management system. The IG later found that the manual system in place in the interim “could not confirm the accuracy of payments.”
+
+The report says that CMS plans to complete the automated payment system this year, which the IG called “the most significant technical challenge facing CMS.”
+
+The IG also found that CMS is taking steps to improve employee morale.
+
+“A sense of CMS staff fatigue is unlikely to be abated in the near future with an aggressive schedule for the Federal Marketplace planned through 2016,” the report finds.

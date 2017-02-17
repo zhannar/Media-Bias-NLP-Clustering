@@ -1,0 +1,19 @@
+Engineers at the University of San Diego are hard at work developing a new kind of visual recognition software. Unlike facial recognition software, which uses characteristics to determine unique identities, this new algorithm recognizes patterns to place individuals in groups: Hipster, goth, surfer, punk, etc.
+
+Why? Like most things, it all comes down to money. The idea is that group classifications will become useful a tool for advertisers—surfers will be able to be targeted with ads for Sex Wax and board shorts, while hipsters will see ads for fair trade coffee and Warby Parkers.
+
+It works by actually identifying characteristics in photos and using them to create subsets. From Quartz:
+
+It takes a set of photos, each with their own label, such as “cat,” “car,” “emo,” and then finds the features in the photos that best predict the label of a new photo. The algorithm leverages the assumption that pictures with a similar set of feature values are likely to have similar labels. So if it looks at a picture, sees a pair of horn-rimmed glasses, a waxed moustache and a lumberjack shirt, and is told that it is looking at a hipster, it can move on to a new photo and identify a quinoa lover just from their look.
+
+The Obama administration came under fire last night for this Obamacare ad that looked like it could have benefited from such tailored targeting:
+
+How do you plan to spend the cold days of December? http://t.co/Rwf5AYc3bG #GetTalking pic.twitter.com/PBQ397yLf4 — Barack Obama (@BarackObama) December 17, 2013
+
+The obvious place for such an algorithm to function is Facebook, where your real identity and the abundant photos of you would provide a more than ample data set to identify you as a hipster (or surfer, etc) and thus show you the corresponding ads. But as Google pushes more of the web towards Google Plus it could apply there as well.
+
+The glaring question is whether we want this kind of encroachment into our lives and behaviors on the web. What if you were a total hipster in college but have matured into what the algorithm would define as its “formal” subset? Will those old Facebook photos have you seeing ads for reclaimed leather belts for the rest of your life?
+
+Or there’s just the question of whether we really want an algorithm purporting to “know” us at all. Despite the algorithm’s accuracy (it’s just 49% right now, but still in development) it’s just creepy.
+
+Then again, the current system of serving up ads based on what you’ve clicked previously isn’t much better—I was doing some research for an article on the worst gifts on Amazon, and now I see ads for prosthetic earwax everywhere I go.

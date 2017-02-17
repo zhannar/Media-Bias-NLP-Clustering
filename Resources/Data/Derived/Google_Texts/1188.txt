@@ -1,0 +1,35 @@
+Word is out that banks and retailers are racing to meet an October 2015 deadline for U.S. retailers to accept new “chip" credit cards. The cards are a big improvement over the magnetic strip cards we use now.
+
+The new microchip cards are encrypted and cannot be counterfeited using stolen data, which is frequently done with today’s magnetic strip cards. But while this change will deflect fraud away from cash registers, it’s not a panacea for combating credit card fraud.
+
+ADVERTISEMENT
+
+The truth is, fraud is an arms race led by organized criminals in foreign states, and banks, retailers and credit card companies must employ a dynamic, multi-pronged approach to keep ahead.
+
+For example, you may have heard that “chip and PIN” has been widely and successfully used in Europe for years. However, European credit card fraud surpassed all-time record highs in 2013, even in countries with wide and long-standing adoption of the technology.
+
+The fraud reductions provided by PIN appear to be fleeting and ultimately illusory. “When fraud losses peaked in 2008, UK issuers sharply reduced card fraud through fraud analytics and the introduction of chip and PIN. However, criminals have been adapting ￢ pickpocketing after watching consumers input their PIN, or calling cardholders and purporting to be part of a bank¹s fraud team, when actually they are stealing card details,” Martin Warwick, a principal fraud consultant at FICO, recently told the Guardian.
+
+The benefit of Chip and PIN cards is mostly in the encryption chip – it scrambles card numbers as they travel through the payment system, making them useless to thieves who try to intercept them through skimming or hacking. Without a useable card number in hand, thieves are cut off at the source and cannot make counterfeit cards.
+
+That's important because retail stores like Target and Home Depot have been the sites of massive security breaches where thieves pillaged their unencrypted credit card records. For example, malware on Target's cashier computers resulted in the theft of an estimated 40 million unencrypted credit card numbers during that chain’s infamous breach. In that case, the computer virus lifted credit card data as purchases were being rung up at thousands of cashier computers; similar malware programs are easily purchased on the so-called “Dark Web.”
+
+The Identity Theft Resource Center, a non-profit organization that monitors identity theft and assists victims, compiled data on every publicly disclosed data breach, finding that banks accounted for only 5.5 percent of data breaches, whereas retailers were responsible for 33 percent of breaches.
+
+However, Chip and PIN technology cannot prevent thieves from hacking poorly guarded Internet vendors or using stolen data to make purchases online, where only credit card numbers and expiration dates are generally required to make purchases. A risk of theft exists when, after an internet transaction is completed, a merchant retains information sent in an unencrypted form.
+
+That's a major loophole that is likely to drive fraud online. As Warwick put it, fraud is “like a balloon - squeeze it in one place and it bulges somewhere else.²” There are other loopholes, including that the initial waves of Chip and PIN cards will also allow for the traditional magnetic swipe technology to be used as a backup, meaning the old data is still accessible from the card.
+
+Experience in the U.S. and EU demonstrates that fighting fraud requires a vigilant, adaptive campaign. Thieves are extremely skilled at probing new technologies for weaknesses and have waged attacks that left security researchers stunned, thinking that only nation states were capable of attacks at that scale.
+
+Additionally, in France, thieves have moved from credit cards to identity theft, which can leave victims with far more personal damage to recover from.
+
+The cutting edge of fraud prevention includes the use of sophisticated “machine learning” algorithms to flag suspicious account activity, end-to-end encryption, which prevents any intercepted communications from being read, and so-called “tokenization,” in which only a cryptographic passcode is provided to the retailer through the card.
+
+Tokens are like getting a new self-destructing card number for each transaction, never putting the underlying account at risk. Tokenization will inevitably replace the 4 or 6 digit PIN passcodes currently in use, which are both inconvenient for consumers - who on average carry four cards in their wallet - and are fairly easy to penetrate compared to more robust cryptographic solutions.
+
+While it’s might appear easier to secure a small number of financial computer systems that process the payments than it is millions of point of sale computers that interact directly with the credit card, we need end-to-end solutions that involve everyone who touches consumer data. Thieves have exploited weak links and broken doors in the data chain to stay a step ahead of law enforcement. To combat this trend, anti-fraud measures are moving in the direction of more sophisticated encryption and tokenization approaches.
+
+Credit card fraud creates major headaches for consumers and costs the economy billions of dollars. Chip cards are an improvement, but we have a long way to go in the fight against thieves in the digital age.
+
+O’Neill is a former FBI counterintelligence operative and a cyber security consultant at The Georgetown Group.

@@ -1,0 +1,27 @@
+Out with “doctor’s orders,” and in with “shared decision-making.”
+
+The U.S. healthcare system has witnessed sweeping reforms in recent years. The passage and implementation of the Affordable Care Act and the move from a fee-for-service model to value-based care reimbursement are just two examples of how the ground is shifting beneath Americans’ feet.
+
+Another change has been hospital administrators, government bodies, and healthcare quality agencies increasingly acknowledging that shared decision-making—when clinicians and patients together agree on a course of action after weighing potential benefits and risks—is a component of good medical care, says Jon Keevil, a cardiologist at the University of Wisconsin Hospitals and Clinics, aka UW Health.
+
+While there’s been more buzz around shared-decision making recently—including new tools aimed at soliciting patient input in the emergency room, where some choices must be made in the blink of an eye—Keevil says that the concept isn’t especially novel.
+
+“If you talk to most senior primary care or specialty physicians that do a good job, many of them will look at the criteria of shared decision-making and say, ‘That’s what I do with my patients. That’s just good care,’” Keevil says. “What everybody wants to bring to the table [is] having decisions involve the patient’s values and the best of the science.”
+
+Keevil is the founder of HealthDecision, a Madison, WI-based company whose software retrieves data from a health system’s electronic medical records and presents the information to patients in a way that helps them make a plan with their doctors. Keevil officially launched HealthDecision in 2004, and it has slowly grown into a nine-person outfit. Earlier this year, he informed leaders at UW Health that effective July 1, he will be resigning from the organization to devote his full energies to HealthDecision.
+
+One choice the startup’s software helps UW Health physicians and their patients make is whether to begin treatment with a cholesterol-lowering statin. The system examines factors such as current cholesterol levels, blood pressure, age, and sex. Keevil says that in many cases, the patient’s risk of a heart attack, stroke, or cardiac death is tiny (meaning there’s little use in taking a statin) or significant (the patient should start taking one immediately).
+
+“And then there’s all the people in the middle, the sort of gray zone,” Keevil says. “[The software] supports a more thoughtful conversation.”
+
+Two additional modules are currently available to clinicians at the organization. One is configured to help patients with an abnormal heart rhythm known as atrial fibrillation, or A-fib, evaluate the risks and benefits of taking an anticoagulant medication.
+
+The other, which recently launched at UW Health and on HealthDecision’s website, helps in deciding whether to undergo a computed tomography (CT) scan to screen for lung cancer. Keevil says that a little over a year ago, the Centers for Medicare & Medicaid Services announced that it would only reimburse for CT scans if the provider used a shared decision-making mechanism to decide whether patients should have them, and documented the process in the chart. That determination by CMS persuaded Keevil and his team that there would be demand from providers for a lung cancer-related tool, so they built one.
+
+Keevil says that in 2015, more than 13,000 patients at UW Health were cared for with help from the tools.
+
+The seeds for HealthDecision were planted during the 1990s. Keevil, who earned a degree in engineering and computer science before going on to medical school, says that guidelines for what physicians should tell patients about managing cholesterol, for example, are often very complex. He thought it made sense to … Next Page »
+
+Jeff Buchanan is the editor of Xconomy Wisconsin. Email: jbuchanan@xconomy.com Follow @_jeffbuchanan
+
+Trending on Xconomy

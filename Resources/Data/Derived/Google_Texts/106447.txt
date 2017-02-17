@@ -1,0 +1,107 @@
+Monday, November 9, 2015
+
+Asset managers and other traders should expect aggressive anti-spoofing enforcement and consider reviewing their trading practices in light of this most recent development.
+
+On November 3, 2015, a federal jury in Chicago, Illinois found commodities trader Michael Coscia guilty on six counts of commodities fraud and six counts of spoofing, the first criminal conviction for that offense under the Dodd-Frank Act. This case is significant as the Department of Justice (DOJ) successfully prosecuted a trader for violating a statute—spoofing—that is both amorphous in its meaning and technical in its application.
+
+This conviction foretells the shape of things to come. Asset managers, proprietary trading firms, and others active in the derivatives markets should have no doubt that their trading activities will continue to be under scrutiny, both for spoofing and other types of disruptive and manipulative trading. A transaction that is questioned by a broker, other traders, or an exchange could become the basis for a government investigation, as the exchanges, the Commodity Futures Trading Commission (CFTC), the DOJ, and foreign regulatory authorities continue to collaborate in this area. It should also remind firms that a careful review of their trading programs and algorithms is in order. Firms that understand and can articulate the economic substance of their trading activities will be better positioned to defend against allegations of “spoofing” or other improprieties.
+
+What Is Spoofing?
+
+“Spoofing” is a form of market manipulation using trading strategies that are designed to rapidly place, and then quickly cancel, orders before execution with the intent that the original order be cancelled for non-bona fide purposes.
+
+Section 747 of Dodd-Frank amended the Commodity Exchange Act (CEA) to make spoofing illegal. Specifically, Section 4c(a)(5) of the CEA makes it unlawful for a person to engage in any trading, practice, or conduct on or subject to the rules of a registered entity (such as a futures exchange) that “is of the character of, or is commonly known to the trade as, ‘spoofing’ (bidding or offering with the intent to cancel the bid or offer before execution).”
+
+While this change in law gives civil and criminal enforcement authorities a clear mandate for pursuing this manipulative trading practice, it has remained uncertain what specific conduct would so qualify. A recent publication by the CFTC and recent enforcement actions brought under Dodd-Frank have provided some direction for firms.
+
+In May 2013, the CFTC published guidance on spoofing and other disruptive trading practices.[1] The CFTC guidance clarifies that:
+
+The CFTC “interprets a [spoofing] violation as requiring a market participant to act with some degree of intent, or scienter, beyond recklessness” to violate the statute.
+
+“[L]egitimate, good-faith cancellation or modification of orders (e.g., partially-filled orders or properly placed stop-loss orders) would not” be considered unlawful spoofing.
+
+“When distinguishing between legitimate trading … and ‘spoofing,’ the [CFTC] intends to evaluate the market context, the person’s pattern of trading activity (including fill characteristics), and other relevant facts and circumstances.”
+
+The prohibition against spoofing covers “bid and offer activity on all products, traded on all registered entities” and is not restricted to “trading platforms and venues only having order book functionality.”
+
+The CFTC also provided the following four “non-exclusive examples” of unlawful spoofing:
+
+Submitting or canceling bids or offers to overload the quotation system of a registered entity.
+
+Submitting or canceling bids or offers to delay another person’s execution of trades.
+
+Submitting or canceling multiple bids or offers to create an appearance of false market depth.
+
+Submitting or canceling bids or offers with the intent to create artificial price movements upward or downward.
+
+Additionally, the CME Group and ICE Futures US have issued guidance offering their interpretations as to what constitutes disruptive practices and outlining factors that their market regulation departments may take into account in determining whether conduct is disruptive to the market.[2]
+
+The Coscia case and testimony elicited during trial provide more insight and clarity into what conduct is prohibited and how firms can conform their trading practices to avoid sanctions.
+
+United States v. Coscia
+
+In October 2014, Coscia was indicted on six counts of commodities fraud and six counts of spoofing by a federal grand jury sitting in the Northern District of Illinois.
+
+Coscia was accused of utilizing sophisticated computer trading algorithms called “Flash Trader” and “Quote Trader” to manipulate futures market prices. The Flash Trader algorithm allegedly placed a small order on one side of the market, and the Quote Trader algorithm would place large orders on the opposite side at the same time. The large orders were then promptly canceled just before execution, creating the illusion of market interest, or disinterest, in different commodities to artificially move prices in Coscia’s favor. Only after the market reacted to these spurious orders did Coscia place and fill “real” orders, allegedly reaping $1.4 million in profits.
+
+Judge Leinenweber of the United States District Court for the Northern District of Illinois denied Coscia’s motion to dismiss in April 2015, holding that Congress’s prohibition on spoofing was presumptively valid and that Dodd-Frank fairly apprised Coscia that his specific trading activities were illegal.[3]
+
+Coscia’s trial began on October 26, 2015 and concluded after six days. Key points of testimony and evidence included:
+
+Testimony from a former computer programmer at Coscia’s firm that Coscia gave him detailed guidance on developing trading algorithms that would, among other things, create orders “used to pump [the] market.”
+
+Testimony from two witnesses, one from ICE Futures Europe and another from CME Group Inc., that Coscia’s trading patterns showed high instances of canceling large orders—specifically, that Coscia’s firm cancelled more than 95 percent of orders it placed in the August-October 2011 timeframe.
+
+Evidence that only 371 of the 460,000 large orders Coscia placed in a two-month period were completely filled before they were canceled while 36 percent of Coscia’s smaller orders were filled.
+
+Testimony from current and former employees of other trading firms about how Coscia’s trading negatively impacted them.
+
+Testimony from Coscia that he intended to trade on every order he placed, that he “never put in any orders [he] didn’t want to trade,” and that his orders “improved the market for everyone” by making the best bids and offers. Concerning the trading algorithms, Coscia testified that they were designed to cancel orders that did not trade within a certain time period, ranging from about 100 milliseconds to 400 milliseconds, because he considered that passage of time to construe a change in market conditions.
+
+Expert testimony that (i) using a trading strategy of unbalanced orders in the market was common in the market-making business, and (ii) Coscia’s cancellation rate for orders was lower than those of other high-speed trading firms for a one-week period in September 2011.
+
+The jury deliberated for a little more than one hour before finding Coscia guilty on all 12 criminal counts. Coscia is scheduled to be sentenced in 2016. Each count of commodities fraud carries a maximum sentence of 25 years’ imprisonment and a $250,000 fine. Each count of spoofing carries a maximum sentence of 10 years’ imprisonment and a $1 million fine.
+
+In addition, in 2013, Coscia settled civil claims brought by the CFTC by paying a $2.8 million fine and consenting to a one-year trading ban.[4] Coscia also settled with the CME in 2013 by paying a $200,000 fine, consenting to a six-month trading and membership ban with the CME, and disgorging more than $1.3 million.[5] Coscia also settled charges with the UK Financial Conduct Authority (FCA). He did not admit or deny the CFTC, FCA, or exchange charges.
+
+Implications and Future Enforcement
+
+The Coscia guilty verdict is significant for several reasons:
+
+The verdict, and particularly the short length of the jury’s deliberation, demonstrates that spoofing prosecutions are viable and are not too complex for a jury to understand. Criminal authorities and the CFTC may be emboldened to bring more of these cases as a result.
+
+It was difficult for Coscia’s defense team to convince enforcement authorities, and ultimately a jury, about the economic rationale of placing and cancelling orders, and particularly large orders, within milliseconds.
+
+An automated self-cancelling trading algorithm can be seen as market-manipulative under Dodd-Frank’s anti-spoofing provisions.
+
+With the DOJ’s victory in Coscia, and after over three years of heightened civil enforcement by the exchanges and CFTC, expect aggressive enforcement of the anti-spoofing provisions to continue to increase. To this end, the CFTC filed a civil complaint in April 2015 against London-based high-frequency trader Navinder Sarao and his firm, Nav Sarao Futures Ltd.[6] The agency alleges Sarao manipulated the Chicago Mercantile Exchange’s E-mini S&P 500 futures contract by placing—and then promptly canceling or modifying just before execution—hundreds of thousands of “exceptionally large” trades. The agency further alleges that Sarao helped to cause the “flash crash” of 2010. In addition, on October 19, 2015, the CFTC filed suit against Chicago-based trader Igor Oystacher and his firm 3Red Trading LLC on charges of spoofing.[7] The complaint alleges that Oystacher and his firm carried out more than 5,000 spoof orders from December 2011 to January 2014, involving nearly 360,000 underlying contracts—orders that were usually cancelled in less than a second.
+
+Practical Considerations
+
+With the lessons learned from Coscia and the CFTC’s earlier guidance in mind, it is prudent for traders to review their trading strategies and algorithms. Firms should consider the following factors when evaluating if their trading strategies and algorithms lead to higher cancellation rates:
+
+Do trading algorithms call for cancellation of bids and offers in all cases, even when prices move in a favorable direction?
+
+Are cancellation rates of bids and offers meaningfully higher during contract closing periods?
+
+Are there differences between fill rates for large versus small orders?
+
+Is there a potential connection between cancellation activity and market prices?
+
+Are cancellations driven by trading in other markets (such as where a strategy is pursued through both the futures markets and the securities markets)?
+
+Firms should also be mindful of order-fill rates generally and have a legitimate rationale for all orders and cancellations. Indeed, firms should evaluate any coding instructions or other computer programming direction to ensure there is a legitimate rationale for the instructions. Finally, traders should be aware of the aggressive push by civil and criminal authorities, often working in tandem and with overseas regulators, in this emerging area of enforcement.
+
+[1] See 78 Fed. Reg. 31890 (May 28, 2013).
+
+[2] See CME Group Market Regulation Advisory Notice RA 1405-5R (September 15, 2014) as modified by CME Group Market Regulation Advisory RA 1516-5 (October 9, 2015), and ICE Futures US Disruptive Trading Practices FAQs (January 2015).
+
+[3] United States v. Coscia, No. 14-CR-551, 2015 WL 1805955 (N.D. Ill. Apr. 16, 2015).
+
+[4] http://www.cftc.gov/PressRoom/PressReleases/pr6649-13.
+
+[5] http://www.cmegroup.com/tools-information/lookups/advisories/disciplinary/CME-11-8581-BC-MICHAEL-COSCIA.html#pageNumber=1.
+
+[6] CFTC v. Nav Sarao Futures Ltd PLC et al., No. 1:15-cv-03398, 2015 WL 1843321, complaint filed (N.D. Ill. Apr. 17, 2015).
+
+[7] CFTC v. Oystacher et al., No. 15-cv-9196, complaint filed (N.D. Ill. Oct. 19, 2015), available here.

@@ -1,0 +1,27 @@
+Unpredictable variation in the sizes of patient panels attributed to primary care providers in the Department of Veterans Affairs (VA) may be restricting patient access to basic services, found a report by the Government Accountability Office (GAO).
+
+The “unreliable” structure of patient attribution, as well as missing and inaccurate data, also make it difficult to perform meaningful care quality analytics.
+
+The VA provides primary care at 150 medical facilities across the country, and requires these organizations to record and report on patient panel sizes, or the number of patients attributed to each primary care provider, in order to effectively manage provider workload, ensure availability of appointments, and report on patient outcomes and spending.
+
+When the GAO obtained data from six of these facilities as part of its oversight of the system, it found that the actual size of patient panels varied from 23 percent below the modeled panel size to 11 percent above the recommended number of patients per provider, which the report pins at 1200 patients.
+
+“Such wide variation raises questions about whether veterans are receiving access to timely care and the appropriateness of the size of provider workload at these facilities,” the report says.
+
+The VA health system and its workflows have been under intense scrutiny in recent months after a whistleblower uncovered serious defects in the system’s scheduling technology, which may have led to the deaths of dozens of veterans unable to access necessary services.
+
+While the VA has taken significant steps to correct these deficiencies, including EHR upgrades, the installation of a new crop of top executives, and the expansion of care sites and services, the health system still suffers from notable oversight and accountability issues, GAO says.
+
+“GAO found that while VA’s primary care panel management policy requires facilities to ensure the reliability of their panel size data, it does not assign responsibility to VA Central Office or networks for verifying the reliability of facilities’ data or require them to use the data for monitoring purposes,” the report states.
+
+“Federal internal control standards call for agencies to clearly define key areas of authority and responsibility, ensure that reliable information is available, and use this information to assess the quality of performance over time,” the brief explains.
+
+“Because VA’s panel management policy is inconsistent with federal internal control standards, VA lacks assurance that its facilities’ data are reliable and that the facilities are managing primary care panels in a manner that meets VA’s goals of providing efficient, timely, and quality care to veterans.”
+
+In contrast to its questionable patient panel data, the VA does “reliably” report on its expenditures, the GAO acknowledged. However, the data does reveal another problem: extremely wide variation in the costs of care, even after adjusting for geographical differences in the cost of labor.
+
+Expenditures per primary care encounter ranged from $150 to $396 dollars, which may indicate that some facilities are suffering from inefficiencies that are needlessly driving up costs.
+
+While the VA uses this data for its accounting and financial analytics, its governance policies do not require the system to correlate expenditure data with encounter information in order to gain insight into the quality of primary care. This may be detrimental to patients, GAO says, and should be corrected if the VA wants to develop an accurate portrait of its services and outcomes.
+
+“Using panel size data in conjunction with encounter and expenditure data would allow VA to assess facilities’ capacity to provide primary care services and the efficiency of their care delivery,” the report concludes. “By not using available encounter and expenditure data in this manner, VA is missing an opportunity to potentially improve the efficiency of primary care service delivery.”

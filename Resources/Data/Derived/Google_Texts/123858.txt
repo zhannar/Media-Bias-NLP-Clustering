@@ -1,0 +1,95 @@
+The Kansas Legislature’s auditors say that the rollout of the computer system the state now uses to process Medicaid applications was long delayed in part because the contractor’s software required numerous modifications.
+
+State officials say the system is improving and ultimately will make applying for Medicaid and social services a much more efficient process.
+
+But documents obtained by KHI News Service show that state workers must learn dozens of “workarounds” to process applications. And some service providers who help clients get Medicaid coverage are reporting much longer processing times since the system went live in July and the state deals with a backlog of applications.
+
+Kansas signed a contract with Accenture to build the Kansas Eligibility Enforcement System, or KEES, in 2011. The system originally was slated to be complete by the end of 2013, , but considerable delays caused lawmakers to seek an audit in March.
+
+The audit report published Thursday said the KEES timeline was unrealistic from the beginning. The system had to be adjusted because of state and federal changes to Medicaid, some due to the Affordable Care Act. But there also were problems with Accenture’s “out-of-the-box” software.
+
+“Although many modifications to the software were anticipated, far more extensive changes were required to meet the state’s needs,” wrote the Legislative Post Audit team, led by Matt Etzel. “These modifications required additional time to plan, design and implement and therefore increased the cost to build KEES.”
+
+Auditors also determined that some of the functions Accenture promised had to be postponed, reduced or scrapped.
+
+Hundreds of workarounds
+
+Documents show that the state developed almost 400 workarounds during the KEES testing phases for employees to overcome problems or limitations within the system.
+
+Aaron Dunkel, deputy secretary of KDHE, said that was a small number compared to other states that had done similar technical revamps.
+
+“It’s put us leaps and bounds ahead of other states,” Dunkel said of KEES.
+
+The documents show that more than 50 workarounds — some of them with 10 or more steps — have been added or changed since mid-June, when the program was about to go live. A state employee who requested anonymity said the system workarounds are causing delays in processing Medicaid applications.
+
+According to a former state agency information technology director, the documents indicate that KEES was not ready for rollout.
+
+“I’d be very concerned if this were my system and this is what I was seeing, that we had put it into production too soon and without adequate testing,” said Neil Woerman, who worked as a technology director for the Kansas Insurance Department.
+
+Glen Yancey, chief information officer for KDHE, has led the state’s oversight of the KEES project since 2013. He said every project he’s worked on required “instruction sets for people to use in order to efficiently use the system.”
+
+“That’s what those workarounds are — instructions on how to use the system correctly,” Yancey said.
+
+The auditors said the state’s management of KEES appears to have improved since Yancey took over.
+
+Sara Belfry, a spokeswoman for KDHE, said KEES is “up and running” and the agency has “implemented fixes to improve processing time.”
+
+The agency also is getting help for workers dealing with a backlog of more than 6,000 Medicaid applications, she said. Kansas Medicaid, or KanCare, currently serves more than 420,000 people.
+
+“Actions have been undertaken to address and eliminate the pending applications,” Belfry said. “We have added and re-deployed additional staff to increase application processing capacity and continue to make system improvements to decrease application processing time.”
+
+Providers report delays
+
+Organizations that help Kansans apply for Medicaid say a process that used to take 10 days can now take more than a month, or even several months. That can have consequences for both patients and providers.
+
+Andy Rausch, a 41-year-old from Parsons, was in a coma while his children were struggling to get Medicaid coverage.
+
+Rausch has had a heart condition for most of his adult life. Complications from a routine dental procedure in July turned into a life-threatening blood clot, a trip to a hospital in St. Louis and a long recovery.
+
+“I was in the hospital for three months,” Rausch said. “And still nothing happened for the kids the entire three months.”
+
+While Rausch was incapacitated, his ex-wife and some of her co-workers at the SKIL Resource Center in Parsons were trying to get coverage for his children, including one who needs medication for a chronic condition.
+
+It ultimately took four months. Rausch’s children had complicated applications because of shared custody and changes in their father’s income due to his illness. But SKIL director Shari Coatney and her staff who serve Kansans with disabilities said that kind of timeline has become increasingly common since the state began processing Medicaid applications through KEES.
+
+Bill Persinger, CEO of Valeo Behavioral Services in Topeka, said his workers also had reported problems with Medicaid since KEES went live.
+
+Persinger said that in addition to applications taking longer, some Valeo clients who were on Medicaid have been dropped from the program improperly.
+
+“It’s a concern to us,” he said. “It’s something our benefits counselor is helping people with.”
+
+Valeo continues to provide services in those situations, Persinger said, and tries to seek retroactive Medicaid reimbursement once the client is covered. It hasn’t affected his organization’s cash flow yet.
+
+“I will say that Medicaid is a pretty sizable chunk of our fee-for-service third-party income. So if there were considerable delays with that, I think it could represent some income disruption,” Persinger said. “But I’m not concerned about that right now, because I’m assuming it’s going to be a short-run problem and folks will fix it.”
+
+Yancey said any new system has a “learning curve to the workforce.”
+
+“You’re certainly going to take an initial dip in productivity,” he said. “When you come out on the other end, you’re actually more efficient.”
+
+Yancey said the ACA also made the rules for determining Medicaid eligibility more complex, requiring more data collection than in the past and causing some processing delays.
+
+Social services applications to be added to system
+
+The KEES system has not been fully implemented. Applications for other social services programs like food stamps and cash assistance through the Department for Children and Families are scheduled to be incorporated with the Medicaid processing portion in the spring.
+
+A backlog of more than 30,000 applications for food stamps grew in North Carolina last year after that state switched to a similar computer system, which also was developed by Accenture.
+
+Most of Accenture’s $135 million contract to build KEES comes from federal funds, as does an additional $50 million for ongoing maintenance.
+
+“Accenture has worked according to the contract and met delivery requirements, and remains strongly committed to the success of KEES,” Accenture spokesman Joe Dickie said via email.
+
+The auditors estimate that the KEES project will end up about $46 million over budget, but the federal government is expected to shoulder most of those costs as well.
+
+The state has renegotiated some of the terms of the ongoing maintenance contract. When asked if Accenture would continue on the project, Belfry seemed to signal no change was imminent.
+
+“Accenture has been a good partner to work with while implementing this complex and innovative IT system,” she said. “KDHE, DCF and Accenture are committed to the success of KEES.”
+
+Woerman said that based on the workaround documents, the system appears to have some technical problems, but most of the workarounds are meant to address what he called “business rules.” That is, the system may be working as designed from an information technology standpoint, but the design did not seamlessly integrate the complex Kansas Medicaid eligibility regulations.
+
+“These are very, very complex systems,” he said. “The business rules are massive.”
+
+Woerman worked on an insureks.org website that helped consumers estimate how much of a tax credit they might be eligible for on the Affordable Care Act federal Healthcare.gov marketplace. He said the problems with KEES put into context the issues that hopelessly bogged down the federal exchange when it first went live.
+
+“This is strikingly similar to what they were dealing with,” Woerman said, “and the big difference here is you have state employees who don’t have the same recourse for raising the issues.”
+
+Andy Marso is a reporter for KHI News Service in Topeka, a partner in the Heartland Health Monitor team. You can reach him on Twitter @andymarso

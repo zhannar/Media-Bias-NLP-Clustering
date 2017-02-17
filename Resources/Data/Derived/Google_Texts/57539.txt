@@ -1,0 +1,73 @@
+When Mike Taylor was shopping for a new electronic health record system, vendors boldly sat across the table from him and said flat-out that they won't integrate with other EHRs.
+
+For Taylor, CIO at Roper St. Francis, a Charleston, S.C.-based health network, a McKesson shop with Allscripts installed at hospice and home health environments, the next question met a similar fate. What about the interfaces?
+
+“We don't interface with Allscripts,” Taylor recounted being told by a major vendor. “You just have to buy our product.” Taylor added “obviously that didn’t work for us.”
+
+And that is just one of many harsh realities prospective customers face when trying to choose an EHR.
+
+[See also: Health systems underestimate time, cost of EMR rollouts.]
+
+“It’s been extremely frustrating when you sit down to select one,” Taylor continued. “There’s not a one-size fits all vendor in the marketplace, nor do I think there ever will be nor do I think that’s healthy. But the inability to take the best of each and pull them together to do what you're trying to do for healthcare and the patient, that’s the frustrating piece.”
+
+The EHR landscape, peppered with software programs that for reasons technological as well as proprietary or financially-driven do not interoperate, integrate or even interface with each other, will get better in time, of course, as most markets invariably do — but when?
+
+Disjointed nature
+
+Among the concerns Taylor rattled off about the current state of EHRs, in addition to how hard it is to select, purchase and implement, is not being able to get a complete picture of patients, and the difficulty of knowing how long the next EHR will effectively serve its purpose.
+
+“I’m concerned because I get the question if whatever we move to we’ll be on 10-15 years, but I have trouble thinking beyond five,” Taylor said. “I don’t mean to be flippant about it but what else are you gonna do? There are only so many players in the market and we’re starting to see that shake out.”
+
+[See also: Object of beauty, or ungainly nuisance?.]
+
+Indeed, the EHR market is “agitated” and “unstable” according to a report published in late July by Black Book. Based on Black Book’s and other firms’ research little doubt remains that many healthcare organizations are either planning to or are already in the process of switching EHR vendors. It’s worth noting that Black Book targeted replacement EHR buyers in its polling of 2,880 — and 81 percent of respondents are, in fact, planning to drop one EHR in favor of a newer model.
+
+The less-covered but more surprising finding in Black Book’s statistics, though, was that of the providers switching vendors, a market-quaking 88 percent short-listed at least two from a mere eight EHR makers, those being athenahealth, Care360 Quest, ChartLogic, Cerner, GE Healthcare, Greenway, Practice Fusion and Vitera.
+
+“I hope somebody, somewhere is working to build the ultimate EHR because I just don’t see it out there right now.” — Mike Taylor, CIO, Roper St. Francis
+
+Against the backdrop of so many healthcare organizations looking to switch EHRs and, in so doing, considering a relatively small number of vendors, do the Black Book findings essentially foreshadow the market consolidation that so many people seem to be anticipating? The idea being that fewer EHR makers will survive but their products will be stronger, both more usable and interoperable than what exists today.
+
+“That observation is spot on,” answered Black Book managing partner Doug Brown.
+
+So we know a great shakeout is coming. What’s harder to figure is the matter of timing.
+
+Beyond Stage 2
+
+At least as far back as HIMSS12 in Las Vegas when many health IT professionals and policy makers alike were eagerly, if not anxiously, awaiting the final rule on Stage 2 of meaningful use, people were asking if the more stringent requirements would be a mixed blessing that made qualifying more difficult for providers while simultaneously whittling down the list of certified EHRs from which to choose, thereby rendering a more navigable market.
+
+As of press time, Stage 2 had not been pushed back but several CIOs, Congressmen, EHR vendors and industry associations including CHIME, HIMSS, and MGMA have been calling for a pause or delay — whether at the onset or final attestation date — on the grounds that providers have heaping plates overflowing with Affordable Care Act provisions for payment reform, health information exchange, and ICD-10 compliance on the exact same deadline as Stage 2.
+
+The cadre of mandates, indeed, threaten to create what Siemens Health Services CEO John Glaser called “a perfect storm” that could cripple some health systems and create a world of “haves and have nots” in which mid-size and smaller providers simply lack the resources to keep up, even to survive.
+
+In mid-summer Senate Finance committee hearings, the strongest voice arguing against a delay was national coordinator Farzad Mostashari, MD, who earlier this month announced that he intends to step down come autumn, sparking a fistful of industry observers to wonder if that might be something of a tipping point leading to stage 2 delays.
+
+“I think it will normalize after Stage 2 but I kind of think Stage 2 may move, at least I hope so,” said Marc Probst, CIO of Intermountain Healthcare. “I think we’re looking at another 4 years of significant effort being required.”
+
+Whether it’s stage 2 or a new presidential administration that ultimately stabilizes the EHR market, as both roll in we’re going to see an even more intense focus on standards to help smooth the waters existing in the industry, Probst added.
+
+“EHRs, just from a workflow and how we do business perspective,” Probst continued, “it’s going to take that long to really burn in.”
+
+In consensus, Brian Ahier of Advanced Health Information Exchange Resources (AHIER) and a DirectTrust board member, added that even more important than stages of meaningful use are the certification years.
+
+“I think a lot of the products aren’t going to achieve 2014 certification,” Ahier said, explaining that some EHRs currently certified as whole systems might only manage modular certification while others will simply fall by the wayside.
+
+Podcast: Preparing for patient portals under meaningful use Stage 2
+
+Associate Editor Anthony Brino hosts this discussion about the challenges and opportunities CIOs face in implementing patient portals — and how they are finding that in some cases patients are ahead of the providers. Play in a new window.
+
+While 2014 will likely be the beginning of substantive change, Ahier added that it will ratchet up in 2016 and 2017.
+
+“The usability requirements will be what really solidifies the market,” he said. “I think it will take until 2016 and 2017 to really cull the market. When we move usability to the front with Stage 3, that’s when we’re going to see a big whittling down of the EHR landscape.”
+
+The ultimate EHR and future HIE
+
+The problems that the EHR market mess creates include the aforementioned limits on visibility into patient data and interoperability, the latter triggering issues with the potential to hinder care coordination as well as public and population health techniques that should be part and parcel of a digitized and modernized healthcare system.
+
+Indeed, once EHRs and ICD-10 do burn-in, Probst said, then the industry can get realistic about what to really expect from health information exchange. Just not before then.
+
+“This is not going to be as interesting sometime in the future as it is today,” Probst said.
+
+In the meantime, however, Roper St. Francis’ Taylor thinks the industry is ripe for some enthralling innovations.
+
+“My hope is that there are several guys in a garage right now coding the next EHR. I hope somebody, somewhere is working to build the ultimate EHR because I just don’t see it out there right now,” Roper St. Francis’ Taylor said, fresh from shopping all the major vendors. “Hopefully something emerges in the next few years or somebody puts the venture capital together and builds something much simpler, easier and more interoperable than what’s out there today.”

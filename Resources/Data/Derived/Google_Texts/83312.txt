@@ -1,0 +1,37 @@
+FBI Director James Comey conceded Tuesday that the government’s demand that Apple decrypt an iPhone used by a San Bernardino terrorist could set a precedent for succeeding cases.
+
+Comey’s nearly three-hour testimony before the House Judiciary Committee backpedaled the Justice Department’s previous assurance that the government would compel the tech giant to unlock only a single phone.
+
+Apple has rooted its resistance to the FBI in the notion that any of its iPhone users could be susceptible to privacy vulnerabilities if the government succeeds in forcing the company to create decryption software.
+
+Bruce Sewell, the senior vice president and general counsel at Apple, warned during a later panel that the emergence of a program that has the ability to break encryption effectively would make society less secure.
+
+“We see ourselves as being in an arms race—in an arms race with criminals, cyber-terrorists, hackers,” Sewell said. “We’re trying to provide a safe and secure place for the users of our devices to be assured that their information cannot be accessed, cannot be hacked or stolen.”
+
+The Apple official noted that encryption technology extends beyond his company, enabling terrorists and bad actors to download applications created outside the United States to make their phones uncrackable:
+
+What happens here, if Apple is forced to write a new operating system to degrade the safety and security in phones belonging to tens or hundreds of millions of innocent people, is, it will weaken our safety and security, but it will not affect terrorists.
+
+A federal court ordered Apple two weeks ago to deactivate an iPhone feature that automatically wipes data after an individual enters an incorrect password 10 times. The court also ordered the tech company to disable the function that delays time between successive attempts to access an iPhone.
+
+The government also is demanding that Apple create new software that would undermine encryption.
+
+If Apple complies, Comey said, the FBI could break into the iPhone 5c used by Syed Rizwan Farook, one of the terrorists who killed 14 people in San Bernardino, Calif., last year.
+
+Comey said it would currently take the FBI up to 10 years to unlock the phone using brute force—where tech experts test every possible password combination—even if the auto erase function were disabled. The requested software alterations would reduce that time to 26 minutes.
+
+Apple is challenging the court order, contending the FBI’s demand that it create a “backdoor” reversing encryption would expose protected data to hackers, including terrorists.
+
+But Comey rejected that claim. Instead, he said, the government is asking Apple to “take the vicious guard dog away” from a door that already exists on the iPhone 5c and to allow federal agents to “pick the lock.”
+
+The FBI director warned of the consequences of allowing technology to become warrant-proof, noting that until the creation of encryption, there was no space in the U.S. that could not be accessed through a court-ordered search warrant.
+
+“The problem we face here is, all of our lives are on these devices, which is why it’s so important that they remain private,” Comey said. “That also means that all of criminals’, and pedophiles’, and terrorists’ lives are on these devices, and if they’re warrant-proof, if even a judge can’t order access to a device, that is a big problem.”
+
+Apple filed a motion Thursday opposing the FBI’s demand, charging that it is an unconstitutional breach of power. Tech companies, including Google, Facebook, Microsoft, and Twitter, are uniting to back Apple.
+
+“What we’re being asked to do is to write a brand new computer code, write a new operating system,” Sewell testified. “The law with respect to the applicability of computer code to speech is well established. This is a compelled speech by the government.”
+
+He further said the order would violate the Fifth Amendment’s protection against conscription, because the government effectively would be forcing labor.
+
+The hearing by the House Judiciary Committee arrived a day after a federal magistrate in New York dealt a blow to the FBI, ruling in a separate case that the government could not compel Apple to mine data from an iPhone used in a drug crime.

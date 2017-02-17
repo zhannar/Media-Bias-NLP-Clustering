@@ -1,0 +1,33 @@
+When the federal online marketplace for the Affordable Care Act stumbled out of the gate last fall, leaving would-be applicants unable to sign up for care or even to view their plans, three young programmers thought they might be able to help frustrated users. In October, they packaged reams of publicly-available data into a website, healthsherpa.com, that allowed users to immediately view exchange plans in their area. But the site was intended for research only; users still had to purchase them through the federal and state health exchanges or, in some cases, directly through insurers.
+
+That changed last week, when the programmers — Michael Wasser, George Kalogeropoulos and Ning Liang — added functionality to their website that allows people to actually sign up for plans on their site, and joined a group of so-called Web brokers who offer a way to enroll in qualified health plans that they say is quicker and simpler than using the federal exchange.
+
+“We’re hoping that we’re building an easier place to sign up for health insurance where you get the same exact results as you would on HealthCare.gov,” said Mr. Wasser.
+
+Mr. Wasser said the programmers were approached last fall, after they started their website, by Bryan Sivak, the chief technology officer for the Department of Health and Human Services. They made an agreement that would allow healthsherpa.com to integrate with elements of HealthCare.gov and sign individuals up for on-exchange plans, with subsidies.
+
+The HealthSherpa team has since added two more employees and raised $1.1 million in seed funding. Their business model is similar to that of an insurance broker, since they will earn commissions from insurance companies when the individuals who use their site to sign up for coverage pay their premiums.
+
+Mr. Wasser said it currently took users on the site about an hour to sign up for care. First, users enter their zip code to see a list of available plans in their area, which they can refine according to their age, family size and their preferred level of coverage. After selecting a plan, they are directed to a page on healthcare.gov, where they enter information to determine their eligibility for tax credits and cost-sharing reduction. Users are then directed back to healthsherpa.com to confirm and enroll.
+
+“We’re just working to try to find as many ways as we can to shorten the time it takes for people to sign up,” said Mr. Wasser, who said he and his team would eventually like to reduce sign-up time to as little as 10 minutes.
+
+So far, according to Mr. Wasser, several hundred people have started the application process on his website, and about 40 had completed the signup process — about a third of whom had applied for subsidies.
+
+The Department of Health and Human services has about 30 agreements with Web brokers intended to enable the sites to offer consumers options outside the federal exchange to sign up for health care under the Affordable Care Act.
+
+“By strengthening the multiple channels to enroll in quality, affordable coverage through the Marketplace, we are offering Americans more options to purchase new coverage,” said Aaron Albright, a spokesman for the Centers for Medicare and Medicaid Services.
+
+But the sites have offered varying levels of functionality, in part because of technical issues in determining users’ eligibility, which is still done through the federal system.
+
+“The reason we’re not seeing more web brokers doing this process online right now is because the eligibility system is still being fixed,” said Claire McAndrew, the private health insurance director of FamiliesUSA, a health care consumer advocacy group.
+
+GoHealth.com, for example, has been signing up users for exchange plans with subsidies using a call center since November. And last month, GetInsured.com announced the launch of a web-only enrollment process for plans under the Affordable Care Act — something the company had initially planned on offering sooner. As HealthSherpa does, it now directs customers to HealthCare.gov and then back to its own sites during the process.
+
+The website eHealth can sign people up for plans, but the company’s C.E.O., Gary Lauer, recently told CNBC it had been unable to process subsidies.
+
+The private exchanges say that their tools make it easier for users to see available plans, and that their sign-up process is quicker than the federal exchange.
+
+But consumer advocates warn that Web brokers’ presentation of insurance plan information may be influenced by their commission deals with those companies.
+
+“For some plans you’ll see the premiums, the benefits, the cost sharing — for other plans you’ll see a name. That can really influence which plan a consumer might pick,” said Ms. McAndrew, who added, “I always recommend that people go to the official marketplace website.”

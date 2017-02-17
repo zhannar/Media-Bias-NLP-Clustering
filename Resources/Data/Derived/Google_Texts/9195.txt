@@ -1,0 +1,15 @@
+The new concept – called inVi – will enable diagnostics companies to develop a new generation of ‘point of care’ (POC) tests that are specifically designed to work using a smartphone to create accurate, repeatable tests without the expense of dedicated reading equipment. The approach could also give patients, communities and their healthcare providers easier access to existing tests that previously may have been too costly for routine or widespread use because they needed an expensive customised reader.
+
+“inVi will help diagnostic companies to target significant new market opportunities without having to invest the time and resources in developing their own reading equipment. Using a smartphone as a reader could also open the door to a wider range of tests for use at home or in GP surgeries, as well as in remote locations or where healthcare resources are scarce,” said Andrew Chapman, head of 42 Technology’s healthcare business.
+
+inVi represents a novel proposition to create an affordable portable IVD device by exploiting multiple embedded sensing technologies that exist in all smartphones. For example: using the smartphone touchscreen to detect when a user has successfully positioned a test cartridge, or actuated manual valves or pumping elements within the cartridge; or using the phone’s accelerometer to verify that the user has performed sufficient shaking to achieve a required degree of reagent mixing. Previous approaches have been limited to using the phone’s camera to read the colour of a test strip or its touchscreen as a user interface to another piece of connected equipment.
+
+The inVi architecture is broadly similar to existing systems where a diagnostic test cartridge contains all the necessary reagents alongside elements that can be activated by and/or interact with the reading instrument (for example plungers that act on physical elements within the cartridge). But with inVi it is the user who provides the actuation and their smartphone both instructs and verifies the steps as they happen.
+
+The user simply adds a sample, positions the transparent cartridge on the touchscreen after which the smartphone app confirms the correct positioning and starts the test. The app then prompts the user to carry out specific actions, illuminating different regions of the screen as required, and provides feedback to confirm the successful completion of each step.
+
+When the test is complete the smartphone ‘reads’ the result depending on the end-point of the specific assay: in some cases the camera will be used to detect colour changes against a comparator, and in others an ‘intelligent’ element within the cartridge will measure an electrochemical change and transfer the result wirelessly to the smartphone.
+
+inVi was so well received when it was shown to selected industry experts at this year’s Medtec Europe event that 42 Technology has decided to progress it commercially. The consultancy is now actively looking for commercial partners to help develop the core technology and approach, and to bring the first inVi diagnostics to market.
+
+_________________________________________________

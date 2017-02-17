@@ -1,0 +1,29 @@
+The highly publicized leak of stolen nude photos of dozens of female celebrities over Labor Day weekend generated outrage directed at the unknown person or persons who posted them online. But a large share of anger was also directed at Apple on the assumption that flaws in its cloud-based storage system, iCloud, or the phone-tracking Find my iPhone service, were at the root of the leak.
+
+The buzz among tech experts now, however, suggests that a wholesale breach of the Apple system is less likely the problem than poor password security on the part of the victims. None of this, of course, is meant to suggest that the victims are somehow at fault for having their pictures stolen and posted online without their permission. They are no more to blame for the posting of the pictures than a person who left a window unlocked is responsible for their home being burgled.
+
+Related: Selfies Fuel Cosmetic Surgery Boom, Doctors Say
+
+In a statement, Apple said, “After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions, a practice that has become all too common on the Internet. None of the cases we have investigated has resulted from any breach in any of Apple’s systems including iCloud or Find my iPhone. We are continuing to work with law enforcement to help identify the criminals involved.”
+
+The statement is ambiguous enough to make it unclear exactly what the company means by a “breach.” However, the broad claim that iCloud as a whole has been “hacked,” which was current in the media after the pictures were released, borders on the unbelievable. Hackers employed by Apple itself regularly assault the service in order to find vulnerabilities. It’s unlikely, though not impossible, that outside hackers would find a way in that Apple’s experts have not.
+
+Su Gim Goh, a security advisor in Asia for F-Secure, told New Delhi Television on Monday that the photos were probably not obtained through a traditional “hack” of the iCloud system, or through malware uploaded onto users’ phones. “Actual malware on iOS is still pretty limited,” he said.
+
+Far more likely, experts say, is that the celebrities affected – as many as 100 of them, according to some sources – were the victims of so-called “phishing” efforts, in which thieves pose as a person online in order to convince others to provide them with sensitive information.
+
+Related: Porn, Drugs, Hitmen, Hackers – This Is the Deep Web
+
+Goh pointed out that the security flaw may have had nothing to do with Apple at all. Because people often use easy-to-remember passwords online, and also use the same password for multiple sites, a hacker who found a way to access someone’s username and password for a less secure site might find that it worked on a site like iCloud as well.
+
+Others have speculated, however, that one factor in Apple’s system may have created an opportunity for hackers who managed to obtain their target’s email address. It appears that an iPhone feature that allows a user to track a phone’s location from a computer allowed unlimited login attempts, making it possible to launch so-called “brute force” attacks, in which millions of potential passwords are tried in rapid succession.
+
+While some have spent time analyzing the likelihood that iCloud was breached, others are discounting the possibility that all the photos were obtained by a single individual and/or from a single source.
+
+Matthew Panzarino, co-editor of the blog TechCrunch, wrote on Twitter, “Every researcher I’ve spoken to believes (at this point) that celeb images gathered over months, from multiple sources (not just iCloud).”
+
+Related: Samsung Takes Selfies to New Depths with Ortiz-Obama Ploy
+
+In any case, the release of the photos appears to have had little impact on Apple investors so far. On Tuesday, with the release of its next phone on the horizon and an expected rollout of a new smart watch, the company’s share price closed at $103.30, above its close last week.
+
+Top Reads from The Fiscal Times:

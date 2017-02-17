@@ -1,0 +1,51 @@
+Last week, two House Republicans raised the issue and threatened action. | John Shinkle/POLITICO Bipartisan worry on federal health IT
+
+Senate Democrats have joined Republicans in demanding an investigation into whether heavily subsidized electronic health records systems are blocking the free exchange of patient health information that was a major objective of the multibillion-dollar federal program.
+
+The comments, accompanying a spending bill, signaled that dissatisfaction with the meaningful use program among doctors and health IT professionals was bubbling up in both houses of Congress, though it wasn’t clear whether it would lead to any short-term action.
+
+Story Continued Below
+
+Federal health IT officials have been trying to prompt better health exchange among EHR systems and have made interoperability — the free flow of information among health systems — a central goal of their efforts over the next year. Without freer data exchange, the electronic health records won’t lead to the kind of health care improvements and cost controls sought under the Affordable Care Act and the 2009 HITECH Act, experts say.
+
+In its report accompanying the 2015 HHS spending bill, the Senate Appropriations Committee asked the Office of the National Coordinator of Health IT to report on know how many organizations are behind what it called the “information blocking problem.”
+
+“ONC should use its authority to certify only those products that…do not block health information exchange,” it stated. “ONC should take steps to decertify products that proactively block the sharing of information because those practices frustrate congressional intent, devalue taxpayer investments in [certified EHR technology], and make [the technology] less valuable and more burdensome for eligible hospitals and eligible providers to use.”
+
+The Appropriations Committee asked for a “detailed report” on the extent of information blocking, including an estimate on the number of vendors or eligible hospitals or providers who block information, and how to combat it. It also demanded the Health IT Policy Committee submit a report on the barriers to interoperability.
+
+An ONC representative would not comment. The agency is in charge of managing the EHR incentive program that CMS has funded with about $25 billion in incentive payments since 2011.
+
+Last week, two House Republicans raised the issue and threatened action.
+
+“We’ve spent tens of billions on non-interoperable products,” Rep. Phil Gingrey (R-Ga.) charged at a hearing before the House Energy and Commerce Committee. “It may be time for us to look closer at the activities of vendors in the space, given the possibility that fraud is being perpetrated on the American people.”
+
+Similar sentiments were expressed at the hearing by Rep. Bill Cassidy (R-La.). Both Cassidy and Gingrey are physicians.
+
+Gingrey singled out Verona, Wis.-based Epic Systems, the largest U.S. vendor of EHR systems, in his remarks. The Senate report did not mention Epic, but the company previously has been criticized for creating systems that do not readily share information with others.
+
+Doctors complain that Epic and other vendors’ EHR systems present workflow problems for them because they make it hard to exchange information with specialists who work outside their networks.
+
+Peter DeVault, director of interoperability at Epic, said Epic users exchanged 313,000 records with users of other systems last month alone. Ten thousands of those were with federal agencies like the Defense and Veterans Affairs departments, he said.
+
+“There are a lot of unfounded rumors out there about us,” DeVault said. “If you talk to our customers and the ease in which they’re able to set up connections with non-Epic sites, you’ll find exactly the opposite, that we have a great reputation.”
+
+DeVault said congressional offices had not contacted the company, but it plans to reach out to lawmakers. “It’s probably a good opportunity to talk to some folks and dispel some rumors out there,” he said.
+
+Congress’s sudden concern with interoperability raised some heartbeats among the specialized coteries of health IT and medical professionals who care deeply about the issue.
+
+“While the language is fairly benign, it does raise questions that Democrats, especially, have been reluctant to raise thus far,” said Jeff Smith, vice president of public policy at CHIME, the College of Healthcare Information Management Executives. “The questions being raised by both sides of the aisle now seem to indicate there is growing concern that ONC’s certification program is not producing the results it should.”
+
+Joe Smith, chief science and medical officer of the West Health Institute, was encouraged by the Senate’s language.
+
+“We’ve been working with FDA, ONC, FCC and members of the House and Senate to raise awareness of this issue and find broad support,” Smith said. “Interoperability is essential to the more automated, connected and coordinated health care delivery system we all want and deserve, and it is an absolute requirement to make the ‘meaningful use’ program meaningfully useful.”
+
+Josh Seidman,consultant with Avalere Health and former ONC official, said that despite some success stories with interoperability, “there is no doubt that virtually everybody is fed up with the pace of efficient health information exchange across provider and vendor boundaries. These interoperability barriers threaten the potential for success of new payment and care delivery models.”
+
+The Senate Appropriations Committee’s demands aren’t legally binding, although federal agencies and departments follow them.
+
+However, it is doubtful that appropriators will pass individual spending bills, and in an election year they may be forced to pass a continuing resolution to keep the government operating. House Speaker John Boehner said Thursday he expected lawmakers to pass a short-term spending bill in September when Congress returns from its August recess.
+
+The committee budgeted ONC at $61,474,000 for fiscal 2015, an increase of about 2 percent from the $60,325,000 it received in 2014.
+
+Authors:

@@ -1,0 +1,45 @@
+We are five years into the greatest transformation of the U.S. healthcare system in the half century since Medicare was enacted. Since 2009, over 500 healthcare IT (HCIT) startups have been founded, supported by $10 billion dollars of early stage venture capital.
+
+As investors with front row seats, we are hopeful. The Affordable Care Act (ACA), HITECH Act, Health Data Initiative, and Great Recession have made health care providers, insurers, and patients more receptive to change. Equally important, entrepreneurs from across industry verticals are entering healthcare, believing that the time is right to attack a massive and growing sector, suffering from decades of lagging technology and productivity.
+
+We see great companies emerging to capitalize on these changes and fundamentally redefine the cost and outcomes of healthcare in the United States. Unfortunately, we fear that many of the companies we meet with are doomed to failure, or worse niche status, as they run afoul of one or more of the “must have” tenets that are critical to this vertical – the five commandments for creating a successful healthtech company:
+
+1. Know your ROI goal
+
+
+
+Few companies involved in healthcare delivery make any money. Net margins across insurance companies, and hospitals are less than 10% at best. So if you expect these groups to buy into your product or service, you have to be able to deliver tangible ROI very quickly – ideally in the first 12, but no longer than 24 months. If your product takes longer to deliver that return — or if the ROI you deliver is too soft, you’ll never get high on the crowded priority lists of financially strapped buyers. Twelve months is also magic since that is how long a patient’s insurance policy runs, as well as the time frame for risk adjustments and shared savings payment models for doctors. For employers, you can occasionally get their attention with a two-year ROI, but anything beyond that is too long to overcome employee turnover at most companies. This is why preventative health businesses have struggled mightily to get any real scale. It takes too long to generate cost savings for the initial buyer to even get started.
+
+2. Remember that sickness doesn’t drive engagement
+
+People do not like being reminded that they are sick. So they only engage with healthcare when they have to. And when they do engage, it is either for an acute short-duration condition (e.g., recovery from an injury) or for a very serious condition (e.g., cancer or neurological condition). So technologies that focus on ongoing social engagement for more basic health issues have a terrible track record — low virality and dreadful churn.
+
+Many attempts to build healthcare social networks have struggled to overcome the fact that healthcare is really thousands, perhaps 10,000, unique disease categories (e.g., stage 4 breast cancer patients have little in common with stage 1 colon cancer patients and are very different from patients with diabetes or high blood pressure). This leads to hyper-fragmented, tiny communities that struggle to engage people for long enough to overcome customer acquisition costs and churn.
+
+Importantly, people with chronic disease feel fine most of the time. While it is true that chronic diseases do account for most of healthcare costs, it takes a long time for a patient to start incurring high enough costs to justify buying a product or service (see Commandment #1). As a result, app stores are littered with unused pill reminders, symptom trackers, biometric sensors, and educational tools.
+
+3. Choose your customer carefully
+
+
+
+Every dollar you save your customer is a dollar you’ve taken from some other player in the health system. This means you can’t be dependent on the participation or cooperation of whoever stands to lose revenue because of you (for example, counting on hospitals to share electronic health records to reduce admissions).
+
+Equally important, it is essential to know who you are helping — and to make sure that the problem you are attacking is big enough so your customer will stand up to the other ecosystem parties who want you to fail. For example, Castlight Health’s customer is the self-insured employer; Castlight exists to decrease healthcare costs for employers, which necessarily reduces the revenues of healthcare providers, who the insurance companies depend on. To be successful in its early days, Castlight needed employers to go to bat on their behalf with insurance companies and pharmacy benefit managers to get the price and quality data they required. It is very rare to be able to please more than one stakeholder in the health system – so choosing, and standing by, your customer is critical.
+
+4. Focus on B2B
+
+
+
+In many cases, it is employers, not consumers, who pay most of the medical bills. 50 million Americans are insured through self-insured employers (large companies that assume the risk of covering health benefits for their employees rather than working with an insurer). With consumer out-of-pocket spending now capped at $6,600 per year by the ACA, these employers will be paying all expenses over that cap. Patients with chronic diseases and anyone who happens to have an acute condition (like pregnancy or an appendectomy) is likely to exceed the out-of-pocket maximum. This leads to patients only acting like consumers for inexpensive and elective care, like lab tests, imaging, and flu shots, not the expensive things that could bend cost curves. You always want to go where the money is – and it remains in the enterprise.
+
+The other advantage of B2B is that it overcomes the vertical’s lack of virality among consumers. Since employers aggregate potential users by the tens or hundreds of thousands, they can be terrific channel partners – accessing users at much greater velocity and lower customer acquisition costs. While historically this has been done by lunchroom marketing and $25 coupons, employers are increasingly adopting material penalties and even absolute requirements of participation in order to drive adoption within their employee populations.
+
+5. Understand that “Population Health” and “Big Data” are still just buzzwords
+
+Health plans and doctors are very good today at identifying high-risk patients – plans through claims histories, and doctors with their intrinsic diagnostic skills. In fact, when you ask a doctor to list their high-risk patients, they often do better than the computer prediction. The hard part of population health and big data is not identifying patients at risk, rather it is doing something to change the risk.
+
+While “big data” intuitively should be able to improve care by personalizing treatment plans, our health system is several sigma away from the reliability that is needed to make this a reality. For big data to matter, we first need a much improved healthcare system that consistently delivers the right diagnoses, treatments, and outcomes. Then we can optimize them.
+
+So the good news is that we are finally seeing change and disruption in an industry that desperately needs it, and the talent pouring into the space is energizing. For this to continue, entrepreneurs and health-tech companies will need to keep focusing on these five commandments.
+
+Bryan Roberts and Bob Kocher, MD, are partners at venture capital firm Venrock and active investors in many health tech companies, including Castlight Health, Grand Rounds, and Zenefits. They are cofounders of Lyra Health.

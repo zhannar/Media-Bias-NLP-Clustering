@@ -1,0 +1,19 @@
+The government invests heavily in cloud computing
+
+While government IT has had a rough past month with the Obamacare website, that hasn't put a damper on continued IT investments in both private and public cloud computing.
+
+IBM has pulled out of a federal contract tasked with building a cloud for the Central Intelligence Agency, according to InfoWorld contributor David Linthicum. With IBM conceding, Amazon Web Services has an opportunity to change the ways of federal IT for the better.
+
+Earlier this year in March, the CIA awarded AWS with a $600 million contract, a bid that was $54 million higher than IBM's. IBM had filed an appeal with the U.S. Court of Federal Claims asking for a halt in contract work between the CIA and AWS. However, a subsequent court filing by the government cited that any further delay on the contract would be harmful to national security, according to the source.
+
+Following this ruling, IBM withdrew its filing, leaving AWS at the helm of developing a secret cloud that will likely begin before the end of the year. While the competition between two tech giants over the construction of a gigantic cloud project was certainly entertaining for industry experts, the important theme that should be taken away from this scenario is the government's investment in cloud computing solutions.
+
+Cloud computing for national security
+
+The deal between AWS and the CIA is just one of several federal cloud contracts that are currently underway, and the use of "megacontracts" between the government and cloud service providers may foreshadow the future of federal IT.
+
+"This should be good news for the taxpayers, as it could at some point reverse the government's addiction to data centers," Linthicum wrote. "Cheaper cloud computing should lead to reduced government spending and perhaps to better government services."
+
+The importance of reduced public spending for enhanced government services has taken center stage after $394 million of taxpayer money was spent on the troubled HealthCare.gov website, which debuted on October 1 and has yet to be permanently fixed. The failure of HealthCare.gov highlights the frequent mismanagement by government and the contractors they award projects when it comes to building large, scalable systems via the Internet. Although the healthcare exchange website utilized Verizon's public cloud services, the disastrous start to the massive healthcare IT project has sounded alarms over future IT endeavors.
+
+"The government needs to get smarter around the use of public and private cloud resources, and there is no substitute for experience," Linthicum noted. "Now that the legal issues are out of the way for the CIA cloud, perhaps the feds can accelerate its overall adoption of the cloud."

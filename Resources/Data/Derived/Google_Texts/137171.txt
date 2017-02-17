@@ -1,0 +1,81 @@
+Preventing readmissions: Is there an app for that?
+
+About 200 Medicare patients who live in Phoenix will receive sensors for their inhalers this year that track how often they use their medication. The goal is to identify patients at the earliest stage of an attack or exacerbation from chronic obstructive pulmonary disease and then prevent those patients from ending up in the hospital.
+
+The inhaler devices were developed by Propeller Health, a startup company in Madison, Wis., founded by David Van Sickle, a former epidemiologist for the Centers for Disease Control and Prevention.
+
+The sensors track medication usage and then send time and location data to a smartphone. If a patient begins to use more medication or is actively using a rescue inhaler, alerts are sent to a physician or caregiver, who can then intervene in the patient’s care. “This platform is making it easier for people to manage these conditions on their own,” Van Sickle said.
+
+The Propeller Health sensor and mobile application is only one of many mobile applications being developed to help hospitals solve one of the costliest problems in health care: patient readmission rates.
+
+“I see 10 readmissions companies a month,” said Ted Maidenberg, general partner at the Social+Capital Partnership, a venture capital fund in Palo Alto, Calif.
+
+The idea behind developing mobile apps that help prevent readmissions is the promise of an emerging market to help hospitals avoid financial penalties issued under the Patient Protection and Affordable Care Act for patients who return to the hospital within 30 days of discharge. The first phase of penalties targeted patients readmitted for pneumonia, heart failure and heart attack. This year the penalties will also include readmissions for patients with COPD and total hip and total knee replacements.
+
+Developers say providers are increasingly willing to test and invest in new technologies that aim to keep patients out of the hospital. But whether mobile apps can actually change patients’ behavior and address a long-standing issue in health care is unclear.
+
+There is little debate that new tactics or strategies are needed to help hospitals lower their readmission rates. Medicare alone spends at least $26 billion on patients who end up returning to the hospital. Most experts agree that using technology that engages patients and can help intervene earlier in their care is promising. But there is little agreement or understanding about what data and level of patient involvement are necessary.
+
+“People see an opportunity when you look at penalties for readmissions,” said Harry Greenspun, M.D., senior adviser at the Deloitte Center for Health Solutions. “It’s not surprising that startups would tackle ... a slice of this (market).”
+
+Despite the challenges and uncertainty, entreprenuers using smartphones to gather data and improve care broadly claim they can boost patient engagement and help hold down health care costs.
+
+Among the dozens of companies that have presented to Maidenberg, only Propeller Health received first-round funding from Social+Capital Partnership. Unlike many of the other mobile apps on the market, Propeller Health pursued clearance from the U.S. Food and Drug Administration, a step that company executives say now serves as a differentiator from other technologies.
+
+Propeller Health’s product “capitalizes on a trend that’s already been proven to be valuable in other markets,” Maidenberg said. “It didn’t take a lot of faith to believe that data would be valuable.”
+
+The system is unique in that it doesn’t require direct patient involvement. The data are gathered and transmitted automatically. “The patient can forget the sensor is even there,” Maidenberg added.
+
+Other dynamics are driving interest in these kinds of apps, including a sharp drop in the cost of developing the technology and a provider community looking for new solutions as they adapt to value-based payment models. The FDA also boosted the niche last year when it announced the agency wouldn’t require clearance for the majority of mobile medical apps because most do not present a risk to patients. This may encourage the market for startups worried about the cost of taking a product through the regulatory process.
+
+“We have seen a significant shift over the last six months of hospitals engaging with early-stage innovation in a way that they just hadn’t before,” said Unity Stoakes, president and co-founder of StartUp Health LLC, a New York-based accelerator focused on health and wellness products. “They’re looking for new solutions. They’re looking for new technology. They’re meeting with entrepreneurs. They’re testing pilots.”
+
+The Arizona Care Network, an accountable care organization that is implementing the COPD pilot in Phoenix, is actively searching for new technology to improve the care it provides to patients. “That’s one of the things we are trying to better utilize,” said Todd Ricotta, the network’s executive director.
+
+Even with growing interest from hospitals, it’s unclear how sustainable a pure-play readmission app will be. Many of the mobile apps are targeting readmissions by digitizing discharge instructions, medication adherence instructions and appointment reminders.
+
+Experts say those are all actions that hospitals can improve with their own staff and processes without investing in smartphone applications. Moreover, hospitals may be more interested in devices that measure and track vital signs at home, which they see as a better way of preventing readmissions.
+
+Startups face challenges
+
+Startup companies developing patient engagement apps that help prevent readmissions face difficulties ranging from their need to interact with multiple EHR systems to investor skepticism about their ability to change patient behavior.
+
+“People are still trying to figure out what’s really important, how extensively you need to get people engaged,” Greenspun said. “What’s the minimum requirement to make it effective? How far do you have to go to make a difference and cross that threshold where you’re suddenly getting an ROI and reducing readmissions?”
+
+For companies that develop apps that do in fact help reduce readmissions, there are other challenges that remain unique to the U.S. health care system. Interoperability is one major issue. With more than 150 electronic health-record systems in U.S. hospitals, mobile app companies need to figure out if their technology can be integrated into a hospital’s EHR system, as well as into the clinical workflow.
+
+In many cases, hospitals may choose to purchase a technology based on convenience and integrated workflow rather than an app with better functionality. “For a lot of startups, it’s just untenable,” said David Whitlinger, executive director of the New York eHealth Collaborative. “The ability to integrate is so costly, it just takes them under.”
+
+But that hasn’t stopped companies and entrepreneurs from trying to enter the space. Even Covidien Ltd., a large manufacturer of surgical supplies, is working with a medical device incubator called Edison Nation Medical to conduct a search for new types of technology or software that can be used to improve the way surgical patients are monitored at home after being discharged from the hospital. Edison, partially owned by the Carolinas HealthCare System and based in Charlotte, N.C., will license the selected technology to Covidien and split the royalties with the inventor.
+
+“I would be shocked if mobile didn’t play a role,” said Julie Wheelan, vice president of marketing and brand strategy for Edison Nation Medical. “It’s one of the most logical things to do.”
+
+Edison will work with Covidien to select products based on intellectual property potential, medical efficacy and the likelihood of commercial success, Wheelan said. The search ends in August.
+
+For Covidien, which is being acquired by medical-device conglomerate Medtronic Inc. for $42.9 billion, the additional offering of technology to help prevent surgical readmissions might help differentiate its surgical products from competitors. It might also be part of a growing trend among traditional device-makers looking at new ways of providing services to health care providers in an increasingly cost-conscious and competitive hospital purchasing environment.
+
+About 40 percent of patients who have complications from surgery experience them at home, with half of those complications occurring within nine days after discharge, according to a study published in the Archives of Surgery in 2012. The study’s authors made several recommendations, including using telemedicine and digital applications to remotely monitor discharged patients.
+
+Seamless MD, the brainchild of Joshua Liu, a 26-year-old medical resident in Ontario, Canada, is one startup trying to tackle post-surgery complications. The Seamless system asks the patient to spend about two minutes inputting information about temperature, pain levels and whether he or she is experiencing lightheadedness as ways to monitor the patient’s status and look for early warning signs of surgical complications.
+
+Patients also can send photos of surgical wounds to a designated provider to evaluate. The app then pushes out alerts based on recommendations made by an algorithm that the company developed.
+
+“Personalizing the care plan with technology makes it much more efficient,” Liu said.
+
+In December, the company launched a pilot with Baylor College of Medicine in Houston focusing on colorectal surgery patients. It is also conducting a thoracic surgery program with a hospital in Toronto.
+
+Liu, the company’s CEO, said he evaluated developing a mobile app to prevent hospital readmissions for chronic diseases such as COPD and heart disease, but his research showed that many other companies, including giants such as Philips Healthcare and General Electric, as well as dozens of smaller firms, are developing mobile products to address chronic diseases.
+
+“We can have a much bigger impact on the ecosystem by solving something that’s not very well understood,” he said. “There’s still a large opportunity to prevent readmissions after surgery.”
+
+App 'an extension of our clinical ability'
+
+Mobile app startups, while enjoying some advantages from being the first entrants into niche markets, likely will soon face a host of competitors. Observers expect EHR vendors and traditional health care companies to begin launching add-on mobile apps for the existing products they sell to hospitals. “It is still a pretty nascent industry,” Deloitte’s Greenspun said.
+
+But it’s a growing one. Propeller Health is expanding the asthma program it started with Dignity Health in California to Phoenix’s Arizona Care Network, with a focus on reducing readmissions from COPD. The network expects between 150 and 200 Medicare patients to enroll in the program. Patients will not incur any extra costs for using the sensor-based inhalers.
+
+Physicians traditionally rely on COPD patients to tell them if their condition is worsening, even though many patients are unaware of a gradual decline in their condition or forget to track patterns that may cause an attack, said William Ellert, M.D., chief medical officer for the Arizona Care Network.
+
+The app “is another tool for gathering information to have patients (gain) insight into their own health,” Ellert said. “It’s basically an extension of our clinical ability.”
+
+Modern Healthcare is a sister publication to Crain’s Detroit Business.

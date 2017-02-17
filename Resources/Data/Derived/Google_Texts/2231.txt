@@ -1,0 +1,31 @@
+Researchers are looking into how an antibody, which naturally neutralizes HIV in some people, could be used to prevent HIV/AIDS.
+
+Researchers are looking into how an antibody, which naturally neutralizes HIV in some people, could be used to prevent HIV/AIDS. NIAID, CC BY 2.0.
+
+Researchers are finding a promising new outlet for potentially treating HIV in broadly neutralizing antibodies (bNabs). After discovering bNabs in the bloodstreams of people whose bodies were naturally controlling the infection, researchers found that these antibodies could protect vital immune cells by recognizing certain proteins of the HIV virus and either weakening or neutralizing the virus before it progresses. A team at the California Institute of Technology (Caltech) takes this research even further, suggesting that a particular bNab may be even more effective at neutralizing the HIV virus to better help patients with the disease. These findings have been published in the journal Cell.
+
+In order to understand how bNabs could help to prevent HIV from spreading, the researchers first needed to understand how HIV binds to a cell, thus infecting it. When HIV first comes into contact with human immune cells, also known as T-cells, it interacts with a surface protein called CD4. Certain proteins on the HIV virus will bind with CD4 on the T-cell to start the process of infection, which is a process sometimes referred to as envelope spikes. These spike proteins can either be in a closed or open conformation, remaining open when HIV binds with CD4. Once the conformation is opened, the HIV virus can fuse with the host cell, releasing its genetic information into the cell and turning that cell into a factory to produce more viruses.
+
+The bNabs work by recognizing this envelope spike on the outside of the HIV virus, and neutralizing it accordingly. But most bNabs can only identify a spike when it is in closed conformation. bNabs also vary in its ability to recognize the envelope spike; each of these antibodies is only able to recognize one specific target, or epitope on the envelope spike, meaning that some antibodies are more effective at neutralizing the virus than others.
+
+In 2014, lead study author Pamela Bjorkman, a centennial professor of biology at Caltech, collaborated with researchers from Rockefeller University in New York City and discovered a strong bNab called 8ANC195 in the blood of HIV patients whose immune systems could naturally control the virus. They also observed that this antibody was able to neutralize the HIV virus by targeting a different epitope than any other identified bNab.
+
+The current study focuses on 8ANC195, and how its unique properties could possibly be utilized to help treat HIV/AIDS patients.
+
+"In Pamela's lab, we use X-ray crystallography and electron microscopy to study protein-protein interactions on a molecular level," Louise Scharf, a postdoctoral scholar in Bjorkman's laboratory, said in a recent press release. "We previously were able to define the binding site of this antibody on a subunit of the HIV envelope spike, so in this study we solved the three-dimensional structure of this antibody in complex with the entire spike, and showed in detail exactly how the antibody recognizes the virus."
+
+Instead of just being able to recognize the key protein on HIV in its closed conformation, 8ANC195 was able to identify when the protein was both closed and partially opened. “We think it’s actually an advantage if the antibody can recognize these different forms,” said Scharf.
+
+When it comes down to it, bNabs are effective in most situations.
+
+The most common form of HIV infection can be found floating throughout the bloodstream before it attacks a T-cell. Usually, if an HIV virus cell is free-floating, the envelope spike proteins will be closed, allowing bNabs to neutralize the virus before it attacks. But, in some cases, HIV will spread from one cell to another, meaning that the protein is already attached to the T-cell and in open conformation. In these instances, 8ANC195 will be able to neutralize the virus in ways other bNabs can’t.
+
+Because of this function, the researchers propose new combination therapies that use a "cocktail" of several of these antibodies to fight the virus as it evolves.
+
+"Our collaborators at Rockefeller have studied this extensively in animal models, showing that if you administer a combination of these antibodies, you greatly reduce how much of the virus can escape and infect the host," Scharf said. "So 8ANC195 is one more antibody that we can use therapeutically; it targets a different epitope than other potent antibodies, and it has the advantage of being able to recognize these multiple conformations."
+
+The possibility of bNabs being used for therapy is not too far off. Scharf says that her team, along with those at Rockefeller, are currently conducting human trials for treatment with bNabs. Right now, these trials are not using 8ANC195, but Scharf says that combination therapies will likely happen in the near future.
+
+Bjorkman added that having a better understanding of how 8ANC195 reacts to the HIV virus will also help them understand the nature of the virus itself, and bNabs ability to inhibit it.
+
+Source: Scharf L, Bjorkman P, et al. Broadly Neutralizing Antibody 8ANC195 Recognizes Closed and Open States of HIV-1 Env. Cell. 2015.

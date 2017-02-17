@@ -1,0 +1,17 @@
+Hackers may be using the comments section on WordPress sites to infiltrate servers.
+
+Finnish security firm Klikki Oy uncovered the vulnerability in the popular WordPress platform, which Web developers use to build and host websites.
+
+ADVERTISEMENT
+
+The flaw allows hackers to store malicious code in the comments section of a Web page. Then, when a logged-in administrator visits that page, the hacker could get into the server.
+
+The defect could affect millions of heavily-trafficked pages. Nearly a quarter of the world’s 10 million most popular websites use WordPress.
+
+“To prevent exploitation, administrators should disable comments,” the researchers at Klikki Oy said. “Do not approve any comments.”
+
+WordPress told Forbes a fix was coming, but didn’t offer a specific timeline.
+
+The ubiquity of WordPress has made it a popular target for hackers and security researchers alike. A recent update patched a number of vulnerabilities, including a similar comments section flaw that had been exposed for at least 14 months.
+
+Another popular plugin that placed a “contact us” form on WordPress websites was found to be compromised last fall, allowing hackers to potentially download a site’s entire database.

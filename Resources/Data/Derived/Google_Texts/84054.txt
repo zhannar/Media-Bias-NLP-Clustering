@@ -1,0 +1,33 @@
+Payal Shah (R), of the Metropolitan Family Health Network, helps Stephanie Ruiz (L), sign up for ObamaCare, on Oct. 3, 2013 (Photo: Andrew Burton Getty Images)
+
+(Editor's note: In this guest essay Nish Bhalla, CEO of consulting firm Security Compass, outlines how cybercriminals are likely to view of the Affordable Care Act.)
+
+The Affordable Care Act exchanges presumably will result in the creation of one of the largest collections of personal data in US history.
+
+So did the federal government just ring the dinner bell for every hacker and identity thief on the planet?
+
+First, it's important to dispel the hype. The exchanges don't actually store information - they simply link to it.
+
+That doesn't mean they're less valuable as targets, from a hacker's perspective, but it does reduce the threat a little, as an attacker can't get the data directly from the site, but must instead breach at least two sites - the exchange and the government data portal it's linking to.
+
+Secondly, despite statements to the contrary, the exchanges have undergone security auditing - it just hasn't been as thorough and rigorous as many would have liked to see. This is an enormous undertaking and some elements of it appear to have been rushed in order to meet deadlines.
+
+As any developer knows, rushing a project, particularly one as massive and unprecedented as the ACA rollout, is likely to result in some errors. Another concern is that the exchange system isn't completely run by the federal government - at least 14 states so far have their own exchanges.
+
+Nish Bhalla is CEO of Security Compass (Photo: Security Compass)
+
+Typically, state governments do not have the same level of resources as the federal government when it comes to cybersecurity. In fact, a recent study by Deloitte-NASCIO found that only 24 percent of state chief information security officers are confident they can thwart hack attacks.
+
+Will this result in a two-tier security system? Additionally, web security is still way behind the times - a recent study by Veracode found that 70 percent of web applications fail basic security standards. Why should the ACA exchanges be any different?
+
+So how will hackers target the exchanges? We're sure to see a standard crop of web-based attacks directly targeting the state exchanges and federal data hub. We're also sure to see a lot of spam, phishing and 'waterholing' attacks that target consumers.
+
+But we could also see sneaky downstream attacks, as hackers look for easier ways to target consumer information without having to break the security of the hubs or exchanges. These attacks could target "navigator" companies/organizations that are responsible for helping people enroll online. They could also target any public computer terminals that people use to sign up - such as libraries, schools, nonprofits, unions, small business associations, etc. Insider attacks are also likely to be an ongoing threat.
+
+Protecting the online integrity of the Affordable Care Act exchanges is a complicated issue that requires several solutions. For one, the federal government and individual states need to open up the hub and exchanges to rigorous third-party security audits and 'ethical hacking' to thoroughly vet the system for weaknesses. There should also be strict security guidelines in place for softer targets, like the navigators.
+
+Additionally, if more states launch independent exchanges in the future, they should take advantage of new technologies that allow web-based networks to be built secure from the start.
+
+About the author: Nish Bhalla, CEO of Security Compass, is an ethical hacker specializing in web security for Fortune 500s, major banks and well-known technology companies.
+
+Read or Share this story: http://usat.ly/1amE5q9

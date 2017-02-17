@@ -1,0 +1,21 @@
+Using two distinct methods, one involving donor cells, researchers have generated genetically corrected stem cells for patients with mitochondrial diseases. NIAID, CC by 2.0
+
+Using two distinct methods, researchers at the Salk Institute have generated genetically corrected stem cells for patients with mitochondrial diseases. One method involved generating stem cells only from the healthy cells in patients with both defective and functional mitochondria; the second method, intended for patients lacking healthy mitochondria entirely, involved using donor cells.
+
+The mutation-free stem cells that resulted in both instances can now be transformed into any cell type. Going forward, scientists hope to learn how to swap these healthy newly-differentiated cells for the defective brain, muscle, eye, or heart cells in patients with mitochondria-based illnesses.
+
+Commonly, scientists refer to the mitochondria, free-floating organelles contained in most cells, as the ‘powerhouses’ of cells. Mitochondria provide the energy necessary for a cell to do its work. Mitochondrial diseases are caused by any one of about 200 genetic mutations within these tiny powerhouses. Depending on the gene defect, a mitochondrial disease can cause liver disease, muscle weakness, diabetes, seizures, developmental delays, or vision problems. In many cases, these rare diseases are debilitating.
+
+"Right now, there are no cures for mitochondrial diseases," Dr. Juan Carlos Izpisua Belmonte, a professor in Salk's Gene Expression Laboratory and senior author of the study, stated in a press release.
+
+Stem Cells, Two Ways
+
+To begin research in this area, Izpisua Belmonte and his colleagues collected skin samples from patients with two types of severe disorders that affect the brain and muscles: mitochondrial encephalomyopathy and Leigh Syndrome.
+
+First, Izpisua Belmonte and his colleagues isolated a group of patients with both defective and functioning mitochondria. After acquiring cells from each patient, the researchers reprogrammed the cells into induced pluripotent stem cells (iPSC). Next, as each new stem cell began to divide into two daughter cells, the researchers screened the resulting daughter cells for mitochondrial mutations, and selected only the healthy ones. Cell division continued, and, each time, the researchers divided good from bad. In this way, they soon harvested several lines of iPSCs with normal mitochondria.
+
+Second, the science team sampled cells from a Leigh syndrome patient who carried only defective mitochondria. Isolating nuclear DNA from the patient's diseased cells, the research team transferred this genetic material into donor eggs. Next, they stimulated these eggs to behave as though they had been fertilized. The result? Pluripotent stem cells containing a mix of patient nuclear DNA and donor mitochondria.
+
+The researchers are confident they will be able to transform these genetically correct stem cells into whatever cells — heart, eye, muscle — are needed by the patients by using previously developed scientific methods. However, one final bridge still must be crossed: it is not yet known how to render such newly differentiated cells into fully mature (and functional) cells and then safely transplant them into patients. Nevertheless, Izpisua Belmonte and his colleagues feel confident their new study, at the very least, will be a boon to basic research.
+
+Source: Ma H, Folmes CDL, Wu J, et al. Metabolic rescue in pluripotent cells from patients with mtDNA disease. Nature. 2015.

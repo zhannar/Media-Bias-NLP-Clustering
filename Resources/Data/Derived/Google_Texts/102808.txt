@@ -1,0 +1,123 @@
+Will biotech stocks with new technologies grow?
+
+An old investment principle says the equity upside of diagnostics and tools companies can't hold a candle to that of small biotech drug developers. Managing Director and Head of Equity Healthcare Research Raghuram "Ram" Selvaraju of Aegis Capital begs to differ. His research has uncovered small- and micro-cap companies developing sophisticated platforms in the molecular diagnostics space that are destined for significant revenue growth and profits. In his first of three interviews with The Life Sciences Report, Selvaraju lays out a handful of names with powerful technologies on the cusp of investor acceptance as huge growth plays.
+
+The Life Sciences Report: Ram, I want to address the differences between new drug development in small companies and development of diagnostic technology in small companies. It's clearly very difficult for a biotech company to get off the ground. Do you see advantages in investing in diagnostics versus micro-cap, early-stage drug development?
+
+Raghuram Selvaraju: That is a very good question. There are advantages and disadvantages, as you will find when you compare any one sector to another. When we published our Healthcare Sector Update Preview earlier this year, we specifically drew investors' attention to several factors, including the advent of the Patient Protection and Affordable Care Act, the additional data being parsed out of the human genome, the advent of next-generation sequencing becoming widely available, and more knowledge about mutations that are specifically associated with cancer, the prognosis of the disease and the likelihood of response to specific types of therapeutic regimens. With all of this together, you have the ingredients for a sea change in the molecular diagnostics space.
+
+TLSR: How large can reimbursement get for some of these more sophisticated molecular diagnostics and prognostics?
+
+RS: Think about Genomic Health (GHDX), with its Oncotype DX test, which is currently reimbursed at around $4,000 per test. Think about Foundation Medicine Inc. (FMI), a company with a recent initial public offering (IPO), which has a test that is routinely reimbursed at $5,800. Even think about a company that we at Aegis Capital recently IPOed, Cancer Genetics (CGIX), which has tests that are routinely being reimbursed at anywhere from $1,300–1,800. Rosetta Genomics Ltd. (ROSG), another company that we cover, managed to get reimbursement approved through Medicare's Novitas Solutions Inc. administrator at around $3,600/test; this test is aimed at determining the origin or primary site of a cancer, called cancers of unknown primary. There are a number of companies that have not gone through the PMA or 510(k) route that have successfully managed to obtain reimbursement for tests.
+
+Click on the interactive charts to see data over time. Sourced from Zacks Investment Research.
+
+&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;p&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Your browser does not support iframes.&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
+
+TLSR: I want to switch topics and address something that concerns the molecular diagnostics industry as a whole. On Oct. 30, the U.S. District Court of the Northern District of California granted Ariosa Diagnostics Inc. (private) a motion for summary judgment and denied Sequenom Inc.'s (SQNM) motion for summary judgment. That was with regard to Sequenom's 540 patent, of which it is the exclusive licensee. Your thoughts?
+
+RS: To give some background, the ruling you're referring to was rendered by Judge Susan Illston, against Sequenom and in favor of the plaintiff, Ariosa Diagnostics. The 540 patent covers Sequenom's main marketed product, the MaterniT21 test, which is aimed at prenatally diagnosing chromosomal abnormalities in a noninvasive fashion by using a maternal blood sample as opposed to amniocentesis, which has risks for both mother and fetus. Basically, the judge said that the presence of fetal cytogenetic material in maternal blood is a naturally occurring phenomenon and, therefore, cannot be patented. Accordingly, she ruled that Sequenom's 540 patent is invalid and cannot be upheld because it covers the packaging of natural phenomenon.
+
+Now, obviously, that is not our position. We believe that such patents include a heck of a lot more than just claiming a natural phenomenon. What the 540 patent contains is, in our view, a system for diagnosing chromosomal abnormalities noninvasively. It's not enough to simply say that you know fetal genetic material is present in maternal blood. You have to find a reliable way of detecting its presence, of amplifying it to a significant enough extent that you can distinguish it from the maternal DNA and then, finally, you have to figure out how to interpret the cytogenetic material that is present to make a diagnosis of some import—for example, whether a particular fetus is carrying Down syndrome.
+
+Because all these aspects are embedded in the claims of the Sequenom patent under dispute, we believe the judge made a heavy-handed, draconian interpretation of the Supreme Court ruling rendered earlier this year in Association for Molecular Pathology v. Myriad Genetics Inc., where the High Court ruled that gene patents are not valid and not enforceable because they cover genes, which occur in nature.
+
+TLSR: My understanding is that this could be overturned. When will this case resolve?
+
+RS: Sequenom has indicated that it will appeal this ruling. We will not have a decision for at least the next six to eight months, but we do not anticipate that the judge's ruling will be upheld in its current form. It may be modified or it may be rejected in its entirety by the appellate court. If it's rejected, we think that would be a very good thing for the molecular diagnostics space, not because we think that people should be allowed to patent naturally occurring phenomena, but because we believe that there needs to be some incentive for innovation to occur in the molecular diagnostics space.
+
+Even if the Ariosa Diagnostics v. Sequenom ruling is ultimately upheld in some way, I can tell you that many companies in the molecular diagnostics space are either going to be unaffected entirely or minimally affected, because these innovators tend to continue to innovate. They generate founder intellectual property (IP) wherever they are operating.
+
+TLSR: Let's talk about companies. Choose one.
+
+RS: The idea of founder IP leads me to a very good example of an innovative company, TrovaGene (TROV), which I cover with a Buy rating and a price target of $10.
+
+TrovaGene has founder IP in the detection of transrenal nucleic acids, which are shed naturally into the urine. That is certainly a naturally occurring phenomenon, but TrovaGene's IP is not just about the presence of transrenal nucleic acids. It's about the detection of such nucleic acids. It's about theamplification of such nucleic acids.
+
+Without the specific knowledge and techniques that TrovaGene possesses, simply knowing that genetic material is present in urine doesn't help you at all. You cannot make a meaningful diagnosis about any disease with just that knowledge in hand. You need to be able to detect and amplify the genetic sequences in the urine. From our perspective, the additional IP that TrovaGene possesses is more important than the founder IP concerning the picking up of transrenal nucleic acids per se.
+
+Even if TrovaGene were to face competition in the transrenal nucleic acid detection market, we believe the company is far enough ahead of any competitors that it would maintain a meaningful lead for a significant period of time.
+
+TLSR: Ram, TrovaGene's platform is indeed noninvasive. You don't even need a needle stick to draw blood. But is the entire platform, whether it's melanoma-focused or lung cancer-focused, about detection through the urine medium?
+
+RS: Yes. It's all through the urine medium. In our view, that differentiates TrovaGene as a company and puts it in a different domain than molecular diagnostics firms that have to use blood or biopsy tissues in their tests. This is probably the most noninvasive test available because it uses urine as the analyte. Urine is voided naturally several times a day. You can collect as large a volume as you need over time. It is most likely the best analyte through which to do real-time monitoring, and to allow sample concentrations so there is enough genetic material to make a meaningful diagnosis. That's the fundamental strength of TrovaGene's IP.
+
+TLSR: Another company?
+
+RS: We cover a company called Venaxis (APPY), which is gearing up to report data late this year or early next year on a test for appendicitis called AppyScore. The AppyScore test, in our view, is not as accurate as some of the other molecular diagnostics offerings, but it has very substantial negative predictor value. In other words, the AppyScore test is designed to make sure that doctors know if a patient does not have appendicitis, and this should, therefore, avoid unnecessary expense, unnecessary travail and unnecessary and painful procedures for the patient.
+
+&amp;amp;amp;amp;amp;amp;amp;amp;lt;p&amp;amp;amp;amp;amp;amp;amp;amp;gt;Your browser does not support iframes.&amp;amp;amp;amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;amp;amp;amp;gt;
+
+We feel the AppyScore test has potentially significant value. The trial is aimed at securing FDA 510(k) clearance for the test. The product should be launched in H1/14. We believe this could, by itself, make Venaxis a profitable company. We have a $3.50 price target on the company.
+
+TLSR: You have written that the AppyScore test for appendicitis is a risk-mitigated asset because the evidence of its negative predictive value is so clear. How much of that is built into the current stock price? Could that be baked in such that the stock doesn't have a lot of upside premium when the AppyScore test is cleared by FDA?
+
+RS: We don't think so. We believe that investors are not giving Venaxis credit for its test. At about $1.90/share, with a $40 million ($40M) market cap, we think the current market value does not reflect the potential of this test. We could see the potential value being significantly above where our price target is today if the test is approved and on the market in the U.S. If this test were to generate $15M/year in revenue, and a 10x multiple is thrown on top of that, you're looking at a $150M enterprise value.
+
+TLSR: Let's go to another one, please.
+
+RS: Cancer Genetics, which I mentioned earlier, is a recent IPO. The company is developing some very interesting high-content molecular diagnostics solutions, focusing on both solid tumors as well as hematological malignancies, the latter of which is its principal focus at the moment.
+
+We think that Cancer Genetics is an attractive investment at this juncture primarily because it has a diversified revenue model. It derives revenue from sales to pathologists, hospitals, academic institutions and pharmaceutical companies engaged in using its tests in conjunction with clinical development of investigational drugs.
+
+TLSR: Cancer Genetics has a current market cap of about $131M, trading at about $14/share. Your target price is $25, which is an implied double from here. How do you arrive at that valuation?
+
+RS: Cancer Genetics has a relatively well-publicized relationship with Gilead Sciences Inc. (GILD) for development of a Gilead drug called idelalisib, which is currently under review at the FDA. If the therapy were to be approved, we believe that for every $100M worth of idelalisib sales, $12–15M worth of diagnostic revenue could directly accrue to Cancer Genetics. And Cancer Genetics has a revenue base projected for the full year 2013 of only about $6–7M. That's a significant potential future value driver for this company.
+
+I would also point out that Foundation Medicine is a competitor to Cancer Genetics, though it doesn't have the same kind of product and, in fact, only has a single test on the market, whereas Cancer Genetics has five. If we look at the valuation discrepancy between Cancer Genetics, at $131M, and Foundation Medicine, at about $717M, it is very significant.
+
+From our perspective, Cancer Genetics is, on the basis of relative risk-reward, a much more attractive investment opportunity than Foundation Medicine. Cancer Genetics has more tests on the market, a leaner organizational structure, a more diversified revenue base and the potential to generate significant revenue from sales of its test to Gilead, which has a proven, targeted therapeutic agent that could receive approval by the middle of next year. We're not bearish on Foundation Medicine's prospects. We simply feel that the valuation discrepancy between Cancer Genetics and Foundation Medicine is unwarranted.
+
+TLSR: You follow Navidea Biopharmaceuticals (NAVB). In mid-March of this year its radiopharmaceutical product Lymphoseek (technetium Tc 99m tilmanocept) was approved for lymphatic mapping of diseased lymph vessels in breast cancer and melanoma. What are your thoughts about the company and its shares today?
+
+RS: Navidea's shares have been beaten down dramatically recently because the company has serially disappointed on the earnings front. Navidea is trading at about $220M in valuation. It recently raised a substantial amount of money. We have had a Hold rating on this company for a substantial period of time, but we have a $2/share price target. The fact that the stock is currently trading at about $1.65/share may indicate that, at this juncture, it's time to stop being so bearish.
+
+As you mentioned, Lymphoseek is approved in the U.S., and the company is partnered with Cardinal Health Inc. (CAH). It's used in sentinel lymph node mapping, which is an important diagnostic approach for the detection of head-and-neck cancer, breast cancer and various other types of solid tumors, where physicians are looking for the telltale signs of cancer in the lymph nodes. The company has a pipeline of product candidates coming up behind, including an Alzheimer's diagnostic, NAV4694 (fluorine-18 labeled radioisotope), as well as a potential Parkinson's diagnostic, NAV5001 (an iodine-123 radiolabeled imaging agent).
+
+&amp;amp;amp;amp;amp;amp;lt;p&amp;amp;amp;amp;amp;amp;gt;Your browser does not support iframes.&amp;amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;amp;gt;
+
+The diagnostic tools in the company's pipeline could be of significantly greater commercial value than Lymphoseek itself. As of right now, we don't think the market is valuing the Lymphoseek opportunity appropriately, merely because sales initially have not been tracking. At this juncture, this is a risk-mitigated opportunity. Even though we have a Hold rating, we think that our current price target does demonstrate potential upside.
+
+TLSR: Ram, the Alzheimer's disease diagnostic product, NAV4694, is a PET scan radiotracer. Eli Lilly and Co. (LLY) has a product for the same indication, Amyvid (florbetapir F 18 injection), which it got with its acquisition of Avid Radiopharmaceuticals Inc. for $800M. GE Healthcare (GE) has a product that was approved by the FDA in October called Vizamyl (flutemetamol F 18 injection). CMS has told these companies, I believe, that it does not want to reimburse these radiotracers because it doesn't have definitive evidence that they will help patients. Where does that leave NAV4694?
+
+RS: Alzheimer's is such a large market that even if we have minimal reimbursement for such a modality, a company like Navidea should be able to generate meaningful sales on the product eventually, as long as its clinical data are good. But the company has to go through the clinical development process first. At this juncture, quite frankly, nobody is giving the company any credit whatsoever for the Alzheimer's diagnostic. It's a free call option at this point.
+
+TLSR: One final question. All these stocks have been weak. Does this indicate to you that this is an opportune time to pick a basket of these names?
+
+RS: We believe so, and I obviously like the companies we've discussed. If you looked at cyclical trading patterns in the healthcare sector, October and the first half of November have traditionally been weak. The fact that the sector had performed so well in 2013, and the fact that seasonal weakness is generally confined to the months of October and November, would have generally indicated that the sector was due for a pullback around this time.
+
+But we feel the worst is over, and the sector should get back to its winning ways. One of the bright spots going forward should be the molecular diagnostics sector, because there is such significant need. These high-content, high-accuracy molecular diagnostic tests bring with them the potential to guide therapy, and the potential for noninvasive real-time monitoring.
+
+TLSR: It's been fun, Ram. Thank you. I'll be speaking with you again in a couple of weeks for part two of the three-part series we are doing with you. We'll pick up on a new topic then.
+
+RS: Thank you so much. I appreciate it.
+
+Raghuram "Ram" Selvaraju's professional career started at the Geneva-based biotech firm Serono in 2000, where he discovered the first novel protein candidate developed entirely within the company. He subsequently became the youngest recipient of the company's Inventorship Award for Exceptional Innovation and Creativity. Selvaraju started in the securities industry with Rodman & Renshaw as a biotechnology equity research analyst. He was the top-ranked (#1) biotech analyst in The Wall Street Journal’s "Best on the Street" survey (2006) and went on to become head of healthcare equity research at Hapoalim Securities, the New York-based broker/dealer subsidiary of Bank Hapoalim B. M., Israel's largest financial services group. While at Hapoalim, Selvaraju was regularly featured in The Wall Street Journal, Barron's, BioWorld Today, and Reuters/AP. He was also a regular guest on the Bloomberg TV program "Taking Stock," appeared with Bloomberg TV's on-air correspondents Betty Liu and Gigi Stone and was a guest on CNBC's "Street Signs with Herb Greenberg." He is currently an analyst with Aegis Capital Corp.
+
+DISCLOSURE:
+
+1) George S. Mack conducted this interview for The Life Sciences Report and provides services to The Life Sciences Report as an independent contractor. He or his family own shares of the following companies mentioned in this interview: None.
+
+2) The following companies mentioned in the interview are sponsors of The Life Sciences Report:LabStyle Innovations Corp. Streetwise Reports does not accept stock in exchange for its services or as sponsorship payment.
+
+3) Raghuram Selvaraju: I own or my family owns shares of the following companies mentioned in this interview: None. I personally am or my family is paid by the following companies mentioned in this interview: None. My company has a financial relationship with the following companies mentioned in this interview: None. I was not paid by Streetwise Reports for participating in this interview. Comments and opinions expressed are my own comments and opinions. I had the opportunity to review the interview for accuracy as of the date of the interview and am responsible for the content of the interview.
+
+4) Interviews are edited for clarity. Streetwise Reports does not make editorial comments or change experts' statements without their consent.
+
+5) The interview does not constitute investment advice. Each reader is encouraged to consult with his or her individual financial professional and any action a reader takes as a result of information presented here is his or her own responsibility. By opening this page, each reader accepts and agrees to Streetwise Reports' terms of use and full legal disclaimer.
+
+6) From time to time, Streetwise Reports LLC and its directors, officers, employees or members of their families, as well as persons interviewed for articles and interviews on the site, may have a long or short position in securities mentioned and may make purchases and/or sales of those securities in the open market or otherwise.
+
+Streetwise – The Life Sciences Report is Copyright © 2013 by Streetwise Reports LLC. All rights are reserved. Streetwise Reports LLC hereby grants an unrestricted license to use or disseminate this copyrighted material (i) only in whole (and always including this disclaimer), but (ii) never in part..
+
+Streetwise Reports LLC does not guarantee the accuracy or thoroughness of the information reported.
+
+ABOUT US
+
+© Kapitall, Inc. All rights reserved. Kapitall Wire is a division of Kapitall, Inc. Kapitall Generation, LLC is a wholly owned subsidiary of Kapitall, Inc.
+
+Kapitall Wire offers free cutting edge investing ideas, intended for educational information purposes only. It should not be construed as an offer to buy or sell securities, or any other product or service provided by Kapitall Inc., and its affiliate companies.
+
+Open a free account today get access to virtual cash portfolios, cutting-edge tools, stock market insights, and a live brokerage platform through our affiliated company, Kapitall Generation, LLC.
+
+Securities products and services are offered by Kapitall Generation, LLC - a FINRA/SIPC member.

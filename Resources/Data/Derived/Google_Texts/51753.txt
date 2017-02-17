@@ -1,0 +1,59 @@
+Megan McArdle recently wrote one of her typically excellent articles over at Bloombergview.com, titled “A Single-Payer System Won’t Make Health Care Cheap.” It’s a follow-up to an earlier article of hers on Vermont’s very serious problems attempting to bring about single-payer health care. In the most recent article she explains, compellingly, why health care costs are unlikely to come down significantly in the United States if we embraced single-payer health care.
+
+Referenced in the article is a fundamental error that most people in health care policy seems to make on a routine basis. And while it may seem like a small thing, like so much else in public policy and economics getting it wrong has major implications and causes further problems down the line.
+
+Responding to comments from her readers and discussing how to control health care costs, McArdle writes the following:*
+
+…let’s think about the general theories of why government makes health care cheaper. The first idea is that you get big discounts for buying in bulk. Because governments cover a lot of people, they can negotiate the best prices, which can’t be matched in America’s fragmented market. The problem with this idea is that U.S. health insurers already buy in bulk. They cover more people than many of the countries cited as cost-control models for the U.S…
+
+The mistake here, and as I said it is a common one made by most people who write on health policy, is believing that health insurers buy in bulk and that this results in savings to the bulk buyer. But it just isn’t correct.
+
+Most Americans are familiar with some form of bulk buying, and the discounts that are available for making a single purchase of a large quantity of goods or services. You can walk into Costco and buy, say, a package of 30 paper towels for around half or less of what it would cost you to buy a single roll of paper towels on thirty separate trips to the grocery store.
+
+Why is this the case? One of the main reasons is that the transaction costs for selling a single package of 30 paper towels are a lot less than the transactions costs of thirty different sales of the same product.
+
+So, why isn’t this the case with insurance companies purchasing medical goods and services for their policyholders? After all, don’t insurers buy a lot of medical goods and services from hospitals, drug companies, doctors, and others? Aren’t they in the same situation as someone buying a package of 30 paper towels?
+
+No. The reason is that there is a huge difference between a single transaction for a large quantity of goods and services, and a large quantity of transactions for a large quantity of goods and services.
+
+Imagine an insurer that expects to have 100 policyholders who will need hip replacement surgery in a given year, and they know that the typical price for this procedure is $30,000. If the insurer were really buying in bulk, they would go to a hospital and negotiate for 100 hip replacement surgeries, say at the price of $25,000 each, and then write them a single check for $2.5 million (100 surgeries x $25,000).
+
+Once this was done, they’d just send patients who needed hip replacement surgery to the hospital, perhaps with a voucher, and someone in the hospital’s billing or accounting department would simply note that the patient was using 1 of the 100 hip replacement surgeries that the insurer had purchased.
+
+Then they’d repeat this with each additional patient, again with negligible billing or administrative costs.
+
+That would be bulk buying in medical services – one transaction, multiple quantities, minimal accounting and billing costs, very straightforward.
+
+It’s also nothing at all like what really occurs. In today’s world, this insurer doesn’t buy a pre-set quantity of hip replacements from a hospital. Instead, they are buying one hip replacement surgery at a time, and they do it one hundred times over the year. Each surgery generates its own billing and accounting process, piling up transaction costs each time the insurer sends a patient over. It is the exact opposite of bulk buying, with none of the associated savings through reduced transaction costs that we would normally expect to see when bulk buying occurs.
+
+This isn’t simply some theory on the difference between bulk and regular-quantity sales, applied here to healthcare. The research and writing I did for my book, The Self-Pay Patient: Affordable Healthcare Choices in the Age of Obamacare and the providers that cater to self-pay patients bear this out – there are no substantial savings generated through any bulk buying effect from insurers.
+
+One of the best explanations of why this is the case I included in one of my recent posts at my blog, The Self-Pay Patient. It was a doctor explaining why accepting insurance drove up costs. My post, titled “Direct primary care practices – why are they so much less expensive?,” included the following account by Dr. Brian Forrest of Apex, North Carolina:
+
+I observed office flow, billing, and collections in local primary care offices in North Carolina’s Triad region. What I discovered was eye-opening. In the large medical practices in the area, the overhead cost of collecting payments was as much as the payments themselves. The average amount that the practices collected per patient they saw was only $39, but the total overhead for some fiscal quarters was as high as $50 per patient visit… The traditional practice model requires an average of 4.5 full-time employees per physician, so a lot of revenue must be generated to pay for staff primarily dedicated to billing, coding, and working with payers to get reimbursement rather than actual patient care…
+
+
+
+Over my first five years practicing [cash-only and insurance-free], I discovered that I could charge 80% less than traditional offices, spend more time with patients, and actually have a net income that was much higher than I would have made in the traditional model. To give an idea, it was nearly double what one of my residency classmates was making at the same time in a traditional practice seeing 30 or more patients per day.
+
+Dr. Forrest’s experience is hardly atypical or confined to primary care. After having reviewed the prices of dozens of major medical procedures at cash-only or cash-friendly surgical facilities and comparing them to what insurers typically pay to hospitals, I can’t say that I’ve been able to find any bulk buying benefit at all. In fact, self-pay patients who are buying one procedure at a time often pay less than insurance companies do, because the transaction costs of dealing with an insurer are often much more than those of dealing with an individual patient with a checkbook or credit card.
+
+Defenders of the bulk buying concept in health care may point to the so-called ‘chargemaster’ prices that many hospitals have that are typically a multiple of what insurers pay, often three to five times more (see “Florida hospital backs away from price transparency” for details). By ‘negotiating’ or buying in bulk, insurers are supposedly able to pay far less than what look like the ‘list’ prices for medical procedures, or so goes the thinking.
+
+The problem is that the ‘chargemaster’ prices that hospitals provide, and that insurers supposedly receive a discount from through their bulk-purchasing power, are wholly unmoored from reality and are nearly (but not quite) random numbers with little connection to what the real prices would be in a functioning market.
+
+So insurers aren’t actually receiving a discount for buying in bulk, instead they’re simply receiving something vaguely corresponding to the real price in a market where most providers are only capable of providing such a price to insurers. As evidence of this, all you need to do is check out the prices of procedures at facilities like the Surgery Center of Oklahoma, Regency Health, Ocean Surgery Center, and Orthopedic Surgery Center of Orange County. These facilities all cater to self-pay patients, not insurers, and yet their prices are generally comparable to what insurers are paying other facilities – the opposite of what you’d expect to see if there was in fact any bulk buying discount for health insurance companies.
+
+Now it may be that providers are willing to modestly discount their prices to insurers who drive a lot of business their way, and it may even be that this makes sense. But this would be far more akin to a ‘customer loyalty’ program, which it seems many retailers have these days, than a bulk-buying discount.
+
+And customer loyalty discounts are typically far, far less generous than a bulk buyer’s discount. For example, Exxon or BP might knock a few cents off the price of a gallon of gasoline for people who are in their loyalty program, while I’m pretty sure that when Hertz or Avis calls asking to buy 10,000 gallons for one of their locations they’re going to get a much steeper discount.
+
+Why does any of this matter? The biggest reason it matters may be that it upsets one of the basic assumptions of health care policy that most people on all sides of the ideological divide as well as insurers and providers seem to hold, which is that in order to achieve real savings in health care we need to harness the power of bulk buying on behalf of taxpayers, policyholders, and patients.
+
+This basic but false assumption creates at least two major problems. First, by accepting this assumption and trying to develop policies that harness the supposed benefits of bulk buying, people who want to expand coverage and access to health care are wasting their time chasing the policy-equivalent of a unicorn while ignoring policies that reject this assumption and instead harness the benefits of direct purchase of medical services.
+
+Second, and just as important, it’s quite likely that expanding the third-party payment system that supposedly lowers costs actually increases costs by adding bureaucratic and administrative expenses that would not exist if medical services were paid for directly. This is almost certainly the case with primary care, and is probably the case with many and perhaps even most major medical treatments as well.
+
+Lowering health care costs has become one of the two main foci of modern health policy (expanding access/coverage being the other), and there is a rich variety of options still available to policymakers. Understanding that bulk buying in health care is largely a myth is necessary to allow for a renewed focus on these other, viable options.
+
+*After trading a few e-mails with Megan, it’s clear she doesn’t buy into the fallacy of bulk buying in health care either, she was simply repeating the argument made by many of the people who contacted her regarding her original story.

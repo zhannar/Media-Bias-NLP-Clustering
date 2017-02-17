@@ -1,0 +1,57 @@
+At the Donetsk Airport, a handful of Ukrainian military men by Jan. 19 had been fighting off the Russian-backed Donetsk People’s Republic, or DPR, for months. Much of the airport structure had been obliterated. The once-smooth runway was a lunar landscape of debris, craters and blast marks.
+
+A small eight-rotor drone rose up form the ruin and ascends out toward the battlefield, sending live video of DPR artillery positions to the Ukrainian military. A target enemy tank was selected. The men of the Aerorozvidka (air reconnaissance) project who piloted the drone from nearby Debalcevo watched as a missile hurled toward an enemy tank like a soccer ball to the net. “We need a goal! We need a goal!” they chanted and erupted with cheers as the shell destroyed the tank in a fireball.
+
+Related: Obama's Delays Push Ukraine to Look Elsewhere for Arms
+
+While drones have been an aspect of U.S. wars for a decade, the Ukrainian conflict represents the most significant use of drones in warfare on two opposite sides of a battlefield.
+
+Groups like DPR use highly sophisticated Russian-made unmanned aerial vehicles, or UAVs, to collect data to target missiles and artillery fire, which has proven to be an enormous advantage on the battlefield. When Steven Pifer, former U.S. ambassador to Ukraine, and a delegation went to the front lines of the conflict to assess how the United States could help, Ukrainian commanders requested jamming equipment and radar to better intercept Russian drones.
+
+They also asked for as well as American-made military drones, like Reapers (though not necessarily armed).
+
+Related: The Trouble with Our Armed Drones in Yemen
+
+Even if the Obama administration decides to supply the Ukrainian military with requested drones, the U.S. hasn’t had much success getting already approved aid out to Ukrainian forces in a timely or consistent way. The war refuses to wait. So, in garages, research labs and bunkers in places from Kiev to Debalcevo to Chicago, Ukrainian solders and citizens are trying to get military drones to the front lines.
+
+The Aerorozvidka project is one example of what you might call a war startup. Natan Chazin, a Ukrainian battalion commander, founded it in May of 2014 with three other men. His small team has grown to more than 20 people who comprise a special tactical unit supplied with armored and bulletproof vans and 16 drones running on the two most popular software platforms– either NAZA or Pixhawk, developed by 3D Robotics (now maintained by the Linux Foundation).
+
+They’re basically hobby drones that have be chopped up and reconfigured for intelligence gathering missions. The Aerorozvidka has also produced its own missiles, which the group is working to incorporate onto UAVs. The enemy has been able to knock down three of them. As far the nascent ceasefire, Chazin says it has not changed matters much from his perspective. (It also doesn’t apply to intelligence gathering.)
+
+Related: This Lethal Laser Could Cripple ISIS and Other Enemies
+
+For the drone warriors of Ukraine, keeping UAVs in the air is a growing challenge. The Russian-backed militias have access to the latest and most sophisticated in signal jamming and GPS spoofing technology from suppliers like the Moscow-based Radio-Electronic Technologies Corporation, or KRET, and expensive, truck-based anti-aircraft systems like the Krasuha 2.
+
+The most sophisticated UAV that has come out of the Ukrainian side since the start of the conflict is called the PD-1 from developer Igor Korolenko. It has a wingspan of nearly 10 feet, a five-hour flight time, carries electro-optical and infrared sensors as well as a video camera that broadcasts on a 128 bit encrypted channel. Its most important feature is the autopilot software that allows the drone to return home in the event that the global positioning system link is jammed or lost.
+
+Drone-based intelligence gathering is often depicted as risk-free compared to manned aircraft or human intelligence gathering, but, says Korolenko, if the drone isn’t secure or the signature is too obvious, the human coasts can be very, very high.
+
+“Russian military sometimes track locations of ground control stations,” he wrote Defense One in an email. “Therefore UAV squads have to follow certain security measures - to relocate frequently, to move out antennas and work from shelter, etc. As far as I know, two members of UAV squads were killed from mortar attacks after [their] positions were tracked by Russian electronic warfare equipment.”
+
+Related: Death by Drones - Are They Worth the Cost?
+
+Korolenko has either designed or modified several UAVs to help with the war effort. He’s part of a volunteer group called the People’s Project, a kind of tech incubation lab based primarily in Kiev.
+
+With its slick website and project-based focus, it shares a lot in common with your average Silicon Valley start up but instead of producing e commerce apps, they’re building to equipment to get to the front as quickly as possible. He describes the business model as “sort of wartime crowdfunding,” Kickstarter for conflict.
+
+The reliance on crowdfunding is an unfortunate necessity for parts of the Ukrainian force. The Ukrainian Ministry of Defense and Ministry of Interior have built up a reputation among some NGO workers in the region as inept at best and nakedly corrupted by Russian infiltrated at worst.
+
+Nongovernmental organizations and volunteer groups have provided a much bigger operational thrust to the men at the front lines than is typical.
+
+Related: Why Commercial Drones Could Soon Dominate the Skies
+
+As Oriana Pawlyk reports in this piece for the Air Force Times, the donations include drones themselves. A group called Chicago Automadin has been sending off-the-shelf Phantom 2 UAVs to the front lines and has been looking to bulk up their anti-jamming capabilities.
+
+Off-the-shelf solutions will not push back the forces blowing westward from Russia. Even if the United States were to provide lethal aid in the form of shoulder-fired missiles, radar and drones, a fundamental capabilities and resupply gap would persist on the ground. The DPR and other pro-Russian military groups have a more willing backer and clean supply lines to the front. “No one thinks the Ukrainian army would beat the Russians,” Pifer told Defense One.
+
+The crisis in Eastern Ukraine is providing a glimpse of how future wars not only will be fought but funded. It’s also a living lesson in how quickly war changes technology, and vice versa. What Korolenko, Chazin and others can do is reduce casualties on their side and drive up costs for the enemy. They can buy time.
+
+This article originally appeared in Defense One.
+
+Read more at Defense One:
+
+Pentagon Satellite Spies Aim for the Arctic
+
+Don't Blow Up an Effective Iran Deal
+
+More Dems Urge Obama to Arm Ukraine

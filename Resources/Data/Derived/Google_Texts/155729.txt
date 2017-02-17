@@ -1,0 +1,19 @@
+A company that makes home security and baby monitoring cameras settled charges with the Federal Trade Commission on Wednesday that it failed to protect its customers' privacy.
+
+According to the FTC, in January 2012, a hacker publicized how easy it was to gain access to live video feeds of TRENDnet home video cameras. Other hackers then posted live feeds of nearly 700 private cameras online.
+
+The videos showed babies in their cribs, children playing and adults engaging in "typical daily activities," the FTC said
+
+ADVERTISEMENT
+
+After discovering the security breach, TRENDnet patched its software and notified its customers.
+
+The FTC accused TRENDnet of falsely advertising that its products were secure and that it had taken reasonable steps to protect its customers' privacy.
+
+TRENDnet allows its customers to view their video feeds online by logging into their account. But according to the FTC's complaint, TRENDnet transmitted the usernames and passwords over the Internet in clear, readable text and failed to protect the information on mobile devices.
+
+The company could have used free software to encrypt the information, the FTC said.
+
+The settlement requires TRENDnet to establish a comprehensive security program, and the company must obtain third-party assessments of its security efforts every two years for the next 20 years. The company is barred from misrepresenting the security of its products in the future.
+
+TRENDnet did not respond to a request to comment.

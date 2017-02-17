@@ -1,0 +1,7 @@
+When lawmakers and privacy advocates talk about drone use by police, the conversation usually centers around what kind of policy will protect the privacy of citizens but also allow law enforcement officers to protect people. But security researcher Nils Rodday may have discovered a problem with police drones that hasn't gotten much play: They're easily hackable.
+
+As Rodday explained recently to Wired, "you can send a command to the camera, to turn it to the wrong side so they don’t receive the desired information…or you can steal the drone, all the equipment attached to it, and its information."
+
+It's as easy as exploiting the drone's wifi connection or radio protocol, says Rodday. He presented his findings at the RSA Security Conference in San Francisco this week. (Here are his presentation slides.)
+
+For more on civilian drone use, click below to watch "Drone Boom: Why Drones Aren't Just for Dropping Bombs Anymore."

@@ -1,0 +1,29 @@
+HIV may soon be a fearful disease of the past after a Philadelphia laboratory announced a breakthrough: They had successfully destroyed the virus. It's the first time ever that scientists have been able to eliminate the HIV virus from human cells. Their results will be published in the Proceedings of the National Academy of Sciences on July 21.
+
+"This is one important step on the path toward a permanent cure for AIDS," said Dr. Kamel Khalili, professor and director of the Center for Neurovirology, and director of the Comprehensive NeuroAIDS Center at Temple University, in a press release. "It's an exciting discovery, but it's not yet ready to go into the clinic. It's a proof of concept that we're moving in the right direction."
+
+Khalili, along with his colleague, Dr. Wenhui Hu, an associate professor of Neuroscience at Temple, led their research team on to accomplish the elimination of the HIV-1 virus in a laboratory setting. They believe their findings will lay the foundational bricks for developing a cure, therapeutic protection against HIV-1, and a cure for AIDS and other viral-based diseases. AIDS is the final deadly stage of HIV, which wreaks havoc on the immune system, greatly lowering the body's resistance to infection, allowing it to progress.
+
+"Since HIV-1 is never cleared by the immune system, removal of the virus is required in order to cure the disease," Khalili said.
+
+There are an estimated 35 million people worldwide who are diagnosed with HIV, the human immunodeficiency virus, according to the World Health Organization. The first case of AIDS was recognized in the United States in the early 1980s, and by July 1982, a total of 252 cases throughout 23 states were reported to the Centers for Disease Control and Prevention (CDC).
+
+Almost 30 years later, the disease, which is transferred through bodily fluids, is still very much alive with frightening prevalence and no cure. Approximately 50,000 people are newly infected with HIV each year in the United States. Almost two-thirds of new infections occur in gay and bisexual men, while African American men and women contract the disease eight times more than Caucasians.
+
+The study provides hope for all those who suffer and the prevention of millions more. Researchers created a two-step combination approach to destroying the virus by sending microscopic tools of DNA-snipping enzyme, with a targeting strand of gRNA, to hunt down and destroy the HIV-1 DNA. Once attacked, the cell repairs the loose ends of the genome back together, leaving behind healthy, virus-free cells.
+
+The team used an approach evolved from a bacterial defense mechanism used to protect against infection, according to Khalili. The lab engineered 20-nucleotide strands of the gRNA that target the long terminal repeat (LTR), which are located on each end of the HIV-1 genome. The gRNA carries with it the Cas9 nuclease and delivers it to the ends of the 9,709 nucleotides that comprise the HIV-1 genome.
+
+To make sure the gRNA doesn’t accidentally bind with and attack any healthy human genome, researchers selected a nucleotide sequence that doesn’t appear in any other human DNA. They key was how successful the combination approach was at targeting and destroying microglia, macrophages, as well as T-lymphocytes, which are harborers of HIV-1.
+
+“T-cells and monocytic cells are the main cell types infected by HIV-1, so they are the most important targets for this technology,” Khalili said.
+
+Highly active antiretroviral therapy (HAART) has gotten the HIV-1 virus under control for infected people on a global scale for the last 15 years. However, HAART doesn’t completely destroy HIV-1, and its leftover presence causes health consequences.
+
+“The low level replication of HIV-1 makes patients more likely to suffer from diseases usually associated with aging,” Khalili said. Cardiomyopathy, bone disease, kidney disease, and neurocognitive and neurodegenerative disorders, along with other natural aging conditions are worsened by the toxic drugs, which are used to simply control HIV-1, while the newly discovered approach by Temple University researchers can completely destroy any trace of the virus.
+
+This breakthrough discovery comes on the heels of the tragic loss up to 100 AIDS researchers on the MH17 Malaysian Airlines flight on Thursday. Losing these world leaders in the fight against AIDS was devastating, and the effects of these losses on further AIDS research is incalculable. Teams around the world will have to move forward toward a hope for the cure.
+
+"We are working on a number of strategies so we can take the construct into preclinical studies,” Khalili said. “We want to eradicate every single copy of HIV-1 from the patient. That will cure AIDS. I think this technology is the way we can do it.”
+
+Source: Khalili K, Hu W, Yang F, Zhang Y, Luo B, Karn J, et al. Proceedings of the National Academy of Sciences. 2014.

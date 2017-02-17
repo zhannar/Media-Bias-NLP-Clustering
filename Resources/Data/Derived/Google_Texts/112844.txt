@@ -1,0 +1,47 @@
+The successful breach of Anthem, America’s second-largest health insurer, has left many people wondering: Could my provider be next?
+
+The answer, experts say, is yes.
+
+ADVERTISEMENT
+
+“You think of that Jesse James quote, ‘Why do I rob banks? Because that’s where the money is.’ Why do hackers target insurance companies? Because that’s where the information is,” said Cynthia Larose, who leads law firm Mintz Levin’s privacy and security practice.
+
+It’s not medical information that hackers are after when they infiltrate an entity like Anthem, experts say. The target is the trove of names, Social Security numbers and other identity information that an insurance company stockpiles on its customers.
+
+The Anthem hack compromised the information of an estimated 80 million people, stunning cybersecurity analysts who called it perhaps the largest successful hack in healthcare history.
+
+Investigators in law enforcement and private firms have suggested the breach was the work of a state-sponsored Chinese hacking ring that gained access to the network by stealing an employee’s security credentials.
+
+The hackers’ motivation remains unclear, though experts argued it was probably more than just financial gain.
+
+Chinese hackers are known for their interest in U.S. corporate intelligence, for example, and a successful breach could allow them to inject malware into corporate networks.
+
+Simply collecting username and password combinations could help hackers break into other companies that hold information that they want, said Mike McNerney, a cybersecurity strategist and start-up adviser in Silicon Valley.
+
+“Once you get into the insurer, maybe you can use that position to swim upstream or downstream. Maybe hacking Anthem gives the attackers the ability to breach what they really want. Goldman Sachs? ... Chevron? Lockheed Martin? It’s possible.”
+
+Unlike attacks on the banking and retail industry, healthcare hacks rarely generate headlines — but that doesn’t mean they are rare.
+
+A database maintained by the Department of Health and Human Services lists 17 healthcare breaches affecting 500 or more people since Oct. 1 alone.
+
+The records list more than 1,000 hacks of healthcare providers, health plans and other medical businesses since the early 2000s, affecting millions of people in total.
+
+The FBI also warned the healthcare industry 10 months ago that it was “not technically prepared to combat against cyber criminals’ basic cyber intrusion tactics.”
+
+Experts say the healthcare world is less prepared for cyberattacks than the defense industry or major financial institutions, though the struggle to guard against intrusions is universal.
+
+Some pointed to figures showing that advanced malware attacks against healthcare actors have increased.
+
+“I think the larger insurers with the resources are going to start looking at the risks more carefully,” Larose said. “Healthcare remains a largely paper-based industry. The data that is online is in bits and pieces, and that is very hard to secure.”
+
+America’s Health Insurance Plans (AHIP), a trade group for the insurance industry, rejected suggestions that the industry is less prepared than its peers.
+
+“All health insurance plans must meet strict federal and state requirements on data security which protect individual member information. These strong protections have been in place for many years,” said AHIP spokeswoman Clare Krusing in a statement.
+
+“New threats, however, are evolving. To prevent breaches in the future, the focus needs to be on accurately assessing the cyber attacks that occur across all industries and to work with the public and private sectors to identify those threats beforehand.”
+
+Anthem customers affected by the breach have been warned to tread carefully when opening emails, with scammers reportedly trying to trick people into opening dangerous links by offering them free credit monitoring.
+
+The so-called “phishing” attacks have created a headache for Anthem, forcing the company to resort to paper mail and phone calls when communicating with customers hit by the attack.
+
+“There is no easy fix for victims of this breach,” said Neal O’Farrell, a security and identity theft expert at Credit Sesame, an online credit-monitoring tool. “That information isn’t coming back.”

@@ -1,0 +1,15 @@
+Republican senators and representatives are not the only government employees working against the success of HealthCare.gov and the Affordable Care Act. An IT CEO who has worked on government projects in the past has eloquently described another faction in the fight: people who don’t want to learn new technology and who defend their work turf at all costs.
+
+Dave Kellogg is the CEO of Host Analytics, which provides cloud-based enterprise performance management. Previously, he was general manager of service cloud at Salesforce and CEO at unstructured big data provider MarkLogic. Medicare chose MarkLogic’s database software to run part of HealthCare.gov. MarkLogic’s software manages data differently from systems by companies like IBM, Microsoft and Oracle – products more commonly used in government projects.
+
+He worked at MarkLogic until 2010 and did not have a role in any HealthCare.gov work, as best he can remember. However, the implied criticism of his former company prompted a great post about the many challenges of working with the government on technology projects.
+
+It had never occurred to me, for example, that in a $630M project — where MarkLogic might get maybe $5 to $10M — that someone would try to blame failure of what appears to be one of the worst-managed projects in recent history on a component that’s getting say 1% of the fees.
+
+It makes no sense. But now, for the second time, the New York Times has written an article about the HealthCare.gov fiasco where MarkLogic is not only one of very few vendors even mentioned but somehow implicated in the failures because it is different.
+
+He points out that this kind of failure happens all the time on projects of this scale. This is the best and most concise critique I’ve read of the HealthCare.gov mess: Someone who didn’t understand how hard it was to build ordered up a website of very high complexity with totally unrealistic time frames.
+
+He also points out another problem I’ve seen as I’ve worked with IT people to build websites: Most people like to stick with what they know. This tendency is not unique to IT pros, but the implications of that problem have a much bigger impact when the skill in question is technology.
+
+Here is Kellogg’s analysis:

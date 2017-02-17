@@ -1,0 +1,37 @@
+Sprinklr Data Is visualized on monitors at the RNC's social-media command center
+
+On Oct. 23, Georgia Senate hopeful David Perdue was interviewed at a local Dairy Queen in Forsyth where he discussed a top international concern: Ebola. Two days prior the Republican's campaign suggested on Twitter that "The American people are concerned about Ebola, but Obama is just concerned about his political allies."
+
+Social-media analytics helped influence the campaign to step up messaging about Ebola. The Republican National Committee facilitated the social-data research that the Perdue for Senate camp has used to detect what Georgia voters care about, and how that differs from what voters in other closely watched Senate-race states such as Arkansas care about.
+
+The RNC has been using a customized version of Sprinklr's social analytics platform, and feeding daily and real-time reports to campaign consultants, directors and field staff for messaging, early voting and election-day get-out-the-vote pushes. RNC communications staff is also referencing the reports.
+
+"We saw that the Ebola conversation really picked up in Georgia," said Wesley Donehue, CEO of Push Digital, a GOP digital agency. (Atlanta's Emory University Hospital is one of four U.S. hospitals geared up to handle Ebola patients and the Centers for Disease Control is headquartered there as well.)
+
+On the other hand, he said, "It wasn't a trending topic in Arkansas." The consulting firm runs digital operations and tech infrastructure for the Perdue campaign as well as for Rep. Tom Cotton, a Republican from Arkansas, in his battle against Democratic Sen. Mark Pryor. "When you're running for office and all your voters are concerned about an issue, then you join the conversation, too."
+
+The Senate races in Alaska and Colorado are also of special interest this year for the party.
+
+The party aims to understand how people it's already connected with in some way behave in social channels, and has linked parts of its recently revamped database to the social data flowing through Sprinklr. "We've integrated a subset of our data with our social-media listening tool," said Lori Brownlee, social media director for the RNC. The party's database encompasses more than just registered voters; RNC Chief Digital Officer Chuck Defeo refers to it as a "people-centered database."
+
+"When folks on social media are talking about a Democrat candidate and their ties to Obama and his policies -- like ObamaCare -- we know our message should reflect that narrative during the debate," said Ms. Brownlee. "We also monitor the issues both candidates are discussing in the days prior to the debates, so we have a clear idea of what the candidates will say. The moment a line we're expecting is dropped, we publish a social post based on what we know the audience cares about."
+
+Depending on what identifiable data people associate with their social accounts, Sprinklr can match what they do in social media with the GOP's data, which includes information about previous interactions someone might have had with the party, such as donating or signing an online petition. Those people who have previously engaged with the party, of course, could be helpful when it comes to building support and convincing people to come out and vote. Voter turnout is especially important during the midterms when people historically are less interested in the elections compared to presidential years.
+
+"We are working with about half-a-dozen [Senate] campaigns to deliver daily and weekly updates along with social analytics," said Ms. Brownlee. Rather than simply using Twitter and Facebook as a "broadcast tool," she continued, "We centered our plan around using social as a strategic listening and data collection tool."
+
+The effort will serve as the basis for a much broader roll out of the analytics platform expected in 2016, which the party says will be accompanied by a bigger social-analytics budget and staff for the presidential race, according to Mr. Defeo. The RNC began evaluating a handful of social-listening technologies about a year ago, he said. Since choosing to work with Sprinklr, the tech vendor has added new features to its system, prompted by RNC requests, including enhanced data visualization for data on subsets of groups. The company is non-partisan and currently doesn't work with any other political clients.
+
+Advertisement
+
+Campaigns with access to the Sprinklr data are also using it to detect influential supporters who might help spread messages in social channels. "We're able to tell who are the main people driving the conversation," said Mr. Donehue. "Then we can reach out to them and say we just tweeted this from the campaign would you mind retweeting this?"
+
+"Most campaigns individually don't want to pay for stuff like this; most of them still don't get it," said Mr. Donehue. "It definitely gives us a tool that we probably wouldn't have in our toolbox [otherwise]." The campaign managers and staff he works with use the Sprinklr data as supplementary guidance for messaging and field operations.
+
+For this year's midterms, the RNC isolated around 50 issues including Obamacare and the Keystone oil pipeline, and set up the Sprinklr system to monitor what people are saying about those issues. The party organizes the information by candidate, state, and local voting area if possible.
+
+"We're figuring out what is the narrative around Obamacare in a specific state," said Ms. Brownlee, noting the system distinguishes between discussions about cancelled insurance plans and higher premiums, for instance.
+
+"I don't want to say that the work done by our data science team is the same," as what the social data team is doing, stressed Mr. Defeo, noting that the data science team focuses on predictive analytics and "scoring" voters, or estimating their likelihood to support Republicans. The social data reflects "what people are discussing right now, not necessarily people's opinions," he said. Neither replaces traditional polling, which gives a snapshot of the electorate in a controlled environment, said Mr. Defeo.
+
+The Democratic National Committee declined to discuss its own current social analytics practices for this story, though the party and President Barack Obama's 2012 campaign were considered highly advanced in social media communications, analysis and targeting.

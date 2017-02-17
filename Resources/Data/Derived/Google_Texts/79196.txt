@@ -1,0 +1,17 @@
+There's much confusion about just what the FBI is asking Apple to do in the matter of the locked iPhone that was used by one or both of the San Bernardino terrorists.
+
+FBI Director James Comey testified today before the U.S. House of Representatives Judiciary Committee and listed, in response to a question, the three things the FBI wants. I'm sharing the information since this is an important issue, and most folks will not have seen or heard the hearing.
+
+For context, you need to know that if you try to guess a password to get into a password-enabled iPhone, and you guess wrong six times in a row(1), the phone gets locked (disabled). Furthermore, there is a speed limitation. If you try to guess super fast (as if you are a computer hacker as opposed to a human who forgot his password), the phone may lock. To use the phone if it locks you have to erase it and set it up again. Obviously, the FBI does not want to erase the terrorists’ phone. Hence the issue.
+
+The FBI is asking Apple to write code to do three things:
+
+1) To lift the six-guess limit to permit the FBI to make an infinite number of guesses about the password. 2) That the speed limitation be eliminated, so the phone does not lock if the FBI guesses faster then once every 80 milliseconds. 3) That there be a way to use a computer to guess passwords instead of having to assign an employee to type them in one after another.
+
+That's what the FBI wants, so if you didn't know, now you do.
+
+Notes:
+
+(1) I read that the limit for guesses is six on Apple's website, but I also read that the FBI says it is ten. Either way, the important thing is that there is a limit.
+
+(2) I read that there is an 80-millisecond delay required between guesses, but I have not confirmed this figure with Apple.

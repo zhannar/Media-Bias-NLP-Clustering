@@ -1,0 +1,39 @@
+Apple CEO Tim Cook spoke before President Barack Obama at a cybersecurity summit at Stanford University on Friday, and he was able to slip a few major Apple Pay announcements into his talk reiterating his commitment to privacy.
+
+There were two big Apple Pay developments from today’s talk: First, Apple Pay will be “available for many transactions with the federal government.” Cook specifically cited paying for admission at national parks, but it’s not hard to imagine Apple Pay support expanded to the gift shop at the Smithsonian, for instance, or for foreigners paying fees for visa applications. The federal government will begin to accept Apple Pay starting in September, but whether you will be able to use your iPhone to pay Uncle Sam on September 1st probably depends on how the government procures NFC-enabled point-of-sale systems, so it could take a while.
+
+Advertisement
+
+The second announcement is a much bigger deal: In a press release, the White House announced that it was was working with big financial networks to enable Apple Pay for federal payment cards — specifically those for Social Security payments and veteran’s benefits.
+
+Advertisement
+
+Social Security payments used to come through the mail, in the form of a check. But in 2013, a new policy went into effect requiring those receiving benefits to receive payments electronically. That leaves two choices: Signing up for direct deposit, or receiving a pre-paid debit card called DirectExpress that’s automatically refilled, which is the option for those without a bank account. If Apple Pay were to work with DirectExpress debit cards, it would mean that pensioners could pay for their morning coffee at McDonalds with their iPhones.
+
+Advertisement
+
+The fact sheet also says the federal government would like to get Apple Pay working with GSA SmartPay cards, but unless you’re a government employee expensing travel, you’re unlikely to have one of those.
+
+Advertisement
+
+According to the Social Security Administration, there are currently over 55 million Americans receiving Social Security benefits worth over $71 billion in aggregate per month. Clearly, it’s a big market. And although not every dollar coming in to beneficiaries through Social Security will be spent through Apple Pay, even a small chunk of that is massive.
+
+Advertisement
+
+Cook and Obama’s announcement reflects that Apple is willing to further integrate itself into our daily lives, even if it has to work with slow-moving institutions like the federal government to do it. At the end of his talk, Cook mentioned that he could see even official documentation, like passports, being accessible through smartphones:
+
+Advertisement
+
+“We can imagine a day in the not-so-distant future when your wallet becomes a remnant of the past, your passport, your driver’s license, and other important documents can be digitally stored in a way that’s safe, secure, and easy to access,” Cook said.
+
+Advertisement
+
+One big advantage the iPhone platform has over Android for government applications is that Apple controls and implements trusted execution environments in its own chips, which it calls its Secure Enclave and Secure Element. The Secure Enclave helps keep the user’s fingerprint and other critical information separate from the main operating system, helping prevent it from being hacked or spoofed, is a big reason why Apple Pay has a higher degree of tokenization than Google Wallet. On Android devices, the secure element is implemented by chip companies like Qualcomm or ARM, as well as manufacturers like Samsung, meaning that Google simply has less control over applications — like payments — where security is the top priority.
+
+Advertisement
+
+By tacitly endorsing Apple Pay at a cybersecurity conference, the White House has given Apple its security seal of approval. Considering governments won’t accept digital documents without first ensuring the software that powers them is secure, that’s a big deal.
+
+Advertisement
+
+Imagine a hacker stealing your passport and spoofing it on his own device. That wouldn’t just be annoying, that could be dangerous on a national security level. As we increasingly carry important credentials on our devices — the state of Iowa is going to start issuing smartphone driver’s licenses this year — security becomes paramount. If Apple has the inside track on getting government approval for its smartphone security, as our wallets become part of our devices, then government applications could come to iPhone first, and Android second.

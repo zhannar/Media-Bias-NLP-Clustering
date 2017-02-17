@@ -1,0 +1,15 @@
+Twitter has killed-off a service that archived the deleted tweets of politicians and diplomats around the globe following the social networking site’s decision to axe the American version earlier this year.
+
+The Open State Foundation, an Amsterdam-based nonprofit that promotes digital transparency, says it learned from Twitter on Friday that its “Politwoops” and “Diplowoots” accounts would be shut down following “thoughtful internal deliberation and close consideration of a number of factors.”
+
+Politwoops worked by automatically monitoring the social media profiles of elected politicians and watching for tweets to be deleted. Twitter told OSF that it doesn’t distinguish between users, however, and had decided that lawmakers have as much of a right for tweets to be expunged from the Internet as everyone else.
+
+“Imagine how nerve-racking – terrifying, even – tweeting would be if it was immutable and irrevocable?” Twitter told OSF, according to the Dutch group. “No one user is more deserving of that ability than another. Indeed, deleting a tweet is an expression of the user’s voice.”
+
+Twitter had suspended API [application program interface] access for the American Politwoops account in May, thereby disabling OSF’s ability to automatically monitor the profiles of politicians. Other accounts remained active in 30 countries in the interim, however, until Twitter’s decision this weekend to revoke API access for the rest of the Politwoops sites as well as Diplotwoops, a service that monitored the accounts of diplomats and official embassies.
+
+“What elected politicians publicly say is a matter of public record. Even when tweets are deleted, it’s part of parliamentary history,” said OSF Director Arjan El Fassed. “These tweets were once posted and later deleted. What politicians say in public should be available to anyone. This is not about typos but it is a unique insight on how messages from elected politicians can change without notice.’
+
+“Tracking and archiving deleted tweets from MPs is absolutely in the public interest and hopefully Twitter will reconsider with that in mind,” added Jules Mattsson, the administrator of the now defunct DeletedbyMPs account, in an interview with The Guardian. “Social media is playing an increasing role in British politics and this denies us an opportunity to extend proper accountability to social platforms.”
+
+Tweets from politicians that had been deleted before May 15 are still available on the Politwoops archives, and OSF said it’s working on new tools to “promote transparency and hold our government accountable.”

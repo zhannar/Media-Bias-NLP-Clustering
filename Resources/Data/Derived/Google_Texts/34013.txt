@@ -1,0 +1,43 @@
+Matthew Wynia, Benjamin Moulton, and Glyn Elwyn
+
+December 17, 2014
+
+More than 30 years ago, a Reagan-era Presidential Commission urged the national adoption of “shared decision making” (SDM) as a way to improve communication and informed consent in health care. Since then, many patient decision aids (PDAs) have been developed — tools that present information about common medical choices in standardized, user-friendly formats. More than 100 published, randomized trials using PDAs have shown many benefits.
+
+Summarizing these benefits, a recent Cochrane review concluded that using PDAs can lead to patients gaining knowledge, having a more accurate understanding of risks, harms and benefits, feeling less conflicted about decisions and rating themselves as less passive and less often undecided. But there remains a lack of evidence that these tools actually change the way clinicians and patients communicate, and it is unclear to what extent more medical decisions are actually being shared.
+
+A discussion paper recently published by the Institute of Medicine (IOM) reviewed the literature on the implementation of PDAs in clinical practice and concluded that, despite some areas of progress, “the promise of SDM remains elusive.” In this blog post, we expand on some ideas raised in the recent Discussion Paper and provide specific recommendations in three areas: technological support for shared decision making, recognition that failure of shared decision making comprises a medical error, and a transformation in how we conceptualize “informed consent.”
+
+Patient Decision Aids and Shared Decision Making
+
+The IOM Discussion Paper, on which we are coauthors, raises several interrelated issues that deserve further study. First, it recognizes that the policy environment increasingly supports the use of PDAs and standards of care support shared decision making, but these policies and ideals are not yet being translated into reality.
+
+Among many examples of the gap between the ideals of shared decision making and current reality are the following: a 2012 poll finding that fewer than half of US adults strongly agreed their clinician understood their goals and concerns; a national survey of patients about recent care decisions, published in 2013, finding that discussion of potential treatment benefits was fairly common but talking about downsides remained uncommon and “for cancer screening, the discussion of cons was almost non-existent;” and a 2014 study of patients scheduled for elective cardiac catheterization finding that 88 percent held fundamentally mistaken beliefs about the potential benefits of the procedure, despite having signed an informed consent document. Each of these examples suggests a high failure rate among health professionals to fully share both information and decisions with patients.
+
+As one step forward, the Discussion Paper’s authors propose the development of a transparent certification schema for PDAs. The need for certification of PDAs has been referenced in both the federal Affordable Care Act (section 3506) and in state legislation. These tools are intended to inform decision making and as such must avoid conflicts of interest, meet quality development standards and be evidence based so that patients and practitioners can have confidence in their integrity.
+
+Yet, even widely-available, high-quality PDAs will not be enough to ensure shared decision making. Based on the recent Cochrane review, when used in clinical trials PDAs can improve patient knowledge and risk perception, but shared decisions require more than just standardized information delivery.
+
+Shared decision making requires the effective delivery of information about specific options, including attendant risks and benefits, eliciting and clarifying relevant patient goals and preferences, and then carrying out an interactive process of reflection and discussion based on those preferences to arrive at a shared decision. Research has not shown that using PDAs affects step 3, which requires personalized, bidirectional conversations and hence is more difficult to study than steps 1 and 2.
+
+Capturing information about all three steps within the medical record would be an important step forward. More specifically, mechanisms should be developed for caregivers, health professionals or patients to regularly document patient goals and preferences in electronic medical record systems.
+
+Linking Overtreatment, Patient Safety and Shared Decision Making
+
+Another step forward would be to recognize that shared decision making is critical for addressing both overtreatment and patient safety. While rooting out overuse and fraud are important aims, the focus within legal, medical, and policy circles should be on ensuring everyone gets the right care. The care patients need and no less; the care they want and no more. This is not the same as claiming that using PDAs or shared decision making will reduce spending, which is unproven. But when a patient receives a service or product they would not have wanted had they been fully engaged in the decision making process, then at best the resources expended on that care have been wasted.
+
+In addition to being wasteful, providing unwanted care is, and should be recognized as, a medical error, just as failing to provide reasonable and desired care is an error. In this light, failing to carry out shared decision making represents a preventable adverse event, since significant harm occurs when patient preferences are ignored. At minimum, there is harm to the patient’s dignity and rights, but care that ignores patient preferences and values can take physical, emotional, and financial tolls, too.
+
+Re-framing failure of shared decision making to recognize it as an error with the potential for significant harm has important implications. Investigations of safety events occur under legal protection and are increasingly formalized, structured, and routine activities in health care organizations.
+
+An initial, tangible step toward recognizing the relevance of shared decision making to safety would be for adverse event investigations to include an inquiry into whether the patient or surrogate felt they were appropriately engaged in shared decision making. This information could be collected on Common Format adverse event reporting forms, and potential defects in shared decision making—sometimes called misdiagnosis of patient preferences—could then be investigated as a possible contributing cause of adverse events.
+
+Informed Consent
+
+Finally, shared decision making has the potential to transform the informed consent process and strengthen the therapeutic alliance. As currently implemented, the legal doctrine of informed consent has proven insufficient for ensuring actual patient engagement in medical decisions – too often, as summarized in the IOM Discussion Paper, it appears the aim of informed consent processes is to obtain a ritualistic signature on a form, rather than to achieve bidirectional communication between clinician and patient to arrive at a shared decision.
+
+It is time for the informed consent standard to evolve from an expectation that information has been delivered and a document signed to an expectation that shared decision making has taken place, including an explicit articulation of values and preferences and how these align with important clinical decisions. This evolution will require the careful development of new methods for implementing PDAs and shared decision making as well as methods for routinely measuring the quality of medical decisions.
+
+The latter poses particularly daunting challenges, though regular documentation of patient preferences in electronic records, as noted above, would alleviate the measurement dilemma. In addition, advances in recording technologies and analytics present exciting opportunities for continuously monitoring the quality of patient-clinician interactions.
+
+Of course, analogous to current debates over the use of body cameras by law enforcement personnel, solutions based on technological monitoring will be controversial and undoubtedly will come with unintended consequences. But if we can use data to learn how to support the deeply personal and inherently-nuanced conversations required for truly shared decision making, we will have taken a critical step toward achieving “the pinnacle of patient-centered care.”

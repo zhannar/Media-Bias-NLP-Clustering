@@ -1,0 +1,33 @@
+The numbers should shake any provider still blissfully ignorant of privacy threats out of their complacency: Two-thirds of health organizations polled by HIMSS for its latest cybersecurity survey say they've recently experienced a "significant security incident."
+
+Nearly 300 respondents – all of whom bear some responsibility for information security at their organizations – reported using an average of 11 different technologies to keep data safe, according to the survey, which was unveiled July 1 at the Healthcare IT News Privacy & Security Forum in Chicago.
+
+By and large, these were primarily the tried-and-true basics: anti-virus software, firewalls and data encryption. As for more advanced tools, respondents were much less likely to deploy strategies such as multi-factor digital identity or dynamic biometric technologies.
+
+As for staffing, more than half said their organizations have hired full-time professionals – usually chief information security officers – to manage the information security functions.
+
+Unsurprisingly, that's because a majority of providers polled, 87 percent, in fact, said information security has become a more important business priority at their organizations over the past year – leading to improved security posture, stronger network security capabilities, better endpoint protection, data loss prevention tools, disaster recovery and continuity.
+
+But surprisingly, perhaps, despite this extra attention, staffing and technological firepower, poll respondents reported only an average level of confidence in their organization’s ability to protect infrastructure and data.
+
+While providers confident (relatively speaking) of their ability to deal with brute force attacks (35.4 percent), phishing (33.7 percent) and denial of service/DDoS attacks (31.3 percent), for instance, they were less confident about their ability to grapple with negligent or malicious insiders (19.9 percent each) and zero day attacks (17.2 percent).
+
+Other findings from the 2015 HIMSS Cybersecurity Survey:
+
+Just 12 percent reported their organization conducted a mock cyber defense exercise.
+
+Only 17 percent of respondents indicated that security incidents were identified by an external source, such as a patient whose information was compromised or a law enforcement agency.
+
+Nearly 60 percent of respondents reported getting information about cyber threat intelligence from peers' word of mouth. Third party vendor threat intelligence feeds (49 percent) and US Computer Emergency Readiness Team alerts were also fairly widely used at 45 percent.
+
+More than half of respondents reported that an external organization (vendor/consultant or law enforcement agency) was brought in to investigate security incidents; nearly half reported their healthcare organizations addressed the security incidents solely through an internal investigation.
+
+Respondents were most likely to indicate that lack of staffing and lack of financial resources were key barriers, but 42 percent also indicated there were too many emerging and new threats to keep track of.
+
+While two-thirds or organizations polled reported experiencing a security incident in the past, the majority were focused on the future – and not very confident that they'd have the wherewithal to manage the risk.
+
+"Respondents noted that today's security tools are not going to be sufficient to protect the industry against the types of security threats their organizations expect to face in the future," according to the report. "Indeed, respondents were widely likely to indicate that more innovative and advanced tools are required to secure their environments in the future."
+
+Meanwhile, "respondents reported being highly concerned about the prospect of a future attack against their organizations," HIMSS found. "They were most likely to be concerned about phishing attacks, negligent insiders and advanced persistent threat attacks."
+
+Access the full report here.

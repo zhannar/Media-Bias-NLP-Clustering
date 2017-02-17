@@ -1,0 +1,21 @@
+Healthcare.gov's second open enrollment period was supposed to be hosted by HP Enterprises Services, but the Centers for Medicare and Medicaid Services has yet again extended a contract with the site's original Web host, Terremark, further delaying the transition to HP's cloud.
+
+CMS submitted a special notice Monday awarding Terremark, an IT subsidiary of Verizon Communications Inc., "an out of scope modification" to its initial contract for supporting the Affordable Care Act's Healthcare.gov federal marketplace. Despite announcing before the site's official launch that Hewlett-Packard Co. would take over hosting responsibilities for the marketplace, CMS has continually extended Terremark's contract — once in February, again in July and now for a third time.
+
+The latest award, according to the notice, adds to the "logical follow-on" contract extension needed "Enterprise Identity Management (EIDM) hosting and security upgrades," a major focus of CMS and Healthcare.gov since launching last fall and especially in the wake of a malicious cyber attack in July. The EIDM had been supported by a separate contract that expired in September, according to the notice. The follow-on will continue through the end of open enrollment 2015.
+
+With stability and security in mind, CMS will continue hosting Healthcare.gov's returning users through Terremark's services and balance some of the load from other features on HP, as well as Amazon Web Services, a subcontractor to HP. On the backs of three different hosts, CMS hopes this enrollment period will run a bit more smoothly.
+
+“Our first priority is to ensure that millions more consumers will be able to enroll in quality, affordable coverage during the next open enrollment period," a CMS spokesperson said. "Based on our lessons learned and provide sufficient time to ensure a stable site, we have instituted a plan to better manage peak traffic, while providing greater flexibility and scalability within the system. To achieve this and to accommodate the growing needs of consumers, we have decided to use three data cloud services, assigning each with specific responsibilities and measurable deliverables."
+
+With the extension, Terremark will continue to serve as the main host of the marketplace and its data hub through the second open enrollment for returning customers and new enrollees with more complex needs.
+
+According to the notice, "CMS plans on utilizing the HP Virtual Data Center as a development environment and alternate site for backup and eventually transition the work from the Terremark Federal Group Inc. site. This approach will better position CMS to implement a scalable, robust, and secure hosting site for the Open Enrollment period with adequate time for end to end testing of the marketplace systems. ... There is no other source that could provide the required hosting services during OE 2015 at an acceptable level of risk. Terremark is best positioned to continue to provide these services until CMS is able to transition them to HP.”
+
+HP will not stay completely in behind-the-scenes test mode, though. The CMS spokesperson confirmed that the company will serve as the host for the online Small Business Health Options Program, launching for the first time during this enrollment period to facilitate insurance for companies with fewer than 50 employees. Last year, businesses had to apply via paper. HP will also host the marketplace for agents and brokers.
+
+Lastly, Amazon Web Services will support Healthcare.gov's Marketplace 2.0, which will facilitate health insurance for new users.
+
+"This decision represents the best path forward to ensure a successful second open enrollment period," the spokesperson said. "It was made in order to improve the consumer experience and have sufficient time for testing before the next open enrollment period."
+
+Is all goes as planned, the transition to HP's services should be made sometime after open enrollment ends in February.

@@ -1,0 +1,45 @@
+Now that Halloween is over, people are thinking about open enrollment for Obamacare, which begins November 15, this year. However, what was once the hottest debated topic in social media last October is now not even a blip on the radar of the social sphere.
+
+One might ask how any company could let that much press and intense social debate fall to the wayside. When we're talking about the government, it's hardly surprising. But this isn't a rant about government or healthcare even.
+
+The meteoric rise and fall of the Obamacare marketing campaign is fraught with lessons for those of us savvy enough (cough cough) to pick up on them. Without further ado, the 5 lessons in marketing we can learn from Obamacare:
+
+1. The best marketing campaigns start with a clear idea of customer segments
+
+
+
+John Quelch, of Harvard Business School, co-authored a research paper about one of the state specific success stories in the somewhat lackluster marketing efforts of the Obamacare initiative. Key to the effort, he says, was that the quasi-state agency Access Health CT (AHCT) put marketing at the forefront early--including hiring Kevin Counihan, the chief marketing officer of Massachusetts' successful health connector (which predated Obamacare) to run it.
+
+Mr. Counihan is no stranger to marketing campaigns. And the results he helped foster (a 65% enrollment rate in Obamacare for the state of Connecticut) were the highest in the nation. His plan? Segment his target audience, and make it dead simple to sign up for insurance. Of course there was much more that went into it with the market research he paid for and the teams of insurance agents he had to wrangle together on Saturday mornings.
+
+2. Celebrities do not always guarantee results
+
+
+
+HuffingtonPost contributor Wendy Powell, in a 2013 article, cited some of the many celebrities HHS was involved in hiring (including Jennifer Hudson, Olivia Wilde, Lady Gaga, John Legend, Amy Poehler, Marlon Wayans to name a few.)
+
+However, according to Powell, "Health and Human Services released long awaited statistics from the end of the year 2013. Only 18 percent of the goal of 2.7 million young and healthy (ages 18 to 34) has been reached. This is required for stable premiums and subsidies. 90 percent of the enrollees received financial assistance."
+
+With a marketing budget of $684 million, it seems that no matter who was talking about Obamacare, the results didn't automatically create themselves.
+
+3. Make dang sure your website can handle the traffic
+
+
+
+If you were in charge of building a website that would have to handle a potential load of the entire online population of the USA in the same day, shouldn't that be one of your top priorities?
+
+We all know now that Healthcare.gov wasn't even close to ready for handling that type of traffic. I know that hindsight is 20/20. But the technology for handling large spikes in traffic has existed for quite some time now, and it's actually really cheap. CDN's like CloudFlare or Incapsula are some of the more well-known services. Even a simple Amazon S3 server would have been up to the task.
+
+4. Anniversaries are important - especially when you use them properly.
+
+
+
+Given the fact that the anniversary of the $684 million marketing push of Obamacare is essentially right now, there's definitely a window of opportunity to gain some free (positive) press.
+
+It doesn't seem like HHS is capitalizing on their own anniversary though, with much of the news on the term 'Obamacare' being negative. However, even if the anniversary isn't your own, there's still an opportunity to use it. A new ebook by author Louise Norris, published in October, hopes to do just that with a 35 page guide on how to navigate the enrollment process.
+
+No matter if you've got a huge budget or a small one, the principles remain the same. And who knows what the outcome of the roll out of Obamacare might have been if they'd stuck to these basics? Political considerations aside, there's no doubt that enrollment numbers would be higher than they are right now (about 7.8 million out of 41 million uninsured Americans). Nowhere near what we were promised.
+
+Follow Steve Olenski on Twitter: www.twitter.com/steveolenski
+
+More: Obamacare Marketing

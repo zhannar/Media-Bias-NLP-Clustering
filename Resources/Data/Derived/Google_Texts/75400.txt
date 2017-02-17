@@ -1,0 +1,73 @@
+Federal Communications Commission Chairman Tom Wheeler is ready to shake up the Internet.
+
+CNET/Marguerite Reardon
+
+Wheeler confirmed Wednesday that he intends to regulate wired and wireless broadband services under the Title II of the Communications Act of 1934, subjecting them to the same utility-style rules that oversee telephone service. He said Title II would ensure that the Internet remains open to everyone, a concept known as Net neutrality.
+
+The application of Title II has the potential to radically change how the Internet is governed, giving the FCC unprecedented authority. The provision originally gave the agency the power to set rates and enforce the "common carrier" principle, or the idea that every customer gets treated fairly, on telephone service. Wheeler hopes to apply that principle to Internet traffic, preventing broadband providers from favoring one bit of data over another.
+
+"I am submitting to my colleagues the strongest open Internet protections ever proposed by the FCC," he said in an op-ed published Wednesday on Wired.com.
+
+Wheeler said the new rules will ban paid prioritization, or the idea that a company can pay a premium to ensure its data travels faster to the consumer than everyone else's.
+
+He also said he would reinstate rules that had been part of the previous open Internet regulations. A federal appeals court last year tossed out those rules, which had been in effect since 2010. The previous rules banned an Internet service provider from blocking traffic or slowing access to content to favor its own services.
+
+Consumer advocates and Internet companies applauded the move.
+
+"This is a big victory," said Sen. Al Franken (D-Minn.). "It's is a win for consumers, for small businesses trying to compete with the big guys, and for innovation."
+
+"We thank Chairman Wheeler for including equal treatment of wireless and fixed broadband connections in his proposal," said Michael Beckerman, CEO of the Internet Association. "There is only one Internet, and users expect that they be able to access an uncensored Internet regardless of how they connect."
+
+The proposal will almost certainly face legal challenges. The broadband industry, which includes telecom, mobile and cable providers, has argued that Title II's stringent rules will stifle network investment and will strangle innovation. Michael Powell, a former chairman of the FCC who is now CEO of lobbyist trade group National Cable and Telecommunications Association, said in 2013 that any attempt to reclassify broadband under Title II would amount to "World War III."
+
+The reaction came quickly Wednesday. "Heavily regulating the Internet for the first time is unnecessary and counterproductive," said Michael Glover, deputy general counsel for Verizon.
+
+"We are concerned that the FCC's proposed approach could jeopardize our world-leading mobile broadband market and result in significant uncertainty for years to come because the FCC lacks congressional authority to impose Title II public utility regulation on mobile broadband services," said Meredith Attwell Baker, CEO of the CTIA wireless trade group. Baker has said the wireless industry would look to the courts if the FCC took the Title II path.
+
+"I am submitting to my colleagues the strongest open Internet protections ever proposed by the FCC." FCC Chairman Tom Wheeler
+
+Wheeler tried to allay the fears of broadband providers. He said the FCC's proposal will exclude certain provisions of Title II that he says do not make sense for the Internet.
+
+"All of this can be accomplished while encouraging investment in broadband networks," he said in the op-ed piece. "To preserve incentives for broadband operators to invest in their networks, my proposal will modernize Title II, tailoring it for the 21st century, in order to provide returns necessary to construct competitive networks."
+
+The exceptions mean the FCC won't be able to set rates for the ISPs or tariffs. They also mean no last-mile unbundling. That would have forced ISPs to share their lines to customers with rivals offering a competitive Internet service.
+
+He pointed to the wireless industry as an example of how this could work effectively. Mobile voice service is governed by Title II regulation.
+
+"Over the last 21 years, the wireless industry has invested almost $300 billion under similar rules, proving that modernized Title II regulation can encourage investment and competition," he said.
+
+Roping in wireless data
+
+Wheeler's proposal would add wireless data to Title II oversight.
+
+That's a contrast from the rules the FCC adopted in 2010, which did not apply fully to wireless networks. The only rule that applied then was the one requiring wireless carriers to be transparent about how they manage their networks. The no-blocking rule did not apply to wireless networks.
+
+On a call with reporters, a senior FCC official noted that more than half of Americans now access the Internet via mobile devices. Because of that fact, Wheeler believes the same rules that keep the Internet open on a wired connection should apply to wireless networks. That means a similar push to prevent wireless carriers from blocking or charging businesses for a faster connection to their customers.
+
+"Wireless can't carry 55 percent of the Internet's traffic and expect to be exempt from Open Internet requirements," he said in an interview with CNET in January.
+
+Sprint
+
+Wireless operators have been concerned about these rules applying to their networks since these networks rely on a finite amount of wireless spectrum to deliver their traffic. They argue that holding wireless networks to the same standards as wired Internet connections, which have far more capacity, could cripple wireless services.
+
+FCC officials said they recognize this concern, and that they understand the technical differences between the two types of networks. In an effort to reassure wireless operators that their networks will not crumble under burdensome requirements, they said that the rules will also allow for reasonable network management. Allowing wireless operators to manage traffic on their networks should alleviate problems that wireless companies fear.
+
+Not all of the wireless carriers are against these measures. Sprint struck a cautiously supportive tone.
+
+"Sprint continues to believe a light-touch regulatory regime will not harm investment in broadband services," the company said in a statement. "However, Sprint will review the proposed rules to confirm that they give carriers sufficient flexibility to control their networks and offer differentiated pricing and products, thus allowing competition to govern the market."
+
+Asserting authority in new ways
+
+The new rules, if adopted, will for the first time give the FCC authority to regulate so-called interconnection or paid peering deals. These are relationships between broadband providers, like Comcast, and backbone Internet service providers, such as Level 3 or Cogent, that deliver Internet content to local broadband networks from Internet companies, such as Netflix.
+
+David Becker, Getty Images
+
+Netflix and companies like it, which deliver streaming content, are sometimes required to pay broadband providers for capacity on their networks. In the past, there have been disputes over these arrangements. Last year, Netflix accused Comcast and Verizon of purposely slowing the Netflix traffic in order to force the company to pay for access to broadband customers.
+
+Under the new open Internet rules, which will reclassify broadband as a Title II service, FCC officials said they will have the authority to review complaints in these types of disputes on a case by case basis. Netflix, which has advocated for the FCC to take such authority, applauded the effort.
+
+"We support the commission asserting jurisdiction over interconnection and implementing a case-by-case process that prevents ISPs from charging unfair and unreasonable tolls," Netflix spokeswoman Anne Marie Squeo said in statement. "If such an oversight process had been in place last year, we certainly would've used it when a handful of ISPs opted to hold our members hostage until we paid up."
+
+Updated at 11:40 a.m. PT: To include additional information provided by the FCC on the proposal as well as background and comments from trade groups and companies.
+
+For more on Net neutrality and how it impacts the Internet and US consumers, check out Net Fix, a CNET special report that takes an in-depth look at the issue.

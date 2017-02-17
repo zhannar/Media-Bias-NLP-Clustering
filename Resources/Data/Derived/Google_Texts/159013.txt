@@ -1,0 +1,109 @@
+On Friday, December 19th, the FBI officially named North Korea as the party responsible for a cyber attack and email theft against Sony Pictures. The Sony hack saw many studio executives’ sensitive and embarrassing emails leaked online. The hackers threatened to attack theaters on the opening day of the offending film, “The Interview,” and Sony pulled the plug on the movie, effectively censoring a major Hollywood studio. (Sony partially reversed course, allowing the movie to show in 331 independent theaters on Christmas Day and to be streamed online.)
+
+Technology journalists were quick to point out that, even though the cyber attack could be attributable to a nation state actor, it wasn’t particularly sophisticated. Ars Technica’s Sean Gallagher likened it to a “software pipe bomb.”
+
+Related: Next Cyber Hack Target Could Be Power Grids
+
+
+
+The fallout, of course, was limited. And while President Barack Obama vowed to respond to the attack, he also said it was a mistake for Sony to back down.
+
+“I think all of us have to anticipate occasionally there are going to be breaches like this. They're going to be costly. They're going to be serious. We take them with the utmost seriousness. But we can't start changing our patterns of behavior any more than we stop going to a football game because there might be the possibility of a terrorist attack; any more than Boston didn't run its marathon this year because of the possibility that somebody might try to cause harm. So, let's not get into that - that way of doing business,” he said at a White House briefing on Friday.
+
+But according to cyber-security professionals, the Sony hack may be a prelude to a cyber attack on United States infrastructure that could occur in 2015, as a result of a very different, self-inflicted document dump from the Department of Homeland Security in July.
+
+2015: The Year of Aurora?
+
+Here's the background: On July 3, DHS, which plays “key role” in responding to cyber-attacks on the nation, replied to a Freedom of Information Act (FOIA) request on a malware attack on Google called “Operation Aurora.”
+
+Related: The $100 Million Cost of the Sony Cyber Attack
+
+Unfortunately, as Threatpost writer Dennis Fisher reports, DHS officials made a grave error in their response. DHS released more than 800 pages of documents related not to Operation Aurora but rather the Aurora Project, a 2007 research effort led by Idaho National Laboratory demonstrating how easy it was to hack elements in power and water systems.
+
+Oops.
+
+The Aurora Project exposed a vulnerability common to many electrical generators, water pumps and other pieces of infrastructure, wherein an attacker remotely opens and closes key circuit breakers, throwing the machine’s rotating parts out of synchronization causing parts of the system to break down.
+
+In 2007, in an effort to cast light on the vulnerability that was common to many electrical components, researchers from Idaho National Lab staged an Aurora attack live on CNN. The video is below.
+
+How widespread is the Aurora vulnerability? In this 2013 article for Power Magazine: “The Aurora vulnerability affects much more than rotating equipment inside power plants. It affects nearly every electricity system worldwide and potentially any rotating equipment—whether it generates power or is essential to an industrial or commercial facility.”
+
+The article was written by Michael Swearingen, then manager for regulatory policy for Tri-County Electric Cooperative (now retired), Steven Brunasso, a technology operations manager for a municipal electric utility, Booz Allen Hamilton critical infrastructure specialist Dennis Huber and Joe Weiss, a managing partner for Applied Control Solutions.
+
+Related: Obama Downplays Sony Hacking: 'Not an Act of War'
+
+Weiss today is a Defense Department subcontractor working with the Navy’s Mission Assurance Division. His specific focus is fixing Aurora vulnerabilities. He calls DHS’s error “breathtaking.”
+
+The vast majority of the 800 or so pages are of no consequence, says Weiss, but a small number contain information that could be extremely useful to someone looking to perpetrate an attack. “Three of their slides constitute a hit list of critical infrastructure. They tell you by name which [Pacific Gas and Electric] substations you could use to destroy parts of grid. They give the name of all the large pumping stations in California.”
+
+The publicly available documents that DHS released do indeed contain the names and physical locations of specific Pacific Gas and Electric Substations that may be vulnerable to attack.
+
+Defense One shared the documents with Jeffrey Carr, CEO of the cyber-security firm Taia Global and the author of Inside Cyber Warfare: Mapping the Cyber Underworld. “I'd agree…This release certainly didn't help make our critical infrastructure any safer and for certain types of attackers, this information could save them some time in their pre-attack planning,” he said.
+
+Related: Cyber Crime Costs the Economy More Than You Think
+
+Perpetrating an Aurora attack is not easy, but it becomes much easier the more knowledge a would-be attacker has on the specific equipment they may want to target.
+
+How Easy Is It to Launch an Aurora Attack?
+
+In this 2011 paper for the Protective Relay Engineers' 64th Annual Conference, Mark Zeller, a service provider with Schweitzer Engineering Laborites lays out—broadly—the information an attacker would have to have to execute a successful Aurora attack. “The perpetrator must have knowledge of the local power system, know and understand the power system interconnections, initiate the attack under vulnerable system load and impedance conditions and select a breaker capable of opening and closing quickly enough to operate within the vulnerability window.”
+
+“Assuming the attack is initiated via remote electronic access, the perpetrator needs to understand and violate the electronic media, find a communications link that is not encrypted or is unknown to the operator, ensure no access alarm is sent to the operators, know all passwords, or enter a system that has no authentication.”
+
+That sounds like a lot of hurdles to jump over. But utilities commonly rely on publicly available equipment and common communication protocols (DNP, Modbus, IEC 60870-5-103, IEC 61850, Telnet, QUIC4/QUIN, and Cooper 2179) to handle links between different parts their systems. It makes equipment easier to run, maintain, repair and replace. But in that convenience lies vulnerability.
+
+Related: Top Bankers Need to Take Cyber Threat Seriously
+
+In their Power Magazine article, the authors point out that “compromising any of these protocols would allow the malicious party to control these systems outside utility operations.”
+
+Defense One reached out to DHS to ask them if they saw any risk in the accidental document dump. A DHS official wrote back with this response: “As part of a recent Freedom of Information Act (FOIA) request related to Operation Aurora, the Department of Homeland Security (DHS) National Programs and Protection Directorate provided several previously released documents to the requestor. It appears that those documents may not have been specifically what the requestor was seeking; however, the documents were thoroughly reviewed for sensitive or classified information prior to their release to ensure that critical infrastructure security would not be compromised.”
+
+Weiss calls the response “nonsense.”
+
+The risk posed by DHS accidental document release may be large, as Weiss argues, or nonexistent, as DHS would have you believe. But even if it’s the latter, Aurora vulnerabilities remain a key concern.
+
+Related: The Crime Americans Fear Most Costs $445 Billion a Year
+
+Perry Pederson, who was the director of Control Systems Security Program at DHS in 2007 when the Aurora vulnerability was first exposed, said as much in a blog post in July after the vulnerability was discovered. He doesn’t lay blame at the feet of DHS. But his words echo those of Weiss in their urgency.
+
+“Fast forward to 2014. What have we learned about the protection of critical cyber-physical assets? Based on various open source media reports in just the first half of 2014, we don’t seem to be learning how to defend at the same rate as others are learning to breach.”
+
+Aurora vs. the Sony Hack
+
+In many ways the Aurora vulnerability is a much harder problem to defend against than the Sony hack, simply because there is no obvious incentive for any utility operator to take any of the relatively simple costs necessary to defend against it. And they are simple. Weiss says that a commonly available device installed on vulnerable equipment could effectively solve the problem, making it impossible to make the moving parts spin out of synchronization. There are two devices on the market iGR-933 rotating equipment isolation device (REID) and an SEL 751A, that purport to shield equipment from “out-of-phase” states.
+
+To his knowledge, Weiss says, Pacific Gas and Electric has not installed any of them anywhere, even though the Defense Department will actually give them away to utility companies that want them, simply because DOD has an interest in making sure that bases don’t have to rely on backup power and water in the event of a blackout. “DOD bought several of the iGR-933, they bought them to give them away to utilities with critical substations,” Weiss said. “Even though DOD was trying to give them away, they couldn’t give them to any of the utilities because any facility they put them in would become a ‘critical facility’ and the facility would be open to NERC-CIP audits.”
+
+Related: Sony Hackers Go Up Against James Bond
+
+Aurora is not a zero-day vulnerability, an attack that exploits an entirely new vector giving the victim “zero days” to figure out a patch. The problem is that there is no way to know that they are being implemented until someone, North Korea or someone else, chooses to exploit them. Can North Korea pull of an Aurora vulnerability? Weiss says yes. “North Korea and Iran and are capable of doing things like this.”
+
+Would such an attack constitute an act of cyber war? The answer is maybe. Speaking to reporters at the Pentagon on Friday, Pentagon Press Secretary Rear Adm. John Kirby said “I’m also not able to lay out in any specificity for you what would be or wouldn’t be an act of war in the cyber domain. It’s not like there’s a demarcation line that exists in some sort of fixed space on what is or isn’t. The cyber domain remains challenging, it remains very fluid. Part of the reason why it’s such a challenging domain for us is because there aren’t internationally accepted norms and protocols. And that’s something that we here in the Defense Department have been arguing for.”
+
+Peter Singer, in conversation with Jason Koebler at Motherboard, says that the bar for actual military engagement against North Korea is a lot higher than hacking a major Hollywood movie studio.
+
+“We didn't go to war with North Korea when they murdered American soldiers in the 1970s with axes. We didn't go to war with North Korea when they fired missiles over our allies. We didn't go to war with North Korea when one of their ships torpedoed an alliance partner and killed some of their sailors. You're going to tell me we're now going to go to war because a Sony exec described Angelina Jolie as a diva? It's not happening.”
+
+Related: North Korea Gets Hit with More Sanctions After Sony Hack
+
+Obama said Friday that there would be some sort of response to the hack, but declined to say what. “We have been working up a range of options. They will be presented to me. I will make a decision on those based on what I believe is proportional and appropriate to the nature of this crime,” he said.
+
+Would infrastructure vandalism causing blackouts and water shutdowns constitute an act of war? The question may be moot. Before the United States can consider what sort of response is appropriate to cyber attacks, it must first be able to attribute them.
+
+The FBI was able to finger North Korea for the hack after looking at the malware in the same way a forensics team looks for signs of a perpetrator at the scene of the crime. “Technical analysis of the data deletion malware used in this attack revealed links to other malware that the FBI knows North Korean actors previously developed. For example, there were similarities in specific lines of code, encryption algorithms, data deletion methods, and compromised networks,” according to the FBI statement. (Attribution has emerged as a point of contention in technology circles, with many experts suggesting that an inside hack job was more likely.)
+
+An Aurora vulnerability attack, conversely, leaves no fingerprints except perhaps a single IP address. Unlike the Sony hack, it doesn’t require specially written malware to be uploaded into a system, Malware that could indicate the identity of the attacker, or at least his or her affiliation. Exploiting an Aurora attack is simply a matter of gaining access, remotely, possibly because equipment is still running on factory-installed passwords, and then turning off and on a switch.
+
+“You’re using the substations against whatever’s connected to them. Aurora uses the substations as the attack vector. This is the electric grid being the attack vector,” said Weiss, who calls it “a very, very insidious” attack.
+
+The degree to which we are safe from that eventuality depends entirely on how well utility companies have put in place safeguards. We may know the answer to that question in 2015.
+
+This article originally appeared in Defense One.
+
+Read more at Defense One:
+
+How Will the U.S. Punish North Korea
+
+Here's What to Expect in National Security in 2015
+
+What the Intelligence Community Thought Would Happen in 2015

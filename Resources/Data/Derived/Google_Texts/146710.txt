@@ -1,0 +1,25 @@
+Earlier this month, Cox Communications agreed to pay $595,000 and enter into a seven-year consent decree with the Federal Communications Commission (FCC) to settle a case involving a hack that exposed the data of 61 Cox customers. This was the FCC's first privacy and data security enforcement action against a cable operator and is likely to reinforce concerns about the FCC's new authority in this area and how it will be implemented.
+
+ADVERTISEMENT
+
+Normally, privacy and data security matters are the domain of the Federal Trade Commission (FTC), which has substantial experience in the area. However, the FTC does not have jurisdiction over common carriers, which broadband providers now are thanks to the FCC's Open Internet Order. That order reclassified broadband providers as Title II common carriers, and thus shifted privacy and data security enforcement for these companies from the FTC to the FCC, which has much less experience in these matters. This lack of experience shows in the FCC's inaugural enforcement action.
+
+According to the FCC's order regarding the settlement:
+
+The record reflects that from August 7, 2014, through August 14, 2014, the hackers viewed some PI [proprietary information] of 54 current Affected Customers, seven former Affected Customers, and likely viewed some CPNI [customer proprietary network information] of at least one, but possibly up to four, of these Affected Customers. The hackers posted some information of eight of the Affected Customers on social media sites; they also changed the passwords of 28 of the Affected Customers whose PI was viewed.
+
+This seems to be the total harm associated with the breach. The FCC presents no evidence that any of these customers was the victim of identity fraud, but Cox still has been ordered to pay almost $10,000 per customer record exposed and undertake an extensive program of compliance, remediation and monitoring activities.
+
+Cox, the third largest cable company in the U.S., serving about 6 million customers, noted that prior to the settlement, "our information security program ensured that we were able to react quickly and limit the incident to 61 customers. Cox also promptly reported the incident to the FBI and worked closely with them in their investigation, resulting in the arrest of the perpetrator." Thus, Cox dealt with this minor breach in what seems to be an effective manner.
+
+The FTC investigates many data breaches and largely limits enforcement actions to companies whose security programs are egregiously deficient. Indeed, there are numerous large breaches, far more significant than the Cox breach, which have not been the subject of an enforcement action. For example, recent data breaches involving Target, Home Depot, and Anthem — accounting in total for about 200 million breached records — did not result in any FTC or other enforcement action against the victim of the breach. Had the FTC applied the FCC's enforcement methodology to the Target breach, it would have fined Target $700 billion ($10,000 for each of the 70 million compromised records). That would have made the rest of the order superfluous, since obviously the company would have been out of business. Similarly, it would have fined the federal government itself about $200 billion for its loss of information on more than 21 million employees.
+
+Just this week, criminal charges were filed against alleged hackers who stole about 80 million records from JPMorgan Chase and other financial institutions. The companies who were victims of the hack were not charged.
+
+Large government penalties are not necessary to induce companies to invest in security. The costs of a significant data breach — in terms of reputation and otherwise — provide a powerful incentive. For example, Target experienced a 46 percent drop in profit for the fourth quarter of 2013 (when the breach occurred) relative to the previous year, and the company's CEO and CIO both resigned.
+
+From a public policy perspective, the goal of privacy enforcement should be to maximize net benefits, defined as benefits minus costs. The threshold question is whether the Cox settlement produces any benefits at all. Since benefits consist of the reduction in harms, in order to have benefits, there must be harms that can be reduced. The evidence presented by the FCC suggests that the harms were extremely small. Moreover, while Cox's security procedures may not have been perfect, no evidence suggests that they were seriously deficient. And, obviously, having experienced this breach, Cox has every incentive to plug the holes that the breach revealed.
+
+In the future, the FCC should provide evidence that its enforcement actions yield positive net benefits. It seems unlikely that the way to do that is to apply a de facto strict liability standard to a company that was the victim of a security breach potentially affecting 0.001 percent of its customers (with minimal costs even to them), acted quickly to limit its effects and worked with law enforcement to apprehend the perpetrators.
+
+Lenard is president and senior fellow at the Technology Policy Institute.

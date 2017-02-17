@@ -1,0 +1,19 @@
+Researchers have developed a new scanning test that could identify your entire viral history with just one drop of your blood. The test, called VirScan, could show a list of all the viruses a person has been exposed to throughout their lives — even viral infections that never caused any symptoms. They published their research in the journal Science.
+
+The research team used the screening technique on 569 patients from all over the world. To do this, they used a very large dataset of peptides (molecules part of amino acids) from 206 viral species — all of which represented some 1,000 different viral strains — to make a synthetic representation of all human viral peptides. They found that on average, people had been exposed to about 10 viral species in their lifetimes. Several people, however, had been exposed to over 84 viral species.
+
+“VirScan provides a powerful and inexpensive tool for studying interactions between the human virome — the collection of viruses known to infect humans, some of which don't cause symptoms — and the immune system, which can be altered permanently by viral exposure,” the press release states.
+
+This new screening test could provide doctors with a quicker, more efficient way to identify the types of viruses a person has been exposed to. It could even lead to earlier detection of Hepatitis C and HIV — viruses that often go undetected for many years. Instead of having to test specifically for one virus, doctors could do an entire slew of tests in one.
+
+“Normally, when a doctor wants to know if someone’s been infected with a virus, they have to guess what the virus is, and then look specifically for that virus,” Stephen Elledge, an author of the study, told The Guardian. “This could lead to a diagnostic where people go annually to their doctor and get their viral history recorded. It could certainly discover viral infections that are serious and that a patient didn’t know they had.”
+
+Here’s how it works: whenever you get infected with a virus, the immune system produces antibodies to attack the virus. Even after the infection has run its course, the antibodies remain in your blood — often for months, years, and some even for your entire life.
+
+The researchers took harmless viruses and engineered them to carry bits of proteins from human viruses on their surfaces — carrying proteins of over 1,000 strains of the 206 human viruses. These protein fragments are important for antibodies to recognize them and thus detect viruses. A drop of blood from a patient is thus mixed with these engineered viruses, which attract the person’s antibodies immediately.
+
+The doctors are then able to remove the antibodies and discover the viruses that the person had been exposed to throughout their lifetime. Interestingly, the antibodies and protein fragments are able to show what vaccines that person has had as well, but they can remove that information from the test results.
+
+Doctors believe the test will be valuable for determining what viruses a person has that may be lying dormant in their systems, or might cause illness later on. Either way, once it’s more fully developed and distributed throughout the world, people will be able to know their viral history in full quite efficiently.
+
+Source: Xu G, Kula T, Xu Q, Li M, Vernon S, Ndung’u T. Comprehensive serological profiling of human populations using a synthetic human virome. Science. 2015.

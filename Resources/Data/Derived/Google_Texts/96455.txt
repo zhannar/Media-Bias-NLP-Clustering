@@ -1,0 +1,29 @@
+A top HealthCare.gov security officer told Congress Thursday that the Obamacare website passed security testing in December, and she would recommend that its official Authority to Operate (ATO) be extended when the current ATO expires in March.
+
+Teresa Fryer, the chief information security officer for the Centers for Medicare and Medicaid Services (CMS), told members of the House Oversight Committee that before HealthCare.gov launched, she wasn’t as confident about its security.
+
+In September, “there was a level of uncertainty as to the known risks” Fryer said in a hearing before the committee, reiterating the points she made during a closed-door meeting with the committee last month. Given those concerns, she recommended to Health and Human Services officials in September that the ATO -- a document required for the HealthCare.gov’s launch -- should not be signed. HHS officials overruled her recommendation and issued a temporary, six-month ATO.
+
+When HealthCare.gov launched on Oct. 1, its major technical problems were exposed, though Fryer and other government officials noted Thursday that there haven’t been any successful attacks on the site.
+
+
+
+Since the site’s launch, security testing has continued -- and is conducted on a regular basis.
+
+“Given the positive results of the recent security control assessments... I would recommend [HealthCare.gov] be given a new authority to operate” when the current ATO expires, Fryer told the committee. While noting that one can “never guarantee any system is hack-proof,” she noted that “the protections we have put in place have successfully prevented attacks.”
+
+Committee Chairman Darrell Issa, R-Calif., in his opening remarks was nevertheless skeptical. He said given all the problems with HealthCare.gov -- which serves as the Obamacare portal for 36 states -- the website is “still questionable in its security.”
+
+The risk of vulnerabilities on the health care website is very serious, the congressman said, given that it has “tentacles to some of the most personal information” on databases belonging to multiple government agencies like the Social Security Administration and the Department of Homeland Security.
+
+To illustrate the enormity of the risk, Issa pointed out the severity of the security breach that hit the retail chain Target, affecting tens of millions of people.
+
+“The difference between Target and other companies who dealt with hackers is that we don't have to deliver that information -- we have the choice of paying cash, we have the choice of not registering,” he said, contrasting that with the mandate under the Affordable Care Act to obtain insurance.
+
+Rep. Elijah Cummings, D-Md., the top Democrat on the committee, countered that the committee ought to be holding hearings into the Target breach -- rather than hearings about a government website that’s never been successfully attacked. He pointed out that the Oversight Committee has held 22 hearings on this issue.
+
+“We’ve spent more time on this one issue over the past three years than any other topic,” he said. While acknowledging that the security of HealthCare.gov is important, Cummings said the hearings continued because “Republicans are still obsessed with killing this law [and] scaring people away from HealthCare.gov.”
+
+Cummings accused Republicans with “cherry-picking partial information to promote a political narrative that is inaccurate.”
+
+He stressed that the site has now undergone full, end-to-end testing and that government officials have put a strong mitigation plan in place to respond to attacks.

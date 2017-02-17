@@ -1,0 +1,23 @@
+After hackers used malware to commandeer computers at Presbyterian Medical Center on Feb. 5, the Hollywood hospital paid them over $17,000 in ransom to regain control over their systems. The cyber-ransom is the latest threat posed by hackers to healthcare providers already struggling to protect patient records from prying eyes.
+
+"The quickest and most efficient way to restore our systems." -- Presbyterian Medical Center CEO Allen Stefanek
+
+The hackers' ransomware encrypted files on hospital computers to halt access to them and prevented hospital workers from communicating with each other over their network. The hospital claims personal patient records and patient health weren't compromised during the attack, but nonetheless, work probably ground to a snail's pace as employees were forced back to the dark ages of pencil and paper.
+
+Facing costs that can run into the tens of thousands of dollars (or more) to have cyber-security experts fix their systems, hospital administrators determined it would be cheaper and quicker to pay the ransom and obtain the hackers' decryption key.
+
+Millions of records stolen
+
+While hackers left patient records alone at Presbyterian Medical Center, they've been busy stealing them elsewhere.
+
+According to federal records, at least 158 medical institutions have been seen their patient records pinched or compromised during the past five years, and a report by the American Medical Association last April estimates that over 29 million U.S. health records were compromised by hackers between 2010 and 2013.
+
+That number doesn't even include some of the biggest and highest-profile healthcare hacks, including the 2014 hack of 4.5 million patient records from servers at Community Health Systems (NYSE:CYH), one of the nation's biggest hospital operators, and the 2015 hack of a database at healthcare insurer Anthem (NYSE:ANTM) containing over 80 million records.
+
+In 2014, the increase in healthcare hacks caused the FBI to issue a warning letter to the industry to increase their safeguards. In 2015, an alert from the agency reported that the use of "ransomware," such as CryptoWall, was on the rise. Between April 2014 and June 2015, 992 CrytoWall-related complaints cost victims a combined $18 million, according to the FBI.
+
+Given the increase in hacking activity, it's little wonder that cyber-security software vendors such as FireEye (NASDAQ:FEYE) and Vasco Data Security International (NASDAQ:VDSI) saw revenue increase by 46% and 20% last year, respectively.
+
+Rising risk
+
+Healthcare may have been slow to embrace the widespread adoption of electronic records, but the promise of better patient outcomes has had institutions catching up fast. Unfortunately, the rapid deployment of systems without adequate controls has created an opportunity for hackers to worm their way in and profit, and that means institutions will need to become much more focused on securing their systems if they hope to avoid a similar breach.

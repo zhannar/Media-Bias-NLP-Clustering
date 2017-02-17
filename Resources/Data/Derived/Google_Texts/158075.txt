@@ -1,0 +1,45 @@
+Federal officials have pointed to overwhelming demand to explain the site’s problems. But web developers, other experts and journalists have uncovered more fundamental issues with the design and functioning of the site.
+
+(Karen Bleier/AFP/Getty Images)
+
+Federal officials have pointed to overwhelming demand to explain the site’s problems. But web developers, other experts and journalists have uncovered more fundamental issues with the design and functioning of the site.
+
+For the past two weeks, healthcare.gov , the federal government’s new health insurance marketplace, has been bogged down by problems, preventing users ( including me ) from viewing insurance options and plans on the website.
+
+Here are excerpts from five of the better stories explaining what happened:
+
+Healthcare.Gov’s Flaws Found, Fixes Eyed
+
+By Christopher Weaver and Louise Radnofsky, The Wall Street Journal
+
+Much of the problem stems from a design element that requires users of the federal site, which serves 36 states, to create accounts before shopping for insurance, according to policy and technology experts. The site, healthcare.gov, was initially going to include an option to browse before registering, but that tool was delayed, people familiar with the situation said. The decision to move ahead without that feature proved crucial because, before users can begin shopping for coverage, they must cross a busy digital junction in which data are swapped among separate computer systems built or run by contractors including CGI Group Inc., the healthcare.gov developer; Quality Software Services Inc., a UnitedHealth Group Inc. unit; and credit-checker Experian PLC. If any part of the web of systems fails to work properly, it could lead to a traffic jam blocking most users from the marketplace. That’s just what happened: On Oct. 2, officials identified a bottleneck where those systems intersect at a software component sold by Oracle Corp. that still hasn’t been cleared.
+
+Tech experts wary of more Obamacare glitches
+
+By Brett Norman and Jason Millman, Politico
+
+Some software engineers have suggested that the consumer end of the website, designed by one contractor, is not “talking to” the back end of the website, developed by a different company. Diagnostic tools in Web browsers have identified coding issues that may be complicating account creation. The Wall Street Journal reported Friday that the administration is considering an overhaul of the registration system this weekend to allow people to browse health plan options without first creating an account. The paper said the tech experts are focused on a bottleneck where a flood of data meets an Oracle software component involved in identification verification.
+
+From the Start, Signs of Trouble at Health Portal
+
+By Robert Pear, Sharon LaFraniere and Ian Austen, The New York Times
+
+Confidential progress reports from the Health and Human Services Department show that senior officials repeatedly expressed doubts that the computer systems for the federal exchange would be ready on time, blaming delayed regulations, a lack of resources and other factors. Deadline after deadline was missed. The biggest contractor, CGI Federal, was awarded its $94 million contract in December 2011. But the government was so slow in issuing specifications that the firm did not start writing software code until this spring, according to people familiar with the process. As late as the last week of September, officials were still changing features of the Web site, HealthCare.gov, and debating whether consumers should be required to register and create password-protected accounts before they could shop for health plans.
+
+Some say health-care site’s problems highlight flawed federal IT policies
+
+By Craig Timberg and Lena H. Sun, Washington Post
+
+The U.S. government spends more than $80 billion a year for information-technology services, yet the resulting systems typically take years to build and often are cumbersome when they launch. While the error messages, long waits and other problems with www.healthcare.gov have been spotlighted by the high-profile nature of its launch and unexpectedly heavy demands on the system, such glitches are common, say those who argue for a nimbler procurement system. They say most government agencies have a shortage of technical staff and long have outsourced most jobs to big contractors that, while skilled in navigating a byzantine procurement system, are not on the cutting edge of developing user-friendly Web sites. These companies also sometimes fail to communicate effectively with each other as a major project moves ahead. Dozens of private firms had a role in developing the online insurance exchanges at the core of the health-care program and its Web site, working on contracts that collectively were worth hundreds of millions of dollars, according to a Government Accountability Office report in June.
+
+How The First Internet President Produced The Government’s Biggest, Highest-Stakes Internet Failure
+
+By Alex Howard, Buzzfeed
+
+The debacle is merely the most visible example of how $80 billion spent annually by the federal government on information technology falls far short of delivering the quality or service any private company would expect at a fraction of that cost. ... At the heart of the federal IT crisis is a complex system of regulations that rewards contractors that are better at bidding on giant federal contracts than at building software. While the political figures who commission or oversee those contractors are ultimately culpable, the work itself is done by the private sector. That’s not only true of civilian agencies, as the world was reminded when a private contractor for the National Security Agency, Edward Snowden, leaked key documents from the government and gave then to the press.
+
+Finally, explore the contractors who worked on healthcare.gov and their campaign contributions, courtesy of the Sunlight Foundation.
+
+Here are all the contractors working on Obamacare -- and all the money they spent on lobbying and campaigns. http://t.co/qGvaJlvFtM — Nick Confessore (@nickconfessore) October 10, 2013
+
+Like this story? Sign up for our daily newsletter to get more of our best work.

@@ -1,0 +1,105 @@
+Nevada Health Link opened for business on Oct. 1, but it went live with no one knowing how key parts of it would work.
+
+An amended November contract between the website’s owner, the Silver State Health Insurance Exchange, and contractor Xerox shows that Xerox missed vital deadlines while building the site, which is the online marketplace where Nevadans should be able to buy insurance and earn premium tax credits under the federal Affordable Care Act. What’s more, the contract shows that some site components aren’t even due until after March 31 — the deadline for enrollment.
+
+Tech experts say some of the project delays made launching the exchange the equivalent of constructing a building with no blueprint, or going to war with no battle plan. They add that the missed deadlines likely explain why the website has had so many glitches, from randomly appearing error screens to a quirk that prevented at least one consumer from signing up at all if he chose a start date any day after the first of a month.
+
+The problems have helped hold paid enrollments as of Feb. 1 to just 14,999, or 12.7 percent of the exchange’s first-year goal of 118,000. Consumers, insurers, insurance brokers and doctors have criticized the system for issues ranging from an inability to make payments to in­accurate provider network lists. Even Nevada Gov. Brian Sandoval got involved, telling the Review-Journal on Jan. 29 that “we hired Xerox to build this system and ensure that it works and right now it’s not.”
+
+Exchange officials and Xerox representatives respond that Obamacare required the launch of a website on Oct. 1 that would let consumers shop for and choose insurance coverage, so they met that mandate. They describe working virtually 24-7 to build out the site’s unfinished functions, and they say an im­movable federal deadline made it impossible to put off the launch until after the entire site was ready. But Xerox officials also readily admit they didn’t understand the scope of work that would go into building Nevada Health Link.
+
+The delayed milestones raise “all kinds of giant red flags about how this was managed,” said Miles Feinberg, president and CEO of PayPerCloud, a company that provides cloud-hosting services and infrastructure. “These are basic fundamentals. This is Software Development 101.”
+
+Here’s a basic lesson on what’s missing and what it means for how the website operates:
+
+WHAT’S UNFINISHED
+
+Exchange spokesman CJ Bawden said Nevada Health Link’s “front-end Web portal,” which allows Nevadans to deter­mine eligibility for coverage and tax credits, as well as select and pay for a plan, was up and running on Oct. 1.
+
+What wasn’t finished was the back end, where Medicaid applications are funneled to the state Division of Welfare and Supportive Services. That part of the website is also where premium invoices are created, enrollment details are sent to insurers and consumers are able to switch coverage if their household or employment conditions change.
+
+Fundamental components of the website’s back end were allowed to be delayed when the contract was updated in November.
+
+Take the system test results that validate how well those areas of the website work.
+
+The original contract, signed in June 2012, said those tests were to be done by July 31, 2013. The amended contract gives Xerox until April 30 to finish the tests, though Bawden said the exchange ran tests with multiple users to be sure the consumer-oriented front end worked before launch.
+
+Jennifer Wasmer, a Xerox spokes­woman, said the company performed “extensive testing” on functions required for the Oct. 1 rollout.
+
+As for “solutions” for the system’s software and business-operating systems, those were initially due July 1, and were pushed back to April 30 as well.
+
+Perhaps most importantly, the system design document, which lays out a website’s hardware, software, database-management files, security protocols and record-input processes, was scheduled to be delivered by June 30. It was rescheduled for delivery on Jan. 31.
+
+The contract rewrite reflects that some of the system’s functions were “not feasible on the original timeline,” Wasmer said.
+
+Besides, it’s common for developers to take a rolling approach with “complex technological implementations” such as Nevada Health Link, Wasmer added.
+
+Still, going live without a system design document for a large part of the site would be like building an office tower without a blueprint, Feinberg said.
+
+“Just because you have a design doesn’t mean you won’t have problems, but people do have to know where to build things. Masons need to know where to erect walls, or how they have to build to bear the right load, or where the elevators go,” Feinberg said. “Software developers have to know where to build things, too. It’s like a general leading troops: ‘This is how we do it, this is our plan, follow me.’ Because people don’t just start coding (software) by themselves.”
+
+Not having system test results before April 30 is less troublesome. It could mean site developers haven’t started testing, haven’t completed testing or haven’t “compiled meaningful results,” Feinberg said.
+
+Craig Greene, a forensic accountant and expert witness on contracts and documents from CPA firm McGovern &Greene, said he noticed another potential concern in the paperwork. The contract shows the same deadline for delivery of the system’s final back-end solution and its test results. That means the exchange and Xerox said they expect to finish building and determine how well it works on April 30.
+
+“That’s a little disconcerting,” Greene said.
+
+Wasmer said the contract allows delivery of the solution after testing is finished so that Xerox can incorporate changes.
+
+The amended contract doesn’t merely show project delays. It also hints that Xerox might have underestimated the amount of work involved, and it shows neither party asked for new financial concessions when deadlines were missed.
+
+NO PENALTIES
+
+Consider the tweak in what kind of subcontracting the exchange would allow.
+
+The state exchange initially required all website work to be done in the United States but later revised the contract to allow work to be done in other countries.
+
+“When you read between the lines, it almost sounds like they got into something a little bit larger than they expected,” Greene said.
+
+“They had to maybe go out and outsource work because they’re not getting it done in a timely fashion.”
+
+Asked if Xerox underestimated the amount of work that would be involved in building Nevada Health Link’s website and call center, Wasmer said: “To put it bluntly, yes.”
+
+“The nation’s health insurance exchanges — like Nevada Health Link — are unprecedented in their nature and are very complex technical implementations that require high visibility and attention. Both have been given to this project by everyone involved,” she said. “The team Xerox assembled worked diligently to plan and deliver on time, but the system we used as a base platform for (Affordable Care Act) enhancements required more work than was anticipated.”
+
+Nor does the revised contract indicate any added penalties for the delays.
+
+The initial $72 million contract, signed in June 2012, gives the exchange and Xerox the right to terminate the deal “by mutual consent … or unilaterally by either party without cause.”
+
+It also outlines circumstances under which either side can end the agreement for “default or breach,” including “if (the) contractor fails to provide or satisfactorily perform any of the conditions, work, deliverables, goods or services called for by this contract within the time requirements specified in this contract or within any granted extension of those time requirements.”
+
+A nine-month delay in a government contract is not unusual, said Jim McGovern, also a forensic accountant and a partner in McGovern &Green. What is abnormal, McGovern said, is that the exchange failed to hold Xerox to delivery dates and apparently never asked for compensation.
+
+“Typically, there’s an adjustment to the contract value,” McGovern said. “If a contractor says it’s going to perform services by a certain date, and they need more time, often the government asks for some money back.”
+
+Bawden said exchange officials decided not to penalize Xerox because the site met its obligations under the law.
+
+“Because Nevadans were able to determine eligibility, select plans and pay for them on Oct. 1, staff did not feel it was appropriate to charge for liquidated damages,” he said.
+
+But that doesn’t mean Xerox isn’t feeling the financial heat, Bawden said.
+
+Nevada Health Link is paying for website components only after they’re “verified and validated” by an independent, third-party vendor, he said. So Xerox hasn’t been paid for any incomplete back-end functions. The state has so far paid just $10 million of the $72 million contract.
+
+The exchange also is holding back 7 percent of the contract until the entire project is complete. The hold-back is normally 5 percent, McGovern said.
+
+In fact, the point of the amended contract was to spell out “appropriate delays of payment to Xerox until the functionality is delivered,” Wasmer said.
+
+Xerox is also still in hot water with Sandoval.
+
+“Gov. Sandoval has made it clear to Xerox that he intends to hold it fully accountable for the failures of the exchange and that it must build a system that actually works. He intends to make Xerox fulfill its promise to Nevadans and will hold its feet to the fire until it does,” Sandoval spokesman Mac Bybee said Thursday.
+
+But it’s not just financial considerations that caught McGovern’s eye. It’s also not clear whether the exchange got multiple competitive bids for the job. The paperwork said the state sought proposals and quotes, but the space where the exchange is asked to list at least three other vendors it solicited for proposals is blank, both on the April contract summary and the amended November document.
+
+Also missing in the amended contract is any explanation of why the exchange agreed to delay parts of the project.
+
+“Usually, you would see something to the effect of, ‘Here’s why we need the additional time,’ ” McGovern said. “I can’t really speculate as to why they would leave that out. It may simply be the fact of this whole insurance exchange and Obamacare being kind of a political nightmare, and all sorts of problems with getting these systems to work. Maybe they simply did not want to put it in writing.”
+
+Delaying the entire launch until the whole website was built was never feasible, Wasmer said.
+
+“The Xerox team and the state had regular discussions about project schedule and systems or operational readiness. We made joint decisions to comply with the legislatively required due dates, even as they evolved,” she said.
+
+Now that the website is live, what the exchange and Xerox say they’re doing — patching bugs as they find them — might be all anyone can do, Feinberg said. Taking Nevada Health Link offline, or finding a new contractor, wouldn’t be good options.
+
+“I’ve been in the thicket. Sometimes you don’t really have a choice,” Feinberg said. “You are the custodian of people who are already using your site. I don’t know how you stop it. Hopefully, they have a rescue effort that, unlike the initial launch, is competent. If they do, they can make a plan to get themselves out of the mud and get this repaired.”
+
+Contact reporter Jennifer Robison at jrobison@reviewjournal.com. Follow @J_Robison1 on Twitter.

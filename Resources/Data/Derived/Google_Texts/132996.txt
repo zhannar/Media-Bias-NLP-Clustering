@@ -1,0 +1,17 @@
+The California Department of Technology, alongside IBM, has announced the launch of CalCloud, an infrastructure as a service private cloud rolled out across California.
+
+The news marks an important client win for IBM after losing a widely publicised battle against Amazon Web Services for a lucrative CIA cloud contract back in October. IBM are involved alongside AT&T, which will provide network services, and KPMG to provide education and drive users to the new services.
+
+By putting it in the cloud, government entities can scale their IT up and down as appropriate, with CalCloud “designed to allow around the clock access to a shared pool of easily configurable resources including compute, storage, network and disaster recovery services,” according to a press release.
+
+“Transforming how the State of California delivers technology services is not only more efficient and cost effective, it will spur innovation with cloud capabilities that are open and secure,” said Erich Clementi, IBM global technology services SVP.
+
+“California is setting an example for other states on how to use cloud technology to improve coordination across agencies and municipalities while reducing the barriers and duplication that can impede the delivery of government services.”
+
+The solution is fully FedRAMP accredited, with more than 20 state departments having already requested services through CalCloud.
+
+US president Barack Obama has long since advocated a cloud-first government policy, yet it’s often been difficult to implement fully without issues. The Affordable Care Act, otherwise known as Obamacare, launched last October to a variety of technical issues. As this publication noted: “If HealthCare.gov is suffering from major IT failures, one can imagine the level of systemic dysfunction that plagues non-public-facing IT projects that do not receive the same level of scrutiny.”
+
+Yet the theory and enthusiasm behind it is solid. As ASG’s Mark Keepax wrote on CloudTech earlier this month: “By utilising the cloud, council IT provision moves from being a static asset, to become a service that provides real value to the whole community.”
+
+Find out more about IBM’s partnership with California here.

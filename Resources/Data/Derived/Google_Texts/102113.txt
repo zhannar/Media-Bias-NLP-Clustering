@@ -1,0 +1,27 @@
+Soapbox How Willful Ignorance Doomed HealthCare.gov
+
+Back in the mid-1990s, I did a lot of web work for traditional media. That often meant figuring out what the client was already doing on the web, and how it was going, so I’d find the techies in the company and ask them what they were doing, and how it was going. Then I’d tell management what I’d learned. This always struck me as a waste of my time and their money; I was like an overpaid bike messenger, moving information from one part of the firm to another. I didn’t understand the job I was doing until one meeting at a magazine company.
+
+The thing that made this meeting unusual was that one of the company’s programmers had been invited to attend, so management could outline their web strategy to him. After the executives thanked me for explaining what I’d learned from log files given me to by their own employees just days before, the programmer leaned forward and said, “You know, we have all that information downstairs, but nobody’s ever asked us for it.”
+
+Story Continued Below
+
+I remember thinking “Oh, finally!” I figured the executives would be relieved that this information was in-house, delighted that their own people were on it, maybe even mad at me for charging an exorbitant markup on local knowledge. Then I saw the look on their faces as they considered the programmer’s offer. The look wasn’t delight, or even relief, but contempt. The situation suddenly came clear: I was getting paid to save management from the distasteful act of listening to their own employees.
+
+In the early days of publishing, you had to understand the tech to run the organization. (Ben Franklin, the man who made America a media hothouse, called himself Printer.) But in the 19th century, the printing press became domesticated. Printers were no longer senior figures — they became blue-collar workers. And the executive suite no longer interacted with them much, except during contract negotiations.
+
+This might have been nothing more than a previously hard job becoming easier, hallelujah. But most print publishing companies took it further. Talking to the people who understood the technology became demeaning, something to be avoided. Information was to move from management to workers, not vice-versa (a pattern later embraced by other types of media businesses as well). By the time the web came around and understanding the technology mattered again, many media executives hadn’t just lost the habit of talking with their own technically adept employees, they’d actively suppressed it.
+
+I’d long forgotten about that meeting and those looks of contempt (I stopped building websites before most people started) until the launch of HealthCare.gov.
+
+* * *
+
+In the first days after the health care site launched, I assumed that any difficulties were caused by unexpected early interest in it, and that once the initial crush of traffic ebbed, all would be well. The sinking feeling that all would not be well came over me when I read a disillusioning anecdote about what had happened when a staff member at the Centers for Medicare & Medicaid Services, the department responsible for HealthCare.gov, warned about possible difficulties with the site back in March. As the New York Times reported, the staffer was told by his superiors:
+
+"...in effect, that failure was not an option, according to people who have spoken with him. Nor was rolling out the system in stages or on a smaller scale, as companies like Google typically do so that problems can more easily and quietly be fixed. Former government officials say the White House, which was calling the shots, feared that any backtracking would further embolden Republican critics who were trying to repeal the health care law."
+
+The idea that “failure is not an option” is a fantasy version of how non-engineers should motivate engineers. That sentiment was invented by a screenwriter, riffing on an after-the-fact observation about Apollo 13; no one said it at the time. (If you ever utter this phrase, wash your mouth out with soap. If anyone ever says it to you, run.) In fact, NASA’s vaunted moonshot, so often referred to as the best of government innovation, tested with dozens of unmanned missions first, several of which failed outright.
+
+Failure is always an option. Engineers work as hard as they do because they understand the risk of failure. In the case of HealthCare.gov, what these unnamed officials were saying was the opposite of what they thought—“addressing the possibility of failure is not an option.”
+
+Clay Shirky is professor of new media at New York University and author of Cognitive Surplus: Creativity and Generosity in a Connected Age.

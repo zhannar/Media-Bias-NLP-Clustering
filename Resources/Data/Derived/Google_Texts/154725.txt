@@ -1,0 +1,25 @@
+Smart home control technology. (Photo: Piotr Adamowicz/Getty Images/iStockphoto)
+
+Networked-home maven Arlo Gilbert recently published a cri de coeur about a Google decision that left him hanging. And it’s a story that raises a lot of questions: Questions about the “Internet of Things,” about property rights in physical objects and about whether American intellectual property law goes too far. And at the moment, I think the answers to those questions are that the “Internet of Things” is stupid, property rights in physical objects don’t get nearly enough respect and American intellectual property law definitely goes too far. As the nation’s mood shifts in a decidedly populist direction, perhaps lawmakers will take a look.
+
+But back to Gilbert’s story. He’s a gadget fan, and Google has left him hanging. Here’s how he tells it: “Seventeen months ago, Google acquired Revolv, a very cool home automation hub. It is a small circular device about the size of a small container of hummus that uses a variety of common home automation radios to communicate with light switches, garage door openers, home alarms, motion sensors, A/C controllers etc. ... When I arrive home my lights turn on. In lieu of motion detecting lights, I have a Z-wave motion detector that notifies my Revolv when there is motion on any side of our home and turns on the appropriate lights. Although I do set a home alarm, there is really no more effective vacation security than the programmatic turning on, dimming, and turning off of lights in a manner that would indicate that people are home. After buying my Revolv I put my outdoor landscaping light on it and threw away the old timer. Now at sunset my landscape lighting turns on. Holiday lighting does the same. It’s magical.”
+
+But as we all know, in the fairy tales the “magical” tool that makes everything wonderful always has a catch. In Gilbert’s case, the catch is that Google will shut down his device. They won’t just stop updating it, or end support. They’ll turn it off. Even though it “belongs” to Gilbert.
+
+Gilbert notes: “On May 15th, my house will stop working. My landscape lighting will stop turning on and off, my security lights will stop reacting to motion, and my homemade vacation burglar deterrent will stop working. This is a conscious intentional decision by Google/Nest.”
+
+They’re “bricking” his device, making it an inanimate lump of circuitry that is no more useful than a brick. Or, actually, less useful, since you can build things with bricks.
+
+They can do this because although you own the hardware, you don’t actually own the software in your devices; technically, when you buy the device, you just get a license to use the software. (In a similar situation, General Motors and John Deere have said that they still own the software in the cars and other vehicles you buy.)
+
+If these manufacturers have their way, you may buy things from them, but you’ll never really own anything. So long as they control the software — and the Bill Clinton-era Digital Millennium Copyright Act ensures that they always will — they really control your devices.
+
+And yet we keep hearing that the “Internet of Things” is the next big, er, thing. But if Google is willing to do this to its customers for one product, who’s to say it won’t be willing to do it to others? As designer Michael Burgstahler tweeted: "Google 2017: 'We acquired this smart pacemaker company!' Google 2020: 'Sorry, we don't support it anymore, will shut down all old devices.'"
+
+And even if that’s a bit far-fetched, it raises serious questions of whether consumers will be able to trust the “Internet of Things.” Evidence already suggests that the “Things” will be a hacker’s dream, with repeated examples of poor security and vulnerability to cyber-infiltration. Now it looks as if they might also be a consumer nightmare.
+
+Ownership ought to mean something. When you buy a cellphone, or a car, or a home-automation controller, it should belong to you, not the company that “sold” it to you. And if intellectual property law says otherwise, then Congress should change it.
+
+Glenn Harlan Reynolds, a University of Tennessee law professor, is the author of "The New School: How the Information Age Will Save American Education from Itself."
+
+Read or Share this story: http://wdhne.ws/1S1uGLT

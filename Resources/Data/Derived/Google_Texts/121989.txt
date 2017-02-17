@@ -1,0 +1,31 @@
+Nicholas Rubin, a 16-year-old programmer from Seattle, has created a browser add-on that makes it incredibly easy to see the influence of money in US politics. Rubin calls the add-on Greenhouse, and it does something so brilliantly simple that once you use it you'll wonder why news sites didn't think of this themselves.
+
+Greenhouse pulls in campaign contribution data for every Senator and Representative, including the total amount of money received and a breakdown by industry and size of donation. It then combines this with a parser that finds the names of Senators and Representatives in the current page and highlights them. Hover your mouse over the highlighted names and it displays their top campaign contributors.
+
+In this sense, Greenhouse adds another layer to the news, showing you the story behind the story. In politics, as in many other things, if you want to know the why behind the what, you need to follow the money. And somewhat depressingly, in politics it seems that it's money all the way down.
+
+For example, suppose you read this story in The New York Times, in which three Senators take GM to task for failing to recall millions of small cars. What do the three have in common? Just that their top campaign donors are lawyers and law firms.
+
+Or try Greenhouse on this story on House Republicans who think the Affordable Health Care Act is an illegal overreach by President Barack Obama. Greenhouse will highlight six names in that story. All but one get the majority of their campaign funds from a combination of two groups—health professionals and the pharmaceutical industry.
+
+As allaregreen.us puts it, playing off the color encoding of US politics: "Some are red. Some are blue. All are green."
+
+There are small rays of hope in Greenhouse's data. Near the top of the panel you'll see the percentage of contributions under $200. In other words, the percentage of contributions from people like you and me. There's also a small badge indicating the member's position on campaign finance reform.
+
+For his part, Rubin says building and using the add-on hasn't made him cynical. "Actually, I think Greenhouse is making me hopeful. I've received such great feedback from people around the world... people want transparency like this, and Greenhouse may actually play a role in the solution."
+
+Among the early users offering positive feedback is Lawrence Lessig, the Harvard Law professor and author of Republic, Lost: How Money Corrupts Congress and a Plan to Stop It. Lessig calls Greenhouse "easily the coolest plugin that I use."
+
+Greenhouse does something most attempts at transparency do not—it gives context to data. Transparency in government is good, few would argue otherwise, but as Lessig wrote recently on his blog, "merely making data available isn't enough to deal with an underlying corruption problem."
+
+Open government data tends to be very big data with little context to it. For example, all the data Greenhouse uses comes from opensecrets.org, which has had that data available for years. Chances are, though, you've never bothered to dig through opensecrets.org and follow the money. By taking that data and injecting it into the context of the news, Rubin has managed to turn raw information into useful knowledge.
+
+Did we mention Rubin is just 16?
+
+The idea for Greenhouse came from a presentation Rubin gave back in 7th grade when a teacher assigned him to the topic of Corporate Personhood and campaign finance. Rubin came away from that experience thinking that more people should know about how corporations run US politics. But "the information about sources of funding," he said, "wasn't simple and easily accessible when people needed it."
+
+Later, when Rubin started to teach himself to code, he decided to try to combine the two interests and Greenhouse was born.
+
+Rubin plans to keep expanding Greenhouse. He's looking to build a sort of reverse Greenhouse—a tool that would, for example, highlight all mentions of Google on a webpage and show which campaigns the company contributes to—as well as a tool for other countries, though the latter will depend on whether that data is actually available. He also hopes to build Greenhouse into an interactive community rather than simply a browser add-on.
+
+If you want to participate or just follow along, you can install Greenhouse for Firefox, Chrome, and Safari over at allaregreen.us. Grab the add-on and then follow @allaregreen on Twitter.

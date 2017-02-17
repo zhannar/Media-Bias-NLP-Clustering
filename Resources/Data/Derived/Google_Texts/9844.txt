@@ -1,0 +1,27 @@
+This week is all about debunking ObamaCare-related myths (e.g., “No, really, it’ll work”), so here’s HA’s own resident tech wizard, WordPress expert Mark Jaquith, on the claim that Healthcare.gov was written with 500 million lines of code. Preposterous, says Mark, and it’s equally preposterous that the NYT would have quoted a source to that effect without checking to see if it was plausible.
+
+FYI, that “500 million lines of code” thing comes from an anonymous NYT source who isn’t even claimed to be someone who worked on the project or who had access to the source code.
+
+“Lines of code” is a crappy metric to start with… for example, this is one line of code:
+
+if ( user_is_registered() ) { print “Logged in”; }
+
+This is 6 lines of code:
+
+# Print a notice if the user is logged in
+
+# Note: the user check is cached from earlier
+
+if ( user_is_registered() )
+
+{
+
+print “Logged in”;
+
+}
+
+But they’re both the same code.
+
+But still, even allowing for the vagueness implicit in that type of measurement, 500 million lines of code is insane. Let’s be generous and say that a single programmer can conceive, write, and debug 100 lines of code in an 8 hour work day (for applications of this complexity, the number is usually much, much lower). That’s 5 million coding worker-days. Throw 1000 coders at it and you’re looking at 20 years to develop it. No. Just no.
+
+Now this isn’t to say that the thing isn’t likely bloated all to hell… but 500 million lines of code is bullsh*t. No way is that right.

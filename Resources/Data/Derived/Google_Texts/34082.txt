@@ -1,0 +1,67 @@
+The Dark Web is not so much a place as it is a method of achieving a level of anonymity online. It refers to web sites that mask the IP addresses of the servers on which they reside, making it impossible to know who or what is behind the site or sites. They don’t show up on search engines like Google so, unless you know exactly how to reach them, they’re effectively invisible. Activists and dissidents in countries like China and Iran use the Dark Web to get around state surveillance; journalists use it to reach sources and whistleblowers rely on it to spread the word about institutional abuse or malpractices. New evidence suggests that the Islamic State, or ISIS, or at least ISIS supporting groups, are seeking the Dark Web’s anonymity for operations beyond simple propaganda. Thus yet another challenge for law enforcement and the military: to track users on the Dark Web in a way that’s effective against ISIS but that doesn’t violate privacy.
+
+Adm. Michael Rogers, commander of U.S. Cyber Command and director of the National Security Agency, speaking at the Cybersecurity for a New America Event on Monday in Washington said that groups like ISISraising money on the Dark Web was “clearly a concern. It’s something that we’re paying attention to.” Without addressing explicitly how the NSA, goes about the task of paying attention, he added simply:
+
+“We spend a lot of time tracking people that can’t be found.”
+
+A new report from the Chertoff group illustrates some of the ways that the national security community will be keeping tabs on those who have taken steps to make themselves untraceable online.
+
+Related: ISIS Burns 8000 Rare Books and Manuscripts in Mosul
+
+First, while the Dark Web is incredibly valuable as a tool for dissident action, it also has some real dark spots. Ido Wulkan, the senior analyst at S2T, a Singapore-based technology company that develops Dark Web harvesting technologies, recently revealed to Isreali newspaper Haaretz that his company has found a number of websites raising funds for ISISthrough bitcoin donations.
+
+Though researchers and journalists have reported on some indications of bitcoin use by ISIS and supporting groups, this is the first actual documented case, Wulkan told Defense One.“This specific website was found in several of the online communities which share information concerning the Dark Web. I originally came across it on a closed Turkish forum used by hackers.”
+
+Some Dark Web content is accessible only via special software like Tor, a package that encrypts a user’s IP address and routes Internet traffic through a series of volunteer servers around the world (so-called onion routing.) Like the Internet itself, Tor was a product of the military, originally designed by the Office of Naval Research to give sailors a secure means of communication.
+
+Today, an explosion of Tor usage in a specific place or among a certain group is one indicator of increased secret communication activity. That could mean different things in different places. In June 2014, when the government of Iraq blocked Twitter and Facebook as part of its response to the growing ISISsituation, Tor usage in that country exploded, according to TOR metrics data. Usage has since calmed down in Iraq significantly.
+
+Related: ISIS Turns to Chemical Weapons As It Loses Ground in Iraq
+
+ISIS activity on the Dark Web is growing, particularly on Tor sites, said Wulkon.
+
+“For several years now Jihadists have been sharing information online concerning Tor and its usage thus indicating clearly that [Tor] is used by many of them. However, up until now I have not come across specific websites used for Jihadi purposes. I therefore assume many of them use Tor in the same way the general population does, through black markets and general forums where they can achieve material and information and remain anonymous. Moreover, since the Dark [Web] is far less indexed and far harder to come across than regular Websites are, there is the possibility that there are Websites used by ISISof which we do not know yet.”
+
+This does not suggest that people aren’t looking. Last year, an investigation of the source code in one NSA program called XKeyscore, (revealed by the Edward Snowden leaks) showed that any user simply attempting to download Tor was automatically fingerprinted, essentially enabling the NSA to know the identity of millions of Tor users. But there’s a difference between finding people who are on the Dark Web and revealing the nature of their interest and their behaviors within it.
+
+Recently, the Chertoff Group put out a new paper detailing some of the methodologies that they advise law enforcement to use to monitor Tor users and sites. Since it was co-written by former DHS director and Jeb Bush national security team member Michael Chertoff, it’s safe to say it provides a good indication of current law enforcement thinking. The name of the paper is the Impact of the Dark Web on Internet Governance and Cyber Security, co-written with Toby Smith.
+
+Related: 9 ISIS Weapons That Will Shock You
+
+The recommendations include mapping the hidden service directory, customer data monitoring, social site monitoring, hidden service monitoring and marketplace profiling.
+
+Most of those are fairly self-explanatory. Customer data monitoring refers to watching the visible web to see how user behavior relates to or telegraphs attempted connections to non-standard domains. Social site monitoring applies in this case not the usual players like FaceBook (though Facebook does have a Tor link) but also sites like Pastebin, which the paper refers to as a site “often used to exchange contact information and addresses for new hidden services.” Hidden service monitoring just means staking out Dark Web sites and marketplace profiling means constructing models of how deals on the Dark Web go down.
+
+Mapping the hidden service directory presents a technical challenge that’s a bit more unique. Tor uses a domain database built on what’s called a distributed hash table. If Tor were a city, the distributed hash table, DHT, would be the architectural plans for the structures in it. Each node in a DHTcan store information that, in turn, is retrievable if the user knows the exact address of that node. Mapping the DHT can reveal how those nodes relate to one another, providing a sense of shape for the broader network. The rest of the recommendations are somewhat self-explanatory.
+
+Will they do any good? To what extent do they represent future potential privacy violations?
+
+Related: US Marines on the Ground in Iraq as ISIS Burns 45 Alive
+
+Cooper Quintin, a technologist with the Electronic Frontier Foundation, a privacy watchdog group, answered: “the recommendations about monitoring Pastebin, semantic analysis of hidden services and grabbing snapshots of hidden services are fine and ethical things to do. I am concerned about the customer data monitoring suggestion however. To me, that seems like it could easily become a pretty serious invasion of privacy. Even if the IP address is not collected (as recommended in the report) it may still be possible to de-anonymize someone just through the metadata.”
+
+In making this statement, Quintin is echoing the concerns of others in the data research community, such as MITresearchers Yves-Alexandre de Montjoye and César A. Hidalgo who have shown how easy it is to identify cloaked IPaddresses, work that could conceivably be useful to Dark Web searching.
+
+The privacy concerns of the techniques outlined in the Chertoff report are small relative to some other tactics that law enforcement uses to conduct investigations, so it’s reasonable to expect that the above methods would play a role in future Dark Web investigations, if they don’t play a part already.
+
+But law enforcement would hardly be limited to the strategies described in the report.
+
+Related: $100 Billion Cost of Fighting ISIS Is Just the Beginning
+
+Recently disclosed court documents show that the FBI has used some code from a software product called the Metasploit Decloaking Engine for Dark Web investigations. Metasploit isn’t new. It’s been an essential hacker tool for years. Kevin Paulson describes it for WIRED thus “If your Tor install was buttoned down, the site would fail to identify you. But if you’d made a mistake, your IP would appear on the screen, proving you weren’t as anonymous as you thought.” The court documents Paulson discovered reveal that in 2012, the FBI retooled an aspect of that code for something called Operation Torpedo, which was effective in revealing the activities of Tor users.
+
+It’s becoming easier to find people on Tor as well as discover the sites they’re visiting. Recently, Dan Kaufman, director of the information innovation office at the Defense Advanced Projects Research Agency, or DARPA, appeared on 60 Minutes to discuss the agency’s Memex project, which some have called a search engine for the Dark Web. Memex, according to Kaufman, has played a role in 20 different investigations.
+
+But you don’t have to be DARPA or the NSA to search the unsearchable. A new service called Onion City (named after Tor’s onion routing structure) claims to offer “search and global access to Tor’s onionsites.”
+
+As the Dark Web evolves, people will begin to organize within it in order to make it more useful. That’s inevitable. As any organism grows it becomes complex; and as it becomes complex it seeks organization as a means to grow efficiently and minimize cost. It is in that organization that the hidden Web is revealing itself both to individuals who would seek to give funds to groups like ISIS and to spies who would seek out those people.
+
+This article originally appeared in Defense One.
+
+Read more at Defense One:
+
+Why Arab Ground Troops Won't Defeat ISIS
+
+SecDed: The Strategy Against the Islamic State Is Working
+
+Ukraine Seeks US Weapons at Middle East Arms Expo

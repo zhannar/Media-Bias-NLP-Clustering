@@ -1,0 +1,21 @@
+On Thursday, Vox’s Sarah Kliff wrote about human and machine Supreme Court prediction. She tweeted her findings succinctly:
+
+More Politics Robots are better at predicting Supreme Court decisions than humans. http://t.co/o45IWHS3Am — Sarah Kliff (@sarahkliff) June 11, 2015
+
+Would that it were true.
+
+While it’s neat to imagine a world where “robots” could accurately tell us the fate of same-sex marriage before the court does, the algorithms just aren’t very good. At least not yet. Humans are still far better.
+
+Kliff’s headline conclusion hinges on one decade-old paper, by two legal scholars and two political scientists, that I’ve written about before. And she’s right in small part: For the single 2002 Supreme Court term, the algorithm described in that paper performed better than a single polled group of legal academics (the model got 75 percent of the 68 cases it predicted correct, while the academics got 59 percent of 171 cases right). But the model laid out in that paper is so limited that it no longer functions. It can only consider the makeup of the court as it was in 2002. It hasn’t taken into account the arrival of Justice Sonia Sotomayor or Justice Elena Kagan, for example, and would have no way to predict the outcomes of the soon-to-be-decided Obamacare or same-sex marriage cases. (I’ve reached out to Kliff over email for comment on this piece and will update if I hear back.)
+
+Also, one of the co-authors of that paper, Theodore Ruger, told me when I interviewed him in November that he was sure that Supreme Court practitioners, rather than the legal academics polled for the paper, would have done better. And indeed they do.
+
+Linda Greenhouse, who covered the court for The New York Times for 30 years, wrote a paper pegging her own accuracy at 75 percent, based on predictions she had made in her articles. Jacob Berlove, a Supreme Court-predicting hobbyist I’ve written about, nails cases more than 80 percent of the time in an online competition. Many of the other serious players in that competition also beat 70 percent. And then there’s Carter Phillips, who’s argued more Supreme Court cases than anyone in private practice. He says his own predictive accuracy for the cases he’s argued is 90 percent, but that’s an after-the-fact estimation.
+
+There is a newer, more flexible algorithm that Kliff mentions toward the end of her piece — its creators call it {Marshall}+, and as far as I can tell, it’s the state of the art in the algorithmic court-prediction world. Its accuracy hovers around 70 percent. Another new algorithm called CourtCast also claims a 70 percent accuracy rate. These algorithms represent the computing cutting edge and are the ones that are capable of predicting the marquee cases this term. But compared to even a mildly informed human, they’re just not up to par.
+
+It’s pretty easy to see how humans can eclipse them. As The New York Times’ Adam Liptak told me when I interviewed him in April for this story, you (yes, you!) can get to 70 percent with your eyes closed. It’s easy. One: Pick the petitioner, who wins at the court about 68 percent of the time. Two: Listen to the oral argument. If one side gets a lot of questions, it’s going to lose. Toss in some knowledge about precedent and justices’ tendencies, and you’re set.
+
+This year, for the first time, the {Marshall}+ algorithm is squaring off against a legion of humans, in an online Supreme Court fantasy league. The humans are winning.
+
+One day an advanced algorithm may reliably tell us what the court will do months in advance. But despite what Kliff wrote, that day is not today. For now, trust the humans.

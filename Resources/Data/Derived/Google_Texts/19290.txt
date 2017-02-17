@@ -1,0 +1,31 @@
+Recent criminal charges against an IRS employee accused of storing personal information about more than 20,000 employees and contractors on his home computer network stemmed from the work of a research firm hacker who stumbled across the agency security flaw and reported it to the government.
+
+Internet security firm Identity Finder tipped federal authorities about the breach in March, according to a federal affidavit filed in U.S. District Court in Maryland. The firm’s chief executive, Todd Feinman, confirmed his company’s role in exposing the data breach in an interview Tuesday.
+
+Mr. Feinman said he couldn’t say exactly what the IRS employee facing charges — Carl Sheerer — “did or didn’t do,” but said his company wasn’t targeting the IRS when it discovered the data irregularities.
+
+SEE ALSO: IRS employee charged with storing records of other IRS workers on home computer
+
+“We were using our own software for testing purposes and sometimes there are just things on the Internet that are publicly available and that’s what happened here,” Mr. Feinman said.
+
+“The information was indexed by the search engines that were out there and our software caught it,” he added. “That’s a very common type of data breach where often times identity thieves, because they know what to look for, are finding the information way before an organization even realizes they accidentally put it out there.”
+
+Prosecutors have charged Mr. Sheerer with a misdemeanor for “knowingly and unlawfully” disclosing the data. The case has meant more unwanted publicity for the agency struggling to contain reports of far larger breaches and failures to back up electronic records, putting it at the center of a political firestorm.
+
+SEE ALSO: IRS failed to vet contractors with access to taxpayers’ private information
+
+Federal prosecutors haven’t said Mr. Sheerer, who handled ID badge computer systems in Delaware and parts of New Jersey and Pennsylvania for the IRS, was attempting to sell or profit from the data.
+
+But charging papers say he stored backed up IRS data that he took home from work then stored on a file transfer protocol (FTP) server, which is used to share files across computers operating on the same network.
+
+Just how the information went from Mr. Sheerer’s FTP server and turned up on Google and other search engines remains unclear.
+
+Mr. Feinman’s company said it doesn’t typically go looking for breaches, but reports them to authorities when they find them. Earlier this year, the company reported that the IRS had mistakenly disclosed more than 630,000 Social Security numbers when it reviewed millions of IRS filings by nonprofit organizations, which are made public.
+
+While IRS officials declined to comment on Mr. Sheerer’s case on Monday, officials almost certainly seemed to be discussing his case earlier this year when the agency disclosed a breach identical to the one described in charging documents against Mr. Sheerer.
+
+At the time, IRS Commissioner John Koskinen said that an employee had taken a computer thumb drive with personal information on 20,000 IRS workers to his home, then placed the data on his personal network. Mr. Koskinen did not name the employee at the time and called it an “isolated incident.”
+
+“This incident is a powerful reminder to all of us that we must do everything we can to protect sensitive data — whether it involves our fellow employees or taxpayers,” Mr. Koskinen said at the time in a message to employees.
+
+Mr. Sheerer’s lawyer this week told The Washington Times that the information was old, Mr. Sheerer forgot he had it and it was “purely accidental” that it was loaded onto his network and made available online.

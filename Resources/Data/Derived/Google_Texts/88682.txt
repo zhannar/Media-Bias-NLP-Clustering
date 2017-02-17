@@ -1,0 +1,25 @@
+The meaty 1,024 pages of the Affordable Care Act (ACA) call for the vast expansion of healthcare coverage, the active promotion of decreased healthcare costs, and enhanced quality care. In the midst of ACA expansion efforts, Medicare and Medicaid beneficiaries are vigorously pursuing healthcare coverage assistance from primary care physicians.
+
+These clinics are steadfastly advancing and strengthening due to related expansion regarding electronic health record (EHR) adoption. EHR implementation is directly impacting the future of medical reimbursement. But to what extent is interoperability impacting the financial realm of the healthcare industry?
+
+“Interoperability has the potential to unlock a richer set of data that clinicians can use to help improve the care they provide to patients,” Bob Robke, Vice President of Interoperability at Cerner Corporation, stated to EHRIntelligence.com. “More than ever, clinicians will need access to information about the patient’s care that happens outside of their four walls as healthcare moves from fee-for-service to value-based models,” he maintains.
+
+EHRs are the tools to making this notion become a reality.
+
+JAMIA study links EHRs to Medicaid and reimbursement data
+
+Can EHRs be used to effectively validate beneficiaries’ healthcare coverage? The answer may be a firm yes. EHR coverage data directly corresponds with Medicaid and reimbursement datasets, confirms a study in The Journal of the American Medical Informatics Association (JAMIA) by John Heintzman, MD, et al.
+
+Although surmises and projections within the healthcare industry abound, it has not yet been fully known to what extent EHRs can successfully help beneficiaries monitor and maintain their health insurance coverage, Heintzman, et al confirm. Although EHR data and tools have been proven to help clinics administer health insurance enrollment and retention support for beneficiaries, the tangible extent of the greater implications of such information is murky and existing literature vague, say Heintzman, et al.
+
+Within a study of 69,189 pediatric patients, two particular focuses for the researchers were Medicaid coverage data and reimbursement data.
+
+When compared to reimbursement data and Medicaid coverage data, EHR coverage data agreed quite favorably, confirm Heintzman, et al. At times, EHR data even maintained a higher level of preciseness, the researchers confirm. Resultantly, the study concludes EHRs could indeed validate patients’ coverage in real time with a high level of accuracy.
+
+“Findings from this study may support development of EHR-based tools that inform clinic staff about patients’ health insurance status, and engage staff and patients in ensuring insurance stability,” Heintzman, et al explain.
+
+The benefits of such results mean the healthcare industry collectively prospers financially. If beneficiaries are able to make their health insurance coverage validated via EHRs, they will be able to avoid lapse of coverage and will also experience more steadfastly executed care. This is especially imperative as not every beneficiary keeps track of his or her healthcare coverage.
+
+Will healthcare consumers be able to use such information to intelligently advocate for themselves regarding their own personal care goals? Ninety percent of healthcare providers confirm EHR interoperability involving transparent communication improves patient care. But some leading healthcare experts are still unsure. Deanne Kasim, Research Director of Payer Health ID at IDC Health Insights, stated in an interview with RevCycleIntelligence.com earlier this week healthcare providers must focus more directly on improving quality based on outcome results as opposed to merely hoarding and storing data.
+
+There is hope for this sentiment to tangibly manifest itself. As the JAIMIA study concludes, “Our study presents validation for using the EHR as a source of health insurance information, and suggests that confidence in this information is possible.” Researchers confirm additional efforts are underway to put such findings to advantageous use. Partnering efforts are in place with clinics to design and test tools that automatically inform a staff member of a gap in health insurance coverage. Knowing EHR insurance information aligns nicely with insurance coverage information, as per the study’s findings, may help expedite further analysis to ensure strengthened healthcare stability for all insured beneficiaries.

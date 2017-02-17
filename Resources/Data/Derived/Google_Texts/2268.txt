@@ -1,0 +1,51 @@
+The Affordable Care Act (ACA) extends health insurance coverage to people who lack access to an affordable coverage option. Under the ACA, as of 2014, Medicaid coverage is extended to low-income adults in states that have opted to expand eligibility, and tax credits are available for middle-income people who purchase coverage through a health insurance Marketplace. Millions of people have enrolled in these new coverage options, but millions of others are still uninsured. Some remain ineligible for coverage, and others may be unaware of the availability of new coverage options or still find coverage unaffordable even with financial assistance.
+
+This analysis provides national and state-by-state estimates of eligibility for ACA coverage options among those who remained uninsured. It is based on Kaiser Family Foundation analysis of the 2015 Current Population Survey, combined with other data sources. We estimate coverage and eligibility as of early 2015, which is prior to the end of the 2015 Marketplace open enrollment period, but have updated this brief to reflect state Medicaid expansion decisions as of January 2016. An overview of the methodology underlying the analysis can be found in the Methods box at the end of the data note, and more detail is available in the Technical Appendices available here.
+
+Background: How Does the ACA Expand Health Coverage?
+
+The ACA fills historical gaps in Medicaid eligibility by extending Medicaid to nearly all nonelderly adults with incomes at or below 138% of the federal poverty level (FPL) ($27,724 for a family of three in 2015 ). With the June 2012 Supreme Court ruling, the Medicaid expansion essentially became optional for states, and as of January 2016, 31 states and DC had expanded Medicaid eligibility under the ACA. Under rules in place before the ACA, all states already extended public coverage to poor and low-income children, with a median income eligibility level of 255% of poverty in 2016. The ACA also established Health Insurance Marketplaces where individuals can purchase insurance and allows for federal tax credits for such coverage for people with incomes from 100% to 400% FPL ($19,790 to $79,160 for a family of three in 2015)., Tax credits are generally only available to people who are not eligible for other coverage.
+
+Because the ACA envisioned low-income people receiving coverage through Medicaid, people with incomes below poverty are not eligible for Marketplace subsidies. Thus, in the 19 states not implementing the Medicaid expansion, some adults fall into a “coverage gap” of earning too much to qualify for Medicaid but not enough to qualify for premium tax credits. In addition, undocumented immigrants are ineligible for Medicaid coverage and barred from purchasing coverage through a Marketplace. In most cases, lawfully present immigrants are subject to a five-year waiting period before they may enroll in Medicaid, though they can purchase coverage through a Marketplace and may receive tax credits for such coverage.
+
+How Many Uninsured Are Eligible for Assistance under the ACA?
+
+As of the beginning of 2015, 32.3 million nonelderly people lacked health coverage in the U.S. Nationally, we estimate that nearly half (15.9 million, or 49%) of this population is eligible for financial assistance to gain coverage through either Medicaid or subsidized Marketplace coverage (Figure 1). More than a quarter are either adults eligible for Medicaid (5.7 million, or 18%) or children eligible for Medicaid or the Children’s Health Insurance Program (CHIP) (3.2 million, or 10%). Those who are Medicaid eligible include people who were previously eligible as well as those newly eligible under the ACA. About one in five (7.0 million, or 22%) of the nonelderly uninsured are eligible for premium tax credits to purchase coverage through the Marketplace.
+
+Nearly one in ten uninsured people (2.9 million) fall into the coverage gap due to their state’s decision not to expand Medicaid, and 15% of the uninsured (4.9 million) are undocumented immigrants who are ineligible for ACA coverage under federal law.
+
+The remainder of the uninsured either has an offer of ESI (4.9 million, or 15%) or has an income above the limit for premium tax credits but could purchase unsubsidized Marketplace coverage (3.7 million, or 12%). We cannot determine from available survey data if the offer of ESI would be considered affordable under the law, which would make the individual ineligible for a Marketplace premium subsidy.
+
+Patterns of eligibility vary by state, depending on state decisions about expanding Medicaid, premiums in the exchange, and underlying demographic factors such as poverty rates and access to employer coverage. In states that expanded Medicaid, 41% of the nonelderly uninsured population is eligible for Medicaid, versus just 13% in states that have not expanded Medicaid (Figure 2). No one in Medicaid expansion states falls into a coverage gap; in non-expansion states, nearly one in five (19%) uninsured people falls into the coverage gap, while about two-thirds as many are eligible for Medicaid under pathways in place before the ACA. Because adults with incomes from 100% to 138% of poverty in non-expansion states can receive tax credits for Marketplace coverage, a larger share of the uninsured population in those states is eligible for Marketplace tax credits than in expansion states (27% versus 17%). For state-by-state estimates, see the table below; additional detail is available here.
+
+View Map By:
+
+Data component not available
+
+Distribution of Nonelderly Eligibility for ACA Coverage Among Those Remaining Uninsured as of 2015:
+
+Data component not available
+
+–
+
+NOTES: Numbers may not sum to 100% due to rounding. *LA’s Governor signed an Executive Order to adopt the Medicaid expansion on 1/12/16, but coverage under the expansion is not yet in effect. For purposes of this analysis, LA is considered an expansion state. ^ Tax credit-eligible population in Minnesota and New York include uninsured adults who are eligible for coverage through the Basic Health Plan. † Wisconsin covers adults up to 100% FPL in Medicaid under a waiver but did not adopt the ACA expansion. Estimates of subsidy eligibility of uninsured nonelderly in DC, HI, KY, MA, and OR are “N/A” because point estimates do not meet minimum standards for statistical reliability. SOURCE: Kaiser Family Foundation analysis based on 2015 Medicaid eligibility levels updated to reflect state Medicaid expansion decisions as of January 2016 and 2015 Current Population Survey data.
+
+Number of Nonelderly Eligibility for ACA Coverage Among Those Remaining Uninsured as of 2015:
+
+Data component not available
+
+–
+
+NOTES: Numbers may not sum to 100% due to rounding. *LA’s Governor signed an Executive Order to adopt the Medicaid expansion on 1/12/16, but coverage under the expansion is not yet in effect. For purposes of this analysis, LA is considered an expansion state. ^ Tax credit-eligible population in Minnesota and New York include uninsured adults who are eligible for coverage through the Basic Health Plan. † Wisconsin covers adults up to 100% FPL in Medicaid under a waiver but did not adopt the ACA expansion. Estimates of subsidy eligibility of uninsured nonelderly in DC, HI, KY, MA, and OR are “N/A” because point estimates do not meet minimum standards for statistical reliability. SOURCE: Kaiser Family Foundation analysis based on 2015 Medicaid eligibility levels updated to reflect state Medicaid expansion decisions as of January 2016 and 2015 Current Population Survey data.
+
+Discussion
+
+Though millions of people have gained coverage under the ACA, many remain uninsured. The ACA provides new coverage options across the income spectrum for low and moderate-income people, and nearly half of the uninsured population appear to be eligible for Medicaid or subsidized Marketplace coverage. For these individuals, outreach and education about coverage and financial assistance may be important to continuing coverage gains that were seen in the first two years of full ACA implementation. Data from other sources indicates that misperceptions about cost, lack of awareness of financial assistance, and confusion about eligibility rules were barriers to some eligible uninsured gaining coverage. Others report that they found coverage to be too expensive, even with the availability of financial assistance.
+
+Nearly a quarter of the remaining uninsured population is outside the reach of the ACA due to either their immigration status or their state’s decision not to expand Medicaid. People in the coverage gap would be eligible for Medicaid should their state opt to expand Medicaid but are otherwise likely to remain uninsured, as they have limited incomes, are unlikely to have an affordable offer of coverage from an employer, and do not have access to affordable coverage options under the ACA. Many undocumented immigrants also will likely remain uninsured.
+
+Approximately a quarter of the uninsured population is not eligible for any assistance under the ACA because they have access to employer coverage that may be considered affordable or have incomes too high to qualify for Medicaid or Marketplace subsidies. Increased penalties under the ACA’s so-called “individual mandate” in 2016 may encourage some of them to obtain coverage.
+
+As of 2016, there are still substantial opportunities to increase coverage by reaching those who are eligible for help under the ACA. However, the breakdown of who the remaining uninsured are suggests that many may be difficult to reach and will still remain uninsured.
+
+Rachel Garfield, Cynthia Cox, Gary Claxton, and Larry Levitt are with the Kaiser Family Foundation. Anthony Damico is an independent consultant to the Kaiser Family Foundation.

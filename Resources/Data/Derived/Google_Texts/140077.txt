@@ -1,0 +1,19 @@
+On the heels of the recent Community Health Systems (CHS) data breach, in which 4.5 million Personal Health Records (PHI) were compromised, the industry is abuzz about data security in the HIPAA Compliant cloud businesses. Data breaches like the one at CHS are not the exception – they’re the norm. The FBI warned that the healthcare industry is extremely vulnerable to hackers in a recent Internet Crimes Bulletin.
+
+The massive security breach at CHS shows just how important it is to be proactive with all aspects of data security. PHI can no longer be secured with traditional security technologies and methodology- even up to date antivirus and firewall technologies are not enough to protect sensitive data from professional hacking teams. As the healthcare industry rapidly adopts new technology to meet the Meaningful Use: Stage I & II mandates of the Affordable Care Act, patient data is digitized and exchanged more than ever. Securing this data has become increasingly difficult, requiring sophisticated tools and armies of engineers.
+
+Keeping PHI secure is a difficult job, but there are resources available to guide you through the process. Having an expert who can walk you through keeping your environment secure, available to your end-users, and profitable is the key to success. Work with your Managed Services Providers to create a “Security Matrix of Responsibility”, and use this as a basis to develop a proactive security policy. Service providers like Logicworks and AlertLogic can help identify which areas of the matrix fall under your purview. By narrowing the focus to those areas of your security policy are your responsibility, it becomes easier to identify areas of focus for your business.
+
+While CHS did have security technology in place, others often have little to no additional security beyond a traditional firewall to protect their infrastructure. Even in the case of the CHS breach, there was the possibility to do more; they have publicly stated that they have recently increased security and implemented new technologies to reduce the likelihood of this kind of attack in the future. Consult an expert in securing businesses in your industry, and consider implementing solutions such as:
+
+Web Application Firewall
+
+Log Shipping and analysis (with Alert Logic)
+
+Monitoring service to alert you of any anomalies in your infrastructure.
+
+Intrusion Detection (with Alert Logic)
+
+HIPAA Compliance, and the security of PHI is not possible without an ongoing commitment to policies, standards and procedure. Here at Logicworks, to ensure that we’re always at the top of our security game, we constantly audit ourselves. Aside from identifying area of improvemnts, internal audits help identify where you are failing to gather data effectively. Maintaining proper access-control logs is essential to protecting against cyber-attackers.
+
+The post Community Health Systems, HIPAA, and Cloud Hosting appeared first on Gathering Clouds.

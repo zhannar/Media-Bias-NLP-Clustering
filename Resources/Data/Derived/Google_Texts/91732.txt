@@ -1,0 +1,53 @@
+Credit: Greylock Partners The U.S. government has named Dr. DJ Patil as its first chief data scientist in a move is notable because the Feds are pulling in top technical talent and focusing a bit on analytics. What remains to be seen is whether the chief data wonk is aimed in the right direction.
+
+In a blog post, the White House trumpeted Patil's hiring and Silicon Valley background at LinkedIn, Greylock, PayPal, Skype and eBay. Patil also has government experience at the Department of Defense and has worked on weather forecasting. Related: Mission impossible? White House looks for new CIO | White House officially names first U.S. chief data scientist
+
+Simply put, Patil is a great hire. Here's what gives me pause from the White House announcement:
+
+As Chief Data Scientist, DJ will help shape policies and practices to help the U.S. remain a leader in technology and innovation, foster partnerships to help responsibly maximize the nation's return on its investment in data, and help to recruit and retain the best minds in data science to join us in serving the public. DJ will also work on the Administration's Precision Medicine Initiative, which focuses on utilizing advances in data and health care to provide clinicians with new tools, knowledge, and therapies to select which treatments will work best for which patients, while protecting patient privacy.
+
+I'm not going to knock recruiting, innovation and investing in data, but was alarmed at the words that weren't mentioned. A few missing words in that post included:
+
+Efficiency.
+
+Agility.
+
+Predictive.
+
+Infrastructure.
+
+Visualization.
+
+Data literacy.
+
+Narrative science.
+
+Meanwhile four of the five things the government spends most of the budget on were neglected.
+
+Pensions.
+
+Education.
+
+Defense.
+
+Welfare.
+
+The assumption behind the chief data scientist hire appears to be that the government needs to innovate and somehow is good at little data and efficiency. C'mon people we know the government isn't efficient by any stretch. In information technology parlance, the government is like the large enterprise with legacy infrastructure spending most of its budget on keeping the lights on. How does the government save dough and invest elsewhere on something like repairing bridges, boosting education, predictive modeling for everything from defense spending spikes to natural disasters and cutting waste?
+
+In a government system that is dominated by TV ads, BS from every corner and pols spinning themselves silly something like real data could be powerful. Screw the TV ad, show me the visualization of what actions today mean for tomorrow.
+
+If I were to draw up this chief data scientist role at least 50 percent of the job would have this person riding shotgun with the General Accountability Office. These two could be the Batman and Robin of budget ball busting and efficiency. Perhaps the Dynamic Duo could start with the GAO's high risk of waste list.
+
+It won't happen, but in that spirit, here are five things that the chief data scientist should be doing in his limited time but won't. Keep in mind that Patil's gig will likely end when the Obama administration does.
+
+Set up the data lake. The Feds have data on everything. The Obama administration has been great at putting data out there for the masses. All the data dump really shows us is that the Feds are great at collecting things and putting them in the attic.
+
+Actually use that data lake. What does this data in one spot tell us about how the government operates? With a fresh eye---Patil's will last about three months---what tools, data collection and analytics engines are needed to make sense of it all? Tie everything from welfare spending, education and healthcare together. You can't tell me there aren't connections between those three big ticket items that can't yield efficiencies or new approaches.
+
+Let's model our actions today 10 years from now. Notice how the U.S. winds up funding a group that turns out to bite us in the butt in the future. Let's use some predictive game theory to figure out whether knocking down a devil today just creates a bigger one in the future---and better yet tells us the inflection point to act.
+
+Map Obamacare's real asset---the data. Obamacare hasn't been around that long, but there's enough information to pool insurer data and signups to spot trends and behavior. How can efficiencies be gained?
+
+Create an internal self-serve platform so government workers have some basic data science in their hands. Can government workers use visualization to tell a story better to a customer, also known as a citizen getting a service of some sort?
+
+I'm sure you have your own ideas about what a data scientist at the Federal level should do. Fire away.

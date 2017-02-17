@@ -1,0 +1,21 @@
+Cancer Care Group, a large radiation oncology practice in Indianapolis, is reevaluating its privacy and security practices after it was slapped with a $750,000 HIPAA settlement from the Department of Health and Human Services. It agreed to pay the sum to settle alleged HIPAA violations involving a breach that occurred three years ago.
+
+In August 2012, Cancer Care reported a HIPAA security breach to the Office for Civil Rights, after an unencrypted server backup media and laptop was stolen from an employee's car. Officials discovered the device contained the protected health information, Social Security numbers and insurance data for 55,000 patients.
+
+Following an investigation launched by the Office for Civil Rights, the HHS division responsible for investigating HIPAA compliance, it was discovered that even before the breach Cancer Care was in "widespread non-compliance with the HIPAA Security Rule," HHS said in a Sept. 2 statement.
+
+[Also: Massachusetts HIPAA fine shows the financial risk in healthcare breaches ]
+
+Not only did the oncology practice fail to conduct an enterprise-wide risk analysis when laptop and device were stolen, it also had no written policy in place addressing or controlling the removal of electronic media from its locations. Moreover, the practice neglected to address these deficiencies since 2005, the year the security rule compliance date took effect, the investigation found.
+
+"Organizations must complete a comprehensive risk analysis and establish strong policies and procedures to protect patients' health information," said OCR Director Jocelyn Samuels, in a statement. "Further, proper encryption of mobile devices and electronic media reduces the likelihood of a breach of protected health information."
+
+As part of the settlement, Cancer Care Group also agreed to a corrective action plan with the HHS that requires conducting a risk analysis to be submitted for review by HHS. Additionally, the practice will also need to develop and put in place an enterprise-wide risk management plan that addresses security risks, data systems and portable electronic devices. It also must update its policies and employee training program, all of which are to be reviewed by HHS.
+
+Like Healthcare Finance on Facebook
+
+To date, HIPAA-covered entities and business associates have paid out nearly $28.2 million to settle potential HIPAA violations, according to HHS data, involving 28 organizations. Healthcare organizations found to have violated HIPAA privacy, security and breach notification rules, the average HIPAA settlement with HHS stands at nearly $1.1 million.
+
+Just last spring, in the largest HIPAA settlement to date, New York-Presbyterian Hospital and Columbia University Medical Center together agreed to pay $4.8 million to HHS after the electronic protected health information of 6,800 patients wound up on Google back in 2010.
+
+Twitter: @EMcCannHITN

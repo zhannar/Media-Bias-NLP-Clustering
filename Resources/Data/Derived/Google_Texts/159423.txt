@@ -1,0 +1,37 @@
+University of Hawaii graduate students Ruthsenne Perron, Gui Chao Haung, and Darcy Bibb, together with Dr. Magdy Iskander from the College of Engineering are conducting one of the CP Stethoscope experiments on a computer controlled mannequin at the John A Burns School of Medicine. Credit: Hawaii Center for Advanced Communications, University of Hawaii Until recently, a reliable, low-cost, non-invasive method to measure changes that occur in the water content of the lungs did not exist. Yet, having such a device could be an important tool for the early detection of heart failure, which afflicts an estimated 5.1 million Americans and is a leading cause of hospitalization and death.
+
+"There is a significant need," says Magdy Iskander, a professor of electrical engineering at the University of Hawaii at Manoa, and director of the Hawaii Center for Advanced Communications of the university's college of engineering, citing additional conditions that potentially could benefit from the new technology, including edema, emphysema, dehydration, blood infection, acute lung injury and the effects of critical burns.
+
+"The impact could be tremendous, particularly for predicting heart failure," he says.
+
+Heart failure costs the nation an estimated $32 billion annually, which includes the cost of health care services, medications to treat heart failure, and missed days of work, according to the federal Centers for Disease Control and Prevention. Furthermore, heart failure is a frequent reason patients are readmitted to hospitals within 30 days of their initial discharge.
+
+"Annually more than one million patients are hospitalized due to heart failuree, which accounts for a total Medicare expenditure exceeding $17 billion," Iskander says.
+
+The National Science Foundation (NSF)-funded scientist has invented a new type of stethoscope he believes will prompt significant and positive changes for patients suffering from heart failure and other related conditions. It attaches to the body surface much like an EKG sensor—there is no need to implant it—and uses a novel radio frequency (RF) sensor to detect small changes in lung water, and monitor vital signs including heart and respiration rate, and stroke volume. The device uses low level RF signals, two-thirds lower than the average cell phone signal, he says.
+
+Since the lungs normally do contain some water, the idea is to first use the device to obtain a baseline in order to identify future changes, "before there are problems," he says. In hospitals, the stethoscope could be an important component of so-called "bridge clinics" that monitor patients after discharge to prevent readmission.
+
+Under the Affordable Care Act, Medicare can reduce hospital payments for excessive readmissions. "Thus hospitals are motivated because now they are penalized when patients come back with heart failure within 30 days," he says.
+
+He also envisions its use in "telemedicine," where an internet hookup will connect to a patient wearing the device, and will be able to measure important vital signs remotely, and transmit data on a regular basis, without having to go to the doctor or hospital in person, unless it is necessary.
+
+"The most important thing is that we believe it will help save lives," Iskander adds. "But it also will almost certainly result in big savings in health care costs."
+
+The cardio-pulmonary stethoscope evolved from research Iskander conducted years ago for the Air Force, when he was studying the effects of electromagnetic radiation on humans and developing safety standards for microwave exposure.
+
+"We were trying to evaluate safe levels, and the biological effects of working with microwaves, and we were exploring the use of microwaves in medical applications," he says.
+
+In doing so, he discovered that microwave signals reflect changes in lung water, forming the basis for his invention.
+
+"If the lungs have too much water, the magnitude of the microwave signal is reduced because water absorbs microwaves," he says. "The more water, the weaker the signal."
+
+NSF supported Iskander with a $50,000 Innovation Corps (I-Corps) grant, awarded in 2013, which supports a set of activities and programs that prepare scientists and engineers to extend their focus beyond the laboratory into the commercial world.
+
+The goal of the I-Corps program is to help researchers translate their discoveries into technologies with near-term benefits for the economy and society. It is a public-private partnership program that teaches grantees to identify valuable product opportunities that can emerge from academic research, and offers entrepreneurship training to student participants.
+
+Iskander recently formed a company, MiWa Technologies, which ultimately will manufacture and market the stethoscope. He has applied for patents, and is seeking additional funding for continuing research and to conduct clinical trials. A recent National Institutes of Health scientific review panel called the clinical significance of his work "very high," adding that the tool could "significantly impact the assessment and management of subjects with HF (Heart Failure) and respiratory failure."
+
+Years ago, when he designed his first cardio-pulmonary stethoscope, he estimates that the components would have cost about $150,000 to build one instrument. Today, thanks to wireless technology and digital processing, the same components that go into manufacturing cell phones, his costs are but a fraction of that amount. Moreover, "the stethoscope actually is more accurate," he says.
+
+Explore further: Hospital rankings for heart failure readmissions unaffected by patient's socioeconomic status

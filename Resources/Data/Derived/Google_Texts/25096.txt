@@ -1,0 +1,15 @@
+The online advertising industry is battling an ongoing fraud problem. Industry analysts estimate marketers waste millions of dollars a year buying Internet ads that aren’t delivered to real humans, but rather to hijacked computers known as “bots.”
+
+Until recently, relatively little was known about the extent of the issue. But now, companies promising to help fix the problem are conducting detailed studies designed to reveal much more about fraudulent “bot” traffic.
+
+Measurement specialist comScore, for example, released a research report on Thursday exploring “the value of a digital ad.” The company said it analyzed hundreds of digital ad campaigns for the report, and found the levels of non-human traffic can vary greatly between ad campaigns and between publisher sites. That suggests some corners of the Internet are far more susceptible to bots than others.
+
+According to the study, a relatively small number of ad campaigns actually accounted for the majority of ads served to non-human traffic. About one-fifth of the campaigns measured accounted for three-quarters of the fraudulent impressions recorded, comScore said.
+
+On the publisher side, comScore reported large differences in non-human traffic rates between publisher sites, too. Half of the publishers tracked had less than 1% of non-human traffic running through them, comScore said; 85% of the sites had less than 5% bot traffic.
+
+“It is only in the lowest-performing 15 percent of publishers where non-human traffic is a sizable problem greatly in need of substantive mitigation efforts,” the report said.
+
+Non-human traffic is also more likely to be an issue with inventory purchased through ad networks or exchanges, the report added. That’s bad news for publishers that aren’t peddling fake traffic, because it drives down the value of their ad space.
+
+“In the end, many publishers have clean inventory but the few who do not and stream in high volumes of non-human impressions can bring down the value of an entire ad buy. The challenge for marketers is determining how to avoid buying high [non-human traffic] inventory in the first place,” the report said.

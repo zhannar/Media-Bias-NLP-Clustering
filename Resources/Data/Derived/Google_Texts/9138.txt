@@ -1,0 +1,23 @@
+Topics: data mining, information, Privacy, Square, The Internet, Innovation News, Technology News, News, Politics News
+
+This is how the tech P.R. wars of the future will be waged: “Trust us, because we will take care of your precious information better than the other guy.”
+
+On Aug. 21, Square, the mobile-payments start-up helmed by Twitter co-founder Jack Dorsey, announced the release of a new package of analytical tools available for free to any merchant that uses Square.
+
+Small businesses, argued the press release, tend not to have the same access to advanced data crunching as larger operations. Square Analytics “levels the playing field” and “delivers sellers actionable data to increase sales and better serve their customers.” Want to know exactly how much a bad snow storm affected your cupcake sales, or what kind of advanced coffee products your repeat customers crave the most on Tuesday mornings? Square Analytics has the answers!
+
+A few hours after Square’s announcement, I received an email from a man who handles press relations for Shopkeep, a company that offers point-of-sale processing via the iPad, and has apparently been touting its own small business analytics support for years. Judging by the accusations made in the email, Shopkeep was none too pleased by the debut of Square’s new service.
+
+“Square is more interested in collecting and selling data than it is in helping small businesses grow,” read the email. My correspondent further alleged that Square’s “terms and conditions” gave Square the right to do anything it wanted with the data it collected on retail transactions.
+
+Picture this: I order coffee at a coffee shop that uses Square … Square, not the cafe, seizes the data on that transaction and emails me a receipt. The company can sell that data to the highest bidder — another coffee shop up the street or the closest Starbucks. Then I could get an email from that other coffee shop, not the one I’m a regular at, offering me a discount or some other incentive to come in.
+
+Shopkeep, in contrast, would never do such a dastardly thing.
+
+I contacted Square and asked spokesperson Aaron Zamost if the coffee shop scenario was realistic. Unsurprisingly, he dismissed it out of hand. “No, we do not intend to do this,” said Zamost. “We do not surface, nor do we have any plans to surface individualized transaction data to any sellers besides the one who made the sale. Our sellers trust us to be transparent with them and respectful of what they share with us. If we were to violate their trust, or behave as other companies have been known to, they would leave us.”
+
+I have no evidence to prove or disprove the allegations made by Shopkeep or the defense offered by Square. The interesting point is that the nature of the accusation is an attempt to poke at what is clearly a sore spot in Silicon Valley in 2014. In these post-Snowden days, how tech companies handle data is a volatile issue. In fact, it might be the biggest issue of them all. Because Shopkeep and Square are hardly alone in their ability to amass valuable information. Every company that offers a service over your mobile device — whether processing a sale, hiring a car, locating a room to stay in — is in the data business. Everyone is a data broker. As Silicon Valley likes to say, in the 21st century data is the new oil. What rarely gets mentioned afterward, however, is the fact that the oil business, especially when it was just getting started, was very, very dirty.
+
+* * *
+
+Square has a cool product: A plastic card reader that plugs into the headphone jack of your phone and enables anyone with a bank account to start processing credit card transactions. Although Square has yet to turn a profit, and has weathered some bad press in recent months, the company does process $30 billion worth of transactions a year. That’s a lot of information available to crunch.

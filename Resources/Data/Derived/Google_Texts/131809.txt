@@ -1,0 +1,21 @@
+Chinese Internet users visiting websites with a “Login with Facebook” button are being redirected, according to numerous reports.
+
+It appears to be an orchestrated cyberattack perhaps backed by Beijing officials, but its intent and target is unclear. The widespread rerouting has been occurring since Sunday.
+
+ADVERTISEMENT
+
+According to Finnish security firm F-Secure, users are being sent to two seemingly random pages — wpgk.org, an open-source software deployment site, and ptraverler.com, a Polish couple’s travel blog.
+
+While the cyberattack is hijacking the Facebook Connect feature, which is quickly becoming ubiquitous on the Web, Facebook itself is not being affected. The world’s most popular social network is officially banned in China.
+
+The incident bears many similarities to the Chinese government’s recently uncovered “Great Cannon” cyberattack weapon. The tool allows Beijing to redirect Internet traffic worldwide toward pages it wants censored, overwhelming the website and hindering legitimate visitors.
+
+In March, researchers said Chinese officials turned the Great Cannon on the popular coding site GitHub.
+
+The Cannon rerouted massive amounts of traffic from Baidu, China’s version of Google, toward specific sites hosted on the forum, including a Chinese-language New York Times page and a mirror site for Chinese digital censorship watchdog GreatFire.
+
+In the last year, China has been ramping up its efforts to control digital information domestically.
+
+The censorship campaign has increasingly irked foreign countries, including the U.S., as tools like the Great Cannon have started to hinder global Internet traffic.
+
+Mozilla and Google now warn all Firefox and Chrome browser users who attempt to visit Chinese sites that they are no longer secure.

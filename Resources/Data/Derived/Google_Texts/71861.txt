@@ -1,0 +1,55 @@
+We all know that having health insurance can make it easier for people to a see a doctor, and with access to care, people can stay healthier. But socioeconomic inequalities in the United States affect access to health care, and thus treatment and patient outcomes as well.
+
+Under the Affordable Care Act, the federal government has created more health insurance options, expanded the federal Medicaid health program for people with low incomes, and installed an individual mandate to help provide health insurance to all American citizens. But are all forms of health insurance equal?
+
+As neurosurgeons, we wanted to look at the effect that insurance had on brain tumor patients. Did having different kinds of insurance coverage, or no coverage at all, have an effect on outcomes after surgery?
+
+The type of insurance matters
+
+We used a large, national database that tracks data on hospital stays called the Nationwide Inpatient Sample (NIS), and looked at data from 2002-2011 to evaluate outcomes and quality metrics for patients with brain tumors.
+
+Quality metrics reflect the quality of health care provided during an individual hospital stay and present a picture of patient safety within a hospital.
+
+To measure quality of care, researchers look at two characteristics: patient safety indicators (PSIs) and hospital-acquired conditions (HACs). They both include medical complications and events such as falls, deep venous thrombosis (blood clots), and catheter-associated urinary tract infections during the hospital stay.
+
+PSIs and HACs are easily observable and are proxies for quality of patient care. For example, in a high quality hospital, patients should not suffer from falls.
+
+Surprisingly, we found that brain tumor patients with either Medicaid or no insurance had a higher incidence of medical complications when compared with patients with private insurance.
+
+Patients with Medicaid or without insurance were estimated to experience 8.4% more patient-safety indicators and 12.3% more hospital-acquired conditions. This correlates with an increased length of stay in the hospital, worse outcomes at discharge and increased hospital mortality.
+
+On the surface, the difference in these rates raises the question: are patients with private insurance being treated better in hospitals in the United States?
+
+It turns out that is not the case. The impact of insurance status on outcomes is the result of many factors, but it is not because medical practitioners are treating patients differently based on their insurance type. Here’s how we figured out what is really at the root of the difference in health outcomes for brain tumor patients.
+
+How do we know if insurance plays a role or not?
+
+To determine which factors contribute to the disparity between patients on private insurance, Medicaid or with no insurance, multiple factors need to be taken into account.
+
+Other studies have demonstrated that pre-existing medical conditions correlate with an increased incidence of hospital complications. We analyzed what other diseases the patient might have, hospital factors such as hospital size and location and pre-hospital care.
+
+In our study, more co-occurring illnesses and pre-existing medical conditions were seen in the Medicaid and uninsured patient populations when compared with the private insurance patients.
+
+Preexisting conditions, however, do not fully explain the difference seen in the quality of care between privately insured patients and those with Medicaid or no insurance.
+
+But when you consider hospital factors, like location and size, and the nature of admission (emergency or elective) the difference in safety indicators and hospital-acquired conditions between the two groups is accounted for.
+
+In addition to having increased medical comorbidities (this is when a patient has other illnesses or medical conditions), Medicaid and uninsured patients were more likely to be admitted in an emergency setting when compared with private insurance patients who were admitted electively. This suggests that the differences seen in reported quality metrics are largely the result of pre-hospital care.
+
+Pre-hospital care matters
+
+While type of insurance did not explain the difference in outcome because of a difference in care received once at the hospital (ie hospital caregivers themselves weren’t directly responsible), insurance does appear to be to blame for the differences in how unhealthy the patients were by the time they made it into the hospital.
+
+Private insurance patients have fewer preexisting medical conditions and receive better primary care as outpatients. People who are uninsured or use Medicaid are less likely to have early detection of brain tumors because of limited health care access. These patients also often experience a delay in diagnosis until they develop severe symptoms and go to the emergency room. So by the time a Medicaid or uninsured patient goes the hospital, they are sicker than a privately insured patient. All of these factors ultimately affect the patient outcome.
+
+Additionally, there was one factor – length of stay – that we couldn’t explain by looking at patient or hospital factors. Medicaid and uninsured patients had a longer length of stay, which is likely a direct result of their insurance status. That is because rehab hospitals, where patients recover after brain surgery, have a limited number of charity beds for patients without insurance. So these patients have to wait in the hospital for these beds to open up.
+
+This happens with other kinds of surgery
+
+These findings are not unique to brain tumor patients. In patients undergoing major surgical operations, people with Medicaid or who are uninsured are at an increased risk of mortality and worse discharge outcomes.
+
+In non-surgical specialties, such as internal medicine or oncology, uninsured patients and Medicaid patients face delays in diagnosis and advanced stages of cancer at presentations similar to the brain tumor patients in this study.
+
+As we move forward with a focus on improving the quality of health care, we must understand that what kind of care patients receive before they get to the hospital is important. Screening and preventative care can make a difference. Additionally, we should be cautious in grading hospitals and practitioners by these quality metrics without completely understanding all of these factors their patients are facing.
+
+With the implementation of the ACA, the cause of medical complications should be studied comprehensively to improve quality metrics in vulnerable patient populations.

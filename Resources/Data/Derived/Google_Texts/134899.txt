@@ -1,0 +1,57 @@
+Seven years ago, the state of Delaware started moving computer servers out of closets and from under workers’ desks to create a consolidated data center and a virtual computing climate.
+
+In doing so, Delaware, nicknamed the First State, became the first state to move to cloud computing, in this case storing its data, operating systems and applications on centralized servers and giving agency employees remote access to the servers via the Internet. But this system is about to run its course as the state’s servers reach the end of their useful lives.
+
+Related: Pentagon Plays Catch-Up with Cloud Computing
+
+Delaware now is about to take another big step into the cloud. It’s looking at relinquishing management of its computing infrastructure and turning it over to an outside company to handle for a monthly fee. It’s a leap to the so-called “public” cloud, where the computing is done by a third party. The First State’s foray into the cloud is one many other states are undertaking, as officials increasingly shed their skepticism and yield to the promise of the cost savings.
+
+“People are becoming more comfortable with (cloud computing),” said Dan Lohrmann, former chief information security officer for the state of Michigan. “More and more states are adopting the cloud.”
+
+A new survey of the states’ top information technology officials bears that out. Twenty percent of the states are now highly invested in cloud-based services, according to the survey released earlier this month by the National Association of State Chief Information Officers (NASCIO). Last year, just 6 percent of the states were.
+
+Nearly three-quarters of the states, 73 percent, say they already have some applications in the public cloud and are considering others. That’s a major advancement from just four years ago, when more than half of the information officers, 54 percent, said in a similar NASCIO survey that they were still investigating cloud computing.
+
+Related: Amazon Gets Government Boost in Its Cloud War with Google
+
+States are expected to spend about $32.6 billion on information technology this year, while local governments will spend about $27.8 billion, Deltek, the consulting and software firm for government contractors, estimates. Of that, state and local governments will spend only about $625 million for cloud services combined, said Chris Dixon, Deltek’s senior manager of state and local industry analysis. But the amount spent on cloud computing will likely increase as states become more comfortable with it, he said.
+
+Cost savings are driving states to embrace the cloud and accept private-sector cloud services. Estimates are states can save 25 percent to 50 percent in their computing operations.
+
+Costs drove Delaware to it. The state saved $5 million in 2009, the first year its in-house cloud system was up and running, said William Hickox, Delaware’s acting chief information officer. “The first year, it’s savings,” Hickox said. “After that it’s cost avoidance. We’ve had $5 million a year in cost avoidance since then.”
+
+Fear of a Lack of Control
+
+States have trailed the private sector in turning to the cloud and third-party, cloud-based services. And while they’re ahead of local governments, they’ve also trailed the federal government.
+
+In late 2010, the federal government announced a “cloud first” strategy for federal agencies, saying giving priority to web-based applications and services would let more people share a common infrastructure, thereby cutting technology purchases and support costs. Vivek Kundra, federal chief information officer at the time, predicted a “cloud first” approach could lower some costs by as much as half by using third-party public services.
+
+Related: Big Business Trend - Knock Out Disruptive Upstarts
+
+The policy helped spur state information technology chiefs to drop some of their queasiness about the cloud, especially the public cloud, where firms such as Amazon, Google, Microsoft and others have huge capacity and offer services on a subscription basis. Simply renting servers rather than buying them can lower capital costs.
+
+States were slow to adopt cloud computing, and the public cloud especially, for several reasons, said Dugan Petty, former chief information officer for Oregon and a senior fellow at The Center for Digital Government. Security of a state’s data is the main one. States hold vast amounts of personal information on their citizens, ranging from dates of birth to Social Security and driver’s license numbers. Security is also a federal concern, and their systems adopted security standards to protect their data.
+
+State computers are under constant attack, as Stateline has reported. And the prospect of a breach of that data held in the cloud by private companies can keep state officials up at night. Just having the servers holding the data out of officials’ sight in the cloud can make them queasy, although they have full access to it.
+
+“I think the major thing people are afraid of is lack of control,” said Lohrmann, now chief security officer and strategist with the cybersecurity training firm Security Mentor. “There’s a sense of security when you have it under your control.”
+
+However, Lohrmann said, cloud companies are constantly developing better security that must meet federal standards, just as states and third-party security contractors they use to protect their data are becoming more adept in combating cyberattacks. That doesn’t mean there still aren’t breaches. Apple’s iCloud, for example, was hacked recently, and nude photos of several celebrities were grabbed and posted online.
+
+Petty said state officials also have considered much of what they do—from hiring to financial management to procurement and inventory—as different from the private sector and that government required its own software. But they’re learning what they do isn’t unique and cloud software services that businesses subscribe to can be fitted to government use.
+
+Cloud software service vendors are proliferating, and increasingly offering services for government that can be tuned to a state’s policies and regulations and open to audit.
+
+The firm BidSync, for instance, offers a cloud-based service for state procurement officers that handles purchasing from the bidding stage through receiving tailored to a state’s regulations. Next to labor, purchases of goods and services can be a government’s highest operating cost. “This challenges the notion that we are so different in government,” Petty said.
+
+‘Pretty Much Inevitable’
+
+Although Delaware was the first state to take to the cloud, Petty said others, such as Utah and Michigan, were early cloud adopters, too. The budget crunch spawned by the Great Recession helped spur adoption, he said. States were forced to consolidate hardware and use virtual software to run multiple operating systems and applications on the same server at the same time to reduce costs.
+
+Petty said the next logical step is to outsource other computer infrastructure and software services and pay for it on a subscription basis, just as Delaware is looking to do. Some states are taking big plunges into the cloud with outside firms.
+
+This summer, California launched a consolidated “CalCloud” platform managed by IBM to streamline operations and deliver services from the cloud for 400 state and local agencies. IBM would provide the infrastructure and operate it on a subscription basis in the five-year, $400 million deal, while the state manages the rest.
+
+At the same time, Pennsylvania announced it would pay global technology firm Unisys up to $681 million over seven years to unify seven state data centers and deliver cloud-based services ranging from storage to allowing other third-party software adaptation. Exactly how much the state spends will depend on use. But cost savings are anticipated. Lohrmann said the prospect of budget savings will all but demand states go there. “Going to the cloud is pretty much inevitable.”
+
+This article originally appeared in Stateline, a nonpartisan, nonprofit news service of the Pew Center on the States that provides daily reporting and analysis on trends in state policy.

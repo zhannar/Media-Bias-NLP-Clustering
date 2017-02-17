@@ -1,0 +1,23 @@
+Machine learning startup Ayasdi is partnering with two prominent institutions — Lawrence Livermore National Laboratory and the Texas Medical Center — to help advance some of their complicated data challenges. At LLNL, the company will collaborate on research in energy, climate change, medical technology, and national security, while its work with the Texas Medical Center will focus on translational medicine, electronic medical records and finding new uses for existing drugs.
+
+Ayasdi formally launched in January after years researching its core technology, called topological data analysis. Essentially, the company’s software, called Iris, uses hundreds of machine learning algorithms to analyze up to tens of billions of data points and identify the relationships among them. The topological part comes from the way the results of this analysis are visually mapped into a network that places similar or tightly connected points near one another so users can easily spot collections of variables that appear to affect each other.
+
+Advertisement
+
+It’s not difficult to see how Ayasdi’s techniques or similar ones could be useful in the new partnerships with LLNL and the Texas Medical Center. LLNL, in particular is dealing with incredibly large and complex datasets, although its computing systems and algorithms might be tuned more toward computational simulation, for example, than data analysis. However, the more that research institutions like national labs and supercomputer centers can understand about their data, the more accurate their simulations can become.
+
+Advertisement
+
+In health care, electronic medical records are becoming an especially big area of concern — and promise — because of the strong emphasis the Affordable Care Act places on them and on delivering better, more efficient care. IBM is already teaming up with Sutter Health and Geisinger Health System, under a grant from the National Institutes of Health, to study how electronic health records can help predict heart failure.
+
+Advertisement
+
+It’s not clear yet whether Ayasdi or the rest of a new breed of machine learning-based startups (such as Nutonian) will actually be able to revolutionize data analysis, but their focus on helping users identify latent relationships without having to suss them out manually seems to point in the right direction. Ayasdi’s current customers include large corporations such as GE and Citi, as well as numerous professional sports teams. The company has raised nearly $41 million from investors that includes Khosla Ventures, IVP, Citi Ventures and GE Ventures.
+
+Advertisement
+
+Here’s a video showing how users interact with Ayasdi’s software.
+
+Advertisement
+
+[youtube=http://www.youtube.com/watch?v=KVRx3r8qeQs&w=640&h=360]

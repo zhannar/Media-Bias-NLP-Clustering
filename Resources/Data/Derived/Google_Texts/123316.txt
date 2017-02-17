@@ -1,0 +1,17 @@
+Jared Bernstein is a senior fellow at the Center on Budget and Policy Priorities in Washington and a former chief economist to Vice President Joseph R. Biden Jr.
+
+Today's Economist Perspectives from expert contributors.
+
+Since the Affordable Care Act requires businesses with at least 50 full-time workers to provide them with coverage (or it will, when the employer mandate kicks in a year from now), critics claim that it is prompting employers to shift to more part-time jobs. But as I have noted in various postings , there is no evidence to back up that claim — in fact, both involuntary and overall part-time work are declining as a share of all jobs.
+
+That observation came back to me when I saw a clever post by the economist Dean Baker on restaurant jobs and unemployment by state (showing that states with weaker job markets were creating a larger share of lower-quality jobs). It would be a neat test, I thought, to see if the share of involuntary part-time workers was also correlated to the unemployment rate by state. I’d expect that correlation to be positive — that states with higher unemployment would have higher shares of involuntary part-timers — providing further evidence that it is the job market, not the health care law, at work. Conversely, if the incidence of involuntary part-time work was uncorrelated with state unemployment rates, then the Affordable Care Act would be a more plausible candidate to explain the variation.
+
+Thanks to David Cooper of the Economic Policy Institute, my computer was soon feasting on employment data for the first half of this year. And as you see in the chart below, the data showed a positive relationship between unemployment rates and the involuntary part-timers’ share of employment.
+
+Photo
+
+(For those who like the statistical weeds, the regression coefficient, or slope of that line, is 0.46, and highly significant, at t-stat=5.59. That means that we would expect a state with, say, 8 percent unemployment to have a share of involuntary part-timers that was 0.46 percentage points higher than a state with 7 percent.)
+
+You want to hate on Obamacare, I can’t stop you. And the incentive to reduce workers’ hours may someday be found in the data, though according to the administration, fewer than 1 percent of employees have weekly hours slightly above the 30-hour cutoff, are employed by businesses affected by the employer mandate and do not already have health insurance.
+
+But the fact is that for now, there’s nothing to see here, folks. Move along, please.

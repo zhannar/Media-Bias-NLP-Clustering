@@ -1,0 +1,43 @@
+Many startups have taken on the challenge of helping us find any doctor. But few companies are dealing with the complicated problem of connecting patients with the best doctor.
+
+San Francisco-based startup Amino Health aims to do just that. The company has developed a tool to connect patients with a local provider who is their "best match." The company is analyzing a massive volume of data to rank doctors based on how many patients they've treated with a particular symptom, ailment, or condition.
+
+I met with Amino Health’s CEO, David Vivero, late last week, just a few months after the launch of the company’s initial product, its doctor-finder tool. Since then, I’ve been testing Amino, as well as competitor sites BetterDoctor and ZocDoc, in an effort to gauge its strengths and weaknesses.
+
+What immediately stands out about Amino is its focus on the patient experience. The search process is quick, easy, and doesn’t require too much personal information. Amino only asks its users for gender, location, age, and condition or procedure. Health insurance information is optional.
+
+Unlike its competitors, Amino ranks its doctors based on their relative experience rather than by location or number of reviews. For instance, when I searched for "pregnancy" in San Francisco, my first match was an obstetrician gynecologist who has seen 4,400 adults around my age for pregnancy in the past four years. I also saw the doctor's "C-section rate," and whether it was higher, lower, or similar to the average (in this case, similar). Once a patient selects a doctor, they can use the site to make an appointment.
+
+But the major downside: Amino’s database of providers is still limited. When I searched for general practitioners in Palo Alto, Calif. (and didn’t include my insurance information), I only got back one result. Also, I didn't see any data about death and and complication rates for surgeons. For information like that, I’d need to peruse Propublica’s Surgeon Scorecard app.
+
+
+
+Vivero is aware of these problems, and stresses that Amino launched just four months ago. At this point, the company is still working on responding to feedback from its first users. The team is also still determining a potential business model; VIvero declined to provide specifics on that.
+
+"Right now, we’re dealing with people who are trying to find bugs and break the system," he says. "You’d be surprised how many searches we had for male pregnancy."
+
+Amino is on the right track when it comes to user experience, but it remains to be seen whether people will flock to the service. The competition is strong, particularly from New York-based company ZocDoc, as well as from health insurance companies that are actively working on improving their physician directories. Moreover, most patients still find their doctor through a combination of physician referrals and word of mouth.
+
+Vivero declined to share numbers on the company's total users or its growth, but he says the tool has been used by people in all 50 states.
+
+But after conducting research in recent months, Vivero believes that patients are sorely in need of a better doctor-finder tool. He is also drawing from personal experience as a patient, and understands how challenging it can be to find a high-quality doctor.
+
+Vivero suffers from a blood disorder called hemochromatosis. In the past, he had struggled to find a doctor in-network who had treated patients with his condition. In order to find out that information, he’d need to call up each doctor individually and ask.
+
+"Our focus is to track the actual activities of health care," he says. "The actual experience doctors have; the actual prices they charge; and the real experiences of patients."
+
+Vivero might be on to something, especially if the company can attract patients with chronic or rare diseases who don’t want to waste their time with an inexperienced doctor.
+
+Vivero previously worked at Zillow, the real estate giant, which had its own "big data" challenges. But real estate has nothing on health care, a highly regulated industry where data is often kept under lock and key.
+
+David Vivero
+
+At Amino, the team is working hard to get its hands on data from a variety of sources, including electronic medical record vendors, state and federal governments, and insurance companies. Once it has access to the data, the next big challenge is to make sense of it.
+
+"We have almost 30 people at our company," says Vivero. "Probably half of them work in our data science team trying to build pipelines in clean data."
+
+Amino claims to already use anonymized data from 188 million people who have filed five billion claims. Thanks to the Affordable Care Act, the company can also access some Medicare data. That helps the team get a more accurate indication of a doctor’s experience.
+
+Going forward, Amino will prioritize finding other measures to determine quality, as well as in adding context for people. The company is also looking at incorporating medical facilities into its rankings, and creating teams of doctors for patients with multiple conditions.
+
+At this stage, I’m far from convinced that patients need another doctor-finder tool. But if Amino can continue to deliver on its promise to rank doctors based on quality, it’s most certainly one to watch.

@@ -1,0 +1,49 @@
+While payer-provider collaboration has long been important, new trends in managing population health data is strengthening that relationship as never before, according to MedeAnalytics CEO Andy Hurd, and in many ways it's changing how providers think.
+
+"A growing number of payer clients are leveraging the exact same data, but they're asking questions in a different way," he said, adding that the company has seen more insurers sign on as clients recently.
+
+On the financial side, providers are looking for ways to make their fee-for-service business more efficient, increasing revenue. Meanwhile, insurers may can use the data to spot highest utilizers of care to measure that against their premiums and negotiated payment rates with healthcare providers.
+
+[Also: MedeAnalytics sold to private equity firm Thoma Bravo]
+
+But what's really interesting, Hurd said, is that it's the providers who are starting to think like payers as the industry move towards value-based care and population health.
+
+For example, Hurd said, say his clients wanted to track pediatric prescriptions of asthma medicine albuterol in a certain state, looking to find out which children hadn't filled their prescriptions in the past three months.
+
+"The way the payer thinks about it is: If those children don't fulfill that $20 script then we'll apply predictive analytics to determine how many of those kids are going to end up in the emergency room. Then there can be intervention and the payer saves on a $1,500 ED visit."
+
+That's the kind of thinking payers have long held, since unnecessary hospitalizations meant they had to shell out cash for medical care that could have been avoided. But that's not how providers traditionally thought under fee-for-service.
+
+"Not to sound harsh, but in the past it wasn't part of the business model for the provider to care about whether that kid fulfilled that script because when they showed up in the ER the provider was going to get paid for it," he said. "But today in value-based reimbursement, they're going to get paid a single amount of money to manage that child's asthma care. It's now in the provider's best interest to understand who filled that script."
+
+[Also: New Hampshire hospitals, Harvard Pilgrim to create analytics company]
+
+Essentially, that's population health at work, and for MedeAnalytics it's been a major driver of the company's growth.
+
+The company, which recently announced that it would be acquired by private equity firm Thoma Bravo, tracks billions of unique episodic encounters and takes in close to 30,000 daily data feeds from hundreds of different health systems. Once it has the data, the platform applies algorithms to normalize data so that its clients can easily track trends.
+
+"When I think about population health, that's the convergence -- where you have payer and provider in the middle trying to solve for population health and the financial implications of population health," Hurd said. "We sit right in the center of healthcare economics."
+
+Like Healthcare Finance on Facebook
+
+While some providers may choose a vendor solution like MedeAnalytics, others are forming their own platforms with the same goal in mind.
+
+In New Hampshire, three hospitals including the acclaimed Dartmouth-Hitchcock Medical Center, announced plans to build a population health platform with New England insurer Harvard Pilgrim Health Care.
+
+The new company, Benevera Health, will track data that the payer and providers then use to manage costs and improve care. Benevera will manage the clinical and financial data of 80,000 Harvard Pilgrim insured members in New Hampshire.
+
+Operations begin Jan. 1, 2016.
+
+"We are going to be able to combine Harvard Pilgrim claims and all of our partners electronic health records under one analytic platform," said Dr. Rick Weisblatt, chief of innovation and strategy for Harvard Pilgrim. "It will make it much stronger than one that relies on one data source or another."
+
+In another move towards shared data, Blue Cross Blue Shield Association said it planned to create a huge database of healthcare claims to spot trends that could be used to control costs. All 36 independent Blue Cross and Blue Shield companies made a commitment to contribute information.
+
+The company will be led by Corbin Petro, the current president of ElevateHealth, a precursor to Benevera Health. Petro is the former chief operating officer at MassHealth, Massachusetts' Office of Medicaid.
+
+But while population health may be the future when it comes to managing healthcare, the persistence of fee-for-service means many providers have a lot of work to do when it comes to embracing the new model while not letting their existing business slide.
+
+"You have CFOs with two feet in fee-for-service, and now they're asking to put a toe into value-based pay," said Hurd. "They still have to be operationally excellent at fee-for-service. If anything, you have to be better at it now. It is actually funding what they are doing in value-based."
+
+Susan Morse contributed to this report.
+
+Twitter: @HenryPowderly

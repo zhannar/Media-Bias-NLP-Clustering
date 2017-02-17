@@ -1,0 +1,27 @@
+Michigan and Illinois are in the midst of a project where the states will share one Medicaid Management Information System (MMIS) through the cloud. Yet, while progress has been made, the work hasn’t gone quite as fast as state leaders had hoped when the partnership was announced last year.
+
+The first phase of the shared MMIS – adding an Electronic Health Records Medicaid Incentive Payment Program (eMIPP) – was completed in November 2013. But a decision was made to then spend time working on the governance model between the Centers for Medicare and Medicaid Services (CMS) and the states, instead of moving into the provider enrollment stage of the project as originally planned.
+
+Karen Parker, director of the Bureau of Medicaid Operations for Michigan’s Department of Community Health (MDCH), explained that even though the federal government has been pushing states toward using shared systems, Michigan and Illinois are the first two to try it. So before barreling forward to the next step, the states took a cautious approach to get it right the first time.
+
+“CMS is struggling with their reimbursement methodology and how they typically fund these types of projects,” Parker said. “So we’ve been working closely with CMS as we’ve moved through the process, to make sure we’re totally aligned.”
+
+The provider enrollment phase of the Michigan-Illinois MMIS project will kick off next week, approximately six months later than Nick Lyon, chief operating officer and deputy director of MDCH, had estimated last year. Work on the provider enrollment program should be finished in July 2015, according to Linda Pung, customer service general manager for the Michigan Department of Technology, Management and Budget (DTMB).
+
+An MMIS is a mission-critical system that retrieves Medicaid information and processes claims. Federal law requires states to operate technology to support administrative functions of their Medicaid programs. But states are moving to modernize their legacy systems as Medicaid expands under the Affordable Care Act.
+
+As a result, Uncle Sam is offering to put up 90 percent of MMIS upgrade costs to help spur states along. According to Michigan and Illinois, the CMS says the states’ technology-sharing approach meets federal regulations. And with the two states operating on Michigan’s MMIS, it saves the feds from dishing out more capital to help fund a separate Illinois system. So in theory, the partnership is a winner for all governments involved.
+
+Next Steps
+
+Once the provider enrollment phase of the multi-state MMIS retrofit is done, officials will turn to the third portion of the project – the task of building a multi-tenant architecture that enables Michigan to provide cloud-based MMIS to Illinois as software-as-a-service. Termed the “cloud-enablement” phase, Pung said the process could take up to three years, marking July 2018 as a tentative finish date.
+
+It’s hard to define exactly how long the cloud-enablement segment will take, however, because it will largely depend on getting federal approval to start, Pung added. But Michigan is working with CMS to find a way to speed up the timetable.
+
+“With the cloud-enablement phase, we’re looking at what portions of that can be broken up and staggered … instead of waiting 36 months before you get an additional implementation and production,” Pung said.
+
+Parker’s not worried about the technical parts of the MMIS project. She’s confident that existing technology can connect the states. But Parker was adamant that Michigan and Illinois have to speak the same language in order to achieve the maximum efficiency and cost savings a shared MMIS can provide.
+
+“It’s a matter of getting both states aligned and agree[ing] to use the same business processes,” Parker said. “That’s probably been the biggest struggle.”
+
+Government Technology reached out to Illinois CIO Sean Vinck and Stephen DePooter, CIO for the Illinois Department of Healthcare and Family Services, for comment on the state of the shared MMIS project, but did not receive a response prior to press time.

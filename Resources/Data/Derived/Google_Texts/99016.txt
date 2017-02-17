@@ -1,0 +1,43 @@
+To help you optimize security as you cope with complexity, InformationWeek is offering you an excl
+
+Salesforce.com, Philips Launch Digital Healthcare Platform
+
+Salesforce1 cloud platform will serve as development platform for patient-care apps using Philips health monitoring devices.
+
+
+
+Healthcare Dives Into Big Data (Click image for larger view and slideshow.)
+
+Frans van Houten, CEO of Dutch electronics giant Philips, and Marc Benioff, CEO of Salesforce.com, on Thursday announced a strategic partnership to build a connective digital healthcare platform in the cloud.
+
+The goal of the platform is no less than "transforming healthcare," the partners proclaimed in a statement, by harnessing Philips Healthcare medical devices and wearables and the Salesforce1 cloud platform as the basis for an "open ecosystem" of connected mobile and sensor-enabled applications.
+
+As a starting point, the partners announced their intention to launch this summer a Philips eCare Coordinator app for healthcare providers and a complementary Philips eCare Companion app for patients that will enable doctors and patients to monitor and measure health status and the treatment of various diseases and conditions.
+
+[Want more on healthcare apps in the cloud? Read Apple Partners With Epic, Mayo Clinic For HealthKit.]
+
+"If you think of a COPD patient, and how they need to track their blood and health stats, they can monitor from their home using Philips devices and dynamically update through the eCare Companion application," explained Fergus Griffin, Salesforce.com's SVP of solutions and product marketing. "This information is connected to the eCare Coordinator app, so the provider knows how the patient is doing in real time, and, based on that, nurses, doctors, and specialists can decide whether they need to see the patient."
+
+Philips offers connected, home-care devices for patients with a range of conditions, with COPD and sleep apnea being just two examples. Griffin said the ecosystem will be open to device and healthcare software providers.
+
+Philips Healthcare is a leading manufacturer of health monitoring devices, many of which can now be connected and used by patients at home.
+
+Philips and Salesforce.com are far from alone in seeing an opportunity for Internet-of-Things-style connected applications. Earlier this month Apple entered the mobile health technology field, previewing an iOS 8 app called Health and a companion HealthKit cloud API for integrating data from multiple apps and monitoring devices. Apple's initiative got instant credibility through partnerships with hospital software company Epic Systems and the Mayo Clinic.
+
+Griffin cited a litany of conditions that call out for better health-monitoring options, including rising cost and time pressures confronting providers, the introduction of 8 million more patients to the US healthcare system through Obamacare, and the emergence of accountable care models based on patient-care outcomes.
+
+"We see the emergence of new models that move risk from payers to providers and patients," said Philips CEO van Houten in a joint media conference with Marc Benioff. "It's the emergence of accountable care in the United States and in many other countries in the world, and providers need to optimize their care-delivery processes."
+
+Approximately 75% of US healthcare costs go to treating chronic diseases like COPD (chronic obstructive pulmonary disease), diabetes, and other ailments that patients live with for up to 30 years, van Houten said. Such diseases will be a starting point for many health-monitoring applications such as eCare Coordinator and eCare Companion.
+
+Philips Healthcare will take the lead in promoting the new platform to providers and developers in the healthcare industry, but Griffin said Salesforce customers, including Banner Eye Care and the University of California, San Francisco, will be among the first customers.
+
+InformationWeek's new Must Reads is a compendium of our best recent coverage of the Internet of Things. Find out the way in which an aging workforce will drive progress on the Internet of Things, why the IoT isn't as scary as some folks seem to think, how connected machines will change the supply chain, and more. (Free registration required.)
+
+Doug Henschen is Executive Editor of InformationWeek, where he covers the intersection of enterprise applications with information management, business intelligence, big data and analytics. He previously served as editor in chief of Intelligent Enterprise, editor in chief of ... View Full Bio
+
+Comment |
+
+Email This |
+
+Print |

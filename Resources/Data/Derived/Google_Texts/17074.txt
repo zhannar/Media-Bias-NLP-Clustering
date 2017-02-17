@@ -1,0 +1,61 @@
+Despite challenges such as a lack of standardization of data, the health care industry is taking steps to give doctors insight on how to improve patient outcomes.
+
+In health care, the flow of data comes from a vast number of patients, whether it’s remote monitoring of vital signs or genomic or socioeconomic data.
+
+The insurance companies have invested more heavily in big data analytics than hospitals, according to Cynthia Burghard, research director for accountable care IT strategies at IDC.
+
+“The payers are a little more sophisticated from a tech point of view and have invested historically in the technology,” Burghard said.
+
+Monitoring and predicting health data for patient populations will be essential to improving quality of care, lowering costs and finding cures, noted Michael Joseph, service area manager for Altarum Institute, a nonprofit health systems research and consulting firm.
+
+To monitor and evaluate quality of care, doctors will be able to “bring together clinical, claims and demographic data in a unified platform for advanced analytics and development of longitudinal patient records,” Joseph said.
+
+The data provides “near real-time evaluation of key metrics” to evaluate a physician’s performance, Joseph said.
+
+The power of predictive analytics
+
+At the University of Iowa Hospital and Clinics, big data and predictive analytics are playing a role in limiting postsurgical infections.
+
+“Predictive analytics is allowing us to deal with the ever-increasing types of data that health care institutions need to deal with,” Dr. John Cromwell, director of gastrointestinal surgery for the University of Iowa Hospitals and Clinics, said in a case study.
+
+The university is using Dell Statistica predictive analytics software to inform doctors of a patient’s risk level for infection. Doctors can determine risk by studying a patient’s medical history as well as monitoring real-time data during surgery, such as how much blood a patient has lost.
+
+From a data pool of 1,600 patients, the university built its predictive model.
+
+“We’re able to take information from electronic medical records (EMRs) and other enterprise sources, including real-time data from the operating room, to determine whether patients are likely to get a surgical site infection,” Cromwell said.
+
+“This allows us to modify and individualize the type of care that we’re delivering in the operating room.”
+
+Genomic data and cancer research
+
+Genomic research could be the biggest area of focus for big data in health care.
+
+Organizations such as the National Cancer Institute are using high-performance computing to research the makeup of cancers and other illnesses. The Dell Genomic Analysis Platform, which is used by NCI and incorporates HPC technology, can process up to 37 genomes a day.
+
+“Nowhere in health care has big data been more pronounced and effective than in the field of genomics,” Joseph said.
+
+“New gene therapies that can cure tissue cancers, blood cancers, diabetes and other diseases will be derived from this genetic information to create the era of precision medicine,” he added.
+
+In another case, the University of Michigan Health System used advanced analytics tools to reduce the number of blood transfusions by 31 percent. The school saved $200,000 in expenses by using a predictive algorithm to determine when blood transfusions are necessary.
+
+Big data and interoperability
+
+Although health care is making strides toward compatibility between multiple data standards, a lack of interoperability has been a huge barrier.
+
+Still, the industry is “getting better at it,” Burghard said. “Work needs to be done to make it useful for analytics. Right now there aren’t real standards.”
+
+Data is coming from numerous places, whether it’s a Fitbit device, many doctors’ offices, labs and pharmacies. Big data analytics platforms like Apache Spark, which is incorporated in the Dell In-Memory Appliance for Cloudera Enterprise, can help to collect and integrate all of this structured and unstructured data.
+
+Additionally, under the Affordable Care Act, doctors will be reimbursed according to the value of service they provide rather than per visit. To keep track of that value, big data analytics will be essential, Joseph said.
+
+He added that a key area of focus is identifying high-cost and high-risk patients.
+
+With technology enabling doctors and health insurance professionals to use data in new ways, health care is experiencing a breakthrough in using big data. There has been a proliferation of information among EHRs, claims, accounting data, devices, sensors and patient-generated data, Joseph noted.
+
+“Big data tools are now going mainstream and allow you to bring the most relevant information and more context to each patient encounter, adding a whole new dimension to clinical decision support,” he said.
+
+The key to greater adoption of big data analytics in health care is keeping the data clean and secure as well as ensuring that doctors understand how the data gets to them.
+
+According to IDC, 70 percent of health care organizations will invest in mobile apps, wearable computing, remote health monitoring and virtual care by 2018, resulting in a significant increase in demand for big data and analytics. Population health management will require this access to big data and analytics.
+
+“The justification for adopting a big data strategy in health care is warranted now,” Joseph added. “The data is there, the tools are there and the opportunities are there.”

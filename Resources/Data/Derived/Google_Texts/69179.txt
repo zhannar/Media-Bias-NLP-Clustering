@@ -1,0 +1,37 @@
+The government had to take offline its system for doctors to verify payments from drug companies after at least one doctor had payments attributed to him that actually went to someone else.
+
+ProPublica is investigating the financial ties between the medical community and the drug and device industry. In October 2010, ProPublica compiled the list of payments that drug companies make to physicians and built a publicly searchable database so that patients could look up their doctors.
+
+(Gerald Rich, ProPublica)
+
+The Centers for Medicare and Medicaid Services has temporarily suspended the verification system for its soon-to-be-unveiled website listing payments to physicians from drug and medical device companies. The move came after at least one doctor discovered that the site attributed payments to him that actually were made to another doctor with the same name.
+
+ProPublica brought the issue to CMS' attention on Friday after Louisville, Kentucky, electrophysiologist David E. Mann logged in to the Open Payments system to verify his payment record. In addition to seeing his own records, he saw payments to another David E. Mann, an oncologist in Crestview, Florida. Mann shared screenshots with ProPublica and wrote a blog post about it.
+
+"After an assessment of the data resulting from a complaint, we discovered that a limited number of physician payment records submitted by at least one manufacturer incorrectly contained information about other physicians," CMS spokesman Aaron Albright said in an email late Sunday. "To protect physician privacy and correct the issue, we have taken the system offline temporarily and will work with the industry to eliminate incorrect payment records."
+
+Last month, the government began allowing doctors to log into a secure website to check the payments attributed to them by drug and device makers. This information will be made public later this year under the Physician Payment Sunshine Act, a part of the 2010 Affordable Care Act. If doctors believe the material about them is wrong, they can contest it before it is made public on Sept. 30.
+
+Albright said CMS found that at least one manufacturer submitted erroneous data that combined the real name, real address and real national provider identification (NPI) of a physician with the wrong state medical license. The medical license was valid, but belonged to another physician with the same first and last names. CMS' system combined the data with the physician who actually held that license.
+
+Mann was taken aback by the error, particularly because doctors had to go through a rigorous process to verify their identities before they were allowed to see the payments attributed to them. "It's unbelievable that they would lump together docs from different states with different NPIs," he said by email, referring to the unique identifiers for each doctor.
+
+"After going through such a process verifying who you are, it's ridiculous that they then ignore the identifying data."
+
+Based on records Mann shared with ProPublica, one company that appears to have reported payments for both Drs. Mann is Janssen Pharmaceuticals, a subsidiary of Johnson & Johnson.
+
+In a statement this morning, the company said that the 45-day window during which doctors can dispute payments attributed to them is intended to "resolve any concerns prior to public posting."
+
+"We are committed to accurate reporting of all physician payments," the company said in a statement. "We take any concerns raised seriously and are committed to addressing them quickly."
+
+ProPublica has previously reported about some early glitches with the Open Payments site. Doctors said it took them an hour, sometimes longer, to verify their identities and log in. Doctors who don't have relationships with pharmaceutical or medical device companies were met with an error message.
+
+"You have the following errors on the page," the Open Payments website told them. "There are no results that match the specified search criteria."
+
+The Open Payments website, when it is open to the public, will show payments made from August to December 2013. Going forward, it will cover complete calendar years.
+
+The pharmaceutical industry's main trade group, joined by physician organizations, wrote to CMS last week raising questions about the new website, citing a lack of awareness among physicians about the ability to verify payments attributed to them and the cumbersome nature of the registration system.
+
+ProPublica has been tracking payments from pharmaceutical companies to doctors since 2010 in our Dollars for Docs news application. The site shows payments by companies that have made this information public, typically under settlement agreements with the government to resolve allegations of improper marketing. Dollars for Docs currently lists $2.5 billion in payments through 2012 from 15 companies representing about 43 percent of U.S. drug sales.
+
+ProPublica is looking to talk to doctors who've logged into the Open Payments website and checked their entries. Contact reporter Charles Ornstein at charles.ornstein@propublica.org.

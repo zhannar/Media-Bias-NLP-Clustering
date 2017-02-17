@@ -1,0 +1,23 @@
+On Sunday, the Department of Health and Human Services provided an update on the state of HealthCare.gov, addressing initial issues with the site and explaining its improvements. The following is crossposted from HHS.gov.
+
+Read the original post here.
+
+Over the past two and a half weeks, millions of Americans visited HealthCare.gov to look at their new health care options under the Affordable Care Act. In that time, nearly half a million applications for coverage have been submitted from across the nation. This tremendous interest – with over 19 million unique visits to date to HealthCare.gov– confirms that the American people are looking for quality, affordable health coverage, and want to find it online.
+
+Unfortunately, the experience on HealthCare.gov has been frustrating for many Americans. Some have had trouble creating accounts and logging in to the site, while others have received confusing error messages, or had to wait for slow page loads or forms that failed to respond in a timely fashion. The initial consumer experience of HealthCare.gov has not lived up to the expectations of the American people. We are committed to doing better.
+
+Aside from the difficulties since launching the site, there are parts of the overall system that have proved up to the task. The “Data Hub,” component, which provides HealthCare.gov with information that aids in determining eligibility for qualified health plans, is working. Individuals have been able to verify their eligibility for credits, enabling them to shop for and enroll in low or even no-cost health plans.
+
+WHAT HAPPENED – WHAT WE ARE WORKING ON
+
+Since launch, when we first recognized these issues, we have been working around the clock to make improvements.We have updated the site several times with new code that includes bug fixes that have greatly improved the HealthCare.gov experience. The initial wave of interest stressed the account service, resulting in many consumers experiencing trouble signing up, while those that were able to sign up sometimes had problems logging in.
+
+In response, we have made a number of improvements to the account service. Initially, we implemented a virtual “waiting room,” but many found this experience to be confusing. We continued to add more capacity in order to meet demand and execute software fixes to address the sign up and log in issues, stabilizing those parts of the service and allowing us to remove the virtual “waiting room.” Today, more and more individuals are successfully creating accounts, logging in, and moving on to apply for coverage and shop for plans. We're proud of these quick improvements, but we know there's still more work to be done. We will continue to conduct regular maintenance nearly every night to improve the experience.
+
+TECH SURGE
+
+To ensure that we make swift progress, and that the consumer experience continues to improve, our team has called in additional help to solve some of the more complex technical issues we are encountering.
+
+Our team is bringing in some of the best and brightest from both inside and outside government to scrub in with the team and help improve HealthCare.gov. We're also putting in place tools and processes to aggressively monitor and identify parts of HealthCare.gov where individuals are encountering errors or having difficulty using the site, so we can prioritize and fix them. We are also defining new test processes to prevent new issues from cropping up as we improve the overall service and deploying fixes to the site during off-peak hours on a regular basis.
+
+Most importantly, we want to hear from you, and make sure that your experience with HealthCare.gov is a positive one. If you have any comments, either complimentary or critical, please let us know by sharing your feedback at https://www.healthcare.gov/connect/. We've already heard so many stories of individuals getting health insurance for the first time, and we are dedicated to making that possible for all Americans.

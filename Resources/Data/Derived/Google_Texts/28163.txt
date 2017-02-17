@@ -1,0 +1,43 @@
+Robert Laszewski is president of Health Policy and Strategy Associates, a policy and marketplace consulting firm that has him working closely with many in the heath industry as they try to navigate the Affordable Care Act, as well as the author of the excellent Health Care Policy and Marketplace Review blog. As such, he has a unique view on how the rollout looks from the industry side. We spoke on Monday. A lightly edited transcript of our conversation follows.
+
+
+
+Karen Bleier/AFP/Getty Images
+
+Ezra Klein: You wrote about how the problems on the back-end of the insurance portals, in the way they communicate with the systems of actual insurers, might be as bad or worse than the front-end traffic problems. What are you worried about, exactly?
+
+Bob Laszewski: What I’m worried about is that when people go to their doctor in January they may walk in, and the doctor and hospital won’t find them in the insurer’s computer system or their bank account won’t be appropriately debited or they’ll be signed up for the wrong plan. I’m worried about all these things. Now, we have a few weeks to get this straightened out. But only a few weeks.
+
+EK: Tell me what you’re hearing from the insurance industry that has you concerned.
+
+BL: The insurance industry is literally receiving a handful of new enrollments from the 36 Obama administration-run exchanges. It’s really 20 or 30 or 40 each day through last week. And a good share of those enrollments are problematic. One insurance company told me, “we got an enrollment from John Doe. Then five minutes later we got a message from CMS disenrolling him. Then we got another message re-enrolling him.” On and on, up to 10 times. So insurers aren’t really sure if the enrollments they’ve got are enrollments they should have.
+
+And remember, the insurers have automated all this. They don’t have a clerk sending out a welcome letter and an enrollment card. So if you just let the computer run, it could theoretically issue a welcome letter, a cancellation letter, a welcome letter, a cancellation letter, etc. Now, they’re not doing this right now because it’s all screwed up. They can manage a few dozen per day by hand. But when you’re talking about thousands or tens of thousands or hundreds of thousands, it becomes completely unmanageable.
+
+EK: What do you think went wrong in the design of the federal insurance marketplace. The Obama administration put a lot of focus on this. They knew how important it was. But what they built has, thus far, performed disastrously.
+
+BL: I think they trusted their subcontractors. There’s an astronaut joke that an astronaut is a guy sitting on top of a rocket assembled by the lowest bidders. Obamacare is a bit like the astronaut on top of the rocket. As I understand it, some of these were no-bid contracts, like CGI.
+
+So I think some of the problem is the Obama administration never brought in heavyweight IT people to oversee this. Are there no Democrats in Silicon Valley? Kathleen Sebelius was the governor of Kansas. Mary Tavenner is a nurse and health policy person. Their senior people had no information technology background. And they’re listening to the consultants! There’s an old joke in the insurance industry that you don’t get very far if you bet your career on promises the IT department is making. And these people didn’t just bet their career on it. They bet Obama’s signature project on it!
+
+Something to compare with is they really brought in the A-team from the campaign to promote Obamacare. They have a heck of a team to go out and communicate it when it’s up and running. It’s the best people. But there were no heavyweights brought in to manage the IT.
+
+This project is one of the single biggest IT projects in American history. When Amazon.com and Facebook started they came up as a small company and came up slowly. This had to become prime time on day one. And this business about building it for 50,000 people? You have 50 million people uninsured and 19 million in the individual market and a few hundred million who aren’t eligible for Obamacare but have been hearing about it for years! Did they not think a few of those would go take a look? I think it gets back to oversight. It was a lack of oversight on the part of the Obama administration. They needed to bring in the same kind of heavyweights in IT that the Obama administration brought in to sell this from the campaign.
+
+EK: You said a few minutes ago that they really only have a few weeks to fix this before they run into serious problems for the law. Is anything you’re hearing from the insurance side convincing you that the system is improving that quickly?
+
+BL: There’s no evidence of any improvement so far. I say that factually, not as a shot at them. The question then is will they get there in time? Another mistake they made -- and given the politics you can understand it -- was this thing was really politically secret. I joke in speeches that the CIA director couldn’t get away with an affair but no one could figure out what was going on inside HHS.
+
+They were paranoid because Obamacare was under siege. I understand that. If they were open with their partners there would’ve been criticism, but it would’ve been constructive criticism. None of us had any idea that the government Web site would require security sign-ins before browsing. Why did that have to be a secret? No one will read a newspaper article about that. If it had been transparent I think most of this would’ve been caught upfront. That really hurt them.
+
+One thing the Obama administration has been really paranoid about is rate shock. When someone like me says there’ll be rate shock they say you have to net out the subsidies. That is a fair point. But I think what happened was when they designed their system they were so paranoid about that that they wanted to make sure people browsing got the lowest price. That required signing in so you could see subsidies. And my theory is that’s why they went to the architecture they did even though the IT systems people wanted to go another way.
+
+EK: How are the state exchanges functioning?
+
+BL: They’re not seeing anything like the federal problems. I should say that if you’ve seen one state you’ve seen one state. But to generalize, the vast majority of states really did a good job testing. Some of them didn’t open up with everything. Now, enrollment is not great, but that’s because every one of them had real glitches. And in the states, those actually were glitches -- not a train wreck. So we still don’t have an accurate picture of how many people will sign up. I think if you look at some of the states that opened fairly smoothly, like Maryland or Connecticut or Kentucky, they all had problems but in two weeks we’ll have a better sense of how they’re running. Enrollments are smaller than they need to be right now but the federal publicity is hurting them. The guy in Maryland doesn’t know he’s not on a federal exchange.
+
+EK: What should the Obama administration do?
+
+BL: I think the feds have to really solve their problems. I wouldn’t go on those sites now. People are just wasting their time. I think Mark Bertolini from Aetna made the comment this morning, and I agree with it that the smart move on the part of the Obama administration would’ve been to suspend the Web system, shut it down, go back, and fixed the problems. They would’ve taken a big political hit from Republicans for, like, two news cycles. But if they could bring it back in a month working smoothly, no one would remember five years from now.
+
+The problem with the Obama administration keeping this open is its five times harder to fix something like this on the run. If it would’ve taken a month to fix it during the shutdown, it’ll take three or four or five months to fix it while it was running.

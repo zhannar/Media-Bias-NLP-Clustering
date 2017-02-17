@@ -1,0 +1,37 @@
+Ronald Rivest, one of the inventors of a commonly used encryption algorithm, took on the arguments by Mr. Johnson and other senior officials, including John P. Carlin, the head of the Justice Department’s national security division, that the best minds in Silicon Valley could find a way to ensure legal government access while still assuring users that communications and data stored in their iPhones and the cloud are safe.
+
+“There are lots of problems with these ideas,” Mr. Rivest said. “We live in a global information system now, and it’s not going to be just the U.S. government that wants a key. It’s going to be the U.K., it’s going to be Germany, it’s going to be Israel, it’s going to be China, it’s going to be Iran, etc.”
+
+It was clear all week that the Snowden revelations, while fading in memory across much of the country, have not been forgotten in the rapidly growing computer and encryption communities here.
+
+One of Mr. Johnson’s deputies, Phyllis Schneck, projected colorful graphics on a screen that showed the government’s plans for real-time monitoring and blocking of malware flowing through the Internet, urging private industry to help.
+
+“We want you to make money,” said Ms. Schneck, a former chief technology officer at McAfee Inc., known for its virus-protection software. Many in the crowd, though, said they worried whether the government would turn any malware-monitoring system to other uses.
+
+Mr. Obama’s cybercoordinator, Michael Daniel, who has been trying to preside over the unwieldy administration debate over encryption rules, was meeting executives in private and calling in public for “cybernorms of behavior” that could constrain the kind of hackers who attacked American corporations, the White House, the State Department and the Pentagon. But he acknowledged that this was an area where the grindingly slow wheels of diplomacy were being outpaced by technological development.
+
+Advertisement Continue reading the main story
+
+“The government fears its own obsolescence,” said retired Adm. Patrick M. Walsh, who left the Navy in 2012 and is now an executive at iSight Partners, a cybersecurity firm.
+
+Mr. Carter, in his Stanford talk, noted that past wars were fought state to state. But in computer conflict, he said, the most sophisticated threats and weapons are seen by banks, security firms and Silicon Valley companies like Apple, Google, Yahoo, Twitter and Facebook that serve as conduits for the world’s communications. That is data Washington most needs.
+
+Yet nearly two years after the Snowden revelations, many companies are as reluctant as ever to give the government any information unless they are compelled to do so, particularly as they try to convince foreign customers in global markets that they are doing everything they can to keep Washington at a distance.
+
+The new defense secretary received what was probably the warmest welcome of government officials on the tour through Silicon Valley. Mr. Carter, who did graduate work at Stanford, returned for much of last year, until Mr. Obama pulled him back to Washington. That time gave him a new appreciation, he said, for how ill suited the Pentagon’s lumbering procurement system is in taking advantage of new technology and start-ups.
+
+At Facebook, he talked with Sheryl Sandberg, a former colleague from the Clinton administration, about using social media to connect the troops — and the challenges it poses as terror groups become adept at exploiting it. On Friday, he went to a venture capital firm, Andreessen Horowitz, to meet with the founders of a series of relatively new ventures.
+
+“He really just wanted to explore how their technologies might be applied to current problems at the Pentagon,” said Margit Wennmachers, a partner at the firm, who joined the session.
+
+During the meetings, Mr. Carter spoke with an executive of Github, an Andreessen Horowitz portfolio company, which China recently targeted in a cyberattack intended to keep Western news reports out of the hands of the Chinese public.
+
+Mr. Obama, on a trip to Stanford in February, had expressed sympathy with those who were striving to protect privacy, even while saying it had to be balanced against the concerns of the F.B.I. and other agencies that fear “going dark” because of new encryption technologies. (Apple says that with its new iPhone operating system, it has no way to decode data in phones, even if given a court order.) Mr. Obama’s aides say decisions about how to resolve these differences are still months away.
+
+Advertisement Continue reading the main story
+
+With so much more data at stake, and attacks so frequent, cryptographers say the need for encryption is greater than ever.
+
+One proposal, by Adm. Michael S. Rogers, the head of the National Security Agency, is to develop a split-key system in which companies hold half and the government, or some outside agent, holds the other half of the key to unlock encrypted communications. The two would be put together only with approval of a court. But many computer security experts reject that idea, saying it would leave too much room for theft and would motivate other governments to require the same.
+
+“The amount of information that intelligence officials are collecting — even if some sources go dark — is dramatically more than it has been in history,” Paul Kocher, a cryptographer, said Wednesday. “The idea that we need to stop rolling out technology to keep our industries and businesses safe, to keep a few sources from going dark, is certainly not a trade-off.”

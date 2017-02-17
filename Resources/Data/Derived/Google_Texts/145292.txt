@@ -1,0 +1,131 @@
+Once we’ve passed our last high school or college exam, most consumers only have one score to worry about for the rest of our lives — our credit score.
+
+
+
+Or so we thought.
+
+
+
+As technology has improved, so has the ability of businesses to mine pools of highly identifiable public information and use that information to create brand new ways to “score” consumers. Based on hundreds of pieces of public and private data (e.g. “Big Data”), these so-called consumer scores are used by marketers, government agencies, financial institutions, and other businesses to predict a range of consumer behaviors, from how likely we are to wind up in the hospital to how often we’ll ditch our cable providers or collect unemployment. Most consumers don't know these scores exist and, more alarmingly, these databases could be juicy targets for cybercriminals.
+
+
+
+In a first-of-its-kind report released Wednesday, the World Privacy Forum, a non-profit consumer advocacy group, exposed dozens of these secret alternative scoring models and how they’re being used both for and against consumers.
+
+
+
+“These scores are nearly impossible to track down if you don’t know where to look,” Pam Dixon, director of the World Privacy Forum and co-author of the report, told Yahoo Finance. “We really want to engage the public and lawmakers in a dialogue about what’s happening with these consumer scores and create a structure where there’s fairness.”
+
+
+
+What’s a consumer score?
+
+
+
+Like a credit score, consumer scores are based on our past behaviors to predict what we’ll do in the future. Businesses use these scores in a number of ways, like deciding when to offer us services, how to target advertising to our tastes, and as background checks.
+
+
+
+The trouble with consumer scores is that even though we may know they exist, the companies behind them are protective of the algorithms and methodology they use. It took Dixon and her team a year and a half to figure out exactly what bits of information companies are using to score consumers. They found a single consumer score could be based on as many as 1,000 different factors, including age, ethnicity, social media presence, religion, health, marital status, purchase history, sexuality, medical history marital status, ZIP code, date of birth, and financial health.
+
+
+
+Where do they dig all that information up?
+
+
+
+Businesses that generate these scores are incredibly creative when it comes to mining for consumer data. And sometimes they don’t have to do any work at all since consumers often hand over their personal information without realizing it.
+
+
+
+Retailers, merchants and subscription-based services sell transactional data and lists of customers to marketers looking to target a specific area for ads. Ditto payday lenders. If you’ve ever entered a sweepstakes or signed up for a loyalty card, all of that information you enter (name, age, date of birth, etc.) could be up for grabs on the big data market. If you’ve ever filled out a survey about your health in order to register to access a medical website, that information can be sold and distributed. It’s easier than ever to track consumers as they browse the web.
+
+
+
+Some data brokers can tell all there is to know about a person’s likes, dislikes, job history and personal interests by digging through their social media profiles. And you’d be surprised how easy it is for companies to glean information about your household (how long you’ve been married, whether you’re recently divorced, how many kids you have and their ages, etc.) from public records.
+
+
+
+What kinds of scores are we talking about?
+
+
+
+When Dixon first began looking into consumer scores in 2007, she came up with a list of about 25 different scores. Today, there are hundreds.
+
+
+
+Here are a few examples:
+
+
+
+Experian’s ChoiceScore: This is a type of financial risk score that Experian sells to marketers looking to target consumers who don’t have traditional bank accounts by predicting the odds that they’ll be able to pay their bills or loans in the future. According to Experian, the score is based on demographic, behavioral and geo-demographic information — all non-credit information, which means this score wouldn’t be regulated by the Fair Credit Reporting Act.
+
+
+
+Experian’s Consumer Profitability Score: This score, similar to the ChoiceScore, is sold to designate which households are most likely to pay their debts on time. It’s based on a scale of 1 (low likelihood) to 13 (high likelihood). For this score, Experian uses data from one of its databases, which contains information about 235 million consumers and 117 million households from hundreds of data sources, according to the WPF report, though it’s not clear what the data sources are.
+
+
+
+Scorelogix’s Job Security Score: This is one of few scores consumers have access to. Ranging from 1 to 1,000, the score predicts unemployment risk — the kind of information a lender might find useful to size up a borrower who may not have any existing credit history.
+
+
+
+Predictive policing scores: It’s known that law enforcement agencies at the city, state, and federal level have increasingly used risk scores to determine the likelihood that someone from a particular geographic location is more likely to commit a crime. The FBI, for example, has used a database called STAR to measure risk scores in anti-terrorism efforts. “This type of scoring is just coming into its own now,” Dixon said. “They predict crime zones based on patterns and they’re also predicting who has the highest likelihood of reoffending. There’s not a lot of information out there.”
+
+
+
+Donor Scores: These scores predict which households are likely to make the biggest donations to charitable causes. They’re a hot ticket among donation-reliant nonprofit organizations.
+
+
+
+Churn score: Churn scores are widely used among cable and mobile phone providers to predict how likely a consumer may be to switch services. If your risk of ditching your cable company is high, they might try to sweeten your deal with lower rates. On the flip side, it could mean loyal customers get stuck with so-so rates. Versium, a data analytics firm, is one of the biggest sellers of churn score data.
+
+
+
+Fraud/ID Theft scores: If you’ve ever gone on a shopping spree only to be declined at the register because your bank thought your card had been stolen, you understand fraud scores. They’re used by retailers, banks, lenders, credit card companies, and even the post office to determine the likelihood that a consumer is impersonating someone else. It's difficult to know what kind of information they base this score on, but it likely includes patterns in purchase history and geographic information.
+
+
+
+Health scores: There are a number of ways health care providers, insurers, pharmaceutical companies and other businesses rate consumers on their overall health. The danger with health scores is that they can be based on information consumers have volunteered themselves, which relinquishes any protections they might have had under the Health Insurance Portability and Accountability Act (HIPAA). For example, if you generate a personal health score from WebMD, you hand over health information about yourself, which the site can then market and sell to other companies.
+
+
+
+The Affordable Care Act’s Health Risk Score: It’s not uncommon for health insurers to assign different risk scores to individuals in order to determine how much to charge them for premiums. The Health Risk Score was implemented as a way to categorize consumers who enrolled in coverage under the Affordable Care Act. The score is an indicator of how likely people are to get sick and helps insurers balance the premiums offered under the ACA based on the riskiness of its pool of enrollees. Under the ACA, the health risk score will be phased out by 2018.
+
+
+
+FICO Medication Adherence Score (MAS): Predicts the likelihood that a patient will stick to their medication prescription plan, with a score of 0 (unlikely) to 500 (very likely). The score was created by analyzing prescription behavior of 600,000 anonymous patients to discern which key traits (employment, income, household makeup, etc.) could predict adherence to a medicine regimen.
+
+
+
+Why worry about consumer scores?
+
+
+
+Consumer scores by themselves aren’t necessarily nefarious. But with the amount of data being collected, marketed, sold and re-sold on a regular basis, any data breach could potentially put all that information into the wrong hands. And because we know so little about big data and how it’s being used, our information could be compromised without our knowledge.
+
+“I truly believe government agencies and businesses don’t want to pry on our personal lives, but all databases are hackable,” said Theresa Payton, author of “Privacy in the Age of Big Data” and former White House Chief Information Officer under President George W. Bush. “This data is a gold mine for cyber criminals.”
+
+
+
+In addition to security issues, because these scores aren’t readily available to consumers themselves, it can be difficult to correct or remove any erroneous information. That can cause problems, especially when it comes to scores that businesses use to decide whether we’re eligible for a particular service. For example, if a consumer has mistakenly been assigned a high fraud risk score, they could easily be declined for health insurance or new credit without ever knowing why. Those kinds of scores aren’t included on a credit history either, so monitoring your credit report wouldn’t do much to prevent it.
+
+
+
+Unlike credit scores, which have been regulated under the Fair Credit Reporting Act since 2004, many of these scoring models are so new to the game and so shrouded in mystery that no one quite knows how to regulate them yet.
+
+
+
+“The credit score as a controlled score has been very carefully observed and has a lot of oversight,” Dixon said. “The new scores don’t enjoy that same kind of protection.”
+
+
+
+The simplest solution would be for every company behind these scores to let consumers opt out. Whether that sort of pressure comes from regulators like the FTC and the Consumer Financial Protection Bureau is as yet undecided.
+
+
+
+In the meantime, you can opt out in as many places as possible by checking this list from the World Privacy Forum. We’ve also written an extensive guide to avoiding online tracking here.
+
+
+
+Have questions or concerns about big data? Drop us a line here.

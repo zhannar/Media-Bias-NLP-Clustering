@@ -1,0 +1,25 @@
+Hospitals' use of digital medication orders have dramatically reduced the number of dangerous drug errors, but their computer systems still fail to flag 13% of potentially fatal mistakes, a report released Thursday shows.
+
+Medication errors are by far the most common mistakes made in hospitals — and hospital errors are the third leading cause of death in the United States. Digital drug ordering is part of so-called "computerized physician order entry," or CPOE, which was designed to address the problem.
+
+"These findings show the transition from pen and paper to electronic ordering and prescribing is making patients safer — with the systems flagging nearly 9 in 10 possible errors," said Andrew Gettinger, a physician and chief safety officer in the Office of the National Coordinator for Health IT in an email. "But the report also serves as an important reminder to clinicians and the health IT community broadly that there is more work to do when it comes to our top priority: the health and safety of our patients."
+
+Research released in 1999 found CPOE reduced serious medication errors by 88%.
+
+Ninety-seven percent of hospitals use CPOE, thanks in large part to the stimulus bill of 2009. To receive the money, CPOE is required — and must alert about errors — in the electronic health records that the Affordable Care Act pushed doctors and hospitals to use. Many doctors have complained the records are too costly, time consuming and hard to use.
+
+Other critics have long charged that the systems lack the safeguards needed, such as to keep doctors from copying information from one chart to another either by mistake or to commit fraud.
+
+The new report by data analytics company Castlight Health and the hospital rating organization Leapfrog Group, suggests they're right. About 40% of the most common, serious errors overall weren’t caught.
+
+Electronic health records aren't required to be accurate, notes Reed Gelzer, a physician and records expert who co-leads two international standards development work groups on records systems.
+
+Other studies have shown a substantial number of potentially harmful errors are caused by inaccurate or otherwise defective patient information in the records, notes Gelzer. He says that can occur when systems default to boilerplate information that doesn't apply to a patient and doctors fail to notice, often because they "think it doesn't matter."
+
+For the new report, hospitals took a test with a set of what Leapfrog CEO Leah Binder calls dummy patients and dummy drug orders. After the hospitals' systems filled these test orders, reports showed what happened when they were filled, such as whether the system alerted that a mistake was about to be made.
+
+Steven Silverstein, a Philadelphia-area physician and former hospital chief medical informatics officer, was already a critic of electronic health records when his mother was seriously injured in 2010 because of them. He says she later died as a result of a critical heart medication being mistakenly stopped in a hospital due to electronic record problems. Silverstein, who now works as an independent expert witness in lawsuits, estimates there are dozens of lawsuits pending that involve medication errors.
+
+About a third of hospitals who took Leapfrog's test did not score "fully implemented," which means their systems didn't alert doctors about harmful drug errors. Potentially more problematic: Just over half of hospitals don't participate in Leapfrog's survey and several of those that do refuse to take the two-hour test that shows whether their systems would alert about errors.
+
+"It's not priority to them make sure their system works, which is a problem from the patient's point of view," says Binder:

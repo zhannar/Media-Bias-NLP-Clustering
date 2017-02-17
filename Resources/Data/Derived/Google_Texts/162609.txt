@@ -1,0 +1,69 @@
+There are a lot of arguments about net neutrality, and it can be confusing to sort through them all.
+
+But not when you realize it's actually one argument being made over and over again.
+
+See also: FCC and net neutrality: What you need to know
+
+In about a month and a half, the Federal Communications Commission is taking a vote that has major ramifications for the future of the Internet. Those rules will lay out how companies that provide Internet service can manage the data that travels between and through networks.
+
+A great deal is at stake, including the Internet as an open, fair and uncensored platform for communication, commerce and cat GIFs — and a lot of money.
+
+So much being on the line of a regulatory vote has naturally led to plenty of back and forth. One one side, the major telecommunications companies (and their industry organizations) along with anti-regulation Republicans are pushing back against plans that would change how broadband companies are regulated. On the other hand, major Internet businesses, Internet freedom organizations and pro-regulation Democrats, including President Barack Obama, have been mounting a campaign to get the FCC to go for the nuclear option — "reclassification" that would regulate broadband like a public utility.
+
+With the sides set, the debate has taken on a familiar pattern, regardless of the players. There's the thrust: Pro-net neutrality proponents make an argument that reclassification is a good thing and will benefit for consumers. Then there's the parry: Anti-net neutrality defenders say that this will not work and, in fact, make things worse.
+
+Here's a look at how that pattern has shaken out. (Keep in mind that these are only a few examples of the many arguments.)
+
+Netflix vs. Comcast and Verizon
+
+Thrust
+
+Netflix has claimed that Internet service providers are intentionally letting service deteriorate to force content providers to pay for specialized connections. The company has routinely stood by an argument that is central to net neutrality advocates — that it is the Internet providers' responsibility to do whatever is necessary to improve networks and deliver service. Netflix has been one of the most outspoken companies in its support of reclassification, arguing that it would prevent "fast lanes" from emerging.
+
+Parry
+
+Comcast and Verizon have both argued similar stances — that Netflix, which routinely takes up 30% or so of all bandwidth, has intentionally routed its traffic in an inefficient way, thus causing congestion that could easily be alleviated if only the content company would choose different pathways.
+
+Reclassification, the companies have claimed, will actually make Internet congestion worse. Broadband providers will be disincentivized to invest in their infrastructure, meaning things won't get better. In fact, as consumers use more data through streaming media, it will get worse.
+
+Google vs. the NCTA
+
+Thrust
+
+Google has said that regulating broadband like a utility will mean it gains greater access to telephone poles that would allow it to build out its super-fast fiber Internet. Giving consumers another option — especially one as good as Google Fiber — has been a big goal of FCC Chairman Tom Wheeler.
+
+Parry
+
+The National Cable & Telecommunications Association, a major lobbyist for the big telecom companies, says that's not the case, and reclassification will make gaining access to telephone poles more difficult. Google could get access if it wanted to but hasn't, AT&T told Ars Technica. A lawyer for the NCTA also told the publication that reclassification could mean the telephone pole hookups will be more expensive.
+
+The FCC vs. Republicans
+
+Thrust
+
+Wheeler has increasingly spoken as if the regulator will vote on the Title II regulation that has terrified the broadband industry.
+
+The chairman has taken no shortage of flak for his previous connections to the industry, including as head of the NCTA. His critics erupted in early 2014 when the initial plan for Internet regulation provided room for fast lanes. Since then, reports from sources inside the FCC have indicated that Wheeler has been seriously considering more stringent regulations than first considered, including reclassification.
+
+Parry
+
+
+
+As Wheeler's position changed, Republican opposition grew.
+
+Republicans have said that these regulations represent an overstep by the FCC that will do more harm than good. Senator Ted Cruz made among the most high-profile comments against net neutrality, which came before reports emerged that Wheeler's position might have changed:
+
+"Net Neutrality" is Obamacare for the Internet; the Internet should not operate at the speed of government. — Senator Ted Cruz (@SenTedCruz) November 10, 2014
+
+Numerous GOP politicians have said they will take steps to stop the FCC if it attempts to change how broadband is regulated. With Republicans now in control of the House of Representatives, there is growing talk of action that could address the FCC's vote or even introduce new legislation.
+
+Touché
+
+The back and forth provides the FCC and Wheeler with something of a roadmap to how to write its rules.
+
+There's no chance for Wheeler to completely please everyone, but there are growing indications that he's going to attempt a fix that would at least placate each side. It could look something like the hybrid approach that leaked in October.
+
+Wheeler's challenge boils down to figuring out how to reclassify broadband while exempting companies from some of the more onerous regulations of being a public utility. Wheeler recently hinted during a CES discussion that wireless regulation could provide something of a framework.
+
+If he can strike the right balance, it is conceivable that the Internet could finally have regulation that provides security for content creators as well as broadband providers. If not, the FCC will end up back in court for the third time, and the arguments from above will continue to be fought along the same lines.
+
+Have something to add to this story? Share it in the comments.

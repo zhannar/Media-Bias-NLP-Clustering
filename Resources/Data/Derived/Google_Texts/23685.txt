@@ -1,0 +1,29 @@
+American and British spy agencies have been working together to exploit flaws in popular antivirus software to conduct surveillance, according to documents published by The Intercept from the cache of government leaker Edward Snowden.
+
+Together, the National Security Agency (NSA) and its British equivalent, Government Communications Headquarters (GCHQ), have worked to reverse engineer these products, study them for weaknesses, and even track emails coming into top security companies that might be alerting them to new viruses and vulnerabilities, The Intercept reported.
+
+ADVERTISEMENT
+
+Many companies and individuals use antivirus and security software to protect their networks from criminal hackers and government snooping.
+
+But according to experts, the vast majority of the security products are far behind the security measures built into top browsers, such as Google Chrome, or document readers, such as Microsoft Word or Acrobat Reader. This makes antivirus software an ideal target for hackers.
+
+One company in particular that the U.S. and U.K. have apparently targeted is Kaspersky Lab, the Moscow-based security firm behind several major reports exposing government-backed snooping in countries like the U.S. and China.
+
+The company got specific mention in a GCHQ warrant renewal request from 2008.
+
+“Personal security products such as the Russian anti-virus software Kaspersky continue to pose a challenge to GCHQ’s CNE [Computer Network Exploitation] capability and [software reverse engineering] is essential in order to be able to exploit such software and to prevent detection of our activities,” the request said. “Examination of Kaspersky and other such products continues.”
+
+Software reverse engineering — essentially breaking down a program to determine how it works — is commonplace in the software developer community. It can also be used by security researchers to search for previously undiscovered vulnerabilities.
+
+According to a 2008 NSA document, the U.S. spy agency also had Kaspersky in its crosshairs. NSA researchers planned to intercept the sensitive information that Kaspersky’s software was sending back to the company's servers.
+
+In a statement, the company denied that this data could be used to hurt its customers.
+
+“The information is depersonalized and cannot be attributed to a specific user or company,” Kaspersky said. “We take all possible measures to protect this data from being compromised, for example through strong encryption.”
+
+The latest revelations come on the heels of Kaspersky announcing it had discovered an advanced attack on its own internal networks.
+
+“We’re quite confident that there’s a nation state behind it,” company co-founder Eugene Kaspersky said in a blog post.
+
+The company said the attack methods resembled the Stuxnet worm, a virus attributed to the U.S. and Israel that took down a significant portion of Iran’s nuclear program in 2009-2010.

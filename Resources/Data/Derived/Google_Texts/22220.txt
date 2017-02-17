@@ -1,0 +1,43 @@
+There are huge issues facing the U.S. health care system. (Photo: Igor Aronov, Getty Images/iStockphoto)
+
+PALO ALTO, Calif. — America is facing a crisis. One that has the potential to bankrupt our country and compromise the well-being of our 300 million citizens. Unsurprisingly, I am talking about the state of our health care industry.
+
+Consider the fact that the Affordable Care Act represents the first real major reform in decades. Or look at the disheartening data released by investor Mary Meeker: While U.S. per capita spending on health care is more than three times the OECD (Organization for Economic Co-operation and Development) average, our life expectancy and other health care indicators fall behind countries that spend far less.
+
+This is an industry mired in legacy software, poor workflow, and inefficient regulatory and administrative practices. It's estimated $765 billion is wasted in health care spending every year because of inefficiently delivered services. A study from the Institute of Medicine suggests 20% of patients' test results or medical records are not transferred in time, and 50% of adults have issues with care coordination and communication with their doctors. Most patients still aren't able to access their own medical records easily. And information sharing between insurance companies, providers and patients is, for the most part, abysmally bad, and costing the country billions in redundant tests and procedures.
+
+In short, modern healthcare isn't nearly modern enough.
+
+HEALTH CARE'S INNOVATOR'S DILEMMA
+
+The health care system and the technologies that power it are facing a classic "innovator's dilemma," one that cannot be addressed simply through improved policy measures. To paraphrase Harvard Business School professor Clayton Christensen, when a solution exceeds what most customers need, or eventually stops solving the problem altogether, it is ripe for disruption. The health care system has been falling short in solving every day workflow problems for some time now, and yet it's still not innovating to fix that problem.
+
+
+
+
+
+“Regulations and outdated ways of providing care end up dictating technology solution capabilities, rather than the other way around.” Aaron Levie
+
+Much of this stasis stems from the complexity of the health care industry. Regulations and outdated ways of providing care end up dictating technology solution capabilities, rather than the other way around. Health care solutions tend to silo the data they house because enterprise-based health care organizations themselves are siloed and not readily connected to the rest of the delivery system they work within. All of these practices reinforce and protect closed technology solutions from challengers that promote openness and information sharing. This leads to redundant tests and procedures, poor care coordination for patients, elevated costs and an environment where innovation is stymied.
+
+In almost every other industry -- from retail to transportation -- we've seen new business models and digital experiences emerge that challenge the status quo in their respective markets. We've learned that wherever there are counterproductive barriers, opportunity exists. And this couldn't be more true for the health care industry.
+
+BUILDING A MODERN HEALTH CARE SYSTEM
+
+Fixing health care is a problem we've often assigned to Washington, D.C., but it's not a problem that will be solved by Washington alone (see: healthcare.gov). Systems this complex are rarely transformed by insiders, and it's going to take pressure from the bottom-up and innovation from the outside to remake health care in America.
+
+Thanks to mobile and cloud technologies, health care can become more efficient and personalized. A wide array of new services and experiences become possible: hospitals can extend beyond their traditional patient network by leveraging tele-medicine and virtual consult; researchers can utilize big data for population health management, genomics and personalized medicine; and consumers can download smart phone apps that, when combined with wearable devices or sensors, can perform remote monitoring.
+
+There's already an explosion of start-ups in Silicon Valley and beyond tackling healtcare, ready to transform the industry from the outside in. Investment in health care start-ups has seen record growth, with $2.3 billion of funding in Q2 of this year alone.
+
+Start-ups like DICOM Grid, image32 and MedXT leverage the cloud to move big images – like x-rays – between disparate parties, smoothing the sharing between healthcare providers and patients. AthenaHealth, Practice Fusion, and drchrono are building cloud-based electronic health records (EHRs) to help doctor's do away with legacy-based practice software that has been expensive and highly customized. And as health care organizations and patients alike turn to the cloud, we'll see larger sets of data accessible to doctors, researchers, and scientists with services like Flatiron and the Human Diagnosis Project, ultimately making medicine programmable through platforms likeSolveBio and OneCodex.
+
+And digital transformation is also beginning to change the business model and service delivery of health care, from start-ups like Oscar Insurance, HealthTap and OneMedical to large academic medical centers like Stanford Health Care. Amir Dan Rubin, CEO of Stanford Health Care, describes this transformation as, "people want health and well being, they don't necessarily want office visits and infusions. They want to be able to access that anywhere."
+
+Zoomed out, there is still so much more work to do. We have passed the point of unsustainability in health care with ever-rising costs and waste, and we can either let the industry collapse into its status quo, or we can rebuild it. The outlines of a modern health care system are faint, but they're there. The capabilities are in place to make the industry far more mobile, collaborative, information-driven and consumer-facing.
+
+The Obama administration has taken the lead on pushing through legislation to increase access to care, and there's far more that can be done on the policy side. But there's a major role for the technology sector to play in transforming our health care system from one that lags behind its peers, to one that defines the future of health care innovation worldwide.
+
+Aaron Levie is co-founder and CEO of enterprise-software company Box. He is an investor in health care start-ups Flatiron, Oscar and Healthtap.
+
+Read or Share this story: http://usat.ly/1xmtNm3

@@ -1,0 +1,35 @@
+Could the ObamaCare website be another step down the rabbit hole of "Big Data" -- massive data-collection on American citizens? Some cyber-security experts say yes.
+
+In order to sign up for health insurance, the website HealthCare.gov requests enrollees to provide to the government PII -- personally identifiable information -- including date of birth, Social Security number and W-2 income information.
+
+According to the website's privacy policy, that information is shared among many government agencies, including the IRS, Social Security Administration and Department of Homeland Security.
+
+The purpose of sharing data is to verify an enrollee's income and immigration status. But David Kennedy, president of Internet security company TrustedSec, says it's another porthole for the government to find out more about the population.
+
+"This is just another validation point that if the government has that information, they're going to use it or other purposes, not just for the actual medical field or for your health care benefits," Kennedy told Fox News.
+
+It doesn't help that "source code" in the website's Terms and Conditions (which isn't on the main Terms and Conditions page) reads:
+
+"You have no reasonable expectation of privacy regarding any communication or data transiting or stored on this information system."
+
+According to a recent AP/University of Chicago poll, 58 percent of people already think the government is doing a "poor" job at protecting their right to privacy. But another section of the source code sent an even more chilling message.
+
+It says: "At any time, and for any lawful government purpose, the government may monitor, intercept, and search and seize any communication or data transiting or stored on this information system."
+
+Government snooping on the ObamaCare website certainly raises alarms. But Kennedy says even more concerning is that -- according to his research -- HealthCare.gov is riddled with holes in security.
+
+"We can look at the code that's behind it," Kennedy told Fox News, "look at how things work. And we can tell that there wasn't even minimum standards bolted onto this application, even before its release."
+
+The website has made some cosmetic changes. Users can now browse for very rough cost estimates for health insurance without giving up personal information. But when Fox News tried to do the same thing on the ObamaCare hotline, an operator said she needed: "Your name, you date of birth, your mailing address, the amount on your W-2 form ... your Social Security number and couple of phone numbers."
+
+Christopher Rasmussen, policy analyst with the Center for Democracy and Technology, wrote last week about the need for anonymous browsing. He says the fact that the telephone hotline still requires PII in order to review health plans is a problem.
+
+"To ask an applicant for Social Security number, sensitive information until they're absolutely ready to apply for a particular plan, uh, should not happen," Rasmussen told Fox News.
+
+The government insists privacy of enrollee's information is a top priority. Health and Human Services Administrator Marilyn Tavenner told a congressional hearing, "They can trust that the information they're providing is protected to the highest privacy standards."
+
+Kennedy disagrees. He said the government's prime focus has been on fixing the availability and functionality of the website. When all your attention is spent working on the front porch, it's easy for someone to slip in the back door.
+
+"If I was allowed to attack the website by myself and I had approval to go and do it," he told Fox News, "it would be very simple for me to break into it, steal all that information that's in the database including all of your personal information that you used to register for the site, Social Security numbers -- everything like that."
+
+John Roberts joined Fox News Channel (FNC) in January 2011 as a senior national correspondent and is based in the Atlanta bureau.

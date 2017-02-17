@@ -1,0 +1,7 @@
+Topics: bug, Computers, data, Hacking, heartbleed, security breach, technology, Video, Innovation News, Technology News
+
+On Monday, a major Internet security flaw was discovered and publicly disclosed. The technical defect, deemed “Heartbleed,” has been around for nearly two years, and affects up to 6o percent of the Internet. The flaw is in the online security protocol OpenSSL (Secure Sockets Layer).
+
+The video below was made by Zulfikar Ramzan, an MIT Ph.D. and CTO of cloud security firm Elastica. It explains the terrifying bug that leaves your data exposed. Be warned there is a fair amount of technical jargon, but it is well worth the watch to understand why this security breach is so serious.
+
+Users may not even realize they are using OpenSSL. (For astute observers it is when websites use the “https” address, and a lock appears next to the address.) OpenSSL encrypts your data, including passwords, personal information, when it travels to a server. This is supposed to keep hacker eavesdropping out.

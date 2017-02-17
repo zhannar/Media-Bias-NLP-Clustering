@@ -1,0 +1,27 @@
+A man looks over the Affordable Care Act (commonly known as Obamacare) signup page on the HealthCare.gov website in New York in this October 2, 2013 photo illustration.
+
+The Obama administration said on Monday it was fixing software and capacity problems at the main website designed to enroll millions of Americans into new health plans.
+
+The HealthCare.gov website has been beset by glitches since October 1, the first day people were allowed to enroll in the new coverage provided by the Affordable Care Act, commonly known as Obamacare.
+
+The website, which serves insurance exchanges in 36 states, received 8.6 million unique visitors last week, according to the federal government.
+
+"Our top issue when it comes to the glitches has been the extraordinary number of people coming to check out plans and find out more about Obamacare. The number has obviously exceeded expectations," White House spokesman Jay Carney said at a news briefing.
+
+"To make further improvements, we are doing several things at once, including adding server capacity and making software changes to make the system more efficient to handle higher volume."
+
+IT experts told Reuters last week they believed flaws in the system's architecture, not traffic alone, contributed to the problems of the first week.
+
+One expert told Reuters the site's design triggered too many requests to the server simultaneously, which created a situation similar to when hackers attack a site, known as a distributed denial of service attack.
+
+Carney said a particular component of the system within the account registration function was not able to handle the high volume, causing problems for consumers at the registration process.
+
+The Centers for Medicare and Medicaid Services, "has put up a gate at the front end of the system that places visitors into a waiting room and lets them in at a particular pace, so that the surge in volume does not cause the problems that it caused in the past," Carney said.
+
+"Thus far, we've reduced waiting room times by a third and are increasingly moving more users through the system, but we're not satisfied with the performance."
+
+In response to the early glitches, supporters of the law have pointed to the fact that enrollment in the online healthcare exchanges is set to run through the end of March, allowing for several months to work out the kinks.
+
+Including separate websites run by individual states alone, the exchanges are expected to enroll 7 million Americans next year, according to Congressional Budget Office estimates.
+
+(Additional reporting by Roberta Rampton in Washington. Editing by Andre Grenon)

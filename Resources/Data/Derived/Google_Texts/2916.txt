@@ -1,0 +1,73 @@
+Secure communications in a healthcare environment can serve as a foundation for better communications, collaboration leading to cost savings. Recently, I had a chance to speak with Tom Samuels, chief financial officer of Quality Independent Physicians (QIP) in Louisville, Ky. QIP is an accountable care organization. The company was having issues communicating patient care schedules to physicians and physicians offices in their network.
+
+He gave me an overview of a mobility initiative they have going on built around Red e App that gives network-wide access to content, important enrollment documentation, and procedures. Introducing Red e App at QIP provided an open and dedicated channel of communication to exchange files, images, and messaging that is trackable and measurable. Above all else, patient care and attention is optimized, partner communications is consolidated, and all data is secure.
+
+Red e App is a private messaging app that hadn't hit my radar until I spoke with Samuels. However, Connor Forrest wrote about the company for TechRepublic back in February 2014. The company focuses on non-desk employees, and one of their target verticals is the healthcare market. The Red e App product offers:
+
+Health Insurance Portability and Accountability Act (HIPAA) compliant communications
+
+Real-time and secure employee-to-employee messaging
+
+Active Directory (AD) integration
+
+Healthcare staff communications in the age of ACA
+
+"QIP is an entity that was created back when the Affordable Care Act [ACA] came out," according Samuels. "We created what's called an accountable care organization. We have a contract with CMS Medicare where if we can save money for the Medicare system, our physicians get 50% of any savings we generate."
+
+Samuels explained that QIP uses care coordinators to manage the care of Medicare beneficiaries assigned to them. He further explained to me that the care coordinators are embedded in the physicians offices and their goal is to reach out to some of the more high-risk patients to make sure they are taking their medication and staying current with prescribed treatments.
+
+"And then the care coordinators need to communicate back to the physicians or the nurse practioners in the offices what's going on with these patients," Samuels explained.
+
+Samuels explained that before Red e App, the care coordinators were out in visiting patients in hospitals or in their homes. The only way the care coordinators could communicate back to the practices securely was to fax information back to the office and then wait for the doctor to respond back to us. We really couldn't call the doctor because the doctor would be seeing patients in the office.
+
+"So we were looking for another tool that was quick and easy and we looking at bunch of different communications apps," Samuels recalled. "We came across Red e App and we felt like it solved a lot of communications problems. It's just a simple application, strictly for communications."
+
+Samuels told me that the company looked at a couple of other apps for secure communications, but they were more focused around patient billing and had too many bells and whistles.
+
+"We just thought Red e App was easy, simple, and the doctors could gravitate and use it on their cell phones and smartphones," according to Samuels.
+
+He added the Red e App includes a web portal application that enables office managers to send secure files that include patient health information (PHI).
+
+"For example, we have members enrolled in our ACO," Samuels explained. "We could send a listing to the practices and say 'Hey, these are new members in the ACO, you need to get them in for their annual wellness visit. You need to get with them and do thing with them.' When before you would have to fax it, or hand deliver it to the offices. It made for easier communications for us."
+
+"To be honest with you, I didn't think the doctors would do it," he confessed. "I thought we would have a low adoption rate but I've been surprised because almost all of our doctors are on Red e App. It's been a good way to connect and communicate."
+
+Samuels' thoughts about the adoption of new technology by their doctors fits with what I've learned when writing previous healthcare IT articles.
+
+At QIP, topics around the Red e App became part of the monthly committee meetings the ACO has with its doctors. The talks around Red e App adoption amongst the doctors included super users and covered:
+
+Importance for HIPAA compliant communications
+
+Demonstrating how to install the app on Doctor's phones
+
+If needed, somebody installed the Red e App on the doctor's phone during or after the meeting.
+
+"It was a little eye opening because had some doctors say," Samuels said. For example, QIP had some doctors who would text (unencrypted) their specialist about patient.
+
+"That's a HIPAA violation," Samuels said. "Some of these doctors were clueless and didn't know."
+
+"You can still do that through Red e App and be secure," Samuels noted.
+
+"A lot of the doctors, once they learned texting was a HIPAA violation, then that gave them a little bit of motivation to jump on board," Samuels recalled. "They liked the fact that Red e App is private, and they were not giving away their cell phone numbers."
+
+Device security
+
+QIP works with independent and practice-based physicians so the Red e App is being installed on doctor's business and personal smartphones. Security was a little bit of an issue for the Red e App implementation according to Samuels.
+
+"We had them sign an agreement that they understood that if they lost their cellphone they had to notify us immediately," Samuels said.
+
+"Our only security concern is if they lose their phone and don't tell us then that's a bit of security risk they were running," Samuels said. "Anytime a phone is lost we can always wipe out their administrative profile and that clears the app off that phone."
+
+Bring Your Own Device (BYOD) can be a challenge in a healthcare environment and QIP shows how supporting doctor's personal mobile devices could happen.
+
+Lessons learned
+
+On the subject of lessons learned, Samuels mentioned to me they learned you couldn't rely on doctors solely to load the app on their phone. They found some of the older doctors struggled with the onboarding, creating a password and connecting to the QIP network so that they are part of the network.
+
+There were a couple of revisions to the Red e App on iOS and Android that led to another lesson learned around communicating to the doctors that you need to download the new version of the app.
+
+Some doctors also had older iPhones that couldn't support Red e App making another lesson learned around having to get those doctors to upgrade their iPhones.
+
+Final thoughts
+
+Red e App and mobile devices are making a difference in how this ACO communicates, collaborates, and works with patients under their care. If only more ACA-related technology projects started small like this Red e App implementation there might be less money wasted.

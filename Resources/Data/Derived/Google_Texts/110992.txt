@@ -1,0 +1,39 @@
+The Center for Migration Studies unveiled a new database this month of illegal immigrants broken down at national, state and sub-state levels. The data can be downloaded, but the website also includes tools that allow users to search by states or so-called public use microdata sample areas. PUMAs are geographic areas defined by the U.S. Census Bureau that divide the country into areas of at least 100,000 people.
+
+Check out the maps–and try clicking and dragging over a series of areas, or clicking on them separately; the tool will aggregate the data for you. Use the tabs at the top of the page to switch from states to PUMAs.
+
+The database includes estimates produced by Robert Warren, which he derives from the U.S. Census Bureau’s American Community Survey. Mr. Warren is a senior visiting fellow at CMS, but he previously directed the statistics division at the former Immigration and Naturalization Service and was a demographer at the Census Bureau, where he helped pioneer a technique called the residual method to count undocumented immigrants.
+
+Learn more about the residual method in this week’s Numbers column. That method is used today by the Department of Homeland Security and others to estimate the number of undocumented immigrants living in the U.S., but for his latest work, Mr. Warren takes a different approach.
+
+To get down to smaller areas of geography and with greater demographic detail, his new work makes use of the Census microdata, which includes individual responses on topics such as relationship, sex, educational attainment and employment status.
+
+“I believe these estimates are unique and important in a number of ways,” Mr. Warren said. “They are unique in just the sheer amount of detail that they show for such small geographic areas. They are also the most up to date estimates available.”
+
+Among his findings at the national level:
+
+About two-thirds of unauthorized residents have access to a computer or the Internet
+
+More than one-quarter have some college credits or a college degree
+
+55% speak English well or very well
+
+The unemployment rate among undocumented immigrants is about 8%, a bit higher than U.S. rate
+
+About one-third have health insurance
+
+72% earn an income above the national poverty level
+
+Using the dataset, this type of information can be broken down by smaller geographies, and Mr. Warren and CMS hope government officials, scholars and others will use the data to better understand the communities they serve.
+
+To develop the new database, Mr. Warren reviewed individual microdata records to identify likely unauthorized immigrants. The methodology involved three major steps:
+
+Applying a series “logical edits” to identify and remove as many legal residents as possible based on responses in the survey
+
+Deriving separate population controls for 145 countries or areas for unauthorized residents counted in the 2010 ACS
+
+Using those population controls to make final selections of individual respondents in the ACS to be classified as unauthorized residents.
+
+“We started with all noncitizens who entered after 1981, removed the ones judged to be legal residents, adjusted the results to country-by-country estimates, and, finally, adjusted those numbers for undercount to arrive at the total number of unauthorized immigrants,” Mr. Warren said.
+
+The full explanation of his methodology is online. Data for 2012 and 2013 are available on the CMS website, and Mr. Warren expects to make 2014 data available later this year.

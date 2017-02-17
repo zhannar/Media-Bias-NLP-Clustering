@@ -1,0 +1,31 @@
+In The Arena Who Needs HealthCare.gov?
+
+Dr. Stephen P. Morse is an independent IT consultant from San Francisco. He has worked in the computer industry for more than 40 years, building hardware and software for many well-known tech companies. He has never been an employee of the Centers for Medicare & Medicaid Services, the Department of Health and Human Services or any of the other federal agencies involved with building the federal health care exchange website.
+
+But they sure could use him.
+
+Story Continued Below
+
+Like most Americans, Morse watched with bewilderment as HealthCare.gov promptly crumbled after launching last month. He already has health insurance, but he wanted to see what all the fuss was about. So he logged on and tried to compare his coverage options. No surprise: He couldn’t.
+
+So what did he do? He built his own HealthCare.gov.
+
+In the weeks since Oct. 1, Morse has done what it seems the federal government could not. He built a simple, user-friendly, anonymous shopping tool that compiles pricing information from all of the plans on the state and federal health insurance exchanges and provides custom, premium readouts according to age, location, tobacco use and income.
+
+Sound too good to be true? Try it out for yourself here.
+
+And Morse’s isn’t the only HealthCare.gov alternative out there. ValuePenguin.com, a start-up consumer finance website, has an even more elegant anonymous shopping tool that lists premium and subsidy calculations along with cost-sharing options that can be compared across plans.
+
+With open enrollment looming last summer, the website’s team of three young entrepreneurs sensed a ripe opportunity to get ahead of the Obamacare curve. They decided to build their own health insurance window-shopping tool before the federal exchange rolled out, and post information about plans in each state as it became available to give people a sense of what was coming.
+
+They finished, tested and launched their own shop and compare tool on June 18—three and a half months before the start of open enrollment. It took them about a day to write the necessary code and less than $2,000 to build and maintain the site. Unlike the multi-million dollar HealthCare.gov behemoth, it has actually been a tremendous success. By Oct. 2, ValuePenguin had information available for all 3,500-plus plans in all 50 state exchanges, while offering a much better user experience than HealthCare.gov. No glitches to speak of.
+
+Of course, comparing a simple anonymous shopping tool to an entire federal or state-based exchange isn’t an apples-to-apples comparison. The actual exchanges have to perform many other complicated tasks, like verifying consumers’ identity, citizenship and income with other government agencies, synthesizing that information with plan selection to determine subsidies and generating complete and accurate enrollment forms to share with insurance carriers. That’s not easy.
+
+But the success of Morse’s site and ValuePenguin proves that aggregating insurance information and presenting it in a clear, comprehensible fashion isn’t exactly complex rocket science. It isn’t even complex computer science. As Jonathan Wu, ValuePenguin’s 32-year-old CEO told us, “Of all the functions on the exchange, calculating premiums and displaying the relevant plans is probably one the easiest. … Based on our experience building the tool, I'm pretty confident any competent developer, let alone a team of developers, should be able to put a working version together in less than a few days.” That makes this week’s testimony from CMS Deputy Chief Information Officer Henry Chao—about how HealthCare.gov’s anonymous shopper feature “failed so miserably we could not consciously let people use it”—all the more disconcerting.
+
+The administration needs to put an accurate, easy-to-use anonymous shopping tool up on the front page of HealthCare.gov—yesterday. The tool on the front page of the website now, which only provides quotes for a 27- or 50-year-old and doesn’t offer any cost-sharing or benefit details, just doesn’t cut it. When individuals and families can go online, browse through their coverage options and see the new benefits for which they are eligible, they will be more likely to give Obamacare a chance—even if the back end of the website doesn’t let them enroll immediately. If they remain in the dark, however, scaremongering from congressional Republicans will continue to fill the void.
+
+Ultimately, the anonymous shopping problem, along with the other problems on HealthCare.gov, will get fixed. If ValuePenguin.com can do it, so can the federal government. But in the meantime, consumers who just want to window shop on the exchanges can check out the user-friendly alternatives. Because when it comes to window-shopping anonymously for health insurance online, who needs HealthCare.gov?
+
+Andrew Steinmetz is senior research assistant in the Department of Medical Ethics and Health Policy at the University of Pennsylvania. Ezekiel Emanuel is vice provost of the university and chairman of the department.

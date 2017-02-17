@@ -1,0 +1,39 @@
+Federal auditors are blasting a decade-in-the-making government computer system that was supposed to simplify the immigration application process and improve national security.
+
+The so-called “Transformation Program” the Department of Homeland Security conceived in 2005 should have transformed paper-based transactions into online forms years ago.
+
+But because DHS has reversed course on software development strategies, the initial $536,000 effort faces a $3.1 billion price tag and a March 2019 rollout, according to a newly released Government Accountability Office report requested by a slate of bipartisan lawmakers.
+
+By contrast, computer systems for HealthCare.gov, the once-beleaguered Obamacare portal, cost $840 million, according to GAO.
+
+Today, DHS U.S. Citizenship and Immigration Services casework still mainly is handled using file folders, and website developers already have exhausted $2.6 million.
+
+Because of the setbacks, Homeland Security has not attained its vision of using IT to increase throughput; enhance customer service; and sync with other departments' databases to identify potential terrorists, the audit found.
+
+The wait means "USCIS has yet to achieve the goal of enhancing national security by authenticating users and integrating with external agency databases," at, among other places, the departments of State and Justice, said Carol Cha, GAO director of IT acquisition management issues, in the report.
+
+She added, "Having an efficient system to process immigration benefits and citizenship requests in a timely manner and accurately identify fraudulent and criminal activity is essential for ensuring the integrity of the immigration process.”
+
+The website, called ELIS, currently can manage only four transactions. The White House has called in a digital fix-it crew to work on key parts of the system, named after Lady Liberty’s home -- Ellis Island. In February, GAO auditors deemed ELIS a "high-risk" IT project for wasting money and failing to demonstrate it can meet any system requirements.
+
+The new audit found that the Office of Management and Budget, foreigners -- who fund the system through application fees -- and citizens have had little visibility into its pitfalls.
+
+On the IT Dashboard, an official government website that tracks major federal computer investments, “assessments of the Transformation Program reflected unreliable and, in some cases, inaccurate information," Cha said.
+
+The most recent IT Dashboard rating from June 2014 scored the program as a category 3, medium-risk investment, which is an improvement from the February 2014 rating of 2, moderately high risk. The assessment states the program went through a rebaselining and that an operational analysis of USCIS ELIS was completed in August 2013.
+
+In actuality, the schedule experienced a more than four-year delay and the agency did not rebaseline the program to bring it back within cost and schedule thresholds until last month, when GAO was putting the finishing touches on its report, Cha said.
+
+Without timely and correct data, the agency's ability to steer the program forward might be limited, she said. Also, "it risks reporting information on the federal IT Dashboard that is inaccurate or otherwise misleading, thus limiting OMB and congressional oversight," Cha said.
+
+DHS officials say they anticipate realistic information will be posted by Dec. 31.
+
+To date, ELIS provides applicants the ability to renew or replace a green card. ELIS users also can electronically file I-526 or I-539 forms for obtaining an investor-conditional green card or extending a stay as a nonimmigrant, respectively. People can also pay USCIS immigrant fees through the system. Commercial enterprises can exchange documents with immigrant entrepreneurs seeking legal residency, via ELIS' Regional Center Document Library.
+
+Transformation, through the years, has undergone several overhauls to address funding and schedule concerns, including a shift from developing features all at once to an "agile" development approach that releases software in pieces to make sure each function works. The agency also switched from using a single contractor to a group of several vendors.
+
+Each of these moves bumped back full system deployment, which, according to the auditors, has dented predicted cost savings. In fiscal 2014, the tab for maintaining outdated systems that ELIS should have replaced was about $71 million.
+
+In an April 29 DHS letter responding to a draft audit, department officials said the project would have churned through more dollars and years if the agency had not changed gears.
+
+"If USCIS had continued to pursue the same acquisition strategy that had provided for limited capability," wrote Jim Crumpacker, director of the DHS GAO liaison office, "the program would have far exceeded initial cost estimates and schedule. The department does not believe that GAO adequately considered the potential benefits and lower risks that resulted from revising the acquisition strategy for the program."

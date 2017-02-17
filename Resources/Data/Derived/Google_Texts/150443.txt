@@ -1,0 +1,9 @@
+LastPass
+
+The cross-platform password manager LastPass now will check your saved sites to see if they're affected by the Heartbleed encryption vulnerability that's been plaguing the Web for the past two days.
+
+The feature update saves you the trouble of going to a Heartbleed site checker like the ones offered by LastPass or Qualys, and also provides clear instruction to LastPass users on which of their sites are safe and which have to be updated. It's available to existing and new users of LastPass' password management system.
+
+The Security Check lets you know if the site certificate has been updated and then provides a link to a site to help you update your password for the site. It will also indicate if you should wait before updating your password, or if a site and your password are not at risk.
+
+You can run the check in three ways. It works from your desktop browser either by tapping the service's add-ons Tools option and choosing Security Check, or logging in via the Web site and choosing Security Check from the left column. It's also available on the LastPass mobile app's options menus.

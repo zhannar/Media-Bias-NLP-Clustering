@@ -1,0 +1,19 @@
+Over the weekend, the Department of Health and Human Services posted an apology/action plan on the Affordable Care Act. "Our team is bringing in some of the best and brightest from both inside and outside government to scrub in with the team and help improve HealthCare.gov," they promised.
+
+Right. So, two things on that.
+
+The first, as Matt Yglesias notes, is that "The Best and the Brightest is about how a bunch of smart guys blundered the country into the Vietnam War. This is not the reference you want to make when launching your ambitious initiative."
+
+Pedantry aside, the line raises a good question:
+
+The Obama administration should have figured out a way to tap the tech world's "best and brightest" from the beginning. But at this point, there's really no way for Silicon Valley to come in and save HealthCare.gov.
+
+The key coordinator -- which not only oversaw CGI Federal but all the other contractors building the site -- was the Centers for Medicare and Medicaid Services, and in particular, their IT department. But CMS didn't have the technological expertise to carry out this role -- and they still don't. The New York Times reports:
+
+One major problem slowing repairs, people close to the program say, is that the Centers for Medicare and Medicaid Services, the federal agency in charge of the exchange, is responsible for making sure that the separately designed databases and pieces of software from 55 contractors work together. It is not common for a federal agency to assume that role, and numerous people involved in the project said the agency did not have the expertise to do the job and did not fully understand what it entailed.
+
+The obvious question is why is CMS still in charge? The most popular suggestion I've heard for fixing the federal health-care exchanges is for President Obama to reach out to a buddy in Silicon Valley, or tap his campaign tech people, to come in and manage the project. It's a nice thought, but an unrealistic one.
+
+HealthCare.gov is monstrously complex. The Times reports that there's more than 500 million lines of code -- of which more than 5 million lines may need to be rewritten. And that code is interfacing with computer systems (and computer code) at the Internal Revenue Service, the Social Security Administration, state Medicaid systems, insurers like Aetna, and more. Even the best programmers would have trouble figuring out what's going on -- much less what's going wrong -- quickly.
+
+The truth is that the Obama administration is, to a much greater extent than it would like, dependent on the very people who built HealthCare.gov to fix it. They're the only people who know what's going on inside the system.

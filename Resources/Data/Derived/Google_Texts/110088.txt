@@ -1,0 +1,39 @@
+The first refrigerator connected to the Internet was in a wired 100-year-old house in the Netherlands, where it existed alongside networked lights, doorbell, mailbox, and, yes, even a toilet. The refrigerator went online on July 12, 1998, and it’s still there. All it does is record and broadcast every time the fridge door opens. As of this writing, its owner, Alex van Es, has opened it almost 70,000 times in the last 16 years. Call it the Quantified Fridge.
+
+Outside of the pure voyeuristic novelty, there’s not a lot of value from this information. It’s certainly not life altering, and it’s certainly not going to lead to everyone’s favorite new design pastime: behavior change. Not all data is created equal, and certainly not all of it is meaningful to collect and display. I’m pretty sure the number of times a refrigerator has been opened falls into this category.
+
+Dan Saffer About Dan Saffer is a Creative Director at Smart Design, Dan leads teams in creating new interaction paradigms across a wide range of products, spanning both digital and physical. He is the author of Microinteractions. You can follow him on Twitter at @odannyboy.
+
+However, one valid reason to put something on the Internet is to check its status. What is this object doing, and is that good or bad? How much energy/resources/time is it consuming? Is something broken? Connecting sensors to the right internal components and sending that data online where it can be viewed via an app or web page is a way of giving you x-ray vision. But the emphasis here is on “right.” I probably don’t care how many times the fridge door has been opened, but I do care if the compressor breaks and everything in my freezer starts melting.
+
+And that’s the second reason to put anything on the Internet: to be able to adjust it if something is wrong. If I get an alert that the temperature inside my refrigerator is suddenly rising, it would be great to be able to do something about it: attempt to fix the problem right there, order a new part, or replace the device with a new one. You could summon a repairman to come fix it.
+
+This kind of connecting of objects to services is the third reason to connect something to the Internet: to easily engage resources outside of the object to improve, fix, or extend the object. If my dishwasher runs out of detergent, reorder it or add it to my shopping list.
+
+The Wrong Way to Connect Appliances
+
+Connecting your refrigerator to your shopping list has been a dream of manufacturers since the first commercial Internet fridge launched in 2000 by LG. But do you—does anyone—want to scan bar codes as they put food into their so-called “smart” refrigerator?
+
+What connectivity shouldn’t do is turn you into a slave to your devices, constantly monitoring them or, worse, feeding them data. Don’t make me answer questions or alerts unless they are dire. But these are not successful arguments against connectivity, since they are design problems that can be solved.
+
+Problems that Internet-connected appliances must resolve:
+
+• You don’t want to remove physical controls: In the early dawn light, as you groggily stand in front of your coffee machine, do you want to find your phone and launch an app so you can get your morning caffeine fix? No you do not.
+
+• You don’t need to run general-purpose apps: “Hey, I’ve got a few minutes. How about I use the screen on my stove to surf Facebook?” said no one, ever.
+
+• You don’t need irrelevant data: Knowing how many gallons of dishwashing detergent I’ve used over the years? Fascinating stuff.
+
+• You don’t want unrelated data collected and sold: I don’t want my appliances spying on me, or even suspect that they do. Observe me and my patterns, yes. Spy on me, no. And there’s a big difference. Spying involves giving away private information (secrets) to people I don’t want to know them. If you are using information from my dishwasher to upsell me life insurance, that’s intrusive. It feels creepy in a way that knowing I’m out of detergent and offering to buy more does not.
+
+Even if all of this get solved, why bother put your refrigerator on the Internet? Especially if hackers could turn it into a spam machine? So it can be smart.
+
+The Right Kind of Smarts
+
+Smart appliances humbly predict our needs and modestly adjust as little as possible to accommodate them. This sometimes requires connecting to the network for a better, bigger brain or to draw upon the collected intelligence of similar objects. You don’t need to stuff lots of processing power and memory into the object itself if it can use resources in the cloud. Imagine if your refrigerator could learn how to keep food cooler more cheaply by looking at the data from other refrigerators in the area? Collective machine intelligence and the benefits it could engender such as fixing model-specific problems and product efficiency are good reasons to enable network connectivity.
+
+We can also have a conversation with smart appliances. They can tell us what they’re up to when we ask, or tell us something’s wrong when it’s essential. They can observe our lives and provide small insights we don’t even notice. They can talk to other appliances, and pass along helpful information, the way that Nest Protect will tell the Nest thermostat to shut off the furnace if it detects carbon monoxide.
+
+We can have a new relationship with our appliances, one where the previously mute boxes of plastic and metal become new platforms—not for apps, but for meaning and value. By learning how we use them and how we live our lives, they’ll be able to provide services to us we can’t see right now. They’ll set themselves up and fit into the existing household by knowing what—and who—is there and adapting to them. Appliances will grow and change with you and the house.
+
+Connectivity, just like installing a microprocessor was decades ago, has to be a means to an end: more effective, more efficient, more resilient, more transparent, more powerful, more interesting, more enjoyable, more adaptable products.

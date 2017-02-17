@@ -1,0 +1,31 @@
+Nobody likes getting robo-called. But in an effort to protect Americans from the deluge of unwanted advertising and political recordings they receive, pollsters fear the federal government may have just dealt a fatal blow to the survey research industry as we know it.
+
+Per a story from The Des Moines Register:
+
+The Federal Communications Commission voted Thursday on a slate of increased restrictions on telemarketers who use robo-calls and auto-dialing. ... Among the new rules, the FCC said phone companies can start providing call-blocking technology to their customers without violating federal laws. FCC officials have said robo-calls are a top generator of complaints to the agency. Last year, the FCC said it received more than 215,000 complaints about unwanted calls.
+
+The move was no surprise. FCC Chairman Tom Wheeler announced in May that new rules were on the way. But what he called "another win for consumers" a number of prominent pollsters saw as "an existential threat," Politico's Steven Shepard reported at the time.
+
+FiveThirtyEight's Nate Silver reacted with frustration, writing that "the FCC probably ought to go back to policing 'wardrobe malfunctions' and not making pollsters' jobs any harder."
+
+The source of the conflict is the difference between a robo-call and an auto-dial. The first, which anyone who's ever spent time in a swing state during an election year is all too familiar with, simply plays a recorded message when someone answers a call.
+
+The second is an integral part of how modern telephone polling works. Via last week's HuffPost Pollster newsletter, auto-dialing happens when "a computer system dials pre-loaded phone numbers and waits until a live-person picks up the phone and says 'hello' before routing the call to a live interviewer." The survey is still administered by a human, but rather than having to manually type in each respondent's phone number, one at a time, then wait while it rings to see whether anyone will even answer, this system makes trying to reach hundreds or thousands of people—fewer than one-in-ten of whom will end up being interviewed—a whole lot more efficient.
+
+If the FCC's rule change forces pollsters to hand-dial every single number, it will take significantly more man-hours (and therefore cost significantly more money) to conduct even basic surveys. This will lead to fewer polls overall—and as Silver points out, fewer polls means less information about the population's views on various issues of national importance.
+
+Here's the thing: Contrary to the way this vote is being described in the press, the FCC isn't actually imposing new regulations on pollsters. What it's doing is clarifying that telephone service providers are in fact allowed to use robo-call- and auto-dialer-blocking technologies if subscribers ask for them.
+
+From an FCC press release:
+
+In a package of declaratory rulings, the Commission affirmed consumers’ rights to control the calls they receive. As part of this package, the Commission also made clear that telephone companies face no legal barriers to allowing consumers to choose to use robocall-blocking technology.
+
+In other words, the ruling empowers consumers to make use of new "market-based solutions" intended to help them screen out calls—including most (though not all) calls that originate from an auto-dialer if that's what they want.
+
+There's no doubt this rule, if people take advantage of it, is bad news for pollsters. But the real problem the industry faces is not government giving people permission to use the commercial products of their choosing. Ultimately, the problem is that people can't be bothered to take polls.
+
+Given the option to screen out numbers they don't know, a growing subset of Americans are already doing just that. People aren't willing to give up even a small amount of their time for the "greater good" of making public opinion known. It's obvious that the masses just don't share Nate Silver's impassioned conviction that polling is "essential to understanding public opinion on a host of issues that people never get a chance to vote upon" and that "without accurate polling, government may end up losing its most powerful tool to know what the people who elect it really think."
+
+Perhaps in the future new forms of opinion taking, from web-based surveys to social media analytics, will take the place of traditional phone-based polling research. Perhaps the inability to reach large numbers of people via landline will spark the polling industry itself to develop innovative approaches for measuring what people think. Or perhaps pollsters will manage to persuade Americans that answering surveys—and electing not to block the auto-dialers that currently make those surveys possible—is an important civic duty, just as the majority of people believe voting is.
+
+I don't know what the solution is. But using the threat of legal sanction to stop companies from giving their customers what they're loudly demanding definitely isn't it.

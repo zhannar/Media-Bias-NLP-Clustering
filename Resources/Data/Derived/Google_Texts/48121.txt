@@ -1,0 +1,21 @@
+The use of Twitter in healthcare has already shown beneficial uses in tracking risk for heart disease and for medical research, but a new study from the Perelman School of Medicine at the University of Pennsylvania found that tweets are also associated with an increase in state-level enrollment in health insurance marketplaces established under the ACA.
+
+Researchers tracked the sentiment of tweets – the positivity or negativity – and determined they can work as a “real-time gauge of public opinion” that could provide a way for those marketplaces to quickly identify enrollment changes and emerging issues.
+
+The study examined nearly a million ACA and Obamacare-related tweets — along with those directed toward the Twitter handle for HealthCare.gov and the 17 state-based marketplace Twitter accounts — in March 2014.
+
+It then tested a correlation of Twitter sentiment with marketplace enrollment by state. Tweet sentiment was determined using the National Research Council sentiment lexicon, which contains more than 54,000 words with corresponding sentiment weights ranging from positive to negative.
+
+Advertisement
+
+Examples include “excellent” having a higher positivity than “good,” and likewise with “bad” and “awful.”
+
+With the lexicon identified, researchers found a .10 increase in the sentiment of tweets was associated with a nine percent increase in health insurance marketplace enrollment at a state level. That may seem small, researchers noted, but the numbers “indicate a significant correlation between Twitter sentiment and enrollment based on a continuum of sentiment scores that were examined over a million tweets.”
+
+The findings have broader implications than simply a trend on Twitter, researchers said.
+
+“Twitter is a powerful tool when it comes to examining trends in health and health policy,” said senior author Raina Merchant, director of the Penn Social Media and Health Innovation Lab and assistant professor of emergency medicine. “We can see this methodology being used to improve healthcare in real-time as health policy is implemented, in order to stay on top of any issues and adjust accordingly.”
+
+Researchers said they further validated the National Research Council lexicon by randomly sampling 300 of the tweets and having human raters score them. The found a significant correlation between the computer and human ratings.
+
+The other study authors, all from Penn, include Maarten Sap, Andrew Schwartz, Robert Town, Tom Baker, JD, and Lyle Ungar. The investigators are funded in part by the Robert Wood Johnson Foundation.

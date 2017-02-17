@@ -1,0 +1,25 @@
+For anyone who isn't aware, and there must be at least one or two of you out there, healthcare IT has a tendency to look the way IT generally did about 30 years ago. There's lots of reasons for that -- a desire to invest in patient services rather than infrastructure, concerns about security and privacy, and a general conservatism in the space. No matter what the causes, it's clear that healthcare's historical reluctance to move the needle on technology change has had an impact on patient outcomes.
+
+But in recent years, we've seen a change. Of course, the highest-profile event was Obamacare and a move toward results-based funding. But underlying that very important event has also been a more general awareness that things need to change, as well as a broader acceptance that in healthcare, IT can be a major enabler of patient outcomes.
+
+So when you have an area ripe for growth, you tend to have a commensurate level of investment as investors of every type rush to cash in on the new gold rush. And so it is in healthcare IT: Witness the nearly $20 million Series D round that Apixio is announcing today.
+
+Apixio is the self-entitled "data science company for healthcare." What that means away from tech industry speak is that Apixio is all about extracting and analyzing the data that sits within existing medical records. The size of this task and the value it can generate cannot be overstated.
+
+Obviously, there are some very direct benefits that can be delivered by having an individual patient's files in a consistent electronic format. But more generally, accumulating bulk data in a digital format, and applying large-scale analytics across it, can deliver some big impacts -- a move from generalized population-based medicine to a much more precise and individualized model.
+
+For its part, Apixio has analyzed over 6 million individual patients' charts. Apixio's HCC Profiler Solution mines medical charts and Medicare-reported chronic condition data to more efficiently and accurately compute patient risk scores than traditional chart review methods. Or that's the aim, anyway.
+
+In terms of this funding round, it was led by SSM Partners with participation from First Analysis, Bain Capital Ventures and Apixio's largest angel investor. According to the company, Apixio will dedicate the proceeds toward advancing and scaling products powered by its cognitive computing platform, further enabling insights for optimal patient care.
+
+MyPOV
+
+There is no doubt that moving to a predictive health paradigm will create massive wealth, and disrupt a number of traditional healthcare IT players. The question isn't about whether this will happen; it's about when it will happen and how long it will take.
+
+There is always the risk that these early companies have lots of money poured into them, only to mistime their market entry and hit up against a wall of resistance to adoption. I'm seeing this to a certain extent in the health sector with more traditional (read conservative) hospitals and healthcare providers dragging the chain in terms of adoption.
+
+Add to this the fact that the traditional healthcare IT vendors, from IBM to HP, are pouring money into this space and you have a situation where there are no guarantees. Someone will make lots of money and radically change the healthcare IT world, but whether that is a current new-entrant, an existing player or some entirely new player remains to be seen.
+
+In the meantime, companies like Apixio will try their hardest to turn the needle and grow to scale.
+
+This article is published as part of the IDG Contributor Network. Want to Join?

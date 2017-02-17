@@ -1,0 +1,41 @@
+Rigorous testing and an emphasis on simplicity helped several state-run health insurance exchanges avoid many problems that bedeviled the launch of the federal government's exchange.
+
+Excluding Medicaid enrollments, public health insurance marketplaces operated by 14 states and the District of Columbia enrolled about 30% of people who were determined to be eligible for an exchange-based health plan through November, far outpacing the federal enrollment rate of 9% across 36 states, according to the U.S. Department of Health and Human Services' latest report on exchange performance.
+
+Not all state-run exchanges have run smoothly, however. Maryland, Oregon and Hawaii in particular experienced significant technical issues regarding eligibility determinations, account registrations and basic usability. However, officials in the four states with the largest enrollment totals — California, New York, Kentucky and Washington — pointed to several factors they said positioned their exchanges for success.
+
+One common refrain among state exchange officials was the importance of simplicity in their marketplaces' operational structure and online user interface.
+
+%%BREAK%%
+
+“From an operational standpoint, we wanted to have one central website and customer service center that would handle applications and calls from New Yorkers,” said Donna Frescatore, executive director of New York's insurance exchange, NY State of Health. “Regardless of which program a user qualifies for, they're all channeled to the same web portal and customer service center. We thought that it would be important from the consumer's perspective to have a single "front door' to the system.”
+
+A second element that exchange officials said was key was allowing online users to browse health care plans and determine eligibility for Medicaid or premium subsidies anonymously, using only basic demographic information.
+
+By contrast, the federal exchange, Healthcare.gov, initially required users to register prior to gaining access to eligibility and plan information.
+
+“The goal was to create an e-commerce experience that customers were already familiar with, such as an Amazon or Expedia,” said Curt Kwak, chief information officer of the Washington Health Benefit Exchange. “Users can enter in basic information such as ZIP code and estimated annual income to see what types of options are available to them.”
+
+%%BREAK%%
+
+State officials said their exchanges also benefited from decisions to initially forgo features such as mobile applications and online chat networks, which they said helped preserve bandwidth for their sites core functions.
+
+“Our system is very simple,” said Carrie Banahan, executive director of Kynect, Kentucky's public insurance exchange. “We don't have a lot of graphic elements and the site doesn't take up a lot of bandwidth. The language is very simple and the site overall is very easy to navigate.”
+
+Another critical factor in the disparate performances of the state-run insurance marketplace and the federal exchange appears to be the extent to which the respective systems were stress-tested prior to their launches.
+
+During an October hearing before the U.S. House Energy and Commerce Committee, executives of the private contractors that designed and built the federal exchange testified that end-to-end testing of the federal website did not begin until two weeks before launch.
+
+Testing of the states' insurance exchanges, by contrast, began as early as April 2013. In Kentucky, Ms. Banahan said the state began its testing in July and performed more tests just before it launched.
+
+“One of the key aspects that seems to have been a stumbling block for a lot of other states, and certainly for the federal government, is the account registration mechanism,” Ms. Banahan said. “We made sure that we really put that system through its paces prior to launch. We had the state's Medicaid staff, our in-house (information technology) department as well as our contractor's staff all test the system independently.”
+
+%%BREAK%%
+
+State exchange officials also said continuous post-launch testing of their marketplaces' information technology systems has helped them address capacity and usability issues.
+
+“Since the site's launch, we've been doing 24/7 auditing in order to give us some indication of where there are code irregularities and functionality impairments,” said Dana Howard, deputy director of communications for California's insurance exchange, Covered California.
+
+California's exchange website experienced significantly longer load times than designers intended, and was taken offline for coding updates and bandwidth expansion the weekend of Oct. 5, four days after its launch. But it was back online the following Monday. Without round-the-clock auditing, he said the website's down time could have much longer.
+
+“We were trying to determine what was causing the long load times for the site's pages, because they were extending well beyond the page load time goals we had set,” Mr. Howard said. “So we had to identify where it was specifically that those barriers were coming up that kept the pages from loading, and that took a little bit of time to work through.”

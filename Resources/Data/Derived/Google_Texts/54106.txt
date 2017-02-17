@@ -1,0 +1,19 @@
+Editor’s Choice Award
+
+Building a template for successful health exchanges
+
+While the troubled debut of HealthCare.gov got most of the attention in 2013, many state-level health insurance exchanges got off to a rocky start as well. Access Health CT, however, was an exception.
+
+Connecticut’s exchange went live that September—ahead of the Affordable Care Act’s deadline and five percent below budget. And while millions of uninsured Americans struggled with exchanges that were slow, error-ridden or simply down, Connecticut residents enrolled by the tens of thousands—ultimately reducing the state’s uninsured rate by 50 percent.
+
+In the two years since, Access Health CT has continued to build on that initial success—streamlining the process for consumers and steadily adding new functionality. The goal was not simply to maintain a functional government-run exchange, but to deliver an customer experience that exceeds the citizen expectations shaped by private-sector apps and online services.
+
+Access Health CT embraced mobile early, developing a robust API and an extensible mobile platform that integrates closely with its backend systems. Connecticut consumers can not only access plan details from their mobile devices, but also screen themselves for benefit eligibility and even upload the documents needed to verify eligibility.
+
+And when the third open enrollment period commences on Nov. 1, Connecticut residents will be able to act on that research and actually enroll for insurance coverage through the Access Health CT mobile app. User tests suggest that “mobile enroll” can reduce the average application time to as little as 10 minutes.
+
+Access Health CT is not the only successful state exchange, of course, and the federal government’s HealthCare.gov has made great strides since its troubled debut. What truly sets the Connecticut effort apart—and what earned it the Editor’s Choice Award—was the way the exchange was built with re-use and revision in mind.
+
+The mobile platform in particular was developed from the ground up as a SaaS offering, readily reconfigurable to be deployed for other state-based exchanges or even private-sector insurance sites. that can be configured to provide a mobile platform and digital services to other state-based HIX, Private HIX, State Health and Human Services organizations and Insurance Carriers.
+
+Such shareability doesn’t mean much if the underlying system can’t deliver, but Access Health CT has addressed back-end needs as well as citizen expectations. The security and privacy controls, data standards and flexible reporting functions all help to ensure the system can help Connecticut deliver on this critical mission. And other governments can do more than simply watch and learn.

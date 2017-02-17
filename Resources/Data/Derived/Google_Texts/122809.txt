@@ -1,0 +1,183 @@
+A little more than six years ago, as the economy careened toward the cliff we now call “The Great Recession,” a national study revealed that a large number of senior government IT executives were eligible for retirement, while recruiting new employees was increasingly difficult. “The upcoming drop-off in qualified IT employees to replace outgoing senior management and technical expertise appears to be certain and imminent,” the study concluded.
+
+But the recession put the problem on hold. Baby boomers saw the value of their investments and home equities plummet and delayed retirement. Local governments slashed budgets and cut workforce headcount, or instituted furlough days. A few of them even went bankrupt under reduced revenue and unsustainable defined-benefit pension plans. This pulled the rug out from under government employment’s main appeal in the past — stability and good benefits.
+
+Now, as the economy bounces back, cities and counties again face a tough workforce situation with some notable differences. When local governments shut the doors on hiring for six years, potential employees — who ordinarily would have been hired and spent years learning the ropes and honing their skills — went somewhere else, while baby boomers who would have retired a few at a time are now ready to depart en masse.
+
+Local governments won’t likely replace those employees on a one-to-one basis, and when they do hire, they’ll probably be seeking workers with different skills than their predecessors.
+
+To survive six years of recession, cities and counties outsourced IT systems, hired consultants instead of full-time staff members, and they embraced cloud computing, shared services, virtualization and software as a service. Those hard-won efficiencies will continue, say most CIOs we interviewed.
+
+There are other forces at work too, which may prevent local governments from returning to business as usual. For instance, a change by the Governmental Accounting Standards Board in how public agencies report pension liabilities will force new transparency.
+
+“The unstated and often unfunded pension liabilities of state and local governments will be a drag on government hiring and growth,” said Cate Long, writing last year in Reuters’ MuniLand blog. “Governments will need to embrace other strategies to provide services more efficiently.”
+
+How many IT employees will local governments need in the post-recession world? What skills must these workers bring to the job, and where will they be found? Those are the challenges confronting local government CIOs across the U.S. Here’s how some are approaching the issue.
+
+Cases in Point
+
+Corpus Christi, Texas, CIO Michael Armstrong has a long list of accomplishments, but he’s daunted by the current IT workforce situation. Armstrong oversees 63 technical and 25 call center employees who serve 3,000 city workers. He can’t find employees with specialized IT skills, like database administrators, data architects and network designers.
+
+Last April at a meeting of local government CIOs in Nashville, Tenn., Armstrong said he needed two Oracle database administrators and joked that he was willing to let them live at his house if they’d come to work for him. Six months later, he still hadn’t recruited even one. Ultimately Armstrong contracted out the Oracle DBA work. And he’s shifting to hosted applications, including a cloud-based ERP deployment that’s under way now. Armstrong said Corpus Christi hasn’t deployed an in-house application for three years.
+
+Strategies for Building Your IT Workforce Encourage retirees to phase out gradually. When special skills are needed, and procedure allows it, bring them back on a part-time or temporary basis.
+
+When special skills are needed, and procedure allows it, bring them back on a part-time or temporary basis. Look at job classifications. See if requirements for entry-level positions are set too high, and design some jobs so interns can get a foot in the door.
+
+See if requirements for entry-level positions are set too high, and design some jobs so interns can get a foot in the door. Reduce obstacles to hiring. If you have a six-month hiring process, be prepared to lose potential hires to other opportunities.
+
+If you have a six-month hiring process, be prepared to lose potential hires to other opportunities. Promote your strengths: Highlight the chance to make a difference and to work on large projects that are of value to the community.
+
+Highlight the chance to make a difference and to work on large projects that are of value to the community. Get current staff members involved in recruiting. “Every member of our team has an expectation that they are to support our ongoing recruitment efforts,” said Michael Katz, human resources director for the Colorado Governor’s Office of Information Technology. Deborah Layton-Root, Colorado statewide chief HR officer, said some agencies are allowed to do their own recruitment incentives and can reward an employee who refers someone who stays for six to 12 months.
+
+“Every member of our team has an expectation that they are to support our ongoing recruitment efforts,” said Michael Katz, human resources director for the Colorado Governor’s Office of Information Technology. Deborah Layton-Root, Colorado statewide chief HR officer, said some agencies are allowed to do their own recruitment incentives and can reward an employee who refers someone who stays for six to 12 months. Work with community colleges and other resources to recruit college graduates and those retraining in IT. For example, the state of Colorado, the city of Denver, the Denver airport and a number of counties have teamed up to pilot a shared IT candidate pipeline.
+
+For example, the state of Colorado, the city of Denver, the Denver airport and a number of counties have teamed up to pilot a shared IT candidate pipeline. Participate in a community college advisory committee related to IT training and internships; share what you need and how the workforce is changing.
+
+share what you need and how the workforce is changing. For career days, organize interviews and be prepared to make an offer to good candidates. Try to attract candidates early in their training and get them connected with government through an internship.
+
+Try to attract candidates early in their training and get them connected with government through an internship. Hold hackathons to get young people involved in developing useful apps for the community and working with public agencies.
+
+to get young people involved in developing useful apps for the community and working with public agencies. Post video presentations of job openings on YouTube, featuring successful people at that position demonstrating what’s required, what the workday is like, etc.
+
+featuring successful people at that position demonstrating what’s required, what the workday is like, etc. If you work in a technology hot spot with heavy job competition, look beyond your community for talent.
+
+Outsource, go to cloud computing and hire contract labor to fill gaps. Some jurisdictions, like San Diego County, Calif., have successfully outsourced nearly all their IT for years.
+
+Some jurisdictions, like San Diego County, Calif., have successfully outsourced nearly all their IT for years. Create regional teams to handle common systems. Austin and other governments in the region work together on cybersecurity, vendor management and public safety dispatch.
+
+Those efforts are likely to expand as the city confronts what could be a huge wave of retirements. Half of Armstrong’s staff is eligible for retirement, and when they go, they take with them a wealth of experience and skills. “I can deal with a few retirements a year,” he said, “but if next year I lose 25 people, I’m in serious trouble.”
+
+Armstrong worries that the Affordable Care Act could accelerate retirements beginning next year. “What keeps a lot of people here,” he said, “is the 10- to 15-year gap between having enough years in to retire but not being old enough to qualify for Medicare. If they were to retire, insurance becomes essentially unaffordable.” Affordable health coverage under the new law could be a factor in pushing retirement-age staff out the door.
+
+When those employees leave, wholesale hiring of replacements probably won’t happen. The city can’t offer salaries that compete with private-sector pay in tech hot spots like Dallas and Austin. And local universities aren’t cranking out the types of graduates Armstrong seeks.
+
+The city works with the Corpus Christi branch of Texas A&M’s Computer Science Department to find new staff, but the university awarded just nine computer science degrees last year, Armstrong said. Even those graduates weren’t necessarily a good fit. “We don’t need computer scientists who design computers or write operating systems,” he said. “I need people who have more of a business focus.”
+
+Although the university is beginning to get the picture, and the city is having some luck working with two-year colleges, Armstrong said the pool of qualified workers is shrinking. “We’re not seeing as many people come out of college with useful degrees.”
+
+These trends will continue to push Corpus Christi toward IT services, with city staff focused on managing contracts and performing integration.
+
+“Given the financial straits of government,” Armstrong said, “I think it is going to be very difficult for government, especially cities of our size, to maintain a really qualified workforce with the advanced skills we need.”
+
+Up the road in booming Austin, Texas, the economy is growing rapidly. Both Google and AT&T plan to roll out gigabit Internet service there, making the area a hotbed for tech startups. Growing competition for IT talent has taken a toll on the city’s ability to attract staff.
+
+“It takes us about 240 days to fill a vacant position,” said Austin CIO Stephen Elkins. “So even if we get a two-week notice, and even if we have someone there to back that individual up, it still leaves a hole.”
+
+Elkins, who said 30 percent of his staff is eligible to retire within the next five years, approaches the problem from several angles. Where possible, staff are cross-trained on various IT specialties. The city also makes use of skilled retirees by returning them to the workforce temporarily until permanent replacements can be found.
+
+In addition, the city is rewriting job titles to match current practice, and it’s doing a salary survey to assess competitiveness with other employers. Elkins doesn’t expect to match private-sector pay, but he wants to be competitive with other government entities.
+
+Elkins also wants to change city recruiting tactics. Traditional recruiting at job fairs is too slow, he said, adding that by the time the city conducts a series of interviews, candidates may already have multiple private-sector offers. To speed things up, Elkins suggests job-fair contingent offers, under which the city does in-person interviews and makes employment offers on the spot.
+
+Finally, Austin could do a better job of marketing itself, he said. Recruiting out-of-town talent from economically depressed areas could be effective, especially given the city’s thriving live music scene and college-town vibe. And playing up interesting projects — like the current citywide deployment of business intelligence software and a rollout of digital video to police cruisers — could entice potential hires to take a serious look at city employment.
+
+But like Armstrong, Elkins sees continued growth for managed services. Although he intends to retain core operations, other functions could very well end up in the cloud.
+
+Regional cooperation is another way he’s picking up the slack. Austin partners with Corpus Christi, Houston, Fort Worth, Harris County and others on common problems such as cybersecurity, vendor management and public safety dispatch. “We’ve put together a work plan,” said Elkins, “and could put together teams to help us solve some of our common problems. That helps ease up on some of our resources.”
+
+Creating a Talent Pipeline
+
+Although shifting to managed services and boosting regional collaboration can help, there’s no avoiding the fact that local governments will need to replace at least some of their retirees. Building a pipeline that taps into universities or community colleges is crucial for filling the bench with new talent.
+
+What’s Next? Digital Communities and e.Republic’s Center for Digital Government meet with local government officials around the country. These conversations have led to a number of predictions about the future of government employment and the nature of the work itself: The nature of the workforce is going to change, as well as the nature of the work. There is a great desire for lighter, more flexible and more mobile-based infrastructure and applications. This is going to change what is being done, how it is being done and by whom.
+
+There is a great desire for lighter, more flexible and more mobile-based infrastructure and applications. This is going to change what is being done, how it is being done and by whom. Professional networks (outside of the immediate enterprise) will continue to encourage and support broad-based collaboration. We are going to see more temporary and special-purpose employees engaged for specific and limited times as need dictates, rather than a return to wholesale hiring of full-time workers. There will be increased involvement of a wide variety of supporters, enablers and advocates, including, but not limited to, interested citizens engaged in tasks like website design.
+
+We are going to see more temporary and special-purpose employees engaged for specific and limited times as need dictates, rather than a return to wholesale hiring of full-time workers. There will be increased involvement of a wide variety of supporters, enablers and advocates, including, but not limited to, interested citizens engaged in tasks like website design. There will be a move toward a maturing of the hackathon engagement with private-sector employees bringing innovation and expertise to government for six months or so and then returning to their jobs. This seems like a natural extension of the current state of the tech economy where free agents work as independent players on a project-by-project basis. Government might create an “HR technologist mart” where consultants bid on participation in specific projects for a predetermined period. Further expansion of intern programs may also be a viable strategy.
+
+with private-sector employees bringing innovation and expertise to government for six months or so and then returning to their jobs. This seems like a natural extension of the current state of the tech economy where free agents work as independent players on a project-by-project basis. Government might create an “HR technologist mart” where consultants bid on participation in specific projects for a predetermined period. Further expansion of intern programs may also be a viable strategy. More people will work for government for a relatively short period of time. Fewer will work for a lifetime appointment with extraordinary retirement and benefits — those will no longer exist. Government as “a great place to start” is finding more widespread agreement.
+
+Fewer will work for a lifetime appointment with extraordinary retirement and benefits — those will no longer exist. Government as “a great place to start” is finding more widespread agreement. Workers will need to function in a multidisciplinary fashion with fewer specialists and more generalists. Employees will need a mix of technical and managerial skills to a greater degree than ever before. We will begin to see the creation of “technology contract administrators” focused on managing IT contracts. Their skill sets will differ from traditional procurement office contract managers who handle commodities or construction.
+
+with fewer specialists and more generalists. Employees will need a mix of technical and managerial skills to a greater degree than ever before. We will begin to see the creation of “technology contract administrators” focused on managing IT contracts. Their skill sets will differ from traditional procurement office contract managers who handle commodities or construction. To support these new requirements, traditional personnel and HR systems will be reconfigured, as will procurement processes. Both are historically difficult areas to change, but we are seeing the seeds of change in the way unions function and are viewed.
+
+Both are historically difficult areas to change, but we are seeing the seeds of change in the way unions function and are viewed. Governments will likely need to increase collaboration with university and industry training programs to have access to the trained people they need.
+
+The Washington State Department of Enterprise Services (DES) in Olympia runs an internship program with South Puget Sound Community College (SPSCC) that’s been so successful that the program now supplies interns to other state agencies and is slated for expansion. Digital Communities talked to two people involved in the program to see what principles could transfer to local government.
+
+Perhaps the first ingredient for success is attitude. If your idea of an intern is someone who sits in a cubicle surfing the Web, while staff grumble, “What are we supposed to do with him?” you might be missing an opportunity, said Jim Sampson, a desktop support specialist for the DES who coordinates the department’s internship program.
+
+Sampson’s record is impressive. Of the 13 interns he has mentored personally, 12 continued beyond their internships and six are permanent DES staff members. One of Sampson’s former interns even outranks him — a fact that Sampson points to with pride.
+
+The internship process begins with Sally Murrow, SPSCC’s Cooperative Work Experience/Internship Program coordinator. “I meet with the students, explain the program and help them with their resumes,” she said. “Then I forward the resumes to Jim, and he talks to the hiring managers and they figure out where within [DES] they would fit or where the need is.”
+
+Interns face a full employment interview at the agency, like any other prospective employee. They also sign off on the standard paperwork, including a non-disclosure agreement, emergency contacts and a state background check.
+
+“After we clear all that paperwork, we bring them in and offer them a position, and basically, put them to work. They have the same credentials as any of us,” Sampson said.
+
+Interns are given real work — they handle work orders selected by agency staff based on their skills. But they also get plenty of support. “I’m literally one cubicle away, listening, seeing how they handle the staff,” Sampson said. “They aren’t thrown to the wolves right away. It’s not like a supervisory thing — it’s like a peer is there to help them out.”
+
+Mai Braden’s story epitomizes why cities and counties should consider building internship programs with local colleges. Laid off after a 25-year retail career, she returned to school at SPSCC. Her internship with the state began in 2012 and ended in 2013, when she became a non-permanent part-time employee. She is now working to become a permanent DES employee.
+
+“In school, everything is theory,” she said. “If all you had was school, maybe you would succeed in small business, but at the enterprise level, you can’t beat this experience; they can’t replicate this at the school.”
+
+After her first few days at DES, Braden was hooked. “Other than being overwhelmed by the acronyms, everything else made sense for me — it clicked. Our servers are housed in a virtual farm. Now we’re talking about something huge, and for me it was exciting because I like seeing how everything interconnected.”
+
+SPSCC staff visit DES regularly to observe students in the working environment. And DES staff participate on SPSCC’s advisory panel to tweak the IT program. It’s a good relationship that keeps all parties in alignment.
+
+“[Sampson] is on our advisory committee for the computer science program,” said Murrow. “Many of our employers that offer internships are part of that committee. So they provide input to our faculty as to what they are looking for and technology that may be coming their way. We place a lot of importance on their input.”
+
+Front Row L to R: Internship Coordinator Jim Sampson; former intern and current DES employee Mai Braden; intern Jack Wambeke; former intern and current DES employee Frank Welter; former intern Jeremy Verville; Desktop Support Manager Michael Christopher.
+
+Back Row L to R: Network Operations Manager Rick Griffith; intern Donovan Kochta; intern Nichalus Potts; former intern Ryan Carlson; former intern and current Washington state employee Chris Decker; former intern and current DES employee Patrick Slattery; Enterprise Infrastructure and Operations Manager Nick Fuchs.
+
+Not Shown: former intern and current DES employee Benson Adams; intern Adrian Roberts; intern Daniel Splitter; intern James Hallett.
+
+Nick Fuchs, DES enterprise infrastructure and operations manager, credits Sampson with much of the program’s success. “He is a true mentor,” said Fuchs, who is Sampson’s boss. “He takes care of them and guides them. He’s former military, and he really exemplifies camaraderie. He’s really committed to making these kids successful.”
+
+The internship program builds relationships, added Fuchs, which helps the department land and retain valuable employees even when it can’t match private-sector pay and perks. “We don’t have money to give them so we invest in on-the-job training,” he said. “We [also] look for loyalty, and the primary factor in that is that they like their supervisor and their work environment.”
+
+To be sustainable, internship programs must be integrated into the culture of an agency, said Murrow. Otherwise they can disappear if a key supporter retires or takes a new job.
+
+Interns also must have the skills to make meaningful contributions to the agencies in which they are placed, said Michael Jameson, an IT professor at SPSCC. “If the candidates are viable and positive, the entity begins to rely on them, and they won’t want to terminate the relationship,” he said. “That makes the internship self-perpetuating.”
+
+What’s the best way to start building this type of talent pipeline? Get involved and be ready to act fast, said Kendall Lawrence, interim dean of career and applied technology at the North Harris campus of Houston’s Lone Star College. The college serves 90,000 students on six campuses, and about 300 students are enrolled in IT programs.
+
+Although attending career days and similar events can be helpful, agencies must engage potential interns more directly. “We found it works better to schedule individual students for individual interviews,” said Lawrence. “We have rooms here that organizations use to interview students. That’s been really productive.” However, he cautioned that organizations meeting with students individually should come prepared to make an offer of some kind.
+
+Joining advisory committees for local college internship programs helps to ensure that interns meet your agency’s requirements, adds Professor Kiwana Francis, who is responsible for placing IT interns at Lone Star. “We have city and government employees on our advisory team telling us what’s going on, how to better present our curriculum and to make changes if we need to,” she said. “Let the committee know what you need and how the workforce is changing in your environment.”
+
+Get Ready for Millennials
+
+Regardless of how you hunt for new workers, get ready to manage them differently. Millennials don’t approach work like their parents did, and private industry is adjusting by offering flextime, more vacation and a better work-life balance.
+
+Daphne Levenson, director of the Gulf States Regional Community Policing Institute, trains public safety agencies on hiring and retaining a new generation of employees. She says baby boomers often sacrificed family activities to meet job responsibilities. Divorce became more common, scattering kids from different marriages. Nearly half of American children are now raised by single parents.
+
+Seeing this, millennials have opted to run their family lives differently, Levenson said. Don’t expect them to work 24-hour shifts, because they have their priorities arranged around family and friends. They don’t work for retirement, either, because they doubt retirement programs will be there when they get older. And they’re not afraid of frequent job changes.
+
+So what does that mean regarding hiring and retaining millennials?
+
+Parents would rather spend time with their kids than work overtime. Most would prefer extra vacation time to higher pay. They don’t see race, added Levenson, don’t exhibit sexism, and since many were raised by women, have no problems with female supervisors. But they don’t have much patience with older people who are unfamiliar with technology.
+
+They also may not care for your attitude. In the past, government employment was prized — who cared what new hires thought? They had to learn the culture of government or there were plenty of others eager to take their place. Now the tables have turned, and governments must pay more attention to prospective staff members. It’s not necessarily a bad thing, but it’s a definite change in perspective.
+
+Levenson said she often talks to young people who have visited government offices to pick up job applications, and nobody said hello or even looked up. That leads to stereotypes about government being bureaucratic, stuffy, rule-bound and unpleasant, she said.
+
+But Scot Melland, a top executive for Dice.com, a career site for technology and engineering professionals, said public agencies can turn that image around by becoming more visible on campus. “Have some functions at your organization, run some contests, work with your community colleges, and build some excitement around your organization and what you’re doing,” he said.
+
+After years of decline, colleges are starting to churn out more computer science majors, Melland added. And public-sector jobs have some real benefits for recent graduates. For instance, governments offer a chance to work on large-scale IT projects that make a real difference to communities, he said. But local governments must get better at talking to graduates about the kinds of projects they’re working on in order to generate excitement.
+
+Can Government Be Cool?
+
+Another way to generate interest in government IT is through hackathons and similar activities. Participants have a set period of time — 48 hours over a weekend, for instance — to present an idea, assemble a team and build an app that solves a community problem. Last summer, for example, the White House backed a National Day of Civic Hacking that spurred nearly 100 hackathons around the country. One of those occurred in Minneapolis, and CIO Otto Doll was very pleased with the results.
+
+Eight teams were formed during the Minneapolis hackathon. One group used public transit data and GPS to build an application showing users where they are located in the city, where the bus stations are located, where the buses are and when they will arrive at a particular station. Since the event, the team has continued to improve the app, adding a function that locates racks for the city’s bicycle sharing program and shows how many bikes are available.
+
+Doll was amazed at the amount of talent that appeared — including one participant who was just 12 years old. “Programming is not for everybody,” he said. “It’s not a skill that’s commonly held. So to have these folks with the skill and the desire to help the city in a civic-minded way is impressive.”
+
+Austin held three hackathons last year, said Matthew Esquibel, Internet services and IT applications manager for the city. He said the events are changing how potential employees think of government IT. “Typically we don’t get people out of college who say, ‘Oh I want to go work for government and do exciting, innovative things.’ But we’re starting to demonstrate that you can.”
+
+Austin’s hackathons were part of the city’s partnership with Code for America. The events were built around Austin’s open data portal, which also inspired existing IT staff to use city data in new ways. “We were able to energize the civic community to develop a lot of apps,” Esquibel said.
+
+Sometimes, just presenting the reality of what government does can change public perception. Rainette Stephens, staffing division administrator for the Louisiana State Civil Service, was seeking a way to reduce the number of new hires who quit. She wanted to give applicants a realistic look at what the job requires, what the workday is like and what skills are needed. So she made a series of short videos of state workers talking about what they do. Applicants for a systems administrator job, for example, can watch state employees like Regina Toliver or Adam Tidwell give a personal look at what their jobs entail.
+
+Along the way, something else happened: “Government workers” were given a face and a name. There is no background music, professional directors or producers — everything is done by agency staff with inexpensive equipment — and other jurisdictions can do the same thing. Watch a few of the videos, like the one of Kedrieka Roberson talking about her job as a juvenile justice specialist. She admits that some of her clients have committed murders and rapes, and they “get in your face.” But she’s proud of what she does and it shows.
+
+It’s Time for Change
+
+Tolstoy said that while everyone thinks of changing the world, no one thinks of changing himself. Technology has changed the world, and what’s left is the very difficult job of changing self. The recession compressed and delivered changes all at once. And government employment is no longer seen as a stable life-long career with early retirement and great benefits in an otherwise transitory world. It has acquired an old-fashioned stuffy look when viewed over the top of a mobile device or through Google Glass.
+
+Changing self means reaching out, telling people what good things are being done in government. It means launching a hackathon, generating interest in city and county employment, going to college job fairs with the ability to make an offer, or providing bonuses to employees who recruit their friends. It means plugging the gaps as best one can, while building out a future workforce of millennials who have been shaped by powerful technology, quick access and continual connection, and who are trying to avoid their parents’ shortcomings.
+
+There’s a backlog of IT needs in most cities and counties that can’t be handled by hanging on and hoping things will return to better days. Many CIOs told Digital Communities that the current situation is comparable to the shift from mainframe computing to distributed systems and the PC. It’s a big shift that will require some big ideas and hard work. And in many cities and counties, those changes already are under way.

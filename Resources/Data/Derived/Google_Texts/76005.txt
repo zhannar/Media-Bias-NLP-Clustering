@@ -1,0 +1,43 @@
+Windows 10 is finally getting a wide release on Wednesday, and will be offered as a free upgrade to everyone who currently holds a license for Windows 7 or 8, or a Windows Phone. If you don’t have one of those versions of Microsoft’s operating system, the new software will cost you either $119 or $199, depending on how many bells and whistles you might need.
+
+Somewhat inexplicably named, Windows 10 will be the ninth version of the venerable OS, which has graced office screens for the past 25 years as the de facto standard operating system for the PC.
+
+That title has meant less and less, though, as computer sales decline and users shift to mobile devices. Microsoft has also been facing increased competition from Apple’s OS X and a steady trickle of adoptees of user-friendly Linux distributions like Linux Mint and Ubuntu.
+
+Related: Windows 10: Microsoft Looks to ‘Start’ Again
+
+Microsoft also had its own missteps to confront. As it sought to keep pace with the new tech landscape, Microsoft’s recent operating system updates have been a zig-zag of hits and misses. The stable, strong XP was followed by Vista, widely regarded as the software equivalent of a dumpster fire. This, in turn, was followed by the adored Windows 7 and then the widely loathed Windows 8.
+
+So, what does the new upgrade mean for consumers? Hopefully, another high point.
+
+Windows 10 has been available in the form of preview builds to members of Microsoft’s Insider Program, and reports so far have been pretty positive. On the front end of the OS, the most noticeable difference is the removal of the abhorred tiles from Windows 8 and the return of the known-and-loved Start menu — albeit one enhanced with touchscreen-friendly tiles.
+
+Related: Navy Paying Microsoft Millions to Maintain Obsolete Windows XP
+
+Some other new features include:
+
+Some Siri-esque functionality in the form of a virtual assistant named Cortana (so called after the fictional AI in the acclaimed Halo video game series). Cortana tracks appointments, saves reminders and searches files, along with a bevy of other functions.
+
+video game series). Cortana tracks appointments, saves reminders and searches files, along with a bevy of other functions. A new browser called Microsoft Edge. Microsoft officially put the kibosh on its oft-mocked web browser, Internet Explorer, which has devolved into too much of a punchline. Edge, unfortunately, seems to be somewhat lacking, with reviewers lamenting that it still doesn’t have some of the functionality of Google Chrome or Mozilla’s Firefox browsers.
+
+Touch-friendly apps that have been tweaked to be a great deal more functional. Reviewers have found apps like Mail, Photos and Calendar to be much improved, especially on mobile devices. Microsoft’s next generation of the Office Suite, due for release later this year, is also similarly mobile-optimized.
+
+Related: 10 Biggest Tech Flops of the Century
+
+Those additions and enhancements make Windows 10 a worthwhile upgrade. A word of caution, though: Computers are complicated beasts with hundreds of different configurations, and often initial releases of operating systems may not cater fully to all of them. First of all, it’s important to make sure that your machine meets the minimum hardware specifications, meaning:
+
+a 1 GHz or faster processor
+
+1 GB of RAM for 32-bit systems or 2GB for 64-bit ones
+
+16 GB of free hard drive space for the 32-bit OS or 20 GB for the 64-bit OS
+
+a DirectX 9 or later graphics card.
+
+Something else to be aware of: third party drivers, which help all the parts of your machine interface correctly with Windows, may not be fully compatible with Windows 10 right away. Until that is sorted out, you might run into some nasty hardware or software errors. I've been running Windows 10 for a while and have — until a recent update — been struggling with frequent “blue screens of death” caused by incompatible graphics card drivers. So, it might be prudent to wait until the kinks have been ironed out, especially if you plan on making this OS your "daily driver."
+
+Keep in mind, too, that while Windows 10 is officially launching Wednesday, that doesn’t necessarily mean you’ll be able to get your hands on it right away. As a reward for beta-testing the software, members of Microsoft’s Insider Program are first on the list for upgrades, followed by those who reserved a copy of the OS ahead of time. Everyone who called dibs on an upgrade will reportedly get it before December, though.
+
+Updating is easy: By tomorrow, a Windows logo should appear in your system tray:
+
+One click of that icon will bring up a specialized app, which will let you know if your computer is compatible and will let you sign up for the update.

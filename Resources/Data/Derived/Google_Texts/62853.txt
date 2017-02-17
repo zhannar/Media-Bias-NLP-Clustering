@@ -1,0 +1,37 @@
+If you’re kvetching online about being sick or subtweeting your sneezing co-worker, public health researchers would love for you to keep at it. You’re feeding a faster, better system for predicting flu outbreaks.
+
+It used to be that Google’s search trends were the best public tool for flu monitoring, but epidemiologists are increasingly looking to Twitter and other social media for better results. A team at San Diego State University collected 160,000 tweets from 11 cities that contained the word "flu" and published a study in November showing that Twitter is becoming a more accurate surveillance tool for tracking the flu.
+
+Mark Dredze
+
+Other researchers are using Twitter in an attempt to reinvent flu forecasting. Mark Dredze, an assistant research professor of computer science at Johns Hopkins University, and his colleagues have used an algorithm to process 10 million tweets a day and examine the content of flu-related tweets. Dredze says this approach is more accurate than simply using search queries—a la Google Flu Trends has—to predict the spread of the flu.
+
+With the CDC already warning that this year’s flu season could be severe, researchers say developing better forecasting methods is critical to preparing for the flu—and other public health epidemics.
+
+The CDC still does routine surveillance of flu activity the old-fashioned way, with local health departments, public laboratories, health care providers and emergency rooms tracking the flu virus. But Matthew Biggerstaff, an epidemiologist at the CDC, says there’s often a nearly two-week time lag with reporting flu data from all these partners. Twitter and other platforms help accelerate this process.
+
+"People who are tweeting about flu may have not yet sought care, so this allows us to get a snapshot of what’s happening among the entire population," Biggerstaff says.
+
+Dredze says though the U.S. has a very robust system in place for flu surveillance, there’s a lot more that can be done with forecasting to reduce the virus’s spread.
+
+"Knowing how bad of a flu season it’s going to be—and most critically, knowing when things will get serious during flu season—those are two forecasting problems that make a big difference," he says. If health officials can more accurately predict the severity and peak of flu outbreaks, they can make better decisions about when to push vaccination and awareness campaigns.
+
+Graham Dodge, CEO of Sickweather
+
+While Dredze and his colleagues are using Twitter for flu forecasting, other applications, like the Sickweather app, have been using social media to track illness trends. Sickweather filters two million pieces of data a month from its users and updates on Twitter and Facebook. Graham Dodge, Sickweather’s CEO, says the company weighs its data against the CDC’s clinical data to ensure accuracy. He says Sickweather’s hybrid approach makes social media a very effective tool for giving users real-time intelligence to combat sickness, compared to methods like Google Flu Trends.
+
+"It’s the difference between implicit data and explicit data," Dodge says.
+
+Google Flu Trends, which uses search terms to indicate flu activity, falls into the former category. Google’s model was criticized after it overpredicted flu levels during the 2012-2013 flu season. This year, Google spokesperson Jason Freidenfelds says Google Flu Trends is using CDC flu data to improve its model for the 2014-2015 flu season. When asked whether Google would consider incorporating social media postings into its model, Freidenfelds said the company was open to other ideas, but "we don't have anything more to announce at this point."
+
+The tactic of combining the speed of web data with verified clinical data is only accelerating, thanks in part to the Affordable Care Act. Jennifer Horney, an associate professor of epidemiology and biostatistics at Texas A&M University points to the Obamacare requirements to digitize records and make more data readily available.
+
+"With Affordable Care, we’re going to have a plethora of data that we didn’t have before," Horney says.
+
+Biggerstaff stressed that it’s going to take some legwork to make the data more actionable. He wants "algorithms that can pick up people who are actually tweeting about being sick, rather than just reading a news story about the flu."
+
+That’s why Dredze thinks his team’s approach can work long-term. There’s often a huge spike in the number of people searching about the flu after extensive media coverage, which may have caused the hiccups with Google Flu Trends last year. (Other researchers have used Wikipedia for flu forecasting, correlating searches for flu-related content with the spread of the flu. This method may encounter the same challenges as Google Flu Trends.)
+
+"We isolate those tweets that say things like ‘I have the flu" or ‘my daughter has the flu,’ which are about infection," Dredze says. "The infections are a much more accurate form of surveillance."
+
+This year, Dredze and his colleagues have launched a password-protected site for health officials called healthtweets.org to help them make better decisions when dealing with health epidemics. Considering the warnings about the current flu season, Dredze’s solution may be coming at just the perfect time.

@@ -1,0 +1,27 @@
+Topics: From the Wires, Entertainment News, News
+
+CANTON, N.Y. (AP) — Michael Schuckers doesn’t consider himself a die-hard hockey fan, yet all he seems to think about in his spare time is that frozen rubber disk and what happens to it in every moment of every NHL game.
+
+That’s to be expected for someone in the vanguard of hockey analytics. Schuckers, a statistics professor at St. Lawrence University, has been crunching hockey numbers in his office for more than a decade.
+
+“Ten years ago, a lot of academics would dabble with the stuff but wouldn’t do it a lot because it was not really rewarded in academia,” said Schuckers, whose first paper was a chart on the NFL draft that placed a value on each player picked as a guide for possible trades. “At that time, it was a very, very small community of folks who were doing it. Now, probably half the teams in the NHL have somebody on staff doing this.”
+
+Hockey is following the lead of baseball and basketball, the forerunners in the expansion of advanced statistics in sports. Just over a year ago, the NHL began offering enhanced statistics on its website, NHL.com.
+
+For front offices and fans alike, the simple stuff (goals for and against, power-play goals, assists, saves, et cetera) simply isn’t enough.
+
+“There’s more and more data becoming available, and it’s being accepted more and more in the industry,” said Brian Macdonald, director of hockey analytics for the Florida Panthers. “It’s becoming more acceptable to use data to make a decision. It’s something that we would like to be a priority in our organization, both on the hockey side and the business side.”
+
+Corsi and Fenwick, formulas to figure out time of possession in hockey, paved the way in hockey analytics. They’re very similar and flawed because they treat all events as equal — a hit in the neutral zone, a blocked shot, a scoring chance on a breakaway, from the blue line or from in front of the net, and so on.
+
+More complex analytics have followed, and the sky seems to be the limit going forward. Analytics data will be used in player personnel decisions, trades, evaluating coaches, matchups, line combinations and in pro and amateur scouting.
+
+Schuckers, who combined with St. Lawrence women’s hockey coach Chris Wells to create Statistical Sports Consulting, won second prize three years ago at the MIT Sloan Sports Analytics Conference with his Total Hockey Rating (THoR). It was a joint project with Jim Curro, a student writing his senior thesis.
+
+THoR is a two-way player rating that accounts for every on-ice action event for every player. The score of the game and where players’ shifts start also are accounted for. Each event is assessed a value according to the chance that it leads to a goal. THoR also uses a statistical model to determine the value of each player’s contribution to the overall outcomes that occur while they are on the ice.
+
+Each play from the NHL’s Real Time Scoring System (RTSS) is evaluated for its likelihood to lead to a goal in the ensuing 20 seconds. Ratings account for a player’s impact after adjusting for the quality of teammates, quality of competition, zone starts, score effects, et cetera. The metric is Wins Above Replacement (WAR) relative to position.
+
+To be certain, this is not yet rocket science. RTSS is known to be skewed with inconsistencies in the recording of events from rink to rink, though THoR accounts for this in its calculations.
+
+“There are plenty of things that aren’t there,” Schuckers said. “They’re not recording passes. They’re not recording, necessarily, where the puck is at any given moment. But hits, shots, they do try to get that right.”

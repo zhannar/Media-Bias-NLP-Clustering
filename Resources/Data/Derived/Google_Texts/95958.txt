@@ -1,0 +1,51 @@
+Explorys Cloud Services Power Accountable Care Organizations
+
+Explorys uses combination of big data and specific patient data to improve care, lower costs.
+
+
+
+Easy-to-Mock ICD-10 Diagnosis Codes... (Click image for larger view and slideshow.)
+
+Cleveland Clinic spinoff Explorys is a cloud service for big data analysis of healthcare and small data insight on individual patients, allowing it to address the analytical needs of Accountable Care Organizations.
+
+Customers like Catholic Health Partners are using Explorys to measure their progress against quality and cost control goals more precisely and inform the activities of care coordinators responsible for reaching out to patients at risk and guiding them toward better outcomes. This is a more proactive model of care, where instead of relying on the patient to come seeking help, doctors and their staffs must take on greater responsibility for doing follow up and outreach for preventative care that will save money in the long run.
+
+"Once you say you're responsible for this population of patients with all their chronic conditions, if they don't come in it's your responsibility to get them to come in," J.D. Whitlock, director of clinical and business intelligence at Catholic Health Partners, said in an interview. "It's a matter of reaching out to the right patient at the right time with the right information." That means organizing data in a whole different manner than for a chart built around patient visits, which is why Explorys has become an important supplement to the health system's Epic Electronic Health Records (EHR) software.
+
+[Evidence-based medicine meets big data: IBM's Watson Takes Aim At Cancer.]
+
+Catholic Health Partners is the largest health system in Ohio, with operations that also extend into Kentucky, and it competes with Cleveland Clinic in some markets. Explorys is sufficiently independent that Catholic Health Partners felt comfortable taking advantage of its services, Whitlock said.
+
+Created as the result of Cleveland Clinic's experimentation with using Hadoop for big data analytics, Explorys was spun off as a separate company (in which Cleveland Clinic retains a minority stake) so that it could position itself as a trusted independent repository. With participation from some 300 hospitals, Explorys offers access to a pool of data on 38 million patients for research applications and predictive analytics that require access to thousands of records of similar cases. In that context, identity data is stripped from patient records. Overall, it has 205 billion data points on patients.
+
+To power ACOs and population health management initiatives, Explorys offers another set of analytic services based on a healthcare organization's own patient records, with identifying information retained because the point is to identify patients at risk and reach out to them. In particular, the service seeks patterns in the data about those with chronic diseases like diabetes, or correlations about those with diabetes who also suffer from depression (and might have a tougher time coping with their condition as a result).
+
+Explorys charts diabetes measures.
+
+The Explorys Enterprise Performance Management suite of applications includes EPM: Explore for ad hoc search; EPM: Measure for tracking common quality metrics; EPM: Registry is an integrated framework for organizing patient identity data; and EPM: Engage for coordinating registries, prioritized patient and provider outreach, and messaging.
+
+Many of the population health management systems coming on the market are an extension of private Health Information Exchange (HIE) technology -- healthcare data hubs operated by individual healthcare institutions, as opposed to public, community HIEs. The HIE capability is important to ACOs that need to consolidate data from multiple EHRs.
+
+CHP's priorities were different, Whitlock explained. "We are an Epic shop, a very large single instance of Epic. So unlike a lot of ACOs that are trying to patch together 10 or 15 EHRs, we're trying to not do that." In addition to running Epic at all its facilities and providing it to the doctors the health system employs directly, CHP strongly encourages its affiliated primary care doctors work with the Epic system hosted by the hospital rather than adopting a different EHR.
+
+CHP is trying to stick to that rule as much as possible for its ACO operation to keep data integration issues to a minimum, Whitlock said. "We really want affiliates to be on our instance of Epic -- really, it's Epic plus Explorys -- and the rules for a Medicare Shared Savings ACO allow us to pay for that." It's much more efficient to spend money on a standardized suite of applications than on HIE-style integration, he said.
+
+Explorys doesn't call its product an HIE, although it does offer some HIE-like services and is capable of pulling data from multiple EHRs. "You could argue we serve almost all the same functions as an HIE," said Charlie Lougheed, president and chief strategy officer at Explorys. Like an HIE, Explorys must match the identities of patients whose records have been pulled from different EHRs, but it goes further by scoring patients according to their risk of health problems, he said.
+
+"We unite the clinical, operational, and financial -- the quality of care and what it costs to deliver that care," Lougheed said.
+
+ACOs are being promoted by Medicare under the Affordable Care Act and by insurers with similar quality and cost control goals. Part of a trend toward paying for the value of care delivered, rather than the volume of visits and procedures performed, ACOs must be able to track the cost and quality measures they are being judged on and predict the clinical and operational changes that will allow them to improve those metrics and profit from doing so.
+
+"We come across a lot of CIOs, frankly, who were thrown into a situation where their organization decided to take on an at-risk contract," Lougheed said. "We
+
+Next Page
+
+David F. Carr oversees InformationWeek's coverage of government and healthcare IT. He previously led coverage of social business and education technologies and continues to contribute in those areas. He is the editor of Social Collaboration for Dummies (Wiley, Oct. 2013) and ... View Full Bio
+
+1 of 2
+
+Comment |
+
+Email This |
+
+Print |

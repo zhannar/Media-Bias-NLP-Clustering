@@ -1,0 +1,25 @@
+U.S. stock-options exchanges halted trading Monday afternoon due to a problem with the benchmark data feed supplying options prices to traders, the latest technology breakdown to strike systems critical to trading operations.
+
+Exchanges run by CBOE Holdings Inc. (CBOE), Nasdaq OMX Group Inc. NDAQ, -0.08% BATS Global Markets Inc. and Miami International Holdings told traders via electronic notices that trading on their markets halted due to problems with the Options Price Reporting Authority, or OPRA, which provides information on trades and quotes.
+
+The technology that powers OPRA is managed by the Securities Industry Automation Corp., which is owned by NYSE Euronext. A spokesman for NYSE said OPRA was hit by a "quote processing problem" that halted trading at 1:40 p.m. ET, that the issue was resolved at 1:50 p.m. and that markets began to reopen at 2:00 p.m.
+
+Technology headaches continued, however, with several exchanges dropping connections to the International Securities Exchanges and the Chicago Board Options Exchanges, warning of issues with electronic links to other exchanges, according to notices sent to traders.
+
+A representative of OPRA wasn't immediately available to comment.
+
+"It's another unsettling incident," said Bart Bergman, a market-maker and risk manager for Interactive Brokers Group (IBKR), a major player in the U.S. options market. "Until we know the full extent of what happened here, it's not a confidence-builder for us in the industry."
+
+Securities and Exchange Commission officials were monitoring the issue and discussing it with participants in the options market, "as is our practice," said John Nester, a spokesman for the agency.
+
+Monday's issue resembled a breakdown that struck a similar market-data feed Aug. 22, freezing trade in securities listed on the Nasdaq Stock Market for more than three hours. While the options-market breakdown appeared shorter-lived, it was also broader, because it affected trading in all options contracts.
+
+"These continual outages are eroding customer confidence in the markets," said Jim Swartwout, president of tradeMONSTER, a brokerage firm specializing in options trading.
+
+The problem arose when OPRA ran into a problem distributing quotes to buy and sell contracts and other market information, according to a person familiar with Monday's issues. Traders submitting quotes for options contracts may not have been able to see their prices go out to the market, the person said.
+
+Exchange executives and regulators met last week in Washington, D.C., to discuss ways to make such data feeds more resilient to outages. During that meeting, the OPRA data feed, which is overseen by a committee including representatives from all U.S. options exchanges, was identified as one potential "single point of failure," according to participants.
+
+Subscribe to WSJ: http://online.wsj.com?mod=djnwires
+
+More from MarketWatch

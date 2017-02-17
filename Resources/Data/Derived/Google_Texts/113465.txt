@@ -1,0 +1,61 @@
+Kaiser Health News’ Jay Hancock reported this week that a substantial number of small businesses may stop offering health insurance as a result of the Affordable Care Act. Anthem, the largest seller of small-business plans, reports a 15 percent drop in enrollment in the first three quarters of 2014, though other insurers in that market don’t report a similar fall off. For some small businesses, though, the logic is inescapable:
+
+Companies like Dunn’s – those with fewer than 50 workers – provide medical coverage to roughly 20 million people. Unlike larger employers, they have no obligation under the health law to offer a plan. Now they often have good reason not to.
+
+If employees qualify for government subsidies, like the managers who switched from Italian Oven’s corporate insurance to individual Obamacare coverage, everybody can win.
+
+Owners don’t have to pay premiums, meaning they can give workers raises, invest in equipment or add to profits instead. And employee take-home pay can rise if exchange plan subsidies – available even to families with middle-class incomes – are worth more than what a company was contributing.
+
+If subsidy-eligible workers are given a raise to compensate in part for the dropped coverage, how much of that raise would be lost to reduced ACA subsidies? And what can companies that drop coverage do to compensate their employees efficiently?
+
+What coverage costs employers
+
+Let’s start by looking at how much a business is likely to save by dropping coverage. According to the Kaiser Family Foundation’s 2014 Employer Health Benefits Survey, the average small employer (3-199 employees) that provides health coverage pays $4,886 for an individual employee’s premium (out of total premium of $5,788) and $10,341 for an employee’s family premium (out of a total premium of $15,849). Ninety-six percent of these firms offer coverage for spouses, and 92 percent cover other dependents.
+
+Growing income, shrinking subsidy
+
+The dollars employers spend on employees’ health insurance are tax-free, and businesses not subject to the mandate (50 employees or less) probably spend less on average than those in Kaiser’s sample (3-199 employees). So, using HealthCare.gov’s shop-around feature, I looked at the effect on ACA subsidies of adding about 70 percent of an average small employer health insurance contribution to wages in various cases.
+
+Boosting wages by an amount approaching the employer’s share of premiums won’t wipe out an equivalent amount of subsidy. But the resulting decreased subsidy usually will take an appreciable part of the pay hike.
+
+The effect of a pay raise on a subsidy is hard to average out because it varies considerably. ACA subsidies are calculated as a fixed percentage of household income, and that percentage rises in several gradations, from 2.8 percent for a household with an income just over 138 percent of the Federal Poverty Level (FPL) to 9.5 percent for an income of 400 percent FPL. Then there’s Cost Sharing Reduction (CSR) subsidies, which also vary according to income level.
+
+All that said, here are a few scenarios.
+
+Scenario 1: Family of 3 / earning $39,500
+
+Take first the case of a family in Cook County, IL: Vanessa, 44, her husband Eduardo, 43, and their son Armand, 16. Eduardo is unemployed, and Vanessa earns $39,500 – just under 200 percent of the FPL, qualifying the family for strong Cost Sharing Reduction subsidies if they buy a Silver plan. The cheapest Silver plan will cost them $202 per month, and thanks to CSR their deductible is just $200.The total out-of-pocket (OOP) maximum for the family is $4,500. Primary care doctor visits are $10, specialist visits are $50, ER visits are $400, and generic drugs are free.
+
+Now imagine that Vanessa’s employer drops coverage and bumps her salary up by $7,000 to $46,500, adding a bit less than 70 percent of the average small-employer contribution to a family plan. The premium on the same plan goes up to $287, or an extra $1,020 per year. With the household income now between 200 and 250 percent FPL, CSR weakens: the family deductible is now $2,000, and the OOP max is $10,400. Primary care visits are now $25, specialists $75, ER $500, and generic drugs, $10.
+
+If the family reaches its deductible, their costs will have risen perhaps $3,000 per year. If someone gets seriously ill, and co-pays and coinsurance keep mounting, they could be on the hook for almost $6,000 more.
+
+Scenario 2: Single, 27-year-old male / earning $29,000
+
+Zoom in now on 27-year-old Cort, who earns $29,000 per year in Knoxville, Tennessee, an income just low enough to earn him the weakest level of CSR. The cheapest Silver plan will cost him $149 per month, with a deductible of $2,000 and an OOP max of $4,000. Primary care visits are $10, specialist and ER visits are both 20 percent coinsurance after the deductible is reached, and generic drugs are $10.
+
+Bump his wages up to $32,400 – a raise just shy of 70 percent of the average employer contribution for a single employee – and the same plan will cost him the same premium, but with a deductible of $4,000 and an OOP max of $5,000. The copays for the four summarized services are the same. So Chad may keep his whole raise – or give up almost of all it if he gets seriously ill or injured.
+
+Scenario 3: Older couple with child / earning $72,000
+
+The toughest situation is that of an older couple whose raise puts them just beyond subsidy eligibility. Unsubsidized premiums, unlike subsidized ones, rise with age: a 64-year-old pays three times as much as a 21-year-old. So let’s look in on married men Bob and Shawn in Philadelphia, aged 55 and 54, and their adopted daughter Candy, 8. Bob and Shawn earn $72,000 per year between them.
+
+Though the couple’s income puts them over 350 percent of FPL, their subsidy – thanks to their relatively advanced ages – is worth $473 per month. Since they earn too much to qualify for CSR, any given plan’s deductible, co-pays and OOP max won’t change if their income rises. The two cheapest Silver plans, which slice deductibles and copays quite differently, will cost them $571 or $574.
+
+Bump their incomes up to $79,200, however – just over 400 percent FPL – and poof goes the subsidy: those two plans will cost $1,045 or $1,047 per month. Poof also goes most of the raise – the subsidy was worth $5,676. But give back just $100 of that raise, putting the family income just under 400 percent FPL, and the cheapest silver premium is back down most of the way, to $628. The subsidy cliff for two fifty-somethings with a child is very steep.
+
+Creative compensation
+
+Businesses that want to be creative about compensating employees for withdrawing sponsored coverage can find ways. Boosting 401k contributions (or initiating them) will not raise employees’ Modified Adjusted Gross Income (MAGI), the basis for subsidy calculations. Extra vacation, paid leave or flex time could also be offered as perks to employees sent to the ACA exchanges.
+
+The most salient non-wage compensation for dropping employer-sponsored insurance, however, might be to boost or initiate contributions to employees’ Health Savings Accounts. HSAs are tax-sheltered savings accounts that can be used to pay out-of-pocket expenses for enrollees in qualified high-deductible health plans. Employer contributions to HSAs do not count toward the employee’s MAGI and so will not reduce the premium subsidies for which they qualify on ACA exchanges.
+
+About 25 percent of health plans offered on ACA exchanges are HSA-qualified, according to a Manhattan Institute report by Paul Howard and Yevgeniy Feyman, and 98 percent of Americans have access to such plans on the ACA exchange in their state and county. Most of these are Bronze plans, which carry deductibles averaging over $5,000 per person.
+
+An employer-funded HSA linked to a Bronze plan could be a particularly viable arrangement for employees who earn too much to qualify for CSR subsidies, which attach only to Silver plans. Contributions to an HSA are capped at $3,350 for an individual and $6,650 for a family; a fully funded HSA could make those super-high-deductible Bronze plans viable.
+
+One obstacle, according to Feyman, is that many HSA-qualified plans on the exchanges are not marked as such. In some cases, he says, “I went through all their documentation and it was nowhere indicated that the plans were HSA qualified. Often the insurer does not label the plan because they themselves are not sure whether it is in fact qualified.”
+
+The report he co-authored recommends that “the current thicket of regulations surrounding HSA eligibility” be radically simplified,, and that clear labeling of HSA-qualified plans on the exchanges be mandatory.
+
+A small business that sends subsidy-eligible employees to the ACA will likely be doing them a favor. Essentially, such businesses will be shifting their own costs to the federal government.It seems only fair that much of that windfall be shared with the employees – especially since the relentlessly rising cost of health insurance has been crimping wages at least since the turn of the millennium.

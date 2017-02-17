@@ -1,0 +1,31 @@
+Hospital administrators are finding that inexpensive and unobtrusive radio frequency identification tags are saving thousands of dollars while increasing quality of care and patient satisfaction.
+
+At the brand-new, 58-bed Texas Health Harris Methodist Hospital Alliance in Fort Worth, everything that moves is being tagged, including high-value assets, wristbands on patients and the badges of all staff members.
+
+[See also: Supply chain efficiency trends]
+
+Over the last year, RFID has saved the Texas Health Alliance $65,000 per month just in rental fees, said Kathi Cox, a project coordinator at the hospital’s parent company Texas Health Resources.
+
+All rental equipment is tagged. When a nurse rolls the equipment out of a patient’s room he or she presses a button that sends an alert to the rental company to pick up the item. In addition, thanks to a real-time location system, the driver from the rental company will know exactly where to find the equipment.
+
+Running behind the CenTrak Gen2IR active RFID tags and readers are the software brains. Intelligent InSites software manages the collected location data. Now hospital equipment is tracked and reallocated to other departments when the need arises. In the future, Texas Health intends to use this technology to share resources across all facilities.
+
+Other RFID applications at Texas Health include automating the discharge process, locating patients when visitors arrive and identifying staff members exposed to an infectious patient.
+
+The University of Maryland Medical Center, a 750-bed hospital, is deploying passive RFID in an entirely different way. It is one of the first to use RFID tagging to track emergency medications found in a typical crash cart.
+
+Using a unique “scanner box” invented by the founders of Kit Check, Kevin McDonald and Tim Kress-Spatz, UMMC staff can verify the contents of its crash carts and check on which medications need replacing, which are near their expiration date and which are missing from the cart. Each tag also contains its unique national drug code.
+
+Using the old, time-consuming manual system required a tech to do the first pass on a tray before handing it off to the pharmacist for the last check; Kit Check allows the pharmacist to devote more time to clinical work.
+
+Despite manual checks and double checks, the error rate in carts averaged almost 1 in 20. With the scanner box, said Adrienne Shepardson, central pharmacy manager at UMMC, mistakes are one in 4,000.
+
+The system also allows the pharmacist manager to see what cart might be carrying recalled drugs. Although not there yet, using an active RFID reader would also allow UMMC to locate those carts and remove the drugs more quickly.
+
+The Kit Check system took only two weeks to roll out and about an hour per individual to train, Shepardson said.
+
+Because Kit Check considers itself a SaaS (software as a service) company, pricing is not typical. There is no upfront ticket and, instead, the company charges by the number of tags deployed, with the cost per tag lowered depending on number ordered. Kit Check co-founder Tim Kress-Spatz calculates the ROI at $4.07 per medication. Using the JSON format, similar to a text file, it is human and machine readable, Kress-Spitz said.
+
+By controlling budget, sharing rather than duplicating resources, improving patient services and staff performance, mobile technologies like RFID give healthcare providers the opportunity to emulate the most successful of private industry’s enterprise-level companies.
+
+This story is based on a report appearing on mHealthNews.

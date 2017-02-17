@@ -1,0 +1,21 @@
+The most popular page across all U.S. federal government websites right now is the IRS’s “Where’s My Refund?” page, where users can check on the status of their tax return. As of Thursday afternoon, 4,561 people were on that single page out of nearly 147,000 visitors to all government websites combined.
+
+That data is from the new public analytics dashboard just launched by the federal government at analytics.usa.gov.
+
+Almost anyone who works at a website these days has seen analytics data like this — or even watches it constantly. But anyone can now watch what’s happening across nearly 300 executive branch domains out of about 1,350 government domains in total. “For the first time, you can see how many people are using a Federal Government website, which pages are most popular, and which devices, browsers, and operating systems people are using,” a post on the White House blog said.
+
+Related: The U.S. Still Won’t Invest In 21st Century Infrastructure​
+
+The site is open source, with data from a Google Analytics profile available for download by anyone who wants to slice and dice it in other ways. To address privacy concerns, the government notes that individual visitors are not tracked across websites and visitor IP addresses are anonymized.
+
+The current data offers just a few items to geek out about, like the fact that the government sites being tracked had about as many visitors on Thursday afternoon as the population of Pasadena, California or Syracuse, New York. Or that an incredible 1.35 billion visitors went to a government site over the past three months. Or that 75.6 million people visited the National Weather Service’s forecast.weather.gov over the past 30 days — which, as Gizmodo points out, is about twice as many visitors as Buzzfeed’s had to its massively successful post on the infamous blue/black white/gold dress.
+
+Not surprisingly, traffic to the IRS website has surged during tax season, more than tripling for the past 90 days compared to the previous three months.
+
+Related: The Government's $125 Billion Slap in the Face to Taxpayers
+
+The data also show that about a third of the traffic to government sites over the past 90 days has come from phones and tablets. “Every year, building digital services that work well on small screens becomes more important,” the White House blog said. Just over a third of government web traffic comes from Google’s Chrome browser.
+
+“There are clearly many more cool things that can be done with this data,” a team at 18F, a federal agency that builds digital services, wrote Thursday, “and we certainly hope you'll give us feedback on what to do next.”
+
+Top Reads from The Fiscal Times:

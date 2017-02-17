@@ -1,0 +1,29 @@
+SEOUL (Reuters) - Google's AlphaGo computer program on Wednesday won the first of five matches against one of the world's top players of a complex board game, Go, marking a dramatic advance for the field of artificial intelligence (AI).
+
+South Korean professional player Lee Sedol, the holder of 18 international titles, conceded defeat in a match broadcast live, with one YouTube stream drawing tens of thousands of spectators worldwide, while domestic television gave frequent updates.
+
+"We landed on the moon," Demis Hassabis, chief executive and co-founder of Google subsidiary DeepMind, which built AlphaGo, said in a tweet after the victory. "So proud of the team!"
+
+AlphaGo had made history in October, by becoming the first computer program ever to beat a human professional player at the ancient Asian game, which many experts consider to be the most fiendishly complicated of its kind.
+
+But 33-year-old Lee, a much more challenging opponent, was considered a bigger hurdle for a machine to vanquish.
+
+Lee expressed surprise at his loss.
+
+"I didn't think AlphaGo would play the game in such a perfect manner," he told reporters after the match. "I would like to express my respect to the programmers for making such an amazing program."
+
+Go, most popular in countries such as China, South Korea and Japan, involves two contestants moving black and white stones on a square grid, with the aim of seizing the most territory.
+
+Experts did not expect an artificial intelligence program to beat a human professional for at least a decade, until AlphaGo's victory last year over player Fan Hui.
+
+"Today's win is symbolic, but nevertheless a very important step," said Jang Woo-seok, a research fellow at the Hyundai Research Institute. "What AlphaGo is doing is essentially cutting down the number of potential moves to consider."
+
+Google executives say Go offers too many possible moves for a machine to win simply through brute-force calculations, unlike chess, in which IBM's Deep Blue famously beat former world champion Garry Kasparov in 1997.
+
+Instead, they said, AlphaGo has sought to approximate human intuition, by studying old matches and using simulated games to hone itself independently.
+
+In recent years, scientists have made strides in getting computers to think and learn in ways approaching those of people, so that artificial intelligence can one day assist in advanced fields, such as healthcare and scientific research.
+
+"The ultimate aim is to use these general-purpose technologies and apply them to all sorts of important real world problems," Hassabis said ahead of the match.
+
+(Reporting by Jee Heun Kahng and Se Young Lee; Editing by Clarence Fernandez)

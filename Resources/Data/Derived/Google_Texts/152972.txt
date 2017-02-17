@@ -1,0 +1,123 @@
+2013 has seen some massive outages; and given our heavy reliance on technology today, there is more at stake than ever before. Outages affect not only internal users, but a company’s customers and partners – and impact revenue, credibility, trust, reputation and productivity.
+
+With all of this in mind, we at Neverfail wanted to put together our own list of the year’s top outages – placing them on a scale based on overall impact of their downtime. The criteria we used to assess the scale ranges across multiple factors:
+
+Expansive Reach
+
+Businesses increasingly depend on the cloud for applications and access to data, so there’s more at stake today than before. In today’s interconnected world, an outage can have a rippling effect across a company’s user base, the country and even the globe.
+
+Damaged Reputation
+
+No one is perfect. But as customers become increasingly dependent upon the cloud for applications and access to their data, perfection is exactly what those customers demand. So, big outages draw a lot of media attention and can quickly put a company under attack. Not to mention the fact that user forums and social media platforms like Twitter have become the automatic and all-encompassing soap box for all irritated customers to expound their complaints. Companies that rely on other cloud platforms to provide their own products and services may also see their reputation adversely affected if the cloud provider has an outage.
+
+Lost Revenue
+
+It is near impossible to determine the exact cost of downtime, since so much depends on the organization, the industry, the number of people impacted, etc. For example: a Standish Study estimated that credit card applications lose around $2.6 million for every hour of downtime, whereas this year’s 49 minute Amazon.com outage reportedly cost the online retail website nearly $5 million in deferred revenue.
+
+It also appears that the cost of downtime is increasing. According to Gartner, in 2005 organizations lost $42,000 every hour of downtime. In 2011, it was estimated that IT downtime costs $26.5 billion in lost revenue each year and another study suggested that the average cost of data center downtime across industries is approximately $5,600 per minute.
+
+By that estimate, the top ten outages equal a whopping $31,214,400 in lost revenue – and that only accounts for the providers themselves, not their end customers. Ouch!
+
+We summarized the top 10 outages in an infographic and have also listed them below. We actually reviewed over 30 major outages; we’ll publish that list and some additional analysis next month.
+
+Our index analysis is based on publicly available information and subsequent analysis of each failure.
+
+1. Microsoft’s Windows Azure
+
+Date: October 30, 2013
+
+Duration: Over 20 hours
+
+Failure: A sub-component of the system failed worldwide
+
+Impact: Every single Azure region was affected (including West US, West Europe, Southeast Asia, South Central US, North Europe, North Central US, East Asia, and East US)
+
+2. Google
+
+Date: August 16, 2013 Duration: less than 5 minutes Failure: All of its services went down Fallout: The volume of global Internet traffic plunged by about 40%
+
+3. Amazon Web Services
+
+Date: Sept. 13, 2013
+
+Duration: Under 3 hours
+
+Failure: Connectivity issues affected a single availability zone, disrupting a notable portion of Internet activity.
+
+Reminder: If you rely heavily on the cloud for your infrastructure, have a failover plan.
+
+4. NASDAQ
+
+Date: August 22, 2013
+
+Duration: 3 hours
+
+Failure: A software bug, followed by inadequate built-in redundancy capabilities, triggered a massive trading halt in the U.S.
+
+Impact: With all the exchanges dependent on one another, this outage had impact rippling across the globe
+
+5. OTC Markets Group Inc.
+
+Date: November 7, 2013
+
+Duration: over 5 hours
+
+Failure: A network failure due to a “lack of current quotation information,” prompted a complete shutdown in trading of over-the-counter stocks in the U.S.
+
+Impact: The shutdown happened on one of the biggest trading sessions this year as Twitter Inc.’s shares debuted. While the disruption only paused less significant equities such as Fannie Mae and Freddie Mac, it tested investors’ nerves following a series of technical mishaps since August and exacerbated concerns about problems in the electronic infrastructure underpinning U.S. exchanges.
+
+6. HealthCare.gov
+
+Date: October 27-28, 2013
+
+Duration: 16+ hours
+
+Failure: A service outage at a Verizon Terremark data center caused downtime for HealthCare.gov., the trouble-plagued online insurance marketplace created by the Affordable Care Act
+
+Impact: With all of America watching the progress of the trouble-plagued online insurance marketplace created by the Affordable Care Act, a data center outage only add more fuel to the flame and perhaps make the public question where to point the finger of blame.
+
+7. Amazon.com
+
+Date: January 31, 2013
+
+Duration: 49 minutes
+
+Failure: Internal issues caused the Amazon.com home page to go down, displaying an error message.
+
+Impact: The outage demonstrated the extremely high value of uptime to services such as Amazon. Analysts calculated that one hour of interrupted service may have translated to $5 million in lost revenue.
+
+8. Microsoft – Hotmail And Outlook.com
+
+Date: March 13, 2013
+
+Duration: nearly 16 hours
+
+Failure: A firmware update caused the company’s servers to overheat; Hotmail and Outlook.com both suffered a loss of service.
+
+Impact: Microsoft admitted that it required some human intervention to bring the services back online, thus delaying the restoration attempt further. Microsoft’s online service reputation took a big hit.
+
+9. Google Drive
+
+Date: March 18-20, 2013
+
+Duration: 17 hours total
+
+Failure: A glitch in the company’s network control software, which caused latency and recovery problems. Users faced slow load times or full-on timeouts while trying to access their Drive documents and files.
+
+Impact: As much as one-third of the customer base was impacted, leading to a virtual hue-and-cry across the Internet.
+
+10. Google’s Gmail
+
+Recommended for You Webcast: Hacking SEO: The Fastest Way to Double Your Rankings in 90 Days
+
+Date: September 23, 2013
+
+Duration: 12 hours
+
+Failure: Prolonged slow download times were triggered by a dual network failure.
+
+Impact: The outage affected 29% of users. For 1.5% of Gmail messages, the delay in downloading large attachments was up to two hours. While its impact may not have been catastrophic, the outage at Gmail is a potential cause for concern, especially as businesses are turning to Google and other providers to run cloud-based email and SaaS.
+
+While our index measures through the end of November, the very recent Yahoo Mail outage deserves a considerable honorable mention:
+
+Yahoo Mail

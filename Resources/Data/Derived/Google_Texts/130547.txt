@@ -1,0 +1,23 @@
+Courtesy of Balaji Srinivasan, who made a big splash in Silicon Valley and beyond with calls for tech entrepreneurs to develop means of working around and otherwise escaping government control, comes news of a small-scale demonstration of his ideas at work in a confrontation between Yale students and university officials.
+
+Yale has an online course catalog, Yale Blue Book, purchased from student originators. Two current students, Peter Xu and Harry Yu, developed an improved Website, YBB+, that proved very popular because of its lighter interface and the ability to sort classes according to standards important to undergrads. So, of course, the school shut the competitor down. And then technology came to the rescue, rendering the shutdown effort impotent.
+
+Writes Ariel Kaminer at the New York Times:
+
+The idea did not seem controversial at first: Peter Xu and Harry Yu, twin brothers who are seniors at Yale University, set out to build a better, more user-friendly version of the university’s online course catalog. But as Mark Zuckerberg found when he decided to build a better version of Harvard’s undergraduate student directory, these things can take on a life of their own. Yale shut down the brothers’ website last week, helping to turn a local campus issue into something of a civil rights cause. Now, after a few days of controversy, a similar tool is up and running, and it appears to be Yale that has gotten a schooling. The brothers said they were tired of the university’s “clunky” online catalog, which made it hard to see how students from previous semesters had evaluated courses. So in December 2012, Mr. Xu and Mr. Yu, both computer science majors, came up with their own version. They called it Yale Blue Book +, or YBB+, a reference to the Yale Blue Book, a course selection website that other students had developed and sold to the school a couple of years ago. “We wanted it to be faster to use,” Mr. Xu said. On his site, he continued, “You can click on a course, you can see its description, you can see what other students have said about it — all in a few clicks.” In particular, students could sort courses by numerical ratings given by students in previous semesters, and see what courses their Facebook friends were looking at.
+
+Yale officials got bent out of shape and objected on a grab-bag of grounds that essentially boiled down to: "you didn't ask and we don't like it."
+
+But...Students liked YBB+ (which was renamed CourseTable in an attempt to escape a trademark battle). They complained. And, more importantly, one of them did something that made the ban unenforceable.
+
+Writes Yale student Sean Haufler:
+
+What if someone made a piece of software that displays Yale’s course evaluation data in a way that Yale disapproves of, while also (1) not infringing on Yale’s copyrights or trademarks, (2) not storing any sensitive data, (3) not scraping or collecting Yale’s data, and (4) not causing damages to Yale’s network or servers? If Yale censors this piece of software or punishes the software developer, it would clearly characterize Yale as an institution where having authority over students trumps freedom of speech. Guess what? I made it last night. I built a Chrome Extension called Banned Bluebook. It modifies the Chrome browser to add CourseTable’s functionality to Yale’s official course selection website, showing the course’s average rating and workload next to each search result. It also allows students to sort these courses by rating and workload. This is the original site, and this is the site with Banned Bluebook enabled (this demo uses randomly generated rating values).
+
+Haufler's intention, he wrote, was to demonstrate that "Censorship through IP blocking and Deep Packet Inspection is not only unethical, it’s also futile."
+
+Now Mary Miller, the Dean of Yale College, concedes that "In retrospect, I agree that we could have been more patient in asking the developers to take down information they had appropriated without permission, before taking the actions that we did." She also allowed that Banned Bluebook "leapfrogs over the hardest questions before us."
+
+Which is to say, it leapfrogs over the school's ability to even pretend to control of the situation.
+
+Expect more such solutions to attempted exercises of power, on a larger scale, in the future.

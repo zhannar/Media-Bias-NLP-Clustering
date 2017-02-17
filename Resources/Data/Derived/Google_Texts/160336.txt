@@ -1,0 +1,37 @@
+While much of the industry’s attention over the past few years has been focused on Medicare and the massive funding opportunities involved in its half of the EHR Incentive Programs, the Medicaid ecosystem has been quietly plugging away at improving its big data analytics capabilities, quality of care, and breadth of reach into some of the most challenging patient communities.
+
+Medicaid expansion under the Affordable Care Act has become a political football, leaving millions of needy patients stuck in deepening coverage gaps, and vastly changing the service landscape of states that have jumped at the chance to provide more low-income care.
+
+These Medicaid patients may not have had access to health insurance for years, are often behind on their preventative care schedules. They also often have difficulty accessing services on a regular basis and are in need of significant help with chronic disease management.
+
+Their providers, many of whom have been unable to collect meaningful use dollars to build up their EHR and health IT infrastructures, are often operating with limited resources, poor connectivity, and outdated technologies.
+
+That has to change if the healthcare system as a whole is to become truly interoperable, said Acting CMS Administrator Andy Slavitt and National Coordinator Karen DeSalvo in a blog post last week. CMS and the ONC are stepping up to the plate to improve interoperability in the Medicaid sphere by providing increased funding opportunities for health IT adoption.
+
+“The great promise of technology is to bring information to our fingertips, connect us to one another, improve our productivity, and create a platform for the next generation of innovations,” Slavitt and DeSalvo wrote.
+
+“Technology, when widely distributed and available, enables providers to improve patient care by distributing information and best practices and leading to better experiences of care for individuals in the health care system. And technology can make a significant difference in the rapidly modernizing Medicaid program.”
+
+States will now be able to request 90 percent enhanced matching funds to help Medicaid providers connect to the broader healthcare continuum, officials said, hopefully closing some of the interoperability gaps that have left critical elements of the care system out in the cold.
+
+“Adding long-term care providers, behavioral health providers, and substance abuse treatment providers, for example, to statewide health information exchange systems will enable seamless sharing of a patients’ health information between doctors or other clinicians when it’s needed,” Slavitt and DeSalvo said. “This sharing helps create a more complete care team to collaborate on the best treatment plans and goals for Medicaid patients.”
+
+The state-by-state design of the Medicaid program has produced a unique pattern of innovation centered on regional projects, pilots, and initiatives. In 2014, CMS launched the Medicaid Innovation Accelerator Program to promote activities that reduce costs, improve population health management, and foster technology adoption, but individual states have had no compunction about striking out on their own.
+
+In Maine, for example, working with the state health information exchange (HIE) is bringing advanced predictive big data analytics to Medicaid providers, HealthInfoNet’s Chief Operating Officer Shaun Alfreds told HealthITAnalytics.com recently.
+
+“We have created predictive analytics models that we’re running for the Medicaid program as part of a CMMI initiative to show the value of merging clinical and claims data to monitor risk,” Alfreds said.
+
+“Those risk scores can then repopulate into the HIE environment, so that a provider accessing the portal can take advantage of those analytics. They can better understand the risk of that patient having an adverse event or developing a chronic illness.”
+
+The Mississippi Division of Medicaid can also boast an important interoperability achievement. In conjunction with the University of Mississippi Medical Center (UMMC), the Medicaid program has developed a single patient identifier that serves as the foundation for real-time data exchange between UMMC’s Epic EHR and the Medicaid system.
+
+“As part of our commitment to provide quality health coverage for vulnerable Mississippians, we are proud to have established one of the nation’s first interfaces between Medicaid and Epic to share Medicaid clinical data with the state’s largest Medicaid provider,” said DOM’s executive director David J. Dzielak.
+
+While CMS and the ONC are no doubt pleased to see independent innovations springing up across the country, the federal agencies are starting to recognize that they must present a more unified front to help healthcare organizations master the interoperability and big data analytics competencies they need to provide the highest quality care.
+
+“This is more than a technology initiative,” DeSalvo and Slavitt stated. “It is part of a comprehensive effort to make sure that the 72 million adults, children, seniors and people with disabilities served by the Medicaid program have access to high quality, coordinated care. Improving population health and addressing the needs of complex populations requires strong health information technology tools.”
+
+“This investment should also speed the adoption of alternative payment models that focus on the quality rather than the quantity of care provided,” they added. CMS has made a commitment to transition at least half of all current fee-for-service payments into value-based reimbursements by 2018,
+
+“As the Medicaid program moves towards paying for quality, technology infrastructure and information exchange is needed for better care coordination. CMS and ONC look forward to partnering with and supporting states in these and other critical efforts to modernize and connect the Medicaid program for the millions of beneficiaries they serve.”

@@ -1,0 +1,15 @@
+After the Boston Marathon bombing last year, UK-based publication The Guardian created one of the more positive sides of the story using data mined from Boston.com, where individuals came out to offer help for people stranded in the area. Simply gathering this publicly available information and developing a visualization for it allowed The Guardian to provide its audience with an authentic story.
+
+The new frontier of data journalism is helping journalists and bloggers create compelling stories. In an interview for theCUBE at the Tableau Conference last week, Tableau Software, Inc. Senior Product Marketing Manager Ben Jones discussed the rise of data journalism and why he believes it’s going to become just another part of the way journalists do their work.
+
+Data journalism has actually been around for a while, but the difference now is the fact that there’s a lot more data. Tools, like Tableau, are making it easier and easier for journalists to use it in order to create a convincing point.
+
+Jones said that some newsrooms have a team of data specialists that pair up with reporters to develop interactive graphics. Now, with Tableau being so easy to use, individual journalists and bloggers are creating their own visualizations and even finding a story based a data discovery itself. Jones mentioned Sarah Ryley at the New York Daily News as an example for this. Tableau worked with her to create a visualization for a story on arrests for transit fare evasion.
+
+Another use case of data visualization in journalism was around ObamaCare. There was a time when data around this subject wasn’t easy to find. As a workaround, journalists started to look at social sentiment. Alabama Media Group data journalist Alex Walsh created a visualization on a survey in which the majority of respondents gave a negative review of the Affordable Care Act.
+
+Jones also worked with ProPublica Assistant Managing Editor and top data journalist Scott Klein to introduce interactive data to students at New School University in New York City. He stated that the students really took to it and had fun interacting with the data. “I think there’s a new wave of journalists coming in that are really going to find this to be an activity that’s not as intimidating,” said Jones.
+
+Amongst complaints about content mills and the lack of source material, data has become a real bright spot for good journalism. In the past, video and photo journalism were just buzz words. Now, they’re just integrated into the way stories are presented. Regarding interactive data, Jones believes, “You’re just going to start to see in the years down the road that’s just kind of expected to be a way to articulate a point. And, hopefully, what will follow there is an increase in the numerical literacy of the population.”
+
+photo credit: Alan Cleaver via photopin cc

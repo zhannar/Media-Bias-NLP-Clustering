@@ -1,0 +1,39 @@
+The health insurance exchanges have faced some significant challenges and even some questioning among the payer community, especially after the insurer UnitedHealthcare announced at the end of 2015 that it is considering whether to leave the health insurance marketplace.
+
+Currently, UnitedHealthcare is thinking of dropping out of the health insurance exchanges by 2017 due to profit loss and negative financial outcomes when selling individual plans through the marketplace. In 2015, the company suffered a quarter of a billion dollars in losses through the exchanges. A similar outcome is expected in 2016 as well.
+
+However, this move could potentially impact other insurers and lead to more concern among the payer community. Merrill Matthews, a resident scholar at the Institute for Policy Innovation, even mentioned that the actions of UnitedHealthcare could leave a ‘death spiral’ for other insurers participating in the health insurance exchanges.
+
+“UnitedHealthcare doesn’t feel like it can stay profitable in that group of business and it would indicate that others might be struggling as well,” Matthews began. “Several insurers came out and said that they’re still committed to being here, but it might indicate the death spiral that we’re concerned about in the exchanges.”
+
+“There’s been a long-running concern that what the exchanges will ultimately be is the place where the people who are the sickest and need subsidies from the federal government will reside,” continued Matthews.
+
+“The question comes about – would even some of those people be able to buy cheaper insurance, even considering the subsidies, outside of the exchange if a death spiral initiates. If so, does that ultimately make the exchanges unworkable?”
+
+The leaders of major health insurer Aetna show one example of the type of questioning that remains with the Affordable Care Act’s health insurance exchanges. Aetna Chief Executive Mark Bertolini had spoken critically of the exchanges during a conference call and U.S. Health and Human Services Secretary Sylvia Burwell had spoken with Bertolini to further understand his concerns, according to Kaiser Health News.
+
+The Aetna CEO seems to have settled his viewpoint on the health insurance exchanges after Burwell outlined the entire earnings transcript in the call. Bertolini explained that Aetna does like the marketplaces but some changes may need to be made.
+
+While the Aetna CEO continues to work with the Obama administration when it comes to offering health plans on the exchanges, there are some enrollment challenges that Bertolini wants to address including the small percentage of young people choosing health coverage through the marketplace.
+
+“Young people pay some amount of premium, pick a number, and have a $5,000 deductible and go to the doctor once a year and pay all in cash,” Bertolini told the news source. “How does that program support their view of what’s good health?”
+
+Bertolini suggests that younger people should be offered lower-deductible plans. The Aetna CEO is considering whether the insurer can join the California health insurance exchange – Covered California – with the costs of premium a deciding factor. Currently, Aetna has undergone some jumps in rates and state regulators are bringing more oversight to the insurer due to its planned acquisition of Humana Inc. for $37 billion.
+
+While insurers are still questioning whether it is beneficial for them to offer plans through the marketplace, in the midst of the HIMSS 2016 Conference and Exhibition, it is useful to consider the platform and technology necessary to hold the bountiful amount of information payers and consumers provide on the exchanges.
+
+The MarkLogic database is used to hold consumer and health plan data via the exchanges and this database has been capable of managing the rise in enrollment numbers over the last few years. When it comes to consumer demand and the capabilities of the health insurance marketplace database, Bill Fox, Vice President of Healthcare and Life Sciences at MarkLogic, spoke with HealthPayerIntelligence.com to offer some more key data.
+
+In order to meet consumer demand and manage the high enrollment numbers, the MarkLogic database “scales out and not up,” explained Fox. As the numbers rose, the system was able to “add more capacity,” which is how the database handled greater demand.
+
+The reason to incorporate the MarkLogic database is due to “its ability to scale out, ingest data in a schema agnostic way, and handle massive volume securely. MarkLogic is a transactional, operational database designed to not only analyze data for better insight, but operationalize it to use in day-to-day business operations,” Bill Fox explained.
+
+“Across a lot of industries and projects whether it is BBC for the London Olympics or healthcare.gov, we handle these kind of volumes and these kind of surges very well.”
+
+When asked whether Congressional challenges to the Patient Protection and Affordable Care Act – or even a complete repeal of the healthcare law – would put an end to the federal health insurance exchange, Fox mentioned that most insurers and clinicians are more concerned with the business side of healthcare, have found the marketplace a favorable environment, and will likely continue utilize these platforms.
+
+“To me, in the conversations that I have with executives all across the healthcare continuum including insurers, hospital systems, or clinicians, they’re more concerned with both the business and delivery of healthcare. They have business concerns like ensuring high quality care is delivered in a profitable manner,” Fox clarified.
+
+“I think they see the exchange as part of this ecosystem that exists now and the healthcare field will always have to adapt to changing policy and innovation,” he concluded. “There’s always parts that some people don’t like, some people do, and some people think they need to change some aspects. It’s a huge piece of legislation. There’s always going to be tweaking and it can always get better.”
+
+As time goes on, changes are made, and insurers become more comfortable selling health plans on the federal exchange, the Affordable Care Act is likely to have lasting effect and may have greater success.

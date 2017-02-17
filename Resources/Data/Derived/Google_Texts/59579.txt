@@ -1,0 +1,19 @@
+Though the flu vaccine is generally quite protective when it comes to certain strains of the virus, researchers believe that with the right approach, they could eventually figure out a way to prevent all strains of the flu at the same time.
+
+Each year, we get hit with flu season between October and May — and every time, the virus strain is slightly different. According to the CDC, 200,000 people in the U.S. are hospitalized due to flu-related problems every year, and up to 20 percent of the population gets infected with the flu.
+
+While vaccines typically protect against the current strain going around that season, they might not cover all the strains floating around. That’s why researchers from The Ohio State University are attempting to develop a treatment that could prevent all strains of the flu from occurring in the first place, ridding the need for a vaccine completely.
+
+“The flu vaccine needs to change every year because the virus is constantly mutating,” Jacob Yount, assistant professor of microbial infection and immunity at The Ohio State University, said in the press release. “What we’re doing is targeting a more fundamental process that is not specific to any particular strain of the virus.”
+
+The researchers boosted the level of a particular protein known as IFITM3 (interferon-induced transmembrane protein 3) in mouse and human cells in their experiments. IFITM3 is known to be one protein that can defend against all strains of influenza, and it’s naturally released in cells after the virus has already infected the body. In these cases, IFITM3 fights the infection by trapping the virus and stopping its ability to recreate itself.
+
+The researchers wanted to see if boosting IFITM3 in cells before infection, however, could prevent the flu altogether — and they saw promising results. But there was one more aspect they had to account for: an enzyme known as NEDD4, which typically degrades IFITM3 by attaching a chain of molecules to it. They needed to inhibit NEDD4 in order for IFITM3 to increase in the cell to their desired level, and found it was effective in both mouse and human cells.
+
+“We figured out a way to induce just this single interferon response — the most important thing interferon does for flu,” Yount said in the press release. “That was a huge finding — that you don’t need an infection or interferon to increase the level of IFITM3. The steady-state level of the protein is enough to inhibit the virus if you get rid of NEDD4.”
+
+Recently, scientists from the National Institute of Allergy and Infectious Diseases (NIAID) announced that soon, they may be developing a universal flu vaccine — one that can protect against a wide variety of strains, rather than just one. But preventing the flu even before it hits could be an even better strategy in protecting thousands of people every year.
+
+“If we were to have an outbreak of some pandemic influenza virus similar to what we experienced in 2009, I could envision using this technique to help people who are particularly vulnerable to infection,” Yount said in the press release. “It would work best if used before an infection, because the strategy prevents cells from becoming infected in the first place.”
+
+Source: Yount JS, Chesarino NM, McMichael TM. E3 Ubiquitin Ligase NEDD4 Promotes Influenza Virus Infection by Decreasing Levels of the Antiviral Protein IFITM3. PLOS Pathogens. 2015.

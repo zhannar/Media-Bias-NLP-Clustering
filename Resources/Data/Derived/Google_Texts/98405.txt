@@ -1,0 +1,17 @@
+A man looks over the Affordable Care Act (commonly known as Obamacare) signup page on the HealthCare.gov website in New York in this Oct. 2, 2013 photo illustration. (REUTERS/Mike Segar)
+
+3922314
+
+Users visiting the Obama administration’s Healthcare.gov site are being tracked by 15 different sites via cookies installed on their browsers.
+
+Using the Chrome browser plug-in Collusion for Chrome, The Daily Caller was able to determine that a user who visits the Obamacare site will have 15 different sites collecting information about them.
+
+The sites include: polldaddy.com, googletagmanager.com, doubleclick.net, google-analytics.com, youtube.com, dnn506yrbagrg.cloudfront.net, ytimg.com, quantserve.com, chartbeat.com, google.com, bing.com, duckduckgo.com, pingdom.net, mxpnl.com and optimizely.com.
+
+PollDaddy.com, for example, which is managed by Automattic — the same company that manages WordPress — conducts polls and surveys for companies.
+
+Pingdom tracks site performance issues. Kissmetrics tracks people across multiple platforms, such as Web, social network applications and mobile.
+
+HHS officials said in a blog post on Sunday, “We’re also putting in place tools and processes to aggressively monitor and identify parts of HealthCare.gov where individuals are encountering errors or having difficulty using the site, so we can prioritize and fix them.”
+
+Follow Josh on Twitter and Facebook

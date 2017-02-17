@@ -1,0 +1,19 @@
+With a technique called spatial light interference microscopy (SLIM), it is possible to determine the quality of cells in banked blood.
+
+Blood stored in blood banks also has a shelf life, according to a new study from University of Illinois researchers. The study states that though stored blood looks fresh, the microcapillaries have diminished oxygen-carrying capacity compared to fresh blood.
+
+Banked blood is a huge life-saver for patients needing transfusions after open heart surgeries and other major operations. But surgeons have always been concerned about the risk of using old stored blood and whether it will increase the patient’s chance of developing blood clots or other complications. While the Food and Drug Administration guidelines state that donated blood can be safely stored for 42 days, the blood cells can get ruptured or damaged over time.
+
+It is impossible to determine the quality by naked eye, as the blood retains its shape and flow for a long time. To check the viability of blood cells, the researchers used an advanced optical technique called spatial light interference microscopy (SLIM). "Our results show some surprising facts: Even though the blood looks good on the surface, its functionality is degrading steadily with time," said lead researcher Gabriel Popescu, in a statement.
+
+SLIM uses light to noninvasively measure cell mass and topology with great precision. With SLIM, the researchers took time-lapse images of the red blood cells, recording all their properties. They were able to obtain with nanoscale accuracy changes in the motions of the cell membrane — a property indicative of the cell’s stiffness and function. Less motion means the cells have become less functional.
+
+The measurements revealed that while the cells retain their shape, mass, and hemoglobin content, the membranes lose their elasticity and become stiffer over time. This means they are not flexible enough to travel through tiny capillaries and permeable enough for oxygen to pass through.
+
+"In microcirculation such as that in the brain, cells need to squeeze through very narrow capillaries to carry oxygen," said postdoctoral researcher Basanta Bhaduri, the coauthor of the paper. "If they are not deformable enough, the oxygen transport is impeded to that particular organ and major clinical problems may arise. This is the reason why new red blood cells are produced continuously by the bone marrow, such that no cells older than 100 days or so exist in our circulation. "
+
+The researchers hope that SLIM would soon be used to test the safety of the 14 million units of blood banked annually in the U.S., since a few modifications to white-light microscopes is all that is needed to make them SLIM compatible.
+
+Speaking about the potential applications of this technique, co-author Krishna Tangella said, "Functional data from red blood cells would help physicians determine when to give red-cell transfusions for patients with anemia. This study may help better utilization of red-cell transfusions, which will not only decrease health care costs but also increase the quality of care."
+
+Source: Kandel M, Brugnara C, Tangella K, Bhaduri B, Popescu G. Optical Assay of Erythrocyte Function in Banked Blood, Scientific Reports. 2014.

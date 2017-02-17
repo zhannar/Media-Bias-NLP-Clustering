@@ -1,0 +1,39 @@
+5 tools for improved identity management
+
+Second of two parts. Read part one.
+
+The use of identity-centric security to protect government IT systems has become increasingly urgent as high profile attacks continue to pierce government systems. In fact, besides traditional forms of perimeter-based security, identity management is seen by some as offering the best case for protection in expanding cloud and mobile environments.
+
+While these challenges unfold, government agencies will have to rely on improving existing technology solutions – like those highlighted below – to help manage their ongoing and embryonic security threats. The programs and products represent some of the more far-thinking attempts to address the pressing identity issues and the resulting security concerns associated with weak passwords, the proliferation of mobile devices connecting to networks and the dangers posed by employee data handling errors and theft.
+
+Connect.gov
+
+A government federated identity management hub, overseen by the General Services Administration, started life several years ago as the Federal Cloud Credential Exchange, but became Connect.gov in late 2014. It allows personnel verified through the hub's sign-in partners – including Verizon, ID.me, Google, Paypal and Yahoo – to use one set of digital credentials for accessing a range of both commercial and public sector sites. The exchange itself doesn’t validate identities, leaving that up to its various partners.
+
+Still classified as a pilot, it already has a number of federal agency participants, such as the Veterans Administration, the Postal Service, the Agriculture Department, NIST and others. High profile agencies such as the IRS have said they won’t use the site for now, but hub officials expect a slew of other agencies to sign up for the service over the next two years.
+
+Any credential users now have to access government sites or bank accounts could be used with Connect.gov, once it’s been validated by one of the sign-in partners. Or users could create a new credential with a partner. That will help cut down on the “identity fatigue” users now suffer from handling numerous passwords, officials believe, which is fueling the bring-your-own-identity movement.
+
+The end goal, according to Connect.gov Director Jennifer Kerber, is to have government agencies organize around one sign-in platform and move away from the siloed identity proofing they've relied on so far. The result will be government providing citizens and businesses with better data.
+
+Unisys Stealth
+
+The firm’s Stealth system is used to establish “secure communities of interest” within an enterprise, where only authorized users can access information. Its origin lies in the Defense Department, where multiple, physical networks were used to segregate information depending on it security classification.
+
+However, that can be tough to manage when there can be 20 or more networks on a single ship or at one site. Having those logically rather than physically isolated makes them much easier to manage, plus it allows for faster support of operations when new physical networks don’t have to be deployed, or wires run to desktops.
+
+In developing the platform, Unisys’s Cohn said the company was looking at the requirements of cloud computing and how to protect and isolate customers’ data in the cloud as needed.
+
+The Stealth solution has a “light fingerprint” as it basically sits on top of existing IT infrastructure.
+
+“It’s essentially a packet filter that sits between layers two and three of the Internet stack,” he said. “It examines the packet to see if it’s intended for a particular community of interest, and, if the person logged on is not a member of that, it ignores it so it’s not translated up the stack.”
+
+Stealth provides a way to do things that are identity related, and that isolates and protects information without a lot of administrative headaches, he said.
+
+Metalogix Replicator Cross Domain Edition
+
+Metalogix developed the Replicator in concert with the Defense Information Systems Agency as a way of securely and automatically transferring content between SharePoint farms that sit on different networks and at different security levels. It can, for example, synchronize content between secret SIPRNet and sensitive but unclassified NIPRNet domains.
+
+Replicator is aimed at stemming data leaks from insiders, much of which happens because of unintended or careless actions.
+
+With deployed forces, whose commanders had to operate within their own organizations but also to cooperate with NATO and other forces, sharing information “was a hugely manual process,” involving removable media, said retired Maj. Gen. Steven Smith, a former Army chief information security officer and now advisor with Metalogix.

@@ -1,0 +1,13 @@
+Hello Kitty’s parent company has downplayed a recent data breach that had allowed a security researcher to access the details of millions of visitors of its website and says there’s no reason to suggest hackers had capitalized on the compromise first.
+
+Sanrio Digital, a subsidiary of the Japanese owner of “Hello Kitty,” a popular children’s brand, told Reuters on Tuesday that it patched a security glitch that had affected one of its databases being tipped off by Chris Vickery, a U.S.-based researcher who helps identify and fix vulnerable computer systems.
+
+Mr. Vickery contacted reporters over the weekend to alert them that a database hosted by Sanrio had been misconfigured in in a way that had allowed him to access full names, birthdays, genders, email addresses and other information pertaining to around 3.3 million account holders across a number of Sanrio entities, including several Hello Kitty sites.
+
+“It would have been extremely easy for a bad guy to take the data,” he told Reuters this week. “Extremely easy. Almost as easy as downloading a web page.”
+
+Steve Ragan, a security journalist who was among the first to report on the breach, said he was told by Sanrio that the database contained information concerning 186,261 account holders under the age of 18.
+
+Sanrio has insisted that evidence has so far failed to suggest that anyone other than Mr. Vickery had accessed the database with authorization, but the researcher told Reuters this week that the details of individuals who made accounts on websites including hellokitty.com had been exposed for nearly a month by the time it was patched.
+
+A misconfigured database discovered by Mr. Vickery earlier in the month had similarly been leaking sensitive information concerning users of a dating app aimed at individuals with HIV.

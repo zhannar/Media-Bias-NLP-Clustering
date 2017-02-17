@@ -1,0 +1,29 @@
+It's been almost one year since the flurry of problems with the launch of the federal Obamacare website. Now, the government has identified another issue with Healthcare.gov, this time relating to security. The Office of the Inspector General (OIG) labeled the issue as a "critical vulnerability." Here are three things you need to know about this ominous-sounding problem.
+
+1. Few details are available
+
+OIG actually pointed out multiple issues after a review of Healthcare.gov. The agency's security audit found that the Centers for Medicaid and Medicare Services (CMS) wasn't using any automated tools to monitor security configuration in databases for the Obamacare website. Neither did CMS implement an effective tool to test for website vulnerabilities. OIG also noted that CMS hadn't appropriately documented that a previously identified security issue was resolved.
+
+The most disturbing discovery, though, was the critical vulnerability found when OIG ran its website vulnerability scanning and simulated cyber attack on Healthcare.gov. What was this critical vulnerability? We don't know at this point. OIG is understandably very tight-lipped about the specific nature of the security problem.
+
+What we do know is that describing the issue as critical is worrisome. The agency has four levels of categorizing the severity of potential security problems, with critical as the most urgent. OIG defines critical security vulnerabilities as those where a cyber attacker can execute commands on a server and retrieve or modify information.
+
+2. This isn't a new issue
+
+Another thing we know is that this isn't a new issue. OIG reported that CMS has known about the potential security hole for months.
+
+OIG performed its scanning of Healthcare.gov in April and May. When it notified CMS about the critical vulnerability, CMS responded that it was already aware of the issue and had a plan in place to fix it by June 30. CMS later told OIG that the remedial plan had been implemented.
+
+So is the security problem fixed or not? OIG hasn't announced a subsequent scan of Healthcare.gov after CMS says that their plan to fix the issue was fully implemented. The problem might be fixed, but we don't know for sure based on the information provided thus far.
+
+3. Open enrollment rapidly approaches
+
+Maybe the most challenging aspect of the OIG report is that another open enrollment period for Healthcare.gov is scheduled to begin soon. Individuals wanting to obtain health insurance coverage through the site can do so beginning Nov. 15.
+
+The OIG report comes on the heels of another report finding potential security issues with the federal Obamacare website. Last week, the Government Accountability Office, or GAO, issued a report noting several problems. Marilyn Tavenner, CMS Administrator, assured a congressional committee that CMS would address all of the issues identified by GAO in time for the next open enrollment period.
+
+One concern among many
+
+These latest security concerns could cause some to be reluctant to use the federal website. CMS will need to provide reassurance that the critical vulnerability is truly resolved, but even that effort could fall short.
+
+Security concerns aren't the only area of controversy with the health exchanges established by the Affordable Care Act. Public support for the health reform legislation remains low. With taxes increasing for many Americans, it could be a challenge for that support to increase -- especially if any other website issues emerge.

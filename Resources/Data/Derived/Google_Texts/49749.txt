@@ -1,0 +1,83 @@
+Last week was a rather slow week with regard to the number of reported IT errors, miscalculations, and problems. So we decided to start off this week’s IT Hiccups edition with a status check of some state Affordable Care Act (ACA) website implementations.
+
+While most of the major snafus that plagued the operations of the U.S. government’s ACA website have been taken care of (making changes to policies still seems an issue, however), IT issues associated with several states’ implementation of the ACA continue. A nice summary accompanied by myriad news links to the difficulties in four states—Oregon, Minnesota, Massachusetts and Maryland—was provided in a ProPublica article published last week.
+
+Oregon’s healthcare exchange, Cover Oregon, is having the worst time of it. Four months after its originally planned launch date of 1 October 2013, the $220 million site still hasn’t signed up one person for healthcare insurance. Some 35 000 Oregonians have been enrolled in Cover Oregon via paper applications; the state has had to hire 400 workers, at a cost of $4 million, to process those applications. It is still unclear, however, when (or if) the Cover Oregon’s website will get up and running.
+
+In Minnesota, $160 million has been spent on MNSure, which is only just sputtering along. Problems there include informing applicants that, according to the Caledonia Argus, “they’re eligible for the wrong tax credit or no credit at all, even if your income entitles you to it." There is also major under-staffing at the call center set up to answer applicant questions. An outside appraisal of MNsure says that the exchange website's problems are so great, that it could take up to two more years before they are fixed. The state had projected that 135 000 people would have used MNSure to enroll in healthcare insurance plans by now, but so far only about 28 000 Minnesotans have done so.
+
+Last week, Massachusetts Governor Deval Patrick announced that an insurance executive had been hired to oversee the state's bungled healthcare exchange website. According to the Wall Street Journal, the reason, Patrick said, was that, “The website is still too cumbersome, and as more people need to update their coverage in the coming weeks, there is no assurance that the current system can handle the new and higher traffic… Bottom line: The website that was supposed to make it easy has not worked well enough.” The governor also said that another $10 million has been added to the $68 million originally budgeted for the website. So far, Massachusetts has paid the prime contractor, CGI, only $15 million for its botched work, and the $10 million is going to another contractor, Optum, in hope of finally and quickly correcting the website’s problems.
+
+I’ve noted previously noted some of Maryland's problems, such as its healthcare exchange website incorrectly listing the Seattle Pottery Supply company’s telephone number as the one that individuals seeking help in signing up for health insurance should call. While that issue has been resolved, last week it was reported that a Pennsylvania woman’s Gmail address was listed by the exchange as that of an official navigator who could also help Marylanders with signing up for healthcare. She is not amused by the mistake, to say the least. There were also stories such as one in the Washington Post last week regarding the lawsuit between two of the main contractors working on Maryland’s exchange; each sought to deflect blame onto the other for the website's persistent problems.
+
+One common theme in each of the states, ProPublica reported, is how none of the government officials in charge seemed to know that their respective state exchanges were in such bad shape, despite numerous risk assessments, some going back years, telling them that the sites were disasters in the making. One can only conclude that the officials are either liars, fools or more likely, both.
+
+New Zealand Payroll Problem Refuses to Die
+
+In August 2012, New Zealand launched a new NZD $182 million payroll system for 110 000 teachers and support staff. Since then, the system has been nothing but trouble, with thousands of teachers not getting paid, or being paid too much or too little. It is estimated that teachers and staff at 90 percent of New Zealand’s 2400-plus schools have experienced problems with their pay.
+
+The New Zealand government spent most of 2013 (and another $20 million) trying to sort the problems out. At various times, officials declared that the end was in sight, only to have more pay problems crop up. The latest declaration that things would soon be fixed once and for all was in mid-January—with government and education officials expressing to the Otago Daily Times “confidence in the beleaguered payroll system … for the first time since it was rolled out.”
+
+However, last week, more teacher and staff pay problems were being reported, with some staff again going unpaid. How many teachers and staff are affected is not yet known, but they are getting that sickening feeling of déjà vu all over again.
+
+Air India Boeing 787 Suffers Software Fault Leading to Emergency Landing
+
+We close out with the story of an Air India Boeing 787 Dreamliner on its way from Melbourne, Australia, to New Delhi. It had to make an emergency landing in Kuala Lumpur due to a “software glitch” that affected the aircraft's flight management computers.
+
+The New York Times quotes Praveen Bhatnagar, an Air India spokesman, as saying, “There was an indication in the flight management computers that there was a software glitch, so the pilot decided to land at the nearest airport, which was Kuala Lumpur… Once you have lost confidence in the machine and on the software, then you cannot take the risk, so the pilot took the controls in his own hands and landed the plane safely.”
+
+Boeing issued a statement saying, “We are aware of the in-service incident and working with Air India to provide support.”
+
+Air India indicated that something similar happened to another Boeing 787, but that it did not know what airline was supposedly affected.
+
+Coincidentally, Polish airline LOT canceled a Boeing 787 flight last week, also because of a computer malfunction.
+
+States Continue to Have Problems with Healthcare Exchanges
+
+Four State Exchanges That Epically Failed
+
+Cover Oregon Debacle Long In Making
+
+MNSure Problems Grow
+
+Massachusetts Governor Tries to Stem Health Exchange Woes
+
+Maryland’s Health Exchange Contractors Point Fingers At the Other in Lawsuit
+
+New Zealand’s Novopay System Malfunctions Again
+
+Novopay Problems Appear Thing of the Past
+
+Novopay Problems Reappear
+
+New Zealand Teachers Unhappy Over Latest Payroll Problems
+
+Boeing 787 Experiences Software Issues That Affect Flights
+
+Air India 787 Diverts After Software Problem
+
+Polish Airline LOT Cancels Boeing 787 Flight After Computer Malfunction
+
+More Boeing 787 Dreamliner Teething Problems
+
+Of Other Interest …
+
+Texas A&M Kingsville Sends Out Hundreds of Incorrect Acceptance Letters
+
+Computer Glitch Fails Final Year Medical Students at Belfast’s Queen’s University
+
+Yahoo Suffers Outage Not Long After Making Fun of Google for Its Outage
+
+Starbucks Japan Gives Out Free Coffee In Face of System Error
+
+RBS and NatWest Banking Error Hits Individual Savings Account Interest Payments
+
+Colorado’s Daycare State Inspection Website Back Online After Four Months Being Down
+
+Software Upgrade Causing Pain in Pima County Arizona Justice Court
+
+Aviat Networks New ERP System Creates Delay in Reporting Financials
+
+Victoria’s Emergency System Fails for the Sixth Time in Eight Months
+
+Photo: Cover Oregon

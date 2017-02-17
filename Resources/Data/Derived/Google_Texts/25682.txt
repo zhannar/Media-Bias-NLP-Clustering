@@ -1,0 +1,85 @@
+The flying device moves across the winter sky with a throaty hum reminiscent of a “Star Wars” sound effect. It hovers for a moment, then makes a sudden feint to the left and another to the right, demonstrating remarkable agility for a four-rotor helicopter smaller than a pizza box. “We love our drones,” says 3D Robotics editorial director Sue Rosenstock, as she gazes at the black-and-blue craft overhead.
+
+This is the Bay Area face of the drone revolution. Here, backyard enthusiasts and entrepreneurs are hoping to usher in a new era for unmanned aerial vehicles (UAVs) — couched much more in the starry-eyed optimism of Silicon Valley than in the grim realities of military weaponry and counterterrorism tactics.
+
+Advocates want to see the technology used in industries ranging from agriculture and industrial engineering to movie making and journalism. Further, their goal is to make it accessible to just about anyone.
+
+Drones have been riding high in the news lately, with Amazon founder Jeff Bezos revealing on “60 Minutes” that he intends to deploy an armada of UAVs to ship products as soon as possible. There’s significant money to be made, or so says the Association for Unmanned Vehicle Systems International. The group has projected the fledgling industry could produce upwards of $82 billion in economic activity in the decade after drones are allowed into the general airspace.
+
+For now, though, as visions of an aerial assault of Amazon-branded drones dance in their heads, Americans are looking up to the sky with dual parts interest and trepidation — and wondering, what’s next?
+
+“What’s next?” remains unclear. The Federal Aviation Administration is mulling potential constraints on so-called unmanned aircraft systems and civil liberties advocates continue to speak out against drones for their capacity to invade privacy. Current laws are fairly restrictive: Hobbyists are allowed to fly devices weighing less than 55 pounds as long as the aircraft stay under 400 feet and avoid heavily populated areas. They also can’t use the technology for commercial purposes.
+
+In practice, the rules are considerably more fuzzy, with a final suite of regulations expected from the FAA sometime this year.
+
+The regulations might include requiring some sort of license for UAV usage, a protocol which has yet to exist, and would likely involve a background check — a sticking point for often-iconoclastic drone enthusiasts. Another possibility would be to require UAV users to report flight activity to the FAA.
+
+It’s not certain that the government will permit drones to fly over populated areas, and the definition of “populated area” is being debated. Enthusiasts were heartened in late December when the FAA named six drone-testing teams, which will explore a “broad array” of concerns and applications for UAVs. They hope at least one test site in the U.S. will be up and running in the next six months. (California was not named as a test site in a 24-state competition.)
+
+“There needs to be some type of regulation, but I also am an advocate for freedom, and people should self-regulate themselves and be responsible,” said freelance UAV journalist Sally French. “I sort of envision something like the ham radio license. To operate a ham radio, you need a license, but it’s not terribly hard to get. You prove you know what you’re doing.”
+
+While regulations are in flux, drones have hit the Bay Area in growing numbers. Hobbyists regularly invade dog-walking areas and public parks to practice their skills (and occasionally lodge their devices in trees). Bay Area residents are most likely to see two types of drones — highly maneuverable, square “multicopters” with multiple rotors that give them great agility, and gliding, fixed-wing aircraft that bear more resemblance to airplanes and are used for longer-distance missions.
+
+The company most symbolic of the Bay Area drone ethos may be 3D Robotics, founded in 2009 by Chris Anderson, the former Wired magazine editor-in-chief, and Jordi Munoz, the chief technology officer. Anderson sponsors a popular do-it-yourself drone website, DIYDrones.com. His company caters to enthusiasts who prefer to build and maintain custom-made machines.
+
+Berkeley-based 3D Robotics produces the APM Universal Autopilot, which lets users control a range of vehicles in the air and on the ground with a single device. Recently it released a product known as the Iris, which sells for about $750 and is intended to allow the non-technical to purchase a drone without having to put it together themselves.
+
+The Iris is not just another iteration of the popular and similarly priced Phantom, made by Hong Kong-based competitor DJI, according to 3D Robotics. Company leaders are promoting it as the first consumer-level drone intended to be fully autonomous. This means, if all goes as planned, even novices will be able to program a flying route using proprietary software, instead of having to pilot the device.
+
+“These autonomous craft will change the way we acquire data from the air — create a platform that hasn’t existed before in any affordable way,” said Pablo Lema, a director at 3D Robotics. Lema painted a picture of a strange but not necessarily unappealing future in which the family drone is loaded into the car for a vacation, right alongside the Golden Retriever.
+
+GRADUATE STUDENTS AND BATTLE DRONES
+
+Many drone enthusiasts are committed to what’s known as the maker movement, prioritizing doing it yourself over buying out-of-the-box technology.
+
+At Stanford University, members of a student UAV club meet on Thursdays to discuss their devices and on Saturdays to fly them out at the dry Lake Lagunita, where the only obstacle to their aircraft is the occasional errant, off-leash bird dog. Club founder and aeronautical engineering Ph.D. student Roberto Bunge concluded last year that UAVs were going to hit big, and he decided it was high time Stanford had a club.
+
+“The mission of the club is to enable student-driven, hands-on UAV projects, by providing a common space here at Stanford where students can come together and show their technical know-how, and get advice if they’re just starting out,” Bunge said. “It’s all about the hands-on nature of UAVs — we’re not so much about talking, more about doing stuff.”
+
+Other UAV enthusiasts are taking their hobby in a decidedly different direction, such as Marque Cornblatt and Eli DElia. Interested in flight and robotics, and regular attendees of maker-oriented tech get-togethers, the business partners quickly discovered an exciting application for drones: friendly combat for the masses.
+
+“We’d show off what we were working on, but we would inevitably start fighting our projects against each other,” Cornblatt said of these gatherings. “And that really led us to try and develop drones that were very tough, could take the abuse and keep flying.” DElia added: “Once we figured out how to crash it and make it not matter anymore, the fun has skyrocketed.”
+
+Now they’re seeking Kickstarter funding for their “Game of Drones” project. The goal is to develop exceptionally rugged flying machines, using military-grade material, that can be used for everything from recreational battling (including on paintball ranges) to usage in harsh conditions all over the world.
+
+A recent afternoon found the pair in a San Francisco park, shouting encouragement to their custom-made devices as they squared off in a scaled-down dogfight. A police car rolled by the park at a slow speed, took in the scene, and slowly rolled away. DElia scored a hit against Cornblatt’s craft, and the black airframe plummeted to the ground, unharmed and ready to fly again — a vision that will likely interest UAV users scared of destroying their carefully nurtured devices with one wrong flick of the thumb.
+
+BETTER REPORTING WITH DRONES
+
+Other local drone enthusiasts are using the technology for journalism and photography, opening up interesting avenues in imaging. SkyPixel.org founder and Stanford graduate Eric Cheng had a long background in underwater photography before branching out to deploy drones in his work. His high-definition videos of surf breaks, San Francisco landmarks and other scenic wonders are some of the most popular in the genre online, while his website dispenses information on the world of quadcopters to aspiring pilots.
+
+“I’ve been tracking [drones] since 2006, and they were sort of open source and very difficult to put together,” Cheng said. “I always wanted to put cameras on them. I basically got little toys five years ago and flew them around the house, but I wasn’t willing to put in the effort back then to try to build one because it seemed like a hobby that would take over. You’d start and that would be it.”
+
+Cheng waited until the DJI Phantom hit the market and purchased one, modifying it to fit his needs. Now he owns multiple drones — which he modifies and customizes — and travels around the world with his devices.
+
+Sally French, a Berkeley resident, graduated from the University of Missouri last year and was one of the students involved in the school’s UAV journalism program, which ended after it received a cease-and-desist letter from the FAA.
+
+“The professor mentioned over lunch that he was starting a drone program, and at the time I didn’t know what a drone was, two semesters ago,” French said. “I really had no idea, but it sparked my interest, so I asked if I could be a part of the class.”
+
+Drones worked for French, who became fascinated with the technology and the potential for creative stories that it provided. Now she’s freelancing full-time with UAVs, working with the San Francisco Chronicle and other major news outlets to collect one-of-a-kind footage from the air.
+
+“I used a drone to cover ‘Crissy Broadcast’ at Crissy Field,” said French, recalling an October performance art piece that featured performers moving in formation over a considerable area of ground.
+
+“That was another really cool purpose for the drone,” she said. “You were able to see the formation of the musicians from the sky, whereas if you’re on the ground watching, it’s like: ‘They’re in cool shapes, but I can’t tell.’’’
+
+DRONE SCIENCE
+
+Some scientists are embracing consumer-level drones. San Francisco State student and archaeologist Peter Christian is working towards a master’s of science in geographic information systems: He’s hoping to use drones to carry out cheap surveying of natural and cultural resource, taking his machines where helicopters and satellites are too expensive or too impractical to use.
+
+“The question is, can you spend pennies to get data products you feel you can actually use and research?” said Christian, who plans to make this research the backbone of his thesis project.
+
+It’s a matter of economics for some cash-strapped scientists: renting a satellite costs about $10 for every 25 kilometers, according to Christian, while renting a helicopter can cost $300 to $500 an hour. Ground surveys, meanwhile, may be cheap and accurate, but don’t present a good overall picture — and require a researcher to spend a whole lot of time tromping around the research area.
+
+Enter drones.
+
+“The other huge advantage is how frequently you can repeat the visit of the area with these drones,” Christian said. “In terms of natural resources and water use perspectives, you want to get something directly after the storm or after a wildfire — or during a wildlife. This is stuff drones are absolutely perfect for.”
+
+Christian emphasizes that he’s not a big fan of controlling the device himself. “It stresses me out. I do most of my work using an autopilot. An autopilot is far better than me, and much more stable.”
+
+Christian’s fondness for using autopilot instead of his own reflexes puts him at the vanguard of the next wave of drone technology — autonomy, which will allow those who never were any good at video games to use these devices effectively.
+
+Drone advocates may be convinced that their chosen technology will prove transformative, but other Bay Area residents are considerably more worried about the potential implications. Just as drones can be used to conduct inexpensive surveillance of archaeological sites or national parks, so too could they be used to keep tabs on citizens. Oakland has attracted attention for its proposal to create the Domain Awareness Center, or DAC, a high-tech facility that would use surveillance — including police drones — to fight crime.
+
+“Drones present too much potential for abuse, since they are small, relatively inexpensive, and have powerful surveillance capabilities such as high-definition video and infrared cameras, which can potentially surveil people even inside buildings,” said Mary Madden of the Alameda County Against Drones coalition. She said her group is not particularly concerned by the usage of camera drones by private citizens.
+
+“If you have a smartphone, they know where you are and what you’re thinking,” said Christian, pointing to the recent NSA surveillance revelations. “The idea that drone use is a watershed event in terms of invasion of privacy is kind of ludicrous.”

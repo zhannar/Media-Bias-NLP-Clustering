@@ -1,0 +1,59 @@
+The Obama administration has given scant explanation for the website problems. | REUTERS Tech experts fear Obamacare bugs
+
+The glitch-plagued Obamacare rollout might be just the beginning: A series of potential technology problems could thwart the Obama administration’s goal of getting 7 million people enrolled in the new exchanges by the end of March.
+
+Millions of people have already encountered error messages, delays, crashes and stuck accounts. Technology experts and Obamacare backers worry that each step ahead in the process — filling out applications, checking on subsidies and selecting a health insurance plan — creates a potential technology choke point. And that doesn’t even count any additional chaos when people try to use their new health insurance come January.
+
+Story Continued Below
+
+“There is grave concern that many individuals who are intent on securing coverage by [Jan. 1] may not be able to do so by that date,” said consultant Dan Schuyler, who helped design a health insurance exchange in Utah and is now the senior technology expert at Leavitt Partners. “There’s a small window [the Department of Health and Human Services] has. If the problems persist another three or four weeks, those at the back of the line will not have coverage.”
+
+( PHOTOS: 25 unforgettable Obamacare quotes)
+
+The Obama administration and the contractors building the federal website have given scant explanation for the problems, other than blaming early problems on overwhelming turnout.
+
+Senior Hill Republicans, who had been predicting a “train wreck” even as they refused repeated administration requests for money to set up the system, are pressing HHS and the lead Obamacare software contractors — CGI and Quality Systems Software — to explain what went wrong.
+
+“Despite the widespread belief that the administration was not ready for the health law’s Oct. 1 launch, top officials and lead IT contractors looked us in the eye and assured us all systems were a go,” Chairman Fred Upton (R-Mich.) said in a statement Thursday. “Instead, here we are 10 days later and delays and technical failures have reached epidemic proportions.”
+
+( WATCH: Kentucky residents react to Obamacare roll-out)
+
+Obamacare advocates knew there would be glitches at the start, but they didn’t expect anything like the technological logjam that has kept enrollment to a trickle.
+
+Outside tech experts have offered all sorts of explanations for the meltdown, but only those with direct knowledge of the tech infrastructure know — and they are still working through it. And when they put out one fire, another one could flare up.
+
+Some software engineers have suggested that the consumer end of the website, designed by one contractor, is not “talking to” the back end of the website, developed by a different company.
+
+Diagnostic tools in Web browsers have identified coding issues that may be complicating account creation. The Wall Street Journal reported Friday that the administration is considering an overhaul of the registration system this weekend to allow people to browse health plan options without first creating an account. The paper said the tech experts are focused on a bottleneck where a flood of data meets an Oracle software component involved in identification verification.
+
+( WATCH: Ben Carson compares Obamacare to slavery)
+
+But no one knows for sure whether or where other serious bugs lurk. Insurers and other businesses involved have complained about inadequate time to test the system after the already ambitious timetable was compressed because of delays in finalizing regulations for the Obamacare insurance exchanges and in signing off on contracts with insurers.
+
+There have been some improvements since the rocky start; wait times are shorter and more people have been able to create accounts. But still, relatively few visitors to HealthCare.gov get through from start to finish — including registration, personal data submission, identity verification, tax credit eligibility and plan selection. And when the first obstacles come down and millions of people log on and try to complete each of these steps — any or all could turn into another choke point. There’s particular worry about that tax credit calculation, which determines how much of the premium people have to pay.
+
+“If we are already running into issues at the user account stage, we’re going to run into a lot more issues when we get to the more complex operations at the [subsidy] eligibility determination,” said Leavitt’s Schuyler. “That’s the reality. It’s a very complex process, and I think it’s going to get worse before it gets better.”
+
+( Also on POLITICO: Ted Cruz: Hecklers are Obama operatives)
+
+HHS declined to comment on The Wall Street Journal report or to respond to POLITICO’s specific questions about possible problems with subsidy determinations or the enrollment transfers to insurers, two of the areas that experts pointed to as of particular concern.
+
+“We know that people are enrolling in coverage and the system works. As individual problems are raised by insurers, we work aggressively to address them,” spokeswoman Joanne Peters said.
+
+Part of the problem is that signing up for Obamacare coverage is far more complicated than the online transactions Americans are used to, like checking a bank balance or ordering a book. The Obamacare website must knit together platforms from five huge federal agencies — Homeland Security, the Social Security Administration, HHS, the Treasury Department and the Department of Justice — each of which marches to its own IT specifications. It must also interact with separate systems set up by the 15 states that built their own exchanges, plus all of those outside insurers.
+
+It’s an unprecedented experiment in federal information technology.
+
+“If they pull it off, they will be making IT history,” said Stephen Parente, director of the Medical Industry Leadership Institute at the University of Minnesota and a former health care adviser to Sen. John McCain. “This has never been done before.”
+
+( Also on POLITICO: Musicians singing Obamacare tune)
+
+But it wasn’t a pop quiz. The government had 3½ years to prepare, and the warning signs were visible.
+
+Funding, in particular, has been a challenge, given the general budget impasse and the deep GOP opposition to Obamacare. The White House’s April budget laid out an impossible request for an additional $1.5 billion for the final push to set up the law. Acknowledging Republican lawmakers would never agree to pony up those funds, administration officials assured the public they could move some money around and make do with what they had.
+
+Whatever the cause of the problems, the first 10 days have given plenty of fuel to the GOP complaint that Obamacare wasn’t ready for prime time. “A complete fiasco” is how Sen. John Barrasso of Wyoming summed it up this week.
+
+It shook the confidence of some Obamacare supporters, too.
+
+Follow @politico

@@ -1,0 +1,39 @@
+As Hillary Clinton continues to dodge questions about why she conducted all of her State Department correspondence through a private email account, a new report from Fox News' James Rosen shows the former Secretary had many private email accounts on a server run from her Chappaqua, New York home. Emphasis is mine.
+
+Hillary Clinton appears to have established multiple email addresses for her private use, and possibly the use of her aides, under the domain of “clintonemail.com,” according to a prominent member of the hacking community who supplied independent research data, conducted with high-tech tools, to Fox News.
+
+
+
+The hacker used an open-source tool, publicly available, called “The Harvester” to search a variety of data sources – including well-known platforms such as Google, Bing, LinkedIn, Twitter and others – for any stored references to email addresses seen using a particular domain, in this case clintonemail.com.
+
+
+
+The application of The Harvester to clintonemail.com revealed additional email addresses besides the one that Clinton aides have insisted publicly that she used, and have said was the only one that she used, when she served as Secretary of State: namely, hdr22@clintonemail.com.
+
+
+
+A screen grab of The Harvester’s findings provided to Fox News by the source in the hacker community – whose professional resume also boasts extensive experience in the U.S. intelligence community – lists rather similar, but nonetheless different, email addresses, including hdr@clintonemail.com, hdr18@clintonemail.com, hdr19@clintonemail.com, hdr20@clintonemail.com, and hdr21@clintonemail.com.
+
+
+
+Also unearthed by the hacking tool were email addresses of a slightly varied structure, including h.clinton@clintonemail.com, Hillary@clintonemail.com, contact@clintonemail.com, and mau_suit@clintonemail.com.
+
+The White House and State Department have made multiple attempts this week to defend Clinton's use of personal email, but according to a new report from ABC News, Clinton was in direct violation of State Department policy for six years.
+
+A senior State Department official tells ABC News that under rules in place while Clinton was secretary of state, employees could only use private email accounts for official business if they turned those emails over to be entered into government computers. They were also forbidden from including sensitive but unclassified information on private email, except under some very narrow exceptions.
+
+
+
+This policy is still in place, according to the Department. Until any private emails are entered into government computers, the official says, an employee is in violation of the rules.
+
+
+
+And perhaps the worst part of this entire scandal is the fact that Clinton put her own desires to avoid scrutiny and evade federal records laws about the national security of the United States by communicating sensitive information on an unsecure, personal server.
+
+Security researcher Dave Kennedy of TrustedSec agrees: “It was done hastily and not locked down.” Mediocre encryption from Clinton’s outbox to a recipient (or vice versa) would leave all of her messages open to bulk collection by a foreign government or military. Or, if someone were able to copy the security certificate Clinton used, they could execute what’s called a “man in the middle” attack, invisible eavesdropping on data. “It’s highly likely that another person could simply extract the certificate and man in the middle any user of the system without any warnings whatsoever,” Hansen said.
+
+
+
+The invalid certificate would have also likely left Clinton vulnerable to widespread internet bugs like “Heartbleed,” which was only discovered last spring, and may have let hackers copy the entire contents of the Clinton servers’ memory. Inside that memory? Who knows: “It could very well have been a bunch of garbage,” said Hansen, or “it could have been her full emails, passwords, and cookies.” Heartbleed existed unnoticed for years. A little social engineering, Hansen said, could give attackers access to Clinton’s DNS information, letting them route and reroute data to their own computers without anyone realizing. “It’s a fairly small group of people who know how to do that,” Hansen noted, but “it’s not hard—it’s just a lot of steps.”
+
+As the Washington Post editorial board stated yesterday in an op-ed, this situation goes far beyond the use of email and Clinton has destroyed (for now at least) the public trust.

@@ -1,0 +1,59 @@
+Reggio Emilia Hospital was faced with a challenge. Although the 900-bed acute care hospital has a picture archiving and communication system, electronic health record and computerized physician order entry, it needed a final element: an integrated clinical image repository and distribution system.
+
+[See also: Is VNA the future of image delivery?]
+
+So the hospital, which is based in northern Italy, about half way between Milan and Bologna, turned to Rochester, N.Y.-based Carestream Health and its new Clinical Collaboration Platform.
+
+Reggio Emilia was a beta test site for the new platform, which uses Carestream’s Vue archive to store and exchange clinical content in DICOM and/or non-DICOM formats. Carestream touts the fact that the platform – launched at RSNA 2014 this past November – goes beyond the traditional capabilities offered by a vendor-neutral archive by embedding "intelligent lifecycle management and meta-data management" to get a handle on multiple archives.
+
+[See also: PACS Americana: The U.S. radiology IT market is saturated and stable, but change is on the way]
+
+Marco Foracchia, manager of the IT medical systems unit within Reggio Emilia's IT department, said non-radiology media content has traditionally been neglected, and hasn't been managed properly because this data is viewed individually.
+
+"Every type/source is not relevant and wouldn’t justify a major investment," he said. "Having a single solution that could gather all media types would create greater financial feasibility."
+
+Carestream, Foracchia said, helped his unit in performing a preliminary study to assess the types and volumes of media.
+
+"We also analysed their relevance for the clinical paths and the significance of their distribution towards different clinicians," said Foracchia. "Based on the analysis, the VNA solution was proposed and adapted to be able to easily import and properly manage potentially any kind of available media."
+
+He added that the new system would have a significant impact on patient care: "The main impact will be the proper availability of data that would otherwise be destroyed or improperly managed."
+
+Moreover, it will help to increase the ability to share among clinicians, both within a clinical care path, or among different paths at different times, such as accessing endoscopy images from previous examinations, biopsies and excisions as well as accessing the video of previous surgery procedures, he said.
+
+Although it's too soon to tell what the ultimate ROI will be, Foracchia some benefits are already being realized: "What we have seen is the fact that a single investment can be diluted on different pending storage 'issues,' thus becoming meaningful and a ROI can be in sight."
+
+Cristine Kao, Carestream’s global director for healthcare information solutions, said the clinical collaboration platform's ability archive and exchange clinical content in DICOM and/or non-DICOM formats is key.
+
+She noted that the industry began implementing vendor-neutral archives years ago to reduce the cost of managing multiple silos of storage and resources. But providers worldwide face the need to expand beyond archive consolidation, she said.
+
+"They need a solution that will boost collaboration around clinical data; break down walls between ancillary departments, sites and networks; and provide physicians with a single view of critical patient records and information," said Kao.
+
+Beyond the traditional provider access, Kao added, "patients want ownership of their own healthcare data so they can make their own decisions. Having a holistic view of data also provides the data transparency and analytics needed by payers for quality or compliance purposes".
+
+From a patient safety perspective, Kao said providing physicians with a single view of patient records eliminates the need for physicians to log into multiple systems to obtain information.
+
+"This is not only time consuming but some systems do not provide access to all physicians or to offsite physicians," she said. "Having access to a patient’s entire record can ensure that a physician has a holistic view of the patient and can make critical decisions as part of the integrated clinical pathway."
+
+Kao explained that a consolidated view of patient records also has the potential to reduce duplicate exams that are conducted at hospitals including Reggio Emilia when prior clinical data is not available when diagnostic decisions are being made.
+
+With regard to potential ROI, Kao noted that in addition to consolidating archive costs, the Clinical Collaboration Platform can equip healthcare providers with higher productivity and streamlined management including:
+
+Better productivity for physicians by having critical information available when it's needed. This eliminates duplicating exams or wasting time searching for them.
+
+Enhanced patient satisfaction that can increase new patient referrals. Carestream’s initial study with Reggio Emilia showed that patients were often coming back to the main site for consultations when satellite sites were closer to their homes. However, these remote consultations couldn't happen because data was not available at these remote locations.
+
+Kao said that in addition to Reggio Emilia Hospital, Carestream currently has customers in the U.S. using VNA modules of the platform, which, she noted, is not a single product but rather a combination of modular services and solutions. The newest service, she said helps schedule and manage other ancillary department data and will be available in 2015.
+
+Industry experts note that while the PACs market is very mature, hospitals and standalone radiology centers face challenges similar to Reggio Emilia Hospital.
+
+"The challenge that they face is that they've got a lot of different image types," said Matt Terry, research director of medical imaging technology at KLAS. "If you look beyond just radiology images a CT image or an MRI image where you have an X-ray – those are all DICOM images. The challenge is now you're seeing them want to access in the same way all of these non-DICOM images: You may have a JPEG image or a PDF if they're doing an echo cardiogram, and being able to pull that PDF or that JPEG or whatever image type it is outside of DIACOM.
+
+"Where there's not a standard, being able to pull those in and pull those up quickly on a laptop or at the hospital and the having the ability to do that quickly and seamlessly, that’s been a big challenge," Terry added. "That’s where you're seeing the PACS companies moving to this enterprise wide solution."
+
+Terry said that having the VNA and having the ability to store DICOM and non-DICOM images and being able to retrieve those and query those images quickly into the patient record from regardless of where you are and doing that on the fly has that’s been a huge challenge.
+
+"So that’s the next problem that PACS vendors are trying to focus on that goes beyond just the radiology department," he said. "If it was just radiology it would be simple because it's all DICOM based."
+
+Terry said that the ideal is to move beyond radiology – including cardiology, pathology, ophthalmology, some of the other image-centric departments that generate a lot of images – but currently clinicians don't really have an ability to see that and view those images easily without launching an entirely different PACS system.
+
+He asserted that a lot of the PACS vendors are telling the same story. "Everyone is heading towards an enterprise solution. It's slow moving, I think the PACS industry as a whole has been viewed as a stagnant market – that innovation is not keeping up – it will be interesting to see who will get there first."

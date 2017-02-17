@@ -1,0 +1,15 @@
+Calculation Error Causes Incorrect ACA Subsidies for Thousands
+
+Thousands of families with a parent who is disabled or has died might have received lower subsidies to help them purchase exchange coverage than for which they were eligible because of a calculation error by the federal government, Kaiser Health News reports. Further, some U.S. residents who should have been eligible for Medicaid might have been unable to sign up for the program because of the glitch.
+
+Over the course of several months, people helping U.S. residents purchase Affordable Care Act coverage through HealthCare.gov noticed that the site appeared to be making a mistake in calculating family income, which determines subsidy amounts and Medicaid eligibility.
+
+The calculation issues appeared in cases in which children received Social Security income, typically because a parent has a disability or has died. The government's calculation of modified adjusted gross income included the child's Social Security income. Such income should be included only in cases when the child has to file his or her own tax return; children receiving only Social Security benefits typically are not required to do so. The added Social Security income inflated family income, making it so some Medicaid-eligible individuals could have been wrongly denied coverage while others received a lower subsidy than for which they were actually eligible.
+
+CMS acknowledged the error in March but has not released an estimate of the number of families affected. Tricia Brooks, a senior fellow at the Georgetown University Center for Children and Families, estimated about 40,000 households might have been affected.
+
+Response
+
+CMS has recommended that assisters help consumers address the issue by submitting an appeal to the federal exchange or applying for Medicaid coverage through their state or HealthCare.gov.
+
+Brooks said federal officials should perform a computer search to find affected families and ensure they are enrolled in the appropriate coverage option with the correct financial assistance (Andrews, Kaiser Health News, 4/24).

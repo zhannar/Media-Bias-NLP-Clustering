@@ -1,0 +1,37 @@
+Healthcare.gov still isn't as safe as it should be, and the annual open enrollment period starts again in just two months.
+
+To be clear: Hackers haven't stolen sensitive data from the Obamacare site. But ongoing security and privacy issues plague Healthcare.gov, potentially putting your personal information at risk.
+
+A report by the investigative arm of Congress, the Government Accountability Office, shows why the Obamacare website has room for improvement:
+
+Security tests aren't complete. Health officials aren't conducting full, system-wide exams to make sure everything works together safely.
+
+The Obamacare website didn't require strong passwords.
+
+The website didn't patch bugs quickly enough.
+
+The system didn't restrict test servers from accessing the Internet.
+
+That last one sounds innocuous, but it's why the Obamacare site was hacked this summer. A test server -- that was never supposed to be connected to the Internet -- got infected with malware.
+
+Luckily, the malware was the kind that spews spam, not steals personal data. And that server didn't house any personal information, so nothing was exposed, the government said.
+
+At a House Committee on Oversight and Government Reform hearing Thursday, Gregory Wilshusen, the GAO's information security issues director, testified that the weaknesses that remain "put these systems and personal information at an increased and unnecessary risk of compromise."
+
+There could be other problems facing Healthcare.gov too -- but Wilshusen complained health officials aren't giving investigators enough access to spot problems.
+
+For those worried about a data breach, the Obamacare website doesn't keep your health records. But it does process valuable information: your name, address, Social Security number and income level.
+
+The Obamacare launch on Oct. 1, 2013 was a mess. For weeks the site was overwhelmed with traffic, and many people couldn't access it. Emails between top employees at the Centers for Medicare & Medicaid Services and Health and Human Services revealed at the House hearing showed:
+
+Just five days before the nationwide launch, the CMS director of consumer information found out the website could only handle 10,000 users at once. "Performance testing results in the toilet," she wrote.
+
+Early on, a top security official at CMS ordered employees to "hit the pause button" on an independent review of the website's security, because it was considered unfairly negative and "could see the light of day."
+
+Weeks before the website went up, a senior health department adviser warned, "Whatever launches, if functional, will only technically meet the criteria of launching the exchange."
+
+In an act of goodwill and transparency, health officials put the Healthcare.gov source code on the code-sharing community Github, where code naturally gets positive criticism. Then they awkwardly took it down because of "bashing of the source code" by developers.
+
+When the website launched, Healthcare.gov was unsafely sending information unencrypted. That has since been fixed.
+
+So far, 7.3 million people remain enrolled in Obamacare. That means 91% of the 8 million who signed up stuck around and paid for coverage.

@@ -1,0 +1,107 @@
+Gary Bloom is the CEO of MarkLogic and an enterprise software industry veteran, formerly of Oracle. MarkLogic is a NoSQL database supplier, well known in the scientific, technical and medical (STM) publishing industry and in US government. Here he talks strategy with Computer Weekly, and argues that NoSQL is not only open source. He also talks about how MarkLogic underpins the Obamacare website.
+
+Download this free guide How businesses can win talent war with mobile apps, HR data analytics and cloud technology Latest articles on HR best practices: mobile apps disrupting the annual staff appraisals; reasons for and against open-source software; and Rolls-Royce case study. Start Download Corporate E-mail Address: You forgot to provide an Email Address. This email address doesn’t appear to be valid. This email address is already registered. Please login. You have exceeded the maximum character limit. Please provide a Corporate E-mail Address.
+
+By submitting my Email address I confirm that I have read and accepted the Terms of Use and Declaration of Consent. By submitting your email address, you agree to receive emails regarding relevant topic offers from TechTarget and its partners. You can withdraw your consent at any time. Contact TechTarget at 275 Grove Street, Newton, MA. You also agree that your personal information may be transferred and processed in the United States, and that you have read and agree to the Terms of Use and the Privacy Policy.
+
+Q. When talking to a CEO, I always like to ask what are your top couple of strategic issues. You're not going to have more than one or two, otherwise you've got problems. What are the top one or two things for you, as CEO of MarkLogic?
+
+A. When I joined the company just over two years ago, we looked out into the marketplace, and I think there were two major challenges that we're largely getting past, interestingly.
+
+One of those challenges is centred around the Hadoop marketplace and what the role of Hadoop was in the stack. The response we got from a lot of customers was: “Well, I'm going to solve all of my problems with Hadoop.” And I’d say: “Well, it is an interesting distributed file system.”
+
+The market has evolved now to realise that to really get value from all that data in Hadoop you have to build a data management stack above it, and that's essentially what MarkLogic is.
+
+So we've embraced native Hadoop. And when we say "native Hadoop", what we mean is you can run MarkLogic on the Hadoop distributed file system and that gives us the advantage of not only accessing the Hadoop data but also the advantage of tiered storage capability.
+
+The second area has been the distraction in the marketplace from so many new entrants. There are probably no fewer than 50 players in the NoSQL marketplace. We're starting to see that settle down as well, where the number that are actually in the marketplace has come down. A number of them are starting to go away or will be going away shortly.
+
+We’ve differentiated ourselves in the NoSQL market, bringing all the enterprise features that corporations need to be able to use this next-generation technology. That would be high availability, backup and recovery, security and transactional consistency – ACID support.
+
+We’re also helping people understand that this NoSQL world is no longer just about rich media data. Again, if you go back to a couple of years ago, everyone thought, “Well, it's 80% of the world's data that's not in a relational database.” But no, it's really 100% of your data, because you've got highly heterogeneous relational data as well as all your unstructured data, and how do you deal with all that data combined together?
+
+Take the database for the [US] Federal Marketplace on Obamacare [The Affordable Care Act], healthcare.gov, for example. We're the database at the heart of that, and the data services hub. We've brought together all the different plan data, which did have some rich media characteristics, but it's insurance data from thousands of public and private insurers all coming together in a marketplace.
+
+The data services have brought together immigration data, IRS [Internal Revenue Service] data and credit data; brought together roughly 21 different sources of data into a data hub that not only does the federal marketplace use, but all the data exchanges use as well.
+
+Q. The NoSQL movement post-dates the origination of MarkLogic by quite a few years. One CEO at one of the open-source companies said to me “there's an open-source club". Now, clearly you're not in that club. How much of an issue is that for you?
+
+A. That's how they define it. That's not how customers define it, though. How are we not in "the club" if we're generating more revenue than all of them together delivering NoSQL technology?
+
+We sometimes say we were big data before it was called big data. If you go back to the early adopters of MarkLogic technology, going back into the early 2000s because we've been around for 14 years, it was the publishing industry because they need to move from traditional relational technology, which was very document-based, to actually managing the content within the documents. MarkLogic was a pre-eminent technology that did that.
+
+The second early adopter of the technology was the government intelligence agencies in the US around anti-terrorism, post-9/11.
+
+Q. One possible issue could be the size of the developer communities that open-source companies can draw on.
+
+A. It has really been no issue for us. What it has become is a lead-generation engine for us. Because what happens is, because the open source product is easy to download, easy to adopt, you didn't have to go through purchasing or procurement to get it. And you learn all about this next generation of database technology, but then at some point, if you work in a corporation you have to move up.
+
+Remember our target market is not two guys and a dog in a garage building a website. Ours is the corporate developer. Ultimately, if you have to run your business on it, you then have to have all of those enterprise features.
+
+So a great example is one of my really large banking clients. I can't attribute this to them because they wouldn't like that it was attributed to them. They said: “We have MongoDB used by many of the developers in our shop.” I said: "So, what do you think about that?" And their response was: "We can't run our bank on it.”
+
+Would you be comfortable with your bank running on technology that has no security, no backup or recovery, no replication, no transactional consistency? I sometimes liken having no security in a database to going to a cash machine. You put your card in. You enter your PIN. You push the button on how much money you want and the machine opens up and there are big stacks of money and you just use the honour system – you will only look at and take what you're entitled to.
+
+Our real competition for the past couple of years really has not been the open-source players, but the traditional relational database technology providers: IBM, Microsoft, Oracle Gary Bloom, MarkLogic
+
+Q. The open-source NoSQL suppliers are not going to get there quickly enough, then?
+
+A. I don't think so. I think the movement is going faster than they can evolve their technology and faster than they can harden it, which is why our real competition for the past couple of years really has not been the open-source players at all. In fact, we've been competing most with the traditional relational database technology providers: IBM, Microsoft, Oracle.
+
+Larry Ellison's favorite line is: “We do it all. You just put it in the Oracle database. We do everything.” The reality is, yes, you can put all of that data in an Oracle database. But the second reality of it is that you can't do anything with it once it's in there.
+
+Q. Why is that?
+
+A. The main reason comes down to architecture. Essentially, what Oracle does is make you fit all your data into a very stringent format – a schema.
+
+Take the US healthcare.gov system, for example, where you have to bring immigration data, IRS data, credit data. There's no standard format for how all that comes in.
+
+Oracle would make you define a format upfront with how all that data looks so you can ingest it and bring it into the Oracle format. But every time one of those source systems changes you have to redo that descriptor of the data. We eliminate that process and ingest the data as is. We bring it in to MarkLogic. We use our search engine to search the data.
+
+But we don't go in and say, "You've got to throw Oracle out or you've got to throw IBM out".
+
+In fact, if I look at one of the banking systems we're working on right now, we're doing its global trade store. We’re not changing the Oracle, DB2 or mainframe systems at that bank. They are all staying the same – completely unmodified. But we're giving the bank a universal view of its trading environment over the top of all that data by consolidating all that data into MarkLogic.
+
+Q. Give me an example of a MarkLogic implementation that is making something that was not possible before possible.
+
+A. It is hard not to look at healthcare.gov. The goal for the Obama administration was eight million citizens enrolling in health insurance – and more than eight million citizens enrolled in health insurance. That's absolutely changing lives.
+
+Every time President Obama does a press conference on this, he brings people up on stage and says: "Here's the lady. She lost her insurance. She got diagnosed with cancer three days later. Obamacare took care of her and saved her life. She wouldn't have otherwise been able to get the care necessary to recover.”
+
+Q. What's your growth story in our region, in the UK, and western and northern Europe? What does that look like?
+
+A. We're growing rapidly here. The fact that I can go to Amsterdam and have 200 people come to a MarkLogic user conference is a pretty good indication of opportunity.
+
+Our growth story this year, as I mentioned before from a revenue and then a bookings perspective, is that we're bigger than the sum of all the other NoSQL players together. My belief is when we finish up this fiscal year, we will be growing at the same rate, if not faster, than they are as well.
+
+There's nothing vertical about the data problem we solve – of heterogeneous data that has to come together Gary Bloom, MarkLogic
+
+Q. Is any particular country more receptive than others?
+
+A. It's funny, because we always get asked the question, "Well, what about vertical markets?" And then secondly, "What about geographic regions?" In terms of vertical markets, the early adopters were publishing and government intelligence. So a lot of people said, "Okay. Well, that's all it applies to."
+
+Well, now you look at our business, we’re extremely large in the health insurance industry and financial services sector. We have customers in the logistics and distribution business, we have biotechs, we have pharmaceuticals.
+
+So what we've come to realise is that there's nothing vertical about the data problem we solve – of heterogeneous data that has to come together.
+
+Q. Given the closeness of the UK and US intelligence communities, I would have expected to see more success.
+
+A. We've already expanded out in the global intelligence community. We're starting to call on the Nato countries around the globe. When you talk about the intelligence business there's really nothing terribly classified about our technology. What's classified is the data you put into the technology.
+
+So it's like Oracle. Oracle doesn't really have classified technology. Everybody in the world can buy it, but the intelligence agencies have used Oracle for years by putting data that is highly classified and restricted.
+
+Well, we're the only NoSQL provider that actually has government-grade security.
+
+Q. And the business relationships that you clearly have in Washington must be helpful?
+
+A. Right. They are very helpful. The intelligence opportunities that we're pursuing around the globe are almost 100% based on introductions or a US agency telling somebody in a foreign government, "Well, this is how we solved that programme. Go talk to these guys." And "these guys" happen to be MarkLogic.
+
+Q. Your mission at MarkLogic was what when you stepped in the door a couple of years ago, and how far are you down the road?
+
+A. That's always a fun question - my mission for MarkLogic. I believe we're in the very early stages of a shift to a next-generation technology. I think there's always that opportunity to capitalise on the innovator's dilemma of the leaders of the prior generation.
+
+A very enjoyable part of my career was when I joined Oracle, when it was about the size MarkLogic is today. When I left in 2000, I had 22,000 of Oracle's employees reporting to me and the database business was $8bn of our $10bn in revenue.
+
+I looked at it and said, "We became the pervasive player that really capitalised on the generational shift of technology from the mainframe to highly distributed relational databases."
+
+Well, we're going through that same generational shift again, and I believe MarkLogic can be at the centre and the heart of that generational shift. That's what I'm working towards.

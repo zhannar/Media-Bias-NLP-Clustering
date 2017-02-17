@@ -1,0 +1,73 @@
+The Obamacare rollout has been widely acknowledged to be a disaster. Some experts claim the system can be fixed – but it’s going to take tremendous political will and a broad reform of the federal procurement process to overhaul the website for the long term.
+
+The problem is far bigger than Obamacare. The health care website is simply the first federal IT failure the general public has been able to witness first hand. Many other projects that received much less public scrutiny failed far worse than Healthcare.gov.
+
+Related: No Hope Left for Obamacare’s Website, Techies Say
+
+Of 3,555 federal IT projects that cost at least $10 million, only 6 percent were a success, according to a study by the Standish Group. In addition, 52 percent of large projects were deemed "challenged," meaning they didn't meet user expectations, went over budget, or ran late. All of the remaining projects - 42 percent - were outright failures.
+
+"Things take a very long time to get done because they have to go through such draconian processes," Jim Johnson, founder and chairman of Standish , said in an interview. "The mentality is there’s no penalty to take longer [on a task] than you should. There’s no penalty if you overspend . There’s no incentive to do a good job."
+
+Among these projects are the following:
+
+A failed electronic health record program that was supposed to allow the Pentagon and Veterans Affairs to share files. DOD canceled it when the cost of the program was projected to top $28 billion. The original system was supposed to cost $1 billion.
+
+The Virtual Case File System, for which the FBI paid contractors $170 million. The bureau eventually decided the program as conceived would never work, -- and canceled the contract.
+
+The Secure Border Initiative, which was supposed to create a virtual fence between the U.S. and Mexico. Homeland Security canceled it after spending $1 billion on just 53 miles of fence. The entire border is 1,954 miles.
+
+The Business Modernization Program, launched by the IRS in the 1980s. The program’s goal was to help the IRS manage files. More than 20 years and $7 billion later, it's still not done.
+
+The Kinetic Energy Interceptor, an anti-ballistic missile system that would take down enemy rockets early in flight; Northrup Grumman was the contractor. After the DOD spent $1.2 billion on it, the Obama administration canceled the program because it simply didn't work.
+
+
+
+
+
+Related: What Obamacare Ignores: Cutting Health Care Costs
+
+These failed projects alone cost taxpayers $37 billion . The 3,550 other failures, while not big-ticket contracts, add millions, if not billions, to this total.
+
+"I think this really goes to the government having a tough time keeping up with the advancement of technology and most importantly security," said David Kennedy, the founder of TrustedSec, a cyber security firm. "The Healthcare.gov website is an example of this, but there are countless others over the past that have the same type of exposures."
+
+Everyone acknowledges that federal IT is broken. But few people have offered up solutions for fixing it. The Fiscal Times reached out to a number of tech experts to determine what needs to change to have viable government IT programs. Their suggestions range from increasing oversight of tech projects to changing the contracting and procurement processes – though political mountains would have to be moved for many of these changes to have an impact. Here are suggested fixes:
+
+1. Change the contracting process by adding clear deliverables to gauge success or failure. The Obama administration has already paid CGI Federal nearly $200 million for the Obamacare website despite the company's atrocious track record on federal contracting projects. Kennedy says this is a symptom of a broken contracting process.
+
+“Direct expectations need to be built into the contract language – that if any piece of technology has a high-risk profile, such as Internet facing with sensitive data, it needs to have security baked into it,” he said.
+
+With the Obamacare website, this simply isn’t the case. Techies have noted countless flaws in the design and architecture and they expect to find more as changes are made.
+
+Specific expectations make it easy for the federal government to judge whether a contractor is successful. According to reports, CMS had almost no specific deliverables on a timetable built into the CGI contract.
+
+Related: Obamacare Individual Mandate May Be Next to Fall
+
+"We have to tackle this in the early stages of contract selection and procurement," Kennedy said. "There needs to be strict wording around security and what the expectations are around security in order to accomplish this. Security standards need to be stepped up within the government on all areas. That’s the only way to fix these issues long term."
+
+2. Appoint a federal tech czar to oversee all tech projects. Luke Chung, founder and CEO of the software company FMS and one of the people who first identified problems with Healthcare.gov, said the federal government should create an agency similar to the Government Accountability Office to prevent future disasters.
+
+"Policy makers are totally outgunned and incapable of managing this. They don’t know if tech should cost a million or a hundred million. There needs to be a GAO for technology, a TAO," he said, referring to a “technology accountability office” idea. "This agency could provide the governance to make sure these things are reasonable."
+
+This kind of oversight is not unprecedented. Fairfax County in northern Virginia has an outside panel of tech experts that consult on tech decisions.
+
+"They created a board of volunteers in the IT community to serve as a panel to vet tech projects. It’s stuff the Board of Supervisor would never be able to do on their own," said Chung (who is a member of the Fairfax board).
+
+3. Bring tech projects in house. The Standish's group Johnson said that many federal IT projects should not be contracted out but should instead be handled in house. The failed virtual border fence project is a prime example.
+
+"It was going to be computers and cameras. A billion dollars later, they canceled the project," Johnson said of the fence. "Not once did anyone talk to users on the ground about how they go about doing their job. They kept going and asking for more money. There was no incentive for it to work."
+
+The FBI's Virtual Case File is an example, according to Johnson, of how an IT problem was solved without a contractor. Once the contractor failed, a small group of engineers who already worked for the FBI took over. Johnson said they were able to salvage the project, creating something that was below initial expectations but still workable.
+
+"They took a small team of 15 engineers, went into the basement of the FBI building, and they figured about 15 percent was built [by the contractor]. They came out with the project done. It wasn’t a contractor. It was tech people who worked for the FBI," he said.
+
+The federal government might have learned a lesson from the FBI tech disaster. Engineers employed by the Pentagon, not by a contractor, are now trying to salvage the VA-DOD record exchange.
+
+4. Pay more up front for a better contractor. Though this might seem counterintuitive, paying more up front could save money in the long term. All of the federal tech projects cited above had a considerably smaller price tag when the projects began. Contractors, in the midst of failing, were given more money to fix problems they created.
+
+“I think a combination of how the procurement process works, as well as how we select our contractors – it can’t just always go to the cheapest bid when doing these type of things," Kennedy said.
+
+Johnson added this current approach dooms projects.
+
+"Throwing more men and money at it? That's absolutely the wrong thing to do."
+
+Top Reads From The Fiscal Times:

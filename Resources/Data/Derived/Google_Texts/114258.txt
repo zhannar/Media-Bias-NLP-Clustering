@@ -1,0 +1,21 @@
+An in-depth look at cancerous cells can tell scientists a lot about why they're so dangerous.
+
+An in-depth look at cancerous cells can tell scientists a lot about why they're so dangerous. crafty_dame CC BY-NC-ND 2.0
+
+Thanks to a new 3D modeling technique, scientists are one step closer to understanding exactly how cancerous tumors grow.
+
+A collaboration between the University of Edinburgh, Harvard University, and Johns Hopkins University yielded three-dimensional simulations of developing cancers, some of which revealed how miniscule cell movements can rapidly transform the makeup of an entire tumor.
+
+The models, which researchers created using mathematical algorithms, support laboratory studies of how tumors grow and evolve, and why patients can seem to respond well to therapy only to relapse later.
+
+According to the study, most cancers in humans are large, usually measuring centimeters in diameter and being composed of billions of cells. Malignant tumors are made up of cells that are largely homogenous, with heterogeneity confined to late emerging tumor growth. A non-cancerous mass of cells with equivalent mass would be highly heterogeneous due to normal mutations that occur with each cell division. Researchers observed how one cell can multiply to become a malignant tumor, and they saw the different changes that occur in cancerous cells as they move within the tumor itself.
+
+They found that this movement and cell turnover within a tumor allows cells that are well suited to the environment to flourish and grow — any one of these types of cells is capable of taking over a tumor very quickly, often within months. This finding helps explain why malignant tumors are often made up of only one type of cell when healthy tissue is so heterogeneous.
+
+The scariest part about this mechanism, though, is that it does not entirely mix the cells inside the tumor, according to the team. This means that part of the tumor could become immune to certain drugs before other parts, which means they cling on even when another part of the tumor is destroyed by a chemotherapy treatment. Then, they can repopulate and regrow the tumor.
+
+Researchers say that this new information could help develop cancer treatments that target smaller movements of cancerous cells, which could slow the progression of malignant cells within a tumor.
+
+“Computer modeling of cancer enables us to gain valuable insight into how this complex disease develops over time and in three dimensions,” said Dr. Bartomiej Waclaw, of the University of Edinburgh’s School of Physics and Astronomy, and lead author of the study.
+
+Source: Waclaw B, Bozic I, Pittman M, Hruban R, Vogelstein B, Nowak M. A Spatial Model Predicts That Dispersal And Cell Turnover Limit Intratumor heterogeneity. Nature. 2015.

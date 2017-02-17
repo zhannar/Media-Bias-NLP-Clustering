@@ -1,0 +1,55 @@
+SANTA CLARA, Calif.--(BUSINESS WIRE)--LeanTaaS™, a Silicon Valley healthcare SaaS provider, today announced the commercial launch of its LeanTaaS iQueue™ Healthcare Suite, a holistic system that applies data science to overcome healthcare scheduling complexity by optimizing the utilization of scarce resources in order to improve patient flow.
+
+Click to tweet this news.
+
+Top healthcare institutions including Stanford Health Care, UCSF’s Helen Diller Family Comprehensive Cancer Center, University of Colorado Hospital, Wake Forest and others have been field-testing LeanTaaS iQueue. Early adopters have seen significant improvements in operational performance:
+
+Increases of 20-25 percent in patient access to care
+
+Reductions of 50-70 percent in staff overtime
+
+Reductions of 15-20 percent in the unit cost of service
+
+Reductions of 30-35 percent in median patient wait times
+
+Improvements in overall patient and care provider satisfaction ratings
+
+With market and political pressures converging on healthcare, demand for patient access to high quality care is growing relentlessly. The Affordable Care Act is expected to add 30 million new patients to the U.S. healthcare system. Moreover, the portion of the U.S. population aged 65 and over is projected to grow by 46 percent between 2013 and 2025. Because the prevalence of chronic disease is highest among the elderly, these changes are expected to increase demand for specialty care.1 To further understand the scope of the healthcare industry challenge, please see the infographic “Still Waiting for Dr. Godot?” at http://ow.ly/SjwTe.
+
+Healthcare service providers must find ways to deliver the access to care that the Affordable Care Act promises while simultaneously managing the delivery of care cost-effectively. To meet this growing demand, healthcare providers have no choice but to utilize their resources to the fullest extent and ensure smooth patient flows throughout the day. The operational paradox in healthcare is that scarce resources (surgery suites, infusion chairs, radiology equipment) are both overbooked and under-utilized within the same day. For example, studies show that surgery room utilization is only 53 percent today, even though patients often wait months to secure an appointment.2
+
+Clinical Practice Administrator Karen Craver at Wake Forest Baptist Health, Hematology and Oncology, said, “We selected LeanTaaS iQueue because it uses a mathematically sophisticated approach to solve the problem of chair utilization at the infusion center. This has been a long-standing problem for everyone in healthcare, so this represents a real breakthrough for us.”
+
+How LeanTaaS iQueue Overcomes Scheduling Complexity
+
+At the heart of LeanTaaS iQueue lies a data-science-driven service that optimizes the scheduling of patient appointments based on a holistic view of healthcare operations—including historical volume and mix levels, staff scheduling and room/equipment availability. Most patient scheduling today is done on an ad hoc basis, with patients slotted into whatever appointment time is open or requested in an undifferentiated matrix of appointment start times. This leads to a suboptimal sequencing of appointments because there is no mechanism to assign appointment slots based on the number and mix of patients likely to be “in the system” at the specific time slot that is being offered to an individual patient. As a consequence, there are peaks and valleys over the course of the day resulting in long wait times, high overtime levels, inconsistent workloads and expensive capital assets remaining under-utilized.
+
+“We have struggled to manage that same mid-day peak that many facilities know,” said Jamie Bachman, executive director of Oncology Services at the University of Colorado Hospital. “It’s been difficult to add patients and difficult to match nursing schedules to patient requirements. With LeanTaaS iQueue, we are confident that scheduling improvements will be tangible and visible within the next few weeks of our deployment.”
+
+LeanTaaS iQueue uses advanced patented algorithms to model all the possible schedule sequences that could exist at a customer’s site. Data scientists at LeanTaaS build the site’s real-world constraints into the iQueue analytical engines—factors such as number of seats, number of possible procedure start times, number of specialty staff such as doctors or nurses, duration of appointment types and more—and then execute the models. Ultimately, LeanTaaS iQueue produces an optimized appointment sequence that can be imported as a scheduling template for seamless use in the site’s existing scheduling system, thereby enabling the transformation from a rule-of-thumb-based schedule to a data-science-based schedule without needing to change existing workflows.
+
+“Legacy EMRs such as the ones deployed by Epic or Cerner were built to be the single repository of all patient information in the healthcare institution; the schedules built on EMRs are largely based on reserving resources using well-known rules of thumb such as scheduling longer appointments earlier in the day,” explained Mohan Giridharadas, founder and CEO of LeanTaaS. “There is no attempt at building sophisticated constraint-based optimization algorithms that search for the optimal schedule from trillions and trillions of possible solutions. Even a small care center may have an enormous number of possible appointment sequences. We’re talking about 1060, 1070, even 10100 different ways to slot appointment sequences—just for a single day. With numbers that large, there is absolutely no chance of stumbling onto the optimal combination of appointment slots; it takes rigorous analytic methods to find the best solution and machine learning methods to ensure that the solution remains optimized over the long-term.”
+
+Patient scheduling is a complex math problem ready to be solved by data science. To dig deeper into the mathematical complexity of healthcare scheduling, please read “True Patient Access Optimization Requires Deep Mathematical Modeling” at http://ow.ly/SjwVT.
+
+Pricing and Availability
+
+The first of three services in the LeanTaaS iQueue Suite—LeanTaaS iQueue for Infusion Centers—is now available for general release. LeanTaaS iQueue for Clinics is currently being field-tested in select specialty clinics across the country. LeanTaaS iQueue for Surgery is in active development.
+
+Deployment is estimated at three to four weeks for setup, forecasting and creating the initial scheduling template. Ongoing support provides refinement, compliance, refreshing forecasts and measuring performance.
+
+Pricing for LeanTaaS iQueue is based on the size and complexity of the healthcare center. For more information and to schedule a demo, please go to http://leantaas.com/iqueue.
+
+For more information about LeanTaaS, please visit http://www.leantaas.com. To get breaking LeanTaaS news, follow the company on Twitter @LeanTaaS, Facebook at https://www.facebook.com/LeanTaaS and LinkedIn at https://www.linkedin.com/company/leantaas.
+
+About LeanTaaS
+
+LeanTaaS is a Silicon Valley software company whose offerings rely on advanced data science to significantly improve operational performance. Its solutions include LeanTaaS iQueue which is being used by healthcare institutions to develop optimized schedules that can rapidly reduce patient wait times and operating costs while increasing patient access and satisfaction, care provider satisfaction, and asset utilization. For more information about LeanTaaS, please visit http://www.leantaas.com. To get breaking LeanTaaS news, follow the company on Twitter @LeanTaaS, Facebook at https://www.facebook.com/LeanTaaS and LinkedIn at https://www.linkedin.com/company/leantaas.
+
+LeanTaaS and LeanTaaS iQueue are trademarks of LeanTaaS. All other brand names and product names are trademarks or registered trademarks of their respective companies.
+
+Tags: LeanTaaS, iQueue, healthcare, hospitals, cancer centers, infusion centers, oncology, NCCN, Affordable Care Act, Obamacare, data science, data analytics, big data, scheduling, optimization
+
+1 https://www.aamc.org/download/426242/data/ihsreportdownload.pdf?cm_mmc=AAMC-_-ScientificAffairs-_-PDF-_-ihsreport
+
+2 http://www.mgma.com/Libraries/Assets/Industry%20Data/Survey%20Reports/Key-Findings-Cost-Anesthesia-FINAL.pdf?source=

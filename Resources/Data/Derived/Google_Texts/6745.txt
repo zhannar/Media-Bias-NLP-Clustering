@@ -1,0 +1,25 @@
+If you’ve ever applied for health-care insurance, you’d know that the process is unbelievably tedious and complicated because of how much information the companies need to determine your rate. Well Obamacare’s trying to simplify it on Healthcare.gov … by assuming everyone is about as young as can be. From FactCheck.org’s report in USA Today:
+
+The troubled federal website allows visitors to anonymously surf the site for exchange plans sold in their areas and provides them with estimated prices for each health plan. (Just click on the “See Plans Now” button on the homepage and follow instructions.) But here’s the problem: The monthly premium estimates provided on the website do not consider a person’s specific age, household size or tobacco use — all critical factors when estimating premiums. HealthCare.gov visitors using the site’s window-shopping tool are repeatedly told that “the final premium you pay may be lower, perhaps much lower, than the prices shown” once they fill out an application and apply for government subsidies. But what the site doesn’t say is that the actual premium may be higher, perhaps much higher, than the estimated premiums shown on the site.
+
+The authors start comparing HealthCare.Gov’s estimates to those provided by another website, Value Penguin, and by the actual insurers’ … and find out that sure enough, HealthCare.Gov was wildly off in what it told them their estimated monthly premiums would be:
+
+The HealthCare.gov estimates ranged from $708.84 per month to $982 per month [for a family of four]. Now, HealthCare.gov doesn’t ask for ages or even an age range when providing plan information and premium estimates for family coverage. All it wants to know is the visitor’s home state and county.
+
+ValuePenguin.com asks for a little more information. Besides county and state, window shoppers have to provide household size, as well as ages and tobacco use for all family members. That website’s estimates were higher — much higher. A whopping 69 percent higher for each exchange plan. The premium range: $1,201.44 to $1,666 per month.
+
+Sure enough, the insurers’ rates were far closer to Value Penguin’s than to HealthCare.Gov’s. Why? Well because HealthCare.Gov assumes everyone is young, according to the website:
+
+Adult individual = age 27
+
+Adult individual = age 50
+
+Family = 2 adults age 30, 2 children
+
+Family single parent = 1 adult age 30, 2 children
+
+Couple = 2 adults age 40, no children
+
+Child = 1 child any age
+
+While Obamacare is changing how much more older adults can be charged (they can only be charged rates three times as much as young adults’, which is why premiums for young adults are soaring), that doesn’t mean they still can’t be charged some more. But by refusing to take account of different ages in the formula, HealthCare.Gov is painting a wildly misleading picture for most middle-aged and older folks on how much their coverage will cost under Obamacare.

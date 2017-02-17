@@ -1,0 +1,111 @@
+Donald Taylor, Nrupen Bhavsar, Matthew Harker, and Cordt Kassner
+
+December 22, 2015
+
+The hospice benefit was added to the Medicare program in 1983 to provide comprehensive, interdisciplinary care for beneficiaries in the last six months of life. Currently, one in two beneficiaries use some hospice care prior to their death.
+
+New Year’s Day 2016 will herald three policy changes, each of which individually would be the most consequential modification of Medicare program benefits for patients facing the end of life since the introduction of the hospice benefit in 1983. These changes will need to be evaluated to understand their impact on patients and the Medicare program’s fiscal health.
+
+This post describes the changes to end-of-life policy that the coming year will bring and suggests key questions and metrics that should be used to evaluate the impact of the reforms. It also suggests ways to hone and improve methods of non-experimental inference and expand data systems to support this evaluation.
+
+Hospice reimbursement reform, which includes two components: 1) shifting to a two-tiered per diem payment for hospice care (higher in the first 60 days; lower thereafter), replacing the single per diem approach that Medicare has used for over three decades; and 2) the addition of retrospective Service Intensity Add-On payments to adjust for increased acuity during the last week of life.
+
+Explicit payment for advanced care planning discussions between patients, families, and physicians.
+
+The initiation of the Medicare Care Choices Model (MCCM) demonstration under the auspices of the Center for Medicare and Medicaid Innovation (CMMI) in the Center for Medicare and Medicaid Services (CMS). This demonstration will allow: 1) hospice-eligible patients to access hospice care without having to forgo curative treatments as has been required in the Medicare hospice benefit since its inception; and 2) providers to receive a monthly fee for providing this care.
+
+Each of these changes represent ideas that have been discussed for some time by the hospice, palliative care, end-of-life research, and advocacy communities, but the implementation of the first two and demonstration of the third flows directly or indirectly from the debate, passage, and implementation of the Affordable Care Act (ACA). Medicare policy focused on end-of-life care is entering a period of change that is likely to be ongoing. A key task will be providing evidence-based assessments of these and subsequent policy changes.
+
+Hospice Reimbursement Reform
+
+
+
+Two-Tiered Hospice Per Diem Payment
+
+Since the inception of the Medicare Hospice Benefit in 1983, hospices have been reimbursed on a per diem basis. The amount of reimbursement depends on the level of care provided by the hospice. In FY2015, hospices were reimbursed $159.34 per day of Routine Home Care, with higher payments for inpatient care (see Exhibit 1 for comprehensive payment overview).
+
+Additionally, the Medicare Hospice Benefit includes a spending restraint termed the Aggregate Cap, a financial disincentive implemented at the hospice provider level to discourage very long stays, which typically means longer than the 180-day period of presumptive care. This cap requires hospices to reimburse Medicare if mean per capita Medicare spending per cap-eligible beneficiary during the year exceeds a pre-determined amount. (In FY2015, the Aggregate Cap amount = $27,382.63 per capita.)
+
+Section 1814(i)(6)(D)(ii) of the ACA required the Secretary of Health and Human Services to consider revisions to the hospice payment approach used in Medicare since 1983, and the new two-tiered per diem payment methodology will take effect on January 1, 2016 (last column, Exhibit 1). Assessing the impact of this apparently simple change will require the consideration of two seemingly unrelated problems: very short hospice stays prior to death (the 25th percentile Medicare hospice length of use has been five days for around 15 years, with the median around 18 days), and very long ones (i.e., longer than 180 days). (See here, here, and here.)
+
+With short stays, the concern is that, due to late election of hospice, patients and families are not getting the full potential benefit from hospice in terms of quality of life and symptom relief. The increased per diem in the first 60 days of care should incentivize hospice providers to encourage earlier election. However, for three decades, providers have had a level per diem, which also provides an incentive for earlier days, so the short stay problem (i.e., patients and families not getting the full benefit of hospice) is obviously multifaceted.
+
+Long hospice stays have garnered far more attention. (The proportion of stays longer than the 180-day period of presumptive eligibility has risen from 16.8 percent in 2006 to over 20 percent in 2012.) Longer stays raise the possibility that some hospice use is inappropriate or even fraudulent.
+
+The decreased per diem for each hospice day beyond 60 will reduce the incentive for long stays somewhat, but not as much as the more pronounced “U-shaped per diem” that MedPAC discussed in 2009. The 2013 June MedPAC report included the first modeling of a U-shaped curve that greatly increased the per diem in the first and last week of a hospice stay, with reductions in the per diem for days in between (see column 3, Exhibit 1). The current proposal from CMS, with two reimbursement tiers, is simpler.
+
+For the average hospice and the average patient length of use, this change will increase the flow of funds to hospice providers, which should improve the bottom line of many hospice providers. However, there is a less obvious potential impact of these changes that could cause some hospice providers to go above the payment cap and have to return money to Medicare: Since most hospice patients have a length of stay less than 60 days and are discharged deceased, they will receive both higher per diem as well as increased service intensity add-on payments for the last seven days of life. This will put hospices currently near the aggregate cap at risk of exceeding it and having to pay Medicare money back. Key questions for evaluation include:
+
+Will the payment changes (i.e., higher rates for shorter stays) lead to an increase in the length of use at the shorter end of the spectrum, while decreasing it at the longer end?
+
+Will the changes impact the quality of care and quality of life of hospice patients? This is a particularly important question as Medicare continually moves toward outcome-linked payments, and the hospice industry is behind other parts of the health care system in routinely collecting such data.
+
+Will overall Medicare costs be affected? This is a question that has long been relevant for hospice, but for virtually no other part of the health care system. There are methodological difficulties in precisely answering this question, but it will remain relevant in the hospice area because of historical expectations that hospice should reduce overall costs.
+
+Service Intensity Add-On Payment
+
+Starting January 1, 2016, CMS will also provide an optional, as-needed additional billing rate for high-intensity service during the last seven days of life. Hospices will be reimbursed an hourly rate (currently $38.75 / hour) for up to four hours daily if the following conditions are met: 1) Day must be billed at Routine Home Care level of care; 2) Day occurs during last seven days of beneficiary’s life (and beneficiary’s hospice discharge status is deceased); and 3) Hours are for direct care provided in-person by a nurse or social worker.
+
+This additional payment is part of Medicare’s response to hospice providers’ calls for higher acuity reimbursement during the last week of life; it is available for care that doesn’t meet the stringent criteria for the Continuous Home Care or General Inpatient levels of care, more intense levels of hospice care that are already eligible for higher reimbursement. However, because of the additional payments described above, some hospices may be more likely to exceed the Hospice Aggregate Cap, and this will need to be monitored closely. Key questions for evaluation include:
+
+Will nursing and social work visits increase during the last week of life (or perhaps last month of life) as a result of the Service Intensity Add-On payments?
+
+Will increased visits during the last week of life result in higher patient satisfaction or better performance on quality-of-care measures?
+
+How will the increased Service Intensity Add-On payments impact hospice providers for short as well as long lengths of stay? How will these payments impact Aggregate Cap calculations?
+
+How will these additional payments impact overall hospice costs?
+
+Payment For Advanced Care Planning Discussions
+
+Medicare will begin paying for physicians to discuss preferences for care with patients and their families at any time in the disease course; currently such a discussion can only be reimbursed during the “welcome to Medicare visit.” This policy change was a part of the emerging draft of what became the ACA during the summer of 2009, but it was removed as a result of the political firestorm that is best characterized by the phrase “death panels.” Medicare considered making this change during 2010-11 via administrative action that did not include full rulemaking, but pulled back, again due to political controversy.
+
+This change will take effect on January 1, 2016 with little apparent controversy, in part due to the release of the Institute of Medicine’s 2014 report “Dying In America,” which elevated the issue of patient autonomy and choice. Advanced Care Planning is a step toward this broad goal, and our nation and political system appear ready to begin engaging the realities of end-of-life policy with a more reasoned voice.
+
+Key questions for evaluating routine payment of Advanced Care Planning include:
+
+Will Advance Care Planning discussions affect what care patients decide to receive?
+
+Will this result in more frequent and earlier hospice admission?
+
+How might these discussions impact referrals to palliative care?
+
+Medicare Care Choices Model
+
+Since the introduction of the Medicare hospice benefit over three decades ago, Medicare rules have required patients to un-elect curative care if they desire to receive hospice. While nearly half of all Medicare decedents use some hospice prior to death, this longstanding requirement reduces use of hospice services because some persons who could benefit from them are not ready to cease curative care.
+
+The concept of concurrent care has emerged as a preferable option from the patient perspective, allowing them to initiate some hospice and palliative care services while also pursuing curative treatment. A recent study found that around four in 10 Medicare beneficiaries with cancer would be willing to forgo some medical care in return for the flexibility of concurrent palliative care, and an evaluation of concurrent hospice in a non-elderly population showed improved quality of life and reduced costs.
+
+The Medicare Care Choices Model is a test of the general notion of concurrent hospice care, though it is in many ways a limited test. To be included in the demonstration, a patient must be hospice-eligible, meaning that a physician certifies that it is likely the patient will die within six months. This means that all patients entered in this demonstration could simply elect hospice, in which case a hospice provider would be responsible for all of the care related to their terminal illness, but they are choosing not to do so in order to continue receiving curative treatments.
+
+The hospice provider must be prepared to deliver the full hospice benefit to patients while they receive other care, but will only receive $400 per month to deliver this care. By comparison, the routine home care hospice reimbursement will be $186.40 per day starting in January, 2016. (See Exhibit 1). For the demonstration to be a financially viable model for hospice providers, therefore, they must deliver far less care than is normally delivered when a patient elects hospice.
+
+Accordingly, many hospice providers are planning telephonic and remote contact with patients and hoping that patients will later fully elect hospice. Evaluation of these novel approaches to delivering hospice care will be imperative to assess the potential viability of this model, and a full test of concurrent care would include evaluation of the outcomes of providing hospice-like care prior to hospice eligibility (i.e., before a patient is believed to be in the last six months of life).
+
+Key questions for evaluations of this demonstration include:
+
+What mix of care will be provided under this demonstration?
+
+How will patient quality of life be affected?
+
+What proportion of patients in the demonstration will subsequently elect the full hospice benefit?
+
+What will the disenrollment rate for patients in the demonstration be? A key issue is what patients think they are able to get as compared to the care that hospice providers can actually provide for $400 per month payment under the demonstration program.
+
+Will there be other demonstrations of the concurrent palliative care concept that result in palliative care earlier in the disease course, before patients become hospice-eligible?
+
+Attributing The Impact Of Policy To Outcomes
+
+January 1, 2016 will see three big policy changes in Medicare end-of-life policy. Attributing any changes in the overall Medicare program to the hospice reimbursement changes or the payment for advanced care planning will be a nontrivial exercise. Three areas need more attention.
+
+First, determining what level of evidence is “good enough” is a key concept that needs more clarity if we are to increase our evidence base in policymaking. Observational studies will be needed to answer questions that are not amenable to traditional clinical trials. This, in turn, necessitates the collation and synthesis of large, potentially disparate, data sets. Causal inference methods will need to be leveraged to draw inferences from these non-experimental studies, understanding that evidence will be imperfect. Perhaps most important, though, is increasing the data available for such assessments.
+
+A key hole in the data availability in Medicare is the lack of claims data for patients enrolled in Medicare Advantage plans. Since such patients currently revert to Part A if they elect hospice, not having claims prior to such an election is a serious shortcoming.
+
+Second, we will need good proxies for advance care planning payments that will allow for comparison with beneficiaries not participating in such discussions in Medicare claims. The proxies of palliative care that are now available in claims are imperfect since the program doesn’t currently pay for such care explicitly (leading to an undercount of such care). Claims are a great data source if they contain the information needed to address key questions. They are somewhat deficient in the end-of-life space.
+
+Finally, there will presumably be a full-scale evaluation of the Medicare Care Choices Model demonstration project as there have been with other CMMI projects. These CMMI projects are great opportunities to invest in the methods of non-experimental inference that are so crucial for evaluating policy that is either rolled out everywhere (as with hospice payment changes), or via non-random methods (as with Medicare Choices where hospice providers applied to participate).
+
+The New Year will herald big changes to Medicare’s provision of care to beneficiaries who are facing the end of life. Evaluating them well is a top policy priority.
+
+Exhibit 1. Medicare Hospice Payment Rates: Current, Illustrative MedPAC, And 2016

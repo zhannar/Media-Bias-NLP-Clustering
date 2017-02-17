@@ -1,0 +1,41 @@
+Salesforce Health Cloud
+
+SAN FRANCISCO, Sept. 2, 2015 /PRNewswire/ — Salesforce [NYSE: CRM], the Customer Success Platform and world’s #1 CRM company, today introduced Salesforce Health Cloud, empowering healthcare providers to go beyond health records and build stronger relationships with patients. Salesforce Health Cloud is a cloud-based patient relationship management solution that enables providers to gain a complete view of the patient with integrated data from electronic medical records (EMRs), wearables and more; make smarter care decisions; engage with patients across their caregiver networks; and manage patient data.
+
+For the first time in history, healthcare IT is shifting toward the patient experience. New regulations such as the Affordable Care Act (ACA) and outcomes-based reimbursements are pressuring health providers to provide more comprehensive care and compete for patients like never before. At the same time, expectations of patients have shifted, as younger generations — digital natives who grew up with iPhones, Facebook and Fitbits — are demanding that providers offer more tech-savvy ways of managing their care. In fact, 71% of millennials want their doctors to provide a mobile app to actively manage their health. And 63% would be interested in proactively providing their health data from wearables to their doctors, so they can monitor their well-being.
+
+Introducing Salesforce Health Cloud
+
+Today’s health systems need to make the shift beyond revenue cycle management and electronic health records to organizations focused on patient relationships. Salesforce Health Cloud, which is built on Salesforce’s industry-leading Service Cloud, enables providers to get a more precise view of patient demographic, lifestyle and health information to better serve their needs.
+
+Complete View of Patient Data: Salesforce Health Cloud’s Patient Profile enables care coordinators to gain a complete view of their patients, from current conditions and medications, to scheduled appointments and lab results. Data for the profile is populated from multiple sources, including EMRs, medical devices, wearables and more. Patient information is presented in Health Cloud’s Timeline view that allows providers to understand the progression of a patient’s health journey. And by using the Patient Caregiver Map, providers can map household relationships, as well as all providers and specialists involved in a patient’s care.
+
+Smarter Patient Care Decisions: Salesforce Health Cloud’s Today screen alerts caregivers to timely issues, whether it is missed appointments or a need to refill medications. Rather than toggling between multiple systems, caregivers make smarter patient care decisions directly from the console by browsing tasks matched to individual patients and quickly acting upon them. In addition, by leveraging built-in Salesforce Chatter — an internal social networking tool — care coordinators review internal conversations taking place around selected patients, ensuring collaboration across the care network. Finally, providers can easily segment and manage patient populations, such as setting reminders for patients with high-blood pressure to schedule regular check-ins.
+
+Engage More Deeply with Patients Across Any Device: Health Cloud features Private Communities, which allow care coordinators to securely collaborate and assign tasks across a patient’s caregiver network. Private Patient Communities also helps patients view progress against a care plan, find answers quickly to common questions and connect with any provider in their network. Also, by extending Health Cloud to mobile platforms, providers can send messages to patients’ smartphones, reaching them where they live and work.
+
+Built-in Tools to Facilitate Adherence to HIPAA Requirements: Health Cloud includes tools that healthcare providers may use in order to facilitate their adherence to their compliance requirements from the Health Insurance Portability and Accountability Act (HIPAA), including Salesforce Shield, a set of built-in Salesforce1 Platform features that include Field Audit Trail, Platform Encryption, Data Archive and Event Monitoring.
+
+Health Cloud Integration with Major Medical Systems via Industry Partners
+
+Salesforce is leveraging a comprehensive ecosystem of partners in the development and deployment of Salesforce Health Cloud. Healthcare companies Centura Health, DJO Global, Radboud University Medical Center and UCSF assisted with product design and feature development; MuleSoft, Persistent Systems and other partners offer integrations to leading EMRs from Epic, Cerner and GE; industry partner Philips provides integrated medical device connectivity and new applications for connected and continuous care; and systems integrators (SIs) Accenture, Deloitte Digital and PwC deliver services for implementation, integration, customization and content.
+
+Comments on the News
+
+“The era of precision healthcare is upon us,” said Joshua Newman, MD, Chief Medical Officer, GM, Salesforce Healthcare and Life Sciences. “Just like we use precision medicine to target more personalized treatments for cancer and other diseases, precision healthcare is enabling our customers to develop more meaningful, accurate and long-term relationships with patients. Health Cloud is a huge step forward in our industry’s transformation.”
+
+“Health Cloud puts Centura Health patients at the center of their healthcare journey,” said Jim Rogers, RN, CenturaConnect Director at Centura Health, Colorado’s largest healthcare system. “We’re excited to use Salesforce Health Cloud to move our oncology navigators onto a single platform, standardizing their workflows, and increasing collaboration with ambulatory, acute, and post-acute care coordinators, and tracking patient outcomes in real-time.”
+
+“Healthcare providers face a significant challenge. To deliver the best patient care possible, they rely on data sitting in multiple systems. These include EMRs, lab systems and imaging applications, often across multiple data centers and in the cloud,” said Ross Mason, founder and vice president of product strategy for MuleSoft. “Connectivity is the key to unlocking this data and making it useful. MuleSoft’s integration platform brings data from these systems into Salesforce with an API-led approach, enabling agility while allowing providers to remain in control of their patients’ information. We’re excited to partner with Salesforce on Health Cloud to realize the vision of a single patient success platform.”
+
+“As care organizations and providers seek effective ways for patients to become more actively involved in managing their own health, there is a growing need for solutions that enhance self-management, facilitate collaboration between patients and healthcare providers, and improve continuity and quality of care,” said Jeroen Tas, CEO, Healthcare Informatics Solutions and Services for Philips. “We’re excited to integrate with Salesforce Health Cloud as we continue to grow the capabilities of our HealthSuite digital platform, empowering patients and caregivers to become active partners in health care.”
+
+Pricing and Availability
+
+Salesforce Health Cloud previews today, with general availability slated for February 2016 .
+
+. Pricing for the new Salesforce Health Cloud will be announced at the time of general availability.
+
+About Salesforce
+
+Salesforce, the Customer Success Platform and world’s #1 CRM, empowers companies to connect with their customers in a whole new way. For more information about Salesforce (NYSE: CRM), visit: www.salesforce.com.

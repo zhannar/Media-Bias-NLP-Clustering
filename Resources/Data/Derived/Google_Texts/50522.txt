@@ -1,0 +1,11 @@
+Over the past few weeks, we have been reporting on all sorts of uses that the U.S. Army is considering for 3D printing. Everything from 3D printed food, to 3D printed clothing and armor, the U.S. Army is not leaving one stone unturned in their quest for excellence, both on and off of the battlefield. They are not alone though. A small company called EOD Life is also trying to merge 3D printing with potential military uses.
+
+EOD Life is a small startup that has the intention of bringing more training devices and collectibles to the EOD (Explosive Ordinance Disposal) community. The owner of the company also happens to be an EOD, which he explains “is basically a military bomb squad that also deals with military ordinance”.
+
+The company recently announced the creation of a 3D printed YM-1 landmine, which has been printed for specific military training exercises. The top piece on the landmine pushes down, when stepped on. As this happens, an internal switch then sends a signal wirelessly, via a 315mhz RF board transmitter and receiver, to a recover box which then sets off a loud piezo siren.
+
+For obvious reasons, military personel can not train with real live landmines, so this becomes an affordable alternative, when compared to their other options. EOD Life plans to sell these for $75 a piece, which is much cheaper than what other similar non-3D printed training landmines go for. Similar devices sell for upwards of $600-700 a piece.
+
+While the design for this device is not open source, as EOD Life retains the files for business purposes, it isn’t out of the realm of possibility that one day these could be printed right at the military training facilities, when needed. Without a doubt 3D printing will have a significant impact on the future of military life, education, training, and combat. The technology allows for more affordable, customized equipment that can be produced in a fraction of the time that it would take with traditional manufacturing methods.
+
+What do you think about these unique training devices? Do you think this is the future of military training? Discuss in the 3D Printed Landmine forum thread on 3DPB.com

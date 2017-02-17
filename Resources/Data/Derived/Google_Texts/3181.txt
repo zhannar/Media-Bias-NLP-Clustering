@@ -1,0 +1,49 @@
+Everyday social media posts may provide insights about health, health outcomes and the quality of care at hospitals, according to two new studies published in the journal BMJ Quality & Safety.
+
+The first study, by a research team at Boston Children's Hospital, examined whether the information that patients post on Twitter might help measure patient-perceived quality of care in U.S. hospitals.
+
+Researchers, led by Jared Hawkins of Boston Children's Hospital's Computational Health Informatics Program and Boston Children's Chief Innovation Officer John Brownstein, Ph.D., wanted to see if they could use Twitter to supplement survey-based methods that measure patient experience and quality in an inpatient setting.
+
+
+
+"The main problems with measuring patient experience by survey are the small numbers of people who respond to surveys and the lag time," says Hawkins in a study announcement emailed to FierceHealthcare. "It can take up to two years before survey data are released to the public."
+
+But because social media information is in real-time, researchers wanted to capture the data to see if there were more immediate insights they could use. They collected more than 400,000 public tweets directed at the Twitter handles of nearly 2,400 hospitals in the U.S. between 2012 and 2013. They then tagged 34,735 patient experience tweets directed at 1,726 hospital-owned Twitter accounts, and broke them down by sentiment (positive, neutral, negative) and then put them into topical categories, such as time, communication and pain.
+
+"We were able to capture what people were happy or mad about, in an unsolicited way," Hawkins said. "No one else is looking at patient experience this way because surveys ask very targeted questions. Unsurprisingly, you get back very targeted, narrow answers."
+
+However, when they compared the social media data with information from Hospital Consumer Assessment of Healthcare Providers and Systems, they didn't see a relationship between sentiment and HCAHPS experience data.
+
+Researchers noted that the biggest weakness was the 2012 data only had a small number of tweets; only 300 of the 2,400 hospital Twitter accounts received more than 50 tweets from patients in a year. The current volume is likely higher and researchers now want to integrate data from other social networks like Yelp and Reddit.
+
+But the data are suggestive and highlight Twitter's possible use as a way to supplement HCAHPS and other surveys to improve quality, researchers say.
+
+The second study, conducted by researchers from the Perelman School of Medicine at the University of Pennsylvania, found that many adult Facebook and Twitter users are willing to share their social media data and medical information for research purposes. Furthermore, by building a language databank of this information, it may be possible to link the social media content to health outcomes.
+
+The study asked patients visiting an emergency department whether they used social media and if they'd be willing to share that information as well as electronic medical data with researchers to build a research database. More than 1,000 agreed to share the information over a seven-month period. The social media content included nearly 1.4 million posts and tweets to Facebook and Twitter.
+
+Individuals with a given diagnosis in their EMR were more likely to use terms related to that diagnosis on Facebook than patients without that diagnosis in their EMR. For example, 21 percent of patients who were diagnosed with abdominal pain used terms such as "stomach pain" and "belly ache" on Facebook compared to eight percent of the patients without that diagnosis who used those terms.
+
+"These findings suggests that social media is a promising avenue for exploring how patients conceptualize and communicate about their specific health issues," coauthor Lyle Ungar, Ph.D,, a professor of Computer Science at the University of Pennsylvania's School of Engineering and Applied Science, said in a study announcement. "We see this as just the first of many studies to come examining the relationship between health and social media."
+
+To learn more:
+
+- read the first study
+
+- here's the second study and announcement
+
+Related Article:
+
+Another reason to use Twitter: Tweets can predict emergency room visits
+
+Healthcare professionals flock to Twitter
+
+3 reasons healthcare pros should join Twitter
+
+How Twitter can help track the spread of influenza
+
+How social media can combat chronic disease
+
+Hospitals turn to social media for 'virtual' patient advice
+
+Patients choose hospitals based on social media

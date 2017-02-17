@@ -1,0 +1,101 @@
+Is there anything you can still do on your computer without Facebook or Google or the NSA looking over your shoulder?
+
+Yes, indeed, contends Felicia King.
+
+Two things you need to know about Felicia King: Those IT guys at your company who miraculously fix your computer? She trains their bosses. She’s president of Southeast Wisconsin’s Quality Plus Consulting, she does a weekly tech radio show BreakfastBytes on the local NPR station, and she’s considered a leading Midwest computer consultant.
+
+And the other thing? She’s one of the few carbon-based life forms left on the planet who will never join Facebook or use Google.
+
+That said, she knows you can’t live without your best friend’s second cousin’s wedding updates, and that Android phones, for example, are automatically tied to Google.
+
+So, can you do anything on the Internet these days without Facebook, Google, the NSA, et al, watching what you do?
+
+First, the phones:
+
+Windows Phones can be encrypted, patched, and fire-walled with the right add-ons, says King, but “Android phones provided by cell phone providers are a security disaster.”
+
+The exception, she says, is the Android “BlackPhone,” which still allows you to use Google and Facebook, but has security written into its core DNA.
+
+A step up from BlackPhone is Cryptophone, used by law enforcement, government types, and serious security-minded company executives. It’s not cheap — around $3,500 — but it blocks “stingrays,” those cellphone tower-mimicking devices that scoop up bulk data of any phone within the stingray’s reach.
+
+It was Cryptophone users who first identified the stingray phenomenon last summer. King calls law enforcement’s use of stingrays “downright evil, a direct violation of the Fourth Amendment.”
+
+King herself is a member of many sites that are privately-run and operated — and are not housed in the United States. Some are free and open to the public, others are paid. She points to the uncensored sharing network, https://share.naturalnews.com, which she says is housed outside of government control and is a place where your identity is not being sold to anyone.
+
+King says anyone who encrypts their iPhone, then puts all their stuff in the iCloud, is just defeating themselves. “Apple and everyone that has access to that data still has it, and that includes the government.”
+
+Cloud backups are only viable, she says, if you own the encryption keys. At that point, the data is encrypted at the client side before it leaves your system, and the provider has no way to decrypt your data.
+
+As for sites like Facebook and Google, yes, you can keep them out of your business — to a point.
+
+Socializing Without Suspicion
+
+Facebook, obviously, tracks you when you’re on it. But what are you allowing Facebook to put on your computer — cookies — and what cookies are you allowing all the other websites you surf to put on your computer that Facebook can track?
+
+King is a big fan of the free website “Tails,” “for hardcore anonymity,” to clean up those cookies. “Every time you boot up (with Tails), you’re clean, there’s no history, nothing.” And the free “Cookie Wall” does the same.
+
+Even easier to use, says King, are the cookie management tools called “IE Cookies View” and “Mozilla Cookies View,” offered by the company Nirsoft.net. The applications allow you to selectively delete cookies.
+
+“Here’s what really sucks,” says King. “You’ve got these legitimate websites, that you go to frequently, and you want those cookies, those are OK, but you don’t want this other garbage. If you go to Firefox or Internet Explorer, and ‘say delete all my stuff,’ that’s a nuclear option, and that’s not all that great.”
+
+As for social media in general, King says there is an entire world that’s disconnected from government-owned, -reported, and -controlled space. Some of it is run through private servers and is invitation-only.
+
+King herself is a member of many sites that are privately-run and operated — and are not housed in the United States. Some are free and open to the public, others are paid. She points to the uncensored sharing network, https://share.naturalnews.com, which she says is housed outside of government control and is a place where your identity is not being sold to anyone.
+
+King calls it a “welcome online sanctuary” from corporate-and-government controlled media, where the goal, she says, is to watch and/or exploit you.
+
+(Facebook did not respond to WhoWhatWhy’s request for comment.)
+
+Searching Un-Spied
+
+King points out that for the longest time — until January of this year — many search engines used http for data communication, which allowed anyone with the ability to sniff the traffic between you and your destination to see everything you were searching.
+
+But with https, the contents of the search are not visible, even if the destination still is. She recommends the plugin tool for Firefox called “HTTPS Everywhere,” “PrivacyBadger,” or “AdBlockPlus.”
+
+In addition, she advises using a VPN service in a country where you are not a resident, a country that has no mandatory retention laws, and a country with a strong legal support of privacy. And check to see if the VPN company retains logs of activity. She recommends “VyprVPN” and “Hide.me.”
+
+King recommends other simple things to her clients: The longer the password, the better. And don’t cross-purpose your devices. A computer or phone that’s just used for work or accounting purposes should stay that way. No writing personal emails or checking football scores or doing games on them, and vice versa.
+
+Sadly, she says, you have to presume that US providers have a backdoor built into everything and that NSA or FBI can force them to do anything.
+
+As for Google? Try getting into the habit of using alternate search engines like StartPage or DuckDuckGo, which don’t track your searches.
+
+(When asked for a comment by WhoWhatWhy, the press office at Google responded, “We are unable to accommodate your request at this time.”)
+
+Caring about Sharing
+
+Like Google and Facebook, Dropbox is another popular website that has King shaking her head. The company’s “pathologically one-sided” user agreement means “that all Dropbox employees can look at your stuff. You better encrypt it before you upload.”
+
+Better yet, she says, file-sharing companies such as Mega, Spider Oak, and Wuala have designed their systems from the ground up so that they don’t know what your files are, and cannot read them. If you lose your encryption key, says King, “tough noogies!” But not even the government will be able to look at your files.
+
+The Retired Librarian
+
+Plenty of King’s security-minded clients are in the business world, but one is a retired librarian in southeast Wisconsin. “Ellen” didn’t want us to use her last name, but she says she’s not paranoid. She says her only motivation for turning to King ten years ago was just feeling “overwhelmed by all the options” when it came to computer security.
+
+Ellen has two user accounts, one for day-to-day use, and the second one for administrative access use, to download patches and security software.
+
+She follows King’s advice to update her operating system every two weeks, which sometimes takes 45 minutes at a time.
+
+“I guess I feel like it’s worth it, “ says Ellen. “It’s like oil changes on the car, and tune-ups on the furnace.”
+
+Over time, Ellen has realized that the spying eyes of thieving hackers aren’t all that different from the prying eyes of corporate websites. Some of her software alerts her to malware that exposes her to both hackers and corporate eyes.
+
+King recommends other simple things to her clients: The longer the password, the better. And don’t cross-purpose your devices. A computer or phone that’s just used for work or accounting purposes should stay that way. No writing personal emails or checking football scores or doing games on them, and vice versa.
+
+King herself says she’s got “seven layers of stuff protecting me. It’s not because I think I’m Fort Knox or because the information I have is so wonderful, it’s because I don’t want my stuff to stop working!”
+
+If it all feels a little depressing to be constantly on guard, King reminds us of something that you’ve probably heard before, but bears repeating: Facebook, Google, Dropbox, and their ilk are not “free.”
+
+The price you pay is your identity.
+
+Google, in particular, increasingly horrifies King.
+
+“They used to have a mantra of ‘don’t be evil,’ but that has changed. It’s quite obvious they want to be Skynet (of ‘The Terminator’). They have their own military robots, and have stated that they desire to create a profile on every human.”
+
+Felicia King doesn’t plan on being one of them.
+
+www.perspecsys.com / Flickr) Related front page panorama photo credit: Cloud Computing ( Perspecsys Photos /
+
+Speak Truth To Power We are 100% reader funded. Your tax-deductible contribution enables our next investigation. Make an impact now.
+
+Our Comment Policy Keep it civilized, keep it relevant, keep it clear, keep it short. Please do not post links or promotional material. We reserve the right to edit and to delete comments where necessary. Related

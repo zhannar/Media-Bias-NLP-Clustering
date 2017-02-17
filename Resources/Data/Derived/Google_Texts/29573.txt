@@ -1,0 +1,27 @@
+As policymakers create and update rules for health plan network adequacy, they would be wise to look to the tools of social network analysis to guide their efforts, experts write in a post for the Health Affairs blog.
+
+Both the federal government and state regulators have issued proposals to better regulate insurance networks amid concerns about the proliferation of narrow-network plans on the Affordable Care Act exchanges. The Centers for Medicare & Medicaid Services has proposed measuring the proportion of providers a plan covers in a geographic area to determine network adequacy, but insurers have pushed back, saying such rules are not flexible and that CMS should defer to the states.
+
+A better solution, the blog post argues, would be to harness social network analysis, which studies the structure of relationships that link individuals or organizations. This concept reinforces the fact that network adequacy is not only about which providers are included in a health plan, but how they relate to one another, the post's authors say.
+
+For example, examining how frequently providers in a network share patients might be an important consideration for patients who value coordinated care. Policymakers could determine this by using historical health plan claims data supplemented with Medicare fee-for-service claims, according to the post. However, it notes that just because providers share patients doesn't necessarily mean they are adept at coordinating care.
+
+In addition, regulators can use multiple years of provider network data to examine changes over time in a plan's outpatient provider networks and asses the average turnover rate per plan both overall and by specialty, the post says. Determining network stability ensures consistency for patients as well as providers' ability to make in-network referrals.
+
+Not only would designing multidimensional measures for network adequacy help determine when a network is too limited, it also allows health plans to "differentiate themselves in a crowded field, balancing demands for broad access with the need for coordinated care and stable networks over time," the post adds.
+
+To learn more:
+
+- read the post
+
+Related Articles:
+
+AHIP, insurers criticize proposed ACA marketplace reforms
+
+Proposed ACA marketplace reforms address consumer, insurer concerns
+
+Insurance commissioners propose more narrow-network controls
+
+Study finds some marketplace health plans lack network doctors in key specialties
+
+Number of narrow-network plans varies widely by state

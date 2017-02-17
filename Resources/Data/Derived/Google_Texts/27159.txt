@@ -1,0 +1,49 @@
+WASHINGTON - Despite partisan sniping over the Affordable Care Act, members of a U.S. House committee probing the problems at Healthcare.gov Thursday asked some tough, IT-specific questions that revealed some key facts.
+
+Two members of the House Energy and Commerce Committee, U.S. Reps. Greg Walden (R-Ore.) and Anna Eshoo (D-Calif.), were especially focused on the testing process for the ACA website that's had problems since its launch on Oct. 1.
+
+It turns out that project's 55 contractors had only two weeks to conduct end-to-end testing of Healthcare.gov prior to launch.
+
+"What's the recommended industry standard for end-to-end testing," asked Walden.
+
+"Months would be nice," said Andrew Slavitt, executive vice president of Optum, one of the contractors that built the site. Cheryl Campbell, senior vice president of CGI Federal and a witness, perhaps the largest contractor on the project, agreed with Slavitt.
+
+The contractors for the site all said they performed their part of the project as required while making it clear that they weren't responsible for the overall outcome of Healthcare.gov.
+
+None could say, with any certainty, when the website will perform as designed. There was no one from the federal government to explain the project's IT decision-making, though federal officials are expected to testify as early as next week.
+
+The problems at Healthcare.gov may qualify as a black swan event, something that's difficult to predict and is disruptive. A black swan event in Mother Nature might include a solar geomagnetic storm that knocks out sensitive electronics and power grids. In IT, a black swan event is a project with out-of-control costs, and consequences so severe that it may cause a company to fail.
+
+The cost of Healthcare.gov is rising, but to what extent has yet to be revealed by federal officials.
+
+The disruptive consequences have been severe enough to prompt President Obama to express dissatisfaction with the site. Perhaps more importantly for the Obama administration is whether the IT events at Healthcare.gov, such as data error and availability issues, will force it to further adjust deadlines of its signature policy project.
+
+Approximately one out of five or six IT projects face exploding costs, according to Alexander Budzier, a researcher at the Said Business School at the University of Oxford. Budzier and Bent Flyvbjerg, a professor at Oxford's business school, have gathered data from 4,300 worldwide IT projects in the private and public sectors whose typical costs range between $1 million and $10 million.
+
+IT projects perform worse than physical projects, such as large dam construction, where one-in-ten may see cost blow-outs, said Budzier. In IT, 18% of projects turn into outliers that "really run out control, and that's a usually high rate," he said.
+
+An IT project with a cost overrun of 150% or more is in the black swan category. Such projects seriously disrupt businesses and costs some workers their careers, he said.
+
+"You can't really forecast which [IT projects] are going to blow up," said Budzier, though in hindsight reasons like too tight deadlines may become clear. A tell-tale clue of problems ahead is a categorization of a project as "unique," he said.
+
+"If your system integrator, if your in-house IT, if everybody tells you that this project is unique, that's a clear sign that this is going to go massively wrong," said Budzier.
+
+His research was detailed in a Harvard Business Review report.
+
+"Projects are and remain risky," said Budzier.
+
+Analyst have different methodologies and approaches for categorizing successful and failed IT projects, but all agree generally that IT projects have a high chance of failure.
+
+In a report last year, Gartner found that 28% of IT projects with budget exceeding $1 million fail.
+
+The Standish Group, when considering projects of $10 million or more, said that 52% were challenged, meaning they faced budget, schedule or user expectation issues, 41% were failures, and 6.4% were successful.
+
+Custom development software firm Geneca did a survey of 600 business and IT executives and found that 75% of respondents said their projects "are either always or usually doomed right from the start." As the survey drilled on, though, most were eventually pleased with a development project outcome, with 21% terming a project as only "somewhat successful."
+
+At the Capitol Hill hearing, the contractors said Healthcare.gov was improving daily, but that was about all they would say about the outlook.
+
+"I represent Silicon Valley and find this very hard follow," said Rep. Eshoo, after hearing explanations from the contractors. She was trying, unsuccessfully, to get details about the specific external and internal testing practices.
+
+"Amazon and eBay don't crash the week before Christmas," said Eshoo.
+
+Patrick Thibodeau covers SaaS and enterprise applications, outsourcing, government IT policies, data centers and IT workforce issues for Computerworld. Follow Patrick on Twitter at @DCgov, or subscribe to Patrick's RSS feed . His email address is pthibodeau@computerworld.com.

@@ -1,0 +1,85 @@
+Facebook isn't the only company that wants to capitalize on information collected from millions of people do do research. Health care systems want to use the immense sea of data in patients' medical records to try and improve health and reduce costs.
+
+For example, doctors might use patterns in hospital data to determine whether a patient is at high risk of cardiac arrest and should be admitted to the intensive care unit. The data used to make those decisions will be collected from thousands — or millions — of hospital visits, raising questions about the security of the data, and whether it's appropriate to use it to make medical decisions for individual patients.
+
+I. Glenn Cohen is a professor of health law and ethics at Harvard Law School. He recently co-authored a paper on the new role that data is starting to play in health, and the legal and ethical wrinkles introduced by using that data to make medical decisions. We discussed some of those problems, and how they might be handled in the future.
+
+What follows is a transcript of our conversation, edited for length and clarity.
+
+Adrianna McIntyre: What is "big data" in health care, and why this it emerging as a policy issue now?
+
+"it's now possible to aggregate data from millions and millions of patient experiences"
+
+
+
+I. Glenn Cohen: There are different definitions, but essentially "big data" in health care refers to the idea — particularly with the shift to electronic health records — that we have millions and millions of patient records that are now in the process of being digitized, as well as tons of information from genetic samples, tissue samples, and the like. Increasingly, we're able to combine these records for analysis.
+
+It's now possible to aggregate data from millions and millions of patient experiences, and to use that information to reform our health care system and make individualized patient decisions and do research.
+
+One way big data is emerging is predictive analytics, which uses an algorithms to analyze data and generate suggestions for the future health of a particular patient — to decide whether a specific patient should be admitted to the intensive care unit or not, for example.
+
+AM: In the paper, you say that big data in health care seems to exist in this kind of gray area between "quality improvement," which doesn't require explicit consent to use people's data, and "human subjects research," which does. That gray area has gotten a lot of attention recently, with the controversy over Facebook's emotions study. Are there parallels we can draw here?
+
+IGC: I was actually asked about Facebook at the Health Affairs briefing. I'm paraphrasing here, but the question was something like, "Cohen, aren't you being a little silly to be talking about all of these kinds of entities — HIPAA, the health privacy law — when corporations like Walmart and Facebook know an awful lot about us, and they're not governed by any of these laws?"
+
+What I said to the gentleman who asked is that this is an argument for asymmetry. You have A and B — health care systems and Facebook — who look very similar in the way the know information about us, and one is heavily regulated and one is not.
+
+The way you can resolve that kind of argument is in either direction: it either means we should treat health care practitioners of the world more like Facebook — let them set their own terms of use, no regulation of what's done — or, we could treat the Facebooks of the world more like health care and apply a whole set of rules about de-identification of data and consent and the like.
+
+The other possibility is that there are significant differences between the two, such that different regulatory regimes are appropriate. I think I fall somewhere in that middle.
+
+"In health care, the person you share data with is supposed to have your best interests at heart. Facebook is not the same."
+
+
+
+I think the relationship you have with a doctor is a special relationship. You are sharing health information with the view that this person is looking out for your best interests. They're paid, but we have a whole bunch of regulations in place to make sure that health care professionals don't act out of their own interests instead of the interests of their patients. It seems to me that Facebook is not the same kind of relationship, and we've never pretended otherwise.
+
+I do think there is a crucial difference in that part of what we're trying to do in health care is make sure people trust their doctors. Protections exist in health care — but not for Facebook — in part because we've established this particular kind of relationship where the person you're sharing your information with is only supposed to have your best interests at heart.
+
+If you believe that about Facebook, I think you have bigger problems.
+
+AM: So, how do we navigate the consent issue for collection and use of personal data in health care — and, eventually, the predictive analytics models that could help doctors make treatment decisions?
+
+IGC: The way I think about this is a little bit like a see-saw, where you have consent on the one side and privacy and de-identification on the other side. The more we invade your privacy, the more we need robust consent mechanisms. I think of privacy as your right to stop people from knowing things about you that you don't want them to know — things that can be tied directly to your identity as an individual.
+
+The federal system of privacy regulation adopts a similar philosophy: It demarcates 18 identifiers that have to be stripped from health information about a patient before you can transfer data between covered entities. After stripping those identifiers, consent is not necessarily required to use that data for some kinds of research.
+
+To me, nothing is ever truly de-identified. We've had studies that have taken random genetic samples, and with very little additional information — like just the zip code — they've been able to reverse-engineer the identities of research subjects.
+
+"Nothing is ever truly de-identified — but 'big data' could make de-identification easier."
+
+That said, it requires a lot of expertise and a lot of money, and we don't think that people will routinely do this. But we think the development of these "big data" datasets and algorithms could actually make de-identification easier.
+
+Our ability to de-identify data exists on a continuum. But the closer you get to an acceptable level of de-identification — where someone would have to do a lot to re-identify you — the more ethical it seems to me that this proceed without individual consent.
+
+Even then, we suggest that even then, it maybe be paired with other kinds of assurances, like auditing by third-party institutions that we trust, protections like the ones that exist when people have their identities stolen, legal remedies if there is a data breach, and also the kind of naming-and-shaming techniques that have been used against Target and other institutions in the wake of data breaches.
+
+"THE COSTS OF REAL, MEANINGFUL CONSENT ARE too GREAT."
+
+The bottom line is, if I were to require your explicit consent each and every time I recorded something into your electronic health record, to share it with the database and the algorithms, essentially this technology would not work, because the costs of doing real, meaningful consent are too great.
+
+What we think instead would be more reasonable is that when you enter a practice, there should be notification and an informational session — interactive and ongoing, where it's not just signing a piece of paper, but you are made to understand what it really means to have this information shared in the database, and maybe an opportunity to opt out.
+
+AM: One problem your paper talks about is that these predictive analytics might make patients that are already marginalized by the health care system — people who are disadvantaged because of illness, lack of access to health care, or poverty— worse off.
+
+IGC: In order to do "big data" properly, you want huge networks of electronic health records to get the data from, and you want to make sure you have a diverse population that reflects the diversity of the United States. We want to get everyone involved in contributing their data.
+
+"Those who contribute ought to be able to benefit."
+
+But most of the predictive analytics engines that are being developed are being developed by for-profit corporations. Ultimately, those corporations are hoping to sell what they do with these algorithms to individual hospitals or hospital systems.
+
+One of our concerns is that resource-constrained hospitals — and patients who go to resource-constrained hospitals — their data may go toward building the system, but they may not enjoy the benefits of the system because their particular hospital can't afford or chooses not to buy these kinds of technology.
+
+A lot of onus is going to fall on state, local, and federal government to subsidize the acquisition of these kinds of models if they show themselves to be effective in resource-poor settings. But we also think that the developers of these model may have an ethical obligation to adopt graduated licensing, similar to what some pharmaceutical companies have done to improve the availability of drugs in the developing world.
+
+We think that basically those who contribute to the development of the model ought to be able to benefit from the use of that model. We have a fear that may not happen without these kinds of interventions.
+
+AM: Are there ways that the data could be used more actively to the detriment of high-need patients?
+
+IGC: This kind of big data has the potential to allow insurers or medical providers to develop strategies to avoid high-cost patients. The idea is that, given enough data, I can spot you without using the old-fashioned categories that run into problems, like race, socioeconomic status, age and the like — law prohibits using that information on anti-discrimination laws. But in the future, I might be able to spot you through sophisticated data-mining.
+
+"there could be people who want to use the data for purposes that widen health disparities, not solve them."
+
+My take on this is that before the Affordable Care Act, I would have been much more worried about this. After the Affordable Care Act, we have beefed up anti-discrimination rules for insurers and we also have other laws like the Genetic Information Nondiscrimination Act (GINA), which prohibits certain forms of discrimination based on genetic data. So, I think this is a real concern, but recent legislative efforts have made me more comfortable with the notion.
+
+But it's definitely true that with this system, somebody who wants to use the system will be able to know a lot more about you and the likely future of your health state than they could know now. I imagine even with these legal protections, there could be some entities or people who want to use the data for purposes that will widen health disparities, not solve them.

@@ -1,0 +1,29 @@
+Please enable Javascript to watch this video
+
+NEW YORK (CNNMoney) -- Hackers silently infected a Healthcare.gov computer server this summer. But the malware didn't manage to steal anyone's data, federal officials say.
+
+On Thursday, the Health and Human Services Department, which manages the Obamacare website, explained what happened. And officials stressed that personal information was never at risk.
+
+"Our review indicates that the server did not contain consumer personal information; data was not transmitted outside the agency, and the website was not specifically targeted," HHS spokesman Kevin Griffis said.
+
+But it was a close call, showing just how vulnerable computer systems can be.
+
+It all happened because of a series of mistakes.
+
+A computer server that routinely tests portions of the website wasn't properly set up. It was never supposed to be connected to the Internet -- but someone had accidentally connected it anyway.
+
+That left it open to attack, and on July 8, malware slipped past the Obamacare security system, officials said.
+
+As health department officials describe it, the malware was run-of-the-mill, low-level hacker stuff. It wasn't even designed to steal patient data. It was actually malware meant to turn the computer server into a zombie machine, part of a robot network, or botnet, to spews out spam or computer viruses to the rest of us.
+
+It wasn't the military-grade cyberweapons typically aimed at U.S. systems by hackers in China and Russia.
+
+But federal officials said the malware didn't do any damage. It just lay there dormant, quiet and dumb.
+
+That's one reason it wasn't found until weeks later. The website's security team conducts daily reviews, but the malware wasn't spotted until Aug. 25.
+
+The computer server was quickly disconnected and decommissioned. The FBI and Department of Homeland Security are now investigating, HHS said. Federal officials say the attack came from several Internet addresses, some overseas.
+
+HHS officials on Thursday briefed Congressional staff about the episode and assured the department has taken "measures to further strengthen security."
+
+This is the first discovery of its kind. Last year, computer researchers found a security hole found in Obamacare website. But that has since been patched.

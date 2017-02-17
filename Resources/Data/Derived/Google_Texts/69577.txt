@@ -1,0 +1,69 @@
+Healthcare.gov: Hard-Earned Lessons For CIOs
+
+It's been just over two years since the controversial and troubled launch of Healthcare.gov, a marquee project for a new age of digital government, implementing a politically controversial policy of affordable healthcare insurance for everyone. As of today more than 6 million people have been enrolled through this system. InformationWeek caught up with Healthcare.gov's technology lead to talk about lessons learned.
+
+
+
+Where 2016 US Presidential Contenders Stand On Tech Issues (Click image for larger view and slideshow.)
+
+Imagine the following IT project challenge -- create a system scalable for tens of thousands of concurrent active users with 99.9% uptime that touches and integrates with at least 20 other existing massive systems that are not under your control. You must execute delivery of this system within a culture where hundreds, maybe even thousands, of stakeholders provide ongoing input and not one of them has ultimate decision-making power. Because of this culture, the requirements for the system keep changing as you build it.
+
+You must also deliver this complete system by an unchangeable date, and everyone is watching for you to fail.
+
+This was the challenge faced by Henry Chao, the technology lead for the initial Healthcare.gov rollout, and his team in creating Healthcare.gov. Healthcare.gov is quietly humming along today, having enrolled 6 million people. But back then, Chao was tasked with and led the effort to create a massive IT system to implement the Affordable Care Act, a cornerstone of the Obama presidency intended to deliver health insurance and affordable healthcare to millions who otherwise couldn't get it. The project was already a politically controversial before it ever crossed Chao's desk.
+
+[What are some of the most interesting and inspiring IT projects in the last year? Get an idea. Read 2016 InformationWeek Elite 100 Finalists Revealed.]
+
+It came during a time when the US government was initiating the positions of federal CIO and federal CTO and pushing a cloud computing and digital agenda for the government. This made the Healthcare.gov project a marquee for what digital government could be.
+
+And the directive for the Healthcare.gov site came with stipulations, such as one from the White House: "The experience shall be a world-class experience."
+
+"How do you meet that metric? What constitutes a world-class experience?" Chao said. "When too many people throw those types of requirements in, the actual target becomes unclear."
+
+Healthcare.gov is more than just a website. (Image via Healthcare.gov)
+
+It's been a few years since Healthcare.gov was created, made its debut, and was widely and publicly criticized for not delivering out of the gate. Chao has since retired from his role at the head of the project and now serves as a private consultant. But InformationWeek caught up with Chao recently to discuss lessons learned, from his perspective, from this massive marquee project for a new age of digital government, what went wrong, and what went right.
+
+It's Not Just a Website
+
+The first thing you need to know about Healthcare.gov is that the website is just the front door. The backend challenge was one that could give even the best IT leaders a nightmare headache that could last for years.
+
+"Healthcare.gov is not just a website," Chao told InformationWeek. "That's really an oversimplification. Healthcare.gov is a complex eligibility verification and determination application that is integrated with a data services hub that serves as a broker for all the requesters and responses that are coming from those authoritative sources."
+
+That's a mouthful. Imagine being the person in charge of designing and implementing it.
+
+Just the eligibility and enrollment components alone of the massive system touch up to 20 other systems. Consumers coming to Healthcare.gov to verify eligibility and to enroll in the program would need to have their identity verified, their income verified, and their social security numbers securely input. These pieces alone touch multiple external systems. Consumers may get stopped in the middle of the process if they need to provide some documentation to, say, verify income, that they didn't have handy.
+
+This year's open enrollment period ended Jan. 31. Of the 12.7 million consumers enrolling in marketplace coverage this year, over 9.6 million came through the HealthCare.gov website. The system is now quietly humming along, even as its initial failure continues to garner headlines and scrutiny.
+
+Launch Day Challenges
+
+But in spite of the giant effort by hundreds of IT workers, contractors, vendors, and others, the closely watched initial roll out of Healthcare.gov did not go smoothly when it happened in Oct. 1, 2013. In the frequently recounted story, on the day of launch, the system was hit with 20x to 30x the expected traffic. The traffic wasn't just coming from people who were trying to enroll. It was coming from places all over the world, including China, Russia, and South America, according to Google Analytics.
+
+"There were so many people interested in the rollout," Chao said about the traffic. "And a fraction of the traffic tried to create accounts, and they got stuck in the authentication process" due to the overload. The bottleneck eased in a week and a half, but then the number of people who were trying to use the system concurrently overwhelmed it.
+
+A Solid Foundation, Plus...
+
+Nonetheless, the system was built on a solid foundation by the hundreds of workers, contractors, and vendors who developed it initially. After the go-live challenges, a team of tech workers from Silicon Valley was called in to improve the load balancing, and to deploy additional hardware and software instances and virtual machines. The team was also meant to increase the number of concurrent active users that the system could handle. The system was handling all those users well by 70 days after launch. That's not something that could have happened if the foundation of the system had not been a solid one, Chao said.
+
+"I think it's really a shame that there is so much to be learned here, but it often gets paved over with these glitzy stories about the small team of smart people from [Silicon Valley] that fixed this problem," he said. "It does a disservice to the hundreds of contractors, vendors, and career people who worked on this and gave their lives to this for four years and not just for 70 days."
+
+NoSQL Provides Flexibility for the Project's Changing Requirements
+
+Among the technology decisions that has led to long-term stability and success for the project was the choice of a noSQL database backend instead of a more traditional relational backend, according to Chao. The selection of the vendor MarkLogic provided the flexibility that was needed to develop a system that was changing even as it was created.
+
+When Chao was creating this system, it was still unclear which US states would build their own exchanges or marketplaces. He knew he would have to integrate with the Medicaid system, even though it wasn't going to put up its own exchange. Chao ticked off other considerations -- premium tax credits, household
+
+[Page 2: An Agile Approach]
+
+Rising stars wanted. Are you an IT professional under age 30 who's making a major contribution to the field? Do you know someone who fits that description? Submit your entry now for InformationWeek's Pearl Award. Full details and a submission form can be found here.
+
+Jessica Davis has spent a career covering the intersection of business and technology at titles including IDG's Infoworld, Ziff Davis Enterprise's eWeek and Channel Insider, and Penton Technology's MSPmentor. She's passionate about the practical use of business intelligence, ... View Full Bio
+
+1 of 2
+
+Comment |
+
+Email This |
+
+Print |

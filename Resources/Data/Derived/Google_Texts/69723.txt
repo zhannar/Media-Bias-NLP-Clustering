@@ -1,0 +1,29 @@
+More than 1.1 million New Yorkers are ultimately expected to purchase health insurance through New York State of Health, a state-implemented health care exchange built to meet the requirements of the Affordable Care Act, according to the New York Department of Health.
+
+The site is currently live—taking orders and fulfilling applications. The federal government, meanwhile, is still struggling to make HealthCare.gov, the portal that serves states without their own exchanges, a viable Web site.
+
+What’s at stake: A well-designed Web site was critical for the state to serve more than a million New Yorkers that are expected to apply for health insurance under the Affordable Care Act, also known as Obamacare.
+
+States that run their own health care exchanges, including New York, Kentucky and Nevada, have fared better in managing the load of insurance sign-ups mandated by the Affordable Care Act, compared with the federal insurance exchange, HealthCare.gov, which has struggled due to software bugs, inadequate testing and insufficient server capacity at launch.
+
+As of Dec. 3, more than 91,000 New Yorkers had enrolled in health insurance plans through the state HIX and 284,000 people have completed applications and are eligible for insurance, New York State of Health reported.
+
+In June 2012, primary contractor Computer Sciences Corp., which built the state’s Medicaid management systems, began working on developing a “one-stop shopping” Web-based exchange for New York State. The state required the contractor to implement a UI architecture by design consultancy Ideo.
+
+“Extensive planning, organization, coordination and execution within the department and among its contractors and stakeholders are of utmost importance to ensure success of a project of this magnitude,” Donna Frescatore, executive director for NY State of Health, told CruxialCIO in an email. “As a result of these efforts, the NY State of Health marketplace is operating very smoothly.”
+
+The site’s technology backbone consists of IBM Websphere Application Server, which is compliant with the Java 2 Enterprise Edition API and runtime environment.
+
+CSC broke the project down into a series of tracks, releases and builds. Each build in the site was tested independently, and multiple tracks included shop, plan management, small business, eligibility and enrollment, oversight and reporting, customer service and communications.
+
+“From a reliability and performance perspective, those things are absolutely critical because the citizens of New York are going to be using it for their insurance,” CSC project manager Chris Harmer said in an interview.
+
+Performance testing began in June 2012. The contractor tested for thread capability with regard to regression, Harmer said. Regression testing is a type of software testing aimed at finding new software bugs, or regressions. “Testing proceeded on an incremental path as well but included regression testing,” Harmer said.
+
+The exchange comprises 40 interfaces that connect to the system.
+
+“What strikes most people about exchanges is that they are very complex and have a lot of touch points,” Harmer said. “The reliability must extend not only from the information provided by the insurers but also all the touch points where you’re pulling data, including the applicant information.”
+
+NYSoH connects with the federal Data Services Hub as well as agencies such as the Social Security Administration and the Internal Revenue Service to verify income information.
+
+Before going live, what helped CSC and the state pull the project together was the realization that the Oct. 1 deadline set by the federal government was “immovable,” Harmer said. “You have to be aware that you have a date that’s not going to move so you need to box everything into that time,” Harmer said.

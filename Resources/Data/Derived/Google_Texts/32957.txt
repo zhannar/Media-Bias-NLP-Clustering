@@ -1,0 +1,49 @@
+The departments of Defense and Homeland Security have invested in technology to prevent attacks like the one in Brussels, including facial recognition technology that can spot and flag a suspected terrorist in a car heading toward an airport or crowded subway. But bringing that technology out of the lab and getting it to airports and street corners is a lot harder than just snapping a photo.
+
+Just hours after two bombs exploded in the public departure area of Zaventem airport and a third at the Maelbeek metro station, grainy closed-circuit television footage surfaced showing three men at the airport. Two wore black gloves on their left hands, the third a white coat. Security experts said that footage showed the likely attackers and that the gloves might have concealed detonators.
+
+Related: The 10 Most Expensive Weapons in the Pentagon’s Arsenal
+
+The attack on Zaventem doesn’t point to a specific weakness in airport security, said one DHS official who spoke anonymously because they were not authorized to discuss the incident with media. “The reality is, they did it in a public area of the airport. The assumption that they determined that it would be too difficult to get any deeper into the airport is a reasonable assumption to make,” the official said. “When events like this happen, we play extraordinarily close attention to them. Could it happen here? If so, how could we interdict it?”
+
+In order to thwart an attack, a facial-recognition-based system must have access to a database that already contains the would-be perpetrator’s face, sensors that can obtain usable snapshots of people approaching the protected area, and a way to alert guards or otherwise cut off access to the target. Getting all three of those at once is the challenge of securing a place like an airport’s departure area or a metro station.
+
+“The reality is you’re not going to lock down the public access areas of the world, the same way you lock down a boarding area in an airport. The public wouldn’t tolerate it,” said the official.
+
+But the U.S. government is nearing the ability to get useful systems in place.
+
+Related: Here’s the New, Secret Warplane Everyone Will Soon Be Talking About
+
+In 2014, the military tested a General Electric high-speed, multi-resolution camera capable of capturing a facial image even at an angle. The system was designed to ID someone in a moving car headed toward a base, but could be deployed on city streets or on the road to an airport.
+
+“The high-resolution image can be panned and tilted using an internal device and the system is designed to capture images at a standoff range of 22 to 33 meters. That’s up to 108 feet,” John Boyd, director of Defense Biometrics and Forensics, said in 2014. “The … images are then outputted to a machine-vision algorithm to continuously track the location of the vehicle. The vehicle coordinates are then used to estimate the time of arrival of the vehicle to four fixed catcher zones along a calibrated track. Some 20 high-resolution images are captured per zone as the vehicle travels five miles per hour — five to ten. The high-resolution frames are then automatically analyzed and match scores are fused into an average score to positively identify the individuals in the vehicle; and this is with tinted glass, among other things.”
+
+In tests at Fort Belvoir, the system worked, but slowly, a Defense Department official said at the time.
+
+“It was a demonstration sort of environment, so the van would make its approach but then have to slow down so that the computer, which was not optimized” could ingest the data. The official called the system “not deployable” but “a very positive step.” He said, “We were able to identify people in a moving vehicle. There is the feasibility of the technology being further advanced and then point it at a normal post.”
+
+Related: The Next Arms Race for the US, China and Russia: Hypersonic Weapons
+
+Image capture technology has advanced since then. In 2016, you don’t even need a whole face. Iris scans can provide a more useful identifier and are becoming easier to collect.
+
+“There is some interesting capabilities in industry now where instead of doing something semi-invasive like a laser just scanning the eye, they’re actually using video,” the DHS official said.
+
+High-definition video cameras today allow dual iris authentication at 20 to 30 feet, according to the official, who described the technology as “emerging” and said that DHS was actively testing it.
+
+“So if someone is walking down an airport jetway, can we do iris identification and say, ‘This person has been authenticated; they’re allowed to go in the fast-track lane on the right. This person has not; they have to go the secondary screening on the left’? Can that device be built into the computer itself so that it’s not an add-on device, like a mouse? The answer is yes,” he said. “Years from now, we’ll look back and say, ‘Remember when we thought dual-iris [verification] with video at 20 feet was the be-all, end-all? How funny that is 20 years later when we’re doing something even better.”
+
+In Brussels, closed-circuit cameras in the airport and the metro clearly did not deter the perpetrators, but did capture images that are being used in the investigation. Early reports indicate the men took a taxi to the airport. Could networked cameras on the road leading to Zaventem, peering into the backseat of that cab, (or in the cab itself) have saved lives? Perhaps. But image capture and iris-scanning do you no good if the picture in the photo doesn’t match to a suspect in a database.
+
+One way to populate that database is by collecting iris scans at checkpoints, as the United States has begun doing at a border crossing in Mexico. The United States also collects fingerprint samples on refugees entering the country. Of course, people don’t have warm feelings about surrendering biometric data to the government. But they might feel better about giving it away to a device that they own to unlock it. Device makers from Apple to Fujitsu are making biometric owner identification a security feature in new smartphones. This could provide a less invasive means of collecting bio data in the future, according to the DHS official.
+
+“There’s a market reality that this is becoming consumerized. The consumer now wants these now. That makes it far more possible for industry to adapt, especially once assured-iris identification comes out on every laptop and every cell phone that you buy, or in every rearview mirror in every car. Those are the kind of things we’re monitoring,” said the official.
+
+The Brussels bombings could provide lawmakers and border security professionals with extra cover to seek more biometric data. That ask could come not in the form of a scan at the airport but a simple “opt-in” notification on your phone. Giving biometric information away to the government could become much simpler. Whether doing so will actually make cities safer remains to be seen.
+
+This article originally appeared on DefenseOne. Read more from Defense One:
+
+This Painfully Honest Look at the Space Industry Just Got an Executive Fired
+
+Keep America’s Top Military Officer Out of the Chain of Command
+
+Why Is The Pentagon’s Personnel-Reform Chief Stepping Down? It’s Complicated

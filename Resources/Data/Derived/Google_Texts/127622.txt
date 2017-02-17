@@ -1,0 +1,33 @@
+It’s bad enough that the state of Oregon has paid software giant Oracle over $100 million to build a healthcare exchange site that doesn’t work. But it now appears that Oregon is stuck with Oracle, unable to simply hire another firm to finish the job.
+
+It’s the latest setback for the troubled Obamacare rollout, and it provides a classic example of an old-school IT provider lagging behind the new and more effective way of building massive web operations — the open source approach behind mega-scale websites like Google and Facebook.
+
+Last September, as it became clear that the site wouldn’t be ready for the October 1 launch date, Oregon stopped paying Oracle. The company kept working until last week, when it pulled 100 contractors from the project, demanding $69.5 million for the work it had completed since September. This week, The Oregonian reports, the state agreed to pay $43.9 million of its outstanding bill to get Oracle back to work to finish the project.
+
+You might think that Oregon officials would have been happy to see Oracle go, considering their $100 million site is still on the fritz. But making the service work properly will likely depend on knowledge held only by Oracle’s contractors. Oregon needs Oracle, at least for now. And that’s part of the problem: Oregon, like so many other IT customers over the years, is now locked into a contract with a vendor and has few options other than paying the company more or starting the project over from scratch.
+
+Doomed to Failure
+
+This debacle doesn’t look good for Oracle, but there’s plenty of blame to go around in Oregon. An audit found that state officials did a poor job defining the project’s scope and requirements, according to KATU News. That’s actually one of the main reasons that as many as 68 percent of all IT projects are doomed, according to IT analyst Michael Krigsman, who looks closely at the nature of project failures.
+
+But this isn’t just a failed IT project. It’s a public policy failure, and an indictment on an entire way of thinking about IT. Contractors generally either sell their own proprietary software or products from their partners, and design decisions are often so complex that only the original contractors can make sense of the software they produce. Replacing the contractors — or even adding new features to a legacy system — often means starting over from scratch. This predicament could have been avoided if a fresher approach to software architecture had been taken.
+
+Although CGI Federal — one of the firms hired to build Healthcare.gov — called the nation-wide project “unprecedented,” there are proven models for approaching similar problems. Companies like Amazon, Google, and Facebook have infrastructure that supports millions of users daily. When these companies faced unprecedented scaling problems, they didn’t turn to the Oracles and CGIs of the world. They turned to the open source community. And when Facebook couldn’t find open source tools to meet its needs, it built its own, and contributed them back to the community.
+
+Of course, these sites didn’t have to flip a switch and start serving millions of users overnight, as the healthcare exchanges did, but the lessons they learned in bringing their services to a massive scale shouldn’t be ignored. The whole point of open sourcing these projects was to save future generations from having to build large scale web services from scratch.
+
+And while something like Healthcare.gov likely needs more traditional database systems, rather than the new age data storage systems pioneered by Google and Amazon, there’s plenty government contractors could have learned from web companies. One of the many challenges the health care exchanges face is the need to pass information between many different systems. It just so happens that Facebook built a widely used tool for doing just that for its own internal use.
+
+In the case of the healthcare exchanges, we often don’t even know what technologies the contractors are using. That’s part of the problem.
+
+Broken Government
+
+It’s not that government agencies have never used open source. The original Healthcare.gov interface — i.e., the part that actually worked — was open source. NASA helped create OpenStack, a system for building Amazon-style clouds in your own data center. The National Security Agency, meanwhile, built the infrastructure that supports its massive surveillance projects using open source software. It even went so far as to create its own open source database system inspired by a Google researcher paper.
+
+But the NSA’s efforts landed them in hot water with a Senate oversight committee. Not for constitutional surveillance of U.S. citizens, but for building open source software instead of buying from a company like Oracle.
+
+The way government agencies buy software is badly broken, Clay Johnson, a former White House fellow who also co-founded the company that built President Barack Obama’s campaign website, wrote for the New York Times. The process is convoluted, and favors entrenched players who know how to navigate the rules over newer companies that are better versed in modern development tools and practices.
+
+But the problems go beyond procurement: we need an entirely different way of thinking about publicly funded software projects. With exception of a few agencies like the ones mentioned above, governments tend not to think about software design as a collaborative, public process. Citizens often have more input into how and where a public park will be built than in how the website they’ll use to find information about the park is built. Yet code sharing and collaboration sites like GitHub could make it possible for everyone to participate in that process, from gathering requirements to writing code to reporting problems.
+
+This isn’t the way companies like Oracle approach projects. But it’s the way we need to start thinking if we want our government services to actually work.

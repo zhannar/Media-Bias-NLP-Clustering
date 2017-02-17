@@ -1,0 +1,29 @@
+EHR users need less bureaucracy and fewer regulations in order to optimize their health IT use, argues John D. Halamka, MD, MS, CIO of Beth Israel Deaconess Medical Center.
+
+In a recent blog post, the CIO describes several federal mandates that are hurting rather than helping the improvement of EHR use and interoperability.
+
+Ultimately, Halamka comes to the conclusion that EHR adoption would be better served as part of the Alternative Payment Models and Merit-based Incentive Payments under thh Medicare Access and CHIP Reauthorization Act (MACRA) of 2015.
+
+Halamka indeed credits the EHR Incentive Programs with creating “a foundation of functionality for everyone,” but questions the future of meaningful use based on the goals Stage 2 and Stage 3 Meaningful Use.
+
+“Stage 3 makes many of the same mistakes as Stage 2, trying to do too much too soon,” he writes.”It requires patient accessible Application Programming Interfaces (APIs) without specifying any standards. It requires sending discharge e-prescriptions although pharmacies cannot widely support the cancel transaction that is essential to discharge medication management workflow.It requires public health transactions but CMS has no authority to require public health authorities to standardize the way they receive data.”
+
+Furthermore, Halamka states that government agencies are too wrapped up in micromanaging the solutions to problems, creating a complicated web of regulation that few industry professionals are actually able to navigate. For example, he expresses his belief that malicious data blocking does not actually occur, and that government agencies need not worry themselves with those issues. Additionally, not all of the industry’s problems can be solved by increased regulation.
+
+“The layers of requirements in Meaningful Use, the HIPAA Omnibus Rule, the Affordable Care Act, ICD-10 and the Medicare Access & CHIP Reauthorization Act of 2015 (MACRA) are so complex and confusing that even government experts struggle to understand the implementation details,” Halamka wrote.
+
+Specifically, the CIO states that the Office of the National Coordinator for Health IT (ONC) is involved in too many aspects of the health IT industry and is growing ineffective. ONC priorities should be streamlined into policymaking for error reduction, safety improvements, quality enhancements, interoperability, and meeting the needs of all patient populations.
+
+“ONC has become distracted by grant making, political agendas... and expansive certification ambition,” wrote Halamka. “ It's time to narrow the scope and enhance the effectiveness of this important agency.”
+
+Halamka offers other solutions to these healthcare IT woes, such as refocusing efforts toward improving IT incentives. For example, Halamka explains that the meaningful use program requirements should be replaced with value-based incentives that physicians are likely to take part in. To meet these incentives, healthcare practices are likely to change their behaviors and health IT systems.
+
+Regulation and certification can also be replaced with infrastructure. Instead of creating extensive interoperability certifications, healthcare infrastructures of national provider identifiers and national patient identifiers can help health information exchange. Halamka uses his own state of Massachusetts as an example:
+
+“Today in Massachusetts we exchange over 3,000,000 patient records per month among 500 organizations because we created such enabling infrastructure backed by data governance (common policies and agreements). Certification will not accelerate interoperability,” he wrote.
+
+Last, Halamka states that interoperability goals should be boiled down to three main points, allowing the health IT industry to concentrate on doing a few things very well. The first objective includes using FHIR to read a provider directory. The second includes using FHIR to read a relationship locator service. The third includes allowing patients to download specific data sets.
+
+By decreasing these interoperability and EHR requirements, Halamka says innovation can happen where it really matters.
+
+“More Meaningful Use and Certification criteria are not the answer,” he wrote. “Paying for outcomes that encourage government, payers, providers, patients and health IT developers to work together, instead of being adversaries, is the path forward.”

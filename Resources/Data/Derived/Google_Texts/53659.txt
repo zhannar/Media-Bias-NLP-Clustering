@@ -1,0 +1,41 @@
+A man looks over the Affordable Care Act (commonly known as Obamacare) signup page on the HealthCare.gov website in New York in this October 2, 2013 photo illustration.
+
+WASHINGTON U.S. authorities are investigating a series of cybersecurity incidents targeting the HealthCare.gov website at the center of President Obama's healthcare law, a U.S. homeland security official told Congress on Wednesday.
+
+Roberta Stempfley, acting assistant secretary of the Department of Homeland Security's Office of Cybersecurity and Communications, said her department was aware of "about 16" reports from the Department of Health and Human Services - which is responsible for implementing the healthcare law - on cybersecurity incidents related to the website.
+
+Testifying before the House of Representatives Homeland Security Committee, Stempfley also said officials were aware of an unsuccessful attempt by hackers to organize a "denial of service" attack to overwhelm and take down the website.
+
+Stempfley's testimony marked the first time that the Obama administration publicly discussed cybersecurity threats to the website at the heart of the law known as Obamacare.
+
+Obama has faced sharp criticism over the technical problems that have plagued the HealthCare.gov website - set up to enable uninsured Americans to buy affordable health insurance - since its launch last month.
+
+Some experts have raised concerns about the security of the private data collected by the site, such as Social Security numbers, email addresses, phone numbers and birth dates that could be used by criminals for identity theft or other schemes.
+
+"This is a goldmine for hackers. ... Frankly, I think it's the tip of the iceberg," Homeland Security Committee Chairman Michael McCaul, a Texas Republican, told Reuters after Stempfley's testimony.
+
+"That's the first public testimony we've had on this and we'll certainly follow up," McCaul added.
+
+Department of Homeland Security officials declined to provide further details on cybersecurity incidents related to HealthCare.gov. One department official, speaking on condition of anonymity, said after the hearing that the incidents were not considered significant.
+
+The official also said the DHS cybersecurity office has not received any report of a successful attack on HealthCare.gov.
+
+During the hearing, Stempfley told lawmakers that "we are aware of one open-source action attempting to perpetrate a denial of service attack against the HealthCare.gov site that has been unsuccessful."
+
+Although some lawmakers on the panel took Stempfley's words to indicate an acknowledgement of an attempted cyberattack on the site, department officials later said Stempfley was not referring to any actual attempted cyberattack but to an unsuccessful software tool created to enable such an attack.
+
+Stempfley did not comment after the hearing.
+
+Security researchers last week reported that hacker activists were distributing a software tool through social media sites that was designed to attack the site by performing requests to pull up several pages on HealthCare.gov.
+
+The developers of the software - dubbed "Destroy Obama Care!" - said in remarks annotated in the tool that its purpose was to overload and crash the system, according to a screenshot posted by security researchers with Arbor Networks.
+
+The Arbor Networks researchers said that the tool was unlikely to succeed in taking down the site because of weaknesses in its design.
+
+Stempfley said the HHS's Centers for Medicare and Medicaid Services (CMS), the lead health agency managing the rollout of the site, had not sent a specific request for help, so federal cyber officials have not provided any technical assistance yet.
+
+Henry Chao, deputy chief information officer for CMS, said at another hearing on Wednesday that the information technology system behind the website employs "stringent privacy and security controls to safeguard consumer data."
+
+Obama has promised Americans that the website will work for most people by the end of the month - a critical deadline for those who need to sign up for insurance benefits that would start on January 1.
+
+(Additional reporting by Jim Finkle; Editing by Will Dunham)

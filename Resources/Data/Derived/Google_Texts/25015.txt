@@ -1,0 +1,17 @@
+BY: Follow @LizWFB
+
+
+
+An Obamacare database storing personal information on millions of Americans including Social Security Numbers was riddled with “basic security flaws,” according to a report from an agency watchdog.
+
+ABC News reports:
+
+The government stored sensitive personal information on millions of health insurance customers in a computer system with basic security flaws, according to an official audit that uncovered slipshod practices. The Obama administration said it acted quickly to fix all the problems identified by the Health and Human Services inspector general’s office. But the episode raises questions about the government’s ability to protect a vast new database at a time when cyberattacks are becoming bolder. Known as MIDAS, the $110-million system is the central electronic storehouse for information collected under President Barack Obama’s health care law. It doesn’t handle medical records, but it does include names, Social Security numbers, birthdates, addresses, phone numbers, passport numbers, employment status and financial accounts of customers on HealthCare.gov and state insurance marketplaces.
+
+The Department of Health and Human Services (HHS) Office of Inspector General (OIG) conducted the review between August and December 2014.
+
+The audit found several vulnerabilities with the MIDAS database. For instance, the Centers for Medicare and Medicaid Services (CMS) did not simulate an attack on the database that would have revealed obvious security weaknesses.
+
+“Our database vulnerability scans identified 22 high, 62 medium, and 51 low vulnerabilities” with the system, the OIG said.
+
+“It sounds like a gold mine for ID thieves,” Jeremy Gillula, staff technologist for the Electronic Frontier Foundation, a civil liberties group focused on technology, told ABC News. “I’m kind of surprised that this information was never compromised.”

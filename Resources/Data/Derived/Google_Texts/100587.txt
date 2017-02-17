@@ -1,0 +1,53 @@
+When Facebook announced last week that it had agreed to acquire Oculus VR, “the leader in virtual reality technology,” for $2 billion, techies and journalists everywhere wondered: What does Jaron Lanier think of this?
+
+Lanier, the dreadlocked futurist now working at Microsoft Research, was a virtual reality pioneer — he coined the term. More recently, he’s been a prolific critic of so-called Web 2.0 companies like Google and Facebook, bucking very publicly against their business models in books like Who Owns the Future?
+
+Related: How Facebook and Google Want to Mess with Your Reality
+
+
+
+In announcing the Oculus purchase, Facebook CEO Mark Zuckerberg touted the potential for virtual reality to emerge as the next great computing platform after mobile, and a communications platform too. “Imagine enjoying a courtside seat at a game, studying in a classroom of students and teachers all over the world or consulting with a doctor face-to-face — just by putting on goggles in your home,” he said in a statement.
+
+So it’s no surprise that Lanier says he was bombarded with “an insanely large number” of requests for comment on the Oculus deal. In response, he issued a statement — “Hello friendly journalist,” it started — congratulating the Oculus team, expressing his hope that the deal doesn’t slow their innovation and reminding people that “despite all the publicity, there are a lot of other VR efforts in the world, so this isn’t the only game in town.”
+
+The Fiscal Times spoke with Lanier this week to get more of his thoughts about the deal, Zuckerberg’s vision, and the future of virtual reality. Among his insights: “The biggest variable as to how creepy Facebook will be in the future is whether Zuck has kids or not.” Excerpts from our conversation:
+
+The Fiscal Times (TFT): You said in a statement after the Facebook-Oculus deal that whether the combination “will yield more creativity or creepiness will be determined by whether the locus of control stays with individuals or drifts to big remote computers controlled by others.” Can you explain that?
+
+Jaron Lanier (JL): We’ve known for a very long time that it’s possible to use virtual reality in extremely creepy ways. That’s been a theme in fiction for longer than computers have existed. A good reference point on that is a [science fiction] short story by E.M. Forster called “The Machine Stops” from 1907, decades before computers existed, in which he describes humanity largely held captive by bread and circuses and something that’s very similar to Facebook. It was sort of an opiate of the masses idea extended to technology. Another great example that’s more recent would be the “Matrix” movies.
+
+It’s not hard to imagine a scenario in which you have most people who are materially at a disadvantage compared to the elite sort of living in simulations for the benefit of the elite. That could come about. I don’t think it will because I think people are better than that and smarter than that and kinder than that. But in order to avoid it, we should talk about it, which is why I talk about it.
+
+Virtual reality is particularly usable in creepy ways because you could get such intimate data about people and do such intimate things to people. By suddenly changing a person’s avatar, you can change how they feel about themselves, how they effective they are, how confident they are … You can affect how they treat other people. You can really manipulate people because it’s so close to the bone or so close to the brain.
+
+The thing about Facebook that makes it unusual is that it’s a public company controlled by one person absolutely. It’s a very rare entity. And I don’t how long it will continue to be controlled by one person, but it could be for quite a while, so what we’re really asking about is the predilections of one person.
+
+Related: Oculus-Facebook Deal Creates Rift Between Gamers
+
+I’ve been around Silicon Valley for a while and I remember what it was like to be in my 20s and seeing a lot of other people at that age. We were all brash and arrogant — I’m thinking of people like Jobs and Gates. As people got older — a transformative event was when they had kids. There was this kind of emotional growth and people really changed and you started to see, for instance, a Bill Gates, who became the biggest philanthropist in history. You started to see Steve Jobs, who gave that remarkable talk at Stanford about mortality. You started to see a very different, deeper personality type emerge.
+
+I have no reason to believe we’re the last generation who will go through that kind of change. So I think the biggest variable as to how creepy Facebook will be in the future is whether Zuck has kids or not. It’s a strange thing to say and it might be a little arrogant for me to presume that about another person, but just based on observing how things go in Silicon Valley, that would be my guess.
+
+TFT: Zuckerberg said he envisions using virtual reality for education. Do you have any thoughts on virtual reality enabling education?
+
+JL: Virtual reality doesn’t do anything by itself. It’s a tool. It’s a medium. I heard a great joke yesterday on the radio where someone came up to [violinist] Jascha Heifetz and said, “Wow, your violin sounded great,” and he held the violin up to his ear and said, ‘Funny, I don’t hear anything.’” That’s how virtual reality is. It’s not anything by itself. It’s purely how it’s used. It’s like saying books can be good in education. Well, yeah, but you can write cruel books, false books, stupid books.
+
+Virtual reality can be a wonderful educational tool — I have no doubt about that. I’m particularly interested in its use in mathematics education because I think you can put yourself inside mathematical visualizations. I’ve played around with mapping people’s bodies into different geometrical shapes so that they can understand geometry a little bit … also topological forms. I think there’s a huge potential there. But there are plenty of ways to use it badly.
+
+TFT: When Zuckerberg talks about this as the next computing platform, how long of a time horizon are we talking about?
+
+JL: Back in the ‘80s when I was doing this stuff, just tracing the likely Moore’s Law-like curves, it seemed to me that it would hit consumer readiness around 2020. That’s what I used to predict. I think in one of the statements that came out, Zuck said there’s five years of software development before this thing is ready anyway. I don’t know…. Headsets are coming out in the next year or two maybe. A headset does not make virtual reality. You need the whole system. That 2020 prediction may still hold to be not too far off. Hopefully, I was a little pessimistic and it will come in a bit earlier.
+
+Related: New Social Media Site Spills Silicon Valley's Secrets
+
+TFT: How much of the popular spread of virtual reality depends of further advances and the adoption of options like Oculus Rift or Sony’s Project Morpheus when that comes out?
+
+JL: That’s an interesting question. It kinda depends on how smart the various marketing people are. With something like Kinect from Microsoft you might have said hey, how can you sell a body tracker and motion sensing camera by itself with just a screen? But it was possible to organize the right kind of titles, the right kind of marketing and the right kind of market to make that work so that they sold 40 million or so. It’s tremendously successful. That’s what marketers are for, right? What you hope is that, for these companies, the marketing professionals really have their act together and will figure it out.
+
+TFT: The underpinnings for virtual reality and augmented reality, at least in terms of business models, is monetizing user information, right?
+
+JL: Oh, no no no. That’s one—that would be the current idea of the universal business model for absolutely everything. I believe it’s not a sustainable business model. I believe it’s a snake that eats its own tail eventually. You shrink the economy by throwing every other kind of value off the ledgers until you’re not seeing the real value of the technology you’ve created. There are many other potential business models and I hope some of those will be explored as well because I think they’ll work better. Just to name some of them: One of them is to have an economy within the virtual world, and we’ve already seen one experiment along those lines which I was an advisor to, and that’s called “Second Life.”
+
+I was just thinking the other day how important timing is because imagine that “Second Life” was just ramping up right now and was a big deal. How much would Facebook pay for it? It would be billions and billions of dollars. But it was kind of early—it was an experiment with mixed results. It’s not as present in the public conversation as it was a few years ago, but a few years ago it was a big deal like Oculus is now—everybody was talking about it and it was in the news all the time. The interesting thing about it was that it was experimenting with alternate business models. We actually had an economy within it where people could buy and sell virtual stuff and be creative and make money from being creative. There were some successes and some failures. It was a necessary experiment. But something like that could be done better. So let’s not pretend that the advertising model is the only one.
+
+Top Reads from The Fiscal Times:

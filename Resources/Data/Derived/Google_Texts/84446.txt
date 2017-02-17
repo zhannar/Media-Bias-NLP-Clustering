@@ -1,0 +1,21 @@
+The new Obamacare website Healthcare.gov has had its fair share of problems over the past weeks, and the trouble continues.
+
+As it turns out, the Government website uses the open source software DataTables, which is a plug-in for the jQuery Javascript library.
+
+While using open-source software is fine, the makers of Healthcare.gov decided to blatantly remove all references to its owners or the original copyright license.
+
+In other words, they simply took the open-source software and are passing it off as their own, a clear violation of the GPL v2 and BSD (3-point) licenses DataTables uses.
+
+For a comparison, here is the original DataTables file and this is how it looks on Healthcare.gov.
+
+
+
+Original DataTables
+
+
+
+Pirated DataTables
+
+SpryMedia, the company behind Data Tables told The Weekly Standard that they are “extremely disappointed” with the rip off and they will follow the issue up with the Department of Health and Human Services, who run Healthcare.gov.
+
+Perhaps they can also contact the Department of Homeland security who are known to seize domains that assist in copyright infringement…

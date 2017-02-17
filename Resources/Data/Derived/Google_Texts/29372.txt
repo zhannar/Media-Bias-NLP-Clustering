@@ -1,0 +1,169 @@
+By Arredondo, Ricky Proquest LLC
+
+In the new world of healthcare reform, cost accounting requires financial and clinical data integration across the continuum of care. The question should be not whether to pursue a strategy to get there; it should be how best to proceed.
+
+With today's ever-growing pressure to reduce healthcare costs, the continued rollout of rules and regulations under the Affordable Care Act (ACA), and increasing emphasis on cost transparency, the entire healthcare industry is now keenly focused on identifying the full costs of care and capturing cost savings. Because of the unique nature of a hospital's operations-where services are often provided by physicians who are not employed by the organization-most hospitals continue to struggle with identifying the costs of products and services by responsible segments and with capturing the full cost of products and services, including interdepartmental costs.
+
+This challenge is exacerbated by ever-evolving requirements associated with accountable care organizations, bundled payments, and population health management, requiring a more global understanding of the costs of care, which include costs for physician office visits, ancillary services, and other nonhospital services.
+
+Knowledge of the cost of each procedure and major product line has become critical to supporting the financial stability of hospitals and health systems. Simply put, to make sound management decisions, these organizations must know their costs at the procedure, patient, and department levels. The following discussion provides a guide to assist healthcare leaders in assessing and implementing a cost-accounting system that can shed light on costs across the continuum of care-and identify opportunities for improvement.
+
+Preliminary Questions
+
+How can healthcare organizations identify and understand all of the costs that are generated across the continuum of care? The answer: by applying a cost-accounting methodology. Yet two additional questions follow from this assertion: Which cost-accounting methodologies will work best, and what steps are required to effectively implement them?
+
+Traditional methods for determining costs, such as ratio of charge to cost (RCC), are falling from general use because gross charges simply do not reflect the final payment or the costs associated with the delivery of care. Many experts contend that relative value units (RVUs) provide a much more accurate basis for analysis. Also growing in popularity is time-driven activity-based costing (TDABC) for procedures.
+
+To account for costs across the continuum of care, hospitals and health systems should carefully review what tools they are using for cost accounting and how they are using them to ensure that complete information on costs is captured and can be shared in a timely and meaningful way.
+
+Clearly, direct costing of various components of services, such as supplies used (whether chargeable or not), has become much easier. The rollout of electronic health records (EHRs) and clinical documentation solutions has enabled providers to get a better handle on these items.
+
+Indirect costs are quite another matter, and indeed, an important objective in health care is to minimize indirect costs-at the veiy least, to obviate the need to use various methodologies to split up those costs at the case level, which would eventually become necessary, especially at the physician level.
+
+The key point that must be addressed for costing in a value-based system focused on population health management is the need to integrate financial and clinical data repositories to provide a reliable means for determining the cost of specific outcomes. A well-designed clinical and financial data model can provide information that can be used for a variety of purposes, including:
+
+* Cost management at a departmental level
+
+* Pricing decisions with HMOs and PPOs
+
+* Strategic planning
+
+* Physician management
+
+* Profitability analysis
+
+* Utilization analysis
+
+In the current environment, cost accounting should be seen as a component of the healthcare organization's overall business intelligence strategy, involving application of an enterprise data warehouse (EDW) and not just as a stand-alone decision-support system (DSS).
+
+As analytics in health care continue to evolve, so do the IT needs for a new generation of combining disparate data from the traditional DSS model. EDWs and their associated tools sets are designed to combine clinical and operational data for cost management that includes data requirements such as:
+
+* Claims data for diagnosis codes, patient demographics, and encounter information and services-provided data from the patient billing system
+
+* Clinical data, such as quality and outcomes from EHRs or other ancillary clinical systems
+
+* Accounting and financial data from the general ledger, budget, and subledger systems
+
+EDWs, unlike DSSs, assemble data in an architecture that easily stores the data relationships to ensure contextual integrity to the level of individual patients or clinicians. In short, EDWs provide an interactive platform to analyze data to create practical information.
+
+Critical Considerations for Today's Cost Accounting
+
+The continued rollout of rules and regulations under the ACA and increasing emphasis on cost transparency have produced many new factors that health systems should consider in developing a cost-accounting system that meets operational improvement objectives.
+
+In particular, as providers move from the Medicare fee-for-service models to pay-forperformance programs, there is an increased focus in cost accounting on outcomes. To fully measure outcomes, organizations need to evaluate key work processes across the continuum of care, the costs associated with clinical care, and the quality of the outcomes achieved (e.g., to provide a basis for developing policies and procedures to reduce 3o-day hospital readmission rates). Thus, cost accounting will continue to be the crossroad of the processes and metrics used to evaluate how effectively the organization is managing patient care, understanding utilization, and optimizing revenue.
+
+Other key considerations include the following:
+
+* The need to understand the various costing frameworks for hospitals, clinics, and physician practices
+
+* The ability to accommodate RCC, RVU, or TDABC to account for costs at the charge-code level
+
+* Data validation and reconciliation in light of growing clinical data warehouse requirements (e.g., to assess quality outcomes and meaningful-use key performance indicators, and to serve as baseline benchmarks)
+
+* The need for timely and accurate reporting of performance across patient populations (realtime analytics)
+
+* The ability, where appropriate, to quickly and smoothly transition to TDABC/ ABC , and thereby facilitate more accurate estimation of cost components to align costs by activities and services across departments and encourage collaboration-which will be critical during the conversion to ICD-io, in particular
+
+* The ability both to understand actual cost per unit consumed of indirect resources at detailed levels and to charge back those indirect costs based on actual units captured during patient encounters rather than on estimated units based on hypothetical constructs
+
+* The ability to employ traceability maps (e.g., tracing vendor devices to patients) and drill to the source to lay the foundation for predictive analytics
+
+* The ability to tie patient encounter costing back to all costs incurred for the encounter
+
+Hospitals are quick to note, however, that their biggest challenge is not generating such information about the costs to the organization of patient care; rather, they have two greater challenges: not having the budgets for the kind of technology needed to truly identify the full cost, and having limited ability to improve payment, regardless of how much knowledge they acquire.
+
+Many hospitals have already jumped into the evolving cost-accounting requirements as they work to cost-justify for ACA-related initiatives or to provide required information for a merger/acquisition. For this purpose, providers should both leverage their current software vendor strategic relationships and optimize or leverage their current analytics tools to meet the increasingly intricate cost-transparency requirements.
+
+Clearly, ROI for any new cost-accounting solution is a critical consideration. This concern cannot be addressed effectively without due consideration of the primary purpose of the cost-accounting system and how it will be used.
+
+An effective system must be able to track higher business-level metrics for reporting to the board-including total cost per equivalent inpatient admissions, and total costs and component costs relative to total operating revenue-to assist the board's review of costs and cost reductions as it views financial statements. Generally, the costaccounting system should be capable of reporting metrics focused on labor and supplies (e.g., FTE per adjusted occupied bed), wages and benefits as a percentage of operating revenue, wages and benefits per adjusted discharge, and supplies per adjusted patient day. In a population health scenario, hospital management will require these metrics, day in and day out, from a single source to effectively manage the full spectrum of care, looking at each unit or site of care and accounting for factors such as labor and supplies, admissions and discharges, inpatient and observation cases, and postacute and follow-up care. A sound costaccounting system with a data warehouse is needed to store the essential clinical and operational metric components that demonstrate how the hospital is bending the cost curve and to set a foundation for the cost of clinical outcomes.
+
+Potential Pitfalls
+
+An organization will best position itself to succeed in implementing an appropriate new cost-accounting methodology if it undertakes the effort with full awareness of the challenges involved. Organizations that are working to expand analytics and reporting by making effective use of an operational/clinical data warehouse should take action to avoid the following potential pitfalls.
+
+Secure broad executive-level support for the effort. Many hospitals have not acquired true costaccounting and decision-support systems. A common challenge for these organizations is that hospital administrators often do not see the business benefits or business value that such cost-accounting systems can provide. A business case should consider both the short and long view and balance the needs and the value (cost and benefit) from the perspective of service areas as well as the enterprise level. The assessment of the solution's impact should consider its impact on margin, profitability, and potential clinical outcomes. Those healthcare entities that begin to completely understand all costs of health care will be in a position to acquire those that do not.
+
+Ensure that systems are in place not only to gather data, but also to analyze the data. Organizations all too often stumble into the pitfall of spending too much time pulling and "scrubbing" the data and not enough time actually analyzing the data. To be able to perform such analysis, the organization will need a strategic/enterprise export, transform, and load (ETL) tool or engine to facilitate the use of application program interface (API) and master data management (MDM) solutions.
+
+The organization also will require a scalable relational database management system for an EDW to serve as a repository for all data (i.e., any application and any data structure). In short, complete data integration and an understanding of detailed workforce and capital-asset management are essential goals for organizations seeking to adapt their cost-accounting systems to the requirements of a value-based healthcare delivery system.
+
+Define objectives for the system to ensure that implementation achieves desired results. Building the structures for costing is a sophisticated process that requires a clear understanding of the specific objectives for the effort. Broadly, the objectives will include the need for a strategic business intelligence solution for scorecards and executive dashboards. But it also is necessary to have a clear idea of how the data will be used specifically-e.g., for evaluating volumes, net revenue, and expenses; for developing flexible budgets; or for reporting-before it is possible to know how the cost-accounting structures should be built.
+
+Give due consideration to planning for implementation. Hospitals often make the mistake of purchasing an application without being fully prepared for what's in store. As a result, the implementation process can take months, disrupt key people, and lead to frustration. A common pitfall is having the wrong people implement the system. If an organization has the right tools but sets them up wrong, with the wrong processes, it would be better off not having the tools. The implementation should be led by the health system's most valued subject-matter experts, and employ key resources from a system integrator and product vendor to make use of established expertise and best practices.
+
+The choice of solution also is another key implementation decision: It is best to opt for a solution that has been designed for the needs of the healthcare industry.
+
+Attention also should be given to creating appropriate data-governance structures and adopting an enterprise data dictionary to ensure all understand how the data was derived and is defined.
+
+No matter how robust a hospital system's content and process management technology, the system's data-governance structure plays a huge role in determining its ultimate success by providing a single source of truth. Designed to regulate the human elements of data access and management, data governance delineates which users are responsible for what data, who is authorized to view which assets, and how those permissions change when data moves within the system. It also defines how each set of users quantifies, compares, and reports the data they own. Having a "data dictionary" helps to ensure that all understand what the data elements mean.
+
+Physician information poses a particular challenge for cost accounting-particularly, how to allocate costs and revenue for individual physicians. To encourage physicians to revisit their care processes, health systems must understand all costs of care, present detailed quality data, engage in open and continuous communications, and leverage new technology to improve care. These are key objectives to keep in mind during implementation.
+
+Train staff charged with managing the cost-accounting system sufficiently to avoid underutilization and the acquisition of "shelfware. ' Underutilization comes from not recognizing cost accounting as a bona fide, specific discipline requiring highly skilled support. Without skilled staff or other expert resources to provide data-analysis expertise, an organization cannot expect to make full use of all of a system's functionality available to meet modeling, budgeting, forecasting, monitoring, and analysis requirements. Hospitals that do not recognize how much experience and training are needed not only to understand the mechanics of the software, but also to extract true value from the data, run the risk of making errors in determining how to allocate, identify, and quantify costs. In short, healthcare cost accounting is just a methodology that is morphing as a means for understanding metrics on how a hospital builds a business case for a service or product line, such that understanding clinical data on quality and outcomes has become just as important as understanding operational profit-and-loss statements.
+
+Establish a sufficiently broad base of staff support to manage and maintain the system. If only a handful of "key" people are charged with maintaining the system, supporting the data feeds and structures, operating the system, and providing data for analysis, the hospital faces a distinct risk from the possibility that any of these people might leave the organization.
+
+Typical cost-accounting staffing-support requirements include an FTE split between providing IT technical support (e.g., managing technical architecture and supporting the EDW/application and ETL tools) and providing accounting business support (e.g., transforming data into actionable information and presenting it for business decisions).
+
+Investing in emerging technologies such as analytics is one way to mitigate this risk. Big data is here to stay, and everyone will want to be part of the technologies that enable organizations to use it.
+
+A New Cost-Accounting Reality
+
+Implementing a cost-accounting solution does not, in and of itself, automatically enable a hospital or health system to achieve predicted performance improvement and business operational/process objectives. Indeed, the system likely will require considerable effort to bring live, and there tends to be minimal obvious ROI from the implementation of any new system. There is a clear ROI, however, if one considers the extent to which the new system will position the hospital to respond to the shift from fee-forservice to performance-based payment. By not investing now in preparation for this transition, the organization will incur costs related to a lack of preparedness in the future-that is, costs associated with an inability to make adjustments based on a clear understanding of the organization's true costs. *
+
+AT A GLANCE
+
+Healthcare entities seeking to develop effective costaccounting systems should take six steps to avoid potential pitfalls:
+
+* Secure broad executive-level support for the effort.
+
+* Ensure systems are in place to analyze the disparate data.
+
+* Define measurable objectives to ensure that implementation achieves desired results.
+
+* Give due consideration to implementation planning.
+
+* Train support staff sufficiently to avoid underutilization.
+
+* Develop a sufficiently broad base of staff support for the system.
+
+To read about key considerations in computing costs of care and in selecting the specific vendor solution for a cost-accounting system, go to hfma.org/costaccountingsolutions.
+
+Essential Cost-Accounting Tools Defined
+
+Extract, transform, and load (ETL). ETL tools provide a means for extracting raw data from a data source, loading the data into a data warehouse, and transforming the data for specific analytical purposes.
+
+Application program interface (API). API tools are standard stored procedures, packages, or functions created by a software company to enable other software developers to provide a means to perform specific activities in the application. An order import API, for example, would enable a hospital to create records that would be compatible with the program the hospital uses to evaluate orders.
+
+Master data management (MDM). MDM solutions deliver consolidated, consistent, and authoritative master data across an enterprise and distribute master information to all operational and analytical applications across multiple domains. These are intelligent data cross-walk engines that deliver a data dictionary that ensures business rules and logic are applied.
+
+Evaluation Checklist for a Cost-Accounting System
+
+Working with an organization's costing data requires a soundly designed data model with flexible tools for auditing, importing, and presenting information. The following checklist of practical utilities can be used to ensure the organization's growing cost-analytics needs are addressed:
+
+> Prebuilt functionality designed specifically for healthcare modeling, operational, workforce, and capital expenditures
+
+> A rules-based engine to help build a "data dictionary" and manage the data model
+
+> Interoperability delivered with an export, transform, and load (ETL) tool
+
+> Utilities designed to support modeling and advanced data analysis, down to the account level of detail (e.g., to define and calculate procedure costs based on materials, labor, and overhead), that can allow the organization to identify discrepancies
+
+> A utility for tracing the data source designed to ensure data are reliable
+
+> User maintenance utilities, where users and passwords can be added, modified, and removed easily
+
+> A utility that allows users to link volume drivers, reimbursement, and operational data in ad hoc fashion
+
+> A general business intelligence presentation layer for modeling and advanced level of analytics at the account level of detail
+
+About the author
+
+Ricky Arredondo , MPA,
+
+is a healthcare solution architect, CedarCrestone, Inc. , Flower Mound, Texas , and a member of HFMA's Lone Star Chapter (Ricky.Arredondo® CedarCrestone.com).
+
+Copyright: (c) 2014 Healthcare Financial Management Association Wordcount: 3078
+
+[jetpack-related-posts]

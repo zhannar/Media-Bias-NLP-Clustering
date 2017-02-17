@@ -1,0 +1,19 @@
+The enrollment and insurance application system at the troubled HealthCare.gov website was down for about 90 minutes Monday, officials said.
+
+The outage began at about 12:40 p.m. ET. While application and enrollment tools weren’t available for website users, other parts of the website worked, said Julie Bataille, director of the Office of Communications at the U.S. Centers for Medicare and Medicaid Services.
+
+“This is frustrating,” Bataille said during a press conference. “We are on an aggressive path to make improvements, and we will do just that.”
+
+HealthCare.gov, a way for uninsured U.S. residents to shop for coverage under the Affordable Care Act, has been plagued with problems since its launch Oct. 1. One of the centerpieces of the so-called Obamacare insurance reform legislation, the website has experienced sluggish page load times—at some points pages taking eight seconds to load—and in many cases, users haven’t been able to complete insurance applications.
+
+The team working on fixing the malfunctioning website was able to bring the system back up quickly after seeing an overload of a small number of servers and a load balancing problem, said Andy Slavitt, group executive vice president at Optum, one of the contractors working to fix HealthCare.gov.
+
+The HealthCare.gov team was still investigating the exact cause of the outage as of 4 p.m. ET., he said. The website had significant traffic numbers Monday, he said.
+
+Website users should expect more service interruptions in the coming days as the HealthCare.gov team works to fix the site’s continuing problems, Slavitt said. Officials with the U.S. Department of Health and Human Services have set a Nov. 30 deadline for having the site functioning for the majority of users.
+
+“This is a natural part of the process, and [outages] are not unusual when enhancements of this scope are being made to the system,” he said.
+
+Bataille said CMS was not considering a suggestion from some lawmakers and other critics to take down the site and fix it before relaunching. “HealthCare.gov is fixable,” she said. “We continue to be on a path to make improvements week by week.”
+
+Over the past weekend, the HealthCare.gov team made “more than a dozen important fixes” to the site, Bataille said. The team has improved an issue with inaccurate information being sent to insurance providers and the team has upgraded hardware to improve redundancy at the site, she said.

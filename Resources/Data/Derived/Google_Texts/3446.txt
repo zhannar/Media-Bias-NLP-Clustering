@@ -1,0 +1,37 @@
+Jared Bernstein is a senior fellow at the Center on Budget and Policy Priorities in Washington and a former chief economist to Vice President Joseph R. Biden Jr.
+
+Today's Economist Perspectives from expert contributors.
+
+In a recent post about fast-food workers striking for a higher wage, I noted the juxtaposition of the strikers and the banks, which just reported another quarter of record profits. In fact, as many inequality watchers have noticed, profits as a share of income are at or near record highs while the compensation share is around a 50-year low.
+
+That trend deserves a closer look. The chart below plots the total compensation share of national income, along with just the wage share (that is, excluding what employers pay for workers’ pensions, health coverage and social insurance). The wage share has been coming down faster than the overall compensation share, initially because more workers were getting more of their pay in nonwage benefits, though more recently, employers have been shedding health and pension benefits (the share of the population with employer-provided health coverage has declined over the last decade from about 73 percent to 63 percent).
+
+Photo
+
+For completeness, I’ll focus on the compensation share. In fact, there has been a lot of useful analysis of this trend, including Robert Samuelson’s opinion column on Monday for The Washington Post, wherein he links to a very informative post by the economist Timothy Taylor. So here are some of the basic facts:
+
+— According to Mr. Samuelson, over the last decade, there’s been a shift amounting to $750 billion from labor to capital.
+
+— As Mr. Taylor points out, this is a global phenomenon, occurring in most countries. That’s important in diagnosing causes, as labor’s share is declining in places with different politics, different trade policies (e.g., it’s falling in both trade-surplus and trade-deficit countries), high and low unionization rates, varying levels of capital intensiveness, and so on.
+
+— While the shift from wages to profits is of course associated with higher inequality, it is actually a fairly loose association. Importantly, much of the increase in inequality has occurred within labor’s share, as the paychecks of high earners diverge from those of low earners.
+
+— In that regard, a paper by the economist Lawrence Mishel provides two noteworthy facts, the latter of which is a very important part of this puzzle, at least in the United States case. First, in decomposing the gap between wages and productivity growth, a symptom of inequality that’s closely related to this share-shift story, he finds that inequality within the labor share — wage inequality — explains half of the growth of the gap over the last few decades.
+
+— But it’s his second finding I want to say more about here: in the latter 1990s, the last time the labor market was around full employment, labor’s share of national income actually increased, temporarily closing the productivity-wage gap by one-third.
+
+Mr. Taylor and Mr. Samuelson offer up the usual suspects: globalization, technological change, financialization (the growth of the finance sector), and declining workers’ bargaining power. But given the Mishel finding about the latter 1990s, I thought the bargaining-clout point was worth a closer look.
+
+So I built a simple statistical model of the compensation share of national income, one that basically correlates a bunch of variables and then lets you see how variable Y changes when you tweak variable X (see the data note below for details).
+
+Before I get to the results, note that in the largely deunionized American job market, full employment is the way workers get bargaining clout. And I measure full employment using the unemployment gap (“ungap” in the next chart), which is simply the unemployment rate minus the Congressional Budget Office’s estimate of the jobless rate associated with full employment. So if unemployment is 8 percent and the full employment rate is 5 percent, the ungap is three percentage points.
+
+The chart below1 then examines what happens when you hit the ungap measure with a positive “shock,” in effect simulating a slack labor market. As you see, do this and the labor share falls significantly (the standard errors — dotted lines in the figure — show that the decline is statistically significant); if you accumulate the quarterly declines in the chart, you get a loss of 1.7 points in the labor share over two and a half years. If you then calculate the cumulative unemployment gap since the Great Recession, you can fully explain the drop in the United States labor share.
+
+Photo
+
+But what about globalization? I plugged that into the model and found that once you control for bargaining power, it doesn’t explain much at all. That’s not surprising for two reasons. First, globalization itself zaps the bargaining power of those in import-competing sectors (who are then displaced to other sectors, further lowering the clout of workers in those sectors). Second, as Mr. Taylor’s post stresses, labor share has been declining in countries with trade surpluses as well, like Germany and China, so a simple trade deficit story doesn’t work so well in this case.
+
+Again, this is a simple correlation exercise. When you’re dealing with all of these macroeconomic moving parts, establishing causality goes far beyond what I’ve done here. But I’m shaving with Occam’s razor, and given Mr. Mishel’s finding about the latter 1990s, along with the common sense embedded in these linkages, I’m confident that more exhaustive analysis would find the same thing.
+
+In other words, I submit that increasing labor’s share of national income is neither mysterious nor beyond our scope (it is beyond our current politics, but so is pretty much anything useful). It takes getting rid of the persistent slack in the labor market, which in turn means policy makers must plot a course toward full employment. What that policy agenda entails will be a subject of future columns.

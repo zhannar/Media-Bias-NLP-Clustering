@@ -1,0 +1,33 @@
+On October 6, The Office of the National Coordinator for Health IT released its long-awaited 10-year roadmap for health data interoperability. For some observers and pundits outside the health IT sector, that may seem like too long to wait. As a vendor who has been fighting the interoperability battle for eight years so far, it sounds about right.
+
+When I first started out in the imaging interoperability business, it was partly out of frustration that my mother, who was diagnosed with Alzheimer's disease, was subjected to repeat radiology scans because providers within a few miles of each other in Boston could not share their images with one another. I quickly realized that no patient, particularly patients with dementia, should be subjected to that.
+
+[See also: ONC reveals final interoperability roadmap]
+
+Health data interoperability's evolution
+
+It is clear to me there are three phases in the evolution of health data interoperability: The first involves static data exchange, such as unsearchable PDFs, essentially digital faxes; the second, provider-to-provider exchange, is more automated, searchable, and locally usable, complete with a patient identifier -- but physicians on both ends still need to work together to send and receive the data; the third is an intelligent network that incorporates much more automation.
+
+This third phase is where we and other like-minded health IT thinkers such as ONC create a network that knows where a patient's information is located. The ONC's Interoperability Roadmap is one way to get there. A physician shouldn't have to physically interact with another physician to send or summon test results, radiology results, EHR visit details or new data for his or her patients.
+
+Somewhat analogous to a Google search, available information about a subject or patient will have been indexed. Search results provide a list of potentially interesting and contextually relevant information. The intelligent network for sharing patients' records will know about the relevant data. It will securely and conveniently make the information available to authorized users.
+
+This intelligent healthcare network doesn't require centralized data repositories. We would like to see it federated: The relevant data for a patient – given responsible consent management is in place – is automatically made available to the intelligent network and the information moves when needed.
+
+The intelligent network should be flexible enough so it can also be used for ad hoc sharing such that a physician, and certainly the patient, can "push" the data to a desired and specific destination.
+
+E-prescribing provides model for the intelligent network
+
+There is precedent for creating this kind of interoperable networking in healthcare: E-prescribing. For the last 10-plus years, Surescripts has created a network that helps access patients' medication history so a prescribing doctor can be alerted about potential allergies or drug-interaction problems. It also helps with the last mile of fulfillment. Most of us are now used to our physicians asking where you want to pick up your prescription before he or she hits "send" on the electronic prescription order. That's the last mile, completed.
+
+Can we do this with all health data? The ONC interoperability roadmap certainly helps push barriers out of the way by breaking down the problem into discrete and addressable chunks. It sets reasonable goals for the three-year short term, the six-year medium term and the 10-year long term. It thoughtfully separates areas of focus into technology, policy, and implementation.
+
+In the end, reimbursement rules will spur interoperability
+
+Our team has found many of the elements described in the roadmap to be essential to progress. It will probably take another decade for U.S. healthcare to get it right, as we have a complex healthcare system, combined with the fact that we live in a free market society. But, we're making progress and headed in the right direction.
+
+No matter your opinion of the HITECH Act or the Affordable Care Act – one thing we can see from our vantage point is that these have caused health data to become digital, and therefore liquid. Data can flow between sometimes competing health systems and even competing healthcare IT vendors' systems, as patient care requires.
+
+The success of the e-prescribing networks were in no small part due to reimbursement incentives and disincentives that meaningfully impacted providers' behavior. We believe clinical imaging will follow in that path, as payers and providers recognize the cost savings that can be realized by building an intelligent network. Significant costs are associated with duplication of tests, but the impact on quality of care is perhaps most significant.
+
+Alzheimer's patients and their caregivers today enjoy the benefits of data liquidity; I'm proud of the work we have done in imaging interoperability, which has improved greatly since my mother sought care in 2007. It is my hope that improvements with EHR data, on the whole, will not be far behind. The ONC's interoperability roadmap is certainly a catalyst and shows us the way.

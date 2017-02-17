@@ -1,0 +1,17 @@
+The placenta is a temporary organ that develops in a woman's uterus during pregnancy in order to provide oxygen and nutrients to her baby. Now, an international science team has developed a “placenta-on-a-chip” to study the role of this crucial body structure. Their unusual bioengineering feat can imitate, on a micro level, the function of the placenta while modeling the transfer of nutrients from mother to fetus.
+
+“Our placenta-on-a-chip model has potential to serve as a low-cost experimental platform with a broad range of applications,” wrote the authors in their published study.
+
+How do you safely study a placenta? Because it is potentially risky for a baby, researchers hesitate to investigate this temporary organ during a human pregnancy. Ususally, they work with animal models or laboratory-grown cells, yet obviously it's not the same. For the current study, the researchers developed their placenta prototype based, in part, on previous organ-on-a-chip technologies.
+
+Placenta-on-a-chip microdevice NIH
+
+In particular, the placenta-on-a-chip technology uses human cells in a structure that resembles the maternal-fetal barrier. The device consists of a semi-permeable membrane between two chambers, one filled with maternal cells derived from a placenta and the other filled with fetal cells derived from an umbilical cord. After designing this model, the researchers tested it. A simple transfer of glucose from the maternal chamber to the fetal compartment proved the device successful in mirroring what actually happens during an everyday process necessary for converting carbohydrates into energy.
+
+The researchers are keen to learn how the placenta transports some substances to the baby, while blocking others. Linked to the umbilical cord, the placenta filters out impurities from the baby’s blood while also preventing bacteria, viruses, and certain medications from reaching the baby. Knowledge of how the placenta effectively performs its job as traffic cop could help doctors assess the health of both mother and child while improving pregnancy outcomes.
+
+Hailing from the University of Pennsylvania, Wayne State University, and Seoul National University, the researchers believe their new technology will help with questions that cannot be answered using the current placenta models. Among their questions: various factors, including an older maternal age and high blood pressure, are known to affect the health of the placenta — but why?
+
+“With further improvements, we hope this technology may lead to better understanding of normal placental processes and placental disorders,” said Dr. Roberto Romero, a study author and chief of the perinatology research branch of the National Institute of Child Health and Human Development, in a press release. The study is backed by the National Institutes of Health.
+
+Source: Lee JS, Romero R, Han YM, et al. Placenta-on-a-chip: a novel platform to study the biology of the human placenta. Journal of Maternal-Fetal & Neonatal Medicine. 2015.

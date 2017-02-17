@@ -1,0 +1,21 @@
+Signature patterns of activity between brain regions before patients are sedated predict their unique responses to anesthesia. ResoluteSupportMedia, cc by 2.0
+
+General anesthesia eliminates both pain and consciousness making surgery possible, but when given too much, a patient can be harmed by these drugs. Commonly, anesthesiologists calculate the proper dosage using a patient’s weight, however a new University of Cambridge study suggests there may be a more precise way to decide how much drug is needed. Signature patterns of activity or “chatter” between brain regions before patients are sedated predict their unique responses to anesthesia, the researchers say.
+
+Concentration levels of anesthesia in the brain cannot be measured, yet there is considerable (and well-documented) inconsistency in how susceptible each of us is to these drugs, the researchers explain. Currently, patients undergoing surgery are dosed based on the Marsh model, which predicts peak concentration over time based on calculations using body weight. Levels of awareness can only be crudely measured so the anesthesiologist simply titrates more anesthetic to patients who remain awake. Obviously, this is not optimal, particularly if a patient has a health condition, such as heart trouble, that might exaggerate potentially negative effects of a sedating drug.
+
+To understand what factors cause each of us to have a different drug response and also to learn how best to measure dosages, the Cambridge researchers designed an experiment using an EEG.
+
+Alpha Waves
+
+Enlisting the help of 20 healthy volunteers (11 female), the researchers administered propofol, a commonly used anesthesia drug, while observing patterns of brain activity via EEG. Measuring electric signals as brain cells talk to each other, an electroencephalogram (EEG) tracks the patterns of activity among brain networks. Participants performed a simple task throughout the experiment to provide evidence of their consciousness: they would press one button whenever they heard a 'ping' and another button if they heard a 'pong.'
+
+As the infusion of propofol steadily increased, the researchers observed how each participant’s brain signals changed. What did they see?
+
+As expected, by the time the maximum dose was reached, some participants had fallen into unconsciousness, while others remained awake and continued to carry out the task. Analyzing the EEG readings, the researchers found pronounced differences in alpha wave activity between those who had responded to propofol and those who remained awake.
+
+In fact, even before participants received the drug, their EEG readings showed alpha wave differences. Simply put, those with more activity required more anesthetic to put them under. The researchers also found a correlation between a specific form of brain network activity known as delta-alpha coupling and levels of drug in the blood.
+
+“These findings could lead to more accurate drug titration and brain state monitoring during anesthesia,” concluded the researchers.
+
+Source: Chennu S, O’Connor S, Adapa R, Menon DK, Bekinschtein TA. Brain Connectivity Dissociates Responsiveness from Drug Exposure during Propofol-Induced Transitions of Consciousness. PLOS Computational Biology. 2016.

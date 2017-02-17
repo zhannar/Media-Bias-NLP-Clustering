@@ -1,0 +1,49 @@
+Large healthcare organizations spend millions annually on IT. Most of it pays for technology that moves or stores data. That's been especially true in the last five years, as meaningful use has triggered significant investment in electronic health record (EHR) technology.
+
+Little of that capital spending adds value, though. Healthcare IT implementation has occurred where frustration is highest but the benefit is lowest, says Dr. David Levin, chief medical information officer (CMIO) with the Cleveland Clinic Health System. For transformation to occur, the opposite must be true.
+
+Levin and several other speakers at the recent Institute for Health Technology Transformation (iHT2) Health IT Summit Chicago addressed the interconnected issues of healthcare IT spending, evolving business models and the types of innovation that can succeed in such an embattled industry.
+
+ACA, Meaningful Use Aren't Disrupting Healthcare
+
+Healthcare consumers aren't afraid of innovation, says Scott Lundstrom, group vice president at IDC Health Insights, citing the increasing numbers of patients who bypass primary care physicians for retailers such as CVS or Walmart when they need to treat minor ailments.
+
+On the other hand, healthcare organizations struggle with disruptive innovation. That means shaking up the status quo, one which has made a lot of money for a lot of hospitals for a long time. What's more, Lundstrom says, the Affordable Care Act isn't shaking things up as some had hoped, and meaningful use isn't fixing anything.
+
+As Lundstrom sees it, six factors drive the real disruptions in healthcare:
+
+Industrialization, which tends to hit industries in 20-year cycles. It happened to manufacturing, and it's happening in healthcare.
+
+Changing business models, which will integrate clinical, financial and patient data to focus on wellness – and, in the process, cause a lot of hospitals to fail.
+
+Consumer-facing technology, a market that Google, Apple, Samsung and WebMD each aim to conquer. Connecting to and collaborating with patients may frustrate doctors, Lundstrom says, but they must understand that the money they don't spend on doing so will fall to the bottom line.
+
+Organizational changes, which increasingly add IT hires with governance and management skills.
+
+New roles in care delivery, which (given that focus on wellness) may involve a "referral" to the gym instead of the doctor. Lundstrom's warning to skeptical healthcare leaders: If you aren't willing to adapt to this role, to spend a little to save a lot, rest assured that your new owners will be.
+
+New IT architecture options, which mean embracing agility, trusting the cloud and decommissioning all those apps that only a handful of employees still use. Providers must use analytics to turn IT inside out; critically, Lundstrom says, they can't rely on one single EHR system for this purpose.
+
+[ Analysis: Why Healthcare Needs Amazon (or Anyone) to Shake Things Up ]
+
+Healthcare App Developers Can't Be Afraid to Fail
+
+Attend enough IT conferences and you'll hear a version of this phrase: "No one wants to be the first to do something, but everyone wants to be second."
+
+The phrase rings especially true in healthcare. Private insurers, Medicare, hospitals, integrated care networks, established IT vendors, startups and professional associations start staring contests, waiting for someone to blink first – all while patients wait in the background, wondering why the can book a vacation to Maui from their phones but can't book an appointment at the clinic down the street without spending 15 minutes on the phone.
+
+That's why Dr. Luis Saldana, CMIO of Texas Health Resources, says his organization is "dabbling" in initiatives, such as expanded health information exchange and the use of patient-generated data, to build credibility and a "culture of trust" with patients and providers alike. Dr. Lyle Berkowitz, associate CMIO at Northwestern Memorial Hospital, also named a few, including outreach for high-risk patients, population health management and the creation of high-tech, "intensive medical homes."
+
+Making these work means breaking down barriers. For example, many physicians worry about the ramifications of adding "bad" patient data to the health record, Levin points out. They say it will further muddy the waters and disrupt the status quo.
+
+However, Levin says, "We already have bad data, and most of it is based on what is already telling us anyway." Plus, letting patients control their data is widely regarded as a key step in improving patient engagement. If nothing else, he adds, "Put the iPads in the patient's hand."
+
+Of course, that only works if patients want to use the tablet. Few do. As Levin says, "Most apps are crappy." They aren't secure, intuitive or integrated with EHR systems. Above all, they aren't designed to be part of a patient's social ecosystem.
+
+Making apps that stick requires an entrepreneurial approach to healthcare IT – one that deemphasizes monolithic systems and massive on-premises data centers in favor of agility, pilot projects and, above all, a willingness to fail.
+
+Healthcare's reluctance to accept failure is deep-seated and sensible. After all, one misdiagnosis or botched procedure can kill a patient. Recent headlines also demonstrate that CIOs and CEOs can lose their jobs over cumbersome, complex and costly EHR implementations.
+
+But there's no reason for healthcare IT leaders to apply the rigors of an EHR system to, say, a smartphone app that lets ICU patients order dinner. Yes, there are frustrations to developing such apps, but they are small – and the benefits of a more productive workforce and happier patient population can be quite large.
+
+"Fail early, fail often and fail cheap," Berkowitz says.

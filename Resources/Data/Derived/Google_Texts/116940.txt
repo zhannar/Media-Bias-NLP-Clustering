@@ -1,0 +1,63 @@
+Inside The Message Machine That Could Make Politicians More Persuasive
+
+i toggle caption Harvey Georges/AP Harvey Georges/AP
+
+It sounds like a politician's dream: a machine that can tell you exactly what to say to change a voter's mind.
+
+Well, that's what a political scientist has come up with — at least, a first tentative step in that direction.
+
+Using text from a pro-Obamacare website and testing different combinations of sentences on volunteers, an algorithm created by Northeastern University assistant professor Nick Beauchamp was able to identify optimally persuasive terms that make people more inclined to support the landmark health care law.
+
+Sentences including words like "pre-existing," "condition," "coverage" tended to leave study volunteers feeling more positive about the law.
+
+"States," "federal" and "government" were among the topics that turned people off Obamacare.
+
+Finding Out Which Words Work
+
+Beauchamp began this process with a question: How, exactly, do you come up with a really persuasive argument?
+
+"When you think about advertising, you think about, where does an advertisement come from?" Beauchamp explained. "And your mind goes to Mad Men or something. You think about a bunch of men and women sitting on an orange couch smoking weed, and the ideas, like, burble to the top of their heads."
+
+Of course, advertising and political communications have gotten a lot more technical and analytic since Don Draper pulled tag lines like "it's toasted" out of nowhere. Any campaign with the cash to do so takes advantage of focus groups and polls as it hones its message.
+
+But Beauchamp wanted to do better than that. He wanted instant, objective analysis of which words work and which don't, when it comes to getting someone to change an opinion on a subject.
+
+Beauchamp developed an algorithm that identifies key topics within a block of text. He then fed a bunch of text from a pro-Obamacare website into the algorithm, which then took that text and mixed and matched it to form short paragraphs.
+
+Volunteers read these paragraphs, and rated their persuasiveness. "And then it uses that feedback to go back and choose a different distribution of topics that hopefully will produce, in this case, better approval of Obamacare," Beauchamp explained. Essentially, topics that kept getting positive results got higher scores and were used to create even more persuasive paragraphs.
+
+The whole thing took about an hour and a half to run. After the program had spit out different combinations of text to about 300 volunteers, it had its results.
+
+Being 'Relatable And Resonant'
+
+Two chunks of topics were especially persuasive:
+
+Pre-existing, condition, coverage, plans
+
+Employee, employer, business, mandate
+
+There were two topic groups that appeared to turn people off Obamacare:
+
+State, states, federal, government
+
+Affordable, law, protection, rights
+
+That made sense to Vinca LaFleur, a professional speechwriter who used to work in the Clinton administration. It also confirmed for her that machines aren't about to replace speechwriters.
+
+That's because the algorithm's findings were essentially Speechwriting 101: Find a topic that relates to your audience.
+
+"We're employees and employers," she said. "We have pre-existing conditions. That's very relatable and resonant. And ultimately persuasive in a way that something more technical and abstract, like state and federal rights, might not be."
+
+But a lot of people may not be too thrilled about the general idea of a new tool that makes it easier for politicians to sharpen their talking points.
+
+"I think when politicians obsess too much about messaging, the story of their obsession with messaging becomes the story," said Barton Swaim — a recovering speechwriter who recently wrote a book about his time working for former South Carolina Gov. Mark Sanford. "And so it's counterproductive."
+
+In fact, Swaim's time writing speeches left him convinced, more than anything, that words in a speech don't do much to convince people, one way or the another. "I just don't think that's true," he said. "I think people are much more complicated than that. A lot depends on context. Who's saying it, how it's said, the history of the person saying it."
+
+Still, political campaigns across the country will spend the next year betting hundreds of millions of dollars that messages do matter.
+
+And while it may not be refined enough to be used during this election, Beauchamp's new tool could give future candidates a faster way to make their message even more persuasive.
+
+In fact, the political scientist envisions how a future version of this algorithm could one day become a standard part of the messaging process.
+
+"You could imagine a politician, or their writing team, taking everything the politician has said heretofore — thousands of speeches, tens of thousands of sentences — pouring it into here," he said, "and then generating ... whole speeches, and iteratively improv[ing] that selection of sentences or paragraphs."

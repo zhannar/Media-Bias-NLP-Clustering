@@ -1,0 +1,39 @@
+The ups and downs of Obamacare — from its passage to its rollout and now implementation — have consumed Washington, D.C., and American politics.
+
+But for those who run companies — and provide health insurance to more than half of all Americans — not much has fundamentally changed. Health care is still a business disease: U.S. enterprises spend more than $620 billion on health care annually, according to the Center for Medicare and Medicaid Services, and costs are increasing by eight to 10 percent every year. Strikingly, one recent survey found that health care — not revenue, not performance — is the No. 1 concern of CFOs.
+
+The truth is that enterprise health care is not going to be fixed in the Beltway — it’s going to be fixed in the cloud and with Big Data. The cure is to be found in code, not on Capitol Hill.
+
+The problem with enterprise health care rests in the fact that the marketplace for health care is merit-free. It is characterized by an asymmetry of information between those who are providing care and those paying for it — both the employer and the employee, who is often now responsible for a high deductible or co-pay. This map shows price disparities in 30 markets across four common procedures.
+
+Moreover, the health-care marketplace is devoid of transparency and accountability. For example, my team ran the numbers on one procedure (an MRI of the lower back) in one market (New York City), and we found that the cost for this routine diagnostic procedure ranged from $416 to $4,527. Yet neither the person making the appointment nor the center performing the scan would have any idea about this — nor would the company who is paying the bill.
+
+Compare that to other parts of the enterprise: The rise of Big Data and the cloud have made possible applications to help managers get a handle on virtually every area of business, from human resources and finance to sales and marketing.
+
+Enterprise health care is the only area that hasn’t been dramatically improved with technology platforms.
+
+Think about the supply chain. Historically, we had antiquated manual ordering processes and no clear understanding of supplier quality. Now managers use integrated software to track supplies and monitor quality. As a result, costs of supplies are down, quality of material goods has improved, product outages have gone down, and a lot of waste has been driven from the system.
+
+Yet when it comes to health care, it’s as if these technologies never existed. The HR head designs benefits, offers them to employees, and then waits for the bills. It’s static, not dynamic. Insights are hard to come by, and hard to act on when they do.
+
+To be sure, billions of dollars are being invested in health IT, both in electronic medical records and the systems that try to link them. And insurance companies and many private-sector companies are trying to bring to market enterprise cloud solutions.
+
+But Big Data — and the applications to leverage it — can only work when the data is available and manageable.
+
+Yet, as three professors at Harvard Medical School noted in a recent issue of the Journal of the American Medical Association, there are dozens of different sources of data that are relevant to health care, from a person’s medical history to their over-the-counter drug purchases and what’s on their Fitbit. Big Data works when we are able to bring many disparate sources of data together and link them to one person or event, and in health care, that’s difficult to do for cultural and technical reasons.
+
+This does not mean that there’s nothing we can do to free up information for enterprises so that they can manage health care.
+
+First, companies can ask for their claims data from their health plan so that they at least know what they are paying.
+
+Second, we need to free up cost data. Right now, many contracts between insurers and providers contain gag clauses that prevent the release of this information. This helps those who dominate markets, but not the functioning of the market itself. These clauses need to be abolished.
+
+Third, the private sector should be able to use one of the largest medical datasets there is — Medicare — with strong safeguards for privacy. Right now, it’s limited to academic researchers, stifling innovation. Along these same lines, Medicare should release physician-quality data that it promised to release last year, but has not.
+
+Finally, we need to embrace what former Obama health-care aides Dr. Ezekiel Emanuel and Dr. Robert Kocher call the “transparency imperative” — which would reset the default in our health care system so that all data on price, utilization and quality of care would be made public unless there is a compelling reason that it should not be.
+
+With the right data and the technologies routinely used by companies today, there is no reason why businesses would not be able to gain important insights into the health care they are providing, bringing down costs and improving the quality of care their employees receive. There is no reason why we can’t turn health care into a merit-based market.
+
+That’s the promise of technology; all we need to do is unleash it.
+
+Giovanni Colella, MD, co-founded Castlight Health in 2008, along with Todd Park (currently U.S. chief technology officer and formerly the CTO of the U.S. Department of Health and Human Services) and Bryan Roberts of Venrock. Prior to co-founding Castlight, Colella was founder, president and CEO of RelayHealth, which was acquired by McKesson. Reach him @CastlightHealth.

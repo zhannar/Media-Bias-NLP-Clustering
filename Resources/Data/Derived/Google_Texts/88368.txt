@@ -1,0 +1,13 @@
+A portion of the website of the Substance Abuse and Mental Health Services Administration ( SAMHSA ) was apparently hacked as long as two months ago. SAMHSA is an agency of the Department of Health and Human Services (HHS). HHS also runs the new Obamacare insurance marketplace, Healthcare.gov .
+
+Dozens of pages hawking retail merchandise have been uploaded to the SAMHSA site, ranging from NFL jerseys to Ugg shoes to Armani fragrances . Screen captures of the various pages are shown here:
+
+Clicking on the pages in some cases takes users directly to an external website; other times, certain functions seem to operate within the samhsa.gov site. Of the websites investigated, two domains are registered in the United States and one in China.
+
+All of the instances uncovered by this investigation are under the sub domain nace.samhsa.gov, which is the Native American Center for Excellence. The first breach discovered dates back to July 29 of this year, and the unauthorized pages are still on the site.
+
+In September, a portion of NASA's website was hacked by a Brazilian group protesting reports of spying in that country by the National Security Agency.
+
+UPDATE: Shortly after this story was posted, the site nace.samhsa.gov returned an error message saying that the site could not be found. Later, the following message appeared on the site (misspelling included): "This site is undgoing maintenance. We are sorry for any inconvenience this has caused you." Here's a current screen capture:
+
+While clicking on the original links in the story above return "file or directory not found" messages, at least one of the pages is available via a Google cache here showing how the page appeared as of October 3. A Google search of the site still turns up dozens of links to other pages from the hacking. The "undergoing maintenance" message on the SAMHSA website comes in spite of the fact that many government websites have been shuttered or severely limited due to the ongoing federal government shut down.

@@ -1,0 +1,545 @@
+In this episode of Industry Focus:Technology, Kristine Harjes joins Sean O'Reilly to talk about healthcare IT.
+
+Healthcare is one of the last industries to modernize, and healthcare IT companies have a lot of exciting potential for growth. Listen in to hear more about which two players are dominating the industry, how feasible it is to invest in the little guys, and what areas look most promising for data management companies.
+
+A full transcript follows the video.
+
+The next billion-dollar iSecret
+
+The world's biggest tech company forgot to show you something at its recent event, but a few Wall Street analysts and the Fool didn't miss a beat: There's a small company that's powering their brand-new gadgets and the coming revolution in technology. And we think its stock price has nearly unlimited room to run for early in-the-know investors! To be one of them, just click here.
+
+This podcast was recorded on Feb. 12, 2016.
+
+Sean O'Reilly: We're talking healthcare innovation, on this tech edition of Industry Focus.
+
+Greetings, Fools! Sean O'Reilly here at Fool headquarters in Alexandria, Va. It is Friday, Feb. 12, 2016, and joining me to talk about healthcare innovation on today's crossover Industry Focus episode is the exceptionally perceptive and sagacious Ms. Kristine Harjes. How are you today, Kristine?
+
+
+
+Kristine Harjes: Wow, I am doing even better after those words, thank you.
+
+
+
+O'Reilly: Do you know what "sagacious" means?
+
+
+
+Harjes: No, I don't.
+
+
+
+O'Reilly: It means possessing keen judgment.
+
+
+
+Harjes: OK, I'll take that. And maybe not keen vocabulary. [laughs]
+
+
+
+O'Reilly: Fine. Anyway, welcome to the tech show, Kristine. I guess we're finishing out the crossover, mix it up, whatever week.
+
+
+
+Harjes: Yeah. It's been an interesting week of overlapping Venn diagrams.
+
+
+
+O'Reilly: How was your show with Dylan? I didn't get to listen to it yet.
+
+
+
+Harjes: It was fun! We kicked off the show talking about how nice it is to do it with somebody in the studio, as opposed to --
+
+
+
+O'Reilly: Because you never get to do that.
+
+
+
+Harjes: Yeah. I mean, I love doing the show with Todd, but we do it via Skype. It's a completely different experience to be able to sit down in the studio and make my hand gestures toward you and you can actually see them. It's kind of cool.
+
+
+
+O'Reilly: Ninety percent of human communication is nonverbal, so, yeah.
+
+
+
+Harjes: I'm sure that's great for the world of podcasting.
+
+
+
+O'Reilly: Yeah. I understand Dylan took your chair, though.
+
+
+
+Harjes: Yeah. That's OK. I let him have it.
+
+
+
+O'Reilly: It's OK? All right. So, basically, we're talking about the marriage of healthcare and technology, particularly in the IT space. First, right off the bat for all of our listeners, how important is tech and healthcare, particularly in IT?
+
+
+
+Harjes: This is huge. It's basically been a driving force of healthcare since about 2009, when you had the stimulus package passed, and there was the HITECH Act part of it, which provided $25.9 billion to promote and expand the adoption of healthcare information technology, healthcare IT. It was a carrot-and-stick kind of incentive, where you could get benefits for adopting electronic health records, HRs, and becoming a more digitally sound healthcare company.
+
+
+
+O'Reilly: So the federal government was writing checks to doctors in order to incentivize them to do this?
+
+
+
+Harjes: Yeah.
+
+
+
+O'Reilly: Wow.
+
+
+
+Harjes: Incentives capped out at $44,000 per doctor, which is actually not a whole lot when you consider the cost of these systems. They cost $100,000, at least. But yeah, then, Obamacare, again, had a lot of motivation behind it to get hospitals and doctor's offices onto a more advanced, sophisticated IT platform.
+
+
+
+O'Reilly: So this, of course, begs the question, Kristine: Who's getting these $44,000 checks?
+
+
+
+Harjes: Yeah. To expand that question a little bit toward who is actually making it happen, when you look at the huge, huge players in this healthcare IT space, you've got Epic Systems, which is a privately held company. But they're, as the name would imply, absolutely massive. And you have Cerner (NASDAQ:CERN). So they're the two Goliaths in this space. They're both really, really good at what they're doing.
+
+
+
+O'Reilly: What kind of market share are we talking here? Because Nova is obviously a big office healthcare system around here in the metro D.C. area, and I'm pretty sure I see Epic Systems on all their computer screens whenever I go by a Nova facility.
+
+
+
+Harjes: Yeah. So, Epic Systems has 54% --
+
+
+
+O'Reilly: Oh my gosh!
+
+
+
+Harjes: -- of U.S. patients, and roughly half of hospitals. And Cerner, I don't have numbers on that, but if I had to guess, I would say almost all of the other half there.
+
+
+
+O'Reilly: Right. And this is, the market is the United States of America, so these are clearly huge companies.
+
+
+
+Harjes: Yeah. And the thing is, it kind of is a winner-take-all space, so it's odd to me that there are two major companies, especially because they won't talk to each other.
+
+
+
+O'Reilly: [laughs]
+
+
+
+Harjes: So you've got these health records, and you want to be able to go to your primary-care physician --
+
+
+
+O'Reilly: It's Coke and Pepsi. [laughs]
+
+
+
+Harjes: Exactly, except there's so much more on the line here. If you can't have -- say you go to your mental health doctor and you're prescribed an antidepressant, and all of a sudden, there's some drug interaction that's possible, and it's not well documented in a name your other doctor can actually access -- there could be that interaction, and it's up to you, the patient, to say, "Oh, yeah, I'm taking this." It's all self-reported unless you have medical records that can talk to each other and be stored in one comprehensive place. That's not the case right now.
+
+
+
+O'Reilly: So, the downsides here are considerably larger than mixing Coke and Pepsi. [laughs]
+
+
+
+Harjes: Yeah, theoretically. [laughs]
+
+
+
+O'Reilly: Do they use -- and you may or may not know this -- are you implying that they don't all use the same codes and stuff? What happens there?
+
+
+
+Harjes: Really, security is the heart of that issue, where you don't want your medical records to be easily accessible. So there's a lot of cybersecurity wrapped into that, and this is actually what I talked about with Dylan on Wednesday's healthcare show. But the long story short is that you need really, really comprehensive security, and because of that, it's a really good argument for saying, "Oh, well, we don't want to share information with this other company, because every time that you transport data or share information, there could be some sort of additional vulnerability." So for them, it's a great rationale for saying, "No, I'm not going to play nice."
+
+
+
+O'Reilly: Unbelievable. So, also, I understand that both of these companies, and a lot of these guys, they have big business not only with private hospital chains, but also the federal government and the Department of Defense and stuff.
+
+
+
+Harjes: Yeah, the Department of Defense contract, that's a really interesting story. So this was --
+
+
+
+O'Reilly: Not a small customer, obviously.
+
+
+
+Harjes: Yeah [laughs]. On the heels of a 2012 story where the VA made headlines --
+
+
+
+O'Reilly: Oh my gosh, that!
+
+
+
+Harjes: Do you remember that?
+
+
+
+O'Reilly: Yeah!
+
+
+
+Harjes: So for those that aren't familiar with the story, basically, the Veterans Benefits Administration office building in North Carolina nearly collapsed under the weight of all of its paper files.
+
+
+
+O'Reilly: They still had computers from the 1980s or something. [laughs]
+
+
+
+Harjes: Yeah! According to these reports, one floor had totally overflowed, and you had stacks and stacks of paper going up to the cabinet, and falling out of boxes --
+
+
+
+O'Reilly: You're talking about physical files!
+
+
+
+Harjes: Yeah, yeah!
+
+
+
+O'Reilly: Oh my gosh!
+
+
+
+Harjes: You have actual paper files! And there was such a backlog, just, for people waiting to get more information, and they just weren't online at all. So the floor almost collapsed.
+
+
+
+O'Reilly: Wow!
+
+
+
+Harjes: So the Department of Defense decides, "OK ... "
+
+
+
+O'Reilly: "Maybe we should use computers!" [laughs]
+
+
+
+Harjes: "Maybe we should modernize a little bit." So there was a huge battle between a bunch of companies that are in this space, and it ultimately ended up being that Cerner, a combination of Cerner and Leidos and Accenture, they beat out a partnership between Epic and IBM, and they also beat out a couple of others competitors to win this $11 billion contract. Which, interestingly, it was originally anticipated to be $11 billion but was whittled down to $9 billion, which is the effect of competition. But going forward, these things, they don't get cheaper. These contracts only expand. So this is a huge deal.
+
+
+
+O'Reilly: Right, and once you're in on the federal government, you're in. [laughs]
+
+
+
+Harjes: Yeah, this is definitely a long-term partnership.
+
+
+
+O'Reilly: Got it, OK. So what other customers do these companies have?
+
+
+
+Harjes: As an EHR company, you're trying to get your hospitals, you're trying to get your small doctors' offices, but really, I would say the hospitals are the major people that you're trying to capture here, just because there's so much consolidation within the industry that if you get one major hospital provider, that's bank.
+
+
+
+O'Reilly: Got it. So before we move on to a few possibly publicly traded options, can you give us a rundown on some more numbers, or what we need to know we're up against if we want to invest in one of these competitors?
+
+
+
+Harjes: I'm glad you brought that up, because one of the most important things to note when you're looking at the space is, these companies are really expensive. I mean, you're not talking about cheap, single-digit, or even low --
+
+
+
+O'Reilly: There are no 15 P/Es here. [laughs]
+
+
+
+Harjes: Yeah, exactly. Let's see, I have some numbers in front of me. Cerner, that's actually the cheap one [laughs]. They've got a P/E of 32 based on 2015 earnings, forward P/E of 26. Then, Epic is private, as we mentioned. You look at another key player in the space, which is Athenahealth (NASDAQ:ATHN), they've got a P/E of 87 based on their 2015 earnings, and a forward P/E of 68. That's huge! This is also a company --
+
+
+
+O'Reilly: What's the market assuming? "Oh, yeah, they'll be monopoly someday, it'll be fine." What? [laughs]
+
+
+
+Harjes: Basically, healthcare is the last holdout industry that hasn't modernized its IT, so you're assuming that, OK, this, the huge, huge deal, to get all of these records online, and to get functioning computer systems through the healthcare industry.
+
+
+
+O'Reilly: Make it efficient, yeah.
+
+
+
+Harjes: So, the expectation there is that somebody is going to win this. When they do, it's extremely sticky. So they are really intriguing companies; they're just expensive.
+
+
+
+O'Reilly: Right. Before we move on to Athenahealth really quick, as a potential investor in this space, should I be worried about that darn market share of Epic Systems? Because, I see 54% market share, and I'm like ... [groans] kind of nervous.
+
+
+
+Harjes: Yeah, Epic is a very, very fierce competitor. Their CEO, Judith Faulkner, she's awesome. [laughs] Actually, in researching this episode, I came across a story that might not be totally related, but kind of made me laugh. She was basically being made fun of for driving around in an old Volvo by one of her board members.
+
+
+
+O'Reilly: This was, like, last year or something?
+
+
+
+Harjes: I don't know when this was. I take it was pretty recently. And so the board member says to her, "Well, you know, next time you buy a car, take a man with you."
+
+
+
+O'Reilly: Uh?
+
+
+
+Harjes: And she's like, "OK ... "
+
+
+
+O'Reilly: Really?
+
+
+
+Harjes: So she, reportedly, doesn't say anything initially, but a few years later, she was introduced to the board member's fiancee, and she precedes to just hammer her with all these interview questions about, like, "What's the most meaningful book you've ever read," all your classic interview questions, and the board member is, like, "What are you doing?" And she goes, "Next time you take a wife, take a woman with you." [laughs]
+
+
+
+O'Reilly: Ooooh! Wow!
+
+
+
+Harjes: So she's pretty awesome. She is very, very adamant about keeping Epic private. And she's done a great job of building it up. It's totally internally built. They have been really smart about acquisitions, too. But, this is an enormous company that was built by this woman.
+
+
+
+O'Reilly: Awesome. OK. All right, before we move on to talking about publicly traded companies that operate in the space, I wanted to point our listeners to the newly redesigned focus.fool.com. There, you can take advantage of a discount on The Motley Fool's Stock Advisor newsletter that works out to $129 for a full two-year subscription. Once again, that's focus.fool.com.
+
+OK, so, Kristine. In spite of the fact that Epic and their awesome CEO makes me nervous about possibly investing in this space, I don't know, it's still the first inning or second inning of the innovation in IT for healthcare? Where do you think we are?
+
+
+
+Harjes: Yeah, I would say so.
+
+
+
+O'Reilly: OK. First up, I wanted to get your thoughts on was Athenahealth. This is publicly traded. I've been involved and looking at them through Supernova. What do you think about them?
+
+
+
+Harjes: Right. Athenahealth is an interesting player here, because they're kind of a smaller company, relative to Epic and Cerner. But they're pretty intriguing to me, because they snap up these small fish that Epic won't touch. Epic is very exclusive about their customers --
+
+
+
+O'Reilly: When you say small fish, do you mean individual doctors' offices?
+
+
+
+Harjes: Yeah, exactly, a small practice or small hospital. And they're going after all of these companies. So there is this interesting dilemma that they're facing, because they're so much consolidation within the industry that a lot of investors are kind of worried, are they going to lose their business? If you have your local doctor's office all of a sudden get bought out by a bigger conglomerate practice, will they transfer to Epic's system, if the big hospital is using that?
+
+
+
+O'Reilly: Well, not only that, but will your doctor eventually say, "Ugh, all the other hospitals are on Epic Systems' computer system; I'm just going to give in." At what point does that happen?
+
+
+
+Harjes: Interestingly, though -- and, of course, you would expect management to be bullish on its own company --
+
+
+
+O'Reilly: Naturally.
+
+
+
+Harjes: But management seems to think that the cases going to be that, when you have your small fish getting snapped up, they're actually going to end up transferring to Athenahealth. Remains to be seen.
+
+
+
+O'Reilly: Really. What? Do they have evidence to support this?
+
+
+
+Harjes: Probably? [laughs]
+
+
+
+O'Reilly: Maybe? We don't know? All right, so moving on to my favorite company in this space, I'm not going to hide that fact. I don't own shares yet, but I might in the near future, is Veeva Systems. Got to love that cash flow.
+
+
+
+Harjes: [laughs] Yeah, that's definitely a highlight for this company.
+
+
+
+O'Reilly: Well, you're over there and talking about companies that lose money that ... it's just nuts. I don't know.
+
+
+
+Harjes: Yeah. I mean, I'm also coming from the biotech space, so that's pretty normal.
+
+
+
+O'Reilly: For those of you that don't know, Kristine, do you even know in the biotech space what a black number on the income statement looks like? Like, a positive number? [laughs]
+
+
+
+Harjes: What does that even mean? [laughs]
+
+
+
+O'Reilly: Like, oh my gosh!
+
+
+
+Harjes: A black number?
+
+
+
+O'Reilly: They didn't lose money?
+
+
+
+Harjes: You mean one that's not in parentheses?
+
+
+
+O'Reilly: Yeah, it's crazy. Talk to me about Veeva, particularly their first-mover advantage with everything.
+
+
+
+Harjes: Yeah, that's a huge advantage here. What Veeva does, they're a life sciences data management company. They've got two main parts of the business. You have your core CRM business, which is your customer relationship management, and you've got Veeva Vault, which is a management system. So --
+
+
+
+O'Reilly: What a name.
+
+
+
+Harjes: -- the CRM -- yeah, it's very catchy.
+
+
+
+O'Reilly: I'm sorry to interrupt, their customers are the Pfizers and the Mercks, and the biotech companies that you're talking about?
+
+
+
+Harjes: Yeah, through Vault, actually, they're actually working with 34 of the 50 largest pharmaceutical companies.
+
+
+
+O'Reilly: That'll do.
+
+
+
+Harjes: Yeah, so Vault, essentially, is a system where you take all of the information about processing a drug's clinical trials and approval records and what not, and storing it, sharing it, having it be really secure, and be able to transfer these master files to parties like the FDA.
+
+
+
+O'Reilly: I know a few people, in fact, a good friend of mine works for Merck. These are not small amounts of data. The amount of analysis and data tracking that goes into one drug in simulations and everything, it's huge, I would assume.
+
+
+
+Harjes: Yeah, it is a mind-boggling task to get a drug to market. There are estimates now that the cost of getting a drug to approval is $2 billion per drug.
+
+
+
+O'Reilly: And this is why our drugs are expensive, folks.
+
+
+
+Harjes: Yeah. This process lasts more than a decade, usually. So, obviously, with that, you're going to have this tremendous amount of information, so what do you do with it? You need somebody that can store it, and cloud-based software is a really, really intriguing way of meeting this need.
+
+
+
+O'Reilly: So, how does the Vault software help with the R&D process and making it more cost-effective and stuff?
+
+
+
+Harjes: It's kind of like looking up the DoD that we were talking about earlier --
+
+
+
+O'Reilly: Are you implying that Veeva's customers had everything in actual physical files and -- I'm just kidding [laughs].
+
+
+
+Harjes: Yeah, at one point, that's how it was!
+
+
+
+O'Reilly: Oh my gosh!
+
+
+
+Harjes: You would have physical paper! So, Veeva comes in and they're like, "That's ridiculous! Let's get this in the cloud!" So they're solving the problem that way.
+
+
+
+O'Reilly: You were talking, when we were talking about Epic, you were talking about $44,000 systems, $100,000 systems. Do we have any idea of what Pfizer pays Veeva or anything?
+
+
+
+Harjes: I'm not going to put a number on that, because I'm not confident it would be spot-on.
+
+
+
+O'Reilly: OK. It's a big number. So talk to me a little more about Vault opportunity going forward.
+
+
+
+Harjes: Yeah. So Vault is only 25% of the company's revenue right now. But the CEO has estimated that it has as big of an address of the market as the other half of the company, which is the CRM platform, which is to say this is the growth driver for the company. We're looking at a potential addressable market around 2 billion.
+
+
+
+O'Reilly: Wow.
+
+
+
+Harjes: Yeah.
+
+
+
+O'Reilly: So a lot of times, when we're talking about -- here at The Motley Fool, at least -- Rule Breaker-type investments, where you're just like, early stage, probably not profitable. What's the address of the market, how big could this get? What is that for Veeva?
+
+
+
+Harjes: I would pin that at probably 5 billion. Your CRM business is supposedly a 2 billion size market. As previously mentioned, the Vault software might have another 2 billion, there's also the third part of the business that's still very young, so not even really worth talking about, but I'll just estimate there, maybe another billion from that.
+
+
+
+O'Reilly: Cool, OK. Before we head out, I just want to give you the last word: Which of these companies do you like the most?
+
+
+
+Harjes: Ooh, that's an interesting question.
+
+
+
+O'Reilly: And you can't say Epic because you like the CEO and they're private.
+
+
+
+Harjes: I'm actually going to go with Athenahealth. They've always been really interesting as a company to me, and probably the only reason I haven't invested in them is just because they are very expensive at this point.
+
+
+
+O'Reilly: Got it, cool. Well, thanks for your thoughts, Kristine.
+
+
+
+Harjes: Thanks so much!
+
+
+
+O'Reilly: Have a great weekend. If you're a loyal listener and have questions or comments, we would love to hear from you. Just email us at IndustryFocus@Fool.com. Again, that is IndustryFocus@Fool.com. As always, people on this program may have interests in the stocks they talk about, and The Motley Fool may have formal recommendations for or against those stocks, so don't buy or sell anything based solely on what you hear on this program. For Kristine Harjes, I'm Sean O'Reilly. Thanks for listening and Fool on!

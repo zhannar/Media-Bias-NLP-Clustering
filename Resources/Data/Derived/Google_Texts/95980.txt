@@ -1,0 +1,55 @@
+WASHINGTON (AP) — As President Barack Obama faces pressure to discuss human rights in his first official visit to Ethiopia this weekend, a unique lawsuit back home is challenging whether the African country can spy on an American by turning his computer into a giant recording device.
+
+The federal case alleges Ethiopian government agents gobbled up months of a Maryland man's Skype calls and his family's Internet activities. But the man, born in Ethiopia and now a U.S. citizen, isn't wanted for a crime. Instead, he helps out a political opposition group outlawed in his home country.
+
+The alleged intrusion was investigated after the software left behind bread crumbs, underscoring a larger pattern: The use of commercial hacking software by foreign governments, sometimes with poor human-rights records, to electronically snoop on their adversaries.
+
+White House press secretary Josh Earnest said this past week that the U.S. "regularly conveyed to Ethiopia's leadership our concerns in such areas as press freedom, transparency, space for civil society and the political opposition."
+
+Human Rights Watch and other organizations urged Obama, who arrived in Ethiopia on Sunday after visiting Kenya, to put the "pressing human rights concerns" in visits to Ethiopia and Kenya "at the forefront of your discussions."
+
+Ethiopia has sought hacking software from at least two separate companies, court records and emails show. The legality of such technology in other countries — and a U.S. federal judge's pending decision on whether the Maryland man's can proceed — could raise foreign-policy implications for governments worldwide.
+
+The Obama administration has had to deal with other countries hacking into American computers and compromising private data. The Justice Department last year charged five Chinese military hackers for breaching major corporations' systems and siphoning off business secrets.
+
+Lawyers for the Maryland plaintiff, who goes by Kidane in court documents to protect him from retaliation, say software called FinSpy made secret audio recordings of his Skype calls, copied portions of his emails and logged Web searches done by his middle-school-age son for school.
+
+"Just because governments around the world engage in spying doesn't make it legal," said Nate Cardozo, a staff attorney with the San Francisco-based Electronic Frontier Foundation, which is representing Kidane. "And when spies get caught, there are consequences."
+
+A federal judge in Washington asked the U.S. government this month if it wanted to weigh in on the case. Ethiopia wants it tossed, saying governments have immunity when conducting such activities. The EFF says the case is important for showing warrantless wiretapping is illegal and can be the basis of a U.S. lawsuit, regardless of who engages in it.
+
+Offensive hacking software is used by investigators to gather evidence for criminal prosecutions or, at times, spy on foreign adversaries. The FBI in 2007, for instance, sent a bogus Associated Press story to a 15-year-old suspect in Washington state who was accused of making bomb threats; the story contained secret software that helped reveal his location.
+
+Human rights and free press advocates have bristled in letting oppressive governments gain access to that technology. The nonprofit Freedom House ranks Ethiopia as being one of the worst countries for press freedoms, and said the country's 2009 anti-terrorism law has been used extensively against reporters.
+
+A lawyer for the Ethiopian government referred the AP's questions about the case to the Ethiopian Embassy in Washington. An embassy representative said this past week that he had no further information and declined to provide names or telephone numbers for those inside the government who might.
+
+Had FinSpy worked quietly behind the scenes as intended, Kidane may have never been to court. But when forensics experts examined Kidane's computer, they uncovered left-behind fragments of data and instructions for the eavesdropping program to connect to an Ethiopian computer server.
+
+After an opposition leader was sent into exile, the once-apolitical Kidane got involved in a pro-democracy group called Ginbot 7 by providing technical and administrative support. Ethiopia calls the group a terrorist organization, but Human Rights Watch says the country uses draconian laws to repress opposition activists and critics.
+
+That is how Kidane believes his computer was commandeered — by mistake. Someone else was the original target of the email virus but forwarded it to Kidane and infected his own computer. Yet Ethiopian officials decided to activate a software license to continue monitoring his activities anyway.
+
+Gamma Group, the company that made the FinSpy software before spinning it off into a separate company called FinFisher, has said it sold only to governments. Hackers in 2014 said they hacked Gamma and circulated its files, showing it also sold to nongovernments.
+
+In 2013, researchers from Citizen Lab at the University of Toronto's Munk School of Global Affairs discovered that 25 countries host servers for FinSpy, which can dodge anti-virus protections to steal data, log keystrokes, eavesdrop on Skype calls and turn microphones and webcams into surveillance devices.
+
+At the time, the group Reporters Without Borders named Gamma one of its five "corporate enemies of the Internet." Neither Gamma nor its spinoff responded to several emails from the AP seeking comment since Thursday.
+
+Ethiopia also paid Italian firm Hacking Team for similar software against unspecified targets, and executives there wanted to charge the country at least $330,000 for their services, according to leaked emails posted online earlier this month.
+
+Earlier this year, Citizen Lab also said that hackers who attacked a U.S. employee of Ethiopian Satellite Television two years ago recently launched a new round of attacks using upgraded espionage software. Ethiopian officials previously denied such claims.
+
+Shortly after the report, some inside the company became nervous. "Their reckless and clumsy usage of our solution caused us enough damage," wrote Daniele Milan, Hacking Team's operations manager.
+
+But the relationship continued, further emails show, amid one proposal that would have limited their contract to a year for "evaluating their behavior." Those emails were among more than 1 million leaked in early July, revealing Hacking Team worked with authoritarian governments in the Middle East and pitched their software to U.S. police departments.
+
+A spokesman for Hacking Team confirmed in a statement the company sold software to that country as well as Sudan, Russia, South Korea and others. The company said those sales were "strictly within the law and regulation as it applied at the time any sale was made."
+
+___
+
+Associated Press writer Raphael Satter in London contributed to this report.
+
+___
+
+Follow Jack Gillum on Twitter: https://twitter.com/jackgillum

@@ -1,0 +1,29 @@
+Topics: Apple, encryption, FBI, iPhone, ProPublica, Politics News
+
+This piece originally appeared on TomDispatch
+
+The FBI’s much-discussed request to Apple can seem innocuous: Help us extract six weeks of encrypted data from the locked iPhone of Syed Farook, an employee of San Bernardino’s health department who spearheaded an attack that killed 14 people. Most people believe Apple should comply.
+
+But the FBI is demanding a lot more than the data on a single phone. It has obtained a court order requiring Apple to build custom surveillance software for the FBI – which computer security expert Dan Guido cleverly dubs an FBiOS.
+
+Once that software exists, it is inevitable that other law enforcement agencies will approach Apple seeking to get it to use the FBiOS to unlock iPhones in other investigations. Already, Apple says it has received U.S. court orders, under the same legal authority, seeking to get it to unlock 12 other devices
+
+In effect, the FBI is asking for Apple to write software that will provide something the government has sought without success for more than a decade: A “backdoor” that cracks the increasingly sophisticated encryption on consumers’ phones.
+
+The government has previously attempted to create its own “golden key” that could unlock every device. That effort collapsed in the face of fierce objections across the political spectrum. Now, the government is pushing a private company – Apple – to create a key.
+
+What’s at stake in this clash of titans, therefore, is a much larger issue: How far should tech companies go to help the government conduct surveillance of their users.
+
+The court has asked Apple to build special software that would disable the security on the device, and to install that software to the target iPhone as an update. Once the phone is updated with the new software, the FBI will be able to break into it.
+
+Last year, a White House working group examined just this approach to creating a backdoor into encrypted devices – which it described in typically dense bureaucratic language as “provider-enabled remote access to encrypted devices through current update procedures.”
+
+Translated into English, they were considering using the routine updates that every phone receives as a means for law enforcement to plant spyware that could track everything on the device, from whereabouts to text messages to all emails.
+
+The panel saw a potentially fatal flaw in this approach, noting it “could call into question the trustworthiness of established software update channels.”
+
+This is no small thing: software updates are key to cybersecurity. Updates are issued regularly to patch the inevitable flaws that are discovered in today’s complex software. Failing to install software updates leaves users’ vulnerable to hackers. The lack of timely software updates, in fact, has forced the U.S. military to turn off certain features of its non-battlefield smartphones.
+
+If Apple gives its stamp of approval to the FBiOS and the technique becomes common, phone users may start to wonder whether the updates they receive contain spyware.
+
+In addition, Apple says the FBiOS would “be relentlessly attacked by hackers and cybercriminals” hoping to obtain a copy of the golden key. The government counters that Apple can install the software on the device at Apple’s physical premises. Apple will “retain control over it entirely,” and is free to destroy it afterwards, the government states.

@@ -1,0 +1,35 @@
+The data-sharing requirements for the Meaningful Use program and the Affordable Care Act pose significant security challenges to healthcare organizations, and Erik Devine, chief security officer at Riverside Medical Center, predicts organizations will learn this year just how prepared they are.
+
+In an interview with HealthcareInfoSecurity, Devine says his 370-bed hospital in Kankakee, Illinois, will focus on employee training, making sure systems are patched and third-party review--"making sure we're doing what our policies say we're doing."
+
+He foresees more persistent threats in 2015, such as the Sony hack and other breaches seen last year.
+
+"I think healthcare is going to see a lot of attacks in ransomware," Devine says. "Employees leaking data unknowingly is a big threat to healthcare systems. Hackers are going to take advantage of that and look for the monetary value in return."
+
+Health information exchanges will pose particular challenges, he adds.
+
+"Are we prepared to manage all the information that's flowing in and out of the system? ... Trying to get information for the patient out there in the real world so they have better experiences at any hospital they visit will obviously will carry significant risks. Is healthcare ready for that change? That's what we're going to determine in 2015 and further."
+
+In its 2015 Data Breach Industry Forecast, Experian called healthcare "a vulnerable and attractive target for cybercriminals." However, it noted that employees remain the leading cause of compromises, but receive the least attention from their employers.
+
+Security experts foresee phishing and ransomware attacks posing particular challenges to healthcare organizations in the coming year.
+
+To help protect against threats like those, the healthcare industry should make use of cyberthreat intelligence, according to Jeff Bell, HIMSS privacy and security committee chair.
+
+Entities such as the U.S. Computer Emergency Readiness Team, the U.S. Department of Homeland Security National Cybersecurity and Communications Integration Center and the National Cyber-Forensics & Training Alliance provide information on threats, malware and vulnerabilities that organizations can use to increase their security systems, Bell says. Vendors of security products also often have their own intelligence feeds.
+
+To learn more:
+
+- read the interview
+
+Related Articles:
+
+Why health groups should make use of cyberthreat intelligence
+
+Phishing, ransomware attacks on health industry to rise
+
+HITRUST issues alert on operating system vulnerability
+
+Computer bug 'Heartbleed' likely source of Community Health Systems data breach
+
+Report: Healthcare 'a vulnerable and attractive target for cybercriminals'

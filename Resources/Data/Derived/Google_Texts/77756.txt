@@ -1,0 +1,51 @@
+The Brazilian police investigation that cracked a high-tech child porn ring earlier this month has shone a spotlight on the darker recesses of the web, an area which still poses massive technology challenges to law enforcement.
+
+The ring was buried deep inside a “darknet” – private networks built from connections between trusted peers using unconventional protocols.
+
+Darknets are just one part of what is known as deep web – a vast network which is not indexed by search engines such as Google and Bing. While most of the deep web is not mired in criminality - resources such as academic databases and libraries are said to make up much of its content - darknets typically run on the fortress-like Tor network.
+
+Tor, which stands for ‘The onion router,’ started out as a military project, but now functions largely as a highly clandestine civilian network.
+
+“When you refer to the deep web that is used by criminals, it’s the web that uses the encrypted Tor network,” Matthew Green, assistant research professor in the department of computer science at Johns Hopkins University, told FoxNews.com. “Every connection that you make with Tor is not only encrypted, but it’s routed via three ‘hops’ around the world.”
+
+“It’s like a cloud that anonymizes your traffic,” added Pierluigi Paganini, author of the book “The Deep Dark Web” and founder of the Security Affairs blog. “The traffic is bounced among randomly proxy computers maintained by volunteers worldwide, before sending it on to final destination.”
+
+Users connect to the network by downloading a free Tor web browser, which can then be used to access myriad 'hidden' sites. "There are specific repositories that are lists of what is available," said Paganini. "You copy the addresses into the Tor web browser and then access the pages."
+
+The Tor Metrics web site says that the network has just over 2.25 million users.
+
+Paganini explained that people communicating via Tor include the likes of whistleblowers and journalists. Activists and dissidents are also said to use the network, particularly in countries with repressive regimes. With Tor offering extremely high levels of anonymity, however, criminals have been quick to exploit it.
+
+“Today, for a cybercriminal, it’s quite easy,” Paganini said, explaining that crooks can use Tor-based black markets for drugs, weapons, underage sex, and hacking services. Payments, he added, can be made using virtual currency, such as Bitcoin.
+
+The best-known Tor-based black market was the notorious Silk Road, an underground marketplace for the likes of narcotics and weapons. The site, which generated an estimated $1.2 billion between 2011 and 2013, was seized by U.S. authorities last year.
+
+According to a court filing, the FBI exploited a software misconfiguration on the site’s login page, which accidentally revealed the location of its server.
+
+“[Silk Road] got busted because they made mistakes,” said Green. “They made some mistakes in the way that they set up the server – that got them caught.”
+
+While a technical error helped investigators bring down Silk Road, relatively little is known about law enforcement’s tactics for infiltrating Tor-based darknets. The FBI, however, reportedly used a mass malware attack to target Tor servers as part a major child pornography investigation last year.
+
+The FBI has not yet responded to a request for comment on this story from FoxNews.com.
+
+Nonetheless, Tor clearly remains a headache for the authorities. Documents leaked by NSA whistleblower Edward Snowden purportedly describe the intelligence agency’s ongoing struggle with the clandestine network.
+
+Entitled ‘Tor Stinks,’ the June 2012 presentation, which was published in The Guardian last year, states that “we will never be able to de-anonymize all Tor users all the time.” The document adds, however, that “with manual analysis” the agency can de-anonymize a very small fraction of Tor users.
+
+According to the document, the NSA has access to very few Tor “nodes” - computers which relay traffic across the Tor network. The document claims that the NSA’s U.K. counterpart GCHQ runs Tor nodes under a project code-named ‘Newton’s Cradle.’
+
+Potential tactics for tackling Tor are also discussed, such as setting up a large number of slow nodes to degrade the network’s stability and using cookies to identify Tor users. Some cookies may “survive” Tor use, depending on how “targets” are using the network, according to the presentation.
+
+In a statement emailed to FoxNews.com, the NSA said that it collects "only those communications that it is authorized by law to collect for valid foreign intelligence and counterintelligence purposes," noting that it has "unmatched technical capabilities" to accomplish its mission.
+
+"As such, it should hardly be surprising that our intelligence agencies seek ways to counteract targets’ use of technologies to hide their communications," it added. "Throughout history, nations have used various methods to protect their secrets, and today terrorists, cybercriminals, human traffickers and others use technology to hide their activities. Our intelligence community would not be doing its job if we did not try to counter that."
+
+GCHQ declined to comment on this story, but noted, in an emailed statement, that all of its work "is carried out in accordance with a strict legal and policy framework."
+
+Paganini told FoxNews.com that law enforcement and intelligence agencies across the globe are working hard to peel away the anonymity of Tor users. Confronted with the challenge of breaking the network’s encryption or attacking flaws in its infrastructure, attackers are concentrating their efforts on the latter option, according to the security expert.
+
+Still, though, much of Tor remain clouded in secrecy.
+
+Even the number of sites running on the network is a mystery, although Green estimates that it may be a relatively modest number. “The number of sites is not enormous,” he said. “It’s probably in the hundreds, I would guess.”
+
+Follow James Rogers on Twitter @jamesjrogers

@@ -1,0 +1,69 @@
+The enrollment this past year of more than 7 million Americans in private health insurance plans sold on exchanges established by the Affordable Care Act was a major accomplishment. At the same time, an estimated 8 to 12 million Americans are eligible for private plan subsidies – and remain uninsured.
+
+Reaching them will be a major challenge. The Department of Health and Human Services recently dialed down expectations for 2015, forecasting that between 9 and 9.9 million people will be enrolled in private plans via the exchanges by the end of the upcoming open enrollment season.
+
+If a subsidy falls in the forest …
+
+Ignorance is a major barrier to enrollment. An October survey from the Kaiser Family Foundation found that 89 percent have no idea that open enrollment through the law’s insurance exchanges starts Saturday. Fifty-three percent do not know that the law provides financial help to low and moderate income Americans to help the get insured.
+
+Last spring, a McKinsey & Co. survey found that even among those who shopped on the exchanges but did not buy, the vast majority of those who were eligible for subsidies did not realize it.
+
+How could that be? For the first two months of its disastrous launch last year, HealthCare.gov had no “shop-around” feature, which would let visitors get the lay of the land before they start applying and entering extensive personal information.
+
+By December, such a feature was up and running. By answering a handful of questions (location, household members and their ages, and household income), visitors could get accurate price quotes incorporating any subsidy for which they qualified.
+
+But the HealthCare.gov home page did not do much to steer visitors into the shop-around. Kate Kozeniewski, a navigator and coordinator with Philadelphia-based Resources for Human Development who personally helped hundreds of people to enroll in ACA plans, told me that very few of her clients had found their way to it.
+
+This year, a can’t-miss shop-around
+
+This year it’s different. A week in advance of open enrollment’s kickoff on November 15, “See plans and prices” is the first thing you see on the HealthCare.gov home page, and a prominent button takes you to the shop-around. Many state exchanges have also launched shop-around features in advance of open enrollment.
+
+On HealthCare.gov, the shop-around itself has been revamped. Rather than one long screen of questions, which might make it easy to skip a question while scrolling, the questionnaire is now broken into three screens: Location (now just a zip code instead of state and county), income (with links to extensive information about what to count) and household members (with links to information about whom to include). It’s easier to focus on each question, and edit buttons appear for completed sections as you go forward.
+
+The streamlining works. Entering as a single person, I was able to get to price quotes in under 30 seconds. That’s very good news. A visitor coming cold to the HealthCare.gov home page should have some idea of how much they’ll pay (or whether they’re eligible for Medicaid) within a minute of logging on.
+
+Information gaps
+
+There’s plenty of room for improvement, though.
+
+Kozeniewski sees significant gains in the redesign. For starters, “it’s great that when you go to HealthCare.gov, the shop-around is right there, the first button you see.” Overall, the information is easier to read, the screen less busy, the blanks in which to enter info clearly set off by a white background.
+
+But some vital information remains hard to find – and some, according to Kozeniewski, is downright inaccurate.
+
+Much of the trouble concerns Cost Sharing Reduction (CSR) subsidies available to lower-income buyers, those with household incomes below 250 percent of the Federal Poverty Level. These subsidies reduce deductibles and co-pays – radically, for those at the lower end of the scale – but they are only available for buyers of Silver-level plans.
+
+Buying Silver can be counterintuitive, though. In Philadelphia, a 27 year-old earning $19,000 will pay just $33 per month for the cheapest Bronze plan – and $72 for Silver, quite a larger bite at that income. But the Bronze plan’s deductible is $4900, the Silver’s just $250. The yearly out-of-pocket maximum for the Bronze plan is $6450; for Silver, $2,750.
+
+Kozeniewski does not like the fact that after a user answers the shop-around questions, the search results “default to Bronze.” That is, because plans are ranked by premium, the Bronze plans appear first. While a low-income user will see a notice, prior to viewing plans, stating that her household “may be eligible for a cost-sharing reduction on a Silver plan,” Kozeniewski says, “I don’t think the language around cost-sharing is very strong.”
+
+That notice links to a page-long explanation of CSR that includes no mention of the Silver plan requirement until the very bottom. When the user goes back to see available plans, again, they will first see a sea of Bronze.
+
+Worse, Kozeniewski notes, the copays or coinsurance percentages listed for specific services, such as doctor’s visits, ER visits and drugs, do not reflect CSR reductions. The inaccurate information would be a major turnoff, she said, for many of the people she worked with. “A $75 copay for a specialist visit? I can’t pay that!” That’s a shame, since the actual price with CSR might be $20. [UPDATE: As of 9:00 a.m. on Nov. 15, this problem appears to have been fixed – several plans at least in several zip codes showed different copays for CSR-eligible shoppers.] Similarly, Kozeniewski points out that the plan summaries appear to omit notice if the plan provides “tiered” coverage – that is, different reimbursement rates for providers (and drugs) in different tiers.
+
+On the plus side, Kozeniewski likes the fact that available plan can be sorted by premium price range – “a lot of my clients would want to sort that way.” Another good sign: when you click for more information about a plan, “there’s a clear link to the application.” That raises the hope that a user will be able to move seamlessly from shop-around to a streamlined application process. We’ll find out next week.
+
+More info, and too much info
+
+Dr. Charlene Wong, a physician associated with the University of Pennsylvania, was the lead researcher in a study that tracked the experiences of well-educated young adult users of HealthCare.gov. The study produced a set of recommendations that mostly involved providing more essential information in context.
+
+One new feature of the shop-around that pleased Dr. Wong is a tab at the top of the search results that allows the user to choose to see dental plans. Dental coverage was a priority for many of the young adults in the Penn study, and they were disappointed when they completed the shopping for health insurance and learned only then that dental coverage was not included. It’s important to make it clear that there’s a separate dental insurance marketplace.
+
+Wong was also pleased to see that price quotes clearly contrast the user’s estimated monthly premium with the premium before tax credit. Many subsidized buyers have no idea that the government is paying the bulk of their premium. A third improvement is the notice of eligibility for CSR. While Kozeniewski found that notice less than clear, Wong noted that there was no notice at all last season.
+
+Like Kozeniewski, Wong noted several weaknesses to the presentation. First was that there is no pop-up definition of key terms appearing when a user mouses over them – a key recommendation of her study participants. This absence is especially disappointing as the feature was recently added to the shop-around for 2014 plans – and the definitions included illustrative examples, which was “exactly what they [the young study participants] wanted.” We both wondered whether the mouseover will be added shortly for 2015.
+
+Wong also worries that the quantity of information is potentially overwhelming – a problem exacerbated by a basically positive development, the entry of new insurers and plans into many markets. To help users cope with complexity, she would like to see more decision support tools, such as a calculator of a given user’s likely out-of-pocket expenses under a given plan.
+
+On the horizon, decision support?
+
+In fact, such a rudimentary calculator of this sort is now live on some state exchanges. Idaho’s shop-around asks users how many times per year they typically go to the doctor, and how many drug prescriptions per year each household member typically fills. The search results (though they initially default to Bronze) can then be sorted by “expense estimate,” which is rated low, medium or high for each plan.
+
+While such calculators are new to the ACA marketplace. Tom Baker, a professor of law and health economics at the University of Pennsylvania and co-author with Wong of the Penn study, points out that Medicare.gov has an array of decision support tools – for example, a plan finder for Medicare Part D that will take information about all of a user’s current prescriptions and then rank available plans by likely cost.
+
+Of the HealthCare.gov shop-around’s sorting features, Baker says, “I don’t love the fact that it sorts just by premium or deductible. Those are such imperfect measures of what a plan’s going to cost you. The site has no capacity to help people figure out what their likely costs are going to be.”
+
+Baker recognizes that it’s still early days, however, For HealthCare.gov at this stage, “The key thing is, is it working? How fast can you create an account, how long do you have to wait for income verification? It’s reasonable to expect that this time around, things will be a lot better.”
+
+Baker expects decision support to come online on ACA exchanges in subsequent years. Tools to look for going forward include quality ratings, such as Medicare Star ratings; more sophisticated versions of Idaho’s tool, that will take personal medical usage information and give a dollar estimate of likely out-of-pocket costs with each plan; and ways to evaluate and rate each plan’s provider network, which is beginning to happen in private exchanges that employers are increasingly turning to.
+
+If the criticisms above seem harsh, it’s worth noting that Kozeniewski, Wong and Baker all recognize the current shop-around tool as a significant improvement over the first open season. It’s worth noting, too, that most CSR-eligible ACA shoppers did find their way to Silver plans enabling them to access those vital secondary subsidies. Finally, the majority of buyers in the first open season, according to a Kaiser Family Foundation survey, report satisfaction with the plans they bought. While there’s plenty of room for improvement, and will be for years, the ACA is thus far operating more or less as designed.

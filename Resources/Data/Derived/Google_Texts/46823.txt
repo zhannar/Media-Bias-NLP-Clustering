@@ -1,0 +1,19 @@
+Fireflies may be used to light up cancerous tumors and other biological targets in the future.
+
+Fireflies may be used to light up cancerous tumors and other biological targets in the future. Photo courtesy of Flickr, B Rosen
+
+Like children playfully chasing flickers of light at sunset, Swiss scientists from the research university École Polytechnique Fédérale de Lausanne are capturing fireflies. But instead of for fun, they’ve learned how to extract the molecules that give out a light signal and manipulate them to become a highly accurate detection system. The discovery, published in the journal Nature Communications, outlines the new possibilities lightning bugs have in medical diagnostics.
+
+Think of a tumor. By tweaking the glowing molecules called luciferase, researchers have designed it to search for the biological target, in this case tumor cells, and give out a signal. The tumor will glow, giving doctors an inexpensive, simple, and accurate system to detect tumors within a patient.
+
+"You can think of the tagged luciferase as a cyborg molecule," the study’s co-author Kai Johnsson, a chemistry professor at the university’s Chemical Sciences and Engineering Institute, said in a press release. "Half bio, half synthetic. How could you make luciferase sensitive to the presence of another protein just through mutations? It's a lot of work. With this chemical trick, all we have to worry about is designing an appropriate tag that can recognize the target protein."
+
+Researchers attached a chemical tag to luciferase, which prevents it from producing light. Once the tag reaches its destination, whether it be a tumor or another biological target, it acts as a switch and unblocks luciferase from glowing. The light is strong enough to see with the naked eye, making it more affordable to implement as a detection system because it won’t require additional analyzing or readout equipment.
+
+"This is a generalized design," Johnsson said. "It shows how you can exploit synthetic chemistry to create sophisticated biosensor proteins."
+
+Scientists were creative in their approach to construct a way for exposing biological targets within the human body. But why do fireflies glow in the first place?
+
+As it turns out, males and females will flash signals back and forth as a way of attracting a mate, and each species has its own pattern. This magical-looking ritual has certain fireflies diving steeply just as the glow turns upward into a J-shape, while the females perch themselves on a tree branch or the grass as males give them their best show. Bringing the performance to a laboratory will add new value to the luciferase enzymes if researchers can harness the light effectively for the future.
+
+Source: Johnsson K, Shena A, and Griss R. Modulating protein activity using tethered ligands with mutatually exclusive binding sites. Nature Communications. 2015.

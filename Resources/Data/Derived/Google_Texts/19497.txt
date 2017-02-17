@@ -1,0 +1,67 @@
+Americans make unwitting investment in hacking with free email providers
+
+Constant threat Cyber attacks happen all day, every day, said Kevin Houle, director of Counter Threat Unit Intelligence at Dell SecureWorks in Atlanta, which provides cybersecurity for 3,400 corporate clients. “The Internet is a societal framework much like the telephone system, the postal system or other core societal infrastructures — and there are criminal elements that take advantage of all of those,” Houle said. Dell SecureWorks partnered with the FBI in Pittsburgh to neutralize a software attack by Russian hackers, who later were indicted by a federal grand jury. But Houle said online threats are constant. Every day, Dell SecureWorks: • Processes 73 billion cyber events. • Uses counter-threat software to narrow those events down to 5.3 billion security events of interest. Most of those are determined to be benign events that are logged and stored, but security analysts further review 12,580 events. Of those, analysts identify 3,639 security threats of concern and notify the customer. Related .pdfs
+
+Can't view the attachment? Then download the latest version of the free, Adobe Acrobat reader here: Email Newsletters Sign up for one of our email newsletters.
+
+American investors are unknowingly making it easier for Chinese hackers and other online criminals to hide from authorities here, the Tribune-Review has learned.
+
+Chinese military hackers, accused of stealing corporate secrets, routinely use free email service providers based in their country — beyond the reach of the FBI and American courts.
+
+Those email providers receive billions of dollars in funding through offshore partners that trade on the Nasdaq stock exchange in New York, federal records show.
+
+Wang Dong, a military hacker on the FBI's cyber most-wanted list, set up an account with the handle “UglyGorilla” on China's 163.com. That free email service is provided by the Chinese partner of Cayman Islands-based NetEase, which trades on the Nasdaq under the trading symbol NTES and has outstanding shares valued at nearly $10 billion.
+
+“Obviously when it's (an) overseas system, particularly in a country like China or Russia that's unlikely to be cooperative, U.S. law enforcement would be very limited in accessing those communications,” said Dmitri Alperovitch, chief technology officer at CrowdStrike in Irvine, Calif.
+
+His hacker defense company issued a report this month accusing Chinese military hackers of using free email services from 163.com and two other providers with Cayman Islands partners that trade in the United States. The companies provide email services that can be used by anyone, similar to Yahoo and Google's Gmail in the United States.
+
+When messages pass through computer servers in the United States, American authorities can obtain court approval to read the communications secretly, former CIA Director Michael Hayden told the Trib. He and others blame former National Security Agency contractor Edward Snowden for showing criminals the details of America's online surveillance, including the feds' ability to track email accounts.
+
+“The bad guys have known for many, many years that if they have infrastructure here, we can get criminal process on it if they're doing criminal activity,” said J. Keith Mularski, the FBI's supervisory special agent in charge of cyber crime, who is based in Pittsburgh.
+
+Because of Chinese laws against foreign ownership of Internet companies, the connections between American investors and mainland email providers are not direct. Investors in NetEase do not actually own the Chinese company, Guangzhou NetEase, which operates email services. Instead, NetEase and Guangzhou NetEase have contractual relationships. That allows the Chinese mainland company to sidestep the law and receive foreign investment.
+
+Spokesmen for NetEase did not respond to requests for comment.
+
+Legal ‘uncertainties'
+
+These types of relationships between American investors and Chinese companies, called “variable interest entities,” are common but untested in legal systems, said Paul Gillis, an international business expert at Peking University in Beijing.
+
+So far, Chinese courts have never enforced them when challenged, he said. In a few cases, the Chinese partner has run away with the investment money. In others, foreign investors lack reliable ways of researching the mainland partner.
+
+Alibaba, a Chinese competitor to online shopping sites such as eBay, expects to have the largest initial public offering this summer. It is structured so investors will own shares in an offshore company that has contracts with the online operator.
+
+An Alibaba spokeswoman declined to comment.
+
+The company warns investors in its prospectus that its corporate structure has risks: “These contractual arrangements may not be as effective as direct ownership.”
+
+If a contract dispute comes up, the company says, the offshore partner can pursue the case in court “subject to uncertainties in the (Chinese) legal system.”
+
+Alibaba's offshore company has minimized the investment risk by limiting the assets controlled by the mainland partner, Gillis said.
+
+“But shareholders will not own critical assets,” he said, “and are investing following the ‘greater fool' theory — that they will eventually find another investor willing to pay more for the same flawed structure before anything goes wrong.”
+
+Alibaba is so big and so essential to China's online economy that investors should not worry about the country intervening, said Matthew Turlip, an analyst at PrivCo in New York.
+
+“The overall size and scale of it will carry it past some of the other issues that might concern investors,” Turlip said.
+
+American law enforcement authorities contend it should be in China's self-interest to police its own online operators for criminal activity.
+
+Coalition building
+
+When it built a case against Russian criminal hackers, the FBI formed a coalition among 12 countries and the European Union. That kind of international cooperation is happening more often as foreign governments realize the danger of online attacks, the FBI's Mularski said.
+
+“As their laws are evolving, the other countries are understanding that cyber has affected them, too,” he said.
+
+Movement toward international cooperation has been a “slow march,” but countries that have not participated before can gain from the experience of those that have, said Kevin Houle, director of Counter Threat Unit Intelligence at Dell SecureWorks in Atlanta. His company worked with the FBI to neutralize the Russian malware called “Gameover Zeus.”
+
+“It helps to have a teacher-learner situation where agencies or researchers in one country figure out how something works ... and share that experience,” he said. “Each one of these take-downs progresses the collective capability.”
+
+As countries expand online for commerce and infrastructure, they have to realize that hacking ignores international borders, said U.S. Attorney David Hickton, who oversees Western Pennsylvania and brought indictments against five Chinese hackers and one Russian.
+
+With other offenses such as offshore money laundering, he said, the federal government has charged people and companies that made the crimes possible. With Internet thefts, other countries – even China – need to realize the risks to their own people, he said.
+
+“What takes a person a lifetime to accumulate or a company maybe generations to develop as an asset base can be stolen in an instant,” Hickton said. “Everybody has to be concerned about that.”
+
+Andrew Conte is a staff writer for Trib Total Media. He can be reached at 412-320-7835 or andrewconte@tribweb.com.

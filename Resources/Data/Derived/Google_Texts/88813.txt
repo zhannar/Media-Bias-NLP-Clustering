@@ -1,0 +1,87 @@
+ReadWriteReflect offers a look back at major technology trends, products and companies of the past year.
+
+When tech companies and government agencies make mistakes, whole teams and departments mobilize in some massive effort to sweep them under the carpet. But sometimes, the gaffes are just too glaring, public and spectacular to overlook.
+
+So as we bid goodbye to 2013, let’s take a moment to reflect on the year that was—and thank our lucky stars we weren’t the orchestrators of these messy rollouts, launch failures and other wacky maneuvers.
+
+Here are my picks for the top 10 technology failures of 2013, in no particular order … well, except for the first, which gets my vote for biggest tech flop of the year.
+
+Healthcare.gov
+
+The Affordable Care Act was already a lightning rod for criticism, and that was before the disaster called HealthCare.gov went online. Or rather, didn’t. Mandating health insurance and then not giving the public a way to evaluate their options shows a stunning lack of foresight—or at the very least, developer testing. That this disaster likely cost $170 million dollars simply defies logic.
+
+The tech failure here mirrors the broken and fragmented nature of healthcare tech systems. It’s basically what happens when government agencies and insurance companies, with their vast and incompatible databases, are suddenly called upon to make their systems talk to one another. And it doesn’t take a genius to figure out that doing it on a tight deadline for a high-profile site, destined to get hammered by hundreds of thousands of people all at once, cranks the impossibility factor up quite a bit.
+
+Healthcare.gov has come a long way since October, but the site still reportedly has issues. By early December, it met administration goals of serving 800,000 unique users and 18,000 enrollment requests a day—but glitches in the system have also caused roughly 15,000 applications to go astray, as insurers never saw them. There’s little doubt that this debacle will be remembered as the biggest government tech failure of 2013.
+
+The Facebook Phone Fail
+
+Like Carrie Underwood in the remade Sound of Music Live!, the HTC First smartphone started out as an intriguing concept that attempted to shoehorn something very popular (Facebook) into a familiar vehicle (a smartphone). And like that live television event, it wound up being an undeniable disaster.
+
+The HTC First was the premiere handset launched with Facebook Home, an Android homescreen replacement and the social network’s land grab for smartphone dominance. Had it succeeded, it would have proven that smartphone users wanted Facebook at the heart of their phones.
+
+It also would have buoyed the company’s faltering position in the competitive mobile industry. Instead, the phone wound up being an embarrassment to all companies involved.
+
+Google Kills Reader, Users Shed Blood Tears
+
+In the era of Twitter and Facebook, the death of a RSS feed reader may seem barely shrug-worthy. Yet when Google killed off its Google Reader service in July, the decision incited a public outcry. People scrambled to find alternatives or posited their theories on what rang the death knell.
+
+If there’s a takeaway here, it might be what countless country songs have already taught us—that you never really know what you’ve got until it’s gone. Or for something slightly less clichéd: Never forget that free Internet services like Google projects are ephemeral. Use them at will, but depend on them at your peril.
+
+Government Spies Like Us
+
+The biggest leak in U.S. history gripped the world’s attention last June, when a former government contractor revealed a massive U.S.-sanctioned global spying operation.
+
+Edward Snowden handed over several thousand National Security Agency documents to the Guardian and the Washington Post, which broke the story on the Internet and telephone surveillance programs. The revelation stunned readers, and the PRISM program in particular drew attention for forcing U.S.-based technology companies to comply with demands for user data.
+
+Whatever you think of Snowden, he’ll be remembered for making everyday people think about information privacy in the technology age—and whether it’s a right, a privilege or simply make-believe.
+
+BlackBerry
+
+Struggling BlackBerry headed into the year desperate for a hit, and perhaps in an alternate universe, last January’s launch of the new flagship BlackBerry 10-powered Z10 smartphone delivered it.
+
+Not so in this reality. Here, it was a painful billion-dollar punch to the gut. The company tried to sell itself, then changed its mind, driving stock values into the ground. That lead to the abrupt ouster of CEO Thorsten Heins and other ranking executives, amid wave upon wave of BlackBerry layoffs that affected thousands of workers.
+
+Now it’s up to former Sybase chief John Chen to stabilize the company’s finances and prove that the once-dominant mobile player still has some life in it. If he pulls it off, he’ll be a miracle worker, because BlackBerry death watch.
+
+Microsoft’s Surface RT
+
+Yes, new versions are now out that might still turn around the fortunes of Microsoft’s troubled sorta-tablet, sorta-PC. But no successful project forces a company to take a nearly $1 billion write-off to cover unsold inventory.
+
+Customers just didn’t know what to make of the original Surface RT. It straddled the tablet-PC divide awkwardly, offering a keyboard cover, mouse support and an integrated stand that made it look like a laptop replacement. Yet it ran a stripped down version of the Windows 8 called Windows RT, which didn’t support most older Windows applications. (Its sibling, the Surface Pro, ran full-fledged Windows 8 and was much more successful.)
+
+The $499 price tag—plus $130 for the keyboard cover—made the RT fairly pricey, too. And on top of all that, it just didn’t perform well.
+
+You might think that Microsoft learned its lesson. Think again. The upgraded Surface RT, now dubbed the Surface 2, still uses Windows RT, and still appears to be just as confusing.
+
+Samsung’s Follies, a.k.a. the Galaxy S4 Launch
+
+Something’s amiss when the last thing you notice at a press event for a new gadget is, well, the actual gadget. What was actually on display at Samsung’s New York City press event for the Galaxy S4 was the company’s bizarre idea of what it thinks appeals to its smartphone users.
+
+Instead of a showcase for its new flagship phone, Samsung served up lame sketches and offensive typecasting. CNET’s Molly Wood called the spectacle “tone-deaf and shockingly sexist.” Corny jokes? Check. Hot girls? Check. Old, out-of-touch Asian man who can’t speak English? Boozy single women leering at a gardener? Check and check.
+
+After the latter, the emcee added this cringeworthy nugget: “While the women are cooling down, why don’t you tell us about S Health?” Worst. Segue. Ever. And in the end, it was all for a bloated mass of features that most people will never use. It may not have hit Samsung sales hard, but the fiasco certainly eroded the company’s goodwill and leaves it more vulnerable to the next PR chuckhole it hits.
+
+Yahoo Mail’s Makeover, Then Failover
+
+Last October, Yahoo Mail users got a surprise when their trusty inboxes suddenly showed up looking like Gmail, and they were not happy. Tabs were tossed, the print button morphed into a menu item buried under the “more” drop-down list and, most importantly, these changes came with a slew of technical bugs. Some people’s emails disappeared, while others lamented the disappearance of tabs and inbox-sort functions.
+
+The redesign sparked an intensely negative reaction. Tens of thousands of people descended on Yahoo user message boards to protest the changes. There’s even a Change.org petition that’s 40,000+ strong, demanding a reversal back to the old Yahoo Mail. It was a fairly colossal mistake since, as Slate noted, those affected were some of Yahoo’s most loyal users. At least up to that point, they were.
+
+iOS 7 Cripples Old iPhones, Nauseates Users
+
+iOS 7 is certainly a triumph in many ways. It has a clean, fresh design (like it or not), and it offers users a host of useful features. But the new operating system also hobbled phones, particularly the iPhone 4 and 4S. When Apple says its software can run on the company’s legacy handsets, many users tend to take it on its word.
+
+And so, many people did—and they paid for it with lags, glitches and crashes. Compounding the issue was the fact that Apple blocked them from reverting back to iOS 6. In essence, they were stranded with devices that were barely usable.
+
+Of course, not even the newest iPhones guaranteed a blissful experience. The Internet was awash with complaints from users who said that iOS 7’s swishy new parallax effect nauseated them, and articles detailing how to turn that off still remain extremely popular posts here on ReadWrite.
+
+YouTube Switches To Google+ Comments, Trolls Revolt
+
+Comment sections on YouTube are unquestionably a wild place, home to empathy, support, misogyny and prejudice in roughly equal measure. At least they used to be before the site’s overlords at Google yanked the old comments system and replaced it with Google+ in September. Denizens of YouTubia hated the change. (Among them was YouTube co-founder Jawed Karim, who supposedly asked, “Why the f*** do i need a Google+ account to comment on a video?”)
+
+The site’s video pages now rank messages based on viewers’ social connections and buries unwelcome feedback. And if you’re not already a Google+ user, you’re now forced to join a new social network just to share that insightful take on what that fox says or theories on how an aging action star can stay so Van Damme flexible.
+
+Let’s be clear—while Google may indeed have wanted to bring more civility and quality to comments, the move was also a big membership push for its social network. And the latter motivation may ultimately prove more successful than the former, as it turns out that the new system attracts new types of spammers. Oops.
+
+Lead image via Shutterstock. iOS 7/Nausea image by Flickr user Sarah G…. Troll photo by Flickr user Gage Skidmore.

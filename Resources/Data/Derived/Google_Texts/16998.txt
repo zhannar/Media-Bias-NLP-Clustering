@@ -1,0 +1,41 @@
+Healthcare IT In The Obamacare Era
+
+Modern technology created the opportunity to restructure the healthcare industry around accountable care organizations, but IT priorities are also being driven by the shift.
+
+Despite all the attention focused on health insurance reform by the problematic launch of HealthCare.gov, the biggest impacts on healthcare organizations are likely to come from other measures embedded in the 906 pages of the Affordable Care Act legislation that squeaked through Congress in 2010.
+
+Obamacare endorsed a structural change in the way hospitals and healthcare organizations get paid, based on how well they keep a given population of patients healthy rather than the number of patient visits or procedures they perform. This twist on the concept of managed care, known as an accountable care organization (ACO), is a strategy for improving the cost-to-value structure of Medicare. And it's expected to have technology and other ripple effects throughout the healthcare and insurance industries.
+
+How quickly and completely this transformation will occur is debatable. Most of the people we interviewed see it as inevitable but likely to take a decade. Yet because this transition will rewrite the rules of care delivery and billing, organizations will have to make countless information systems changes to compete effectively as ACOs. For example, Sharp HealthCare in San Diego, which participates in both government and commercial ACOs, is working through at least half a dozen major system changes in order to support ACOs effectively, says CIO Bill Spooner.
+
+Care management is "like CRM for healthcare."
+
+-- Bill Spooner, CIO, Sharp HealthCare
+
+In some ways, ACOs are reminiscent of the health maintenance organizations (HMOs) that arose in the 1970s. "They failed in large part because there wasn't any data," says Cynthia Burghard, an analyst who covers healthcare IT at IDC. Early managed care efforts talked about encouraging preventive care, but they focused mostly on containing costs. They introduced "capitated" models, limiting how much a provider could get paid for a given type of care, without providing tools to help providers become more efficient, Burghard says.
+
+Today, the lack of data isn't a problem, though making effective use of it can be.
+
+A few provider organizations such as Partners HealthCare have already shown that it's possible to find an ACO win-win by generating millions of dollars in Medicare "shared savings" to be split with the federal government. Yet others are frustrated by the lack of results they've been able to achieve through that same program, and nine of the 33 institutions that Medicare picked as its Pioneer ACOs dropped out of the program last year.
+
+This is the "Obamacare era" of regulatory change, though some elements are really a continuation of policies initiated under the Bush administration. President George W. Bush started what became the federal government's Meaningful Use program, promoting the use of electronic health records and other health systems. Funding for Meaningful Use arrived in the HITECH Act, which was part of President Obama's 2009 economic stimulus program.
+
+While Meaningful Use and the Medicare ACO program are the result of separate legislation, ACOs aim to take advantage of a modernized health IT infrastructure and exploding volumes of data being gathered, while at the same time putting pressure on IT pros to improve those technologies and analytics.
+
+The broader trend is called population health management -- the idea that by focusing on improving the health of entire populations of individuals, healthcare organizations can deliver better care, more cost effectively. One way to drive that change is to move away from the traditional fee-for-service model, whereby healthcare providers can earn more from sicker patients who require more office visits, hospital admissions, and surgical procedures.
+
+Reformers refer to these as "perverse incentives" that drive overutilization, resulting in episodic "sick care" rather than a systematic effort to improve people's health. If what we want instead is a healthcare system that makes people healthier at a reasonable price, the incentives should reward preventive care that reduces the need for those visits, admissions, and surgeries.
+
+The ACO concept has been kicking around since at least 2006, when it was introduced as a Medicare reform proposal. The first ACOs actually came from
+
+Next Page
+
+David F. Carr oversees InformationWeek's coverage of government and healthcare IT. He previously led coverage of social business and education technologies and continues to contribute in those areas. He is the editor of Social Collaboration for Dummies (Wiley, Oct. 2013) and ... View Full Bio
+
+1 of 4
+
+Comment |
+
+Email This |
+
+Print |

@@ -1,0 +1,63 @@
+The emerging use of Wi-Fi and Electronic Health Records (EHRs) in senior living communities has long been discussed by industry experts as key to serving today and tomorrow’s residents, but a unique approach to managing data using the cloud is helping operators best meet employee and resident needs, providers say.
+
+The cloud — whereby shared resources, software and information are provided to computers and other devices similar to an electricity grid over the Internet — is playing a role as senior living providers deploy secure, HIPAA-compliant Wi-Fi while also offering protected networks for residents and guests.
+
+More than one-third of the top 50 long-term healthcare providers in the U.S., including Brookdale Senior Living and Daybreak Venture, LLC, have partnered with wireless networking provider Aerohive Networks to use its cloud-based Wi-Fi network, the company says. It also caters to hospitals, universities and businesses — from the John Marshall Law School to Macaroni Grill.
+
+Aerohive’s control plane operates between wireless access points, rather than hardware controllers, software controllers or other products. The access points automatically configure once connected to the desired network, and troubleshooting can be done remotely via the cloud.
+
+The benefits of cloud networking include the ability for companies to increase capacity without having to make capital investments in additional servers, storage or networking infrastructure, says Joel Vincent, director of product marketing for Aerohive, who works closely with Aerohive’s long-term care customer base.
+
+In addition, this type of network makes upgrading technology easier for the majority of providers who have a limited IT team, he says.
+
+Before making the switch, many providers have concerns about streamlining data across multiple sites, being HIPAA compliant and ensuring that residents and guests can access the Internet without compromising the security of sensitive records.
+
+“The concerns are twofold: How do you [give residents Internet access and securely streamline medical data] and keep that great wall between you?” he says.
+
+Access Health Records from Multiple Sites
+
+Aerohive’s controller-less wireless architecture helps providers achieve IT efficiencies not possible with classic network architectures, says Chris Fadrowski, senior director of IT infrastructure at Brookdale, in a case study based on the technology implementation.
+
+When Brookdale, with about 660 facilities across the country, began its search for a Wi-Fi network that would meet its needs, a cloud-based network was the optimal fit, he says, noting that it can be easily scaled out across multiple sites.
+
+“A controller-less network saves on costs and adds resiliency and redundancy to our network,” Fadrowski says. “When we first starting looking [for a wireless network] we were seeing a lot of controller-based solutions, and one of our concerns, especially with Electronic Medical Records [EMRs] and the applications we’re deploying currently, was the need for 24/7 uptime, which is much different for our industry than two years ago.”
+
+One main reason to go wireless is to be better positioned to provide a higher level of care and accuracy, and a big part of that is a need for EHRs to be portable.
+
+“We’re finding mobility is key for our EMR applications,” Fadrowski says. “It gives us the ability to do bedside support and therapy in many locations, without having to be connected by a wire. When charting [a patient’s medical information], not having to worry about handwriting and making that information available to physicians and family members in real time is very important.”
+
+Daybreak Venture began working with Aerohive Networks a few years ago after identifying a need to upgrade the Texas-based provider’s technology, says Daybreak Venture CIO John Valker.
+
+The long-term and rehabilitative care, skilled nursing, hospice, respite care and long-term care provider will complete rolling out Wi-Fi to all of its communities — 75 in Texas and four in Missouri — before the end of this year.
+
+“It makes it easier for staff to do their jobs,” Valker says, adding it helps staff better document care in real time, versus recording the day’s activities at the end of a shift.
+
+For staff visiting residents across sites, “they don’t have to go from configuration changes between visits,” Valker says, noting that managed care systems limit access to only the information they need.
+
+“It’s much more user-friendly for them,” he says.
+
+Meeting HIPAA Security Requirements
+
+As provisions outlined in the Affordable Care Act (ACA)—a.k.a “Obamacare”—take effect and reform the nation’s healthcare environment, the adoption rate of EHR/EMR technology is becoming more prevalent among senior living organizations, experts say, noting that many will be forced to comply in an increasing competitive landscape emphasizing Accountable Care Organizations (ACOs).
+
+As of June, nearly 66% of surveyed senior living organizations were investing in electronic health and medical records, according to Ziegler’s 2014 Technology Spending report.
+
+For those providers who are doing electronic charting and retrieving medical records online, data privacy and security are a big concern — especially with last year’s changes to The Health Insurance Portability and Accountability Act (HIPAA).
+
+“Under the old HIPAA rule, you had to prove someone had used the lost or stolen data, now the data is presumed used and reportable unless you can prove it wasn’t and proving data was not used is much harder than proving it was,” Scott Ranson, Chief Information Officer for Brookdale Senior Living, told SHN earlier this year.
+
+Firewalls at all of Aerohive’s access points create the security providers need to be HIPAA compliant, Vincent says, adding that firewalls allow providers to set up completely different privacy attributes to the two networks, but exist on one infrastructure.
+
+Login information and mobile device management systems also ensure that only those who are authorized on a certain network are using it.
+
+“With mobile device management systems you can lock down a device to make sure it’s very secure,” he says. “And that partners with U.S. Department of Defense level encryption, so even if the device is tampered with it can shut down and not allow access.”
+
+Tech Savvy Residents
+
+Beyond ensuring the security of EHRs and EMRs, rolling out Wi-Fi for everyone on site is important for resident wellness, Valker with Daybreak Venture says.
+
+“We had residents and families reach out to us and ask us for it because it enables them to connect, for example through social media like Facebook,” Valker says, noting that staying up to-date with the latest technology can be challenging.
+
+“The families have different needs and wants, so there’s a challenge for us to keep it current, but being able to address that in a reasonable time frame and make [Internet] available to guests is very important,” he says. “The feedback from family since we’ve implemented it has been huge.”
+
+Written by Cassandra Dowell

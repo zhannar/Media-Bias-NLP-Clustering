@@ -1,0 +1,91 @@
+shutterstock
+
+For millions of Americans, choosing health insurance that will cover the care they need at a cost they can afford boils down to one simple question: Which doctors take this plan?
+
+Unfortunately, shopping for health insurance online can still be more painful than an actual trip to a clinic. Information about which doctors accept which insurance plans is often outdated or simply wrong.
+
+"We're in a Wild West of consumer health care in the immediate aftermath of the Affordable Care Act," said Noah Lang, founder and CEO of Stride Health, a startup that makes software that helps consumers find the health insurance plan that suits them best. "An insurance representative will say on the phone to use the website," said Lang, "and then in the same breath say that it may not be up to date if you're going to see that doctor today."
+
+The Obama administration hopes to settle this reshaped frontier. A new Obamacare rule that will kick in later this year will require insurance companies that sell plans on the national health insurance marketplace to keep their provider directories accurate and up to date. The rule will allow entrepreneurs, nonprofits and the general public to download data about doctors and drugs covered by given plans.
+
+"The directory must include information on the provider, location, contact information, specialty, medical group, [and] whether they are accepting new patients," explained Lori Lodes, a spokeswoman for the Center for Medicare and Medicaid Services, which administers compliance with the core health policies and programs of the U.S. government. "These directories are going to need to be updated monthly, which is a big, big step. They must be provided in a way that's easily understandable to folks."
+
+The new rule also requires insurers to publish which drugs are covered by which plans, along with a long list of other benefit and payment information (PDF).
+
+For instance, if a consumer takes the cholesterol drug Lipitor, she'll able to see which plans cover it. For people coping with chronic illness or caring for others, seeing which drugs are covered during the insurance shopping process would be welcome.
+
+"The proposed rule will require plans to keep information up to date," said Bob Kocher, a general physician and former Obama administration adviser who’s now a partner at Venrock, a venture capital firm that invests in private and public health care businesses.
+
+If implemented effectively, the regulatory move should heal some of the biggest headaches in the consumer marketplace for health care. If not, the status quo of unexpected costs, frustrated patients and opaque markets will persist.
+
+"This is where the next step is," Lodes said. "We know that there's a lot of work to do to make it easier for consumers, to support their decision-making process in finding the right plans for their family's health needs and budgets."
+
+By forcing insurance companies to release their coverage data for third parties, the Obama administration is belatedly moving to seize an opportunity it missed in 2013. The new rule will allow consumers, companies, and nonprofits to use provider data “in a way that they can actually build something with it," Lodes explained. This could steer consumers toward using applications and services developed by the private sector -- rather than Healthcare.gov -- to make decisions about their health coverage.
+
+Critically, the federal government plans to use the same data in its marketplace. If Uncle Sam eats his own dog food, there's a better chance of high-quality data for everyone.
+
+"Right now, when you are shopping for a plan on Healthcare.gov, we have a link that sends you to an issuer site, which will have whatever that directory is," said Lodes. "With this sort of information being updated monthly, our hope is that consumers will be able to use that information where they're actually making the decision about which plan makes the most sense for their family's health needs and their family's budget. The more information they have, the more informed decisions they'll be able to make. "
+
+SECOND TIME'S THE CHARM?
+
+Before he entered the venture capital world, Kocher was an architect of the Affordable Care Act.
+
+"In 2009, when we were working on the initial regulations for the Affordable Care Act, we really pushed at that point for providers to have accurate, active directories," Kocher, who served in the White House as a member of the National Economic Council and as special assistant to the president for health care and economic policy, told me.
+
+"It didn't seem fair that someone could buy into a network and not be able to tell what doctors were in it, and then be surprised by big penalties,” Kocher said. “When we proposed it, the insurers said that they can't do it: 'We don't update the directories and our computer systems don't allow us to work over the modern Internet.' They blamed doctors and hospitals for changing where they work and said that they couldn't be accountable for changes. The amount of pushback that was put forward led us not to make a requirement."
+
+Now, the feds have decided to push back.
+
+Kocher said that although the Affordable Care Act has reduced Americans’ health care costs, people are still spending more than necessary. He and many others say they hope this new rule will change that.
+
+"We're now at a negotiation point, at a place where we can get it done," said Lang. "Private industry will help to do it efficiently and also make sure this data is released well and helps consumers. This is one of the most important things that we can use some regulatory assistance on. It will remove the questions and curiosity from consumers' minds when they're trying to get health care."
+
+WHY IS THIS SO HARD?
+
+Actually getting accurate data may still be difficult.
+
+"Part of the problem is that there really are there no consistent data sources, even in the insurance companies," explained Bryan Sivak, the former chief technology for the U.S. Department of Health and Human Services. "Doctors drop in and out constantly. These directories are out of date immediately upon being published."
+
+Sivak said that insurance providers don't currently have a central database that can be updated in real time. And as things now stand, it's extremely unlikely there will be one for which insurance doctors take, or provider directories by the end of 2015. Still, if this rule leads to two simple, accurate data sets that can be downloaded by the end of 2016, it will be an historic achievement.
+
+Even getting to that point is going to be arduous for insurers.
+
+One obstacle is that providers still have to tell insurers whether they accept a given plan.
+
+"Aetna works to verify provider demographic data (address, telephone number, new provider to the practice, provider terming practice, etc.) using data from external vendors as well as Aetna’s provider relations and provider service staff," Paul Marchetti, vice president of Aetna National Care Management, explained in an emailed statement.
+
+"Still, maintaining accurate provider demographic data largely relies on providers to self-report when demographic data changes so that accurate information can be reflected in a timely manner. Varying provider office processes as well as the size and complexity of our networks make real-time accuracy challenging."
+
+Another hurdle for insurers is the complexity of the data they are now required to track. Marchetti noted that a single health care provider may be associated with multiple products and relationships within hospital networks or plans. Aetna is enhancing its provider database and its online provider directory (DocFind), he said, but challenges will remain for the industry.
+
+Industry standards, which make exchanging and analyzing data easier in much the same way that standardizing railways enabled trains to easily cross continents, are another challenge. To date, there has been no standard format for doctors to use when telling insurers which plans they accept.
+
+"As a result, we often receive incomplete information from providers that requires follow-up and confirmation, impacting both accuracy and timeliness of provider data," Marchetti said. "While we have worked to standardize our file format and processes within Aetna, there is no industry-wide format."
+
+It took an historic act of Congress for the U.S. Treasury Department to draft and publish a standard for government financial spending data. But without one for health insurance provider data, problems are likely to persist.
+
+HOW PROVIDER DATA MIGHT BE RELEASED
+
+During the next open-enrollment period, which starts in November, insurance companies that want to sell plans on the health insurance exchanges will have to update their provider directories monthly. Whether they'll get the data they need from doctors in a timely fashion is an open question.
+
+The Center for Medicare and Medicaid Services declined to comment on details of how the rule would be implemented, including details on data harmonization, publishing and quality. But it's likely that, initially, the solution may be quite basic.
+
+"This will work first through a spreadsheet emailed to CMS, for sure," said Kocher. "There's no doubt, because insurers have to work with doctors who are not technically able. I'm optimistic that this will become a Web form relatively soon."
+
+Eventually, Kocher predicted, a more sophisticated interface will replace that form, enabling third-party developers and government agencies to pull insurance-plan data directly from the Web.
+
+In the meantime, getting data online that's accurate and updated monthly would be a major achievement. There's hope this will happen this fall, at least for some insurers.
+
+"We expect to be compliant with the CMS final rule," said Aetna’s Marchetti. "We have established a project management office and governance to create the machine-readable data file. We expect to use an external vendor to create the file, rather than using internal systems or resources."
+
+Keeping that file accurate will be crucial. It won't be clear until next year how or whether CMS will encourage insurers to maintain the file.
+
+The Obama administration will probably use a “frozen carrot” model to encourage compliance, Kocher predicted. “If you're going to sell insurance on this marketplace, you'll have to make sure your data is updated,” Kocher said. “The carrot is that you can now access a big market to insure. The frozen part is that we kick you off next year if you don't comply."
+
+
+
+Also on HuffPost: States Not Expanding Medicaid States Not Expanding Medicaid
+
+1 of 25 Under the Affordable Care Act, 24 states have opted not to expand Medicaid to those making no more than 138 percent of the federal poverty level, leaving roughly 5.7 low-income Americans uninsured. Data from: http://www.whitehouse.gov/share/medicaid-map Share this slide:
+
+Photo by Joe Raedle/Getty Images

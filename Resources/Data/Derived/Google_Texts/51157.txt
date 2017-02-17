@@ -1,0 +1,29 @@
+Healthcare.gov, the famously ill-executed web portal for the Affordable Care Act’s health care exchange, is once again under fire, this time for apparently using a database that stores user information indefinitely—as in, forever. As in, whenever a hacker decides to crack the government’s security code, the information of everyone who has ever signed up for (or considered using) healthcare through healthcare.gov will be there for the taking.
+
+The Associated Press reported on Monday that the Multidimensional Insurance Data Analytics System (MIDAS) used by the government to store patient information doesn’t follow best practices—which is, as one expert told the AP, to delete sensitive information once it’s no longer needed.
+
+MIDAS is holding onto names and birthdays, passport numbers, social security numbers, and more. So a breach would be devastating to users. The AP notes that the government hasn’t disclosed how many people would be affected by a MIDAS data breach, but that the number is likely very high:
+
+In a section that asks how many individuals have personal data in the system, the administration’s privacy assessment says “1 million or more.” It’s probably a lot more. In addition to the 10 million currently enrolled, MIDAS also keeps information on former customers, on consumers who started applications but never finished them and on people determined eligible for Medicaid. The administration says “1 million or more” is a standard category — but won’t specify the number.
+
+We shouldn’t be surprised by problems with the Obamacare website.
+
+The U.S. Government Accountability Office (GAO) issued a report on healthcare.gov back in September 2014 looking at the “Actions Need to Address Weakness in Information Security and Privacy Controls.” That document notes some of MIDAS’s shortcomings, explaining that a review of MIDAS doesn’t look closely enough at the security of users’ private information. Because of that, said the report authors, “It will be difficult for [Centers for Medicare & Medicaid Services] to demonstrate that it has assessed the potential for [personally identifiable information] to be displayed to users, among other risks, and taken steps to ensure that the privacy of that data is protected.”
+
+MIDAS has seen even harsher criticism from outside the Administration, notably from former Social Security Administration Commissioner Michael Astrue, who has written repeatedly about the privacy implications of the government healthcare site. He wrote in the Weekly Standard about how frustrating it’s been for him to talk to officials about the system:
+
+While HHS has been secretive about MIDAS, this central repository contains more than just the names, addresses, incomes, and Social Security numbers of millions of Americans. It also includes data of great value to cybercriminals, such as telephone numbers and email addresses. Moreover, according to a publicly available draft document of the National Archives and Records Administration, MIDAS includes notes on conversations between teleservice employees and callers to HealthCare.gov’s toll-free number.
+
+The government, however, is denying the AP’s claims. In an email to Fusion, Aaron Albright of the Centers for Medicare and Medicaid Services (CMS) said that “the privacy and security of consumers’ information is a top priority,” adding:
+
+Operational and analytical databases are a part of any operation, and Marketplace data is protected by stringent security measures that adhere to industry best practices and meet or exceed federal standards… a data retention policy drafted by the National Archives Records Administration is currently undergoing public comment; as proposed, the policy would not retain records permanently, but destroy this data after ten years.
+
+Albright mentioned that “the current proposal from NARA calls for inactive Marketplace records to be deleted after ten years,” and that “once the comment period closes… CMS will destroy MIDA records consistent with that schedule.”
+
+But, as Rusty Foster pointed out in the New Yorker last year, the government is generally terrible at the Internet—for example, the FBI spent hundreds of millions of dollars to upgrade a terrible computer system, but ultimately abandoned the project before it was ever used. In 2013, Reuters’ Scot J. Paltrow and Kelly Carr noted in detail the Pentagon’s ineffective bookkeeping tactics. From Reuters:
+
+The Pentagon’s record-keeping tangle not only increases the potential for errors; it also forces [the Defense Finance and Accounting Service] to depend heavily on “manual workarounds,” another source of errors… staff often must transcribe information from one system onto paper, carry it to another office, and hand it off to other workers who then manually enter it into other systems.
+
+Errors from this system meant veterans were often shortchanged on wages. And, most recently, a hack into the U.S. Office of Personnel Management (OPM) exposed the personal information of millions of government employees who don’t even know what information was stolen.
+
+To be fair, some private companies (like Sony) aren’t any better at keeping documents secure.

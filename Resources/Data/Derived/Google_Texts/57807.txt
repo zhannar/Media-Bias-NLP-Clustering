@@ -1,0 +1,13 @@
+Talk about interactive gaming. A new Kickstarter campaign hopes to blend the two worlds of video games and blood donation by hooking players up to a machine that draws their actual blood when their character gets shot. Welcome to Blood Sport.
+
+The campaign was started by two Canadian video game designers, Taran Chadha and Jamie Umpherson, whose previous work delved into bringing real life into the virtual and, they say, set the stage for Blood Sport’s inception. Their goal is to bring the experience on a cross-country tour, where they can set up multi-player blood donation gaming events.
+
+Blood Sport, Kickstarter .
+
+The design itself is simple. The mechanism that makes the controller vibrate gets hooked into an existing blood collection device, called an Arduino Board, which both monitors how much blood is being drawn and shuts off when it hits a certain limit, “so that Blood Sport powers down before you do,” the creators explain on their campaign page. “We’ve done this by allowing you to input your age, weight, and any preexisting medical conditions.”
+
+The team freely admits they’re not reinventing the wheel — merely hacking an already available set of technologies and putting them together — though, they do hope their project can raise some awareness about blood donation. In the U.S. alone, the American Red Cross has struggled to keep up with the demand for blood. Each day, more than 41,000 donations are needed, yet donation rates only continue to fall.
+
+Blood Sport, Kickstarter .
+
+Shedding blood on the battlefield of a video game may not save any lives in the virtual world, but it could have real-world benefits for people in need. Of course, the minds behind Blood Sport don’t want you to wait until their prototype gets released: “Grab your buddies, go down to your local donor clinic, and see who gets dizzy first.”

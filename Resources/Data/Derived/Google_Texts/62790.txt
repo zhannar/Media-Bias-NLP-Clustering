@@ -1,0 +1,73 @@
+Jon Glaudemans, Michael Kolber, and Joel Ario
+
+September 18, 2014
+
+With benefit designs and enrollee cost-sharing increasingly standardized across health plans under the Affordable Care Act (ACA), one of the remaining levers plans have to differentiate themselves — and to control premiums — is the size of their provider networks. Regulators have been caught in a crossfire between advocates of narrow networks who say they promote quality and keep prices down, and those who feel narrow networks could constrain access to necessary services.
+
+Unfortunately, recent federal guidance — addressing, among other related items, the issue of “reference pricing” — blurs the distinction between in-network and out-of-network providers and may make it more difficult for regulators and consumers to understand the effective “size” of a particular network.
+
+This confusion could undermine the goal of improving transparency in consumers’ health care choices and make it difficult for consumers to use prices in choosing providers. More troubling, expanded use of “reference pricing” under the guidance could leave patients paying unexpectedly large out-of-pocket amounts for services provided by ostensibly in-network providers.
+
+Below, we characterize reference pricing as a “sub-network” contracting strategy, and we describe some of the implications of reference pricing and the guidance for consumers, regulators, plans, and providers.
+
+Background
+
+In 2014, to comply with the ACA, plans must not impose cost-sharing in excess of $6,350 for an individual and $12,700 for a family. The federal Departments of Health and Human Services, Labor, and Treasury (the “Departments”) have released a steady stream of guidance addressing the critical question of which consumer expenses are included or excluded in the calculation of consumer out-of-pocket spending.
+
+On May 2, the Departments published guidance on how out-of-network benefits can or should be applied to the annual limits; they offered an initial view of their proposed regulatory treatment of an emerging strategy being adopted by certain health plans – the use of reference pricing to set a ceiling on payments for a covered service or item. (See Question 4)
+
+This most recent guidance reaffirms (as explained in more detail below) that plans can, but need not, count consumer spending on out-of-network services against the annual limits. Then, in a new tack, it affords plans that same discretion for consumer payments for services provided by in-network providers under a reference pricing scheme, when provider prices exceed the reference pricing limits.
+
+Excluding Out-of-Network Charges from Out-of-Pocket Limit Calculations
+
+To understand the federal guidance on reference pricing, it is important to understand how regulators treat out-of-network charges. Plans generally set an “allowed amount” for out-of-network charges, which usually represents the plan’s estimate of the usual, customary, and reasonable (UCR) charge for that service in the service area. The plan will typically pay a percentage of the allowed amount; the remainder of the allowed amount is the enrollee’s responsibility, known as coinsurance.
+
+Because out-of-network providers, having not signed a contract with agreed-upon prices, can choose to charge more than the allowed amount, the enrollee may also be liable to the provider for the balance of the billed amount after the allowed amount has been applied; this is referred to as “balance billing.”
+
+On January 9, the Departments expressed a general view that a “plan may, but is not required to, count out-of-pocket spending for out-of-network items and services towards the plan’s annual maximum out-of-pocket limit.” (See Question 4) Most plans will likely elect not to count spending on out-of-network services, because these exclusions will result in lower plan expenses for a given person in a given year, all other things being equal.
+
+In light of the fact that plans are not required to apply out-of-pocket spending on out-of-network charges to the annual limit on cost sharing, the Departments have clarified that plans could choose to apply some but not all out-of-network charges to the limit. For example, the Departments say, a plan could choose to count out-of-network coinsurance toward the limit, but still exclude balance billing.
+
+Reference Pricing in Practice
+
+In its simplest form, reference pricing is the establishment of a single “reference” price for a single service or related bundle of services, and the use of that price to guide payment decisions. In practice, the plan first negotiates broadly applicable rates with a broad set of providers to create a network.
+
+Once a network is in place, a plan seeking to adopt a reference pricing strategy will identify certain services that may be suitable for reference pricing. Typically, plans will focus on services that are: high-cost; high-volume; discrete in terms of treatment duration and treatment outcomes; and variably priced in the marketplace. Once the services amenable to reference pricing are identified, a plan may issue a request for proposals to network providers to bid for the right to establish the reference price for a specific service or bundle of services for the entire network.
+
+As an example, if an insurer were to adopt reference pricing for knee replacements, the plan would issue an RFP for knee replacements. In-network providers would respond by each bidding their best price for knee replacements, knowing that the eventual “winning” price will become the “reference price.” Once established, the reference price becomes the price ceiling for the plan’s payment to all in-network providers: no matter where a patient has a knee replaced — whether by an in-network provider or an out-of-network provider — the plan will only “allow” the reference price, and will set its payment accordingly after accounting for coinsurance.
+
+For out-of-network services, the reference price is identical to a UCR-based “allowed amount.” For in-network services, the use of reference pricing is, in effect, an override of the previously negotiated rates with network providers, and its use implicates the treatment of in-network providers choosing to charge patients the higher, broadly negotiated amount, and not the lower reference price.
+
+In the case of a patient seeking an in-network provider for a service attached to a reference price, the patient is responsible for the in-network co-insurance, and, must also pay the difference, if any, between the reference price and the provider’s individually negotiated rate for that service. In effect, reference pricing introduces the concept of allowed amount, and balance billing, into a contracted network.
+
+Applying the Cost-Sharing Limit to Reference Pricing
+
+The Departments, in their May 2014 guidance, acknowledge that the use of reference pricing for in-network services poses a different set of regulatory issues than the use of allowed amounts for out-of-network services. Specifically, the guidance states that “such a pricing structure may be a subterfuge for the imposition of otherwise prohibited limitations on coverage, without ensuring access to quality care and an adequate network of providers.”
+
+The Departments may be worried about a plan that establishes a reference price so low that, in the extreme, only the winning bidder is willing and able to provide the applicable service at the reference price, and the bidder may not have the capacity to serve the needs of all the plan’s members.
+
+However, despite these misgivings, and in the context of a call for comments on the issue, the guidance goes on to state that, pending further guidance from the Departments, large-group market and self-insured group health plans that use reference pricing for in-network services are able to treat “providers that accept the reference amount as the only in-network providers, provided the plan uses a reasonable method to ensure it provides access to quality providers.”
+
+The import of this interim guidance on reference pricing is that even when a nominally “in network” provider charges a patient an amount in excess of the reference price, the attendant balance billing need not count toward the plan’s annual limit on out-of-pocket spending—even when the higher price the provider charges the patient is the price the provider negotiated with the plan. There is no reason to anticipate that plans will voluntarily decide to attribute patients’ out-of-pocket spending on the difference between the reference and the negotiated price toward the out-of-pocket maximums.
+
+Implications for Network Adequacy and Health System
+
+The expanded use of reference pricing strategies, and the initial, interim regulatory treatment of patient liability, combine to introduce new and untested challenges to the traditional view of in-network services. These factors also call into question traditional metrics of network adequacy.
+
+First, consumers obtaining an in-network service for which a reference price exists – e.g., a knee replacement – face the possibility of paying not just their coinsurance, but also paying the difference between the reference price and the negotiated amount. Given the current confusion experienced by many patients on the billing and payment policies associated with out-of-network services, any use of in-network reference pricing will likely engender similar after-the-procedure billing surprises.
+
+It may no longer be sufficient to check a network directory to see if one’s family physician or local hospital is included. If the plan has adopted reference pricing, the mere listing may no longer imply that the patient’s coinsurance payments are predictable. Consumers would be well-advised to read the proverbial fine print carefully, since plans are likely to vary in the effectiveness of their reference pricing-related education materials.
+
+Second, in-network providers offering services that have a corresponding reference price may feel as if their hard work to negotiate a fee schedule or contract was for naught. Plans may seek to develop broad networks with seemingly generous payment rates, only to subsequently adopt aggressive reference pricing structures that render the seemingly generous contracts moot. Providers should consider a plan’s intentions with respect to reference pricing as they review the terms and conditions in proposed network contracts.
+
+Third, plans seeking to manage the cost of health care may choose to consider adopting or expanding their use of reference pricing. Given the high potential for provider and patient confusion around the use of reference pricing as a pricing and steering mechanism, plans ought to develop these programs in a transparent fashion, with a strong emphasis on early engagement of patients and providers. The initial efforts at reference pricing have demonstrated that it can be a powerful force for restraining costs and potentially improving quality, but it is important that reference prices be implemented in a fair manner so as not to raise the ire of consumers or regulators.
+
+Fourth, regulators may need to reconsider the traditional framework to assess the adequacy of a network. In the past, a network’s adequacy was often assessed on the basis of straightforward ratios, totals, and drive times: How many primary care providers are there for a given population or service area? Is there an appropriate mix of community hospitals and tertiary care facilities? How far does a patient have to drive to access a particular specialty?
+
+In the future, these metrics may be rendered less useful, or even moot, if plans can impose intra-network limits on payment that may reduce the effective size of the network to just a few winning bidders of the reference pricing RFPs. In this, the Departments’ interim guidance appears to strengthen plans’ incentives to adopt reference pricing as a contracting strategy.
+
+This concern may be tempered, however, because currently the Departments’ guidance applies only to self-insured and large group health plans: there are no federal network adequacy standards for large group health plans and no state or federal network adequacy standards for self-insured group health plans. In this light, we are encouraged by the Departments’ insistence that plans can take advantage of this reference pricing guidance only if the plan “uses a reasonable method to ensure that it provides adequate access to quality providers,” thus imposing a degree of regulatory guidance on self-insured and large group health plans where none may now exist.
+
+The concern regarding reference pricing strategies complicating consideration and adoption of network adequacy standards becomes greater if the guidance is extended to Exchange plans and other coverage sold in the individual or small group markets, which are subject to state and federal network adequacy standards. These legacy standards could be undermined if these plans were able to submit a large network for regulatory approval, but then only take into account the narrower network of providers willing to accept the reference price for the purpose of applying cost sharing limits.
+
+Reference pricing can reduce unexplainable price variation across providers and encourage consumers to seek care from efficient, high-quality providers. However, any widespread adoption of reference pricing as a network management tool calls into question the appropriateness of traditional network adequacy metrics. New metrics are needed to judge the adequacy of networks employing reference pricing as a tool.

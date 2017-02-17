@@ -1,0 +1,41 @@
+To help you optimize security as you cope with complexity, InformationWeek is offering you an excl
+
+Minnesota Slams IBM On Health Insurance Exchange Woes
+
+IBM sends additional resources to work on Minnesota's state-run MNsure website after Gov. Mark Dayton blames company for problems processing applications for health insurance.
+
+Add Minnesota's state-run MNsure website to the list of troubled health insurance exchanges. The site launched October 1, but it's plagued by problems that Minnesota Governor Mark Dayton is pinning largely on software from IBM.
+
+In a five-page letter sent to IBM CEO Virginia Rometty on December 13 and made public by the governor's office on Friday, Dayton detailed 21 specific problems tied to IBM's Curam software. "Your product has not delivered promised functionality and has seriously hindered Minnesotans' abilities to purchase health insurance or apply for public health care programs through MNsure," Dayton wrote. "I request that you immediately deploy whatever people or resources are needed to correct the defects in your product that are preventing Minnesotans from obtaining health insurance through MNsure."
+
+IBM did respond immediately, meeting with state officials and sending dozens of employees to St. Paul to fix the site in mid December. In a statement issued on Friday, IBM said the majority of the concerns about its software had been addressed, and it noted that it's providing onsite services and technical resources -- at no cost to the state -- that go beyond the scope of its contract.
+
+[Want the details on a failed commercial website running on IBM and SAP software? Read "Inside Avon's Failed Order-Management Project."]
+
+"IBM is just one of several subcontractors working on this project," said IBM spokesperson Mary Welder in a statement. "The prime contractor, Maximus, Inc., has overall responsibility for the MNsure system including integration and testing of all the components prior to October 1."
+
+Like other states choosing to run their own health insurance exchanges, Minnesota was under the gun to get its health insurance exchange site up and running before the end of the year in order to meet the coverage mandates of the Affordable Care Act (also known as Obamacare). The problems experienced on MNsure have included lost applications and inaccurate assessments of eligibility for financial assistance.
+
+Maximus, of Reston, Va., is the lead contractor on the $46 million project, while IBM’s Curam software determines each applicant's eligibility for Medicaid and state and federal subsidies and tax credits. Acquired by IBM in 2011, Curam software is designed specifically for health and social program management, and IBM says it's used in more than 80 government projects around the world.
+
+Minnesota's MNsure health insurance exchange site was down over the weekend as work continued to address technical problems.
+
+IBM has been involved in a number of troubled government projects in recent years, including a welfare administration system overhaul that failed in Indiana in 2009, a health department payroll system project gone bad in Queensland, Australia, in 2010, and an unemployment compensation system abandoned by Pennsylvania in 2013.
+
+In some of these cases IBM has portrayed itself as the deep-pocketed scapegoat for problems that went beyond its contract or control. In Queensland, for example, IBM said the project failed in part due to the state's business processes and data-migration efforts, and it pointed out that its fees of $25.7 million accounted for less than 2 percent of the $1.2 billion the state said it would cost to fix the system.
+
+IBM is one of four technology providers on the MNsure project, but IBM said it's working closely with the other suppliers and with state agencies to fix the problems that remain. "We are providing on-site services and technical resources beyond the scope of IBM's contractual responsibilities to assist the State in resolving the remaining issues as quickly as possible," the company stated.
+
+According to Republican State Representative Greg Davids, the letter from Dayton, a Democrat, was simply an attempt to shift blame away from his administration.
+
+"For weeks now, Minnesotans have received conflicting information from MNsure about whether they have coverage, what coverage they have and how many more hoops they have to jump through to obtain coverage," Davids told the St. Paul Pioneer Press. "Enough is enough -- what happened to 'the buck stops here'?"
+
+Doug Henschen is executive editor of InformationWeek, where he covers the intersection of enterprise applications with information management, business intelligence, big data, and analytics. He previously served as editor-in-chief of Intelligent Enterprise, editor-in-chief of Transform Magazine, and executive editor at DM News.
+
+There's no single migration path to the next generation of enterprise communications and collaboration systems and services, and Enterprise Connect delivers what you need to evaluate all the options. Register today and learn about the full range of platforms, services, and applications that comprise modern communications and collaboration systems. Register with code MPIWK and save $200 on the entire event and Tuesday-Thursday conference passes or for a Free Expo pass. It happens in Orlando, Fla., March 17-19.
+
+Comment |
+
+Email This |
+
+Print |

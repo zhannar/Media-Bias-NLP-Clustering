@@ -1,0 +1,55 @@
+When most people leave the hospital after a lengthy stay, they probably assume they won’t be coming back again soon to deal with the same problem. Unfortunately, that’s often just wishful thinking. In fact, re-admissions — sometimes within just a couple weeks — are such a big problem that the Affordable Care Act (aka Obamacare) includes measures to address the problem.
+
+Put simply, the law provides financial incentives for hospitals to improve readmission rates and financial sticks with which to punish hospitals where the problem persists. Improve the problem, get more funding. Keep readmitting patients within short windows after discharge, don’t get paid for treatment. The latter scenario is bad for patients and bad for hospitals.
+
+Advertisement
+
+According to studies, about a quarter of Medicare patients treated for heart failure are readmitted within 30 days, and heart-failure re-admissions alone cost Medicare about $15 billion a year. Predictions about how many of those are preventable range from less than 20 percent up the the Department of Health and Human Services estimate of 75 percent.
+
+Advertisement
+
+“If you can predict that, that’s a huge, huge cost saving for the hospitals,” said Ankur Teredesai, who manages the Center for Data Science at the University of Washington, Tacoma.
+
+Advertisement
+
+However, help might be on the way thanks to a research project by Teredesai and his Center for Data Science colleagues. It’s called the Risk-O-Meter, and it’s already being used by one hospital system in the Seattle area. Now, the researchers who created it are looking to commercialize it, either by licensing the access to the cloud-based service or by starting their own company.
+
+Advertisement
+
+Advertisement
+
+Under the hood of the web and mobile applications that allow doctors to enter patient information and receive a risk score is a machine learning system that analyzes more than 100 attributes about each patient. These range from standard stuff such as vital signs, lab results and medical history to more-personal stuff such as a patient’s demographic information and living conditions.
+
+Advertisement
+
+However, the Risk-O-Meter has much more utility than simply as a one-off risk-scoring app, Teredesai explained. Risk scores change as patients progress through treatment, helping doctors to evaluate treatment options on an ongoing basis. Even after patients leave the hospital, hospital staff can benefit from alerts indicating it’s a good time to check up on a patient, or to call with reminders about taking medication.
+
+Advertisement
+
+Doctors can also drill down into the data in order to figure out what factors are causing a score to spike. This type of analysis is important because a high score could be caused by a non-medical factor that’s easy enough to account for once a patient is discharged. For example, Teredesai said, “The chances of then getting readmitted are higher — much higher — if [patients] live alone. … The models actually show that.”
+
+Advertisement
+
+On the treatment front, he noted that although doctors will often keep patients for 13 days after heart failure, the project’s models show that risk scores drop significantly after 10 days, but then rise again after 13 days. So perhaps those three extra days aren’t really necessary, and might even help cause a readmission, Teredesai said.
+
+Advertisement
+
+The Risk-O-Meter team is also working on a way to help doctors evaluate the effectiveness, or risk, of various intervention options, although Teredesai noted that’s still a work in progress. It’s potentially a very valuable tool, though, because a system that can model specific treatments against the profiles of specific patients could result in more effective treatment plans.
+
+Advertisement
+
+The team also wants to integrate the risk-scoring system into existing electronic medical records systems in order to cut down on the number of tools doctors have to use.
+
+Advertisement
+
+Advertisement
+
+Teredesai said the system was designed with privacy in mind, which is why it runs on a HIPAA-compliant cloud platform (Microsoft Azure) and lets hospitals choose what data they want send for analysis. Whatever they send, though, it remains anonymous and is discarded once it’s scored against the models. The system doesn’t keep any patient info, he said.
+
+Advertisement
+
+We’ve seen a lot of activity — and a lot of capital investment — at the intersection of big data and health care, but many efforts, including IBM Watson and startup Lumiata, are more diagnostic in nature. A lot have been strictly academic research or the results of individual hospital systems analyzing their own data.
+
+Advertisement
+
+What might be most appealing about the Risk-O-Meter is that it’s a broadly deployable cloud service that promises better patient outcomes while also helping hospitals where it matters most to them — their bottom lines. Hospital CIOs and administrators know they need to do both, and anything that can plausibly deliver has to at least get a serious look.

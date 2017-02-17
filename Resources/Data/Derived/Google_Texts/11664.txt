@@ -1,0 +1,51 @@
+Mohit Kaushal, Kavita Patel, Margaret Darling, Kate Samuels, and Mark McClellan
+
+April 1, 2015
+
+Broadband access is not usually highlighted in policy prescriptions for improving outcomes and lowering costs of health care. But it is a prerequisite for a range of technologies that can provide more cost-effective and higher-quality care, such as video consultation, remote patient monitoring, and electronic health record operability. And in many places—particularly rural areas that have the most to gain from telemedicine and connectivity—broadband remains too expensive, unreliable, or simply not available at the speeds required to enable innovations in care. This “connectivity gap” remains an important obstacle to achieving better care in rural areas.
+
+Federal statutes and regulations provide subsidies, administered by the Federal Communications Commission (FCC), that attempt to close the connectivity gap. But these subsidies have been underutilized because they are too hard to use; they have also not kept pace with changes in health care delivery and broadband technology. Below, we examine the connectivity gap and current federal efforts to address it, and we offer proposals to make those efforts more up-to-date and effective.
+
+The Components Of The Rural Broadband Connectivity Gap
+
+Health care providers can purchase broadband access through mass market options, which are similar to the internet access purchased by individual consumers and can meet the bandwidth needs of most small providers (four or fewer clinicians). Nationally, only 1 percent of small providers lack any broadband connectivity, but an estimated 7 percent of those in rural areas continue to lack adequate access.
+
+Further, larger health care providers generally require Dedicated Internet Access (DIA) options, which offer higher bandwidth and greater reliability to support acute service provision. DIA broadband is also available for providers that do not have access to mass-market broadband. But DIA’s higher bandwidth and greater reliability comes with much higher prices in rural areas—as much as three times as expensive compared to urban areas—leading to a larger connectivity gap for more advanced medical services.
+
+Especially for telemedicine and other services that require rapid and reliable transmission of high volumes of clinical data, the broadband connectivity gap can be a considerable barrier to improving rural health.
+
+Current FCC Funding For The Rural Health Care Program
+
+Substantial Federal subsidies are available to address many of these barriers to rural broadband access, but their impact so far has been limited. The Telecommunications Act of 1996 established the Rural Health Care Program (RHCP), which was intended “to improve the quality of health care available to patients in rural communities by ensuring that eligible health care providers have access to telecommunications and broadband services.” Within the RHCP, subsidies for three types of services are available to public and non-profit health care providers: telecommunication services for rural providers (Telecommunications Fund); internet access for rural providers (Internet Access Fund); and one-time capital costs for network deployment with five years of support for costs of advanced telecommunications and information services for rural and urban providers (Pilot Program).
+
+In 2010, the FCC published recommendations in the National Broadband Plan to improve the impact of the RHCP. Addressing some of these recommendations, the FCC created the Healthcare Connect Fund in 2012 to support internet access and broadband infrastructure. Support for infrastructure was formerly funded through the Pilot Program to cover 85 percent of eligible costs; moving forward, the Healthcare Connect Fund will pay up to 65 percent of costs.
+
+Despite these initiatives, the RHCP resources continue to be underused, and its goals have not yet been realized. RHCP spending is capped at $400 million a year, but total spending commitments made to date in 2013 and 2014 has been far less, only $178 million and $65 million respectively. Cumulative spending for the Telecommunications and Internet Access Funds over the first 12 years of the RHCP did not exceed the single-year cap.
+
+Closing the Connectivity Gap: A High-Impact Rural Health Care Broadband Program
+
+Many of the recommendations outlined in the 2010 National Broadband Plan have not yet been implemented, despite their potential to reduce the connectivity gap and increase the Program’s impact on health care. In addition, there are a number of other innovations that would adapt the RHCP to meet the changing connectivity needs of today’s health care providers. We have three recommendations for how to strengthen the RHCP’s impact on health care provision that could be implemented using available funds:
+
+1. Make it easier for rural health care providers to use broadband support. The uptake rate by providers that are eligible for RHCP funding is low. Despite available funds, less than a quarter of the approximately 11,000 eligible providers participate. When asked, many cited an application process they viewed as onerous, and subsidies that seemed low relative to costs and required efforts to implement the program. Streamlining grantee requirements would lead to more participation:
+
+The FCC should simplify the application process and provide greater clarity on the level of support that providers can reasonably expect.
+
+The FCC should accept outcome metrics as defined by other governmental entities, such as Centers for Medicare and Medicaid Services’ Accountable Care Organization metrics and Meaningful Use requirements, so as to reinforce evaluation metrics already being asked of providers.
+
+The FCC should increase infrastructure support provided by the Healthcare Connect Fund to no less than 85 percent of all eligible costs as in the RHCP pilot. This is especially important for rural providers who seek to take advantage of payment and delivery reforms like medical homes, bundled payments, and accountable care organizations, which are particularly likely to depend on telemedicine and better communication capabilities to succeed.
+
+2. Expand eligibility requirements to include more health care providers. Current RHCP eligibility requirements exclude some entities that are a part of care delivery. For example, transformations in care delivery are increasingly moving care to settings outside of hospitals (such as nursing homes, hospices, and other long-term care facilities). Yet the current FCC definition of “health care provider” excludes many of these settings. Although the FCC created the Skilled Nursing Facility Pilot Program to evaluate how to support broadband connections to skilled nursing facilities explicitly, implementation of the program was deferred and other types of health care entities remain ineligible. Further, for-profit providers are ineligible for RHCP funding, despite the fact that they are important sources of access to care for many vulnerable populations. Funding eligibility should be expanded to include organizations that are critical parts of health care provision in rural communities in need of broadband access support:
+
+The FCC should use a more inclusive definition of “health care provider” for RHCP eligibility to include all entities involved in delivering care and remote patient management.
+
+Congress should expand eligibility to include for-profit providers that serve vulnerable populations, using existing definitions in the Centers for Medicare and Medicaid Services and Health Resource and Services Administration programs.
+
+3. Adjust the RHCP to address the rapidly changing broadband environment. The landscape of need for broadband access within health care is changing rapidly. The connection speeds supported by the RHCP’s various mechanisms are not keeping pace with the increased volume and complexity of required data files. For example, 82 percent of spending from the Telecommunications Fund supported connections of 4 Mbps or less, which is a sufficient speed for single-physician practices but is not adequate for many multi-physician practices, clinics and hospitals that are also participants in the Program. To assure that RHCP funding keeps up with practice needs:
+
+The FCC should publish a Health Care Broadband Status Report every several years describing the current state of the connectivity gap in the US in order to inform use of the Healthcare Connect and Telecommunications Funds.
+
+The FCC should regularly update RHCP funding guidance to reflect these findings.
+
+Conclusion
+
+Broadband access is increasingly important for high-quality health care, particularly care involving telemedicine, and reforming the FCC’s programs to support rural broadband access is an opportunity to close the “connectivity gap” that is a barrier to high-quality care in rural areas. In addition, greater coordination among federal agencies is essential to ensuring that funding improves health outcomes. Having one agency—such as the Centers for Medicare and Medicaid Services—coordinate various sources of funding for health IT and care improvement would ensure that programs leverage each other to achieve their shared goals.

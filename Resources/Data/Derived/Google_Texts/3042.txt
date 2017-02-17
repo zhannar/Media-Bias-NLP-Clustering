@@ -1,0 +1,31 @@
+Amazon’s plans for autonomous flying delivery drones are so last year. The ecommerce juggernaut is purportedly working on something far more dystopian: pre-shipment.
+
+Amazon has filed a patent for a shipping system designed to cut delivery times by predicting what buyers are going to buy before they buy it — and shipping products in their general direction, or even right to their door, before the sales click even (or ever) falls.
+
+Which really is one more step towards cutting out human agency entirely from the ecommerce roundabout. Why not have machines autonomously buy stuff from other machines and have a third set of autonomous bots deliver it — while the quaking flesh recipients who open the door meekly accept whatever packages they are getting in the hopes that yet more machines won’t decide today is the day to harvest their organs.
+
+[Aaaand right on cue, the doorbell rings. It’s a delivery man, with — you guessed it — an Amazon parcel for me. This interaction should be entirely normal but there’s a distinctly sinister undertone, even though I’m 99.9% sure that the thing inside the box is something I ordered last week, not something Amazon thinks I’ll want to order next week. Or the thing I ordered a few minutes ago. But that, presumably, is exactly where Amazon is aiming to go.]
+
+The patent, which was filed in August 2012 and granted December 24 last year, describes a method for what Amazon calls “anticipatory shipping” — with one pre-shipping scenario (of the multitudes detailed) being as follows:
+
+…a method may include packaging one or more items as a package for eventual shipment to a delivery address, selecting a destination geographical area to which to ship the package, shipping the package to the destination geographical area without completely specifying the delivery address at the time of shipment, and while the package is in transit, completely specifying the delivery address for the package.
+
+The anticipated location of packages might be determined by analysing various “business variables”, according to the patent. Data that could be analysed to determine customer demand for a particular pre-shipped package to help decide where to route it geographically could include historical buying patterns, preferences expressed explicitly via surveys/questionnaires, demographic data, browsing habits, wish-lists and so on.
+
+The patent also goes on to discuss in detail various scenarios for “speculatively shipping” packages to destinations and how to re-route items based on proximity to potential customers — and even how packages might remain in near continuous transit on trucks until a customer makes a purchase.
+
+At times the language of the patent sounds as if Amazon is thinking of physical item delivery in the way a utility might approach supplying water or electricity to homes — by forecasting demand spikes and lulls, and tweaking its pipeline accordingly, but above all by keeping the stuff flowing (ergo having trucks constantly filled with packages in continuous perpetual motion).
+
+Such a system would likely require an overhaul of its existing ecommerce inventory and time-management systems (assuming Amazon hasn’t already started deploying the apparatus to support anticipatory shipments) — to make them more dynamic and responsive. But that in turn may allow for better inventory management, as the patent notes
+
+… speculative shipping of packages may enable more sophisticated and timely management of inventory items, for example by allowing packages to begin flowing towards potential customers in advance of actual orders.
+
+And in those instances when the demand prediction algorithm fails, as well it must, the patent suggests Amazon could deliver the package anyway — as a gift to someone who hasn’t actually clicked to buy it yet, but who, its data analysis suggests, might quite like it — i.e. if the cost of returning/rerouting the item exceeds the cost of paying a surprise visit to a pre-customer.
+
+Which could either be a great surprise, or hideously inappropriate — depending on how good an oracle Amazon’s algorithm turns out to be. Inappropriate like delivering a DIY Will pack to someone who has already died, say. Or kids toys to bereaved parents. Anticipatory algorithms are going to have to navigate plenty of human pitfalls if they’re not to end up clanging on the doorbell.
+
+In the U.S. Amazon paved the way for carving a huge chunk out of the ecommerce pie by patenting the right to one-click buying, all the way back in 1999. That patent has stood it in excellent stead over the years, requiring other ecommerce players to license this method if they want similarly speedy checkout processes.
+
+Pre-shipping has the potential to let Amazon do that again by taking the online buying process to the proverbial ‘next level’ — and some. Clicking buy and getting your stuff hours or minutes later would be huge. Albeit, in future it could well be a case of: Amazon users, be careful what you wish(-list) for.
+
+(Via the Wall Street Journal)

@@ -1,0 +1,85 @@
+The future of enterprise software is anything but boring. Andreessen Horowitz partner Scott Weiss aptly predicted his guest post titled “30 New Franchises” a few weeks ago, there a massive opportunity to create new multi-billion-dollar enterprise franchises despite incumbents throwing massive amounts of money to acquire these franchises. These companies, such as Box and many others, are choosing to stay independent. Weiss himself should now–he sold his enterprise company IronPort Systems to one of the most well known incumbents in the space, Cisco, back in 2007. And we decided to create an enterprise panel at Disrupt SF around Weiss’ predictions, with the CEO’s of Box, Zendesk and Nebula (you can still buy tickets here).
+
+We sat down with Weiss to hear more about his theories behind “30 Franchises.” You can read the entirety of our conversation below.
+
+Leena Rao: Describe the basic premise around your guest column about 30 New Franchises.
+
+Scott Weiss: Absolutely! So I think I am just trying to point out a couple of things around the enterprise opportunity. Quite honestly I think this is the best time I’ve ever seen to be an investor in enterprise technology. I don’t know how long you’ve been a beat reporter for enterprise, but I can’t imagine a more boring job over the last 20 years. Just think about Oracle, Microsoft, beating earnings by a penny, they buying another company. There was just nothing that dramatic or that interesting going on.
+
+And now all of a sudden it like that all the major enterprise companies are vulnerable, and not just a little bit vulnerable, but vulnerable like everything is changing underneath them.
+
+Let’s talk about Microsoft for a minute. Microsoft’s dominance in the enterprise was always predicated on 97 percent PC market share, and everything was kind of born out of that because the Microsoft stack was not just what was on the PCs, but it was all the email and with Exchange and SharePoint. And plus, once they were in the enterprise, they were also able to shove in all kinds of other products.
+
+Now between the tablets — as fast as we went from PCs to laptops, we’re going to go from laptops to tablets, and Microsoft is nowhere to be found; and not only are they nowhere to be found, but they made, I believe, such a strategic error by holding back Office thinking that that was going to be their trump card. When we finally come out with a tablet it’s going to run the office, and it won’t run anywhere else, well, that went over like a lead balloon, right?
+
+LR: Right.
+
+SW: So now, again, they are going through a big transition, and then you think about Oracle who had been buying up every single one of the on-prem software makers including PeopleSoft. There are four or five of the companies that they bought across every application stack. And then lo and behold, all of them are going SaaS, and hats off to Larry Ellison that he did invest early. I think he is a majority owner of NetSuite.
+
+This is the best time I’ve ever seen to be an investor in enterprise technology.
+
+So I kind of joked that at some point he may just go over and take the CEO role at NetSuite. There may be a jump as he realizes that this isn’t a whole rollup that he did with Oracle. Almost like a Computer Associates-like rollup. It feels like NetSuite might actually be the better bet because that platform and that business is much more attuned to all the businesses that he will probably be buying. That might be a better vehicle than Oracle itself, which is a really interesting issue.
+
+So it’s a long way of saying that the incumbents don’t have the skills, don’t have the wherewithal necessary to compete in this new world, and I don’t think the acquisitions are working. Having been at Cisco when they bought a SaaS company which was IronPort, they don’t have the systems to sell IronPort, the salespeople, the comp plan, it just goes a different culture of running a 24×7 services organization as opposed to selling boxes into the data center.
+
+LR: So I think that’s a good segue into my next question, which is, what changed? I would say there was a flurry of acquisitions happening with incumbents picking up whether they’d be a billion-dollar company or several-hundred-million-dollar company or even a smaller acquisition. What changed in companies like Box and so on and so forth turning down acquisition offers, and instead pursuing independence?
+
+There is a lot of talk about how the enterprise as consumer cooled off in the public markets. Enterprise has heated up I think because of companies like Workday and others. And so, is it because there is now this real sort of excitement from Goldman Sachs and Morgan Stanley around enterprise and they actually feel like they can stay independent and not have to go down the route of acquisition?
+
+SW: Well, I think you’ve got two interesting data points. One of those data points are Salesforce and Workday, and those two founders of those companies are not going to sell. If you know the story of Marc Benioff and coming out of Oracle and the story of David Duffield and Aneel Bhusri you’ll understand. With the later two founders, they got their company kind of stolen out from under them, and these are two entrepreneurs that said, all right, never again. We’re not selling, not for sale for any price. And look at the prodigal that was in the other side of those two companies.
+
+One is 10 billion, the other one is just 30 billion. And so if you have the guts, like Aaron Levie, to stay the course, there is a major franchise on the other end of that line, and these are entrepreneurs that are not going to sell at any price.
+
+LR: So where does this lead incumbents if they can’t apply some of these game-changing technologies in SaaS mobile, the data center. Are they just going to become the dinosaurs?
+
+SW: Sure, so for years Computer Associates’ side of strategy of buying up the old — because these technology changes take years and years and years. And so the Computer Associates strategy was, we’re going to buy these technology companies. We’re going to mop up all these — kind of all this old technology and raise the service prices and just kind of live off those annuities and they look for years off of that and they are like, you could certainly see Oracle follow that strategy.
+
+Salesforce was never architected for the type of cloud computing that’s going on at Facebook and Google, and so they’re going to have to react to that.
+
+There are going to be people that are going to be living on Oracle for years before they go off and all the kind of the legacy PeopleSoft and they can certainly raise prices almost with impurity. So I think that’s a potential strategy. I think they can try to change as well, like they can try to make the leap. I just think the premise of the 30 New Franchises is, it’s going to be really, really hard for them to cross the chasm.
+
+There’s just too many things changing at once, and I even look at a company like Salesforce. Salesforce was never architected for the type of cloud computing that’s going on at Facebook and Google, and so they’re going to have to react to that. And they also were never architected for mobile, and that’s another thing they are going to have to react to.
+
+If you are in an incumbent, you can certainly react to one big technology change and maybe you can react to two. The premise of the post is, I don’t think you can react to three.
+
+LR: So you mentioned how some of these franchises are competing for talent especially in the design area. I want you to sort of expand a little bit on that. How does 30 New Franchises affect talent and recruiting in the enterprise?
+
+SW: So the interesting part about mobile, and this is very specific to mobile and the mobile experience, is that you have a very small palette to work with. The mobile phone is almost like a remote control, when I think of like a TiVo remote control: you push a button and something happens. And you look at some of the great mobile apps like Lyft or Instagram; where literally you walk outside, you push here I am, and a car shows up to pick you up or you push Instagram.
+
+And that type of ease-of-use with just limited functionality has been so far removed from the enterprise world. And so in order to get those kind of innovations that a Lyft or an Instagram put on a mobile device for consumers, you are going to need kind of a completely new class of UI designer that are incredibly hard to hire. And you can imagine these folks coming out of Rhode Island School of Design or other places where they just kind of the best user interface places in the world that are in hot demand. And this demand comes from consumer companies which hit the personality of a designer a lot better than an enterprise company.
+
+How do you get them to go work for an enterprise company? It’s not like you can just go pay the money, it has to be a culture where their work is appreciated and where a great design is revered.
+
+I remember hearing those early stories of Apple where, if you worked in manufacturing in Apple, it was like the worst job in the world, right? I remember this story about Steve Jobs — didn’t want a seam on a couple of the aluminum products, whether it’d be an iPod or a MacBook, and they had to get flying in these aluminum extruding machines from Sweden in order to accomplish it. And I remember the manufacturing people were just going nuts and he was just like, I don’t care, like go figure it out, that’s your job. And I just don’t think enterprises — enterprises are just, in general, designed for manufacturability, designed for efficiency, and not designed for aesthetics or designed for ease-of-use. And this is a bit of a sea change when it comes to mobile.
+
+And so I think they are going to have a really hard time hiring them. Something that I put in the post was, all of our consumer companies, even though they had great designers for web, had a complete “oh shit” moment around trying to find designers for mobile.
+
+And even if you look at a company like Facebook, they must have hired on or acquired 10-plus mobile teams over the last few years if you look at all the teams they acquired in addition to buying Instagram. That’s a real reaction to mobile. None of the enterprise companies have had that kind of reaction yet.
+
+LR: For example Box acquiring Crocodoc–that’s a bet on mobile.
+
+SW: I would not doubt it. I think that Box is expanding its use-case and then also getting much better at mobile. But Box was kind of made for mobile. I mean, the great thing about the whole thing about Box was that it makes it very easy to transfer files on and off your computer and your mobile phone and make it a seamless experience.
+
+LR: Some of the companies you mentioned are early stage, some of the companies you mentioned are later stage, who may be at the brink of, within the next year, becoming a public company or going up on that path.
+
+Is there a risk for some of these later-stage companies that could become these franchises, turning into the incumbents, and do you think that the CEOs of these companies are thinking more thoughtfully about how not to be blind to disruption?
+
+SW: Well, I think they have now — there has been enough folks that have sold. When you sell a company to somebody that doesn’t know what to do with it, it ultimately dies. Sometimes it dies a slow painful death. I think there are now enough companies that have sold the SaaS company to an incumbent where you can’t sell the product, it doesn’t mesh with their existing product line, it’s painful.
+
+All of our consumer companies, even though they had great designers for web, had a complete “oh shit” moment around trying to find designers for mobile.
+
+I think that the Salesforces and the Workdays of the world will have a much easier time of integrating a company and making that company successful, because it kind of looks and smells like what they are already doing.
+
+In the early days of Cisco, when Cisco was acquiring other switch and router technologies, those executives stayed on for 10 or 15 years at Cisco and helped Cisco become the company that it is today.
+
+When you go so far afield to acquire companies that are just doing some things that are so different than what you are doing, if it doesn’t snap into an existing product line or if it’s not something that’s easy for the existing Salesforce to sell, it’s just a bad experience for that acquired company that acquired management team.
+
+And so I think word has gotten around a bit that if you are going to go — it’s not just like you are selling your company, all your employees are now going to have to go through this experience. The combination of it being a bad experience if somebody doesn’t know what to do with this particular type of company, it’s less of an appealing option to sell the company because I think most entrepreneurs say, okay, I am graduating to a bigger poker table, right?
+
+Like I was playing kind of in the regionals and now I am going to the world series of poker when I sell a company to a company and I feel like I am kind of moving up. But if you are selling a company where the likely case is it’s just the money and they are going to slowly kill the company, that’s not a very exciting prospect.
+
+So the combination that you have Salesforce and Workday, that have these amazing market caps, it looks like they are plowing new ground in the enterprise, and you have these affordable experiences of selling companies to incumbents that don’t know what to do with these startups, because it just looks and feels and smells so different than what an incumbent is used to doing. I think that that’s the opportunity for the 30 New Franchises.
+
+LR: Where do you feel like there is still a huge opportunity for disruption in the enterprise?
+
+SW: I don’t think I really emphasize just how magical I believe a CRM app can be. You know that I’ve just called that person, you can look at my dialer and the notion of dialing out on my phone to a customer is actually something I should be logging into my CRM app and it does it automatically or when I arrive at a customer’s side, it knows my location from GPS and pulls up everything I need, including new sources and other things that might have happened in the last 10 minutes that I might be able to surprise the customer or delight the customer with.

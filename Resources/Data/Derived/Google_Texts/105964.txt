@@ -1,0 +1,71 @@
+Marc Berk
+
+May 12, 2015
+
+A May 5 government report claims that over 16 million Americans have obtained coverage as a result of the Affordable Care Act. This estimate, as well as others that are being or will soon be circulated, are based on rapid turnaround surveys conducted by telephone or over the web.
+
+Some of these efforts have gone through rigorous peer review and are being published in leading journals, including Health Affairs. While these efforts will encourage useful debate, it is important to recognize that in the past such surveys have been shown to underestimate the number of people who lack coverage.
+
+We will soon have estimates from sources using in-person interviews. These sources are likely to document a dramatic decrease in the number of Americans who lack health insurance. It is understandable that there is intense interest in results under the ACA, but caution is warranted in using results from the rapid turnaround surveys.
+
+The ACA debate remains polarized; and those of us who support the law will not be helped by any research that is subsequently shown to have undercounted the uninsured and thus even moderately inflated the actual number of people who obtained coverage.
+
+The Methodological Issue Behind The Debate
+
+Surveys of insurance coverage have been among the most difficult to conduct over the phone. Phone surveys often produce incorrect estimates that overcount the number of people who have coverage. There are two major types of errors that occur in these surveys.
+
+One is measurement error — people may not report as accurately over the phone as they would in an in-person interview; some will report they are covered when they are not. They may have an expired policy, or a survey respondent who reports for the whole household may not realize that not all family members are covered under the policy. These errors are reduced when surveys are conducted in-person.
+
+The second problem is nonresponse error; many people refuse to be surveyed, and those who don’t respond to the survey may have different coverage than those who do.
+
+The efforts the Government makes to collect insurance data are exhaustive, expensive, and take time to implement, but they do produce accurate estimates. Among the most widely respected national health surveys are the National Health Interview Survey conducted by the National Center for Health Statistics, and the Medical Expenditures Panel Survey conducted by the Agency for Health Care Research and Quality. These surveys are usually conducted in-person. Interviewers receive extensive training, including how to examine insurance cards and other documents a survey respondent may need to accurately report coverage.
+
+Most importantly, the surveys have high response rates — the majority of those asked to participate do so. Their downside is timeliness. Complex surveys take time to field, to process the data, and to make it available for analysis. Full data release of all variables collected over the entire field period can take more than a year.
+
+Reasons For Caution
+
+The interest in conducting timely evaluation of the ACA has generated more interest in and use of quick turnaround surveys. The Urban Institute has released a comprehensive report detailing the strengths and limitations of seven new surveys conducted in the private sector that are able to produce estimates much faster than the usual Government surveys that generally have been used to monitor insurance coverage.
+
+Some of these rely on telephone data collection, but there are also some efforts to create panels of persons who agree to regularly participate in surveys using the web. The panels are recruited randomly and those without computers are provided with free computers, as well as internet access.
+
+There is an important but limited role for such quick turnaround efforts. They can inform us about a variety of issues relevant to health care reform. Most opinion research is conducted using quick turnaround surveys; since opinions research is very dynamic, data must be collected and then almost immediately released. In 2012 and 2014, these surveys were very useful in making election predictions. The web and phone panel surveys that have been developed allow us to conduct longitudinal studies of public opinion, knowledge of ACA provisions, and certain types of behavioral issues.
+
+However, producing estimates about public opinion involves different challenges than fact-based estimates such as coverage status, and there is little clear evidence to show that phone or internet surveys are effective in counting the uninsured. Response rates for both quick turnaround phone surveys and web panel surveys are proprietary but known to be between 5 and 10 percent. By contrast, for federal surveys the Office of Management and Budget (OMB) requires a detailed plan to assess bias on any survey with a target response rate of less than 80 percent.
+
+The OMB rules might be somewhat archaic; while surveys conducted by the Census Bureau can still approach 90 percent, many government health surveys fail to hit the 80 percent level. Government sponsored general population surveys, however, will almost always have response rates exceeding 60 percent; this includes government phone surveys that have longer field periods than the fast turnaround surveys described above. The National Health Interview Survey and the Medical Expenditures Panel Survey both have high response rates and conduct most of their interviews in person.
+
+How Phone Responses Are Different
+
+Survey experts have long known about the difficulty of collecting information about insurance coverage over the phone. Almost 25 years ago, researchers who designed a survey for the Robert Wood Johnson Foundation concluded that “any efforts to generalize from persons in telephone households about the likelihood of risk of being without insurance… are extremely treacherous.”
+
+A few years later I was the lead investigator on another access survey sponsored by RWJF. Most respondents were interviewed over the phone, but based on the previous effort we conducted in-person interviews with respondents who didn’t have phones. This procedure eliminated the problem of households without phones, but our approach only corrected for about half of the undercount of the uninsured.
+
+It turns out that it’s not just whether or not you live in a household without a phone — telephone respondents answer insurance questions differently. In 2006, staff at the National Center for Health Statistics conducted an analysis and concluded that for most variables use of phone interviews did not increase bias. But they were clear, “One important exception was lack of health insurance.”
+
+It should be noted that while these evaluations were of telephone surveys, they were surveys that had achieved response rates of over 70 percent. Despite these high response rates significant undercounts of the uninsured occurred. If these undercounts were found in telephone surveys with response rates of 70 percent, how likely is it that phone and web surveys with single digit response rates are getting it right?
+
+The Limitations Of Weighting
+
+When organizations that conduct low response rate surveys describe their methodology, they invariably note that their data is “weighted” to adjust for non-response bias. Thus, if women or Hispanics or the poor have high rates of nonresponse, the answers from persons in those groups who choose to respond are given greater consideration so that all key groups are proportionally represented. The problem is that developing corrective weights for any subgroup only works if members of these groups who respond have rates of coverage similar to those who don’t.
+
+Weighting is an important and often necessary step in making survey estimates, but there are limitations to what it can accomplish. Weighting doesn’t help if the factors influencing survey response are also associated with the probability of coverage. Consider the following hypotheses:
+
+People who don’t like spending a lot of time on the phone are less likely to be in a phone survey and were also less likely to have bought insurance over the phone from an Exchange.
+
+People who don’t like spending time on the internet don’t do web surveys and don’t purchase insurance through the web.
+
+People who don’t see a need for insurance don’t follow the issue carefully. It isn’t a salient issue for them so they don’t buy insurance and are also less likely to be interested in a survey about insurance.
+
+If any one of these were true, it would likely bias survey results.
+
+Many survey methodologists have argued that too much attention is being placed on response rates and I generally agree. But there are limits. Those of us who believe a 50 percent response rate yields similar data as a survey with a 70 percent rate don’t believe that any response rate at all is acceptable.
+
+Looking Forward
+
+So how will this issue play out? As noted, the Federal Government’s standards for surveys are high and government researchers usually stick to surveys that can withstand extensive scrutiny. In 2015, however, the Department of Health and Human Services (HHS), responding to tremendous interest, has chosen to make estimates based on private-sector quick turnaround surveys.
+
+As mentioned earlier, on May 5, the HHS Assistant Secretary for Planning and Evaluation reported that 16.4 million Americans had gained coverage. The Government estimates were derived from ASPE’s analysis of Gallup Healthways Wellbeing Survey, conducted by phone. To add to the confusion, as the HHS report was released, Gallup announced that the government estimate was inconsistent with Gallup’s analysis of the data; Gallup estimated that less than 10 million people obtained coverage.
+
+The wait for insurance data from government studies featuring higher response rates and in-person interviews will be a short one. An evaluation of improvements in coverage among young adults using 2014 data from the National Health Insurance Survey has already been published. Hopefully, the results from these Government surveys will not contradict the findings that HHS has already released, but I anticipate we will find that those without coverage were undercounted.
+
+If it turns out that the number of uninsured was not accurately measured, future coverage estimates should return to the methods that have served us well. We might also consider allocating additional resources to strengthen and expedite the release of critical Government surveys that will help us better evaluate the ACA.

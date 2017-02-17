@@ -1,0 +1,27 @@
+By RICARDO ALONSO-ZALDIVAR, Associated Press
+
+WASHINGTON (AP) — The web portal used by millions of consumers to get health insurance coverage under President Barack Obama's law logged 316 security incidents in just under 18 months, said a report Wednesday by nonpartisan congressional investigators.
+
+The Government Accountability Office said none of the security incidents appeared to have led to the release of sensitive data on HealthCare.gov, such as names, birth dates, addresses, Social Security numbers, financial information, or other personal information. Most of the incidents appeared to have involved electronic probing by hackers.
+
+However, GAO said it identified weaknesses protecting sensitive information that flows through a key part of the HealthCare.gov system called the data services hub. Operating behind the scenes, the hub pings federal agencies such as Social Security, IRS and Homeland Security to verify the personal details of consumers.
+
+
+
+Overall, 41 of the security incidents involved personal information that was either not properly secured or was exposed to someone who wasn't authorized to see it. Nearly all of those were classified as having a moderately serious impact.
+
+Federal computer systems — from the Defense Department to the White House — are frequent targets for hackers. The incidents on HealthCare.gov took place between October 2013 and March 2015. The health insurance website offers subsidized private plans for people who don't have access to workplace coverage.
+
+HealthCare.gov's data hub is one of the administration's major technology projects, and has generally been regarded as successful. Even as the consumer-facing part of HealthCare.gov crashed during the botched rollout of the health care law in 2013, the hub continued to operate smoothly.
+
+However, GAO said it found shortcomings with the hub, including insufficiently tight restrictions on "administrator privileges" that allow a user broad access throughout the system, inconsistent use of security fixes, and an administrative network that was not properly secured.
+
+GAO said it also found security weaknesses in health insurance websites operated by three states. It faulted the federal government for not closely monitoring state-based health insurance websites. Twelve states, and Washington, D.C., run their own websites.
+
+
+
+The report was released by Republican committee chairmen in the House and Senate on the sixth anniversary of the health care law, even as the administration was talking up the achievements of the Affordable Care Act, notably millions more people with coverage. The lawmakers are asking the administration for more information on security issues.
+
+In a formal response to the report, the Health and Human Services department said the security and privacy of consumer data is a top priority. The administration accepted GAO's recommendations for improvements.
+
+Separately, GAO said it also submitted 27 cybersecurity recommendations in a separate report that isn't being made public because of its sensitive nature.

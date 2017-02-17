@@ -1,0 +1,37 @@
+Walk into the San Francisco office where HealthSherpa.com was created, and it looks like any startup. Founder Ning Liang points to the cappuccino machine, the bike rack, a futon for naps and four desks.
+
+But, he clarifies, his team didn’t need all of them. “Actually it was just three of us, over the course of about maybe three days.”
+
+To be fair, HealthSherpa serves a very limited purpose. It just helps online shoppers get price quotes and contact insurance companies. It’s not integrated with the Social Security Administration or the Internal Revenue Service.
+
+Liang says his site is not a full-on replacement for the government’s site. “They’re saying, ‘This is the Affordable Care Act portal.’ And we’re saying, ‘Shop here.’”
+
+Liang, who’s 27, goes to his Mac and pulls up the two websites for a side-by-side comparison. The homepage of Healthcare.gov has three buttons, “and then a bunch of icons that look like buttons but actually aren’t buttons.”
+
+If you manage to click the right link, you have to plow through about half an hour of questions and legal jargon before ever getting an estimate.
+
+At HealthSherpa, there’s just a box for your zip code. Hit enter, and get basic prices for local insurance plans. “We want you to get that payoff as soon as possible, maybe 5 seconds.”
+
+Liang says about 85 percent of users complete the process, from entering their zip code, age and family information, to getting insurance estimates and contacts.
+
+Liang is not the only one with tips on how to build an e-commerce site. If you call around Silicon Valley, every other CEO has advice for the government.
+
+Take Tom Lounibos with SOASTA, which provides services to test websites and web applications: “It appears the journey was not tested end to end. They might have tested the ability to search for a plan.”
+
+Rob Bernshteyn, CEO of Coupa, a cloud financial applications company, says the scope of the website was just too broad: “Scope creep tends to develop in these types of deployments. People take shortcuts, get sloppy, redundant code.”
+
+Jonas Jacobi with Kaazing, which builds interactive platforms, says the government website was built on old technology: “Static platforms are the past. It’s like buying a used car. It won’t last.”
+
+Google, Oracle and Red Hat have joined the effort to fix Healthcare.gov. The Obama administration says it’s time to stop belaboring the problems because they’re in the midst of getting fixed.
+
+But a former federal government employee says we should fixate a bit more.
+
+Sumit Agarwal is a startup founder in Silicon Valley and a former head of Google’s mobile product management. In 2010 he joined the Obama administration, managing Internet contracts for the Department of Defense, where he worked for a year and a half. “I do think it’s an important case study. If we had a government that couldn’t build a bridge or lay a mile of road, we’d say it’s a dysfunctional government. In 2013, a website is absolutely a simple, core piece of infrastructure.”
+
+Agarwal says the Department of Health and Human Services got stuck in the traditional bidding process, which limited its choices of contractors.
+
+But there’s another federal agency that doesn’t have to do that. The Defense Department has a lot more leeway. That’s why the National Security Agency can build (and hack) some of the best websites. It gets to call the companies it wants.
+
+“In the name of national security, a DoD-oriented component can say, ‘Look, I have a totally legitimate, strategic need to be able to reach out to this private sector company. I’m not willing to go through the contracting process,’” Agarwal says. “That’s what allows DoD in many cases to go work with someone other than a large-scale government contractor.”
+
+Agarwal says if the health care people got as much freedom to choose private partners as the military people have, the next Healthcare.gov would be a better online shopping experience.

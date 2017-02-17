@@ -1,0 +1,119 @@
+RELATED LINKS JUDY WOODRUFF: Now: using big data to assess medical treatments and interventions and whether decisions for individual patients are the right choice for all of society.
+
+That’s not necessarily seen as the right way of making decisions in science and medicine when lives are at stake. But some believe it’s a critical consideration.
+
+Our science correspondent Miles O’Brien looks at how some thinkers in the field are challenging long-held assumptions.
+
+The story was produced in collaboration with the Pulitzer Center on Crisis Reporting.
+
+MILES O’BRIEN: This is where the line between life and death is drawn, an operating room at a hospital in a remote part of Nepal.
+
+Dr. Shree Ram Tiwari is performing one of the first C-sections in this part of the world, hoping to save the lives of Muna Buhl and her unborn child. It’s not going smoothly.
+
+DR. SHREE RAM TIWARI, Physician (through interpreter): The power cut out at such an important time, because the baby should keep crying after it’s born, but it wasn’t. We needed power for the suction machine.
+
+MILES O’BRIEN: Bringing C-sections to this remote corner comes not only with risks, but also a hefty price tag. The bills are paid by Possible, the American charity that runs the hospital.
+
+DR. SHREE RAM TIWARI (through interpreter): Nepal’s constitution talks about health rights, that every person should have access to health care. But that is not implemented.
+
+MILES O’BRIEN: While mother and child remain the focus for Dr. Tiwari as he copes with the power failure, the global health community tries to shed light on whether this surgery should have happened at all.
+
+Medical ethicist Peter Singer is a professor at Princeton University. He is a leading proponent of a philosophy called effective altruism.
+
+PETER SINGER, Professor of Bioethics, Princeton University: Effective altruists look for those health care programs worldwide that offer the low-hanging fruit. Where can you save lives most cheaply?
+
+MILES O’BRIEN: Effective altruists like Dr. Singer compare different interventions, and choose the one that provides the most bang for the buck. They might elect to pay for community health workers, rather than operating rooms.
+
+But human beings are not wired to respond in this dispassionate, systematic manner. This is why commercial appeals for charities often look like this:
+
+NARRATOR: Tiny, vulnerable Aisha won’t eat tonight or tomorrow. She is slowly dying.
+
+PETER SINGER: We are psychologically adapted to respond to individuals who we can see. But health care is a scarce resource. So, data is absolutely critical. We can’t know that we’re using our resources in the best way possible without data.
+
+MILES O’BRIEN: Dr. Chris Murray agrees. That’s why he is crunching the numbers, in an unprecedented way.
+
+DR. CHRISTOPHER MURRAY, Director, Institute for Health Metrics and Evaluation: We have a 20,000-core supercomputer, which is pretty ginormous.
+
+MILES O’BRIEN: Big data meets modern medicine.
+
+DR. CHRISTOPHER MURRAY: If you could identify all the bits of information out there, then you would be in the strongest possible position to empower people to make better decisions.
+
+MILES O’BRIEN: Murray is founder and director of the Institute for Health Metrics and Evaluation, a nonprofit that caters to other nonprofits seeking to place smart bets.
+
+He’s the global health equivalent of legendary baseball manager Billy Beane, who first applied big data to the Major Leagues, a story told in the 2011 movie “Moneyball.”
+
+ACTOR: You don’t put a team together with a computer, Billy.
+
+BRAD PITT, Actor: No?
+
+ACTOR: No. Baseball isn’t just numbers.
+
+BRAD PITT: Adapt or die.
+
+DR. CHRISTOPHER MURRAY: The difference is we’re not worried about winning the World Series. We’re interested in, how do you make people healthier?
+
+MILES O’BRIEN: The data shows that, globally, infectious diseases, the red boxes, are on the decline. The U.S. was declared free of polio back in 1979. But some countries continue to lag far behind.
+
+DR. CHRISTOPHER MURRAY: Go to Niger. Whoa.
+
+MILES O’BRIEN: Wow.
+
+DR. CHRISTOPHER MURRAY: Let’s see. There you go. There’s where…
+
+MILES O’BRIEN: That’s as dramatic as it gets, huh?
+
+DR. CHRISTOPHER MURRAY: We know how to get rid of infectious diseases, right, whether through public health or through medicine. And so this is addressable.
+
+MILES O’BRIEN: Quantity is one thing, but it’s harder to measure a person’s quality of life. So, Murray created a new metric, the Disability-Adjusted Life Year, or DALY.
+
+The equation is simple, the number of years lost to a premature death, plus the number of years of good health lost to a disease or injury. DALYs make it possible to measure the impact of different interventions and show that some hit a lot more home runs.
+
+DR. CHRISTOPHER MURRAY: Individual clinical care is great for that patient. You change their lives. But you don’t change the circumstances of their health, and if you want to do that, you have got to see the bigger picture.
+
+MILES O’BRIEN: In the U.S., the Affordable Care Act prohibits Medicare from using tools like the DALY to ration health care. Rationing is considered a dirty word, but Dr. Singer says the U.S. system is infused with it.
+
+PETER SINGER: We don’t call it that. We deny it. But, I mean, I think it’s a crazy system.
+
+MILES O’BRIEN: He offers the story of Martin Shkreli as a case in point. In September, the pharmaceutical executive became a poster boy for greed in U.S. medical care when he raised the price of an anti-parasitic drug from $13.50 to $750 per pill.
+
+PETER SINGER: By denying the existence of rationing, we’re just writing a blank check to whatever financial sharpshooter comes in and sees an opportunity to make outrageous profits.
+
+MILES O’BRIEN: Outside the U.S., there is less concern about applying big data to medicine in the form of DALYs. Mexico was an early adopter.
+
+Studies showed they should focus on things that may not kill, but cause a great deal of ill health, like depression and traffic injuries. And, in Africa, there has been a dramatic decline in the DALYs lost to malaria.
+
+PETER SINGER: This has saved millions of lives, and that has been largely data-driven.
+
+MILES O’BRIEN: But on the front lines, a statistic becomes a patient, and things are less cut and dried.
+
+In Guatemala, Crecencia Buch (ph) is battling for her life, threatened by cervical cancer.
+
+CRECENCIA BUCH, Cancer Sufferer (through interpreter): I was told I have cancer, and I only have seven months to live.
+
+MILES O’BRIEN: That was back in 2012. An American NGO, the Maya Health Alliance, has since spent almost $10,000 on radiation therapy, buying Crecencia few extra years with her children, and now her grandchildren.
+
+This is the sort of heartwarming image that has most donors diving for their wallets. But Peter Singer and the effective altruists remain unmoved.
+
+PETER SINGER: If you have data showing that you will save more lives through doing something else, then you should do the most good you can.
+
+MILES O’BRIEN: The DALY bottom line suggests the money would have had more impact if it had been spent on something else, like Pap smears to catch cervical cancer early.
+
+But some say DALYs are nothing more than a magic bullet approach that is destined to fail.
+
+DR. Peter Rohloff is founder of the Maya Health Alliance. He made the call to fund Crecencia’s treatment.
+
+DR. PETER ROHLOFF, Chief Medical Officer, Maya Health Alliance: Giving a mother four years with her children is precisely a conversation about living and not a conversation just about not dying.
+
+MILES O’BRIEN: Dr. Rohloff believes not everything can be captured by numbers.
+
+DR. PETER ROHLOFF: We should use big data, right? We should be making smart decisions about how we spend our money. But the other half of the global health equation is the right to health care. Dreaming about your life and where you want your life to go is a basic human right, and we need to, I think, include that in our algorithm, if such a thing were possible, right?
+
+MILES O’BRIEN: Back in Nepal, Shree Ram Tiwari works to resuscitate Muna’s baby without power.
+
+DR. SHREE RAM TIWARI (through interpreter): When there is no power, we have a manually operated suction device which works by breathing with your mouth.
+
+MILES O’BRIEN: The baby’s lungs fill with air, and a cry echoes through the operating room. The lives of both mother and child are saved, just as the lights come back on.
+
+Last week, a year-and-a-half on, we received this photo of Muna’s baby, Malishka. She may soon have a sibling, as Muna is pregnant again. There are no numbers that can adequately convey the value of this hospital, in this place, for this family.
+
+Miles O’Brien, the “PBS NewsHour.”

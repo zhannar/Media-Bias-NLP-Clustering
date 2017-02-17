@@ -1,0 +1,49 @@
+The industry’s long-standing push for a PMS accreditation process that will help make these assurances possible has finally come to fruition. And being as providers currently face mounting pressure to increase quality while maximizing cash flow and reducing costs (in addition to preparing for the conversion to ICD-10), it couldn’t have come at a more crucial time.
+
+No other technology has the power to impact a healthcare practice’s financial health like its practice management system (PMS). The PMS is the epicenter of all activities related to revenue generation and cost containment, and it will be the key to a successful transition to ICD-10. But historically, there have been few ways for practices to thoroughly assess these systems to ensure that they have the capacity to not only handle the job at hand, but also produce compliance with the myriad rules and regulations governing the practice’s activities.
+
+The Practice Management System Accreditation Program (PMSAP) was formally launched at the fall conference of the Workgroup for Electronic Data Interchange (WEDI). At the conference, and at the co-located Healthcare Administrative Technology Association (HATA) national meeting, I led two panel discussions with industry leaders to talk about the significance of the program and the impact it will have on the industry.
+
+For the first time, vendors that develop software to handle the administrative side of a physician practice — including everything from scheduling to revenue cycle management to monthly report generation — will be able to test their systems against standards developed by industry peers.
+
+A program like this is long overdue, according to Robert Tennant, senior policy advisor for the Medical Group Management Association. “Through HIPAA and the Affordable Care Act Section 1104, we have an excellent array of administrative simplification standards and operating rules,” Tennant said. “But what we are finding is (that) many of the practices are unable to take advantage of those standards because their PMS software in the practice doesn’t have the capability.”
+
+MGMA worked with the American Medical Association for several years to identify criteria that should be tested in practice management systems to give providers the confidence they need during the system selection process. All that was left, he said, was to find an organization able and willing to take on the role of overseeing the accreditation process. Along with WEDI, they worked out a deal for EHNAC to take on that role and create the jointly developed program.
+
+“EHNAC has such a strong reputation in the industry, (and) we hope that the vendors will begin to see this as a huge opportunity themselves,” Tennant said.
+
+PMSAP provides a comprehensive third-party review of PMS vendors in the areas of privacy, security, mandated standards and operating rules, and key system functionality. It also assesses privacy and security measures, HIPAA, HITECH, the Omnibus Rule, and requirements of the Patient Protection and Affordable Care Act (PPACA). The review process also includes technical performance, business processes, and resource management.
+
+Hundreds of practice management solutions are in the marketplace today. For providers, ensuring that a chosen system does what needs to be done can be virtually impossible. Providers’ jobs are to practice medicine, not to become experts in the technical requirements of electronic data interchange. They rely on vendors to educate them in these areas, and to ensure the systems are HIPAA-compliant, despite the fact that vendors are not covered entities under HIPAA. Going through this new accreditation process will afford vendors the chance to self-audit their performance.
+
+“We don’t want to rely simply on brochures and sales pitches by vendors,” Tennant said. “We want a seal of approval.”
+
+Gaining it will help vendors ensure:
+
+Software meets PPACA, HIPAA, and other regulatory standards and requirements;
+
+Software has key functionality such as of portability, interoperability, clinical integration, compliance monitoring, billing, and reporting;
+
+Software meets minimum levels of privacy and security standards; and
+
+Software will be ready to accept ICD-10 code sets.
+
+Tim McMullen, executive director of HATA, the trade group for the practice management system industry, applauded the PMSAP during a recent EHNAC-hosted webinar by saying it “produces a great benchmark for the practice management software community.”
+
+Gaining accreditation will give vendors a competitive advantage, at least initially. Eventually, it will be necessary in order to compete at all, McMullen predicts. Accreditation will start showing up as a requirement in RFI/RFPs, he predicted.
+
+Tennant said that once all the vendors have met the baseline standards of features and functions, they can compete on optional “bells-and-whistles” features. “That could drive down some of the costs and really improve the efficiency of the software,” he said.
+
+Much like how the electronic health record accreditation program launched by the Certification Commission for Health Information Technology blazed the trail for the meaningful use incentive program, Tennant would like to see the PMSAP mark the first step toward the transformation of the administrative side of healthcare.
+
+Much of the real savings in healthcare comes from the administrative side. Moving the industry to electronic transactions will have a tremendous impact.
+
+EHNAC will start accepting applications for accreditation in November. Information about the program can be found on the EHNAC website (https://www.ehnac.org/practice-management-system-accreditation-program/). This webinar (https://www.ehnac.org/?webinar=cutting-through-the-competition-pmsap) also provides a more thorough look at the accreditation process, its significance, and its anticipated benefits to the healthcare community.
+
+About the Author
+
+Lee Barrett is the executive director for EHNAC, the Electronic Healthcare Network Accreditation Commission. Mr. Barrett has a 10-year track record of leading healthcare professional service organizations, as well as 20 years of experience in senior management roles in payer organizations. He speaks nationally on a variety of healthcare industry topics and is involved in a number of industry coalitions promoting the use and implementation of health IT, including both administrative and clinical transactions. Mr. Barrett also is involved in the development and proliferation of EHR systems and meaningful use across the National Health Information Network and HIEs.
+
+Comment on this Article
+
+editor@icd10monitor.com

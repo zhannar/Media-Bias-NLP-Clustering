@@ -1,0 +1,69 @@
+For the first time in history, the tools required to understand and mitigate the myriad contributors to ill health in a community are available. Computer systems endowed with artificial intelligence, or AI, are already hard at work — collecting, reading, digitizing and parsing massive amounts of data from disparate sources. These systems are even learning and refining their ability to categorize and draw inferences from the information as they churn through it, then reporting the results in natural language.
+
+Perhaps the most iconic of cognitive computers is IBM’s Watson, now the cornerstone of an ambitious, eponymous new corporate health arm. But numerous vendors offer population health management (PHM) “solutions” — software suites that can, to varying degrees, pull together information from multiple existing health system sources to structure a data warehouse with increasingly sophisticated analytic, care coordination and patient engagement outputs.
+
+For all the lip service paid to PHM, however, few organizations in the United States are really committed to it — not, anyway, in the original sense of the term.
+
+No Denmark
+
+That’s the verdict of Dale Sanders, executive vice president of software at Health Catalyst, a data warehousing vendor based in Salt Lake City. The problem, he suggests, is that as initially conceived, “what PHM really means is getting a health system to function like a public health system, which means getting the U.S. system to act more like Canada, the United Kingdom or Denmark. And culturally, we’re a long way from that.”
+
+It is to Canada, in fact, that credit can be given for having pioneered the idea that the health of any group of individuals must be understood as the product of many more factors than simply the accessibility of skilled doctors and hospitals. Those factors include, according to the Canadian Federal/Provincial/Territorial Advisory Committee on Population Health, “social, economic and physical environments, personal health practices, individual capacity and coping skills, human biology, early childhood development and health services.”
+
+Along with individual genetic and behavioral traits, theorists point out, all kinds of “social determinants” interact to stratify the health status of a community: relative income, education, employment, culture, urban design, air and water quality, transportation and housing. The Centers for Disease Control and Prevention describes the social determinants of health as “life-enhancing resources … whose distribution across populations effectively determines length and quality of life.”
+
+It’s pretty clear that no health system in the United States is yet equipped to take into account even the most basic of those social determinants. Their leaders are faced with a tough enough job just getting a handle on the medically related data generated within their own walls (300 million books’ worth of data per patient per year, according to IBM Vice President and Chief health officer Kyu Rhee, M.D.).
+
+An ambitious few are piecing in data from affiliated and cooperating regional health care providers, insurers, pharmacies, employers and clinical services. For example, IBM Watson Health is assembling a cloud-based constellation of data and patient management resources through acquisitions — Merge, Phytel, Explorys, Modernizing Medicine — and partnerships with CVS, Apple and major U.S. academic medical centers.
+
+But when it comes to layering in police files, social service agency reports, public utility shutoffs, school attendance records, unemployment claims, neighborhood property sales and foreclosures … all and many other data sources offering vital insights into where and among whom expensive-to-treat conditions like asthma, type 2 diabetes, obesity, child abuse and alcoholism can be expected and perhaps circumvented by early intervention … well, forget it.
+
+“Bottom line,” says Sanders, “everyone is talking about population health, but nobody’s ready yet to address becoming a public health system. That would mean engaging law enforcement, social agencies, air and water quality … all of which is above the reach of virtually every health care system in the United States today. So the dialogue [on PHM] has switched to patient engagement and case management.”
+
+What about the Rest?
+
+Trouble is, important as patient engagement and case management may be, their aims are to empower patients who are willing and capable of taking care of their own health, Sanders points out — people who will keep doctor appointments, fill prescriptions, exercise, quit smoking, track their blood glucose levels and so on. But according to recent studies by the Kaiser Family Foundation, he reports, “only 10 percent of patients are capable of being fully engaged in their own health care due to education level and our industry’s inability to communicate with them in a way that’s meaningful and actionable.”
+
+Gerard Filicko is senior vice president for clinical services at inHealth, a Virginia “ACO [accountable care organization] enablement company” working with IBM Watson Health. (“What inHealth does is to help physician providers figure out what’s going on with patients outside the walls of the health care system and reach out to take care of everyone they’re contracted to care for under various models,” he explains.) Filicko proudly notes that for every 10 reminder phone calls made by inHealth case managers who follow up with patients who have chronic conditions after discharge from client hospitals, four patients keep their appointments. That’s an admirable response rate, he suggests.
+
+“We call it population health management one patient at a time,” he says.
+
+Yes, but what about those other, nonresponsive six?
+
+The Pathway to Population Health Management
+
+It’s true that from a health system perspective, promoting the well-being of a population ultimately circles back to providing appropriate services to the individuals who make up the group. So, getting a start on PHM through data-driven patient engagement and robust case management is far from beside the point.
+
+In a white paper published last year, Sanders outlined 12 steps organizations can take — in sequence, he emphasizes — to board the PHM escalator. They are:
+
+1. Build a precise, “clinically informed” patient registry. ICD codes derived from billing data have been used to distinguish patient populations, he observes, but they are not enough. PHM registries also must take into account indicators like lab results, functional status measurements, diagnostic imaging results, medication orders, claims, procedure codes and such clinical observations as vital signs.
+
+“Relying solely on billing data to define the patients in these cohorts means organizations likely will miss 30 to 40 percent of the patients who should be included,” Sanders warns. “In a value-based, fixed-price contracting model, that level of inaccuracy will be financially devastating to the ACO.”
+
+2. Develop algorithms for associating each patient with “the appropriate accountable care clinician” so that variations in quality, outcomes and costs of care can be detected and reduced, and “common practice [shifted] to the right of the quality curve.”
+
+3. Develop a system to adjust the physician’s level of accountability and tailor care management processes for patients who present special challenges.
+
+“Every EMR [electronic medical record] should be capable of capturing data that reflect the nonmedical indicators impacting health” like language barriers, cognitive impairment, physical handicaps, economic hardship, informed refusal to participate in a care protocol (for example, on religious grounds), medication contraindications, geographic remoteness or even mortality, Sanders points out.
+
+4. Build dashboards for monitoring clinical effectiveness and total cost of care. “With access to this type of data, health care provider organizations are in a strong position to negotiate and retain the best contracts compared with competitors [that lack such an analytics platform],” says Sanders.
+
+5. Use the enterprise data warehouse to identify patient cohorts that offer the highest opportunity for improvement and cost savings, and then design internal best-practice clinical guidelines based on evidence derived locally.
+
+6. Develop templates to identify and intervene with patients who are on a high-risk trajectory. “Profiling and proactively treating patients before they become members of the registry,” says Sanders, “is the ultimate goal of health care — avoiding disease altogether, not reactively treating for it.”
+
+7. Acquire clinical encounter data, cost data, laboratory test results and pharmacy data from outside the core organization. “Start locally, plan regionally,” counsels Sanders. “The future grounds of competition in health care will be in data and optimal execution of the analytics of that data — not bricks and mortar and care delivery sites.”
+
+8. Establish a patient-directed “personal health project management system” that is decoupled from the EMR vendor and the health care organization itself. “This is going to require some adjustments to the industry’s application of HIPAA,” Sanders acknowledges. “New forums for human engagement are prevalent in our world, and we must be more liberal, risk tolerant and flexible about how to use them.”
+
+9. Revise patient education materials and distribution methods to take into account patients’ education levels and comorbidities.
+
+10. Establish evidence-based clinical protocols for treating comorbid patients. Today, observes Sanders, “we rely on multiple single-disease protocols applied to a single patient. These … are linear and don’t interact well.”
+
+11. Create an interclinician communication and project management system through which “every member of the care team — including the patient or a designated family member — [is] able to monitor what everyone else [is] doing along the care plan.”
+
+12. Track specific patient-reported outcomes. What happens after a patient leaves the hospital or doctor’s office is “one of the most important pieces of data missing from our ecosystem today.”
+
+“What’s really exciting,” exclaims IBM’s Rhee, “is connecting exogenous data and being proactive rather than reactive. We’re ripe for disruptive transformation!”
+
+David Ollier Weber is a principal of the Kila Springs Group in Placerville, Calif., and a regular contributor to H&HN Daily.

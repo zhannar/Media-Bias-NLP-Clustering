@@ -1,0 +1,43 @@
+Apple (NASDAQ:AAPL) could team up with leading insurers UnitedHealth Group (NYSE:UNH) and Humana (NYSE:HUM) on its iOS 8 HealthKit platform soon, according to a recent report from Bloomberg. HealthKit -- which was first introduced at Apple's Worldwide Developers Conference in June -- is a platform that synchronizes various iOS apps, wearables, and medical devices to a single dashboard app.
+
+These partnerships wouldn't be surprising, considering the recent progress made by Humana and UnitedHealth in mobile apps. Humana's mobile fitness app, HumanaVitality, connects to several activity and biometric-tracking devices from Fitbit, Garmin, and Nike. UnitedHealth's Health4Me app also includes activity and biometric tracking. However, these features would be rendered redundant when HealthKit arrives, since users wouldn't need two dashboards for the same purpose.
+
+More important, HealthKit data could be provided to insurers and employers, which could offer employees insurance discounts for meeting certain fitness goals. Under the Affordable Care Act, employers can spend up to 30% of their yearly insurance premiums on "healthy behavior" awards.
+
+While these partnerships would simplify app development for insurers, provide employers with better data, and strengthen Apple's HealthKit platform, there's much more going on when we connect them to Apple's other healthcare alliances.
+
+A unified mobile platform for the healthcare industry
+
+In June, Apple announced HealthKit integration with electronic health records, or EHR, giant Epic Systems and Mayo Clinic. Epic Systems reaches over half of all patients in the U.S., and Mayo Clinic is one of the largest integrated nonprofit medical group practices in the world.
+
+With that expansive reach, Apple can synchronize data from fitness apps and activity trackers with the iOS Health app and Epic's EHR. This means that whatever you see on your iPhone's screen could also be sent to your doctor. Recent rumors -- which suggest that Apple is looking to work with Allscripts, John Hopkins, Mt. Sinai, and the Cleveland Clinic -- indicate the tech giant wants to tether even more partners to the HealthKit platform.
+
+Insurers would benefit from linking with HealthKit, since it can accomplish the same goal as their mobile apps -- to convince people to take better care of themselves.
+
+Healthier patients visit hospitals less frequently, which would mean lower insurance payments. However, that doesn't mean insurance companies would completely dump their mobile apps -- they would instead likely eliminate fitness tracking features while retaining features such as account information, ID cards, telehealth consultations, and drug costs.
+
+Going beyond Google
+
+Apple has certainly lagged behind Google (NASDAQ:GOOG) (NASDAQ:GOOGL) in cloud-based initiatives like Maps and Drive, but healthcare is one battlefield where it could soundly defeat its rival.
+
+Google once sought to unite the fragmented world of EHRs with Google Health, which tried to pull all of a patient's electronic health records into a single personal record. But Google canceled Health in 2011 after it failed to gain enough industry support and public awareness. Google's recently introduced HealthKit rival, Google Fit, only synchronizes fitness apps and wearables to a single dashboard, without EHR or insurer connections.
+
+Apple is counting on several factors to help HealthKit succeed where Google Health failed:
+
+The iPhone's 41.9% market share in the U.S. (comScore)
+
+The popularity of iOS in hospitals -- 52% of physicians surveyed by Manhattan Research in 2012 owned an iPhone, while 45% owned an iPad.
+
+it is easier to develop medical apps for iOS, since Apple hardware and software is not as fragmented as Android's.
+
+The relaxation of bring your own device policies in hospitals.
+
+The growth of the wearables market -- research firm ON World projects that 330 million smartwatches will be shipped by 2018, up from 4 million last year.
+
+When we combine all these factors, we see a perfect chance for Apple to launch HealthKit as the common thread that ties them all together.
+
+A Foolish final word
+
+Apple has attracted plenty of big players -- EHR companies, hospitals, and possibly insurers -- to its HealthKit platform. The company is truly taking mobile health to the next level, and not even Google or Microsoft can offer anything close.
+
+Looking ahead, there are still unanswered questions. Will the long-rumored iWatch be connected to HealthKit? Will HIPAA regulations and privacy concerns dampen enthusiasm among consumers? Those questions could be answered when iOS 8 and the iPhone 6 finally arrive, so stay tuned!

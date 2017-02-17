@@ -1,0 +1,81 @@
+The 2010 passage of the Affordable Care Act created a legal mandate to make all medical and health records electronic. So your doctor these days is more likely to consult a PC, laptop or tablet in the examining room than a big, thick paper file.
+
+A 2001 modification of the Health Insurance Portability and Accountability Act (more popularly known by its acronym, HIPAA) requires all such electronic records to be accessible to patients.
+
+And it thereby has also resulted in a boom in so-called patient portals, websites that give patients 24/7 access to much of their medical records.
+
+Via such portals, using a secure user name and password, patients can view information and details on recent doctor visits, discharge summaries, their medications, their immunization records, their drug allergies and lab results.
+
+Many patient portals also allow patients to:
+
+• Discuss their health via secure email with their health-care teams
+
+• Request prescription refills
+
+• Schedule nonurgent clinic appointments
+
+• Make payments.
+
+Access to their medical records can help patients be more involved in planning their own health care. And patient portals make possible self-service options that let a patient bypass medical-office phone trees and playing phone tag with clinic personnel. It might even save you a clinic visit.
+
+There are two types of electronic records:
+
+• Electronic Medical Records, a digital version of the erstwhile paper charts in the clinician's office. An "EMR" contains the medical and treatment history of that practice's patients, including data identifying when a patient is due for preventive screenings or checkups, parameters on vital signs -- readings of blood pressure, temperature, etc. -- and lab tests.
+
+• Electronic Health Records (EHRs) focus on the patient's total health, across the spectrum of medical care, incorporating information from a range health-care providers, including laboratories, specialists and technicians. The information moves with the patient from generalists and specialists to the hospital, the nursing home, the next state or even across the country.
+
+Amy Durham, application systems analyst at the University of Arkansas for Medical Sciences, who leads the team that built and coordinates the UAMS Medical Center's MyChart patient portal, says the system allows patient access to only part of their electronic health records.
+
+But it does make available, almost immediately, 100 percent of all medical test results; allows patients to access and manage appointments; and makes available details of past and future appointments and appointment instructions. "We actually have a direct scheduling feature," Durham says. "In all of our primary care clinics, patients can view a doctor's schedule up to 90 days ahead and pick the date and time."
+
+Patients can send messages to their providers, get answers to general medical questions and request prescription refills. "We have online bill-pay available, and they can even sign up for paperless," Durham says. "We allow them to send updates on medications and allergies; they can't directly plug in records from another clinic, but they can say, 'I'm being treated for X,' or 'I have a new allergy,' and whatever clinician they see next can update the record."
+
+The system also sends out a message via email when new information is available on the portal -- for instance, a new test result. And Durham says the portal also includes a health library that provides information on medications and health conditions, "similar to the educational material the hospital or clinics provide the patient on discharge."
+
+There's also a MyChart mobile app for iOS and Android. "It doesn't provide access to all the material, but it's really useful if you need to check an appointment time in transit," Durham says.
+
+And there's even a portal feature for "evisits" -- electronic visits between patients and medical personnel, questionnaire-based. Video contact is expected to be available eventually, Durham says, making the patient's personal portal a potential component of telemedicine. Telemedicine is proving particularly useful in treating patients in rural areas where they don't have access to a clinic.
+
+So far, the evisit is basically an intermediate step between a phone call and a clinic visit. UAMS charges a fee, about $35, far less than an office visit would cost. And if the nurse or doctor decides the complaint requires in-person contact, he'll ask the patient to come to the clinic (and waive the "evisit" charge).
+
+But, of course, if you wake up at 3 a.m. with chest pains, an "evisit" won't help -- you should go at once to the ER.
+
+NOT 100 PERCENT
+
+UAMS launched its integrated electronic health records system in 2013, using Epic, a Wisconsin-based firm that develops and sells medical-record software, and which Durham says is the largest vendor of electronic health records, servicing 50 percent of the health industry in the United States as well as hospitals in other countries.
+
+In-system clinics and hospitals can communicate with one another through a feature called Care Everywhere, "so if we have a patient in our hospital who has been seen in New York, say, we can do a query and pull in their records from that organization," Durham says.
+
+However, it's not always so easy for medical operations with competing health record systems to cross-communicate easily, she concedes. "It's a new technology; we're still working out bugs," she explains.
+
+MyChart debuted in August 2013, starting in some of UAMS' outpatient clinics. In May 2014, UAMS added in the hospital and the remaining primary care and specialty clinics: "It was a huge implementation, patching in every aspect campuswide, so it was a phased approach to implementation."
+
+MyChart replaced an older existing portal that had about 6,000 users; Durham estimates MyChart now has 54,000 active users -- about the seating capacity of Little Rock's nearby War Memorial Stadium.
+
+A percentage of total patients who have opened a portal is difficult to pinpoint. "We have a unique patient demographic -- a number of patients who receive indigent care here, and we try to exclude that when we're calculating; but right now we're at about 35 percent," she says. "We have an initiative to be above 50 percent by end of 2017."
+
+Patients can sign up at any point during a visit. Hospital employees pitch the portal when patients sign in at the front desk; a nurse can sign them up in the examining room; still-unsigned patients receive a reminder to get an activation code during their after-visit summary.
+
+DIFFERENT SYSTEMS
+
+Clinics connected to Little Rock-headquartered Baptist Medical System use a company called NextGen Healthcare Information Systems LLC.
+
+Their portals offer many of the same features as MyChart, including the ability to link together information from multiple doctors using the system.
+
+But it is not directly compatible with MyChart -- patients cannot directly transfer information from the one Electronic Medical Records system to the other. (A representative of the company did not return phone calls by deadline.)
+
+PRIVACY AND SECURITY
+
+One of the chief concerns about patient portals and computerized medical record systems, especially early on, was that they might be vulnerable to hackers and identity thieves.
+
+Data breaches at large metropolitan hospitals have made the news recently, but portals are also at risk from denial of service hacks. The accessibility of patient portals also raises the risk of potential HIPAA violations if the portals are not sufficiently protected.
+
+"Protecting patients' health information is one of our first priorities," Durham says. "The actual portal is a web-facing system that sits behind layered security controls; we have restricted access, firewalls, intrusion-prevention, malware-audit encryption. Just to log in is controlled by secure access codes, personal IDs and passwords. We automatically encrypt their sessions."
+
+Moreover, she says, "Patient records [are] not actually stored on the portal."
+
+Durham also downplays reports of medical data simply appearing to have disappeared from record systems.
+
+"It's usually patient error," she says. "Occasionally there's more than one record -- the patient is seeking information in one [place], when it's really in the other."
+
+ActiveStyle on 05/23/2016

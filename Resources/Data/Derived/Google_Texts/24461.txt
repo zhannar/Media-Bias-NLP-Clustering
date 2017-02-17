@@ -1,0 +1,37 @@
+(PokitDok was the winner of Vator Splash SF in 2013. On February 23rd, Vator will be holding its second annual Splash Health event at the Kaiser Center in Oakland. Speakers will include Vijay Pande, who runs Andreessen Horowitz's $200 million healthtech fund; Ali Diab, CEO of Collective Health; Helmy Eltoukhy, Founder & CEO of Guardant Health; and Ted Tanner, Co-founder & CTO of PokitDok. Get your tickets here)
+
+Just around the passage of the Patient Protection and Affordable Care Act, the legislation that ushered in historic technology, economic and behavioral changes, PokitDok made its debut to streamline the business of healthcare. It provides a development platform of Application Programming Interfaces (APIs) to process eligibility checks, claims, scheduling, payments, identity management and other business transactions.
+
+The company now makes its money by selling access to universally needed data and services through those APIs and building custom solutions as large health systems and insurance companies redesign their workflow. PokitDok provides cloud-based web services to integrate healthcare transactions into any app, website or product. Health systems, technology providers and developers use PokitDok to create better consumer experiences, streamline operations and cut costs. The company currently offers 16 APIs for such services as scheduling, payment processing, interoperability and revenue cycle management.
+
+"The big picture is that we are a software company with a platform designed to power the business of health," Jim Kelly, Chief Revenue Officer at PokitDok, told me. "We are the operating system for the business of healthcare, with a platform to enable all the participants in the healthcare process. That includes hospital systems, providers, payers, developers and even consumers who are demanding better experiences.”
+
+The company's APIs are designed to take information and data that exists in one part of an organization and make it available to other parts.
+
+Its APIs include its Scheduling API, which works across multiple EMR/EHR systems and gives the ability to schedule a healthcare provider appointment directly into the provider's appointment schedule. Use this tool to enable online booking of appointments.
+
+There is also an Identity Management System, which matches and stores each of an associated patient's identities found in multiple target EMPIs (Enterprise Master Patient Index) and/or MPIs (MasterPatientIndex). It ties together multiple patient files within an EMR/EHR system and across EMR/EHRsystems.
+
+Its Enrollment API allows the enrollment of new members into an insurance plan, updating of information or changes the status of a member's enrollment. An insurance broker or plan administrator would use this API to electronically enroll a customer or make benefit changes in the case of a life event.
+
+Its Providers API allows customers to search for providers from one of the largest provider directories. Its directory provides biographical information, education, credentialing, and other quality and business information. They can use this API to let customers select providers based on a variety of factors.
+
+There's also an Activities API to keep track of API usage.
+
+PokitDok provides technology to large enterprise and emerging companies. For emerging companies platform sign ups get access to unlimited X12 transactions, which include eligibility and claims, among others. They can also pay 25 cents per request for Data APIs, including plans and insurance prices. Further, they offer technical support plans monthly and per incident.
+
+For enterprise companies above those limits, pricing will vary, Kelly explained, depending on what the business needs. "We are a SaaS company, so we charge a monthly fee for the use of the technology. It varies based on which technology they use, what they use it for, and based on what specific needs are within each organization," he told me, comparing the APIs to legos that each company uses to build their own specific solution.
+
+"The great thing is we are enormously flexible, and customers can use them in all kinds of different ways. How they use it varies so greatly, so there is no price book, since no two organizations use the technology in the same way."
+
+"When it first started, PokitDok wanted to engage the healthcare community to be proactive and self sufficient," Kelly told me, “Especially those consumers on High Deductible Health Plans.”
+
+Its Marketplace, where consumers can find, book and pay for a medical appointment catered to this growing market. It demonstrated how health systems for example could bring ecommerce to the traditional $3T healthcare industry.
+
+As co-founder and CEO, Lisa Maki pointed out recently, “picture a large hospital system that operates a spectrum of departments and services. Our APIs could help that hospital run its non-acute lines of business, such as imaging and urgent care, on business models aimed at the increasingly engaged consumer – to attract patients, on boarding with eligibility and other benefit information and driving greater asset utilization through flexible scheduling and payments. Imagine giving patients the ability to shop, schedule and pay for an MRI, or other such service, online. Early adopters already have this underway.”
+
+PokitDok can be used by smaller tech companies, who pay for monthly support, or larger, sophisticated companies, who spent hundreds of thousands, or millions, in an annual investment. The amount that is spent can range from a couple of grand to hundreds of thousands a month, depending on the needs of the company.
+
+Founded in 2011, PokitDok has raised $43.8 million in total funding, from investors that have included McKesson Ventures, Subtraction Capital, Lemhi Ventures, New Atlantic Ventures, Rogers Venture Partners, Charles River Ventures, George Zachary, Jonathan Sposato, Geoff Entress, Albert Prast, and Zac Zeitlin.
+
+In just the last two years, the company has developed relationships with over 319 insurers. Through its API and marketplace, PokitDok makes current cash and insurance prices available for health services from over 40,000 providers in 44 markets in the United States.

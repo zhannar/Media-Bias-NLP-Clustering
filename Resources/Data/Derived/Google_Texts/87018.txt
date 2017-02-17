@@ -1,0 +1,71 @@
+Last week was an unusually quiet week in the land of IT-related snafus. Most of the snarls reported concerned existing tech issues that continue to fester without resolution. For example, late last week, Florida decided to pay unemployment claims that have been on hold for more than seven days in an attempt to relieve the financial pressure on at least 60 000 unemployed workers. They hadn’t been paid in a timely manner because of ongoing problems with the implementation of the state’s $63 million CONNECT unemployment insurance system which was rolled out in October. The Sun-Sentinel reports that the difficulties still being encountered three months after the system went live, “range from inaccurate information being provided to claimants and the state, non‐functional fraud protections, and even the inability to use bar‐coding software for paper claims.”
+
+Despite the Florida Labor Department's announcement that it is hiring 500 new workers to help resolve new and outstanding unemployment claims, the U.S. Department of Labor is sending experts to help Florida unravel its technological mess. Deloitte Consulting, the system’s prime contractor, is also reportedly adding more technical personnel to try to get to the bottom of the ongoing problems, even as it publicly says that Florida is at fault for causing them in the first place.
+
+As you may recall, Florida has begun assessing penalties on Deloitte: It has withheld $3.5 million dollars in progress payments, and is fining the company $15 000 per day until the system is fixed. In hearings last week, Florida again put all the blame for the fiasco on Deloitte, which Deloitte heatedly contests. News reports state that at least one Florida lawmaker is suggesting that Deloitte be barred from future Florida contracts, something that Australia’s Queensland government has done to IBM as a result of Big Blue's role in the Queensland Health payroll debacle.
+
+The Florida unemployment fiasco has turned into a major political issue for Governor Rick Scott, who is facing reelection this November. Gov. Scott has remained studiously silent about the whole affair, no doubt hoping it all blows over well before voting day.
+
+Problems Continue to Plague Maryland’s Health Insurance Exchange
+
+Last week also saw more IT problems associated with several states’ implementation of the Affordable Care Act (ACA). Maryland’s difficulties seem to have been the most significant. First, there were legislative hearings early in the week looking into why Maryland’s health insurance exchange was so messed up. The bottom line was that no one was in charge, vendors and the state did not get along, the vendors themselves did not get along, no one wanted to hear about the myriad significant technical risks, and political motivations dominated decision making. In other words, all the makings of an all-too-typical government IT project.
+
+Then, on Saturday, there was word that Maryland's healthcare exchange website incorrectly listed the Seattle Pottery Supply company’s telephone number as the one that individuals seeking help in signing up for health insurance should call. The pottery company is understandably unamused. Then it was reported late Sunday night that Medicaid enrollment applications involving over one thousand individuals were sent to the wrong address by Noridian, the exchange’s prime contractor. Maryland officials insist the error isn’t a data breach, since the information did not contain Social Security numbers, “just” a person’s name, date of birth, and Medicaid ID number.
+
+OfficeMax Needs to Seriously Check its Rented Mail List
+
+Finally, there was an unfortunate and disturbing mailing glitch reported by the Chicago Tribune. Apparently, OfficeMax sent some advertising material addressed to “Mike Seay, Daughter Killed In Car Crash, or Current Business.”
+
+The Tribune reported that Mike Seay’s daughter Ashley, 17 years old, was indeed killed in a car crash last year along with her boyfriend, but an angry Seay wanted to know how OfficeMax knew that information, too, and how and most importantly, why, that information came to be placed on his address label.
+
+OfficeMax, which wasn’t forthcoming with any explanation to Seay’s questions before the press got involved, said it had rented the e-mail list from a third-party company which it refused to identify. OfficeMax, while offering through a press release the standard apology to the Seay family, has not, as of yet, directly apologized to Mike Seay and his wife, who are still naturally upset about the mailing.
+
+The case raises some thought-provoking issues with data mining and privacy. I will let you know if OfficeMax decides to offer a more in-depth explanation of how this sad incident came to be.
+
+Florida’s New CONNECT Unemployment System Still Disconnecting
+
+Florida Lawmaker’s Press Labor Department Officials over Ongoing CONNECT Problems
+
+Thousands of Unemployed Floridians Will Finally Receive Unemployment Checks
+
+Florida Blames Vendor for Unemployment System as Feds Ride to Rescue
+
+Passing the Buck Over Unemployment System Debacle
+
+Gov. Scott Impersonates Where’s Waldo in Regard to Unemployment Fiasco
+
+Maryland’s Health Exchange Bad Week
+
+Maryland Healthcare Officials’ Website Wishful Thinking
+
+Maryland Healthcare Officials Have Few Credible Answers to Legislators’ Questions
+
+Seattle Pottery Company Receives Maryland Health Exchange Help Inquiries
+
+Maryland Health Exchange Sends Medicaid Applications to Wrong Individuals
+
+Father Receives OfficeMax Ad Additionally Addressed with “Daughter Killed In Car Crash”
+
+Dad gets OfficeMax mail addressed 'Daughter Killed In Car Crash'
+
+OfficeMax Apologizes for Address Error
+
+Will OfficeMax Letter Spur Data Mining Backlash?
+
+Of Other Interest …
+
+Number of UK Cattle Herds with TB Likely Overstated
+
+North Carolina Computer Issue Affects Online Final Exams
+
+North Carolina NCFast Computer Problems May Be Fixed by April
+
+North Carolina Healthcare Providers Sue State over NCTracks Billing Snafus
+
+Tulsa Fire Dispatch System Not Completely Fixed After All
+
+5000 New Workers All Appear At Once for Mandatory Medical Exam in Qatar Due to Online Booking Error
+
+Jersey Telecom’s New Billing System Spurs Barrage of Complaints
+
+Image: iStockphoto

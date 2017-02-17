@@ -1,0 +1,29 @@
+Medically important genes fall within swaths of the human genome from which it is difficult to obtain accurate sequence information: study.
+
+Medically important genes fall within swaths of the human genome from which it is difficult to obtain accurate sequence information: study. Bill Automata, CC by 2.0
+
+So you want to have your genome sequenced because you sometimes lie awake at night worrying about inheriting Grandpa’s cancer or Aunt Julie’s Alzheimer’s or some other dreaded family disease. A new Stanford study cautions that your genome sequencing results may not provide the assurance you need. Medically important genes fall within swaths of the human genome from which it is difficult to obtain accurate sequence information, say the researchers.
+
+In other words, you might get a false reading of a key gene that is significant to your health.
+
+The American College of Medical Genetics and Genomics (ACMG) regards a group of 56 disease genes as most medically “actionable.” These include BRCA2, the early onset breast cancer mutation, and hypertrophic cardiomyopathy, which can cause sudden cardiac arrest. According to current ACMG guidelines, whenever a patient is getting sequenced for a medical reason, the genetic testing lab is required to screen for and notify the patient of any mutations in these 56 genes.
+
+For example, your doctor might send you to a lab to be sequenced for Lynch Syndrome. Under the guidelines, the lab would not only search for a Lynch Syndrome mutation, it would also search for and tell you about problems in any one of the 56 disease genes.
+
+How Accurate Are My Results?
+
+So what if the lab identified a false positive, a genetic mutation that wasn’t really there? Given the news of a BRCA2 mutation, some women — including, most famously, Angelina Jolie — decide to undergo risk-reducing surgeries. Conversely, what if you were given the all-clear when in fact you did have a life-threatening mutation? Either case might have profound consequences.
+
+To investigate the accuracy of currently available techniques, a Stanford team led by Rachel Goldfeder, a graduate student studying biomedical informatics, looked at one woman's genome sequenced by five different technologies.
+
+After obtaining a gold-standard sequence provided especially for the study by the National Institute of Standards and Technology, Goldfeder and her colleagues analyzed and compared the five separate results. The team discovered a reliable consensus was achieved for about three quarters of this woman’s genome.
+
+Put another way, they felt confident in the results provided by the five technologies for 77 percent of her genome, which leaves a substantial proportion of genetic material, including some medically-significant genes, that might be incorrectly identified.
+
+According to Goldfeder, the full potential of precision medicine will only be realized once greater accuracy is achieved in sequencing technologies, particularly with regard to the 23 percent of the genome that remains obscured (which includes some of the actionable list of 56 genes from the ACMG.)
+
+Considering how quickly the existing expertise has progressed — and how costs per genome have decreased, as indicated by the National Human Genome Research Institute's graph below — it's impossible to doubt the future of predictive medicine beckons.
+
+Moore's Law, Cost per Genome Courtesy of National Human Genome Research Institute
+
+Source: Goldfeder RI, Priest JR, Zook JM, et al. Medical implications of technical accuracy in genome sequencing. Genome Medicine. 2016

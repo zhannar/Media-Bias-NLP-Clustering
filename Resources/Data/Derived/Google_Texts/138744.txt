@@ -1,0 +1,95 @@
+In a two-part series Thursday and Friday, retired auditor Charles Hayward (full bio below) delves into the problems that led to a disastrous launch of the Maryland Health Benefit Exchange in fall 2013. Among the chief failings of state leadership: not addressing serious red flags when there may have been enough time to fix the root causes; not appreciating the monumental tasks assigned to limited resources; and not selecting one IT expert to take leadership on the website’s development. He writes that by September 2013, project control was lost, a perfect storm had materialized, and officials crossed their fingers, hoping for a miracle at launch. As the smoke clears, taxpayers will underwrite hundreds of millions wasted.
+
+By Charlie Hayward
+
+CharlieHayward@MarylandReporter.com
+
+Whenever ineffective planning, poor judgment and lousy communication intersect with really bad technology in a large-scale, high profile, IT development project, a “perfect storm” of catastrophic failure is the predictable result.
+
+Studies of IT software-development failures show the deadliest of all risks for large software projects is the "big bang" release—like the one the state of Maryland chose to implement in 2011 via its Health Benefits Exchange when it finalized plans to launch, all at once, a versatile, multi-purpose Health Information Exchange website.
+
+In the first of a two-part assessment, we will examine the roles and responsibilities of the principal parties, and take an objective look at what was happening inside the exchange. Next, a brief commentary on the administration’s overwhelming desire to enroll as many people as possible and the costs of doing so. Last, we will list some of the key winners and losers and consider the effect on the state’s reputation from the first year of Obamacare implementation.
+
+Distinctive Responsibilities—The State, the Exchange, and its Contractors
+
+To objectively understand failure when multiple parties are involved, it is vital to appreciate the distinctive roles and responsibilities of the three principal entities: the state, its newly created exchange, and the contractor, Noridian Healthcare Solutions.
+
+The administration of Gov. Martin O’Malley alleges contractors are to blame. That is correct, but those allegations are misleading by omission, and they suggest a lack of introspection regarding the root causes of the problems.
+
+Contractors’ deficient work is easy to visualize—they were project and programming experts who wrote the computer code and provided the “commercial off-the-shelf” (COTS) application from IBM/Curam—both of which failed in spectacular fashion. In contrast, the state’s overarching role and responsibilities were less visible (and more intangible) elements of success; much harder to grasp, yet vital to a successful launch.
+
+Sandwiched in between the state and its contractor, was the exchange. The exchange took direction from the state (via Department of Health and Mental Hygiene) and managed contractors it hired. The exchange was a small entity staffed at first (Fall/Winter 2011) with a handful or so of bright people trying to ramp up to about 50 employees in a hurry.
+
+Pearce highly qualified
+
+Its first hire was Rebecca Pearce, who was highly qualified to lead the exchange although she was not an IT expert. Her role was to breathe life into a new organization and, in doing so, she would be buffeted during the startup period (2012 -2013) by immense changes, as would any complex entity. The exchange was constantly in hiring mode. It was setting up internal operations departments, such as HR, IT, accounting, budgeting, marketing, customer outreach. It was setting up internal controls within those departments.
+
+It was singularly responsible for negotiating “Memorandums of Understanding” with six to eight different state entities who would become its business partners. It was establishing ground rules with three federal regulators, each of which was susceptible to releasing hundreds of new requirements at any time. It needed to set policy supporting Obamacare implementation.
+
+Exchange staff met regularly with officials in the state legislature to assist them with writing three major laws; one each in successive years. It needed to establish procurement and other administrative policy. In addition to its state business partners, it was working with a half dozen other business partners whose operations spanned the entire state in order to plan Obamacare implementation and establish networking and collaboration arrangements.
+
+For instance, the exchange was working with grassroots entities (mostly nonprofits) who would ultimately assist with program outreach to potential enrollees. It was working with the state’s pre-existing network of insurance brokers about their roles in selling products. It was involved with helping to implement which insurers would become qualified to sell products on the exchange.
+
+Judging from the evidence, the exchange and its small staff did a remarkable job, except with respect to the website platform.
+
+Meanwhile, the state’s big-bang vision posed a major risk of a big-bang-boom outcome, assuming the best contract management practices and system-development principles had been followed. The state wanted to lead all others in Obamacare implementation, so it conceived of a website with all the bells and whistles; its leaders were seemingly oblivious regarding the latent risks attendant to its vision. Ultimately, the exchange never implemented the best contract management practices and system-development principles that would have given the project any chance of success.
+
+As the facts surrounding the website platform’s failure emerge, we will see a domino effect of separate (and successive) failures: State of Maryland → Exchange → Noridian. Gov. Martin O’Malley administration’s failures ultimately led to organizational and management breakdowns within the exchange. Ultimately, the state’s and exchange’s failures did not cause contractor failures, but they created the atmosphere which precluded the exchange from identifying the gravity of Noridian’s problems in a timely manner, and taking immediate and decisive action to ameliorate the root causes of the early warnings. Hence, the “perfect storm.”
+
+State of Maryland
+
+The O’Malley/Brown administration, including Secretary Joshua Sharfstein, M.D., should have known that the exchange’s workload was too much for its nascent staff to manage, and they should have taken decisive action after major red flags in November 2012 of impending failure. Specifically, these leaders:
+
+Failed to appreciate the drain on the exchange’s limited resources from the level of effort needed for exchange startup activities during 2012 – 2013, and the distractions these activities would create relative to the concurrent website platform build. See this chart showing milestones for the exchange’s myriad startup responsibilities. Sharfstein was aware that startup activities were, in fact, undergoing significant “mission creep” during these years—not captured in the chart’s static milestones.
+
+Misjudged the risk in the website build. Either they did not fully identify specific risks common to big bang releases, or they performed risk assessments that were ineffective.
+
+Did not assure the exchange was supported by sufficient, qualified IT resources during the website platform build to properly manage and control that work.
+
+The Exchange
+
+The exchange did not have a single individual assigned to manage Noridian’s work who was proficient with large-scale IT development projects who had ultimate authority and complete responsibility. The U.S. Government Accountability Office has been recommending this approach in countless reports over the last 15 years. (As an aside, the exchange will utilize this approach during the build using technology from Deloitte Consulting, which provided successful technology in Connecticut. Isabel Fitzgerald, the state’s chief IT expert, will manage. The role of Fitzgerald in the Deloitte build stands in stark contrast to the organization model existing during the failed Noridian build.)
+
+The exchange’s project management resources were spread among many contractors who were being managed by a diffuse control structure. Thus: roles, responsibilities and lines of authority became hopelessly blurred. And so it was no surprise that as the Noridian build evolved, communication broke down, critical-path schedules weren’t used, contractors set their own priorities and performed work in good faith but outside their contracts’ specifications.
+
+Endless meetings ultimately turned counterproductive, as the challenge of working with multiple contractors led to tradeoffs between resolving contractor conflicts versus fixing exchange bugs. Deadlines passed without remediation. Sheer chaos was pervasive in the last few weeks before website launch.
+
+The exchange’s key managers did not know what functionality the site would have as of the launch date, because time expired before platform testing was finished. Incredibly, they would rely on launch “glitches” to pinpoint the true state of functionality. They’d crossed their fingers and flipped the switch, hoping for a miracle.
+
+These conditions are apparent from BerryDunn (quality assurance contractor) monthly reports issued during the website platform build. They are the logical result of the O’Malley administration’s leadership errors described above.
+
+Contractors
+
+Problems between Noridian and its subcontractor EngagePoint, Inc. are well known. So too are the major dysfunctions within the IBM/Curam toolsets, business processes, and interfaces at the core of Maryland’s website platform. Noridian claims its problems were partly attributable to changes in federal requirements, particularly Jan. 17, 2013 release by the Centers for Medicare and Medicaid (CMS) of 70 business functions that the website was required to achieve.
+
+But Noridian should never have bid the work without fully appreciating the major risks inherent in Obamacare implementation, particularly HHS’ episodic, last-minute changes flowing down into Maryland’s website specifications. Other states faced the same changing specifications and their contractors succeeded.
+
+Noridian owned these problems because it bid the work and signed the contract expressly requiring it to bear a high degree of performance risk. As such, Noridian was responsible for fixing its problems. Absent Noridian’s fixes, the state was responsible to replace Noridian and execute contingency plans or risk catastrophic failure. By the time these options were clear, the exchange was trapped like a deer in the headlights; it had no contingency plan. It was too late to do anything.
+
+Success—At what cost?
+
+By most measures, the O’Malley administration succeeded in its goal of maximizing enrollment, having comfortably exceeded its downsized goal of 260,000 sign-ups. In the process of enrolling somewhere near 300,000, Gov. O’Malley, Lt. Gov. Brown, Dr. Sharfstein (Department of Mental Health and Hygiene head) and key people in the exchange arguably suffered from a severe case of tunnel vision.
+
+In the aftermath of O’Malley’s decision to scrap the website platform and award $70 million or so of no-bid contracts to Optum/QSSI and Deloitte Consulting, the state legislature and taxpayers are asking about accountability for—let’s call it $300 million of sunk costs, and counting. Who is to blame and what will be their fate? Will there be restitution?
+
+Winners and losers—and reputational costs
+
+The newly insured are winners, particularly those covered by Medicaid’s expansion. About 96,000 people covered under the legacy Medicaid program were automatically enrolled in expanded care (i.e., non-emergency hospitalization) that was unavailable under the old Medicaid program’s primary-care benefits.
+
+And a new cohort of Medicaid beneficiaries -- the exchange doesn’t have final numbers, because the website failure caused many applicants for Medicaid expansion to be put in a queue, pending results of case-by-case eligibility determination at a later time. So the enrollee count seems to be somewhere between 132,000 and 150,000.
+
+Still another cohort of winners (63,000 as of April 4) has purchased subsidized insurance under private plans sold in the exchange. Many will learn, however, that subsidized premiums are affordable but the health care itself is not—once the bills for deductibles and co-pays come due.
+
+The clear winners also include many high-priced “white shoe” consultants who were able to capitalize on the exchange’s failure to implement and operate the software infrastructure it contracted to build. Possibly the biggest winner may be crowned in years to come: the tort lawyers.
+
+The losers include people who formerly were insured for lesser coverage, but were required under threat of penalty to buy more expensive coverage, exceeding their needs. And then there are the people who simply decide against any of Obamacare’s options because they have better ways to spend their money. They will be required to pay the “penalty-tax.”
+
+Probably the biggest losers are thousands of helpless taxpayers who paid for the dysfunctional site and the many cascading effects (described in the second installment) associated with its failure. Those taxpayers then paid to keep the website open long enough to limp through the first year’s enrollment.
+
+Then they will now pay Deloitte and others millions to (1) plug another state’s solution into Maryland’s milieu, and (2) reconstruct a single database of record—from information that is now spread over mountains of paperwork from manual workarounds or are unsalvageable or hopelessly irretrievable from Curam.
+
+Obamacare so profoundly changed the insurance landscape that government entities have commandeered the role of selling insurance products formerly held by the private sector. A private company has a good reputation when it consistently meets or exceeds the expectations of its customers. A bad reputation results when the organization’s words or deeds fall short of customer expectations.
+
+How would people view the credibility of state leaders if they were private-company executives engaging in the kind of tunnel vision, poor planning, mismanagement and spin, described above?
+
+Charles Hayward spent more than 30 yers performing Government Accountability Office full-scope “yellowbook” audits and served as a partner in two accounting firms. He retired in Nov. 2007 from Cotton & Company LLP, where he was a partner and principal financial auditor of the firm’s audit practice group. He led audits of many federal agencies, including the U.S.Department of Justice, Department of Commerce, Government Accountability Office and the Small Business Administration. He earned a bachelor’s degree with honors in Business Administration from Bowie State College, and attained every auditing-related certification, including CPA, CISA, CFE and CGFM. Since retiring, he has worked on a few consulting assignments and been a contributing writer for MarylandReporter.com, specializing in audit coverage.

@@ -1,0 +1,73 @@
+By the end of 2014, according to a Premier Inc. survey of hospital executives, about half of the nation's hospitals will be participating in an accountable care organization (ACO). That represents a jump from 18 percent in the fall of 2013 and less than 5 percent in the spring of 2012.
+
+Such dramatic growth suggests that the ACO model, with its emphasis on coordinated care and shared financial risk, will play a vital role in paving the path to healthcare reform. When physicians, specialists and hospitalists work together — and aren't beholden to the fee-for-service model — it's expected that overall costs go down while the quality of care improves.
+
+The ACO model itself, authorized by the Affordable Care Act, suffered a bit in 2013. Of the 32 participants in the Pioneer ACO Model, nine dropped out last July. What's more, of the original 32, only 13 Pioneer ACOs saved enough to share savings with Medicare.
+
+Look beyond the headlines, though, and the concept of accountable care fared better. First, the Premier study estimates that there are as many as 500 ACOs in the United States. (An annoucement from the Centers from Medicare and Medicaid Services has since upped the number to more than 600.) In addition, seven of the nine Pioneer "dropouts" switched to the Medicare Shared Savings Program; though the MSSP carries less risk (and therefore less reward, it also emphasizes more coordinated care. Finally, and perhaps most importantly, Health Affairs points out that it's more helpful, after but one year, to deem the Pioneer ACO Model a learning opportunity and not a flawed program.
+
+Analytics May Help ACOs Succeed Where Capitation Failed
+
+Jonathan Gluck, senior executive and corporate counsel with the Heritage Provider Network, says the ACO model, when you get down to it, is pretty simple. An organization has a pool of patients. Government benchmarks determine the amount of money the organization receives from public and private payers to care for those patients. Any money the organization saves gets shared among its members.
+
+"It's a much more effective model to provide higher quality care to more people for less money" than the incumbent fee-for-service model, Gluck says.
+
+But it's hard to discuss the ACO model of today without bringing up the health maintenance organization (HMO) model of yesterday. The HMO relied on capitation, which sets a fixed amount of revenue for a healthcare provider. Success under capitation means managing risk and practicing preventive healthcare, as preventing illness costs less than treating it.
+
+Capitation took aim at the fee-for-service model of healthcare reimbursement that, in the mid-1990s, was only beginning to spiral out of control. It failed, though, in large part because physicians lacked the data to measure their own performance, IDC Health Insights wrote in last year's report, Business Strategy: Analytics Leads Accountable Care Investment Priority.
+
+"Not only was the available information limited to claims but it was retrospective," IDC wrote. "It was virtually impossible for physicians to understand their own practice patterns and determine how their performance needed to be modified. Most discussions between payers and providers resulted in arguments about the accuracy and timeliness of the data."
+
+[ Feature: Big Data Analytics Use Cases for Healthcare IT ]
+
+[ Also: Can Healthcare Big Data Reality Live Up to Its Promise? ]
+
+Data — much more readily available than it was 20 years ago — will lead to a better fate for the ACO than the HMO, IDC said. Healthcare organizations are making needed investments in analytics and warehousing technology, not to mention staffing. They're also paying particular attention to population health management, especially for patients with chronic conditions or those participating in wellness programs to better manage their health.
+
+To do this, the Premier Inc. survey found, hospitals partner with a bevy of entities, from local public health departments and nearby large employers to payers (public and private) and external providers.
+
+With ACO Analytics, 'Getting Lost in the Weeds' All Too Easy
+
+Pioneer, MSSP or otherwise, ACOs face a variety of technology challenges. These include electronic health record (EHR) adoption, clinical systems interoperability and patient engagement — but data analytics is the arguably the biggest obstacle of all.
+
+It's great to marry payer and provider data to get longitudinal, real-time analysis on a patient, but it's "incredibly complex and complicated," and simply foisting that information on physicians is "adding to a day that has no time," says Michael Gleeson, senior vice president of product strategy for Arcadia Solutions. (Gleeson spoke at the recent Strata Rx conference.)
+
+Providers need to build trust in order to build improvement, Gleeson says. That means examining physician workflows — which admittedly involves "weird Big Brother stuff" — to see how high-performing doctors interact with clinical systems. Only then will an organization understand when it's best to put data in front of a physician.
+
+Then there's the matter of how you put data in front of a physician. EHR systems are complicated even without the inclusion of clinical decision support, HIE and ACO management modules. There's also the temptation of "getting lost in the weeds," Gluck says, of "letting perfect be the enemy of the good."
+
+[ Analysis: Why Healthcare Sees Big Data As More Than a Bandage ]
+
+[ Also: Meaningful Use, 3-D Imaging Drive Health Data Storage Demand ]
+
+To combat that, Heritage Provider Network built its own Web-based ACO management system to tracks individual patient care plans and quality measurements and put them in the context of how treatment is progressing and how much it's costing. Echoing Gleeson, Gluck says a fancy complicated analytics program that tries to be "everything to everyone" isn't helpful for time-starved physicians who don't like complicated software platforms.
+
+For Heritage Provider Network, ACO success is a matter of picking the proverbial low-hanging fruit (reducing hospital readmissions) or the healthcare services that aren't necessarily offered elsewhere (diabetes management) and using analytics to make the most of those initiatives.
+
+ACOs Must Think Globally, Act Locally
+
+Of course, what works in California may not work elsewhere. Use cases for the ACO model can't be viewed as academic exercises in data, according to Kenneth Paulus, CEO at Allina Health, a health network providing care for roughly one-third of Minnesotans. (Paulus spoke on the ACO panel at the recent MIT Innovations in Healthcare Conference.) "It's messy, difficult and personal," he says. "A lot of times, it's not about data."
+
+Nor will what worked for early adopters work on scale. ACOs must strike a balance between needing data to adjust services as they manage overall cost growth and, at the same time, continuing to adapt their practice to local cultures, says Dana Gelb Safran, senior vice president of performance measurement and improvement for Blue Cross Blue Shield of Massachusetts. Crucially, data on patient experience lies at the heart of the matter.
+
+To that end, Allina uses care guides, health coaches, triage nurses and other "creative positions" to ease the burden on physicians while improving patient engagement, Paulus says. Care guides, in particular, play an important role; working with three or four doctors, they serve as a go-between for patients with chronic conditions and their physicians. "They are the glue to the practice," he says.
+
+Involving these various front-line caregivers is paramount to the success of the ACO's redesigned care delivery mode, says David Torchiana, chairman and CEO of the Massachusetts General Physicians Organization. Hospital leadership can't just simply hand down a set of guidelines and expect caregivers to comply.
+
+Massachusetts admittedly has had a head start on other states, Torchiana admits. Pioneer ACO Partners HealthCare has been a de facto ACO since the early 1990s, while cost management and risk-based contracts have been on executive's minds since the state's landmark 2006 healthcare reform bill. If the Bay State is any indication, Torchiana says, "The signs are very encouraging."
+
+ACO Success Hinges on 'Mindset Shift'
+
+Despite the hurdles, and despite the setbacks the Pioneer ACO Model endured in 2013, there are six reasons that the MIT speakers say the ACO will fare better than the HMO:
+
+Data is more readily available, and providers are starting to figure out what to do with it. The task at hand is more readily understood. Today's physicians leave medical school knowing more about team-based care than their predecessors. Quality reports are more transparent. As healthcare providers merge and consolidate, they need to integrate clinical systems. In an industry that still uses the fax machine, the bar has been set low.
+
+[ Analysis: Why Fixing Healthcare Requires Netflix-Like Disruption ]
+
+[ More: 6 Innovations That Will Change Healthcare ]
+
+In particular, Safran says, the cognitive, motivational, practical and financial barriers to a patient's ability to take a physician's advice are falling. When physicians aren't rated, or compensated, based on outcomes, it's easy to adopt a "don't ask, don't tell" policy — payment reform, she says, tells physicians that they need to me "practicing at the top of your license."
+
+Above all, though, the success of the ACO model rides on what Gluck calls a "mindset shift." When a worried mom calls a doctor's office at 4:30 p.m. on a Friday, a physician who bears no burden to save costs can tell the mother to take her child to the hospital to treat a fever. When there's a shared risk, though, the physician will make time to see the child — and, Gluck says, earn $12,000 or more in shared savings for the entire organization by eliminating a single hospital visit.
+
+Brian Eastwood is a senior editor for CIO.com. He primarily covers healthcare IT. You can reach him on Twitter @Brian_Eastwood or via email. Follow everything from CIO.com on Twitter @CIOonline, Facebook, Google + and LinkedIn.

@@ -1,0 +1,53 @@
+WASHINGTON -- A majority of large IT projects fail to meet deadlines, are over budget and don't make their users happy. Such is the case with Healthcare.gov.
+
+The U.S. is now racing to fix Healthcare.gov, the Affordability Care Act (ACA) website that launched Oct 1, by bringing in new expertise to fix it.
+
+Healthcare.gov's problems include site availability due to excessive loads, incorrect data recording among other things.
+
+President Barack Obama said Monday that there is "no excuse" for the problems at the site.
+
+But his IT advisors shouldn't be surprised -- the success rate for large, multi-million dollar commercial and government IT projects is very low.
+
+The Standish Group, which has a database of some 50,000 development projects, looked at the outcomes of multimillion dollar development projects and ran the numbers for Computerworld.
+
+Of 3,555 projects from 2003 to 2012 that had labor costs of at least $10 million, only 6.4% were successful. The Standish data showed that 52% of the large projects were "challenged," meaning they were over budget, behind schedule or didn't meet user expectations. The remaining 41.4% were failures -- they were either abandoned or started anew from scratch.
+
+"They didn't have a chance in hell," said Jim Johnson, founder and chairman of Standish, of Healthcare.gov. "There was no way they were going to get this right - they only had a 6% chance," he said.
+
+But Johnson said he does believe the project is fixable, and doesn't see the rollout problems as "life threatening at this point."
+
+The healthcare.gov contractor was initially awarded more than $93 million for the project, but costs have been soaring above that.
+
+Large state and federal government IT projects are notorious for blowing up.
+
+Just last year, the U.S. Air Force said it was scrapping implementation of an ERP project that had already cost it $1 billion.
+
+Earlier project disasters include the FBI's abandonment of a $170 million virtual case initiative, and its decision to start over with a new project that cost $425 million. Also, the U.S. Census Dept.'s automation efforts became a boondoggle, with big cost overruns. An Orange County, Calif., tax system modernization project that began with 6,000 pages of specifications was declared "fatally flawed" this year.
+
+Large commercial IT projects face the same problems. Even the just released Windows 8.1 release is has been hit with problems.
+
+Software development experts and analysts point to multiple issues as the potential cause of such problems.
+
+The "most dangerous" of all failure points for a software development project is the "big bang" release, the approach the government took by releasing the ACA site on Oct. 1 release, said Johnson.
+
+Other sources of problems, said Johnson, could be too many changes made along the way, and too much bureaucracy. Slow moving government and contractor designers and developers can stymie or slow projects.
+
+Many large projects are rolled out slowly and incrementally to allow extended testing and feedback, said Johnson.
+
+Healthcare.gov isn't just a website -- it has lots of interactions and interdependencies with other agencies and private sector firms, said Lev Lesokhin, senior vice president at Cast, a software analysis and measurement firm. He said he wouldn't be surprised if the website has 500,000 lines of code.
+
+Developing specifications correctly for such a complex design is a common problem, said Lesokhin.
+
+Another is sourcing, he said. Multiple parties have worked on Healthcare.gov, which makes it more difficult to manage than an agile and incremental effort in projects where the developers are all in one place.
+
+Technical oversight by a team that has responsibility for all interdependencies is another need. "Clearly we are seeing the symptoms that that was not put in place," said Lesokhin, of the technical oversight.
+
+For all its issues, Healthcare.gov is still managing to help some people.
+
+Anthony Franco, president of EffectiveUI, an application development firm, said that most large organizations would call the project a success at this point. "You are fundamentally solving a problem that hasn't been solved before," he said.
+
+Forrester, in a research report commission by EffectiveUI and released last week, found that only 39% of business decision makers believe their internal IT organization has the ability to regularly deliver projects on-time and budget. That's more than Standish found, but the Forrester report a higher number that Standish figure, but the survey referred to IT projects of all sizes.
+
+Jerry Luftman, executive director of the Global Institute for IT Management, said the 39% in the Forrester survey is a big improvement from a few years ago. He credited the improvement with a shift to mobile apps and agile development for the improvement.
+
+Patrick Thibodeau covers SaaS and enterprise applications, outsourcing, government IT policies, data centers and IT workforce issues for Computerworld. Follow Patrick on Twitter at @DCgov, or subscribe to Patrick's RSS feed . His email address is pthibodeau@computerworld.com.

@@ -1,0 +1,45 @@
+Researchers at Princeton University are working to engineer an "ouch-less" alternative for people who need to check their blood sugar several times a day.
+
+Led by professor of electrical engineering Claire Gmachl, the team developed a laser that beams light into the skin — just a fraction of a millimeter deep.
+
+"There the light meets the sugar molecules, and the sugar molecules absorb the light," Gmachl said. "When light exits the skin again, some light is missing, and from that missing light, we can tell how many sugar molecules are there the in the skin."
+
+So far, the researchers have only tested the non-invasive sensor on a handful of healthy study participants — not for those with diabetes. The Princeton engineers likely have years of development ahead of them to make the device smaller, quicker, more automated — and inexpensive enough right for consumers.
+
+The general approach — beaming light into tissue — is not new. For example, light is used to measure sugar content in grape farming.
+
+"There was something called the 'dream beam' that actually got submitted to FDA approval, and soundly rejected, about 20 years ago," said Matt Petersen, managing director of medical information for the American Diabetes Association.
+
+"Many have tried, many have failed. It's a hard engineering challenge," Gmachl said.
+
+Princeton's device uses a mid-infrared light delivered by a quantum cascade laser. Gmachl said recent advances in laser technology have made it possible to harness the power and stability needed to penetrate skin.
+
+"The best way to describe this light is that you can't see it, it's heat. When we use the word infrared, it pretty much just means heat spectrum. We are pretty much shooting heat into your skin," said Sabbir Liakat, a Princeton doctoral candidate and lead author on the study published in the journal Biomedical Optics Express.
+
+Standard, commercially available glucose meters monitor sugar in the blood; Princeton's prototype hunts for glucose in interstitial fluid.
+
+"That's pretty much the liquid content in your skin," Liakat said.
+
+"What researchers have found in the past is that after a couple of minutes time delay, the sugar content in the liquid part of the skin matches the content in your blood, with like 97 percent accuracy," Liakat said.
+
+Accuracy is paramount
+
+Today's standard blood sugar monitors require a finger prick. Petersen says they've become very accurate, inexpensive and portable.
+
+A pain-free glucose-sensing device could likely draw a very big audience, Petersen said, but "that audience is not just looking for pain-free they are looking for accurate, so they'll really need to have a product that people can trust."
+
+Government regulators require that glucose monitors produce a blood-sugar reading within 20 percent of the patient's actual level.
+
+Liakat said his device stacks up.
+
+"If the actual concentration is, let's say, 100 milligrams per deciliter, we want to be within in 20 percent of it. That's what we call accurate. So with that metric, we achieve accuracy about 85 percent of the time right now," he said.
+
+Petersen said the Princeton team is asking the right questions to move toward a meter that people with diabetes could actually use.
+
+Some of the glucometers on the market today are nearly as small as a lipstick.
+
+Princeton's device is lab-bound and requires clunky cooling equipment to perform at room temperature.
+
+One scan of the sensing laser takes just 17 seconds, but the researchers need to gather several scans in order to ensure an accurate reading.
+
+Humans are constantly making involuntary, almost imperceptible movements that can flub an accurate sensor reading. Participants have to hold their arm on the surface of the device for two full minutes.

@@ -1,0 +1,15 @@
+Washington Post:
+
+The Web portal used by millions to get health insurance under the Affordable Care Act has logged more than 300 cybersecurity incidents and remains vulnerable to hacking, nonpartisan congressional investigators said Wednesday.
+
+The Government Accountability Office said none of the 316 security incidents affecting HealthCare.gov appeared to have led to the release of sensitive data such as names, birth dates, addresses, Social Security numbers, and financial or other personal information.
+
+Most of the incidents seemed to have involved probing by hackers. The incidents took place between October 2013 and March 2015.
+
+The GAO said the administration is making progress, but it concluded that security flaws “will likely continue to jeopardize the confidentiality, integrity and availability of HealthCare.gov.”
+
+Investigators identified weaknesses in protecting sensitive information that flows through a key part of the system called the data-services hub. Operating behind the scenes, the hub pings federal agencies to verify the personal details of consumers.
+
+The GAO said shortcomings included insufficiently tight restrictions on “administrator privileges” that allow a user broad access throughout the system, inconsistent use of security fixes and an administrative network that was not properly secured.
+
+The report also found “significant weaknesses” in health insurance sites operated by states, which connect to the data hub.

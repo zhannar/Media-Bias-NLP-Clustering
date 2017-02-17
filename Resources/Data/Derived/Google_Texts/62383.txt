@@ -1,0 +1,19 @@
+Citizen Services
+
+Government documents portal gets a major facelift
+
+The Government Publishing Office launched a beta test of its new documents portal, GovInfo, on Feb. 3. For the next year, GPO will test the site and solicit feedback before GovInfo officially replaces the Federal Digital System in 2017.
+
+Calling it "the Google for government documents," GPO CTO Richard Davis told FCW that the new site was designed with security and usability in mind.
+
+GovInfo will host the Congressional Record, the Federal Register, U.S. court opinions and more, and its responsive design will enhance access from mobile devices.
+
+GPO Program Manager Lisa LaPlant offered an example: When users search under the Affordable Care Act, results will include draft copies of the legislation, the actual law, citations, relevant U.S. code entries and more.
+
+The site will use the Apache Solr open-source search engine, which will run in a GPO data center rather than via the cloud and will be secured using the encrypted HTTPS protocol.
+
+Davis noted the importance of preserving trust in government digital documents and the threat of data manipulation, and added that GPO has used digital signatures to authenticate documents since 2009.
+
+"I think that's been a very important initiative that's carrying forward with the new site," he said.
+
+He also noted that after two years of development, GovInfo is gearing up to launch with an annual price tag of roughly $7 million. That's the same amount of money GPO spent on its first digital portal back in 1994, before adjusting for inflation.

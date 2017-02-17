@@ -1,0 +1,21 @@
+Via Wikimedia
+
+Almost all the news about Obamacare in the month since it launched has ragged on what a disaster the website's rollout has been. Because, well, the rollout's been a total disaster. As it stands now, an estimated 50,000 people have managed to enroll through the Affordable Care Act’s web exchanges—a number the administration admitted was "very low" and well below expectations. A month of bugs, glitches, frozen sites, canceled policies, and factual inaccuracies hasn’t helped the partisan fight quiet down any.
+
+Given all that, there hasn't been a lot of talk about how to handle the 30 million people that'll be ushered into America's troubled health care system if and when Obamacare really gets rolling. Or the 9 million of those that won't speak any English. I chatted with Canopy Apps, a health-tech startup that is thinking about this next step. Anticipating the linguistic-barrier problem, the company developed a translator app to help doctors and nurses bridge the language gap with their patients.
+
+"It's a huge problem," Jerrit Tan, Canopy CEO and ex-Googler told me. "If you speak Chinese, or you speak Russian or Spanish, it's more than likely you're not going to get an interpreter." Which means doctors and nurses in hospital emergency rooms are left to guess, using not much more than hand signals, what the medical issue is, and what the right treatment is. As you’d expect, this has led to some horror stories in the past.
+
+"It's not only a problem from the human standpoint," Tan went on. "But also it costs the system a ton of money. When you don't understand what's going on, you're not going to take the right medicine, treatment may not work; you come back to the ER." From that standpoint, repeat patients defeats one of the primary goals of Obamacare, which is provide preventive care to try and minimize the burden on US hospitals.
+
+Canopy's solution is an app that works, to quote their buzz-phrase, like "an interpreter in your pocket." The app makes it easier to access the language interpretation services that all hospitals are required to have—and spend upwards of $5 billion a year on—but that are rarely used because they're ineffective and outdated.
+
+The way the system works now is that if a foreign language-speaking patient comes through the ER and can't communicate with medical staff, staffers have to hightail it to a specific landline phone attached to a wall somewhere in the building, that accesses the telephone interpreters employed by the hospital. Canopy's solution is stupid simple: The app will access the on-call translators from a smartphone or tablet, so doctors and nurses essentially have an interpreter on them at all times.
+
+The app also includes a database of commonly used phrases that are pre-interpreted by medically-trained human translators. Real basic questions or directions like, "Show me where the pain is; does your medication work; please change into your gown; or we're waiting for your lab results and will tell you when they're ready," can make a huge difference in a patient's experience, Tan said.
+
+The app’s been in public beta for a month and will soon be deployed in a handful of early adopter hospitals, including Mt. Sinai in New York, Jefferson University Hospital in Philadelphia.
+
+At this point the translated phrases are available in 12 languages—the most commonly spoken dialects in the US and also more obscure languages that the hospital’s phone interpreters probably don't offer. The startup’s plan is to expand to 150 languages, with the help of funding from the National Institutes of Health.
+
+That's not an easy haul, because all that translation is being done by humans, not computers. Even as machine language translation improves as artificially intelligent machines advance, it won't be used for things like medical translation or the military "until it's 99.9 percent accurate," which is probably still 15 or 20 years out, Tan explained. You can't afford any errors when lives (and lawsuits) hang in the balance.

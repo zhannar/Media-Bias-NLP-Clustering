@@ -1,0 +1,21 @@
+The University of Iowa Hospitals and Clinics is reducing the rate of surgical infections by using predictive analytics. At the end of 2014, the rate of infections for patients of colon surgery dropped 58% over a two year period.
+
+Using a variety of data, including information from the patient’s medical records and specifics of the surgery itself such as patient vital signs during the operation, the University of Iowa can predict which patients are likely to face the biggest risk of infection. Before those patients leave the operation room, doctors can create a plan to reduce that risk whether that’s altering medication or using different techniques in treating the wound.
+
+University of Iowa Hospitals and Clinics Dr. John Cromwell, associate chief medical officer and director of surgical quality and safety at the University of Iowa Hospitals and Clinics.
+
+Surgical complications, such as surgical site infections that occur after a patient is discharged, are the most common reasons for unplanned hospital readmission according to a study from Northwestern Medicine and the American College of Surgeons, published February 3 in JAMA. Under the Affordable Care Act, Medicare will, in some cases, reduce reimbursement to a hospital that has too many unplanned readmissions within 30 days.
+
+The techniques surgeons use are very precise, but there’s quite a bit of variation in post-surgical care among hospitals and even within units of the same hospital, said Dr. John Cromwell, associate chief medical officer and director of surgical quality and safety at the University of Iowa Hospitals and Clinics. “What we’re really trying to do is bring that same precision to the decision-making around the operation,” he told CIO Journal.
+
+There are many factors that determine whether a patient gets a surgical site infection, including whether or not the patient suffers from diabetes or hypertension. One of the biggest factors, though, is what actually happens in the operating room during a surgery. That might include the patient’s vital signs such as blood pressure and heart rate during the operation or whether the patient received a large blood transfusion. These variables haven’t been adequately accounted for in post-operative care, said Dr. Cromwell.
+
+The University of Iowa took 1,600 patients and built a model of its environment, taking into account hospital procedures in surgery and post operation and the outcomes of previous surgeries and the risk of surgical site infection. After validating that model in another population of patients, the model was loaded into predictive analytics software called Statistica from Dell Inc. That model pulls data from a wide number of sources, including patient medical records, data from registries such as the National Surgical Quality Improvement Project and equipment that monitors blood pressure, telemetry and oxygen levels in the blood.
+
+During surgery, as the surgeon closes up the patient’s abdomen, the circulating nurse logs onto a Web portal for the software and enters real-time data such as patient blood loss during the operation, the wound classification and whether it was contaminated, said Dr. Cromwell. That data is combined with the patient’s medical records and run through the model and comes back with the risk of a patient getting a surgical site infection. That risk can determine which medications and techniques doctors use after the operation to minimize the risk of infection.
+
+“Our goal has been to get that risk [of developing infection] before the patient leaves the operating room, mainly because there are some therapies out there that don’t make sense to apply to every patient,” said Dr. Cromwell. For instance, in colon surgery, a risk of surgical site infection varies between 5% and 20%. Using invasive therapies or very expensive therapies on every patient doesn’t always make sense but zeroing in on a very high risk patient “gives us that opportunity to appropriately use those resources,” he said.
+
+Write to rachael.king@wsj.com
+
+CORRECTION: The rate of infections for patients of colon surgery dropped 58% over a two-year period. An earlier version of this story said the rate of infections dropped for bariatric or weight loss surgery.

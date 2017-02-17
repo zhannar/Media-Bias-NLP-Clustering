@@ -1,0 +1,67 @@
+What is knowledge-based authentication? The KBA design asks the user to correctly answer at least one question, a “secret” only the user would know.
+
+There are two types of KBA: 1) Answering a question that the user has pre-selected (static scheme), and 2) Answering a question that’s determined by garnering data in public records (dynamic scheme).
+
+The idea is that if a question is correctly answered, the person’s ID has been verified.
+
+KBA Flaws
+
+Fraudsters can answer “secret” questions—even those that the user must think hard to answer. But how?
+
+Spear-phishing: gaining access to the public data aggregators by tricking their employees and getting into their accounts, getting the “keys” to the data. Knowledge-based authentication is definitely flawed. Additionally, with all our personal information floating out there in social sites, it is becoming much easier to research anyone enough to pass these questions.
+
+KBA is especially unreliable when it applies to people new to the U.S. or who are young, as they don’t have much public data built up.
+
+Though KBA is flawed, it’s also the heavily preferred method for ID because it’s so technically easy. This is why Obamacare will be using it for the new healthcare insurance exchanges.
+
+Attempts at Regulation
+
+A regulation attempt was made by the U.S. banking regulators that involved costliness. That didn’t go over well. Another instance was that in 2006, ChoicePoint was fined by the FTC for a 2004 breach; they were ordered to conduct intense security audits for possibly 20 years.
+
+Solutions
+
+Authentication should be multifactorial. A multidimensional security system might include:
+
+Customer history and behavior is considered.
+
+Dual customer authorization via varying access devices
+
+Transactions verified via out-of-band
+
+Debit blocks, positive pay and other methods that appropriately curtail an account’s transactional use
+
+More refined controls over account activities, such as number of daily transactions, payment recipients, transaction value thresholds and allowable payment windows
+
+Blockage of connection attempts to banking servers from suspicious IP addresses
+
+Policies for addressing potentially compromised customer devices
+
+Improved control over any changes done by customers to their account
+
+Better customer education to increase awareness of security risks, including how customers can mitigate risks
+
+A layered security program should include, at a minimum, the following:
+
+Detection of suspicious activity followed by a response. Suspicious activity may be related to logins and verification of customers wanting access to the bank’s electronic system, and also to initiation of electronic transactions that pertain to fund transfer to other parties.
+
+Institutions should do away with using simple device ID as the primary control.
+
+They should also do away with using basic “secret” questions as a primary control.
+
+An Alternative to KBA
+
+There is now a software-only biometric that can authenticate the user’s identity in a way that’s so unique that no imposter can beat it.
+
+This patented software is referred to as the “Missing Link,” created by Biometric Signature ID (BSI). It’s the strongest form of ID confirmation on the market today, and it doesn’t even require any additional hardware.
+
+How does this biometric work?
+
+It measures how a person moves their mouse, finger or stylus when they log in using a password created with BioSig-ID™.
+
+Biometrics measured include elements like height, length, speed and direction, angle of each stroke. These all define the user’s unique pattern—that a fraudster cannot replicate. Positive IDs can be done when someone logs in on any device.
+
+In order to access the device, or whatever else (bank account, medical information, online college exam, etc.), the user must be previously authenticated against their original profile. . In seconds and with only 3-4 characters BioSig-ID™ software will establish whether the person who registered for the account is the same person who is attempting access. This SaaS based software is now used in over 60 countries and was recently awarded a grant by the White House to use their solution to validate user identity before online they can access a digital asset.
+
+Robert Siciliano, personal security and identity theft expert and BioSig-ID advisory board member. He is the author of 99 Things You Wish You Knew Before Your Mobile was Hacked! See him knock’em dead in this identity theft prevention video. Disclosures.
+
+Follow Robert Siciliano on Twitter: www.twitter.com/RobertSiciliano

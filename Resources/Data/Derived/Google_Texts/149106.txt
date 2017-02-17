@@ -1,0 +1,81 @@
+In late November, Stephanie Van Dyk got a cryptic call from her boss at Google.
+
+She noticed Mikey Dickerson, a site reliability engineer, hadn’t been at their Mountain View, Calif. office lately. Now he was calling her from an unknown location with this request: “Your country needs you.”
+
+Ms. Van Dyk, who is from Vancouver, jokingly said: “I don’t think you’re talking about my country.”
+
+He laughed, then said: “Fine, fine — the President needs you.”
+
+That’s how Ms. Van Dyk became one of three Canadians who were part of the so-called “tech surge”: a group of the best and brightest techies rounded up to resuscitate HealthCare.gov, the website where uninsured Americans could sign up for health coverage.
+
+Related
+
+I view healthcare as a human right, it doesn’t really matter if it is Canada or America or any other country
+
+The portal was the centrepiece of U.S. President Barack Obama’s Affordable Health Care Act, and a technical and political mess. The Act, also known as Obamacare, was at the centre of a fierce battle between U.S. Democrats and Republicans.
+
+When the website launched on Oct. 1, it was riddled with glitches and only a trickle of the millions of Americans who rushed to enrol in insurance exchanges got through.
+
+Problems persisted for weeks and Montreal-based CGI Inc., one of the contractors who helped build the website, also came under fire for the bungled rollout. The furor prompted President Obama himself to apologize for the glitches.
+
+And in a bid to fix it, U.S. officials launched what they called a “tech surge”: they flew in a team of software engineers, developers, designers and analysts from the likes of Silicon Valley and the Obama election campaign.
+
+Among this technological elite were three Canadians: Mountain View, Calif.-based site reliability engineer Ms. Van Dyk, Vancouver-based software engineer Ben Komalo, and University of Waterloo student David Hu.
+
+Ms. Van Dyk did accept the call to work — taking unpaid leave from her new Google job — because healthcare is a cause close to her heart as a Canadian, she said.
+
+“I view healthcare as a human right, it doesn’t really matter if it is Canada or America or any other country,” she said.
+
+Mr. Komalo got a similar message from Brandon Ballinger, a friend and former colleague from his time at Google, in early December about a top-secret but “cool” opportunity.
+
+He later discovered it was the debacle all over the news. That challenge, and the high stakes, prompted him to take a leave of absence at his job as software engineer with Khan Academy, he said.
+
+“It really, really needed fixing,” said Mr. Komalo, who is originally from the Toronto area.
+
+“It was a really important thing, and when else am I going to be on a project where I can apply my technical skills and actually improve the lives of millions of users in such a short term?”
+
+And within days, Mr. Komalo found himself working 12-to-18 hour days, seven days a week, at the HealthCare.gov command centre in a non-descript DoubleTree hotel in suburban Columbia, MD.
+
+Mr. Komalo was part of the team tasked with rewriting components of the broken system, he said.
+
+It had a startup feel, he said. But it also felt at times like a college dorm, with techies strolling down the hall in their pyjamas to talk to a friend in a nearby room, he said.
+
+Ms. Van Dyk was part of the team tasked with site reliability engineering to stabilize the website. She says she worked “intense” 12-to-16 hour days virtually non-stop in both Washington, D.C. and Columbia, Maryland.
+
+Mr. Hu, however, still had one more school term at the University of Waterloo when Mr. Bellinger called him in November.
+
+“I proposed that I would be able to work on this remotely, and possibly for a few weekends, at a time while I would be in school,” he said.
+
+Mr. Hu flew down to New York and Baltimore before his term started, and on weekends, and cut an extra course from his software engineering program to accommodate the workload.
+
+He was part of Mr. Komalo’s team, which was also tasked with building a new, simplified process to sign up on the website.
+
+In all, there were as many as 50 people on a rolling basis on the team working with U.S. Chief Technology Officer Todd Park to fix HealthCare.gov to try and hit the Obama administration’s target of 7 million enrolments by March 31.
+
+And, indeed, the inner workings of Healthcare.gov were a mess.
+
+“If you can imagine, there were 55 different sub-teams working on one website,” Mr. Komalo said. “It is complete chaos.”
+
+There was also a “culture shock” between the lean, agile startup world and the government’s hierarchical approach of using multiple contractors and layers of bureaucratic processes, Ms. Van Dyk said.
+
+“Most of the problems were people problems,” she said. “Little communication between the companies, little communication between the contractors. People didn’t really know who was in charge of any one thing.”
+
+After a couple of gruelling months, the “tech surge” began bearing fruit.
+
+On April 1, the White House announced it surpassed its target with 7.1-million enrollees by the March 31 deadline. Two weeks later, President Obama updated the figure to 8 million.
+
+“We were all happy at that point,” Mr. Komalo said.
+
+President Obama celebrated the “tech surge” team with a reception in the White House in May. He thanked each worker individually with a handshake, said Mr. Komalo.
+
+There were a couple of tech-appropriate celebrities on hand, too — such as actor Will Wheaton, of Star Trek: The Next Generation, and Bill Nye The Science Guy, Mr. Hu said.
+
+“I thought it was a really exciting project,” said Mr. Hu. “I’m not even out of school yet, and had such an impact.”
+
+Now, all three Canadians are back to their respective jobs. Mr. Komalo has returned to Vancouver to work for Khan Academy, and Ms. Van Dyk is back at Google. Mr. Hu graduated earlier this month and is in Toronto, but will soon be moving to Silicon Valley to join Khan Academy there.
+
+But the work isn’t done yet. Some Marketplace Light members are now working on a new version of the website before the next open enrolment period begins on Nov. 15, Mr. Komalo said.
+
+Others are also being dispatched to work on other government portals.
+
+“I think our involvement has spurred some real change,” said Ms. Van Dyk.

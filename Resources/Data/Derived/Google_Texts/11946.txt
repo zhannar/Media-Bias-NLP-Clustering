@@ -1,0 +1,37 @@
+One of the Obama administration’s lesser known efforts to help “bend the cost curve” for health care has been requiring hospitals and large health organizations to shift from paper to digital patient records.
+
+The theory goes that a conversion to computerized records would not only reduce the cost of delivering care, but would also benefit patients by speeding up diagnoses and treatment and improving tracking of their medical histories. Despite the Internet revolution, many hospitals and doctors’ offices continue to rely on paper records and faxes in treating their patients.
+
+Related: Why Obama’s $30B Digital Health Record Plan Is Failing
+
+But with a deadline looming at the end of the year for health care providers to demonstrate "meaningful use" of electronic records, the transition nationwide “has been slower than anticipated,” writes Stuart N. Brotman, a faculty member of the Harvard Law School and Business School — and not simply because of the substantial costs and time it takes to make the switch. An epidemic of bold cyberattacks against the IT infrastructure of many medical facilities has scared off executives of other hospitals and institutions that have considered making such a move.
+
+A startling 81 percent of health care executives say that their organizations have been hit by at least one malware or cyberattack during the past two years, according to the 2015 KPMG Healthcare Cybersecurity Survey.
+
+What’s more, the number of attacks has increased from the previous year, with 13 percent of the 223 chief information officers and chief technology officers interviewed saying they are targeted by external hack attempts about once a day. Another 12 percent of executives interviewed complained of two or more cyberattacks a week.
+
+Related: Keeping Your Health Records Safe from Hackers
+
+“Such intrusions have potentially profound effects on e-health records,” Brotman wrote in a blog post for the Brookings Institution. “A breach can lead to a degradation of medical care and a loss of confidence by patients.”
+
+The situation is even worse in that 16 percent of health care organizations reported that they can’t detect in real time if their IT systems have been compromised. Among the greatest concerns of health care organization officials are external attackers, the possibility of data getting into the hands of third parties, employee breaches and inadequate fire walls.
+
+Last July, UCLA reported that 4.5 million patient records were accessed by hackers at the university’s health care system in California — including patients’ dates of birth, Social Security numbers and medical records. But that is only the tip of the iceberg.
+
+In August 2014, Community Health System, one of the largest health organizations in the country with 206 hospitals in 29 states, revealed that a group of hackers originating in China stole 4.5 million individuals’ nonmedical patient data using highly sophisticated malware. According to Modern Healthcare, the hackers were believed to be hunting for intellectual property on medical devices and other equipment, but then settled for data on patients. There have been scores of other similar attacks on health care facilities and hospitals.
+
+Related: Why Your Health Records Are Stuck in the 20th Century
+
+Some experts say the cost of hacking of IT records in the health care industry is potentially “catastrophic” — with billions of dollars of damage to IT infrastructure and additional costs for improving security. That helps to explain why so many hospitals and health care organizations are taking a wait-and-see attitude.
+
+“The vulnerability of patient data at the nation’s health plans and approximately 5,000 hospitals is on the rise and health care executives are struggling to safeguard patient records,” Michael Ebert, leader of KPMG’s Healthcare & Life Sciences Cyber Practice, said in a statement. “Patient records are far more valuable than credit card information for people who plan to commit fraud, since the personal information cannot be easily changed. A key goal for execs is to advance their institutions’ protection to create hurdles for hackers.”
+
+Since 2009, the Department of Health and Human Services has spent about $30 billion providing incentives to hospitals and doctors that moved from paper to electronic record keeping. However, the momentum to bring patient record keeping and sharing into the 21st century has had mixed success at best, even after passage of the Affordable Care Act, which targets electronic record-keeping as a priority for achieving long-term cost savings.
+
+Government officials at one time had sought to force all hospitals to move to digitized patient records by the end of 2015 or face penalties of reduced Medicare and Medicaid reimbursements. But many hospitals and health care services are finding it too difficult and costly to make the move, and are dropping out of the program. The threat of cyberattacks is further discouraging hospitals and medical care organizations from making the change.
+
+Related: Insurers Warn Obamacare Premium Prices to Soar
+
+“Unless and until these organizations are able to decrease the number and severity of real-time cyber threats, there is not likely to be a dramatic shift from paper to digital health records,” Brotman wrote for Brookings. “Financial incentives alone will not be sufficient to bring about this needed change. The data in the KPMG survey suggest that the underlying crisis of confidence is real; it must be addressed if this critical aspect of Obamacare is to be realized.”
+
+And without continued conversion of paper health care records to a digital system, Brotman added, “the essential variable of cost controls will be difficult, if not impossible, to achieve.”

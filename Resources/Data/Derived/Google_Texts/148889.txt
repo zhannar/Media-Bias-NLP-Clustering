@@ -1,0 +1,25 @@
+Apple customers have been hit by the first known ransomware attack to target Macintosh computers, according to security researchers.
+
+ADVERTISEMENT
+
+Apple devices had been spared from attacks, in which a type of nefarious software remotely encrypts a user's files, locking a person out until a ransom is paid. The increasingly popular cyberattack had mostly targeted Microsoft devices to this point.
+
+That all changed on Friday, however, when researchers at Palo Alto Networks discovered the “KeRanger” malware. In a Sunday blog post, the company described KeRanger as the first fully functioning ransomware attack on Apple’s iOS operating system.
+
+The hackers were able to infiltrate Macs through a compromised version of the popular Transmission software used to transfer data through the BitTorrent network. BitTorrent allows people to digitally exchange files.
+
+Mac users that downloaded the latest version of Transmission, released on Friday, had their computers infected with the ransomware, the blog said.
+
+Apple and Transmission have since swiftly moved to thwart the attack.
+
+Apple revoked the digital certificate that allowed the malicious version of Transmission to install on Macs. Transmission has also removed that version of its software from its website, releasing an update on Sunday that will remove the ransomware from Macs.
+
+Law enforcement has struggled to abate the explosion of ransomware, which has rapidly become a massive underground industry for cyber criminals, netting over $500 million a year and rising, according to experts.
+
+Ransomware often goes unreported and payments are made in the largely untraceable digital currency bitcoin. Most of the cyber blackmailers are also protected by friendly Eastern European governments.
+
+The FBI last year offered a $3 million reward for information leading to the arrest or capture of Evgeniy Bogachev, the elusive Russian hacker thought to be linked to the most malicious strain of ransomware, CryptoLocker, which is responsible for over $325 million in damages.
+
+It's the largest reward ever offered for a cyber criminal.
+
+“We are using all the tools in the toolbox,” said David Hickton, a U.S. attorney for Pittsburgh, where Bogachev was indicted.

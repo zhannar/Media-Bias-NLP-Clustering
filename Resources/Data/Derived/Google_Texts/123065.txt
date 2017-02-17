@@ -1,0 +1,21 @@
+Troubles in signing up for online Obamacare applicants have persisted well into their second week, and the main HealthCare.gov site remains unable to get many seeking coverage into first gear.
+
+It’s now at the point where questions are being raised about how the Health and Human Services web site was constructed and whether proper testing was done prior to the site’s launch on Oct. 1. One such expert in the field is Tom Lounibos, chief executive for privately held Soasta Inc. in Mountain View, Calif., which has done testing on sites for the 2012 London Olympics as well as the NASA’s Mars Curiosity rover.
+
+Shutterstock.com
+
+Lounibos says that while any number of things can go wrong for a web site, there are several “best practices” that HHS seems to have neglected in setting up the web site designed to handle Obamacare applications for 36 states. The sites set up by individual states to process their own applicants seems to be working out their glitches, but HealthCare.gov continues to have the same issues it did a week ago.
+
+“What you learn in retail [e-commerce] is the user experience is the whole thing,” Lounibos said. “They kind of failed on the whole user experience.”
+
+“It’s a little difficult to swallow how this can be so bad,” he went on to say, later adding: “It doesn’t appear they followed best practices.”
+
+The best practices that HHS apparently is missing include failure to perform continual testing on the site, test across all browsers and environments, as well as load testing. Poor government policies and workmanship can’t be blamed, Lounibos added, because the U.S. has handled complex computing tasks before such as annual tax filings.
+
+It’s unknown what kind of software and tooling HHS used in order to set up the Web site; HHS officials have yet to respond to inquiries. But the good news is that unless HHS used Reagan-era technology, most of the problems could be fixed in relatively short order, he said. Web sites like Google handle much more volume on any given day, Lounibos added.
+
+“These are not extraordinary volumes, that I can tell,” he said.
+
+Follow Russ Britt on Twitter @russbrittmktw
+
+Follow Health Exchange on Twitter @MWHealthBlog

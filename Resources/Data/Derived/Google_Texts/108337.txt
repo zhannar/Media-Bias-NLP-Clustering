@@ -1,0 +1,45 @@
+The Supreme Court announced on Friday that it would hear a lawsuit, known as King v. Burwell, seeking to undermine the Affordable Care Act by cutting of subsidies intended to help millions of Americans pay for health insurance. Obamacare gives every state government a choice. They can either set up their own health care exchange where their residents can purchase health insurance and receive subsidies if they qualify, or they can elect to have the federal government set this exchange up for them. The plaintiffs argue that only exchanges that are operated by a state government may offer subsidies, while people who live in states with federally run exchanges are left out.
+
+The plaintiffs’ arguments are deceptively simple, while the government’s argument defending the subsidies are somewhat more complicated — even though, as we will explain, the government’s arguments are correct and the plaintiffs’ arguments are misleading. To understand why, however, it is important to first understand one of the most basic principles courts must apply when interpreting an act of Congress. Legislatures have the power to define words and phrases in ways that are bizarre, counterintuitive or confusing — here, for example, is a federal law which defines the word “individual” to include trusts and private foundations — and courts have an obligation to read those words or phrases the way the legislature defined them, even if that definition seems strange.
+
+Defining “Dog”
+
+To explain, imagine that Congress enacted a law providing that “no person may keep a dog in their home.” This law seems straight forward. It forbids anyone within the federal government’s jurisdiction from keeping a member of the subspecies canis lupus familiaris as a pet or otherwise allowing such an animal to live in their home. Now, however, imagine that Congress enacted a slightly different law:
+
+(a) In general: No person may keep a dog in their home. (b) Definition: As used in this chapter, the term “dog” includes all four-legged animals.
+
+Notice the definition section of this hypothetical law. The word “dog” has been redefined for purposes of this law to include not just the animals commonly referred to as “dogs,” but to also include animals like cats, mice, gerbils and hamsters that also walk on four legs. A court applying this statute, moreover, would be obligated to follow this strange definition of the word “dog,” even though that is not how that word is typically used.
+
+This may seem like very basic stuff, but understanding this concept is the key to understanding the flaw in the plaintiffs’ argument in King. It is also important to understand that Congress may define words in ways that are completely unlike or even opposite their normal meaning, and Congress is obligated to follow that definition as well. To explain, consider one more hypothetical law:
+
+(a) In general: No person may keep a dog in their home. (b) Definition: As used in this chapter, the term “dog” only includes animals of the species felis catus. Under no circumstances shall the term “dog” be construed to include animals of the subspecies canis lupus familiaris.
+
+Here, the hypothetical law defines “dog” to mean “cat,” and it specifically instructs courts not to read the word “dog” to mean “dog.” Once again, courts are obligated to follow this definition, even though it completely redefines a common English word.
+
+First Looks Can Be Deceiving
+
+That brings us to the plaintiffs’ argument in King. The plaintiffs rest their case on a provision of the Affordable Care Act which suggests that subsidies shall only be available to people who are enrolled in a health plan purchased “through an Exchange established by the State.” And, indeed, when this passage is read in isolation, it seems obvious that their argument must be correct. As two judges who sided with the plaintiffs explained, “a federal Exchange is not an ‘Exchange established by the State,'” and, at first glance, that looks like all you need to know in order to decide this case.
+
+The reality, however, is that Congress can define the phrase “Exchange established by the State” to also include exchanges established by the federal government — just like they can define the word “dog” to mean “cat” — and that is exactly what Congress did in the Affordable Care Act.
+
+Two provisions of the law accomplish this task. The first provides that “[a]n Exchange shall be a governmental agency or nonprofit entity that is established by a State.” Read in isolation, this passage can be read in one of two ways. One way to read it is as a passage limiting who can set up exchanges. If an Exchange “shall be” an “entity that is established by a State,” that seems to mean that no other kind of “Exchange” can exist. If the passage is read this way, federally run exchanges would be illegal, because they are not an “entity that is established by a State.”
+
+The other plausible interpretation of this provision, however, is that it is meant to define the term “Exchange.” Under this second possible reading, the word “Exchange” is defined so that any Exchange is deemed to be “established by a State,” even if it was actually established by the federal government.
+
+Read in isolation, there is no way to decide which one of these two possible readings of this provision is correct. A third provision of the law clarifies this ambiguity, however. That third passage provides that if a state elects not to set up its own exchange, “the Secretary shall (directly or through agreement with a not-for-profit entity) establish and operate such Exchange within the State and the Secretary shall take such actions as are necessary to implement such other requirements.” This is an explicit provision authorizing the federal government to establish Exchanges. Thus the ambiguous passage cannot be read to require all “Exchanges” to be “established by a State.” The only remaining possibility is that any “Exchange,” whether state or federally run, shall be deemed an “Exchange established by the State.”
+
+The phrase “Exchange established by the State,” in other words, is defined to mean “Exchange established by the State or the federal government.” This may seem as bizarre as using the word “dog” when you really mean “cat,” but Congress has the power to define words in counterintuitive ways, and courts are obligated to follow those definitions. The Supreme Court is obligated to follow Congress’s decision to define the phrase “Exchange established by the State” in a way that also includes federally run exchanges. If the justices do anything else, they will be thumbing their nose at the law Congress drafted.
+
+A Weight Of Other Language In The Law
+
+King v. Burwell, in other words, is a straightforward case of statutory interpretation, and the law is clearly on the government’s side. Nor are the flaws in the plaintiffs’ arguments limited to the one described above, as the Affordable Care Act’s text contains numerous other indications that Congress intended both state and federally run exchanges to be able to provide subsidies:
+
+The subtitle of the Affordable Care Act which contains the provision plaintiffs rely upon is titled “Affordable Coverage Choices for All Americans.” It is not entitled, “Affordable Coverage Choices for Americans Who Live In States That Elect To Set Up Their Own Exchanges.”
+
+The act predicts that it will “achieve[] near-universal coverage.” This prediction would be wildly inaccurate if the plaintiffs’ reading of the law were correct.
+
+An amendment to the Affordable Care Act requires the federally-run exchanges to report various information that they would only be able to report if they were providing subsidies, such as whether taxpayers received an “advance payment of such credit”; information needed to determine individuals’ “eligibility for, and the amount of, such credit”; and “[i]nformation necessary to determine whether a taxpayer has received excess advance payments.” These reporting requirements make no sense if federally-run exchanges were not intended to offer subsidies.
+
+The law also provides that the only people who are qualified to purchase insurance at all on a federally-run exchange are people who “reside[] in the State that established the Exchange.” Thus, if federally-run exchanges are not deemed to be “established by the State,” no one at all is allowed to purchase health insurance on those exchanges, and there would be no purpose whatsoever to their existence. As one federal judge explained, this interpretation makes no sense, because “courts presume that Congress has used its scarce legislative time to enact statutes that have some legal consequence.”
+
+Ultimately, however, it is not even necessary to examine these four other passages of the law to determine that it unambiguously promises subsidies to Americans in all fifty states. Congress may have chosen to define a five-word phrase in a counterintuitive way, but courts are obligated to apply that definition. That’s the end of the story.

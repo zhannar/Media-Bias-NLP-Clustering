@@ -1,0 +1,181 @@
+Photo
+
+Lars Peter Hansen, an economist at the University of Chicago, is one of three winners of this year’s Nobel Memorial Prize in Economic Science, along with Eugene F. Fama, a fellow professor at the University of Chicago, and Robert J. Shiller, a professor at Yale.
+
+The Nobel committee cited all of them for contributing to the study of asset prices. But each person’s work is very different.
+
+Professor Fama is known as the father of the “efficient-markets hypothesis,” while Professor Shiller, a frequent contributor to the Economic View column in Sunday Business, is a founder of the field of behavioral finance and is a critic of aspects of Professor Fama’s theory. I interviewed both of them last month, and Professor Shiller has also expressed his views in a column.
+
+Professor Hansen, on the other hand, has received less attention from the news media, and he has stayed clear of the debate over efficient markets and irrational behavior. He has been recognized for creating advanced techniques in econometrics, enabling researchers in many fields of social science to create better mathematical models.
+
+I spoke with him this month. The following is an edited, condensed version of that conversation.
+
+Q.
+
+Congratulations, Lars.
+
+A.
+
+Thank you, Jeff.
+
+Q.
+
+I know this isn’t your focus, but Bob Shiller and Gene Fama have had a public exchange of views about whether markets are efficient or irrational or, maybe, both. You haven’t spoken much about it. What’s your position?
+
+A.
+
+Are markets efficient or irrational? I’m not sure how to answer that. I think Shiller and Fama can speak for themselves.
+
+Q.
+
+O.K., let’s move off that for a while. Tell me about yourself, your background. How did you get into economics?
+
+A.
+
+It took me a while. I was a troublemaker in high school.
+
+Q.
+
+Really?
+
+A.
+
+Yes, my father was an itinerant academic and my parents moved me from Michigan to Utah at age 16, and in my last years of high school, I was a very erratic performer. I would bring home double check marks for “does not respect authority,” and so my option for college was basically to go to college where I was living. That was Utah State University. My dad, a biochemist, was provost there at the time.
+
+Once I got to college, I had to shift into a higher gear. First I tried chemistry except I found I didn’t like lab work. I got into mathematics quite early. And I was a political science major. My junior year I finally decided to explore economics.
+
+Q.
+
+You went to the University of Minnesota for graduate school. And you studied with two men who became Nobel laureates in 2011: Thomas F. Sargent, now at New York University, and Christopher A. Sims, now at Princeton. Did you go to Minnesota to work with them?
+
+A.
+
+No, I was very, very lucky. I went there because I knew I could combine mathematics and economics. But I didn’t know about Sims and Sargent before I started the program.
+
+Q.
+
+You could easily have shared the Nobel with them two years ago. And if you had, many of the questions from reporters would have been very different. But now, in the history books, you’re always going to be associated to some degree, with Shiller and Fama. And you’re not a household name yourself — not yet.
+
+A.
+
+Hah. No, I’m not.
+
+Q.
+
+So please, for a general audience, let’s do two things: situate your own work appropriately within economics, and, forgive me, but please, tell me, are markets efficient, or are they irrational?
+
+A.
+
+Maybe I should talk about my own work, first, and then I’ll visit how it’s connected to the work of Fama and Shiller.
+
+Q.
+
+Of course. Please.
+
+A.
+
+Well, I have a strong interest in understanding how to use statistical methods to assess dynamic economic models — and, in particular, models that involve how financial markets are linked to the macroeconomy and what the connections are between macroeconomics and financial markets. So it’s critical in my work to have mathematical models.
+
+The thing to remember about models is they’re always approximations and they will always turn out to be wrong at some point. When someone says all the models that economists use are wrong, well, in a sense that’s true. But you need to ask, are the models wrong in ways that are central to the questions, or are they wrong in ways that aren’t so central?
+
+And so part of the task of statistical analysis is to look at models and try to figure out what the gaps are so that people will build better models in the future.
+
+You could imagine that in order to study the linkages between financial markets and the macroeconomy you’d have to build full-fledged models, with all the intricate interaction. We can’t really do all of that very well yet. So I was particularly interested in methods that allow you to do something without having to do everything.
+
+Q.
+
+Some of your early work overlapped with Gene Fama’s and Bob Shiller’s, didn’t it?
+
+A.
+
+Yes, we have all influenced one another. I think a common theme in all of our work is that we’ve all characterized the puzzling implications that emerge from financial market data. But we take different approaches.
+
+Q.
+
+So one more time: Where do you stand on the question of whether markets are rational or irrational, efficient or inefficient?
+
+A.
+
+Well, let me try. We can think about rationality in a few ways, like, are markets efficient, do we accept the efficient-markets hypothesis? For me the interesting question is the consequences of efficiency — the real efficiency issue is how we allocate resources in society and whether we are doing it well or not. Are markets efficient that way? Sometimes they are, sometimes they’re not.
+
+Now let’s look at efficiency in another sense. If we have a model using rational agents in a financial market, it’s just a model and at some level it’s going to fail. But the question is, does it give bad predictions and does it identify places where there are well-defined policy alternatives? I’ve often used so-called rational models and efficient-market-type models in some broad sense of those terms. They always fail at some level.
+
+When you relax rationality, here’s the challenge: If you announce things are irrational then that alone doesn’t get you very far.
+
+You have to replace that with some very concrete notion of what it means to be irrational. Some of my students have done it, and as long as they’re doing this in formal and rigorous ways I’m all in favor of it.
+
+Q.
+
+With Tom Sargent you’ve talked about uncertainty and decision-making, rather than irrationality.
+
+A.
+
+Yes, people struggle with how to cope with uncertainty; it’s not so easy for them to build probability models about the future in very complicated environments. That’s not realistic. We’re very much interested in rational agents who are coping with uncertainty.
+
+What do you want to call behavior under those conditions? Well, you can call that irrational. I’m not sure that I want to do that; maybe it’s a useful term, maybe it’s not, I’m not quite sure.
+
+How to cope with the uncertainties under complexity is a very important question that we’ve just scratched the surface of.
+
+I didn’t fully answer your question of Fama vs. Shiller but you can see that I’m struggling a bit with it.
+
+Q.
+
+O.K., another area: Have you provided advice to governments or politicians? Do you have strong political views?
+
+A.
+
+No, I haven’t, and, no, I don’t like to identify strongly with a political party. I’d say I’m fiscally conservative but the truth is I have a hard time figuring out these days which political party that’s attached to. And I’m certainly socially liberal.
+
+Q.
+
+You’ve worked with Sargent on “rational expectations” theory, providing some of the mathematical underpinnings of that theory — and then raising a lot of questions about that very theory. How did that come about?
+
+A.
+
+Yes, the key thing there, too, is we were driven by empirical evidence, about how people behave. We were driven partly by that and partly by other insights coming out of decision theory — broadly conceived in terms of how people might cope with uncertainty. One thing I loved about rational expectations was that it said, to what extent is public policy grounded on being able to fool people systematically?
+
+Q.
+
+You mean something like this: the government announces a one-time tax cut, which policy makers expect everybody to spend, but people don’t all spend all of it, because they know taxes are going to rise the next year?
+
+A.
+
+Yes, it’s important to ask what happens if people actually think and have expectations about policy. Once you say, you can’t just fool and trick people, you kind of ask, what’s left of that policy? So I thought that was a tremendous insight.
+
+Q.
+
+But then you began to question the theory. Why?
+
+A.
+
+We were concerned that it implied way too much precision on the part of investors that we just didn’t think was very plausible and we wanted to explore ways to relax it that would simultaneously give us useful models.
+
+Q.
+
+Are you applying your ideas and your model-building to any of the big problems we’re facing in the financial system and in the economy?
+
+A.
+
+Yes, the financial crisis exposed gaps in the existing models that were about the financial-macro linkages. And so this brought together a leading set of scholars, and we regularly meet on how can we build the best models going forward.
+
+Q.
+
+Why is this critical?
+
+A.
+
+Right now all these government departments are rushing together to put together quick fixes because that’s their charge; they’ve got to figure out how to do financial oversight in sensible ways. But the models we had leading up to the financial crisis were not particularly well suited to it. And so what they’re doing is to put a bunch of Band-Aids on existing models to try to repair them in order to get quick insight. And we thought it was very useful to take a longer-term perspective here.
+
+So-called systemic risk had of course been the buzzword for financial regulation and financial oversight . People were talking about measurements without even having yet really commonly agreed upon models of what the term was.
+
+I’m very concerned. Because if you really have knowledge gaps and you really try to do a lot of fine-tuning on things like this based on incomplete knowledge, you can do more damage than good. I really think in many of these cases, simplicity is far more important than trying to devise complicated solutions to things.
+
+Q.
+
+Would you be concrete, in terms of what you would prefer?
+
+A.
+
+I would rather have simple capital requirements for banks, for example. Given that we are going to be in this position of bailing out financial institutions, there has to be some form of financial oversight.
+
+But for me, the point is, I need actual models and I want to assess what they’re good and bad at. I’m not going to dismiss models a priori until I’ve taken them out for a spin.

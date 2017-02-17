@@ -1,0 +1,31 @@
+The shift toward new value-based healthcare payment models has a growing number of healthcare organizations focusing their attention on population health by analyzing the troves of data contained in electronic health records, according to a new Chilmark Research report.
+
+The August report underscores a relatively immature but burgeoning market for clinical analytics solutions, driven primarily by new payment structures set forth in the Affordable Care Act that move away from the traditional fee-for-service models.
+
+[See also: Business Intelligence improves the bottom line]
+
+In the U.S., the market is poised to grow from 10 percent adoption in 2011 to 50 percent adoption by 2016, a compound annual growth rate of 37.9 percent, according to a 2011 Frost and Sullivan market analysis.
+
+Despite the upward trend, however, further market development will depend on hospital margins following new payment reform, researchers say.
+
+Right now, the lion’s share of buyers consists of large payers and healthcare systems as they have the financial wherewithal to afford the infrastructure and IT personnel.
+
+As for small, and even medium-sized hospitals, “their margins are shrinking,” said Cora Sharma, co-author of the Chilmark report, in an interview with Healthcare Finance News. This technology and infrastructure “needs significant humans to know what data means, to map data and to maintain the systems over the long-term,” she said. In a time when healthcare administrators are pinching pennies, clinical analytics may often be put on the back burner because these solutions can be pricey.
+
+[See also: The evolution of business intelligence to drive improvement]
+
+Larger healthcare organizations already in the market, however, are taking myriad approaches to address their analytics needs, including merging claims with clinical data, Sharma said. “It’s definitely a claims-based world. Clinical data is very rich but shallow because it doesn’t go back very far in time.”
+
+Moreover, because clinical data analytics has yet to really hit the mainstream, the buyer’s market, despite being vendor competitive, is also “very immature,” said Chilmark Research Founder John Moore, in an Aug. 27 news release announcing the report. “This has led to significant confusion as to what the true capabilities are of various analytics solutions to address the strategic needs of a healthcare organization. It is our hope that this report will lead to a more educated market and wiser purchasing decisions going forward."
+
+Despite the financial challenges and market limitations, Jonathan Weiner, professor in the department of health policy and management at Johns Hopkins Bloomberg School of Public Health and director of the year-old Johns Hopkins Center for Population Health IT, said clinical data analytics is the future, and it’s going to mean big things for patient care.
+
+"Those of us in public health believe that the true way to add value in medical care is to think about the well-being of the entire population," said Weiner, in a fall 2012 interview with Healthcare Finance News' sister publication, Healthcare IT News, discussing Johns Hopkins’ new population health center.
+
+And although value can be extracted from both clinical and claims data, it’s not as simple and straightforward as one might think, said Weiner.
+
+“It's easier said than done to take quality measures out of an electronic medical record because no two records are alike, and no two doctors or nurses use it in the same way,” he explained. “(Claims data) may not be perfect, but they're the source for diagnostics and pharmaceutical information in the U.S. right now; it's not the EMR.”
+
+But that’s slated to change, as the Chilmark report finds. As providers increasingly seek to manage patient populations, this claims-based legacy will serve as a starting point to analyzing clinical-rich data from clinically-housed sources.
+
+Ultimately, despite projected growth for clinical data analytics, the market has proved itself challenging and altogether complex. Long-term growth will really be contingent on how much hospitals and health systems have in their pockets. If declining reimbursements, bad debt, federal cuts and declines in inpatient volumes continue, investment in those types of solutions is really going to be limited, said Sharma. “It’s going to depend on how profitable the hospitals are going to remain after payment reform.”

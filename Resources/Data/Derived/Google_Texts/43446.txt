@@ -1,0 +1,17 @@
+Saturday, March 5, 2016
+
+The First Responder Network Authority ( FirstNet ) on January 13, 2016, issued its Request for Proposals ( RFP ) to deploy and operate a nationwide public safety broadband network, marking a major step forward in a decades-long effort to modernize communications for first responders and other public safety personnel. The release follows extensive dialogue with public safety and potential vendors in the technology and communications industry on the objectives and scope of the RFP for the FirstNet network, including a consultation and outreach program to engage with the states, territories, federal agencies, tribal governments, among others.
+
+On February 19, 2016, FirstNet released the first wave of responses to questions that were submitted by potential bidders and vendors. FirstNet also adjusted the filing deadlines. RFP proposals were originally to be due on April 29, 2016, but FirstNet moved that deadline back to May 13, 2016, and the deadline for submitting threshold capability statements was adjusted to March 31, 2016.
+
+FirstNet noted that it has taken an “objectives-based” approach in the RFP and outlined “high-level objectives with minimum requirements” that it wants to achieve, instead of what it termed the “traditional requirements-driven model.” This was a deliberate attempt to permit RFP respondents to propose their own implementation plan details consistent with FirstNet’s baseline requirements for nationwide interoperability.
+
+Some highlights of the FirstNet RFP:
+
+It seeks a “comprehensive network solution covering each of the 56 states and territories” and includes a core network, radio access network, backhaul, aggregation, the use of national transport and operation centers as well as “a device ecosystem; use of network infrastructure; deployable capabilities; use of operations and business support systems; an applications ecosystem; network services; and the integration, maintenance, operational services and ongoing evolution of these systems required to function fully as an operational wireless [3GPP] standards-based [LTE] network.”
+
+FirstNet buildout and operations are required to be financially sustainable, which apparently has driven aspects of the RFP financial arrangements that are unique. Thus, any arrangement with a vendor or vendors could include “in kind” or monetary value provided by the network partner for secondary use of network capacity, as well as the possibility of “various partnerships and business arrangements that monetize new public safety market offerings via devices, applications, and other value-added benefits and services that enhance the public safety user experience.”
+
+The RFP specifies that the network must have “quality of service, priority usage and preemption. In addition, the [network] will be hardened as needed, from the physical perspective and will be resilient, secure and highly reliable from the network perspective. Furthermore, the [network] will provide to public safety agencies both national and local control over prioritization, preemption, provisioning and reporting.”
+
+The network and devices are to be branded as FirstNet. However, the vendor or vendors awarded the contract will be responsible for marketing, product management, sales and distribution, customer care, and network deployment, operation and evolution.

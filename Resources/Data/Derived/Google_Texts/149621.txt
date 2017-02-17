@@ -1,0 +1,49 @@
+Zeev Kain and Jason Hwang
+
+April 7, 2015
+
+In the United States, the full continuum of care before, during, and after surgery is expensive, fragmented, and associated with a high number of complications. We believe the current segmented care model must become an integrated care model based on excellent coordination throughout the entire perioperative system, from the minute the surgeon and the patient decide a procedure is needed until the patient is discharged and transferred to his or her primary care provider or medical home.
+
+This new model, which was originally proposed by the Perioperative Surgical Home (PSH) of the American Society of Anesthesiologists, is built on standardizing care and reducing system-related variability throughout the entire surgical journey.
+
+Disruptive Innovation
+
+There are two contrasting approaches to innovation: a modular approach and an integrated approach. A modular approach is often seen in mature industries, where innovation tends to be incremental because it arises from improvements to individual components. Look inside a personal computer (PC), for example, and each part has a different function and comes from a different manufacturer.
+
+As a result ongoing innovation in the PC industry has included faster processors, bigger hard drives, and more memory over time. Yet despite these powerful improvements the fundamental function and purpose of PCs remains unchanged over time.
+
+In contrast, an integrated approach within the context of computers is one in which a single entity controls and coordinates the entire product’s design, build, and assembly.
+
+Apple is probably the best current example for such an approach and has built a reputation on creating innovative and transformative products that “just work.” Apple transforms not only a product’s capacity or speed, but also the very way that people engage and interact with it. Indeed, Apple successfully disrupted the PC market of desktop and laptops when it introduced phones and tablets that dramatically changed how people use technology in their daily lives.
+
+Perioperative Care Delivery
+
+Previous efforts to improve perioperative care delivery, as it is currently constructed in the United States, are best described as taking a modular approach. Surgeons, anesthesiologists, nurses, hospitalists, administrators, physical and respiratory therapists, and information technology experts are really just a loose assemblage of components asked to work together to deliver care. Despite ongoing criticism over the quality and cost of the overall perioperative care system, each component has in fact improved exquisitely year after year.
+
+As an example, the field of anesthesiology has continuously improved its performance and safety through the years. But as a system, the perioperative period of a patient’s care is still fragmented and variable, accounting for more than 50 percent of all hospital costs. Indeed, it is simpler to improve care within each of the system’s specific components, but none of this incremental innovation fundamentally improves the overall care we deliver to our surgical patients. We believe that a completely new architecture is required to move from perioperative care’s current modular approach to an integrated design.
+
+The underlying tenet of the Perioperative Surgical Home (PSH) is better coordination of care by adopting a team approach throughout the entire perioperative continuum, from the minute the surgeon and the patient decide a procedure is needed until 30 days after discharge. Other essential components of this new model include reducing variability through the standardization of clinical and non-clinical care. (To clarify practices, processes, and outcomes will always vary depending on a patient’s specific underlying clinical conditions and individual needs, but variability related to the perioperative system itself needs to be reduced to eliminate preventable medical errors and to reduce the cost of care.)
+
+Another critical feature of the PSH is that it is inclusive and highly collaborative. Most important is the partnership between anesthesiologists and surgeons. However, all the stakeholders that touch a patient in any way—including hospitalists, nurses, IT, decision support, and hospital administration—play a major part in the PSH.
+
+A Patient-Centric Model
+
+So how does the journey look different for a patient in the PSH model? This model is patient-centric, and patients are part of the initial decision to undergo surgery, receiving education on the surgical procedure from the very beginning. The preoperative clinic no longer focuses on “clearing the patient for surgery,” but rather “optimizing the patient for surgery.” The focus shifts from asking “can the patient ‘medically tolerate’ the surgical procedure?” to “how will the patient thrive after surgery?”
+
+The preoperative process includes evaluation and instruction on smoking cessation, diet, relaxation techniques, and appropriate exercise to get the patient to the best place possible before surgery — efforts that lead to better post-operative outcomes. Similarly, the intraoperative phase focuses on reducing variability in the various anesthetic and surgical techniques used and incorporating of practices that have been shown to improve post-operative outcomes such as Goal Directed Therapy and Enhanced Recovery After Surgery.
+
+Standardized hardware such as implants, as well as standardized processes used by care providers such as nurses are of high importance. Under this new model (Figure 1), a consistent team will be coordinating care to ensure that the patient is progressing nicely along the clinical pathway all the way to his or her successful return home. If a deviation from the clinical pathway is identified or if the patient exhibits new symptoms, care can be escalated quickly. These are also the patients whose condition we have the best chance of optimizing prior to surgery.
+
+Figure 1.
+
+A final critical part of this new model is clear communication between a patient’s Patient Centered Medical Home, primary care provider (PCP), or third-party payer’s care coordinator. A Perioperative Surgical Home should be seen as a complement to these other models. A ‘handshake’ between these models should occur with each patient before they enter the perioperative environment and once they leave it. All too often patients are discharged after surgery without their PCP’s knowledge, and all too often these patients are being re-admitted to the hospital because of their noncompliance with medication or preventable complications.
+
+This Perioperative Surgical Home model was launched at the University of California Irvine in October of 2012 with patients undergoing hip and knee replacement. Early results indicate low incidence of major complication [0.0, 0.0–7.0 percent] and of perioperative blood transfusion [6.2, 2.9–11.4 percent]. In-hospital mortality was 0.0 (0.0–7.0 percent) and 30-day readmission was 0.7 (0.0–3.8) percent. The median length of stay for total knee arthroplasty and total hip arthroplasty, respectively, was (median (95 percent confidence interval [interquartile range]) 3 (2–3) [2–3] and 3 (2–3)[2–3] days.
+
+Following the success of this pilot at UCI, the initiative was expanded to include two procedures in urology (nephrectomy and cystectomy) and then to spine and shoulder surgery. To date this initiative has resulted in savings in the excess of $1.2 million. Most of these savings are the results of shorter length of stay and lower pharmacy and radiology costs. This decrease in length of stay as a result of implanting the PSH is particularly important since most hospitals are now being paid by a Diagnosis Related Group methodology (which is essentially inpatient bundle).
+
+Just like any change, implanting the PSH needs to be done using a deliberate, detailed plan. As a first step, a “burning platform” needs to be established and a vision for the future be articulated. An interdisciplinary team is essential for the success of the model. A total of 68 individuals from 16 hospital departments in UC Irvine participated in a one-day retreat at the onset of the Orthopedic PSH. These 16 departments included orthopedic surgery, anesthesiology and perioperative care, nursing, hospital medicine, information technology, nutrition, case management, social work, and many more.
+
+This team needs to meet frequently and follow a prescribed timeline and process improvements methodologies such as LEAN or Six-Sigma. Hardwiring of the clinical pathways are best hard wired into the electronic medical record to assure high levels of compliance. Perhaps the most important barrier to the successful implementation of the PSH is lack of communication on the burning platform, the lack of a future vision, and poor teamwork. Absence of commitment of key members in the team such as the surgeons or decision support team will greatly hinder the implantation of this process.
+
+The American Society of Anesthesiologists recently launched a collaborative of 43 hospitals from many areas in the US to examine the viability of this model in large-scale settings. Much like transformative innovations that have taken hold in other industries, this approach is ultimately about delivering what customers want. In health care, and in perioperative care in particular, that means continuing to improve quality and outcomes, but also improving value.

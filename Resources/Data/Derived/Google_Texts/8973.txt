@@ -1,0 +1,31 @@
+It seems as though no one can clearly define care management technology.
+
+Many see care management and the technologies that enable it in direct correlation with population health management. In that sense, care management could be described as the process of analyzing, identifying, monitoring, and improving the care of specific patients within a vulnerable population.
+
+Yet as Dave Levin, M.D., CEO of health IT consultancy Tres Rios Group, and other observers note, this overall concept in itself is comprised of many technologies and stakeholders. In other words, care management technology can’t be easily defined because care management is probably too complex to be put in a single box.
+
+There are consumer-facing technologies, analytics tools, and physician dashboards that service diverse groups of patients, payers, and providers. Experts agree that all of these elements and more, comprise care management.
+
+“I think we have plenty of technologies to enable [care management], whether we’re talking about analytics and data aggregation and dashboards or the connectivity tools. They are out there,” Dr. Levin says. “The challenge in front of us is to have a better understanding of the full cycle of this kind of care management. It’s not just identification and stratification; it’s about outreach, intervention and engagement too.”
+
+The challenge in front of us is to have a better understanding of the full cycle of this kind of care management. It’s not just identification and stratification; it’s about outreach, intervention and engagement too. Dave Levin, M.D.
+
+Whatever it is, it seems to be the future of healthcare—at least, according to Markets and Markets, a Dallas-based research firm, which predicted explosive growth for the care management software industry over the next five years, culminating in a value of $7.3 billion in 2018. That would be billion, with a b. Markets and Markets says the value-based legislative reforms of the Affordable Care Act (ACA) and an aging population are the primary drivers of this growth.
+
+At the same time, integrated care networks are popping up across the country with payers and providers entering into unlikely alliances to get in on the action. This has led to an investment in care management technologies, whether it is analytics, telehealth, dashboards, or something else.
+
+Investments have come from payers and providers, but mainly the former. Levin notes that providers don’t yet have the experience, while a recent survey of payers from Framingham, Mass.-based IDC Health Insights indicates that more than half of payers are investing into care management applications.
+
+WHAT WORKS IN CARE MANAGEMENT?
+
+This wave of interest and investment in these technologies, regardless of where it is coming from, has led to a wide range of opinions and feedback on what works and what doesn’t. In Richmond, Va., a physician-hospital organization (PHO) by the name of inHEALTH formed in the mid-1990s, during the previous managed care era, 20 years before risk-based contracts and care management became trendy. The PHO, led by CEO Michael Matthews, has sustained itself by providing health IT and other services related to care management programs.
+
+To Matthews and inHEALTH CMO Stephen Cavalieri, M.D., the most important element in a care management program is successful transitions of care. For their group, this has been accomplished through data exchange, encounter alerts, and secure messaging. inHEALTH has a health information exchange subsidiary, MedVirginia, that it uses to accomplish this. From there, inHEALTH utilizes an analytics system (from the Dallas-based Phytel) that helps determine which patients have the highest risk.
+
+“What population health and analytics tools can do is give you the visibility to understand the patient in between [doctor encounters] and healthcare episodes. When you tie in clinical events [through the EMR] with the type of workstation the care manager has, and also can connect in claims information, which we have access to...a lot of it is blending those information sources and creating this tapestry that we can act on in a complimentary way to what the physician is doing,” Matthews says.
+
+Or to sum it up, as Cavalieri says, “The holy grail is interoperability.” Levin affirms that potential data interoperability problems are a “huge boulder sitting in the way” of any successful care management program. If different sets of data can’t interact in and out of the provider’s workflow, he says, the program is going to have a high failure rate.
+
+Indeed, many burgeoning care management pro-grams rely on interoperable analytics software, which is able to connect payer and provider data and spit out actionable information on high-risk patients. It’s the reason why integrated care networks, like the ones at the Danville, Pa.-based Geisinger Health System and the Oakland-based Kaiser Permanente, have been successful in care management for a long time.
+
+Still, as Greg McGovern, a New York-based director of technology and innovation at the Denver-based Aspen Advisors puts it, what works in one place isn’t guaranteed to work in another. “When you’ve seen one integrated care network, you’ve seen one. Every market is different,” he says.

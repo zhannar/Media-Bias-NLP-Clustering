@@ -1,0 +1,23 @@
+Whether you’re use home automation technology to remotely regulate the heat in your house, help write your grocery shopping list (based on what’s left in your fridge), or make sure your kids are sleeping soundly, you’re experiencing a newfound security, knowing that you are in control of your home even while you’re away.
+
+New research is increasingly finding that the smart home is actually much easier to hack into than first thought.
+
+Related: 13 Gadgets the 1 Percent Should Take to College
+
+Earlier this year, a hacker remotely took over a video baby monitor at a Cincinnati home and started screaming at the baby in the middle of the night. When the alarmed father rushed to the baby’s room, the hacker turned the camera toward the dad while still screaming – at which point the father disabled the wireless device. But the family felt completely violated by the invasion.
+
+“Many available systems provide little to no security,” wrote researchers at Saardland University in Germany in a new paper on how home automation systems can pose a security risk by allowing hackers to invade someone’s private life. “[The systems] leak information about the users’ habits as well as their presence.” Such information “can be abused to plan burglaries.”
+
+The team of researchers, led by Christoph Sorge, conducted two real-world installations of off-the-shelf home automations systems to see how much information could be obtained by a passive malicious attacker who would attach a chip to a wireless network to monitor a home. Among the revelations: Messages from the door lock system can indicate exactly when people leave the house for work and when they return home later.
+
+Related: Apple Plans to Turn Your House into an iHome
+
+The researchers found that there are other implications beside the possibility of being burglarized. Insurance companies might refuse to pay damages if certain information normally thought to be secure and private was now readily available.
+
+Even encrypted communication doesn’t fully protect against such attack. It is still possible, for example, to predict user presence and absence even if individual actions cannot be identified.
+
+"As far as I know, there are currently no protective measures," Sorge told The Fiscal Times. "I would advise sending additional messages during the day so it looks like there's always someone at home."
+
+This article was updated on July 29.
+
+Top Reads from The Fiscal Times:

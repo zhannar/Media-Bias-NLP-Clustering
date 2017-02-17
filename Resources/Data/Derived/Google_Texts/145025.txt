@@ -1,0 +1,15 @@
+Less than two weeks after HealthCare.gov launched last October and proved initially unusable, the federal Obamacare website’s source code disappeared from GitHub, a site that allows the public to comment on and improve open-source projects.
+
+Why?
+
+Officials at the time didn’t comment or respond to questions about the disappearance, and critics wondered what had happened to the Obama administration’s dedication to transparency. Allies, meanwhile, noted that the public comment on the code had devolved into political diatribe as well as sometimes-mean-spirited technical criticism.
+
+Now, Republicans on the House Oversight and Government Reform Committee have their own take -- based on emails sent at the time from officials at the Centers for Medicare and Medicaid Services, which was overseeing the site.
+
+From their report:
+
+On October 11, 2013, CMS employee Jon Booth, complained to top CMS officials including Administrator [Marilyn] Tavenner and Mr. [Henry] Chao [the deputy chief information officer], that “this Github project has turned into a place for programmers to bash our system.” He recommended that CMS remove the code from Github and noted that, “I am sure there may be some blowback from this decision but I think it is better to take a short term hit with this deletion than to let this bashing of the source code continue on our official Github site on an ongoing basis.” In internal discussions, CMS officials stated two reasons for removing the code: the “bad PR” associated with the online Github discussions and the feeling that it would be a “real or perceived security risk.
+
+The report argued there was no real security risk to leaving it up because administration officials knew they couldn’t erase it entirely from the Internet, and the code in question was not for the parts of the website that involved personal information.
+
+(Image via scyther5/Shutterstock.com)

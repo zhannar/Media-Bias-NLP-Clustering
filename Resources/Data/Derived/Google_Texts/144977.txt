@@ -1,0 +1,49 @@
+Done right, data visualization can communicate powerful numbers with meaningful clarity… but why would you want to do that?!
+
+We’ve rounded up 6 different ways to completely fail at data visualization. They might make us giggle, but they can also help us learn.
+
+How to do it?
+
+1) Forget the Labels
+
+There’s actually a lot to like about this beautiful video which uses the Olympic rings to show different variables about the continents that participate in the games–from overall population to the number of McDonald’s restaurants.
+
+The first glaring issue? It has no labels to tell us which ring is which.
+
+To make matters worse, there are six continents and only 5 rings. That means two of these continents are lumped together, which really skews any meaningful data (I’m guessing it’s the Americas). The title doesn’t help either. It’s not in the same order as the rings they represent. My best guess: Blue=Oceania, Yellow=Africa, Black=Europe, Green=Asia, and Red=Americas.
+
+2) Display the Data in Reverse
+
+If you took a quick glance at this line chart showing the number of gun deaths in Florida after the state enacted its “stand your ground” law in 2005, you could easily assume it showed deaths going down.
+
+Sadly, you’d be wrong.
+
+For some inexplicable reason, the creator of the chart decided to make it upside down to how we usually view them. If you’re going to break from tradition (not to mention phrases like numbers “going up”), there better be a very good reason.
+
+3) Hide the Data Inside Meaningless Designs
+
+Where to even start with this visualization from the Nightly News? There’s data in here somewhere… but it’s cut to shreds behind a meaningless map of the U.S.
+
+Take the purple “Asian” data for example. You get that something’s happening up in Washington in 1960, but the data is somehow lost in Canada half-way through, only to reappear back in Maine.
+
+Whoever created this area chart (if it can even be called that) must have realized some error when they didn’t have anywhere to place percentages for “Other”.
+
+Or if that wasn’t bad enough… there’s always this graphic on poop. Besides the multi-color gross-out factor, there isn’t any reason to put a big turd on this page. It isn’t a pie chart. It isn’t an area chart. It’s just shit.
+
+4) Hide the Data with Too Many Variables
+
+Can you figure out what’s going on in this heat map? Neither can we. There are so many layers of information piled on top of each other, and hues so close together they’re totally indecipherable. Select colors appropriately.
+
+5) Start Your Bar Charts Anywhere Above Zero
+
+It looks like losing Bush tax cuts is going to more than quadruple taxes!! Oh no! People must hate Obamacare because they missed their enrollment goals by more than half!
+
+Oh Fox News… where do we start? Perhaps starting the Y-axis at zero on these bar charts would help us understand the real story behind the numbers? It’s almost like they want to tell a different story…
+
+6) Use a Pie Chart That Doesn’t Add Up to 100
+
+More failure gold from Fox News here. It appears they don’t know how a pie chart works. You know: one pie divided into portions of 100%.
+
+I do wish real pie worked like this. Can I have three 60% portions please?
+
+Want to make sure your visualizations don’t fail? Download the free e-book Data Visualization 101 from our friends at Visage:

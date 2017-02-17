@@ -1,0 +1,29 @@
+Oregon officials still need Oracle's cooperation to meet a looming deadline related to the state's troubled health-insurance exchange website, even as both sides have lodged lawsuits against one another.
+
+The state hired Oracle to help it build the website, Cover Oregon, as part of the government's health-care overhaul. Much like the federal site, Healthcare.gov, Cover Oregon suffered major performance problems upon its go-live date in October, but unlike Healthcare.gov, Cover Oregon was never stabilized and brought into proper working order.
+
+Oregon has since decided to transition the site to Healthcare.gov for those enrolling in commercial insurance plans, while using some of the technology Oracle built for a site aimed at enrolling people in a Medicaid-funded state health program.
+
+Deloitte, the contractor hired to handle the Medicaid site work, issued a report earlier this month that warned of a "critical issue" involving Oracle Managed Cloud Services, the vendor's hosting operation.
+
+"It is unknown whether OMCS will be able to provision an additional production environment by [Friday] to support the November 2014 implementation," the report states. "Delay of the production environment provisioning will impact subsequent CMS connectivity testing and potentially the November go-live."
+
+If the system isn't ready by then, state officials may have to resort to the expensive manual enrollment processes they used after Cover Oregon's failed launch, according to the Oregonian newspaper, which first surfaced the Deloitte report.
+
+A spokeswoman for Cover Oregon didn't respond to a request for an update on whether Oracle would meet the Friday deadline. Officials are scheduled to meet Thursday as part of a regular board meeting. An Oracle spokeswoman declined to comment.
+
+In any event, the matter is just one facet of what's likely to be a protracted struggle between Oracle and Oregon as they play out their respective lawsuits.
+
+Oracle wants the state to pay more than US$20 million in fees it says it's still owed, while Oregon claims that Oracle's shoddy work on the project cost it hundreds of millions of dollars.
+
+A key issue of contention between Oracle and Oregon is over which side played the role of systems integrator on the project. Oracle maintains Oregon decided to act as its own, a reckless move given its inexperience in such matters, while hiring Oracle on a time-and-materials basis. State officials have conducted a "smear campaign" against Oracle to hide their own shortcomings, according to the vendor.
+
+But in its lawsuit, Oregon alleged Oracle conducted a behind-the-scenes scheme to ensure the state didn't hire an independent systems integrator in order to collect additional consulting fees.
+
+Oregon may find itself in an uphill battle if and when the matter gets to court, according to one observer.
+
+On the whole, the state's lawsuit "seems to indicate a lack of understanding of how enterprise software actually works," said Michael Krigsman, CEO of consulting firm Asuret and an expert on the roots of IT project failures. Krigsman pointed to Oregon's claim that Oracle lied when it said its products would work "out-of-the-box."
+
+"Anybody that knows enterprise software knows that these are not absolute terms," he said. "If in fact the state was expecting an automatic out-of-the-box solution I believe that expectation was unreasonable, and may suggest significant inexperience on the part of the state."
+
+Chris Kanaracus covers enterprise software and general technology breaking news for The IDG News Service. Chris' email address is Chris_Kanaracus@idg.com

@@ -1,0 +1,17 @@
+A new, super-small device may one day be used to power implanted devices, like pacemakers and defibrillators, by using the movement of nearby organs, thereby eliminating the need for surgery to replace the dying battery.
+
+A new, super-small device may one day be used to power implanted devices, like pacemakers and defibrillators, by using the movement of nearby organs, thereby eliminating the need for surgery to replace the dying battery. University of Illinois and University of Arizona
+
+The days of expensive, invasive surgery to replace batteries in pacemakers and other implantable devices may soon be coming to an end — although how soon is another question. Researchers have developed a super small device that can harvest electricity from our body’s own organs and use it to power these devices, according to a new study.
+
+The researchers relied on an electromechanical interaction called piezoelectricity, which involves using certain crystalline materials that become electrically charged whenever they flex or compress — caused by a moving organ in this case. Using these materials in the form of lead zirconate titanate, and placing them onto extremely thin silicone, the researchers were able to create a rechargeable nanoribbon about one-third the size of a sheet of paper.
+
+“I think the concept of creating electrical power from motions in internal organs is really interesting,” said lead researcher John Rogers, a materials scientist at the University of Illinois, according to New Scientist. “The key thing is, if you’re going to do this, you need to be able to achieve efficiency and ultimately power output that is of practical use.”
+
+Rogers and his team tested the device on sheep, cows, and pigs, all of which have hearts, lungs, and diaphragms similar in shape and size to humans. They found that it was able to produce up to eight volts of electricity — up to five times more power than previous studies — and enough to both AC/DC conversion devices and microbatteries that pacemakers plug into, Popular Mechanics reported.
+
+While the device is promising, there’s still a lot of work that needs to be done. The team still has to test the device out over a longer term, since the current study only tested the nanoribbon for a few hours. “This won’t be available for practical use anytime soon,” Rogers said, according to HealthDay. “So far, we have shown it lasts for … half a day or so, but we will have to show that this method will generate sufficient electricity for at least a decade, because if not, there’s no point.”
+
+Patients with pacemakers and defibrillators typically undergo surgery to have a dying battery replaced every seven to 10 years, Daniel Inman, chairman of the Department of Aerospace Engineering at the University of Michigan, told HealthDay. But “there’s no question that there’s certainly a need and demand,” he said. “If you tell them this method would mean they don’t have to do that anymore, that is something they definitely want.”
+
+Source: Dagdeviren C, Yang B, Su Y, et al. Conformal piezoelectric energy harvesting and storage from motions of the heart, lung, and diaphragm. PNAS. 2014.

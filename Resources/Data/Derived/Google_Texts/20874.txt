@@ -1,0 +1,17 @@
+As Republicans continue to seek ways to destabilize the Affordable Care Act, there’s no denying that the landmark legislation has set in motion a huge movement to digitize and analyze clinical data.
+
+The government is now preparing to dispense a third wave of incentive payments to providers who use computer-based patient records, and put in place ways of sharing them with other providers. The third and final phase of the incentive program requires that providers use clinical data platforms that provide application programming interfaces so that other systems can easily access elements of the data.
+
+This makes the announcement of New York-based Mana Health‘s new ManaCloud Platform so well-timed. ManaCloud is a HIPAA-compliant cloud platform that unifies electronic medical records with patient-generated data such as weight, pain levels, pulse, heart rate, exercise, and calories collected from apps and connected devices. The Mana platform provides an API for sharing data with those apps and devices.
+
+“We are pleased to offer ManaCloud at the exact moment the Centers for Medicare and Medicaid Services (CMS) set down the MU-3 [Meaningful Use Stage 3] requirement for API access to health records,” Mana Health cofounder and CEO Chris Bradley said in a statement Tuesday.
+
+“Health information exchanges (HIEs), hospitals and health systems can now leverage the deep investment Mana Health has made in unified data infrastructure to enhance patient data access, care coordination, and chronic care management.”
+
+ManaCloud was developed as a way to integrate the numerous disparate data sources that surround a patient to capture critical information that can support the shift to value-based care.
+
+Hospitals are challenged to cut out waste and establish cost-effective care protocols these days because Medicare and, increasingly, private health insurance plans are beginning to compensate provider organizations based how well they can keep a population of people healthy. Hence, “value-based care.” The days when providers were compensated based on how many procedures or other services they provided may soon be behind us.
+
+Cloud-based systems like Mana’s are have been emerging in the past few years to help hospitals make money in this new environment.
+
+Facebook Get more stories like this on Twitter

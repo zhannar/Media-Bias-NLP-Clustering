@@ -1,0 +1,25 @@
+A provision of the Accountable Care Act concerning the certification of compliance for health plans will have both a positive and negative impact on the healthcare industry, says healthcare lawyer Daniel Gottlieb, Partner at McDermott Will & Emery LLP.
+
+On the one hand, it adds to the responsibilities of healthcare providers and health plans in the form of additional testing. “It’s a pretty lengthy process because the health plans are required to do testing really for either of the credentials with their trading partners, the healthcare providers that are submitting claims for reimbursement to the health plan,” Gottlieb observes.
+
+And that process is likely to take place as the healthcare industry works on implementing a number of other mandates and regulatory changes while keeping current systems up and running.
+
+“Even though it’s late and they’ve been looking for it, health plans and providers are overwhelmed by all the various IT changes because you have ICD-10 that goes online this year and the unique health plan identifier as well,” explains Gottlieb. “HIPAA 5010 went online recently, and I probably omitted the most challenging which is converting to access new insurance through health exchanges, federal or state. It’s just an overwhelming crush of IT requirements that are on top of basic system maintenance and upgrades.”
+
+On the other hand, the proposed requirement should ensure that the infrastructure for supporting electronic transactions is in place and working correctly, cutting down on manual efforts to reconcile claims.
+
+“The provider and the plan would have to test that process so there would at least be some burden, but the upside for providers that participate in the testing process is that they know that their systems will be able to communicate with the health plan,” Gottlieb continues. “Even though the electronic transaction standards have been in place for years, over a decade, many of the plans are not sending back fully HIPAA-compliant electronic remittance advice or other transactions. This is hopefully a way for more of the transactions to be truly compliant with requirements.”
+
+So what exactly is required of health plans under this proposed rule? When put into effect, the provision would require health plans to submit documentation that they are in compliance with three HIPAA electronic transaction standards:
+
+• eligibility for a health plan
+
+• healthcare claim status
+
+• health care electronic funds transfers (EFT) and remittance advice
+
+As the proposed rule published last week in the Federal Register states, the responsibility for administering this requirement will fall to the Council for Affordable Quality Healthcare’s Committee on Operating Rules (CAQH CORE) with health plans having to apply for one of two certification credentials: the CORE Phase III Seal (already in existence) or HIPAA credential (under development). Though both rigorous, the latter should prove less so than the former, claims Gottlieb, and should lead to most health plans opting to pursue that credential.
+
+The process for certifying compliance, however, does not end there. In fact, there is an added wrinkle concerning penalties for non-compliant health plans, one that may double their concerns — a penalty scheme on top of those penalties that could be assessed under HIPAA for covered entities. “For a health plan that is not compliant with the electronic transactions rule, there could be penalties assessed for violating HIPAA and then there could also be penalties assessed for failing to timely certify compliance or for submitting a false certification of compliance under the Affordable Care Act,” reveals Gottlieb.
+
+Although the proposed compliance date for these electronic transactions standards will not occur until Dec. 31, 2015, it will force health plans and their partners (i.e., providers) to add another project to their operating plan in order to accommodate its requirements.

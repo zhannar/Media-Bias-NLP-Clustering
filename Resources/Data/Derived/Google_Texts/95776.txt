@@ -1,0 +1,27 @@
+Merck researchers have potentially discovered a new class of drugs capable of rendering MRSA vulnerable to antibiotics again. Above, in purple, MRSA cells about to be devoured by white blood cells.
+
+Merck researchers have potentially discovered a new class of drugs capable of rendering MRSA vulnerable to antibiotics again. Above, in purple, MRSA cells about to be devoured by white blood cells. National Institute of Allergy and Infectious Diseases (NIAID), Public Domain
+
+The war against antibiotic resistant bacteria is at a precarious stalemate right now.
+
+In recent years, certain types of health care–associated infections, an important breeding ground for antibiotic resistance, have declined and the resistance rates of some bacteria have stabilized. But the scientific advances needed to effectively combat, rather than simply slow down, resistance are sorely lacking. A new study published Wednesday in the journal Science Translational Medicine, however, may provide us with an encouraging, if early, look into such an advance.
+
+A New Achilles Heel
+
+The study authors isolated a new class of drugs capable of killing Methicillin-resistant Staphylococcus aureus (MRSA), both in the lab and in mice, when used with conventional antibiotics. Called tarocins, they aren’t lethal to the superbug itself; instead they create a sort of Achilles heel in MRSA cell walls, allowing the previously resisted drugs to finish off the job.
+
+They do so by mucking around with the production of wall teichoic acid (WTA), a large building block of the cell wall found in most Gram-positive bacteria. According to the researchers, it helps regulate a bacterium’s ability to grow, divide, and maintain a proper structure. WTA also plays a key role in how virulent, or disease-causing, a bacterium can be, partly because it helps bacteria colonize its host more effectively. In the case of MRSA, WTA is responsible for much of its resistance to beta-lactam antibiotics, a class of drugs which includes the now defunct methicillin.
+
+The team, all members of Research and Development at the pharmaceutical company Merck, discovered the tarocins through a rather unique screening process.
+
+To sum up, there are several stages of WTA production, and the team wanted to discover chemicals that would specifically inhibit an enzyme that kickstarts its earliest stage, TarO. To ensure this, they first treated MRSA cells with another chemical (L-638) that inhibits the later stages of WTA production but wouldn’t kill the cell outright, merely stopping further growth. L-638, however, can only work if a early nonessential step in production isn’t shut down first. In a massive game of trial and error, they discovered two synthetic compounds (tarocin A and B) that could pull off this particular trick. MRSA cells given the tarocins in addition to L638 continued to grow, albeit with a weakened cell wall, demonstrating they worked as the researchers wanted.
+
+A more potent version of tarocin A, tarocin A2, allowed a common antibiotic, dicloxacillin, to work its mojo in 82 percent of MRSA lab samples, as well as 72 percent of Methicillin-resistant Staphylococcus epidermidis (MRSE) samples, a close cousin of MRSA. In mice given MRSA, those treated with both drugs had reduced levels of staph after 24 hours, while those given one drug or the other didn’t improve at all. More importantly, the drug combination didn’t appear to be dangerous to the mice, reaffirming the researchers’ previous experiments showing tarocins weren’t very toxic.
+
+“Although these findings reflect a very early discovery program, our work outlines a new approach to consider how best to develop the next generation of antibiotics,” Dr. Terry Roemer, a member of the research team, told Medical Daily. “Improving the activity of existing antibiotics by discovering companion agents (i.e. adjuvants) that impair other aspects of bacterial physiology and buffer bacteria from the effects of antibiotics means that diverse new classes of drug targets exist in this context and that entirely new types of compounds (i.e. those that do not inhibit or kill bacterial cells on their own) may be identified to address the antibiotic drug resistance crisis we now face.”
+
+Though Roemer was unable to disclose the next step in the team’s research concerning tarocins, he noted they haven’t been tested in patients as of yet.
+
+Without any major changes in our strategy or new tools in our arsenal against superbugs, the number of deaths caused annually by antibiotic-resistant infections will dwarf cancer-related deaths by 2050, according to a report commissioned by the UK government late last December.
+
+Source: Lee S, Wang H, Labroli M,et al. TarO-specific inhibitors of wall teichoic acid biosynthesis restore b-lactam efficacy against methicillin-resistant staphylococci. Science Translational Medicine. 2016

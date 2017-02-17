@@ -1,0 +1,23 @@
+Update: Douglas Elmendorf, director of the CBO, emails me to point out that there is (and it says so in the report) a tilt to nominal growth and interest rates, so that growth exceeds interest for the first decade but falls below it thereafter. This means that there is a bit of a debt spiral post 2025 or so. But it’s still nothing like the rhetoric.
+
+Nick Bunker notes an important point about the CBO’s new long-term fiscal projections (pdf): The budget office has marked down its estimate of long-term interest rates, reflecting the growing evidence for a secular downshift in the “natural” rate.
+
+This markdown has the effect of making the budget outlook — which was already a lot less dire than conventional wisdom has it — look even less dire. But there’s a further point worth emphasizing: the CBO has just declared an end to the debt spiral.
+
+You’ve heard the story: the more debt we have, the more we pay in interest, so the bigger the deficit, and the faster debt grows, until boom, we’ve turned into Greece, Greece I tell you.
+
+Now, if you knew the arithmetic, you knew that this wasn’t as clear as all that. Look at the annual change in the ratio of debt to GDP (which is what matters). It has to take account of growth and inflation as well as interest — actually, it’s
+
+Change in debt/GDP = (debt/GDP)*(interest rate – nominal growth rate of GDP) – primary surplus/GDP
+
+where the primary surplus is the difference between revenues and non-interest spending. The effect of a rising debt level, then, depends on how much higher the interest rate is than the combined effect of inflation and real growth.
+
+So we turn to Table A-1 on page 104 of the CBO report, and we learn that for the next 25 years CBO projects an average interest rate on federal debt of 4.1 percent and an average growth rate of nominal GDP of 4.3 percent. And this means no debt spiral at all.
+
+Now, wait a second, you may say: higher debt will mean higher borrowing rates, because people will fear that we’re about to turn into Greece, Greece I tell you. That was the theme of quite a few analyses — for example, in the Greenlaw et al paper “Crunch time” (pdf), which estimated an upward-sloping relationship between debt and interest rates, and used it to claim that the US was near a critical point.
+
+As many of us pointed out, however, such results were driven almost entirely by the euro crisis; high-debt countries that borrow in their own currencies haven’t seemed to face anything like the same costs. And a funny thing has happened to the euro area itself since the ECB started doing its job as lender of last resort: not only have rates come down, but the relationship between debt and borrowing costs has become much flatter. The figure shows gross debt as a percentage of GDP for euro area countries in June 2012 and June 2014; what a different “whatever it takes” makes!
+
+Photo
+
+I don’t want to say that debt doesn’t matter at all. But it clearly matters a lot less than the fearmongers tried to tell us.

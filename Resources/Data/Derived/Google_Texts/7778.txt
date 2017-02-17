@@ -1,0 +1,31 @@
+The nation’s tax agency is nearly perfect when it comes to providing accurate income and family size information to health insurance marketplaces, which is used to determine the eligibility of individuals for health insurance and a refundable tax credit under the Affordable Care Act, according to a new report from the Treasury Inspector General for Tax Administration (TIGTA).
+
+As of March 31, 2014, when the most recent open enrollment period ended, the IRS received more than 27 million income and family size verification requests and more than 11 million requests for the advanced premium tax credit.
+
+Under the Affordable Care Act, tax credits are available to subsidize premiums for people who buy their insurance through state-operated health insurance marketplaces, do not have access to other affordable coverage, and have incomes between 100 percent and 400 percent of the federal poverty level. Eligible taxpayers receive advanced payments of the premium tax credit, which are then paid directly to their insurance company to lower premiums.
+
+TIGTA’s review of the IRS’s response to 101,018 income and family size verification requests between October 1 and October 4, 2013, showed that the agency provided accurate responses for 100,985 (99.7 percent) of the 101,018 requests, based on information provided by the health insurance exchange, according to the report, which was released to the public on August 5.
+
+However, TIGTA identified 33 requests for which the IRS incorrectly notified the exchange that it could not provide requested tax information for individuals because the IRS was unable to match the name on the application to IRS data records.
+
+These responses were incorrect because the individual’s name used on the application was in fact available in IRS data records, according to the report. This resulted from a programming error in which IRS data did not always contain the most recent name information showing on the individual’s tax account.
+
+Trending {{item['sft-title']}}
+
+While the IRS estimated that this error affects roughly 2.8 million taxpayers for which information is contained in the coverage data repository (CDR), the IRS’s main data repository for Affordable Care Act initiatives, the number of income and family size verification information requests received by the agency that are affected by the inaccurate CDR information is likely significantly less, according to TIGTA.
+
+“Not all individuals with tax information in the CDR are eligible to use the exchange, and not all individuals who are eligible will use the exchange to purchase insurance,” the report stated. “The IRS indicated it has requested changes be made to the computer programming to correct the name control error for the next exchange enrollment period in November 2014.”
+
+The report also found that the IRS accurately calculated the maximum month advanced premium tax credit for 120,824 requests received between October 1 and October 14, 2013.
+
+“In nearly all instances, the IRS correctly provided accurate information to the health exchanges on income and family sizes,” J. Russell George, Treasury inspector general for tax administration, said in a written statement. “Accurate information is essential for an exchange to determine if an applicant is eligible to obtain insurance coverage through the exchange.”
+
+TIGTA recommended that the IRS’s chief technology officer (CTO) ensure that IRS data records used to provide responses to exchange requests accurately reflect an individual’s most recent name information contained in IRS data.
+
+The IRS agreed with TIGTA’s recommendation and stated that it has already implemented programming modifications so that name information fields are now consistent with the most recent name information on the individual’s tax account.
+
+“I am committed to continuously improving IRS IT systems and processes, and the Affordable Care Act Program Management Office has already taken steps to correct the few discrepancies identified in your report,” IRS CTO Terence Milholland wrote in a response to TIGTA’s findings. “I am also pleased to say that with the perseverance and commitment of our team, the corrective action specified within this audit has been corrected and completed.”
+
+Related article:
+
+IRS: Assess Changes Now That May Affect Your Premium Tax Credit

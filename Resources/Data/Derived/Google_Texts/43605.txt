@@ -1,0 +1,115 @@
+What is HealthCare.gov, and why do I keep hearing about it?
+
+
+
+"HealthCare.gov" is shorthand for the digital architecture that the federal government built to power the Affordable Care Act. Part of that is, of course, HealthCare.gov itself, which Americans in 36 states can use to purchase their own health insurance plans.
+
+These are the states in light and medium blue, below, that decided not to build their own marketplaces (the others have their own, separate Web sites).
+
+That was, at least, how things were supposed to work. But ever since HealthCare.gov launched on Oct. 1, people have had lots of trouble signing up for coverage. And the problems go deeper than just the shopping Web site: The systems the Obama administration uses to calculate subsidies and communicate with insurers are also failing.
+
+What exactly is broken?
+
+It’s helpful to divide the problems into three categories: Getting in, getting eligible, and getting insurance.
+
+The getting-in problems are the difficulties that consumers see when they try to log on and shop for insurance coverage. These are things like error messages, the Web site timing out or difficulty logging into an account. These problems make it difficult for an individual to buy coverage through the marketplace. They are the reason why some people have made upward of 20 attempts at purchasing a plan.
+
+The eligibility problems strike when consumers send in their information and the government's computer systems tell them whether they're eligible for Medicaid, subsidies, or nothing at all. The system is returning incorrect data for some applicants, meaning they might be eligible for Medicaid and not know it, or they might think they have subsidies that will later be revoked.
+
+The getting-insurance problems don’t show up for consumers but are rather seen by insurance companies. Health plans are supposed to get a report when someone uses HealthCare.gov to buy their health insurance policy. Some say that those reports contain inaccurate data, such as the wrong address, or are being sent in duplicate. One insurance company reported getting one of these reports, known as an “834 transmission,” that said one individual had three spouses.
+
+Well was that individual a polygamist?
+
+The Henricksons would have trouble signing up for Obamacare for other reasons. (Wikimedia)
+
+Nope! The person in question actually had one spouse and two dependents.
+
+It's problems like these that mean many insurance companies are now hand-checking each and every enrollment report.
+
+That works fine when there are still front-end problems, and insurers are only getting a trickle of enrollments. What insurance companies worry about is if the front-end problems are fixed before those on the back-end problems, then they’ll have a whole flood of enrollment data -- and no idea if it's accurate.
+
+Who built this thing?
+
+Mostly federal contractors -- 55 of them were involved in the project, according to the Government Accountability Office. Two of the biggest contractors are CGI Federal -- more on them here -- and QSSI, which both do a lot of big government contract work. CGI was “in charge of knitting all the pieces together, making Quality Software Services's data hub work seamlessly with Development Seed's sleek user interface and Oracle's identity management software,” Lydia DePillis explained earlier on Wonkblog.
+
+Or, to put it in the contractor’s own words, CGI Senior Vice President Cheryl Campbell said in September that her company was responsible for “designing an IT solution that is adaptable and modular to accommodate the implementation of additional functional requirements and services.”
+
+QSSI, which is owned by the health insurer UnitedHealthCare, built the “federal data hub,” which is essentially responsible for ferrying data from different agencies (like the Internal Revenue Service and Homeland Security) to and from the insurance marketplace.
+
+“Simply put, the Data Services Hub is a pipeline that transfers data – routing queries and responses between a given marketplace and various trusted data sources,” QSSI’s Andrew Slavitt wrote in prepared testimony for Thursday morning’s hearing.
+
+Who should I blame for this going so wrong?
+
+You have a few options to choose from right now. Some people have placed the blame at the federal contractors who did much of the work building the marketplace. This includes CGI Federal and QSSI, which did a lot of the work actually building the insurance marketplace.
+
+The contractors, meanwhile, are pointing the finger back at the Centers for Medicare and Medicaid Services, the federal agency that was managing this project. This was the government department that was ultimately responsible for getting HealthCare.gov off the ground, and its staff paid for and oversaw the contractors’ work.
+
+“CMS serves the important role of systems integrator or ‘quarterback’ on this project and is the ultimate responsible party for the end-to-end performance of the overall Federal Exchange," CGI’s Campbell wrote in prepared testimony for the Thursday hearing.
+
+Some blame the White House, which told reporters right up until HealthCare.gov’s launch that it would be easy for people to enroll in health insurance plans. They seem to have been a bit blind-sided by how poorly HealthCare.gov’s launch went.
+
+Last but not least, some might choose to blame Republicans for denying Health and Human Services’s request for additional funding to build the health insurance marketplaces. HHS officials claim this has left the agency a bit hamstrung, building a massive IT project on a budget that they did not see as sufficient.
+
+How is this being fixed?
+
+Health and Human Services has said it is bringing in the “best and the brightest” from across the country to fix the problems, what they’re calling a “tech surge.” Jeff Zients, who formerly served as the Obama administration’s Office of Management and Budget director, has come on to help manage the project. We know that some Presidential Innovation Fellows are also involved but, besides that, we haven’t learned a lot about who exactly the “best and the brightest" are.
+
+The most specific document that the federal government has released, which still doesn’t get too far into the details, is this infographic on the health law’s problems -- and solutions under construction.
+
+So, how worried should I be about all of this?
+
+If you do not care if the health law works or want to use it to purchase health insurance, you probably don’t need to worry much at all. Watch this gif of an adorable wombat instead.
+
+
+
+
+
+If you do care about the law working or plan to use it to purchase coverage, then it's fair to be moderately worried at this point. We’re just over three weeks into open enrollment, and it's still really difficult to purchase health insurance coverage through HealthCare.gov. We don’t quite know when that will change since the federal government has not given us a timeline for when the Web site will be fixed.
+
+Is any of it getting better?
+
+Yes. Load times to get into the site have dropped dramatically. Insurers say that the number of successful applications is rising, though the overall number is still extremely low. There are scattered reports that the system is doing a better job transmitting 834 data.
+
+But overall, the system is still pretty broken. Most people can't complete an application, and the error rates are still at levels that would cause chaos if thousands or hundreds of thousands of people were able to purchase insurance.
+
+That said, as Robert Laszewski, president of Health Policy and Strategy Associates, says, "fixing an IT system isn’t linear. You don’t fix 5 percent of the problem one day and 5 percent the next. You can make progress on the small, easy stuff quickly, but the big problems take a long time." The upside of that is that we might wake up one day soon and find that major problems were patched overnight. Or maybe not. No one really knows.
+
+How long until I really freak out about all of this?
+
+If HealthCare.gov does not work by Thanksgiving, most health policy experts and advocates think we have license to get pretty worried that the law will not work, at least in its first year. That’s because of a key deadline: Dec. 15. That is the very last day for shoppers to buy insurance coverage that starts on Jan. 1. Advocates think that, if the Web site isn’t up and running well by mid- to late-November, it will be difficult for shoppers to get through the shopping experience by that date.
+
+I thought I’d heard open enrollment would last for six months? Something about going until March?
+
+Yes, good point! Shoppers can still purchase coverage after Dec. 15, it just won’t take effect until later. A plan purchased in late December, for example, would take effect on Feb. 1.
+
+Open enrollment ends on March 31, although there is one important date before then, and that is Feb. 15. That is the very last day that a shopper can dodge the individual mandate by purchasing a health insurance policy. The penalty kicks in after someone has gone uninsured after three months; buying a plan prior to Feb. 15 ensures coverage starting on March 1.
+
+The White House has pointed the finger at overwhelming traffic. During its first 24 hours, HealthCare.gov got more traffic than Twitter did in its fist 24 months. Lots of people wanted to play around with the new Web site.
+
+Since then, traffic has died down -- but some of the problems still persist. And technology experts think that the problems might have to do with the actual architecture of and coding of the Web site. It's a bit difficult to pinpoint the exact problems as an outsider, because much of HealthCare.gov’s code is closed, meaning that the general public cannot get a look at it.
+
+Is the worst-case scenario that the law just takes some time to get off the ground?
+
+Sadly, no. The White House has always been very explicit that the key to the law's success is signing up young and healthy individuals who'll keep average premiums low. But if signing up is very difficult, the only people likely to finish the process will be people who really need health insurance -- and those folks tend to be older, and sicker. That raises the possibility of an "adverse selection" problem in which too few young and healthy people sign up, which means average premiums rise, which means insurance is even less appealing to young people in year two, which means premiums rise further and so on.
+
+Did the individual mandate get delayed?
+
+Not exactly -- although the federal government tweaked it a bit so that nobody who buys coverage through the marketplace gets penalized for not carrying coverage.
+
+Under federal regulations, anyone who has a gap in coverage of three months or longer has to pay a tax penalty. If you go without coverage for one month, the federal government gives you a pass. But if you are uncovered for at least one day in three separate months -- January, February and March, for example -- the federal government will fine you.
+
+This created a bit of a weird misalignment: Someone who bought coverage in March, which wouldn’t take effect until April, would have purchased a plan during open enrollment but still pay the tax penalty for the three months spent uncovered.
+
+The administration now says that anyone who purchases coverage during open enrollment will not face a tax penalty, giving people more time to purchase coverage.
+
+What about states running their own marketplaces? Are they doing any better?
+
+It depends a bit on the state. A few, like Kentucky and Connecticut, have been able to enroll people pretty seamlessly. They credit this to extensive testing prior to launch and realistic expectations. Connecticut, for example, scaled back its workload about a year ago, deciding to focus on getting the really important pieces of the marketplace ready to launch on day one.
+
+Other states have...had some trouble. Hawaii’s Web site only launched last Tuesday, two weeks after it was meant to go live. Oregon has signed up lots of people for Medicaid -- but technical issues have prevented their exchange, Cover Oregon, from enrolling anyone into private insurance coverage.
+
+Has anyone managed to sign up through HealthCare.gov?
+
+Yes, there is a gentleman I spoke with named Norbert Crabtree, who lives in South Carolina and signed up for coverage last week (Yes, he is real. More on Crabtree here)
+
+A number of health insurance plans have reported enrollments through the marketplace, although the numbers tend to be low, in the double or triple digits. That’s still a far cry from the 7 million people that the Congressional Budget Office expects to sign up -- but, we’re also still in the opening stages of the enrollment period. The White House never expected a wave of enrollment in October, mostly because the coverage doesn’t take effect until January.

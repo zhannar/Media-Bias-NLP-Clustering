@@ -1,0 +1,23 @@
+Risk-O-Meter has an 82 percent accuracy in forecasting 30-day readmissions.
+
+Researchers at University of Washington Tacoma have developed an analytics tool that can predict with 82 percent accuracy the chance that a patient will be readmitted within 30 days.
+
+UW Tacoma's Center for Data Science studied heart failure readmissions data for the five-hospital MultiCare Health System to create an algorithm that would sort through huge amounts of clinical EHR data and predict which patients were most at risk for 30-day readmissions.
+
+[Also: Predictive analytics can help solve hospital problems, CFOs say]
+
+The team developed a set of measures that are integral in heart failure diagnosis, which finally led to the development of the Risk-O-Meter predictive analytics tool. The tool, contrary to standard predictive tools that typically see accuracy rates around 60 percent, has an 82 percent accuracy in forecasting 30-day readmissions.
+
+Next, MultiCare and UW Tacoma researchers wanted to put the tool into the hands of the patient so they could see what risk level they had for readmissions. The tool uses the patient's information and then compares it to the troves of data from other medical records. The patient then gets back a percentage that explains their readmission risk.
+
+Having seen such success with the Risk-O-Meter, UW officials hope to ultimately commercialize the tool.
+
+[Also: Predictive analytics can help solve hospital problems, CFOs say]
+
+In 2011, the federal government estimated that 30-day Medicare readmissions cost $26 billion annually, with $17 billion being attributed to avoidable events. More recently, the Centers for Medicare and Medicare Services will penalize more than half of U.S. hospitals in 2016 for having readmission rates higher than allowed under the federal guidelines.
+
+CMS expects to have levied $428 million in penalties by the end of 2015.
+
+This first appeared on Healthcare IT News. It has been edited.
+
+Twitter: @EMcCannHITN

@@ -1,0 +1,51 @@
+The health-care system is one of the most technology-dependent parts of the American economy, and one of the most primitive. Every patient knows, and dreads, the first stage of any doctor visit: sitting down with a clipboard and filling out forms by hand.
+
+David Blumenthal, a physician and former Harvard Medical School professor, was from 2009 to 2011 the national coordinator for health information technology, in charge of modernizing the nation’s medical-records systems. He now directs The Commonwealth Fund, a foundation that conducts health-policy research. Here, he talks about why progress has been so slow, and when and how that might change.
+
+James Fallows: From the lay public’s point of view, medical records seem incredibly backward. Is the situation any better than it looks?
+
+David Blumenthal: It’s on the way to getting better. But we still have a long way to go. The reason why the medical profession has been so slow to adopt technology at the point of contact with patients is that there is an asymmetry of benefits.
+
+From the patient’s perspective, this is a no-brainer. The benefits are substantial. But from the provider’s perspective, there are substantial costs in setting up and using the systems. Until now, providers haven’t recovered those costs, either in payment or in increased satisfaction, or in any other way. Ultimately, there are of course benefits to the professional as well. It’s beyond question that you become a better physician, a better nurse, a better manager when you have the digital data at your fingertips. But the costs are considerable, and they have fallen on people who have no economic incentive to make the transition. The benefits of a more efficient practice largely accrue to people paying the bills. The way economists would describe this is that the medical marketplace is broken.
+
+JF: This is a subset of the general brokenness of the medical marketplace, right?
+
+DB: Yes. There are many problems that come from the brokenness of the health-care market. To put it another way, if the medical market functioned like the car industry or the computer industry or the service industry, with true competition based on quality and price, providers would have adopted electronic records long ago. I’m not advocating pure market competition in health care. But there are many ways in which the medical marketplace should work better, and this is one of them.
+
+JF: What’s the best thought-experiment example of medical-marketplace incentives working the right way? The VA?
+
+DB: When the benefits of using better technology are “internalized,” as the economists would say, there has been much more rapid, complete, and effective adoption of electronic medical records. So, the VA: the benefits are internalized, because the VA has to live within a budget. In private health-care organizations like Kaiser or the Geisinger plan in Pennsylvania, or the Group Health Cooperative in Puget Sound, electronic medical records were adopted decades ago, and are widely used and highly effective. You don’t need a thought experiment to find living, breathing examples of what happens when the incentives work right.
+
+JF: What’s the connection between the electronic-records effort you directed and the larger Obamacare strategy?
+
+DB: This may be a Beltway detail, but the law that I implemented was not in the Affordable Care Act. It was actually part of the earlier and much maligned stimulus bill. The hope was that promoting medical records would lay the groundwork for a more efficient health-care system, and thereby make universal coverage more affordable to the country—
+
+JF: And—
+
+DB: And you’re about to ask whether it did.
+
+JF: Yes.
+
+DB: It would have. And it will. But it needs time to realize its potential.
+
+I think the parallel is the time it took from when computerization became prevalent in other industries to the time when worker productivity improved. We are only three years into the process of making digital information widely available in health care. And health care is an extraordinarily complex, knowledge-intensive industry. If you want a thought experiment, you could ask yourself how good modern medicine is when physicians and nurses know nothing at all about the patient. So information is absolutely the critical resource in health care, more important than steel in making cars. When you change the way information is used and collected in medicine, you change everything about the way work is done. It is an enormously disruptive process within the health-care system. It takes time to accommodate. In places like Kaiser and Geisinger, electronic medical records are already making a big impact. But that is mostly because those organizations started using them a long time ago.
+
+JF: What about when you switch from too little technology in the patient experience to too much? When the doctor is staring at a laptop rather than looking at you?
+
+DB: This is a transition issue. Most physicians’ offices, and I’ve been in a lot of them, are set up so that when the physician looks at the screen, he or she can’t look at the patient. Often they have their back to the patient. That is because no one has given a lot of thought to how to maximize the ergonomic quality of inserting this technology into the office.
+
+That will come. I also think that voice-recognition technology is going to be an enormous relief both to the physician and to the patient, because the physician will be able to talk to a machine rather than typing into it. Those technologies are improving—as you can tell from your smartphone—and as they do, a lot of this ergonomic problem will go away.
+
+JF: In the broadest sense, what difference will better information technology make in our lives and health?
+
+DB: Fundamentally, every medical record is a tool for collecting information: the information a physician collects when looking at you in a physical examination; the results of lab tests. The constant automatic information collection is going to increase, whether it’s your phone monitoring your heart rate or your scale sending information about your weight to your health provider, or the contact lenses Google wants to market that measure blood glucose levels.
+
+They all are sources of information about your health and well-being. And the challenge we face collectively, inside the health-care establishment and outside it, is how to take all this information, separate what’s useful from what’s not, and then apply it to improve the decisions of patients and care providers.
+
+This is a generic problem in society. We have lots of information, and we don’t always know what to do with it. Your doctor, your nurse, is not prepared to process the information they already have. It’s already overwhelming. And adding more in will just make it even more anxiety-provoking and overwhelming. That is, in a sense, the big data challenge facing health care in the future.
+
+This will move us into a field that is taking shape right now, that of analytics. It will help us take these data and turn them into diagnostic information—into recommendations a physician can give a patient or that patients can get directly, online.
+
+That’s where the future lies, and of course people want the benefit of it right now. Before, there was no market to make this sort of analytic product. Now that we have a growing electronic infrastructure for health information, there is a surge of traditional capitalist interest in turning that information into valuable knowledge, and selling it back to patients and doctors. That will happen. But it could never have happened until we got the data into digital form.
+
+(Image via 18percentgrey/Shutterstock.com)

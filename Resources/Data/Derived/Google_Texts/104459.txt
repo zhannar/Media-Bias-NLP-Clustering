@@ -1,0 +1,71 @@
+ManageEngine OpManager, a powerful NMS for monitoring your network, physical & virtual (VMware/ HyperV) servers & other IT devices. Deploy and start monitoring in less than an hour. Trusted by over a million admins world-wide. Try it for free.
+
+In the wake of the problem-plagued rollout of the Affordable Care Act, otherwise known as "Obamacare," similar government health information technology efforts are being closely scrutinized within the administration and by Congress. That's why the Department of Defense recently released the third version of a multibillion dollar proposal for a much-improved military health records information system.
+
+The objective of the program is to modernize DoD's electronic health records (EHR) system, while making those records accessible later to the Department of Veterans Affairs (VA) as well as to private medical providers.
+
+On the DoD side, the task is to replace various legacy systems with one that not only improves healthcare from a clinical standpoint, but also provides connectivity to VA's follow-on system and to other healthcare providers.
+
+A major goal is the seamless movement of medical records between DoD, VA and private medical practitioners, according to Navy Capt. John Windom, the Pentagon's manager for the project, dubbed the "Defense Healthcare Management System Modernization Program," or DHMSM.
+
+DoD last month conducted the latest in a series of briefings on the program for the IT industry, and accepted industry comments on the program through July 2 as part of an ongoing effort to gather helpful feedback and avoid some of the developmental problems associated with Obamacare.
+
+The IT industry will get a chance to bid on the DHMSM contract when the final Request for Proposals is released sometime before Sept. 30.
+
+A Spotty Track Record
+
+DoD acknowledged in a project description that the size and scope of the DoD and VA systems complicates the DHMSM mission. DoD conceded that its legacy systems were not designed to work together and were not designed with the same standards and technology.
+
+That admission, while accurate, may have been a significant understatement. Since 1998, both DoD and VA have been trying to modernize and mesh their EHR systems. Those attempts have failed to fully meet objectives, according to a detailed analysis compiled by the Congressional General Accountability Office.
+
+DoD and VA spent about (US)$564 million on developing an integrated electronic health record -- iEHR -- between October 2011 and June 2013 alone, and then determined that the approach was unworkable, GAO reported.
+
+"About two years after taking actions toward the development of iEHR, VA and DoD announced changes to their plan -- essentially abandoning their effort to develop a single, integrated electronic health record system for both departments," reads a February 2014 GAO report.
+
+Stripping away the technical and bureaucratic jargon, the agencies found that their health IT systems were hopelessly mismatched for creating a unified system. Each program had its own complexities and unique features such that they could not achieve the fundamental goal involved in joining two or more information programs -- interoperability.
+
+In place of the abandoned iEHR program, DoD now will focus on the DHMSM, through which it will replace the existing Armed Forces Health Longitudinal Technology Application record program. The new DHMSM project will largely utilize commercial off the shelf (COTS) resources and open technologies. For its part, VA will modernize its existing VistA health information system. Each department will include interoperability functions designed to meet the seamless connection goal.
+
+Just how much is salvageable from past and current DoD and VA programs for future use is a bit unclear. However, DoD and VA have accomplished a number of required projects for accelerating coordination, including a "medical community of interest" program and some matters related to interoperability functions, Christopher Miller, DoD's program executive officer for healthcare management, told a Senate panel in April.
+
+Another open question is whether the DHMSM program conforms to recommendations for improvement in the GAO report.
+
+"We have not yet completed a detailed review of the DHMSM draft RFP. Our February 2014 report on the integrated electronic health record program recommended, among other things, that DoD and VA produce a single, shared plan that would describe the interoperable electronic health record the departments have committed to develop," Valerie Melvin, director for information management and technology resources at GAO, told the E-Commerce Times.
+
+Because the draft RFP is "DoD-specific," Melvin noted, "it may not include information relative to both departments' interoperability plans, as called for in our report."
+
+The concept of creating a military health record that begins at enlistment and carries through to field assignments, including active wartime, and to retirement and veteran status is a simple and obvious goal. However, implementation has proven to be complex and difficult. As it also involves military dependents, it has become a staggering task, affecting almost 10 million beneficiaries.
+
+"This initiative is almost unprecedented in scope and may even top the Obamacare health exchange objective. There have been some regional health IT programs that approach the objective here, so it's potentially achievable -- but it will be a real challenge," Scott Lundstrom, group vice president and general manager for IDC Financial, Government and Health Insights at IDC Health Insights told the E-Commerce Times.
+
+A Fishbowl Atmosphere
+
+Part of the initiative for creating a more effective military health records system stems from both DoD and VA acting to better serve military personnel. However, much of it has been the result of Obama administration directives and congressional requirements in various defense authorization bills. Thus DoD and VA are working in a fishbowl with a high level of visibility and accountability on the line.
+
+As a result, DoD internally has taken care to meet these directives and take into account some of the observations on program management from GAO, including better adherence to standards. For example, DoD and VA set up an Interagency Program Office (IPO), with a prime objective of attaining interoperability, that includes liaison with the Department of Health and Human Services' Office of the National Coordinator for health IT.
+
+The IPO has been tasked with supporting "the development and validation of adopted standards, required architectural platforms and structures, and the capacity to enforce such standards," DoD program spokesperson Maureen Schumann told the E-Commerce Times.
+
+The IPO has been directed to "ensure progress toward congressionally mandated activities," she said.
+
+Externally, the deliberative project process has involved those three draft RFPs for review by the IT vendor community, four briefings for industry representatives, and the solicitation of comments from health IT professionals.
+
+A Step Up From Hand-Carried Records
+
+The urgency for getting it right on military health records not only stems from administration and congressional concerns, but also from the broader military community that is exasperated by earlier efforts having come up short.
+
+"After multiple start-stops and a billion dollars later, a separating or retiring service member today is handed a DVD with PDFs of their military medical record, which all have to be downloaded and printed by VA rating officials, who go through them page-by-page to ensure the claim for a service-continued wound, illness or injury is justified. And, as we all know, a PDF is nothing more than a picture, and whatever data it contains can't be manipulated," Joe Davis, public affairs director for the Veterans of Foreign Wars (VFW) Washington office, told the E-Commerce Times.
+
+The VFW and the rest of the veterans' community has "been calling for years" for a seamless health record system, he added.
+
+During Hurricane Katrina, veterans from New Orleans were dispersed to other VA locations, and within the VA health system doctors, could call up electronic records wherever patients landed, Davis noted.
+
+Yet creating inter-service, and active service-to-VA connectivity has been an elusive proposition.
+
+A VFW recommendation for a combined military health command has been largely ignored, and records compatibility was further complicated by merging the Army Walter Reed Medical Center with the Navy Medical Center, Davis said.
+
+These experiences obviously were disappointing to the veterans' community.
+
+As to the proposed DHMSM initiative, Davis said, "we have to have hope."
+
+John K. Higgins is a career business writer, with broad experience for a major publisher in a wide range of topics including energy, finance, environment and government policy. In his current freelance role, he reports mainly on government information technology issues for ECT News Network.

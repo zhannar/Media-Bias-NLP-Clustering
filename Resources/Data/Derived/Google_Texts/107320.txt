@@ -1,0 +1,145 @@
+Over the course of the past decade the concept of an accountable care organization (ACO) has come to define a variety of healthcare provider setups that have primary care as a core focus, payments tied to care quality improvements, and an incentive for lower costs. These models have long been held up as ideal contexts for the flourishing of digital health tools. While not all ACO systems are alike, their core principles generally are. As the Brookings Institution's Mark McClellan and colleagues explained in a widely cited Health Affairs piece from 2010:
+
+"Accountable care organizations can be implemented through different payment models. These could include opportunities to share in demonstrated savings within a fee-for-service environment, in which providers took on no new financial risk. They could also include limited or substantial capitation arrangements, in which payments were unrelated to the volume of services provided, to the intensity of service use, or to the frequency of face-to-face meetings, and in which providers took on some financial risk for poor-quality results or failure to control costs," McClellan wrote.
+
+"Thus, accountable care organizations should have considerable flexibility in many aspects of design," he explained. "At the same time, all variations would be based on these core defining principles: (1) Provider-led organizations with a strong base of primary care that are collectively accountable for quality and total per capita costs across the full continuum of care for a population of patients. (2) Payments linked to quality improvements that also reduce overall costs. (3) Reliable and progressively more sophisticated performance measurement, to support improvement and provide confidence that savings are achieved through improvements in care."
+
+Some provider groups have been practicing a form of accountable care for decades, but the recent health reform legislation has served as a catalyst for hundreds of other providers to transition to accountable care models.
+
+When the Patient Protection and Affordable Care Act was enacted into law in 2010, the still somewhat nebulous ACO was poised to help usher in a number of subsequent payment model experiments led by the Centers for Medicare and Medicaid Services (CMS), which included new Medicare Shared Savings Program (MSSP) ACOs and the Pioneer ACO demonstration projects. Along with Medicaid expansion in many states across the US, ACO models continue to gain traction as states make them a part of their Medicaid programs, too. Private payers are also launching commercial ACOs, which actually now account for most of the patients lives covered by ACOs today.
+
+Research firm Leavitt Partners has been tracking the ACO trend since 2010. By its count in mid-2014 there are now 626 ACOs in the US, up from 164 in September 2011.
+
+"Following a notable slowing of ACO growth in the last quarter of 2013, the first quarter of 2014 had some of the largest increases in ACO-covered lives since 2012," the firm wrote in a recent update. "This period of rapid growth has brought the total number of ACO-covered lives to over 20 million."
+
+Of the 626 ACOs that the firm has in its database, the majority have government contracts, 210 have commercial contracts, and 74 have both. Insurance companies with the greatest number of commercial ACO contracts are Cigna (19 percent), Aetna (9 percent), United, Blue Shield of California, and the Oregon Health Plan.
+
+An annual survey of 155 C-level healthcare provider executives commissioned by Premier has found that while a majority have been bullish about forming or joining ACOs in recent years, it has taken most longer than expected to implement those plans.
+
+"More than half of the executives surveyed 18 months ago predicted their hospitals would create or join an ACO by the end of 2013, but current results show that about 1 out of 4 will meet that projection," Premier noted in a release about the survey results. "Non-rural hospitals and hospitals in integrated delivery networks (IDNs) are more likely to participate in an ACO. Large hospitals are moving more quickly toward ACO participation, while small hospitals are moving more slowly. Rural hospitals and standalone hospitals are least like to participate in an ACO."
+
+Another research firm, Parks Associates, recently predicted that these recent business and other regulatory changes in healthcare will drive the number of US patients receiving care from an ACO from 40 million in 2015 to more than 130 million in 2017. As a result of this rise in ACOs, Parks predicts a parallel boon for digital health tools and services.
+
+“Reforms to the healthcare financial model tie compensation to care outcomes, and ACOs, built on the coordinated care model, align well with this new emphasis," Harry Wang, Director, Health & Mobile Product Research, Parks Associates said in a statement. "Parks Associates defines ACOs in the broadest sense to include Medicare ACOs, private-sector patient-centered medical home practices, and healthcare providers that accept a pay-for-performance arrangement with private and public payers."
+
+The firm believes ACOs will generate about $1 billion in care management revenues in 2015.
+
+In a series of interviews with a half dozen executives who lead or are instrumental to the implementation of an MSSP ACO or similar commercial ACO-like entity, MobiHealthNews has found widespread enthusiasm for the adoption of digital patient engagement tools. While some pointed to concerns around most older patients in Medicare Shared Savings Programs being uninterested in or unable to use digital health tools, others dismissed such characterizations as stereotypes and encouraged MSSP ACOs to experiment with these tools themselves.
+
+"I can’t say we have a lot of tools like this in place now, but I will tell you this, as we move into the realm of population health management... [a good amount] is really up to the patient: choices about their lifestyle, their compliance with their medication regimen, their diet, their exercise – these are big part of their health outcome," explained Dr. Barry Hoover, the VP and CMO of The Physicians Network, a subsidiary of Catholic Health Initiatives (CHI). "We need to engage the patient in more active ways, more proactively than we have in the past. I think that’s where these sorts of tools will work for us."
+
+Hoover is the executive sponsor of one of CHI's ACO programs in Nebraska. CHI has launched a number of ACOs, including five MSSPs.
+
+While Hoover's assessment of the potential for digital health tools for ACOs was shared by most of the other ACO executives MobiHealthNews interviewed for this report, his program's current lack of adoption was generally the case for most others too. Digital health tools are only just beginning to find their way into the ACO's toolbox.
+
+Boston-based Partners HealthCare is perhaps one of the most innovative providers in the country. A few years ago the healthcare system appointed Tim Ferris to manage population health at the system-level, which was an exciting hire for the director of Partners' Center for Connected Health, Dr. Joe Kvedar.
+
+"As soon as he was named to do this population health at a system level, I was in his office a few days later," Kvedar told MobiHealthNews in an interview. "He said to me, give me some time and be patient with me because we have some other structural things that we need to do first. We need to convert our care practices into patient-centered medical homes. We need to get embedded case management going in the system. We need to get registries up and running. We need to get predictive modeling. And then connected health will be in the 'Second Wave'."
+
+Three years later, Kvedar says Ferris has been true to his word and the system is on schedule. Ferris' list of necessary restructuring and health IT initiatives squares well with some of the other survey results from that Premier-commission poll of C-suite executives with an eye on population health management. The survey, which was conducted in August of 2013, included responses that represented 101 various sized hospitals across 35 states.
+
+"Some of the key strategies that providers are using to better manage the health of a population include greater patient involvement in clinical decisions, new community and payer partnerships, and the use of advanced technology to collect, analyze and report data covering a population," Premier wrote last year. "According to survey results, the majority of providers are making investments in the infrastructure necessary to better manage the health of the populations they serve. Lifestyle and wellness coaching was most often cited overall by 71.6 percent of hospital executives, followed by patient-centered medical homes (62.4 percent)."
+
+In addition, as a part of their prep for population health management programs, almost 57 percent of respondents said they were investing in home health, while more than 41 percent said they were investing in telemedicine or virtual care technologies.
+
+The Certification Commission for Health Information Technology (or CCHIT), a non-profit that has been steeped in the roll out of EHRs, has constructed a helpful framework for the foundational HIT requirements that ACOs should be considering. The short list includes health IT that enables: "information sharing among clinicians, patients and authorized entities; data collection and integration from multiple clinical, financial, operational and patient-derived sources; HIT functions supporting patient safety; and strong privacy and security protections."
+
+HIT that enables data collection from "patient-derived sources" is the list entry where most patient-facing digital health tools would fall. Here's how CCHIT describes the importance of these tools to ACOs:
+
+"As the delivery system evolves from doing things 'to' the patient, to doing things 'for' the patient, to doing things 'with' the patient and designated caregiver as partner, the expectations of patients and caregivers and their cultural attitudes about accountability for their own health will also evolve. This will require a major change in how communication occurs between patients, their caregivers and providers, and even a more significant change in how patients and caregivers can use technology to better care for themselves on multiple levels — to stay well, manage a chronic condition, or assume informed control of major life changing decisions and events."
+
+Digital Health Tools For Navigating the Health System
+
+One category of patient-facing digital health tools that will be increasingly important to ACOs are customer service tools that help patients navigate the healthcare system. These apps help patients find their way to the appropriate healthcare facility and make it easy to book appointments. These tools can help ACOs ensure that their patients seek out care from the right providers. If they fail to do so, and patients seek care from a provider outside of the ACO's provider network, the ACO will be stuck paying the bill.
+
+"One of the things that is a terrible outcome for accountable care organizations is to have their patients seek care elsewhere. Medicare won’t allow us to restrict that," Partners' Kvedar explained. "Quick economics lesson: If a patient is assigned to my accountable care organization, we cover their care, so if a patient goes across the street to a competitor, we will get billed for the competitor’s charges from that care. We will end up paying it. Even if it is just a Medicare allowable rate, it is greater than our costs. Affinity becomes really important and tools like ZocDoc and iTriage and other similar tools -- the whole point of them is to make it easy for people to be sticky to your system."
+
+Kvedar pointed to patient surveys as another customer service-type tool that can help increase patient loyalty, especially since healthcare has a legacy of not being incredibly customer service-savvy.
+
+"We are doing a big push right with another mobile solution now in patient reported outcomes (PRO) using tablet computers," Kvedar said. "Part of the reason for that is it helps us with quality metrics for certain contracts with local payers, but part of it is that patients really like it. They like telling us how their experience was and we really pay attention to their responses. That keeps them sticky to us."
+
+Kvedar and his team at the Center for Connected Health has also just completed a trial run of an algorithm that helps predict whether a patient is at-risk for being a no-show at their next appointment. The algorithm uses past behavior as detailed in the patient's medical record along with other data sources to make its prediction. Kvedar's team then sent those potential no-show patients text message reminders to alert them to their upcoming appiontment. While the Center didn't have data to share publicly yet, Kvedar said it was helpful in getting the patients to their appointments.
+
+"Maybe that's not as sexy as home monitoring but it's an important part of being a more efficient delivery system," he said.
+
+Of course, some system navigation and basic customer service features are making their way into EHR vendor-developed patient portals and their companion apps:
+
+"Our EMR does have a patient portal that includes secure messaging. Our vendor has come out with a mobile application that we plan to go live with some time in the next few weeks. [It] will allow us to share some additional content [with patients] and patients to book their own appointments, view and share lab results in real-time," Dr. Jonathan Nasser, the Co-Chief Clinical Transformation Officer, Medical Director and physician leader for Crystal Run Healthcare’s Pediatrics division in Middletown, NY told MobiHealthNews.
+
+Remote Video Visits and Virtual Care
+
+As noted above, some surveys have shown substantial interest in virtual care services among those C-level provider executives forging population health management strategies. The small sampling of ACO executives MobiHealthNews interviewed mostly seemed to share that interest.
+
+"We are currently vetting a number of technologies that would enable us to do video visits," Crystal Run's Nasser told MobiHealthNews. "We hope to go live with that this year to enable our patients to be able to interact with us without having to come into the office. We recognize with that, that we can’t build that on our own, so we are vetting a number of different vendors to allow us to provide that kind of interaction with our patients."
+
+Nasser said that the ACO is "the perfect model for this kind of engagement -- video visits".
+
+"We are interested in doing the right thing for patients, and we don’t believe this model requires the same fee-for-service revenue, at least not to the same extent that other models do," Nasser said. "Years ago, or even now in some other cases, giving up an office visit to discuss something over email or a video visit meant giving up revenue. In an accountable care setting where we are accountable for and interested in managing patients over a time period, these types of alternative things allow us to be effective and for certain situations, are excellent ways for patients to engage with us through technology. They will require less time for the physician and the patient. We are excited about having the platform to be able to do that and provide valuable visits to our patients that still allow us to provide excellent care, even though it's not necessarily in that same model that medicine has (been accustomed) to."
+
+Kvedar points out that as it is, healthcare is labor intensive -- a majority of costs are labor costs. Remote care and other technologies that help extend our care provider teams are, therefore, crucial.
+
+"If we are going to end up winning this game of lowering or bending the cost curve, as they say... we have to do things like other industries have done; such as: allowing you to pump your own gas or check yourself into the airport. Technology allows us to do that. Your patients can feel cared for without as many human touches, and the human beings [the providers] can extend themselves across more patients, while feel like they are giving more high quality care. Ultimately, technology allows us to do that."
+
+While some are on the cusp of launching video visits and the vendors that facilitate these services appear to be racking up customer wins across the country, at least one ACO executive MobiHealthNews interviewed helped illustrate how important an ACO model is to the feasibility of virtual care.
+
+"We are in this transition period right now because most of our payer contracts are fee-for-service, and although we’d like to provide some of those services and reimburse for them, they require time with your staff. Often you don’t get paid unless the patient comes into the office, even though some things could be handled via email or with a call," CHI's Dr. Barry Hoover explained.
+
+"I think those tools do make more sense in [the ACO] context, but I’m not sure they are being used a lot yet," he continued. "They will be in the future."
+
+Remote Patient Monitoring and Connected Chronic Condition Management Tools
+
+Arizona Care Network, an ACO formed by Dignity Health and Tenet's Abrazo Health, recently made a high-profile announcement that it would offer its chronic obstructive pulmonary disease (COPD) patients the FDA-cleared, wireless-enabled inhaler and companion program developed by Propeller Health. The deal marked the first ACO deal for Propeller, formerly known as Asthmapolis, and one of the few publicly disclosed mobile health customer wins involving an ACO.
+
+"The Propeller relationship is unique for us," Todd Ricotta, the executive director of the Arizona Care Network told MobiHealthNews. "I would agree that not many ACOs are moving into this realm yet. There are still many foundational things that ACOs are working on – and we are as well."
+
+Ricotta said that Propeller's relationship with Dignity Health, which is an investor in Propeller, helped motivate the ACN deal. Propeller had also already demonstrated its value in pilots at other Dignity sites and that track record encouraged the ACN team to roll it out.
+
+"We have done telemonitoring now for about 10 years using some of the things that you might call big iron solutions, like Bosch or Philips," Partners' Kvedar said. "Recently I’ve had a number of instances where the nurses – because it is run through homecare – so the nurses don’t run this only remotely but also by actually going to the home. They’ve had a number of instances where the patients ask them, ‘Well, why can’t we just use an iPad? Why do you need to bring these other things into the home?’"
+
+As a result Partners recently piloted an iPad-based remote monitoring offering from a company called iGetBetter with their Medicare patients.
+
+"We’ve had success – pilot success, but good success, with a local firm, iGetBetter, which uses the tablet and consumer devices for remote monitoring," Kvedar said.
+
+Kvedar noted that the pilot was with a group within their Medicare population. He said those running MSSPs might want to consider that technology adoption trends have changed dramatically in recent years and many older patients are comfortable and even asking for these tools in his team's experience.
+
+"We can see the trajectory. For years our message on mobile health was we are going to do text messaging because it is horizontal – everyone has a phone and almost everyone can take a text," Kvedar said. "We certainly have done a lot of that and have had a lot of success with that. Patients in these programs kept coming in and asking, ‘Why don’t you guys do apps? Why do we have to do this via text message?’ So we are doing apps now and I don’t see us as that far ahead of the curve – I think this we are on the right side of the curve."
+
+Kvedar's team has also rolled out other chronic condition management tools supported by Qualcomm's 2net platform, which offers a number of ways to transmit data back to providers -- so patients don't need to have a smartphone or tablet at home to use connected health devices.
+
+One early participant in the Medicare Shared Savings Program, Clermont, Florida-based ACO Primary Partners, inked a deal with AMC Health in January 2013 for a telemonitoring program to keep tabs on patients with chronic diseases. The program specifically includes comprehensive home telemonitoring and remote care services to help reduce complications, hospital admissions and readmissions in patients with congestive heart failure, diabetes, chronic obstructive pulmonary disease, hypertension or some other common chronic ailment.
+
+As part of the deal, AMC Health does most of the work, selecting the patients in consultation with Primary Partners physicians, enrolling and disenrolling them and installing, maintaining and uninstalling the monitoring equipment.
+
+Medication Adherence Tools
+
+Another category of digital health tools that ACOs are considering are ones that aim to increase patient adherence to medication regimens.
+
+Partners' Center for Connected Health recently began working on an app to help support its cancer patients and help keep them adherent to a medication schedule.
+
+"Now, we are looking at adherence both in terms of building our own apps – we just built one for cancer patients on chemotherapy," he said. "Then some in the marketplace – we are doing a review of all the adherence tools in the marketplace, including the various connected pill cases, boxes and the apps as well."
+
+Kvedar said Partners has made assessing and adopting medication adherence tools a priority over the coming year.
+
+A New (but Long-Awaited) Business Model for Digital Health
+
+While the increasing proliferation of accountable care models in the US is a clear opportunity for most companies developing patient-facing digital health tools, adoption is not without its challenges.
+
+"I get pitched with creative opportunities like Propeller's all the time," AZN's Todd Ricotta said. "I get pitched all the time."
+
+Ricotta said most digital health companies pitch a deal that includes a small implementation fee upfront and then a cut of the expected shared savings.
+
+"If we started putting arrangements together, yes, they may be of interest to us initially, but if we optimized a particular disease state because of a relationship with an intervention such as Propeller, and we are unable to generate enough of an offset in shared savings across the entire population we’re caring for, we may not get any shared savings from an arrangement like that. At the end of the day the revenue needed for us to support a company like Propeller and their initiative is not guaranteed," Ricotta said. "We have a hard time carving out a risk arrangement for an initiative like this when the total savings might not be there. That may be one reason you may not be finding much of this happening right now. There is a real focus right now at most ACOs on care alignment, and coordination with providers so they understand what is happening with the population. Then, at some point, we’ll see the tools and the monitors get implementation to really help with that last mile."
+
+Ricotta thinks an ACO needs about three years to learn enough about their patient population to better manage the small subset that needs the most help and generates the highest costs.
+
+"Then tools like these could be part of a strategy for breaking through whatever real or artificial ceiling they might be up against for continuing to improve care and reduce costs across their population," he said. "I think this is mostly a 'phase three' strategy for most ACOs, unless they happen to get to that plateau sooner."
+
+Another frustration for some ACOs is the lingering effect of policies that were put into place under the old fee-for-service paradigm. MSSP ACOs in non-rural areas recently teamed up with telemedicine lobby groups to urge the incoming HHS Secretary Sylvia Burwell to use her newfound executive powers to waive restrictions on the types of tools they can use to provide accountable care.
+
+The letters pertain to section 1834(m) of the Social Security Act, a 2001 piece of legislation that was passed at a time when telemedicine was much more of an unknown quantity, and fee-for-service was the main payment model in consideration. The Act restricted CMS reimbursement for telemedicine to rural areas, where it was believed telemedicine had the most cost-saving potential.
+
+In their letter the group of ACO executives wrote: "Unfortunately, section 1834(m) of the Act only provides Medicare reimbursement for connected care services furnished to beneficiaries located at a limited number of originating sites in rural areas. This creates a disincentive for the vast majority of ACO providers – many of whom practice in urban areas and are not physicians – to use this type of technology. Those of us working with providers who do not receive reimbursement for connected care services are faced with the difficult decision of assuming financial risk by providing the care for free. For many physician-led and smaller ACOs without access to a lot of capital, it is not even an option."
+
+The American Telemedicine Association's CEO Jonathan Linkous told MobiHealthNews that this marked the first time ACOs weighed in as a group to help push the administration to encourage adoption of digital health tools.
+
+“The ACOs are fairly new groups to this, in that they’ve been really working to develop the organizations and a lot of them didn’t even know themselves that they couldn’t use telemedicine until we pointed it out to them. The fact that the ACOs are lining up behind us on this is a very positive thing.”

@@ -1,0 +1,15 @@
+Chlamydia is one of the most common forms of sexually-transmitted diseases (STDs) that can lead to some serious consequences in life, from blindness to infertility. Caused by the bacterium Chlamydia trachomatis, the disease infects up to 100 million people each year.
+
+During the 1960s, scientists attempted to develop several different chlamydia vaccines — but something strange happened when they tested the vaccine on patients. The vaccine appeared to raise the risk for someone to be infected with chlamydia, instead of protecting them from the sexually-transmitted disease. After this disappointment, researchers put the chlamydia vaccine aside and never quite figured out what caused it to go awry.
+
+Now, Harvard researchers believe they’ve unraveled the mystery — and in doing so have developed an even better way to vaccinate people against the bacteria.
+
+“This is really a very surprising and exciting observation,” Ulrich von Andrian, professor of immunopathology at Harvard Medical School, said in the press release. “We used this vaccine to try to really understand an immune response that was previously not that well worked out. Now our vaccine gives very good protection, even against different chlamydia strains.”
+
+The study suggests that the vaccines from 50 years ago didn’t protect people from chlamydia infection because the dead bacteria in the vaccine actually just made patients tolerate infection better instead of preventing them from getting infected in the first place. It turns out that dead Chlamydia bacteria, instead of triggering immunity to the disease, stimulated a type of white blood cell called T lymphocyte, or T cells. These cells actually ended up protecting the bacteria, rather than killing it off.
+
+“We thought, perhaps we can exploit the fact that this killed Chlamydia is actually seen by the immune system and attach a message to this killed Chlamydia such that the response becomes a desired one,” von Andrian told The Verge.
+
+The problem then was to create a vaccine in addition to an adjuvant that would work together to protect against chlamydia, and not foster it. This is how the research team developed charge-switching synthetic adjuvant nanoparticles, or cSAPs. cSAPs binds to negatively charged chlamydia when nano particles change their charge from negative to positive, after the researchers added a mild acid. cSAPs can be administered through the nose, which proved to be the most effective avenue.
+
+When the researchers tested it in mice, they found that “mice that were given the cSAP vaccine very quickly eliminated Chlamydia and were even faster at completely clearing it than the animals that had developed natural immunity after a previous infection,” von Andrian said in the press release. The next steps will involved bringing the vaccine to clinical trials.

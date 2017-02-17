@@ -1,0 +1,31 @@
+Back in February 2015, IRS Commissioner John Koskinen disclosed that unauthorized individuals or groups had illegally gained access to sensitive taxpayer information such as Social Security numbers, birthdates and street addresses.
+
+In all, Koskinen said, about 100,000 tax accounts from its “Get Transcript” application were tampered with by criminals. But an August update found that the number of taxpayer accounts violated was closer to 114,000. But there was yet another caveat: It seems an additional 220,000 accounts had been “inappropriately accessed,” which brought the overall total to 330,000 accounts.
+
+Related: Obamacare Website Still Vulnerable to Hackers, Federal Watchdog Warns
+
+But wait, there’s more. A February 2016 “update” showed that another 390,000 accounts had been inappropriately accessed, bringing the new grand total to 720,000 – at least for now.
+
+The seemingly endless breaches of some of the most sensitive data the government keeps of its citizens, including its tax records, Social Security numbers and other personal identity, was highlighted in a new Government Accountability Office (GAO) progress report released on Monday.
+
+The 36-page study provided an update on how well the often beleaguered agency is performing in trying to fortify the protection of key finance and tax processing systems and networks in order to combat fraud and identity theft, prevent disruptions of agency operations and ward off malicious and destructive cyber-attacks from outsiders.
+
+To be sure, the IRS has made some progress in implementing information security controls, the GAO acknowledged. It cited, for example, steps the agency has made to tighten access to key financial applications and to develop “multi-factor authentication processes” throughout the agency to safeguard data.
+
+Related: Obamacare Fraud Is Rampant and Unchecked, GAO Warns
+
+“However, weaknesses in the controls limited their effectiveness in protecting the confidentiality, integrity, and availability of financial and sensitive taxpayer data,” the report states. For instance, the IRS has not always applied proper password settings for identifying and authenticating users. It has also failed to take appropriate steps to restrict access to servers. And it hasn’t done enough to insure that “sensitive user authentication data were encrypted.”
+
+
+
+“An underlying reason for these weaknesses is that IRS has not effectively implemented elements of its information security program,” the report complained. “The agency had a comprehensive framework for its program, such as assessing risk for its systems, developing security plans, and providing employees with security awareness and specialized training. However, aspects of its program had not yet been effectively implemented.”
+
+The IRS has daunting tasks and often operates under tight budgetary strictures imposed by Congress. It collects taxes, processes tax returns, audits business and individual taxpayers, enforces U.S. tax laws and, most recently, assists in implementing the Affordable Care Act to make sure individuals seeking government health care subsidies meet the income requirements.
+
+The IRS -- like most other major government departments -- depends on computerized systems to support its mission and to protect sensitive financial and tax data from hackers. The GAO has criticized other agencies, including the Office of Personnel Management, for breaches of their computerized records by hackers. Just last week, the GAO outlined numerous security vulnerabilities in an Obamacare Internet data “hub” that links the Obamacare website to the IRS, the Social Security Administration, the Department of Health and Human Services and other agencies.
+
+Related: IRS May Have Allowed Insurers to Escape Millions in Fees and Penalties
+
+In response to the latest GAO report, Koskinen asserted that while the “integrity of IRS’s financial systems continues to be sound,” the agency is in the process of adding many additional safeguards and is reviewing GAO’s latest batch of recommendations.
+
+However, as GAO cautioned, “Until IRS takes additional steps to (1) address unresolved and newly identified control deficiencies and (2) effectively implement elements of its information security program, including, among other things, updating policies… and testing and evaluating procedures, its financial and taxpayer data will remain unnecessarily vulnerable to inappropriate and undetected use, modification, or disclosure.”

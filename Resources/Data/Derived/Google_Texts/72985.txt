@@ -1,0 +1,105 @@
+We’d all like to see big data techniques put to work solving difficult societal issues and the truth is that they’re very capable of doing so. Where they’ve been applied so far — on everything from helping poor mothers in Chicago to monitoring voting rights in Kenya — these new methods for working with, analyzing and processing data have proven rather effective.
+
+The problem is that many of these efforts have been of the volunteer variety. Sometimes, they’re a relatively short-term affairs. A meaningful, sustained effort by nonprofit agencies to optimize their operations with data is likely going to require a serious investment in both people and technology. To butcher the old proverb: Even if they learn to fish with data, nonprofits still need to buy the right gear and get out on the water.
+
+Advertisement
+
+The bad news is that we’re a long way from that happening. The good news is that help is on the way.
+
+Advertisement
+
+Rayid Ghani, the former Obama for America chief scientist and Accenture Technology Labs scientist, is helping lead the charge. With his work at the University of Chicago (where he’s research director of the school’s renowned Computation Institute), and a new startup called Edgeflip, Ghani thinks he can help ensure nonprofits keep enough money in their coffers to spend wherever they need to.
+
+Advertisement
+
+Advertisement
+
+Data science, meet social good
+
+Advertisement
+
+Over the past summer, Ghani led a University of Chicago initiative called the Data Science for Social Good fellowship, in which teams of students from across the country worked with nonprofit and government agencies to help them solve some pressing problems using data. The summer program — which was funded by Google chairman Eric Schmidt and includes Schmidt, as well as dozens industry data scientists and University of Chicago faculty among its advisors, mentors and staff — came together pretty quickly, Ghani said, but is part of a long-term effort to attack policy issues with data.
+
+Advertisement
+
+I had a chance to see a compendium of the projects during a presentation the students gave at the SIGKDD Conference on Knowledge Mining and Data Discovery in Chicago in August. An abbreviated list of the applications includes: helping Cook County keep track of abandoned properties; managing supply and demand for Chicago’s bike-sharing system; optimizing public transportation routes and schedules; optimizing garbage collection; working with emergency rooms; predicting crime; and, perhaps my favorite, helping the Nurse Family Partnership measure the effectiveness of its program that provides guidance to at-risk first-time mothers.
+
+Advertisement
+
+Moms, babies and data
+
+Advertisement
+
+The Nurse Family Partnership is a national organization that provides home nursing visits to at-risk mothers throughout their pregnancies and up until their children are 2 years told. It serves about 23,000 mothers in 42 states. “We’ve always been a data-driven organization,” Nurse Family Partnership’s Bill Thorland explained, but until recently most of its effort around data went directly into informing how the practice should operate.
+
+Advertisement
+
+One thing the agency had been wanting to do is do a comparative analysis of its mothers against “average” mothers or at-risk mothers who hadn’t received in-home visits. It wanted to answer the question, Thorland said, of “What would have happened to these moms had they not been in a home-visitation program?” That meant looking at child-centric metrics such as birth weight, cognitive development and physical growth, as well as mom-centric metrics such as whether they’re completing their educations and whether they’re employed.
+
+Advertisement
+
+Advertisement
+
+This is the project onto which the Nurse Family Partnership sicced its team of Data Science for Social Good fellows. They tracked down comparative databases and got to work doing statistical matching and analysis that would show how the agency’s clients stacked up against other groups of mothers and children. Thorland said his agency has some “pretty sophisticated” data-analysis skills in-house, but he acknowledged that in 10 weeks of work, the students “advanced our progress on that [project] about 10 months.”
+
+Advertisement
+
+Calculating how its clients fare when compared against non-program mothers helps the Nurse Family Partnership assess it strategy internally, but it also helps the organization please external stakeholders. There are certain aspects of the Affordable Care Act that require organizations do a better job quantifying their results, Thorland explained, and the various organizations and individual donors that support the Nurse Family Partnership are also asking more questions than ever.
+
+Advertisement
+
+“Any of them want to know what the bang for the buck is when they invest in a program like this,” he said.
+
+Advertisement
+
+If it worked for Barack Obama …
+
+Advertisement
+
+Replicating this result — where data science has the side effect of potentially leading to more, or happier donors — is something many nonprofits might like to strive for, but it’s kind of a chicken-or-egg problem. How can an agency better quantify its value, and thus raise more money, if it can’t afford to pay top-notch data scientists? Ghani said the answer lies in harnessing resources such as university programs (Nurse Family Partnership has actually entered into another data-analysis partnership with the University Colorado) and also data-focused volunteer organizations such as DataKind.
+
+Advertisement
+
+And, if you read between the lines, they exist in the first place because there are plenty of people who want to do this type of work; they just need the right incentives in place if they’re going to make a career of it. All things being relatively equal, Ghani doesn’t think nonprofits that want to hire data scientists need to offer them as much money as web companies can pay. He said just being in the ballpark — maybe within 20 or 30 percent — could attract socially minded talent.
+
+Advertisement
+
+Although, it’s probably best to put together a team. “No one wants to be the data person,” Ghani said.
+
+Advertisement
+
+Advertisement
+
+If Ghani has his way, though, many organizations should soon be able to focus their data science efforts on improving the product rather than trying to sustain fundraising levels. His new startup, called Edgeflip, is based on the highly effective techniques the Obama for America tech team used to target donors and volunteers during the 2012 presidential election, only it’s targeting nonprofits.
+
+Advertisement
+
+Edgeflip is still in stealth mode, but it was in place in a couple pilot projects when I spoke with Ghani in mid-August. At that time, the technology wasn’t yet fully baked and still required a fair amount of handholding, but the goal is for it to abstract some heady data science underneath a platform that any nonprofit can use.
+
+Advertisement
+
+“The goal over the next few months is to build a self-service platform,” Ghani said, “… and basically give you ‘a share on Facebook button’ [for fundraising and volunteer management].”
+
+Advertisement
+
+Data sharing for social good?
+
+Advertisement
+
+However they do it, nonprofits do need to figure out a way to make more data-driven decisions if they want to step up their games and stand out. Some of the best are already figuring this out and doing pretty good work, but they still have a long way to to before they’re as advanced as a company like Google.
+
+Advertisement
+
+One way to close this data gap is by sharing data among organizations that work on solving the same issues, the idea being that a collective intelligence is better than many disparate entities that each know part of the story. With a data fabric similar to what a company like Facebook has, organizations could find and analyze what they need even if they haven’t gathered it. Ghani mentioned that’s he has already spoken with a group of public media stations about such a project.
+
+Advertisement
+
+It’s a great idea, but it’s tricky. Technologically, just trying to share data that originates in different formats on different platforms is a difficult task. “They all have great data,” Ghani said, “but they all have it in different systems.”
+
+Advertisement
+
+He thinks the best avenue for making any legitimate data-sharing platform a reality would be a large foundation (the Bill and Melinda Gates Foundation, for example) or a consortium of large nonprofits pooling their resources together. Not only would they have the financial means to build it, but foundations have the muscle to overcome resistance (nonprofits compete for funds even when they’re trying to fix the same problem) by conditioning funds on agencies putting data back into the system, Ghani said.
+
+Advertisement
+
+“[Smart nonprofits] realize that if they don’t catch up with the corporate world they’re not going to be able to get these things done,” Ghani said, However, he added about data platforms, “Other than hope … I haven’t seen any concrete things out there.”

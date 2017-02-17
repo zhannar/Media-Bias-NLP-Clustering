@@ -1,0 +1,35 @@
+Politics and poor management led to the breakdown of the government's health insurance website HealthCare.gov during its launch and in subsequent weeks, a new Senate report concludes.
+
+The report, Red Flags: How Politics and Poor Management Led to the Meltdown of HealthCare.gov, billed as an inquiry by the Senate Finance Committee minority staff and the Senate Judiciary Committee minority staff.
+
+As the report lays it out, the Department of Health and Human Services through the Centers for Medicare & Medicaid Services invested hundreds of millions of dollars in developing the HealthCare.gov website to make it the showcase of the Patient Protection and Affordable Care Act, since it would be the first tangible product the American public would associate with the law.
+
+"Both metaphorically and factually, the website was designed to be the public face of President Obama's signature achievement," the report notes.
+
+However, fatal mistake No. 1, the Obama Administration failed to task any one individual or entity within HHS or CMS with ensuring the success of the website. There was no central coordinator, officials noted.
+
+Moreover, "rather than delegate responsibility fully to HHS and/or CMS, the White House continually meddled in technical decisions and put pressure on CMS officials to launch the website on time, regardless of operability and security concerns," according to the Senate report. "As a result, officials ignored countless red flags to launch a website with thousands of defects. In the end, the launch failed miserably, crashing on takeoff."
+
+See also: What happened to Healthcare.gov?.]
+
+"The breakdown was not a surprise to dozens of high-level officials within CMS and HHS, nor to hundreds of individuals working for the contractors who had developed the code for the website," the report contends. "These individuals were aware for months of gaping holes in testing, critical security concerns and failures under the most modest simulations. None of them were empowered to act on their knowledge of impending catastrophe. Instead, officials were pressured to launch the website at any cost. In fact, no level of failure was too low for the officials in charge of launching the website."
+
+The report also puts forth that CMS ignored several red flags, including an April 2013 study from McKinsey & Company the government had commissioned. The report warned of the likelihood of website failure six months prior to the Oct. 1, 2013, launch.
+
+"McKinsey's findings gave the White House, HHS and CMS much of the information they needed to see the risks of the current trajectory of the website's development," the report states. "Unfortunately, it appears that those briefed did not implement McKinsey's recommendations, and the report's findings did not even trickle down to some of the government and contractor managers who were in the trenches."
+
+The government continued to ignore warning after warning, according to the report, which details several of the warnings – and caveats, among them concerns over security – issued at the time.
+
+Officials represented to the public that the website was on track.
+
+[See also: HealthCare.gov security risks laid bare.]
+
+Lessons learned
+
+"If there is one takeaway lesson from the failures associated with the launch of HealthCare.gov, it is that there was a lack of clear leadership from the beginning of the project," report authors conclude. "Although CMS was in charge of building the website, CMS relied on a broad "enterprise architecture" to make sure that all of the different offices were coordinating. Unfortunately, this approach made project management and accountability difficult."
+
+"For large IT projects, management structure is key. HealthCare.gov did not have anyone in charge of the entire project," the report continues. "The lack of a general contractor enabled contractors and CMS to point fingers at one another when the website failed.
+
+Conclusions
+
+As of the end of February 2014, the administration had spent $834 million on developing the website, according to the report, which concludes: "Any endeavor of this size is prone to be plagued with issues. However, the issues that occurred with respect to the launch of HealthCare.gov were largely preventable if thoughtful consideration had been given to an overall implementation plan rather than a trial and error approach. The outcome is that millions of taxpayer dollars were spent unnecessarily, and potential enrollees endured unacceptably long wait times and the threat of not receiving coverage. In the first few critical months of what was supposed to be a signature domestic achievement, the public perception of the program was overwhelmingly negative, even among many of its supporters. By engaging in poor management, ignoring obvious red flags, and enforcing arbitrary deadlines over practical considerations, the Administration prioritized political success over protecting taxpayer dollars."

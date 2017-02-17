@@ -1,0 +1,33 @@
+With 100 percent accuracy, IBM Watson correctly sorted and identified patients who went on to develop psychosis from those who did not.
+
+With 100 percent accuracy, IBM Watson correctly sorted and identified patients who went on to develop psychosis from those who did not. Reuters
+
+One in every 100 people between the ages of 14 and 27 is at high risk for psychosis, scientists estimate. With 100 percent accuracy, an automated computer program developed through IBM Watson correctly identified the at-risk patients who went on to develop psychosis (losing touch with reality) from those who did not. These results represent, the researchers believe, the earliest stage in more widespread use of emerging behavioral analysis techniques to predict psychiatric illness.
+
+“There are many other conditions that we could potentially diagnose using computer science behavioral analysis techniques, not only psychiatric but also neurological conditions, and medical conditions more broadly,” Dr. Cheryl Corcoran, assistant professor of Clinical Psychiatry at Columbia University, and her co-authors told Medical Daily in an email. They envision “a smart phone that could detect speech abnormalities associated with delirium, for example, or alcohol intoxication, or dangerous hypoglycemia in individuals with diabetes.”
+
+Watson Lends Psychiatry a Hand
+
+More than two-thirds of patients who attempt suicide do not express their intentions, while most people who say they are suicidal never go through with an attempt, noted the authors of a recent Dartmouth/Veterans Affair study. Serious mental illness frequently eludes the grasp of working psychiatrists, who must rely on observation and a patient’s confessions of disordered thinking. Psychiatry has always lacked the objective tests used by other medical specialties and so frequently suffers a loss of esteem in the general public's opinion.
+
+Yet, there’s new hope. Over the past decade, neuroscientists have learned more about the biological underpinnings of mental illness, while, separately, computer scientists have developed increasingly sophisticated methods of predicting human behavior. Businesses routinely use automated methods to personalize advertising content and screen job candidates, so why couldn’t psychiatry put similar techniques to use?
+
+Figuring automation might help diagnose mental disorders, the researchers of the current study focused on natural language processing. The idea for the study was, in the researchers' words, “pure serendipity.”
+
+It worked like this:
+
+Having previously collaborated with Dr. Guillermo Cecchi in analyzing speech transcripts of patients high on ecstasy and meth, Dr. Gillinder Bedi wanted to do a similar study of psychotic patients. So Bedi, who is a research scientist at NY State Psychiatric Institute, asked Columbia Medical School researchers if they had any transcripts of people at high-risk for psychosis. In fact, they did have records for 34 at risk people (between the ages of 14 and 27). These 34 patients had been followed for two and a half years, during which time five had developed psychosis. Next, Cecchi applied machine learning and natural language processing analyses to the transcripts from the 34 patients to identify specific features that might predict psychosis.
+
+“The features were a combination of a ‘blind’ search for patterns, and formalization of ideas used by psychiatrists to characterize psychosis, such as thought incoherence,” Cecchi, a computational neuroscience researcher at the IBM T. J. Watson Research Center, told Medical Daily in an email.
+
+Knowing the results (which patients eventually developed psychosis), Cecchi was able to identify three specific language markers — speech coherence, phrase length, and use of determiner words to link phrases — from a set of potential signs.
+
+Though a psychiatrist may intuitively recognize these signs when speaking with a patient, the researchers explained, the advantage of a computer program is it can precisely measure each separate variable of mental disorganization. Going forward, the team needs to test the three speech markers in another group of at-risk patients to determine how well the markers can predict psychosis.
+
+What's Next?
+
+Future plans aside, the researchers have already begun to actively study behavioral analysis techniques to detect drug intoxication without urine/blood tests. Among the benefits of computer programs is they are non-invasive, they noted. The next medical condition the team will examine is Alzheimer’s disease, by focusing on one well-known risk factor: minimal cognitive impairment (MCI). Generally, before patients begin the sharp decline once Alzheimer’s takes hold, they go through a period of MCI, where their memory and mental abilities ever so slowly erode.
+
+“We know from the famous 'Nun study' published in JAMA in 1996 that aspects of language — specifically decreased complexity of speech — captured as early as young adulthood, predicted later cognitive impairment and also Alzheimer’s dementia several decades later,” said the researchers. Since verbal fluency declines over time, the team hopes to measure the weakening of language abilities, using automated speech analytic techniques, and so diagnose the condition early.
+
+Source: Bedi G, Carillo F, Cecchi G, et al. Automated Analysis of Free Speech Predicts Psychosis Onset in High-Risk Youths. NPJ-Schizophrenia. 2015.

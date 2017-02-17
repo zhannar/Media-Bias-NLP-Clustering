@@ -1,0 +1,21 @@
+Making use of germline data, Washington University School of Medicine researchers pinpointed the genetic culprits and, in some cases, actual genetic mutations responsible for susceptibility to 12 separate cancers. Practical application of their work could someday improve the accuracy of genetic tests and expand the number of predictive tests available to patients.
+
+At least 3 percent of all cancer cases are thought to have some hereditary component, the researchers explained in their introduction. Past genetic tests (known as genome-wide association studies or GWAS) sequenced a patient’s tumor and compared it to a sequence of the same patient’s healthy tissue. These studies uncovered mutations present in the tumors, helping researchers identify hundreds of alleles — one of two or more alternative forms of a gene, controlling the same inherited characteristic — that likely increase the risk of multiple cancers.
+
+Unfortunately, GWAS cannot distinguish between inherited mutations present at birth and genetic mutations acquired over a patient's lifespan. Yet, with increasingly sophisticated technologies and ever-expanding knowledge of genetics, researchers have an improved ability to tease out cancer’s inherited components. Specifically, the researchers of this new study wanted to add analysis of a patient’s “germline” to the mix.
+
+A germline is the genetic information inherited from both parents at birth. By adding this new layer of data, the researchers would be able to distinguish between cancer-linked mutations present from the beginning of life and those acquired by a patient over the lifespan.
+
+Mutations at Birth
+
+For this study, the researchers searched for germline variants in sequence data taken from 4,034 patients with one of 12 distinct cancers: breast adenocarcinoma, glioblastoma multiforme, head and neck squamous cell carcinoma, kidney renal clear cell carcinoma, acute myeloid leukemia, low grade glioma, lung adenocarcinoma, lung squamous cell carcinoma, ovarian carcinoma, prostate adenocarcinoma, stomach adenocarcinoma, and uterine corpus endometrial carcinoma.
+
+What did they discover?
+
+Among 114 genes associated with cancer, the research team found rare germline mutations in all 12 cancer types, though they appeared in varying frequencies depending on the type. In particular, the team focused on truncations, a type of mutation that appears to disable many genes and render them non-functional.
+
+Of the ovarian cancer cases studied, 19 percent carried rare germline truncations, the researchers observed. By contrast, only 4 percent of the leukemia cases carried these variations in the germline. The team also discovered 11 percent of stomach cancer cases included germline truncations, a surprising number since it's on par with the percentage for breast cancer. Plus, a significant number of germline truncations in the BRCA1 and BRCA2 genes, commonly associated with breast cancer, were present in other tumor types, including prostate cancer.
+
+However, the researchers also discovered some truncations showed a neutral effect and did not incapacitate the genes. For this reason, the team believes more research is needed before using this research to counsel patients making health care decisions.
+
+Source: Lu C, Xie M, Wendl MC, et al. Patterns and functional implications of rare germline variants across 12 cancer types. Nature Communications. 2015.

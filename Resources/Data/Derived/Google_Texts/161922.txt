@@ -1,0 +1,13 @@
+Implantable medical devices (IMDs) may seem like a more recent health care innovation, but the first pacemaker was implanted all the way back in 1958. So why is it that the market for IMDs in the U.S. health care system has just started to explode? Researchers from Tufts University’s School of Engineering have developed a possible “wi-fi” drug delivery method to treat bacterial infection using electronic implants made from silk and magnesium that can dissolve in the body after use.
+
+"This is an important step forward for the development of on-demand medical devices that can be turned on remotely to perform a therapeutic function in a patient and then safely disappear after their use, requiring no retrieval," said Fiorenzo Omenetto, professor of biomedical engineering at the Tufts University. "These wireless strategies could help manage post-surgical infection, for example, or pave the way for eventual 'wi-fi' drug delivery."
+
+Omenetto and his colleagues conducted a series of laboratory experiments using the living tissue of mice. Electronic devices were implanted into tissue infected with Staphylococcus aureus (S. aureus) where they administered two 10-minute heat treatments via wireless transmitter activation. Antibiotic ampicillin was also administered by remotely controlled devices to kill E. coli and S. aureus bacteria during in vitro lab experiments.
+
+Researchers collected tissue samples from mice 24 hours after both heat treatments and discovered no signs of infection. Furthermore, there was also no evidence suggesting the implantable devices had any effect on surrounding tissues. Fifteen days after implantation, the silk and magnesium devices had completely dissolved. Magnesium levels at the site of the device and around the device were no higher than other areas of the body.
+
+"The new wireless therapy devices are robust enough to survive mechanical handling during surgery but designed to harmlessly dissolve within minutes or weeks depending on how the silk protein was processed," added Hu Tao, first author of the study.
+
+Safety testing has become a point of emphasis when it comes to marketing IMDs. According to Consumer Reports, the majority of medical devices that are implanted in human patient’s bodies are rarely tested prior to hitting the market. To market their devices, companies need only pay the Food and Drug Administration a user fee of around $4,000 and file some paperwork. Critics of the FDA’s lax policy are now asking to implant stricter measures to ensure the safety of any patient using IMDs.
+
+Source: Hwang S, Tao H, Omenetto F, et al. Silk-based resorbable electronic devices for remotely controlled therapy and in vivo infection abatement. Proceedings of the National Academy of Sciences. 2014.

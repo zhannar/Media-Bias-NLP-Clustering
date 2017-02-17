@@ -1,0 +1,29 @@
+Back in 2013, the Bowman Avenue Damn in Rye Brooke, New York was hacked. After a two year long FBI investigation, the Department of Justice has charged seven of individuals working for the Iranian Revolutionary Guard with a series of crimes surrounding the hacking of the damn, in addition to launching cyber attacks on the U.S. financial system. The hackers were not only attacking U.S. systems, but also gathering intelligence for the Iranian government.
+
+From DOJ:
+
+A grand jury in the Southern District of New York indicted seven Iranian individuals who were employed by two Iran-based computer companies, ITSecTeam (ITSEC) and Mersad Company (MERSAD), that performed work on behalf of the Iranian Government, including the Islamic Revolutionary Guard Corps, on computer hacking charges related to their involvement in an extensive campaign of over 176 days of distributed denial of service (DDoS) attacks.
+
+
+
+Ahmad Fathi, 37; Hamid Firoozi, 34; Amin Shokohi, 25; Sadegh Ahmadzadegan, aka Nitr0jen26, 23; Omid Ghaffarinia, aka PLuS, 25; Sina Keissar, 25; and Nader Saedi, aka Turk Server, 26, launched DDoS attacks against 46 victims, primarily in the U.S financial sector, between late 2011 and mid-2013. The attacks disabled victim bank websites, prevented customers from accessing their accounts online and collectively cost the victims tens of millions of dollars in remediation costs as they worked to neutralize and mitigate the attacks on their servers. In addition, Firoozi is charged with obtaining unauthorized access into the Supervisory Control and Data Acquisition (SCADA) systems of the Bowman Dam, located in Rye, New York, in August and September of 2013.
+
+“In unsealing this indictment, the Department of Justice is sending a powerful message: that we will not allow any individual, group, or nation to sabotage American financial institutions or undermine the integrity of fair competition in the operation of the free market,” Attorney General Lynch Loretta Lynch released in a statement Thursday. “Through the work of our National Security Division, the FBI, and U.S. Attorney’s Offices around the country, we will continue to pursue national security cyber threats through the use of all available tools, including public criminal charges. And as today’s unsealing makes clear, individuals who engage in computer hacking will be exposed for their criminal conduct and sought for apprehension and prosecution in an American court of law.”
+
+More info on the damn hacking:
+
+Between Aug. 28, 2013, and Sept. 18, 2013, Firoozi repeatedly obtained unauthorized access to the SCADA systems of the Bowman Dam, and is charged with one substantive count of obtaining and aiding and abetting computer hacking. This unauthorized access allowed him to repeatedly obtain information regarding the status and operation of the dam, including information about the water levels, temperature and status of the sluice gate, which is responsible for controlling water levels and flow rates. Although that access would normally have permitted Firoozi to remotely operate and manipulate the Bowman Dam’s sluice gate, Firoozi did not have that capability because the sluice gate had been manually disconnected for maintenance at the time of the intrusion.
+
+
+
+Remediation for the Bowman Dam intrusion cost over $30,000.
+
+
+
+
+
+If convicted, the seven Iranians charged could face a prison sentence of 10 years.
+
+You can read the entire indictment here.
+
+This story has been updated with additional information.

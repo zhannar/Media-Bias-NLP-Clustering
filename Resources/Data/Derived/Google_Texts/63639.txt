@@ -1,0 +1,45 @@
+Every now and then, it’s good to have a quick update to know what the biggest, fastest, or most affordable drives are for the money. We’re always on the go and in need of more storage, so portable hard drives go to the top of the list when new ones come out. Though it’s not that new, Western Digital’s newest and largest portable 3 TB, single-drive offering is still sometimes out of stock, but the 3 TB My Passport Ultra is certainly not alone in its segment.
+
+The past couple years have allowed us to become accustomed to the standard 2 TB limit of portable, single-drive, bus-powered storage solutions. But in the last few months, the market has witnessed a jump in storage capabilities, from the previously reviewed 2x2 TB RAID 0 drives by Seagate and Western Digital to the also new single-drive, not-quite-so-slim 4 TB Seagate Backup Plus Slim. Meanwhile, the 2 TB relatives have slimmed down quite a bit.
+
+First Impressions and Context Within the Market
+
+At first glance, the 3 TB My Passport Plus is a normal drive with a slightly thicker-than-standard appearance. Its 20.96 millimeter thickness does, however, stay under that of Seagate’s dual-drive 4 TB Backup Plus Fast, which rises 22.35 mm above the desk. Interestingly, Seagate’s relatively new single-drive 4TB Backup Plus Slim comes in as the thinnest drive at 20.5 milimeters. Seagate’s drives also have a slightly larger footprint for the most part, but at these numbers, who really cares? They’re all on the slightly thicker side, but still very portable and close enough in size to where you wouldn’t plan your packing any differently at all.
+
+The iPhone 5 is about half the thickness of the Western Digital 3 TB My Passport Ultra, which is just a hair smaller than the 4 TB Seagate Backup Fast. Not pictured here is the 4 TB Seagate Backup Slim, which is even a hair slimmer than the My Passport Ultra. These aren't massive hard drives by any means, but they are each thicker than the standard 1 TB or 2 TB portable hard drives we may have gotten used to.
+
+This, however, brings us to an interesting question? Why go for the 3 TB Western Digital at all when you can get a 4 TB drive in the same space? Honestly, at about the same dollar-per-gigabyte cost as the nearest 4 TB equivalent, it’s not even “cheaper” (that’s assuming you get the same deal I did at $129.99 for the 3 TB drive; street price is usually about $20 more). So, in the end, it comes down to how much space you need, since you’ll still certainly pay more for the 4 TB drives, even if you also get more storage for the extra payment.
+
+Speed
+
+If you need more than 2 TB, but less than 4 TB, you might still care about the speed of this drive. As a single-drive model, the 3 TB My Passport Ultra can’t compete with the dual-drive 4 TB options out there. But it’s still as fast as your average USB 3.0 rotating hard drive should be.
+
+There are no surprises with these speeds for a Western Digital 3 TB My Passport Ultra. It's a fair speed for what it is, but nothing special in the transfer rate area.
+
+Blackmagic Disk Speed tests showed read and write speeds averaging around 115 MB/s, with peaks of up to 120 MB/s. A transfer of a 2.86 GB folder of individual raw images finished in just over 26 seconds, performing at a reasonable 110 MB/s, considering it wasn’t just one large file being transferred (which is almost always faster than transferring many individual files).
+
+Recommendations and Other Options
+
+When it comes down to it, there’s nothing exciting enough about Western Digital’s new 3 TB drive to warrant investing in one unless you need that exact amount of storage. For the money and physical size, you’re better off getting any of the 4 TB options or simply sticking with the cheaper and much thinner 2 TB models that have essentially replaced the 1 TB models as the new goto standard for bus-powered portable drives.
+
+First, Seagate’s Backup Plus Fast and 4 TB Backup Plus Slim have unfortunately confusing names, but they are different in one important way. The Backup Fast houses two 2 TB hard drives that are linked together via RAID 0 within the drive, splitting all the data you send to the unit across two hard drives. This theoretically (and realistically, just about - read below) doubles the read and write speeds of a single drive, but puts data at a higher risk: if one drive fails, you lose the data on both, since neither of the drives within the enclosure has all of the data. This makes it a poor choice for backup (and simultaneously makes Seagate’s naming of the "Backup Fast" drive an equally poor choice), but it makes for a fantastic and extremely portable live work drive with all 4 TB of storage available and with speeds up to 245 MB/s in my Blackmagic speed tests. The same 2.86 GB folder transferred in a mere 14.5 seconds, performing at a comparatively lower, but still incredibly fast 197 MB/s.
+
+For a portable hard drive packing 4 TB of storage, these new 2x2 TB RAID 0 drives are a killer combination, especially when considering cost-effective options.
+
+The 4 TB Backup Plus Slim, however, is simply a single, huge 4 TB hard drive housed in a very similarly sized package (and is therefore an equally poorly named device - sorry, Seagate… but, come on). While the 4 TB drive has greater platter density, which increases read and write speeds over those of lower capacity drives, this drive will still perform very similarly to any other single, portable, bus-powered hard drive on the market today.
+
+Seagate recently released a repackaged version of the Backup Plus Fast with their new logo, so it’s now even harder to distinguish the two models. A price difference of only 15 percent also makes things difficult, but we’ll try to simplify it, here:
+
+Seagate 4 TB Backup Plus Fast — 2x2 TB @ ~245 MB/s | About $200
+
+Seagate 4 TB Backup Plus Slim — 1x4 TB @ ~115 MB/s | About $170
+
+Meanwhile, Western Digital’s 4 TB My Passport Pro (also available with 2 TB) competes with the 4 TB Seagate Backup Plus Fast with a similar setup, but features Thunderbolt instead of USB 3.0. Still, while there might be some speed differences, these hard drives are limited by their own internal transfer rates and not by their connection type. Therefore, I couldn’t recommend the My Passport Pro to a friend given its rather pricey ask of $319.99 (or just under $275 right now for the 2TB version) and its noticeably thicker form.
+
+A quick note: LaCie also makes a 2x2 TB RAID 0 hard drive, but at literally double the cost of the Seagate 4 TB Backup Plus Fast, even its rugged, rubberized, orange shock-protective housing and dual Thunderbolt and USB 3.0 connections aren’t enough to make it worth my while. Whether it’s worth it for you is something only you can know, of course.
+
+The newest version of Seagate's 4 TB Backup Fast Portable features its new logo — and with about a 10 percent increase in speed over its predecessor (at least in my admittedly unscientific, but quite real-world tests), you're going to want to look out for that.
+
+Final Verdict
+
+I pride myself on doing what’s most cost-effective. But I look at cost-effectiveness as getting the most I possibly can while still not being wasteful. With that in mind, I bought the 3 TB Western Digital drive out of curiosity and for this review and I’ll keep it because I can always use more portable storage. However, I also bought my second Seagate Backup Plus Fast and those two will continue to be my most loved and prized portable workhorses. What of the potentially higher failure rate? That doesn’t bother me so much, since I naturally have each of those drives backed up in the office. But for what it’s worth, the first Backup Plus Fast drive I have now features a nice dent in the top of it and it still works beautifully. For $200, it’s a hard combination to beat.

@@ -1,0 +1,15 @@
+Memes — those sticky bits of Internet that end up infiltrating popular culture — do not spring onto the web fully-formed and frozen in ember. They’re dynamic. They can change… and sometimes become a lot dumber than they started.
+
+Facebook’s Data Science team published a blog post today examining how memes evolve as they spread from user to user. The post, called The Evolution of Memes on Facebook, shows how it’s only a matter of time before users bend a meme to their will, sometimes improving upon them, sometimes turning them into “Thanks Obama” right-wing rage rants, and sometimes just bungling the grammar.
+
+“A meme is an idea that is readily transmitted from person to person. But we humans are not perfect transmitters. While sometimes we repeat the idea exactly, often we change the meme, either unintentionally, or to embellish or improve it,” the team wrote.
+
+To illustrate, Facebook looked at a status update meme from 2009. It started off as a fairly barebones declaration in support of affordable health care: “No one should die because they cannot afford health care, and no one should go broke because they get sick. If you agree, post this as your status for the rest of the day”.
+
+The scientists noted that this exact quote was copied over 470,000 times during September 2009. But plenty of other variations cropped up: Facebook studied 121,605 different variants of the original phrase, used in 1.14 million status updates. The team compared the evolution of memes to the way genes mutatate and confirmed their belief that they follow similar patterns.
+
+The team also showed how niche groups took the meme and tweaked the message to mean the opposite of its original, pro-Obamacare intent. Conservatives took the meme and changed it to complain about Obamacare, as well as taxes. Some liberals poked fun at the meme’s serious tone, changing it to be about Star Warns and zombies. Other people made it about alcohol. Why not.
+
+Facebook chose a meme from 2009 because it predates the share button, which has made it easier to spread memes around but has also diminished permutations, since people who choose to re-post using the button aren’t as inclined to put their own spin on the material.
+
+Facebook is trying to downplay the frequency memes appear in your Newsfeed, anyways; the social network recently adjusted its Newsfeed algorithm to de-prioritize memes and push news content to the top.

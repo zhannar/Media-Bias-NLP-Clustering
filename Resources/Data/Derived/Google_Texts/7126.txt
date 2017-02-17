@@ -1,0 +1,33 @@
+Improving healthcare isn't always about state-of-the-art facilities or systems that bring patients through your doors. Sometimes, it's about meeting the patients where they live and work.
+
+Our Healthy Lives, a program initiated in 2011 by the Louisiana-based Franciscan Missionaries of Our Lady Health System, works with employers throughout the state to understand the overall health profile of their employees. The program also provides health screenings, risk assessments, wellness programs and health coaching services – all in the name of keeping employees healthier and, as a result, lowering what they as well as their employers pay for healthcare.
+
+The key factor driving the success of the program predates its rollout, however. As Franciscan has expanded, both through acquisition and construction, it has centralized and virtualized its IT infrastructure, which has left it well-positioned to bring Our Healthy Lives into the communities it aims to serve.
+
+Virtualized Apps Support BYOD in 'Very Distributed Environment'
+
+Our Healthy Lives' clinicians aren't typical healthcare workers, says Johnny Brister, IT systems manager for Franciscan Missionaries. They travel constantly, often visiting rural areas of Louisiana where network connectivity is spotty. They need to share reports, some of which can exceed 100 MB. They need to be able to print documents, too.
+
+[ Case Study: Desktop Virtualization Cures Healthcare Providers' Paper Problem ]
+
+What's more, different apps come with different interfaces and different mobility and security needs. The Know Your Number application, for example, helps wellness coaches and patients track fitness goals, and it works well as an ASP-like app on mobile devices. Clinicians who need full-blown electronic health record systems, on the other hand, tend to stick to laptops that access the EHR using Citrix Systems' NetScaler application delivery controller.
+
+Lindsay Sanchez, senior director of solutions and vertical marketing for Citrix, says NetScaler has evolved from an underlying cloud infrastructure when Citrix acquired it in 2005 to a Web (XenApp) and mobile (XenMobile) application delivery platform. This helps healthcare providers that are "supporting very distributed environments with pretty unique requirements," she says.
+
+This also lets Franciscan embrace a bring your own device (BYOD) policy. "The way I always see it, everyone's going to have their preference," Brister says. (These aren't just devices for accessing email, Microsoft SharePoint and population health management tools, mind you, but also for drawing blood at a community health clinic or inputting a patient's biometric information. Oh, and the printers, which Franciscan preconfigured to support mobile printing apps.)
+
+Here, XenMobile's device and application management features have the honors. Through XenMobile's Worx Home, end users can manage what Sanchez describes as a "virtual, clinical desktop." Connections to the hospital network are made using a micro VPN – a larger VPN tunnel would encompass all apps in use on a device. The micro VPN, via NetScaler, passes users' credentials and automatically logs them in. Additional policies can, for example, establish two-factor authentication or connect only over certain wireless networks, Sanchez says.
+
+[ Related: Healthcare Organizations Still Too Lax on Security ]
+
+The aim is to make the apps look and behave like native apps such that employees aren't tempted to use public email or cloud services for sensitive medical or financial data, Sanchez says. "They're not really thinking, 'Is this a windows app? Is this a mobile app? Is this a Web app?' The average user doesn't really know."
+
+Wellness Program Keeps Patients Away From Hospital
+
+An infrastructure that enables mobility helps Franciscan support its "mission-driven" population health initiative, CIO David Wendt says. The program began internally as a way to improve employee health and lower Franciscan's own healthcare costs. It has since spread to employers throughout Louisiana as well as health system partners in Florida, Mississippi, Oregon and South Carolina.
+
+The combination of technology (through coaching apps) and a "human touch" (through in-person screenings and seminars) improves the overall health of a corporate workforce and helps employers and employees cut healthcare costs, Wendt says. A 2012 American Journal of Health Promotion analysis shows that wellness programs also reduce absenteeism and workers' compensation claims.
+
+Why would a hospital partner with local businesses to keep potential customers away? The Affordable Care Act has ushered in an era of reducing hospital readmissions; facilities that can't cut down on readmissions within a 30-day window face penalties from Medicare.
+
+"With the new emphasis on keeping folks out of the hospital, that's how you'll make money as a HC company," Wendt says. "If folks keep coming in the hospital, you're not doing them any good."

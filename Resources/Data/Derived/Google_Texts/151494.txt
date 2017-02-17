@@ -1,0 +1,35 @@
+“How’s My Driving?” asks the bumper sticker on the semitrailer up ahead.
+
+The question is hypothetical until the big rig swings in front of you, tries without success to overtake another lumbering semi and slows to a crawl as the grade steepens. Trapped behind the two trucks, you nurse some salty responses to that bumper-sticker query. You wonder if anyone has actually lodged a complaint against this driver at the Web address shown, or by calling the 800-number below it.
+
+“Driver and fleet monitoring programs are designed to increase safety on our roadways by providing company owners and/or corporate fleet managers with an ongoing flow of feedback from the driving public,” according the website of Fleetwatch Systems Inc., which runs the 1800HowsMyDriving.com program. “Awareness of such feedback has been proven to be the single most influential factor when it comes to altering driver behavior, leading to drastic improvements in not only safe, but efficient driving.”
+
+How’s My Care?
+
+Hospitals have their own version of that feedback pipeline: HCAHPS — Hospital Consumer Assessment of Healthcare Providers and Systems. While an important indicator of institutional quality, with real financial ramifications, this structured survey has several drawbacks, notes Jared Hawkins, National Library of Medicine research fellow in biomedical informatics at Harvard Medical School and Boston Children’s Hospital.
+
+For one thing, although it’s given to all patients, HCAHPS has a relatively low response rate. This casts a shadow of selection bias on its scoring. What’s more, months may pass before the findings are reported. Anyone looking for up-to-the-minute patient opinion about a hospital’s quality has only stale data from which to work.
+
+But there’s another increasingly important, useful and much more timely gauge of hospital quality available in the tool box: social media.
+
+Although still scanty, research suggests that social media sentiment can provide valuable insights into comparative hospital performance. A study published in the Journal of General Internal Medicine last October, for example, found that a sample of 315 U.S. hospitals with unplanned 30-day readmission rates lower than the national average (that’s good) received better rankings from Facebook users on a five-star scale than 364 similar hospitals with higher-than-average readmission rates (that’s bad). For every additional star a hospital was assigned by its Facebook raters, the hospital’s odds of being in the low-readmission category rose by a factor of five.
+
+Tweet, Tweet
+
+Some three-quarters of all adult Internet users now log on to one or more social media sites, according to the Pew Research Center. More than half read or post to Facebook, about a quarter to Twitter. As of last year, reported Hawkins and Boston Children’s colleagues in a study published last October in BMJ Quality & Safety, “roughly half” of all U.S. hospitals had opened a Twitter account.
+
+“Patients routinely use Twitter to share feedback about their experience receiving healthcare,” Hawkins and his team at Boston Children’s observed. “Identifying and analyzing the content of posts sent to hospitals may provide a novel real-time measure of quality, supplementing traditional, survey-based approaches.” See January's H&HN for more about Twitter as a patient satisfaction tool, and about other similar applications.
+
+Problem: Twitter posts worldwide (tweets) proliferate at a pace of 6,000 per second. That’s more than 500 million per day. So, the first job was to figure out which U.S. hospitals were using Twitter — 2,349 of them, it turned out, from among the 4,679 hospitals reporting 2012–2013 HCAHPS data. (The list of tweeting hospitals was compiled through a form of “artificial” artificial intelligence, Amazon’s Mechanical Turk. It’s an online crowd-sourced service that parts out myriad small tasks to freelance pieceworkers who earn pennies per task completed, to accomplish a large-scale job economically in jig time.)
+
+Then, every tweet concerning any of these hospitals during the one-year period ending Sept. 30, 2013, had to be plucked out of the massive flow. For this, the researchers used a network processing platform called DataSift, which identified a total of 404,065 applicable original tweets. But how many of those actually dealt with a personal hospital “experience”?
+
+This is where “real” AI came in. First, the researchers defined the concerns that could be considered experiential quality issues. They chose as parameters interactions with staff; treatment effectiveness; food, cleanliness, parking and money; errors; timing; and access to treatment. Then, to distinguish the salient tweets from more general chatter (like wishing a patient well, fundraising or PR), they brought to bear two AI hallmarks: machine learning and natural language processing.
+
+Human curators compiled a library of terms by which a software program called TextBlob could be trained to read tweets and pick out those that dealt with patient experience. But the program also had to be taught to understand the adjectives, verbs and phrases that express a sentiment, and whether it’s positive or negative. In other words, was the hospital being praised in the tweet or being panned?
+
+When Hawkins and the Boston Children’s team had checked and validated the reliability of the automated readings, they found that about 9 percent of those 400,000-odd tweets — 34,725 — were related to food, money, pain, room condition, wait time, communication with staff, discharge, medication instructions, side effects or general satisfaction. On average, kudos outweighed complaints. Again, Twitter sentiment aligned with 30-day readmission rates, although the correlation was weak. Still, favorable tweets tended to outnumber dings for hospitals with better clinical records.
+
+Get a Handle
+
+“People think social media is more negative than positive,” says Hawkins, “but that’s not true. In general, there’s a trend to the positive.”

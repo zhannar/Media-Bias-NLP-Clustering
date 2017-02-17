@@ -1,0 +1,21 @@
+Scientists say they've improved a technique to print a 3-dimensional model of a cancerous growth, which will allow the investigation of potential drug therapies.
+
+Leaving aside for the moment the quandary of building a better mousetrap, scientists are now able to create three-dimensional representations of tumorous cells useful for studying the etiology of all kinds of cancers — as well as potential new drug treatments.
+
+The new model provides an obvious one-up to the old two-dimensional cancer models grown in the laboratory dish. Wei Sun, a professor of mechanical engineering at Drexel University, led a team who mixed gelatin, fibrous proteins, and cervical cancer cells into a potion they fed the machine they’d earlier created: a 3D cell printer.
+
+Blowing the old dot-matrix printers completely out of the water, the machine prints the specified models in layers atop a grid structure 10 millimeters long and wide, and two millimeters tall. On the grid, which closely resembles the fibrous proteins composing the extracellular matrix of a tumor, the cells grow — assuming a spherical shape after five days.
+
+Cancer models used to study possible drug treatments are now in 3D, scientists report. Screenshot: Matthew Mientka
+
+Sun’s team drew from the storied Hela cell line, taken originally from cancer patient Henrietta Lacks in 1951 and today the most common type of cells used in oncology research, capable of multiplying indefinitely. Yet those 2D cell cultures may finally be replaced in many experiments with printed models, the researchers say.
+
+"With further understanding of these 3D models, we can use them to study the development, invasion, metastasis and treatment of cancer using specific cancer cells from patients," Wei told Live Science. "We can also use these models to test the efficacy and safety of new cancer treatment therapies and new cancer drugs.”
+
+However, the researchers hadn’t necessarily expected to successfully print the model, given that the force of the printing process damages some cells. But by using certain techniques, the researchers found they could preserve 90 percent of the cells while printing the model. Such advances in 3D-printing technology has allowed scientists to create these and similar models as an improvement on cell culturing.
+
+“Comparisons of 3D and 2D results revealed that Hela cells showed a higher proliferation rate in the printed 3D environment and tended to form cellular spheroids, but formed monolayer cell sheets in 2D culture,” Wei and his partners wrote in the study. “Hela cells in 3D printed models also showed higher MMP protein expression and higher chemoresistance than those in 2D culture.”
+
+These new techniques in printing biologically live tumor models may “help the evolution” of 3D cancer study, Wei says.
+
+Source: Zhao, Yu, Yao, Rui, Ouyang, Liliang, King, Hongxu, , Zhang, Ting, Sun, Wei, et al. Three-Dimensional Printing Of Hela Cells For Cervical Tumor Model In Vitro. Biofabrication. 2014.

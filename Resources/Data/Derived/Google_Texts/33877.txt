@@ -1,0 +1,9 @@
+We’ve learned about what a huge and dysfunctional agency Veterans Affairs is in recent weeks. I had not realized that the agency added 100,000 workers in just the past seven years.
+
+How large is the VA compared to the rest of the federal bureaucracy? OPM publishes historical data here for the major departments, which I’ve summarized in the two figures below covering 1950 to 2012.
+
+Figure 1: Splits total federal civilian (non-uniformed) employment into defense and nondefense. For nondefense, you can see the modest retrenchments under Reagan and Clinton, and you can see the expansions under Bush 1, Bush 2, and Obama.
+
+Figure 2: Shows the breakdown by department, aside from defense. Veterans (blue line) is by far the largest nondefense department, with 69 percent more employees that second place Homeland Security (red line). One alarming trend is the rapid growth in Justice Department employment (black line), which has doubled since the late-1980s to 117,000 workers.
+
+Data notes: For some departments created since 1950, such as Homeland, it looks like OPM extrapolated the time series backwards based on the original component agencies of the new department. For Transportation on the other hand, it looks like OPM represented employment as zero before it was created. I did one tweak to the OPM data, which was moving TSA from Transportation to DHS for 2002.

@@ -1,0 +1,47 @@
+It’s a question that will become more prominent as time goes on: Should we let robots perform surgery on us? The answer, as is the case with most big questions in medicine, is decidedly complicated.
+
+But a study made freely available this month on the Cornell University-hosted arXiv.org may provide us with some important context. Its authors pored through 14 years worth of FDA records to calculate the frequency and severity of adverse events that occur during minimally invasive robotic surgeries. They found that out of 10,624 such events, there were 144 deaths, 1,391 injuries, and 8,061 device malfunctions.
+
+“Despite widespread adoption of robotic systems for minimally invasive surgery, a nonnegligible number of technical difficulties and complications are still being experienced during procedures,” the authors concluded.
+
+These adverse events included burnt or broken pieces of the robotic instruments falling into the patient (14.7 percent), electrical arcing of the instruments (10.5 percent), and the ever-dreaded system error (5 percent).
+
+Digging into the types of surgeries performed, they also found that the less complex the procedure and the more commonly robots were utilized, the less chance of something going wrong.
+
+“Surgical specialties, for which robots are extensively used, such as gynecology and urology, had lower number of injuries, deaths, and conversions per procedure than more complex surgeries, such as cardiothoracic and head and neck,” they wrote.
+
+Perhaps more worryingly, the prevalence of reported mistakes increased in the last year of the analysis. “While the annual average number of adverse events was about 550 per 100,000 procedures between 2004 and 2011, in 2013 it peaked at about 1,000 events per 100,000 procedures,” they wrote. Thankfully, the average amount of deaths and injuries annually has remained constant since 2007, though that finding could also be seen as evidence that surgeons haven’t taken any proactive steps to become appreciatively better at avoiding errors.
+
+Shiny New Toy
+
+The burning question at heart is whether these numbers are particularly better or worse than those found in conventional surgeries. It’s not an easy comparison to make, if only because of the sheer variety of surgical operations that are performed every year, each coming with a different set of risks and surgical skills needed. And the authors do not attempt to do so in their study.
+
+According to a 2012 report released by the Centers for Disease Control, the number of deaths from medical and surgical complications has dramatically lowered from 1999 to 2009, just as these robotic techniques have become increasingly more popular. “Deaths per 100,000 population declined 39 percent, to 71.3 deaths for adults aged ≥85 years; 37 percent, to 51.4 deaths for those aged 75–84 years; 38 percent, to 27.9 deaths for adults aged 65–74 years; and 28 percent, to 8.9 deaths for adults aged 45–64 years rates,” the report concluded.
+
+It seems virtually impossible to know how much, if any, of this increase in safety is tied to the advent of robots, and the authors of the current study acknowledge that their data is likely undercounting the true number of adverse events as a result of robotic surgery.
+
+What is known that while the added benefits of robotic surgery are highly touted, there’s not nearly as much evidence for these claims as patients are led to believe. As detailed by a 2013 JAMA study , often times these technologies are used to entice people into surgical procedures that may require less recovery time but still be unneeded.
+
+The JAMA authors looked at two different types of recently invented procedures for prostate cancer, including robotic prostatectomy. “The use of advanced treatment technologies for prostate cancer was common among patients with low-risk disease and among those with a high risk of noncancer mortality,” they concluded. Though they noted that a large number of these procedures were simply replacing the older version and would have been inappropriately performed regardless, they also believed that “aggressive direct-to-consumer marketing and incentives associated with fee-for-service payment may promote the use of these advanced treatment technologies.”
+
+In other words, doctors may subtly turn to these robotic surgeries because they’re more profitable and seen as more effective by both the patient and surgeon — what we might call the “shiny new toy” effect. That pressure to recommend robotic surgeries over less expensive procedures also comes from the need for hospitals and private practices to recoup their investment, since these technologies can come with a high set-up and upkeep cost.
+
+In 2013, the American Congress of Obstetricians and Gynecologists (ACOG) issued their own salvo against the increasing popularity of robots.
+
+“While there may be some advantages to the use of robotics in complex hysterectomies, especially for cancer operations that require extensive surgery and removal of lymph nodes, studies have shown that adding this expensive technology for routine surgical care does not improve patient outcomes,” a statement by ACOG president Dr. James Breeden read. ”Consequently, there is no good data proving that robotic hysterectomy is even as good as—let alone better — than existing, and far less costly, minimally invasive alternatives.”
+
+As noted by the arXIV study, robotic surgeries have been most prevalent among the gynecology and urology field.
+
+Safe As Can Be
+
+Not to be lost in the noise is that the fact that most surgeries, no matter whether performed by robot or man alone, are successful. And there has been research showing that robotic surgeries do have their own unique benefits. A 2015 review on the use of robotic procedures for certain forms of throat cancer found that it resulted in shorter hospital stays, a decreased chance for later, more invasive operations, and an increased chance of finding previously hidden tumors.
+
+Some of the safety concerns that robots bring along with them will also be lessened as surgeons become more familiar with them, which the arXIV study authors conclude as well. “Adoption of advanced techniques in design and operation of robotic surgical systems may reduce these preventable incidents in the future,” they wrote.
+
+Ultimately, the decision to undergo robotic surgery should be one you collaborate on with your doctor, making sure to be as aware of their risks and benefits as you can be.
+
+And perhaps the best takeaway from this latest study, as well as others, is that robots are as effective as the people who make and operate them. These machines won’t be the only ones who will need to upgrade in order to provide patients the best possible medical care.
+
+“As the surgical systems continue to evolve with new technologies, uniform standards for surgical team training, advanced human machine interfaces, improved accident investigation and reporting mechanisms, and safety-based design techniques should be developed to reduce incident rates in the future,” the authors conclude.
+
+Source: Alemzadeh H , Iyer R , Kalbarczyk Z. Adverse Events in Robotic Surgery: A Retrospective Study of 14 Years of FDA Data. arXIV.org. 2015

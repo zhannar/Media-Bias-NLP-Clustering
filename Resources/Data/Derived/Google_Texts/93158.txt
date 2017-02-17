@@ -1,0 +1,29 @@
+Can your brain communicate with someone else’s without you speaking, gesturing, or using any other part of your body to communicate with them? Though it may seem like the stuff of science fiction movies, a new study coming out of the University of Washington has succeeded in using direct brain-to-brain interfacing (BBI) to exchange information between two people’s brains.
+
+The experiment is thought to be the first of its kind, showing that two human brains can be directly linked and allow one person to guess what is on the other’s mind.
+
+The technology combines neuroimaging and neurostimulation to allow the brains to communicate directly through neural coding. With BBI, the content of a “sender” brain is extracted from its neural signals, digitized, and then re-encoded in a “receiver” brain as induced neural activity. Through this method, pairs of participants were able to play a question-answer game by transmitting signals from their brains over the Internet.
+
+“This is the most complex brain-to-brain experiment, I think, that’s been done to date in humans,” said lead author Andrea Stocco, an assistant professor of psychology and a researcher at UW’s Institute for Learning & Brain Sciences, in a press release. “It uses conscious experiences through signals that are experienced visually, and it requires two people to collaborate.”
+
+The experiment went like this: The first participant (the “respondent”) was outfitted with a cap connected to an electroencephalography (EEG) machine that recorded their brain activity. They are then shown an object — for example, a dog — and the second participant (the “inquirer”) is shown a list of possible objects and associate questions.
+
+With the click of a mouse, the inquirer then sends a question to the respondent. Here’s where it gets interesting: The respondent is tasked with answering the question simply by focusing on one of two LED lights, one of which represents a negative answer and one of which represents a confirmation. A “no” or “yes” answer will then send a signal to the Internet and trigger a magnetic coil behind the inquirer’s head. Only a “yes” answer, however, would create a stimulus strong enough to activate the inquirer’s visual cortex. They would then see a flash of light called a phosphrene, which may look like a blob, waves, or a line.
+
+Architecture of the BBI and "20 Questions" experiment. @ 2015 Stocco et al.
+
+The experiments were carried out in dark labs almost a mile apart and involved five different pairs of participants. The sessions were also a mixture of real games and control games with the same structure.
+
+The researchers took many precautions to be sure the signals were travelling only from brain to brain through the BBI. The inquirers wore earplugs to block out any sound produced by the varying intensities of “yes” and “no” answers. They were also not told if they correctly identified the items, and only the researcher knew whether each game was a control round or not.
+
+Overall, participants were able to guess the correct object in 72 percent of the real games. Researchers say that incorrect guesses could have been caused by a couple factors, the most likely being uncertainty about whether a phosphine had appeared.
+
+"They have to interpret something they're seeing with their brains," said co-author Chantel Prat, a faculty member at the Institute for Learning & Brain Sciences and a UW associate professor of psychology, in a press release. "It's not something they've ever seen before."
+
+The team is also looking at a way to transmit brain states, like sending signals from an alert person to a sleepy one, or from a focused person to one with ADHD. Their technology strips away the need for intermediate communication devices like telegraphs or phones or text messages.
+
+“Evolution has spent a colossal amount of time to find ways for us and other animals to take information out of our brains and communicate it to other animals in the forms of behavior, speech, and so on,” Stocco said.
+
+She reasoned that this kind of communication requires a translation and that humans can only communicate part of what the brain really processes.
+
+“What we are doing is kind of reversing the process a step at a time by opening up this box and taking signals from the brain and with minimal translation, putting them back together in another person’s brain,” he said.

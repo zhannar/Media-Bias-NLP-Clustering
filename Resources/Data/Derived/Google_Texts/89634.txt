@@ -1,0 +1,59 @@
+Healthsherpa Helps Thousands Get Insurance Quotes
+
+The computer coders who made healthcare.gov may not have had the best of e-commerce in mind. The site looks like something melded together by a dozen government bureaucracies, and is so bad, it's driven away online shoppers. But a group of coders in Silicon Valley says it doesn't have to be this way. They've created healthsherpa.com.
+
+STEVE INSKEEP, HOST:
+
+Plenty of people have asked why it wasn't easier to come up with a better website than healthcare.gov. Not that building a website is so simple, but companies like Amazon or eBay have been able to make them straightforward and easy to use.
+
+LINDA WERTHEIMER, HOST:
+
+So three young programmers in San Francisco decided to take up the challenge. The result is a new website: HealthSherpa.com. It helps overcome at last some of the upfront problems people are experiencing with the government site.
+
+INSKEEP: Thousands are using it to compare polices and get quotes. KQED's Aarti Shahani reports.
+
+AARTI SHAHANI, BYLINE: Walk into the office where HealthSherpa.com was created, and it looks like any other startup. Founder Ning Liang points to the cappuccino machine, the bike rack, a futon for naps.
+
+NING LIANG: And then, finally, here's our desks - four of them.
+
+SHAHANI: You built the alternative to Healthcare.gov from a space with four desks?
+
+LIANG: Correct. And actually, it was just three of us, over the course of about maybe three days.
+
+SHAHANI: To be fair, HealthSherpa.com helps online shoppers get price quotes and contact insurance companies. It's not integrated with the Social Security Administration or the IRS. It's not a full-on replacement for the government's site.
+
+LIANG: They're saying like, you know, this is the Affordable Care Act portal, right? And we're saying, shop here. That's it.
+
+SHAHANI: Liang, who's 27 years old, goes to his Mac and pulls up the two websites for a side-by-side comparison. The government's Healthcare.gov...
+
+LIANG: They've got, you know, three buttons; and then they've got a bunch of icons that look like buttons but actually aren't buttons.
+
+SHAHANI: If you manage to click the right link, you get about a half-hour worth of questions and legal jargon before ever getting an estimate. At HealthSherpa.com, there's just a box for your ZIP code. Hit enter, and get basic prices for local insurance plans.
+
+LIANG: We want you to get that payoff as soon as possible - so like, maybe, you know, five seconds.
+
+SHAHANI: Liang says about 85 percent of users complete the process from start to finish. Like a Sherpa that guides hikers in the Himalayas, his website guides online shoppers through the Affordable Care Act without making it feel so arduous. He's not the only one with lessons in e-commerce 101. Call around Silicon Valley, and every other CEO has an opinion about what went wrong. Take Tom Lounibos, with SOASTA.
+
+TOM LOUNIBOS: They might have tested the ability to search for a plan. They might have tested for a part of the login.
+
+SHAHANI: Or Rob Bernshteyn, with Coupa Software.
+
+ROB BERNSHTEYN: Scope creep tends to develop in these types of deployments. People take shortcuts. You get sloppy, redundant code.
+
+SHAHANI: Google, Oracle and Red Hat have offered to troubleshoot healthcare.gov, and the Obama administration says it's time to move on. But a former federal government worker says we should fixate a bit more.
+
+SUMIT AGARWAL: I do think it's a very important case study. If we had a government that couldn't build a bridge or lay a mile of road, we would say that was a dysfunctional government.
+
+SHAHANI: Sumit Agarwal is a startup founder in Silicon Valley, and he used to manage Internet contracts for the Department of Defense.
+
+AGARWAL: In 2013, a website is absolutely a simple, fundamental, core piece of infrastructure that a functioning government has to be able to build.
+
+SHAHANI: Agarwal says the Department of Health and Human Services got stuck in the traditional bidding process. But the National Security Agency can build some of the best websites because it can call the companies it wants. As part of the Department of Defense, it gets more leeway.
+
+AGARWAL: In the name of national security, a DOD-oriented component can say, look. I have a totally legitimate strategic need to be able to reach out to this entity, this private sector company. I'm not willing to go through the contracting process. And that's what allows DOD, in many cases, to go work with someone other than a large-scale, government contractor.
+
+SHAHANI: Agarwal says give the health care people freedom to choose - like the military people have - and the next healthcare.gov will be a better online shopping experience. For NPR News, I'm Aarti Shahani, in San Francisco.
+
+Copyright © 2013 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+NPR transcripts are created on a rush deadline by Verb8tm, Inc., an NPR contractor, and produced using a proprietary transcription process developed with NPR. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.

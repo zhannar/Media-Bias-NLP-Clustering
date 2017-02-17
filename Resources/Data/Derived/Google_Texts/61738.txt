@@ -1,0 +1,49 @@
+Senate HELP alters its health IT draft
+
+With help from Arthur Allen (@ArthurAllen202 )
+
+LATEST HELP HEALTH IT DRAFT RELEASED: The Senate HELP Committee has revised some pieces of the health IT bill set for markup Tuesday. One deleted section would have mandated certified EHRs be able to conduct “trusted exchange” of information with multiple other EHRs. But in the latest draft of the bill obtained by Morning eHealth, the committee instructs HHS to issue guidance on “common legal, governance and security barriers” that prevent trusted exchange. The draft also drops a proposal to combine the Health IT Standards and Policy committees into one body. It also makes several small changes to the TRUST IT Act, which creates a star-rating system for EHRs based on security, usability and interoperability. While it’s not immediately clear what moved the drafters’ hands, many health IT groups told the committee they feared elements in the original draft, released Jan. 20, would stifle innovation and disrupt industry progress toward interoperability. Pros get the latest version of the bill here: http://bit.ly/1Q2Avol
+
+Story Continued Below
+
+— A few other news and notes … the name of the bill will be the “Improving Health Information Technology Act”…the whole bill was trimmed from 68 pages to 51…the section on “information blocking” is largely unchanged…ONC and OCR may refer accusations of health information exchange refusal to the HHS Office of Inspector General for possible prosecution…a GAO report on patient matching is still included…HHS is ordered to submit to the Health IT Policy Committee a report on meaningful use attestation to help guide policy making. If you find other notable differences and changes, please drop us a line.
+
+DRIVING THIS WEEK: The White House on Tuesday will release its fiscal 2017 budget request to Congress. While it’s likely to be largely ignored by a Republican-controlled Congress, Office of Management and Budget Director Shaun Donovan gave a preview in a blog post over the weekend. The budget request will include $1 billion for the cancer cure “moonshot.” We don’t know what’s in store for health IT related activities at ONC – which had a $90 million budget request last year – and the Agency for Healthcare Research and Quality.
+
+eHealth tweet of the day: Leslie Krigstein @lmirvine: Who else in the #healthIT world hoping for an @athenahealth #letdoctorsbedoctors commercial? #SuperBowl
+
+Welcome to Monday morning eHealth where we had a curious and different way to spend the first half of the Super Bowl: locked out of the House. All was well as we still caught the halftime show. Pass along favorite commercials from both halves to dpittman@politico.com and connect with us on Twitter @David_Pittman, @arthurallen202, @DariusTahir @ POLITICOPro, @Morning_eHealth.
+
+SUBSTANCE ABUSE RECORDS RULE RELEASED: HHS released the first major update to how patients’ substance abuse and addiction treatment records are shared since 1987. The proposed rule from the Substance Abuse and Mental Health Services Administration authorizes a “general description” patient consent form, which permits the sharing of sensitive medical records by research institutions, data repositories, health information exchanges, accountable care organizations, and health homes. Currently under 42 CFR Part 2, patients must sign off each time their records are shared with another provider. The purpose of the proposed rule is to “modernize” 42 CFR Part 2 “while ensuring appropriate confidentiality protections for records,” HHS said. The rule: http://bit.ly/1NUPuzd
+
+— Rep. Tim Murphy (R-Penn.), the longtime advocate of mental health reform, said the rule doesn’t go far enough. "This regulations continues the redundant multiple-step process that makes it a huge burden for patients, providers, and health care professionals that could make it difficult for a provider to get relevant information quickly and it is a barrier to integrated care," Murphy's office said in an email.
+
+— Lobbyists for the behavioral health IT industry said the rule, which was substantially broader than expected, is HHS’s response to congressional pressure to change the rule. Legislation by Murphy and Sens. Bill Cassidy and Chris Murphy would also alter how 42 CFR Part 2 is handled.
+
+TELEMEDICINE BILL WAS YEARS IN THE MAKING: Last week’s introduction of the CONNECT for Health Act was the culmination of years of learning from past legislative failures, developing coalitions of support and building congressional network. And while the future of the bill is far from certain, it probably represents the best chance of any telemedicine bill of late, with plenty of momentum on and off the Hill and legislative vehicles it could hitch a ride on. The bill started with the formation of a lobbying group, the Alliance for Connected Care and advanced by crafting legislation that inserts telemedicine into value-based models. Read the story from me here: http://politico.pro/1mn6MyS
+
+ONC SEAKS TO CLARIFY HIPAA: As part of HHS’s ongoing mission to demystify HIPAA, ONC and HHS’s Office for Civil Rights have published two fact sheets on when patient information can be shared “without first requiring an authorization or a writing of some type from the patient, so long as other protections or conditions are met,” the office said in a blog post last week. ONC wants to make it clear that HIPAA supports interoperability, rather than limiting it. The blog post: http://bit.ly/1SWQoBY Fact sheets are here: http://bit.ly/1S9jY8n and http://bit.ly/1T6MyaD
+
+— Somewhat related: Miami’s Jackson Memorial Hospital fired two employees for giving an ESPN reporter copies of New York Giants defensive end Jason Pierre-Paul’s medical records last summer following a fireworks accident that severed a finger and left Pierre-Paul’s football future in doubt. http://bit.ly/1L8PGuR
+
+WORTH A READ: A Southern California doctor penned an intriguing piece in the Sunday New York Times questioning the balance between privacy concerns and the power of data mining medical records. “We also must block attempts to discriminate based on health information for work or other pursuits with continued legislation, and portray those who participate in the sharing of health data as heroes,” David B. Agus wrote. The piece: http://nyti.ms/20CFqYn
+
+LEFT OVER: The issues of medical licensing, antitrust and Teladoc’s lawsuit against Texas arose in a Senate Judiciary Committee hearing last week. The panel examined the issue of occupation licensing, and Texas Sen. John Cornyn brought up last year’s U.S. Supreme Court decision supporting FTC’s ruling against the North Carolina dental board. The court said a majority of non-market participants must sit on state boards that regulate a particular field. Teladoc has cited the case in its lawsuit against the Texas Medical Board. “While I think we all have sympathy to the concept in general, it seems to me it’s led to absurd results when you talk about non-lawyers regulating lawyers, non-doctors regulating doctors,” Cornyn said. The Republican asked witnesses what Congress could do. “Since we wrote the anti-trust laws, I guess we can change them, but that’s not an easy thing to do…Maybe there’s a way for us to address this.” Background: http://1.usa.gov/1nw5TFy
+
+AHA’S THOUGHTS ON eCQMS: CMS should base future electronic clinical quality measures on the experience of pilots and demonstrations, the American Hospital Association told the agency Friday. Problem: “To date, CMS has not shared insights from these efforts,” the group said. The Hospital Association also recommends that CMS clearly state its plans for transitioning from chart-based reporting to electronic reporting across CMS programs. The letter: http://bit.ly/1nWmQJx
+
+BOXER HOPS ON DEVICE SECURITY: Sen. Barbara Boxer wrote the five leading medical device companies on Friday asking them to address the growing threat of cybersecurity of their products. Her letter went to the chief executives of Johnson & Johnson, GE Healthcare, Siemens, Medtronic and Philips, which together control more than a quarter of the global medical device market. “The actions your companies take to reduce medical device vulnerabilities exponentially reduce the global risk of medical device cyberattacks and send a powerful signal to the entire industry of the importance of good cybersecurity practices," the California Democrat wrote. The letter: http://1.usa.gov/1SD97UO
+
+THERANOS RECEIVES NEW DEADLINE: The troubled lab startup has until this Friday to reply to CMS’s concerns about the condition of its blood testing labs. It received a week’s extension just before last Friday’s deadline.
+
+WHAT WE’RE CLICKING:
+
+Millennials’ demand for immediate medical services is changing health care with telemedicine: http://usat.ly/1XbEFjs
+
+Pro-telemedicine bill introduced in Indiana state senate: http://bit.ly/20CxINJ
+
+The importance of provider directories: http://bit.ly/1NYmN4x
+
+Nintendo halts sleep tracking device: http://tcrn.ch/1XcEYdH
+
+Tips, comments, suggestions? Send them along via email to our team: Arthur Allen (aallen@politico.com, @ArthurAllen202), David Pittman (dpittman@politico.com, @David_Pittman) and Darius Tahir (dtahir@politico.com, (@DariusTahir).

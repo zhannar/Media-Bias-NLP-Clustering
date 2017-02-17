@@ -1,0 +1,19 @@
+New research out of the RIKEN Brain Science Institute in Japan has found that calcium surges in the brain may play a significant role in relieving depression.
+
+Focusing on a type of deep brain stimulation called transcranial direct current stimulation (tDCS), the researchers found that its benefits lie in the brain’s astrocytes — star-shaped cells in the brain and spinal cord that release waves of calcium upon stimulation — rather than its neurons. It’s reportedly one of the first studies to examine the cellular mechanisms behind tDCS, which can help reduce depression, and was published in Nature Communications.
+
+For years, tDCS has been used to treat a myriad of mental health disorders and boost cognitive function. It’s a quick, non-invasive procedure that involves routing weak electric currents through the head and into certain brain regions. Its benefits have been widely touted in studies, and include decreasing depressive symptoms, improving stroke patients’ motor skills, sharpening focus, and enhancing learning. Despite this, “little is known about [tDCS’] mechanism of action,” the authors wrote in the abstract. In their latest study, they decided to find out.
+
+“While we have known the clinical benefits of this kind of stimulation for quite some time, our research is aimed at understanding the cellular mechanisms through which its effects are made possible,” Hajime Hirase, an author of the study, said in the press release.
+
+The Role Of ‘Calcium Surges’ In Depression
+
+For the study, researchers examined mice that had been genetically modified to express a calcium-indicating protein when illuminated by fluorescent light — a technique known as optogenetics. They then used a fluorescence microscope to examine the calcium activity in the brain. As they administered tDCS in the mice, astrocytes began to produce significant calcium waves. Astrocytes are involved in building the brain’s physical structure, regulating electrical impulses, and generating calcium waves. The researchers could tell that the calcium wasn’t made by the neurons because in a second experiment, they knocked out a receptor in the astrocytes that completely stopped the calcium production.
+
+“Surprisingly, the calcium surges occurred very quickly after stimulation onset and appeared synchronized all over the cortex not only near the stimulated location,” Hiromu Monai, lead author of the study, said in the press release.
+
+The researchers observed that the mice's depression-like behavior didn't get better after applying tDCS when they blocked the astrocytic calcium waves. It’s likely, then, “that the positive effects of transcranial direct stimulation on depression lie in these widespread calcium surges,” Monai said. “But, we also wanted to investigate their effects on neural plasticity in general.”
+
+They also observed plastic changes in the mice’s brains — or changes in neuronal connections involved in learning and making new memories — after tDCS. This suggests that in the future, targeting astrocytes and spurring calcium could work as a therapeutic factor in new treatments for depression or other mental health disorders. More research will need to be completed first, however, to understand why calcium waves can treat depression or induce brain plasticity.
+
+Source: Monai H, Ohkura M, Tanaka M, Oe Y, Konno A, Hirai H. Calcium imaging reveals glial involvement in transcranial direct current stimulation-induced plasticity in mouse brain. Nature Communications . 2016.

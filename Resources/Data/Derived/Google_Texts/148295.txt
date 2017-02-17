@@ -1,0 +1,27 @@
+It’s easy to scoff at anyone who has the unfortunate luck to suffer a browser exploit, the term for a website-based attack that uses weaknesses in your browser software to gain control over your computer. It’s easy to fall into a trap of victim-blaming, suggesting that those hit were visiting unseemly websites, hadn’t updated all their add-ons, or — the worst of all possible sins — were using Internet Explorer.
+
+And you’d be at least be somewhat right, especially on the third point. The browser of choice for those who don’t know any better, Internet Explorer is a prime target for exploiters, hackers and identity thieves. IE’s demographic skews older and less tech-savvy, cementing it as an easy target.
+
+The name itself has such a stigma that Microsoft’s newest browser initiative, codenamed Project Spartan, seeks to distance itself from the sins of its predecessor as much as possible.
+
+Related: 10 Biggest Tech Flops of the Century​
+
+Still though, if the results of the latest Pwn2Own hacking competition are any indication, the other options aren’t quite as infallible as your office IT guy might like to think.
+
+The contest, hosted annually by HP’s Zero Day Initiative and Google’s Project Zero, invites professional and amateur “white hat” hackers to find vulnerabilities in operating systems and software. It’s a win-win for the participants and the hosts — the victorious hackers get a nice hunk of legal cash while software developers have critical security flaws brought to their attention.
+
+In the browser test, administered last Thursday, the hosts challenged hackers to find their way into a remote computer by way of a series of browser exploits. At the end of the day, Internet Explorer ranked the worst, with four found exploits, while three were found for Mozilla’s Firefox and one for Google Chrome.
+
+These exploits allowed hackers to access the system, elevate permissions and modify other settings.
+
+Related: Will Regulators Take Your Passwords Away?​​
+
+The runaway winner of this year’s Pwn2Own was JungHoon Lee, an extremely talented lone wolf with the online handle “lokihardt.” He found major exploits in the four most popular browsers: Internet Explorer, Firefox, Chrome and Safari. For his efforts, he took home $225,000 in total prize money. Of that, $110,000 was from his two-minute hack of Chrome, the biggest payout in competition history.
+
+This means that during his hack of Google Chrome, he was earning $833 a second.
+
+By this point, most of the flaws exposed ibn the contest have been — or soon will be — patched, but if a teenager can unearth one in a couple of minutes, there’s almost certainly more out there. While Lee’s skills were definitely impressive, the contest also draws attention to the fact that no browser is foolproof, even if it may be safer than IE.
+
+The best advice, as always, is to practice safe browsing, avoid suspicious sites and keep both your browser and your third-party add-ons religiously up-to-date.
+
+Top Reads from The Fiscal Times:

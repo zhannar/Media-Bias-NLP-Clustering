@@ -1,0 +1,59 @@
+Three days after the Maryland health exchange launched its online marketplace for the uninsured and underinsured, Lynn Baklor enthusiastically logged on.
+
+Three months later, she gave up in frustration.
+
+"You win," she wrote in mid-January to Lt. Gov. Anthony G. Brown, the governor's point man on the Affordable Care Act. "I raise my white flag and surrender."
+
+The Baltimore corporate consultant's application was one of roughly 11,000 stuck in the exchange website since its Oct. 1 launch, and a top exchange official said they all came from "early adopters" like her — yet another problem plaguing Maryland's exchange.
+
+State Health Secretary Dr. Joshua M. Sharfstein, chairman of the exchange board, blamed kinks in the IBM software used by the exchange's prime contractor, Noridian Healthcare Solutions, for trapping many of those who tried to fill out applications soon after the website went live.
+
+Both IBM and Noridian responded that the system now works for most people who seek to enroll, but did not address Sharfstein's criticism. And the exchange reports that "work-arounds" or technical fixes have addressed at least a few thousand of the stuck applications.
+
+Other applications are "ghosts," or are no longer current or needed, according to Isabel FitzGerald, Maryland's secretary of information technology, now charged with sorting out the exchange's technology problems.
+
+But no one can say how many applications belong to people who still need insurance.
+
+The backlog is the most intractable problem facing the state exchange, which has frustrated users with frozen screens, mistaken identities and other problems. Servers have also crashed and the call center has been overwhelmed. Officials say they face obstacles to fixing the problems because of contractor in-fighting and problematic software.
+
+Baklor decided to enroll directly with CareFirst BlueCross BlueShield, giving up on an $89-a-month subsidy only available on the exchange.
+
+Others have turned to the call center — more than 63,000 calls were logged in January, pushing the average wait time to 35 minutes. That led the exchange to triple the number of agents to 363.
+
+The agents receive up to three weeks of training and stay updated on the manual work-arounds to unstick applications, according to Maximus, which won the five-year, $36 million contract to run the downtown Baltimore center.
+
+At least a dozen calls there came from Baklor, and Sharfstein recognized frustration among the early adopters during recent testimony to a panel of lawmakers.
+
+IBM's Curam software was an existing product that officials customized, he said. As troubles mounted, and enrollments lagged, officials began finding flaws with the retrofit.
+
+Consumers found applications were disappearing, and even when they thought they had enrolled, in 10 percent of the cases the information was not being sent to the carriers of their choosing.
+
+Because of a "shortcoming with Curam software," Sharfstein said, there are no "real-time updates that the application has successfully been passed to a carrier or Medicaid."
+
+Difficulty determining eligibility for subsidies or Medicaid was another big problem associated with the software, he said. More than 9,000 people were given elevated tax credit amounts in January because of the software.
+
+More than 100 employees and contractors are now contacting consumers and manually reviewing eligibility and plan selection and sending the information to carriers.
+
+Sharfstein said the software wasn't what Maryland expected.
+
+He reported that stepped-up efforts and extra staff have corrected 560 defects in the software. But 200 remain. Sharfstein said experts may not be able to fix them all, and once open enrollment for consumers is over for the year on March 31, officials will have to consider the next step.
+
+That may mean moving to the federal exchange, using another state's system, developing a consortium with other states or fixing the existing site.
+
+At least three other states that chose to run their own exchanges are facing such technical troubles. One, Minnesota, also uses the same Curam software. Gov. Mark Dayton recently wrote to IBM and told them they had a responsibility to send reinforcements to fix the site.
+
+Maryland and Minnesota may have tried to do too much customizing, said Rick Howard, a research director at Gartner, an information technology research and advisory company who has closely watched the exchange roll-outs.
+
+He also said it appears the systems necessary for the exchange to work weren't well integrated and the website wasn't fully tested — problems also associated with other exchanges.
+
+"Gartner had been advising clients from the moment the Affordable Care Act was signed into law that there wasn't enough time to build and test the kind of health insurance exchanges that were envisioned," Howard said.
+
+Most of the other 14 exchanges built and operated by states were largely fixed by the beginning of January, he said. Maryland is among four — the others are Minnesota, Oregon and Massachusetts — with the most "sustained and severe" problems.
+
+IBM and Noridian are focusing on what does work.
+
+"We are seeing more than 95 percent of consumers entering the site now having a positive experience," said Mitch Derman, an IBM spokesman. "IBM continues to work with Noridian, who is responsible for the overall implementation; our partner subcontractors, and the Maryland Health Benefit Exchange to enhance the performance of the state's health insurance marketplace."
+
+Tom McGraw, Noridian's president and CEO, added that the company "believes that system improvements to the exchange over the past three months have significantly increased the system's ease of use as well as the output in terms of consumer enrollments."
+
+But that doesn't help those with applications still stuck in the system, including Kia Jacobson of Takoma Park. She's self-employed as a personal assistant and tried over several months to enroll in health coverage through the exchange.

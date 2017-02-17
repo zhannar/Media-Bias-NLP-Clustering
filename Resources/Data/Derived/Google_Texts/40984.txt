@@ -1,0 +1,53 @@
+1. How are securities taxed?
+
+Securities traders need to watch out for higher tax rates, wash sales, capital-loss limitations and accounting challenges. Realized transactions in securities are reported trade by trade (or line by line) on Form 8949, which feeds into Schedule D where short- and long-term capital gains rates apply. Click here to see what's included in securities and to learn more. Visit the Tax Treatment section for tax guidance on all sorts of trading instruments.
+
+2. How should I handle wash sales on securities?
+
+See our separate FAQs on wash sale losses.
+
+3. How are Section 1256 contracts taxed?
+
+Section 1256 contract traders enjoy lower 60/40 tax rates, summary reporting, and no need for accounting. (The 60/40 rates mean 60 percent is taxed at the lower long-term capital gains rate and 40 percent is taxed at the short-term rate, which is the ordinary tax rate.) Section 1256 contracts are marked-to-market (MTM) on a daily basis and reported on Form 6781. MTM means you report both realized and unrealized gains and losses at year-end. Click here to see what's included in Section 1256 contracts and to learn more.
+
+4. What is Section 475 and can that election help me?
+
+Section 475 MTM allows qualifying business traders to deduct trading losses in the current tax year as ordinary business losses, without capital loss limitations or wash sale loss adjustments. Short term capital gains are taxed at the ordinary rate, so taxes are the same on trading gains, but Section 475 is much better on trading losses — we call it "tax loss insurance." GreenTraderTax recommends Section 475 for securities, but not for Section 1256 contracts where you would otherwise forgo lower 60/40 tax rates. Click here to learn more about Section 475.
+
+5. Can you request a 1099B based on using Section 475?
+
+Brokers are supposed to prepare Form 1099Bs for the everyman, not based on a taxpayer's election or other facts and circumstances. How can a broker know for sure that a trader elected Section 475 on time and or is entitled to use Section 475, which is conditional on qualifying for trader tax status?
+
+6. Can I deduct my trading-related expenses on my tax return?
+
+Deductibility is based on tax status: whether you qualify for trader tax status (business treatment) or must use the default investor tax status (investment treatment).
+
+Individual investors are permitted to deduct Section 212 investment expenses related to the production of investment income. Investment expenses exclude home-office, education, and Section 195 startup costs. There are many limitations for investment expenses, deductible as miscellaneous itemized deductions on Schedule A including the 2 percent AGI threshold, Pease limitation, listed property rules, and AMT preferences.
+
+Business traders qualifying for trader tax status are able to deduct all trading expenses, including home office, education, and Section 195 startup costs, from gross income. Sole proprietor traders report business expenses (only) on Schedule C, and trading gains and losses are reported on other tax forms. An election is not required for claiming business expense treatment. Click here to learn how to qualify for trader tax status. Click here to learn more about business expense treatment.
+
+7. Are brokerage commissions tax deductible?
+
+Yes, but they are not separately stated tax deductions. Rather, commissions are part of your trading gain or loss — an adjustment to proceeds and cost-basis.
+
+8. Do I need to fill out a Form 8949 for my securities trades?
+
+Casual investors might have no wash sale adjustments or other cost-basis adjustments and just one securities brokerage account with a few equity transactions. They may qualify to attach their 1099B and skip inclusion of a Form 8949. Active traders won't qualify for this short cut.
+
+The cost-basis rules are almost fully phased in. Options and less complex fixed income securities acquired on Jan. 1, 2014 or later are reportable for the first time on Form 1099-Bs for 2014. Click here to learn more about IRS cost-basis reporting and Form 8949.
+
+9. Is there software that can help with Form 8949?
+
+Yes, GreenTraderTax and Barron's recommend Tradelog software. Tradelog's website has more resources on wash sales and issues raised on different brokers' 1099Bs.
+
+10. Where can I learn more about trader tax matters, including entities, retirement plans, Obamacare taxes, compliance tips, and more?
+
+In Green's 2015 Trader Tax Guide.
+
+I prepared these FAQs for an online broker catering to active securities traders.
+
+The following article is from one of our external contributors. It does not represent the opinion of Benzinga and has not been edited.
+
+Posted-In: tax frequently asked questions tax season tax season faqsPersonal Finance
+
+Originally posted here...

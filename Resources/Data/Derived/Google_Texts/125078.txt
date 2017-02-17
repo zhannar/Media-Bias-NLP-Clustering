@@ -1,0 +1,27 @@
+Old fear memories shift from their original pathway in the brain to a new pathway for later recall.
+
+Old fear memories shift from their original pathway in the brain to a new pathway for later recall. Saad Faruque, Flickr
+
+Fear memories, such as remembering the sensation and pain of fire, are essential for our survival. Now, two new studies suggest that the neural circuitry involved in such fear memories may not be constant but changing. In fact, the researchers discovered that old fear memories shift from their original pathway in the brain to a new pathway for later recall.
+
+“Our findings suggest a time-dependent reorganization of the neural circuits required for fear memory retrieval,” wrote Dr. Gregory Quirk, University of Puerto Rico School of Medicine, and his colleagues in their new study. “While fear behavior is constant with time, the circuits mediating this behavior are not.”
+
+Two Studies
+
+In one study, Quirk and his colleagues conditioned rats to fear a tone associated with a mild shock. Then, the researchers used various high tech tools, including a genetic/laser technique called optogenetics, to tease apart the workings of the rats’ neural networks. Immediately after this fear conditioning, the researchers saw how a circuit running from the prefrontal cortex, the executive hub of the brain, to part of the amygdala, the emotion hub, was engaged to retrieve the memory of the shock.
+
+However, several days later, Quirk and his colleagues discovered that retrieval had migrated to a different circuit in the brain --- from the prefrontal cortex to an area in the thalamus, called the paraventricular region (PVT). In turn, the PVT communicates with a different central part of the amygdala that orchestrates fear learning and expression.
+
+"While our memories feel constant across time, the neural pathways supporting them actually change with time," explained Quirk. In fact, the rats behavior remained unchanged over time, yet the pathway engaged in the traumatic memory took a detour, perhaps to increase the staying power of the memory while also serving to integrate adaptive responses, such as stress.
+
+"Uncovering new pathways for old memories could change scientists' view of post-traumatic stress disorder, in which fearful events occur months or years prior to the onset of symptoms," said Quirk.
+
+A second study also revealed how the long-term fear memory circuit works in mice to translate detection of stress into adaptive behaviors. Using mice this time, Dr. Bo Li, of Cold Spring Harbor Laboratory, and his colleagues independently discovered the same shift in memory retrieval circuitry occurring, over time, after fear conditioning. Next, the team of researchers used optogenetic and other genetic-chemical to experimentally switch pathways on and off in order to learn what was happening on the neuron level.
+
+They discovered that neurons originating in the PVT acted on neurons that store fear memories in the central amygdala area. Next, the Li team traced this activity to the action of one messenger chemical, known as brain-derived neurotrophic factor (BDNF). Previously, BDNF has been implicated in mood and anxiety disorders; people with PTSD, for example, show altered BDNF expression.
+
+Next, the researchers infused BDNF into the central amygdala area. What happened? The mice froze in fear, suggesting that it not only enables the formation of fear memories, but also the expression of fear responses. “Our results demonstrate that the PVT–CeL pathway constitutes a novel circuit essential for both the establishment of fear memory and the expression of fear,” wrote Li and his colleagues in their published study.
+
+Sources: Do-Monte HF, Quinones-Laracuente K, Quirk, GJ. A temporal shift in the circuits mediating retrieval of fear memory. Nature. 2015.
+
+Penzo MA, Robert V, Tucciarone J, et al. The paraventricular thalamus controls a central amygdala fear circuit. Nature. 2015.

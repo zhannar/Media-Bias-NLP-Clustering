@@ -1,0 +1,17 @@
+For many who experience severe paralysis, simple interactions and conversations are almost impossible. But thanks to researchers from Loughborough University in the UK, paralyzed patients may be able to communicate with those around them simply by breathing. The new device, believed to be the first of its kind, is taking breath and turning it into words.
+
+When Dr. David Kerr, senior lecturer at LU's school of mechanical and manufacturing engineering, embarked on this project, he wanted to make something that could help those who suffer from paralysis to speak again. Joined by colleague Dr. Kaddour Bouazza-Marouf and Glenfield Hospital's consulting anesthetist Dr. Atul Gaur, Kerr developed a prototype device that analyzes differences in breathing patterns; then, the device concerts these premeditated “breath signals” into words. It's essentially a software that features breathing pattern recognition, an analogue-to-digital converter assist, and a speech synthesizer that turns these signals into sound.
+
+This specific augmentative and alternate communication (AAC) device has been tailored to paralysis patients who haved experience partial voluntary muscle control loss and no longer have the ability to blink or sniff, which many existing AAC devices are given to help with. Kerr's specific device adds the ability to learn from the cues of its user — the user can develop his own language through breath patterns and speeds for the machine to commit to memory. “What we are proposing is a system that learns with the user to form an effective vocabulary that suits the person rather than the machine,” Kerr said in a statement.
+
+The team also says their machine has many other advantages over existing AAC devices, including speed. To date, they have achieved a 97.5 percent success rate when “teaching” their device to recognize breathing patterns as speech.
+
+“Current AAC devices are slow and range from paper-based tools to expensive, sophisticated electronic devices,” said Kerr. “Our AAC device uses analogue signals in continuous form, which should give us a greater speed advantage because more information can be collected in a shorter space of time.”
+
+Dr. Gaur adds that this technology not only has the potential to open up the previously limited avenues of communication of paralysis patients, but the software may even be used to diagnose locked-in syndrome within intensive care settings “by allowing patients, including those on ventilators to communicate effectively for the first time by breathing.”
+
+Researchers also look forward to receiving help from engineering student Robert Green, 20, who will help develop the device as part of his final year project. For such a young man, Green already has an impressive amount of experience working with AAC devices, inventing a prototype of his own, the m (eye) DAQ. This AAC device is not only low in cost, but allows paralysis victims to communicate through eye blinks or finger movements.
+
+Though still in the works, researchers have much hope that their device will soon be available to help all of those who have trouble communicating to speak effectively once again.
+
+Source: Kerr D, Bouazza-Marouf K, Gaur A, et al. Turning breath into words – new device unveiled to give paralysis victims a voice. Loughborough University. 2015.

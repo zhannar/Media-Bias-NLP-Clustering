@@ -1,0 +1,39 @@
+Editor’s Note: Christine Magee is an editor for CrunchBase.
+
+Venture capitalists are on a mission to heal the ailing U.S. healthcare system, and big data might just be the right prescription.
+
+Healthcare costs in the U.S. have gone up over 130% in the last decade, and healthcare is currently 18% of the GDP. Since large insurance companies have few incentives aligning their interests with consumers, costs have continued to rise while user experience doesn’t improve.
+
+“When you buy health insurance off the shelf, it’s kind of a one size fits all. There’s not much guidance in terms of care and budgeting, and the online experience is very much out of the ’90s,” says Scott Raney of Redpoint, who recently participated in Collective Health‘s Series B.
+
+Investors have backed 55 startups since 2011 in an effort to bring the health insurance market up to speed with current consumer expectation, and lately they’re picking up the pace.
+
+In 2014, heath insurance companies raised $308 million across 32 venture rounds, according to CrunchBase data — a 250% increase from the $88 million raised in 2013 and a 556% increase from 2012’s total. Founders Fund and NEA are among a growing list of firms that have closed multiple deals in the space, and Oscar, the new age health insurance provider that’s already one of New York’s top-funded startups, is reportedly in talks to raise even more at a $1 billion valuation.
+
+Driving this funding frenzy is the influx of machine readable data made available by the Affordable Care Act back in March of 2010. At its core, the ACA mandated and lowered the price of health care coverage for Americans, but for regulatory purposes it converted all health plans from free-form text into a machine readable format.
+
+“The data that’s out there now is making it easier for organizations to personalize and optimize healthcare, but it’s also pushing more of these decisions downstream,” says Rick Yang at NEA.
+
+“A lot of these higher deductible plans require consumers to take a lot more responsibility, and you really have to be able to understand the data behind it,” Yang says.
+
+NEA led last month’s $32 million Series B for Collective Health, one startup that’s helping employers make sense of the health care data overload.
+
+With Collective Health, employers can build custom insurance plans for their employees instead of purchasing a one-size-fits-all plan from a large provider, such as Blue Cross. Self-insurance is not a new concept — 94% of companies with more than 5,000 employees already self-fund their health plans — but Collective Health is making it possible for much smaller organizations to adopt this model and manage administrative work.
+
+“Access to health records and health claims history is really difficult to get, and difficult to understand — but if you know what your employees claim history might look like, and know that certain types of healthcare costs crop up more than others, you can craft your own health plan to be more responsive to your company’s needs,” says Scott Nolan, a partner at Founders Fund and investor in both Collective Health and Oscar. Nolan adds that most companies see a 10% decrease in healthcare costs after switching to self funding.
+
+Employers aren’t the only group in need of a health insurance upgrade. For the 53 million Americans (a third of the labor force) whose insurance is not provided by their employer, investors are searching for a different solution.
+
+NEA is betting on Stride Health, a personal health insurance recommendation engine that closed a $2.4 million seed round in January.
+
+“Typically as a consumer, you’re picking from 40 to 60 health plans in a given region, and they’re all laid out in a vocabulary you don’t speak and priced according to a premium — but that’s not the price you really need. You need to evaluate how much you’re going to use,” says Noah Lang, founder of Stride.
+
+Stride creates a care forecast and prices your personal care on every plan, coupled with the coverage price, to show you the total cost of owning that plan — your care plus your coverage.
+
+“The ACA put consumer decision making at the forefront. So now the issue is, how do we take this universal jargon and make it comprehensible in the context of every individual’s life in the way that my social stream on Facebook and the ads I see are personalized for me,” says Lang.
+
+Lang says that Stride users average 12 to 15 minutes to get through both the recommendation and enrollment process. To put this in perspective, Covered California’s average time to completion is an hour and forty-eight minutes, and most people couple that with spending an hour on the phone.
+
+Rick Yang, who led NEA’s deal for Stride, sees a big opportunity around the “consumerization of healthcare,” as he calls it.
+
+“We’ve had a big thesis around the consumerization of the enterprise — but you’re really seeing the consumerization of everything now, and some of the most interesting investment opportunities exist at the edges of a lot of these different sectors — data, healthcare, consumer mobile, and the freelance economy,” Yang says.

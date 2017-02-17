@@ -1,0 +1,21 @@
+Sony's attorney David Boies has sent a letter to The New York Times, The Wall Street Journal, The Hollywood Reporter, and other outlets about the data hackers recently seized from the studio. "We have reason to believe that you may possess, or may directly or indirectly be given, illegally obtained documents or other information," Boies wrote. Sony, he informed them, "does not consent to your possession, review, copying, dissemination, publication, uploading, downloading, or making any use of the Stolen Information." He urged the papers to immediately inform him of any material from the hack that they have, and then to destroy it. If they ignore this request and publish stories based on the material, the company may sue them.
+
+Would Sony prevail in such a suit?
+
+Eugene Volokh doesn't think so. Writing in The Washington Post, the UCLA law prof points to two precedents that would spell trouble for the studio:
+
+Bartnicki v. Vopper (2001). Vopper was a radio commentator who received a tape recording of an illegally intercepted conversation; he apparently wasn't involved in the illegal interception, but a reasonable recipient of the recording should have realized that the conversation had been illegally intercepted, and Vopper likely actually did realize this. Vopper played parts of the conversation on his program, and was sued under a federal statute that made both the interception and the use of such conversations illegal (both a crime and a tort).
+
+
+
+But the Supreme Court held that Vopper's broadcast incorporating the intercepted communication was protected by the First Amendment. Though the interception was illegal (and could constitutionally be kept illegal), the playing of illegally intercepted material under these circumstances was constitutionally protected, at least when the broadcaster wasn't involved in the illegal interception, and the communication was on "a matter of public concern." (The particular conversation involved union leaders who were allegedly discussing physically attacking managers.)
+
+
+
+Pearson v. Dodd (D.C. Cir. 1969)—not a Supreme Court precedent, but still influential. Some ex-employees of Sen. Thomas Dodd, in league with some current employees, took some documents from the senator's office without permission, photocopied them, and then sent the copies to investigative reporters Drew Pearson and Jack Anderson. Pearson and Anderson published articles based on the documents. Dodd sued, claiming the publication was an invasion of privacy, and also constituted "conversion," which is to say basically use of stolen property.
+
+
+
+The D.C. Circuit rejected these theories, concluding that the publication just wasn't tortious (and thus not having to reach the First Amendment issue). When information is on a matter of public concern, the court held, the fact that it was illegally leaked doesn't make publishing it an invasion of privacy. And the information in the copied letters does not "fall under the protection of the law of property, enforceable by a suit for conversion."
+
+Volokh adds some caveats, including a note that if someone were to publish an entire script—the hackers' booty apparently includes the screenplay for an upcoming James Bond movie—that would open the publisher to charges of copyright infringement. For the most part, though, any media outlet sued by Sony for violating the commands in Boies' letter would have a pretty strong defense.

@@ -1,0 +1,89 @@
+Whether your organization is considering the use of big data and analytics, or has taken its first
+
+Healthcare Tech Leaders Share New Year's Resolutions
+
+Here's what health CIOs and other tech leaders plan to make happen in 2014.
+
+In 2014, healthcare technology leaders will be wishing, and working, for improvement in the healthcare system and the technologies to support it.
+
+I asked 10 CIOs and other health tech leaders for one or two pithy thoughts about what they would like to see in the new year. Here are their responses -- some as bullet points and others as longer prose -- via email, lightly edited:
+
+John Halamka, CIO, Beth Israel Deaconess Medical Center
+
+Halamka is one of the most prominent CIOs in all of healthcare and an occasional contributor to InformationWeek Healthcare.
+
+2014 will be a turning point for healthcare IT as we finish a large number of regulatory mandates -- ICD10, Meaningful Use Stage 2, HIPAA Omnibus Rule, and Affordable Care Act requirements. We'll be able to focus on a number of breakthrough innovations including Google Glass in the emergency department, patient/family dashboards in the ICU, and novel applications of natural language processing to improve the quality of medical records as they are created. My aim in 2014 is to bring the joy of exploring new frontiers back to IT.
+
+David Muntz, SVP & CIO, GetWellNetwork
+
+A longtime healthcare industry CIO, Muntz also served as a principal deputy at the Office of the National Coordinator for Health IT (part of the US Department of Health and Human Services).
+
+It's common to hear, We put the patient at the center of all we do, but is that true? We really talk about patient engagement as a project, but treat it like a philosophy. Not every organization, be it small or large, urban or rural, can produce a comprehensive plan that defines and demonstrates how to achieve it. I'd like to see 2014 usher in the era of patient engagement, where every organization has a plan that uses HIT [health IT] to enable and support active patient engagement, where the patient becomes a partner in their care and well-being. Help the individual, help the community, [and] help the population.
+
+James Noga, CIO, Partners Healthcare (See the InformationWeek profile.)
+
+Continue to elevate our security posture, which is core to an overall IT strategy.
+
+Embrace mobility in a thoughtful way, to improve overall performance of the organization.
+
+Pravene Nath, CIO, Stanford Hospital & Clinics
+
+Internal customer service benchmarked against the best consumer-service experiences outside of healthcare.
+
+Perfecting the workflows and user experiences of healthcare treatment teams as they are exposed to information associated with large new datasets from patients.
+
+Eliminating complexity from our technology environment.
+
+Using technology to connect directly with patients and consumers in general.
+
+George Evans, interim CIO, Singing River Health System
+
+To better integrate everything. To that end we are consolidating platforms and building robust interfaces between those that remain.
+
+To provide information more accurately and readily. We have purchased data analytics tools and attended training, in addition to assembling data definition documentation. We are presenting more and better information in drillable formats.
+
+Mark Braunstein, associate director, Health Systems Institute, Georgia Tech
+
+In addition to his work at Georgia Tech, Braunstein teaches a Coursera course on Health Informatics in the Cloud and is a contributor to InformationWeek Healthcare.
+
+My New Year's resolution for the industry would be for it to even more seriously examine and explore its role in helping ensure higher-quality, more-cost-effective healthcare for all Americans. The era of proprietary, armed information camps must come to an end. Quality, affordable healthcare requires health information that is useful in any system context and is available wherever and whenever it is needed most to assist patients and their care providers.
+
+Robert Slepin, VP & CIO, Scottsdale Lincoln Health Network
+
+I would like to see two things improved in 2014 for my company and the healthcare industry at large.
+
+First, we all need to do a better job with IT governance -- managing the demand of a record-high volume of incoming requests for changes and new projects, filtering, prioritizing, and sequencing work into the IT schedule. After all, not all requests can be priority one. CIOs must effectively engage with their peers to bring order to the IT request process in a way that focuses finite resources on things that matter most. To say yes to the highest priority requests means saying no to other things.
+
+Second, we need not only to deliver projects and run operations well but at the same time continuously get better at running IT like a business. This means investing time to define value in terms of our internal and external stakeholders' wants and needs, leading our teams to improve performance against ever-higher standards, and constantly developing our IT teams' skills and abilities.
+
+Jonathan Bush, CEO, Athenahealth
+
+Bush is the outspoken co-founder and leader of the cloud software and business services firm for doctors. (See the InformationWeek profile.)
+
+2014 is the year of maturation for software-enabled services in healthcare. It will be the year that major provider groups step away from what to date has been considered a safe IT purchase. Traditional software has proven to be too slow and for some a financial disaster. I also think the gig is up with vendors who are profiting while their clients struggle with things like Meaningful Use or are left in the dark on how to approach ICD-10. There are vendors out there that only make money if their clients are successful. Imagine that. Also, I’m calling it: In 2014, the design and elegance of EHRs will start to suck a little less. I promise.
+
+David Denton, pediatrician, chair of informatics steering committee, Portneuf Medical Center, Idaho
+
+Denton's critique of electronic health records software was one of the inspirations for my column on Why Doctors Hate EHR Software.
+
+I would hope that there can be better vendor-provider collaboration to produce more functional interfaces that make products more valuable and usable. I would like to see experts in human-computer interaction become involved in an industry that seems to have missed the last decade of GUI improvements. As one of your readers suggested, providers should engage vendors more, rather than just complain. Believe me, we have engaged them, but they have been unable and in some cases unwilling to listen to user feedback. (I am flying to North Carolina in February with people from six other hospitals to meet with McKesson about the challenges we are facing). I would like to see them overcome this complacency as more fierce competition occurs and become more responsive to user needs. Those that do will survive.
+
+While I would love to see improvement in transmitting data between systems and better tools for collaborating care, I (and many I know) would be ecstatic if we could just use modern, easy-to-browse interfaces that make the chart easy to view, easy to order tests, easy to track referrals and follow-up, easy to enter data, and just plain fun to use. It is really not that hard. I have some great prototypes, but no time or money to invest in development.
+
+Cynthia Nustad, EVP & CIO, HMS
+
+HMS provides fraud detection and cost-containment services to state and federal governments, as well as insurers.
+
+Rebuild the healthcare IT brand. As an industry in 2013, we have experienced mainstream visibility into public snafus and poor implementations, such as HealthCare.gov. These shrouded great momentum in many other healthcare advances. Our industry is one with a great deal of complexity, and it's an industry that affects each and every one of us personally. My resolution is to highlight team successes as a 2014 theme, with great examples across the industry of stepping up to improve healthcare. As a leader, it falls upon me to set up the team for success and ensure that benefits are realized.
+
+Close the talent gap. CIOs all are faced with locating, recruiting, growing, and retaining our talent. We each may have different key skills, whether they be invention, integration, process innovation, analytics, big data, or specialties such as Hadoop. This story isn't that different from 10 years ago, but the demand levels are higher due to a much more technological society, tools, products, and services. My resolution is to do a better job driving the internal development opportunities to help career path our current team members into new skills for tomorrow. We know we succeed or fail by the talent on our teams and this is a key resolution and goal for 2014.
+
+David F. Carr is the Editor of Information Healthcare and a contributor on social business, as well as the author of Social Collaboration For Dummies. Follow him on Twitter @davidfcarr or Google+.
+
+Healthcare providers must look beyond Meaningful Use regulations and start asking: Is my site as useful as Amazon? Also in the Patient Engagement issue of InformationWeek Healthcare: IT executives need to stay well informed about the strengths and limitations of comparative effectiveness research. (Free registration required.)
+
+Comment |
+
+Email This |
+
+Print |

@@ -1,0 +1,37 @@
+When my editor here at TechRepublic asked if I would be interested in writing about the project management implications of the Obamacare HealthCare.gov site fracas, my first instinct was to say it probably wasn't all (or even mostly) a project management issue in terms of formal PM disciplines. The site's rollout troubles sound more like a case of a fundamental break down in how an organization handles big projects.
+
+Caveats: This article is not intended as either an endorsement or a criticism of the Affordable Care Act. It's also not intended to be a deep analysis of what has gone awry with the software development project. Since I didn't work on the project, I probably never will have an idea of what specifically went wrong. I will take the liberty of saying that folks who are shocked that a big ol' website launched with some significant problems have probably never worked on a big ol' web site launch, or for that matter paid very close attention to similar private-sector boondoggles that don't tend to grab headlines.
+
+(Spoiler: The new Death Star wasn't really "fully operational," as the Emperor boasted, unless you consider one entire exposed side just waiting to get strafed by Rebels "fully operational.")
+
+But what do you do when your Dark Lord … err, executive team … announces that a project has to be completed on such a date / time, and that is how it is? The first recourse is to try to hash out accurate time / cost projections and triage off enough functionality to make the deadline at least plausible, while maintaining some core value in the deliverable. But even if you, the business analyst, and a few mid-tier managers are able to pull off a reasonable pruning exercise, the odds of you being able to squeeze in a credible effort against a purely arbitrary deadline are still slim.
+
+Come launch day, you are likely to end up with:
+
+a) a gelded deliverable that does not deliver on the proposed business value.
+
+b) a buggy mess.
+
+c) both a & b
+
+Again, dark fate A is mostly an issue of the dreaded IT / business misalignment (i.e., incompetent management) and just something project managers have to deal with, or at least try to mitigate.
+
+I have racked my brain for several years on how to tackle the bugginess of forced releases, and I have come up with no perfect answer there, either. Once, however, I did get all the stakeholders to buy into two terms for launch that did actually result in the "hard and fast" live date slipping a bit and the client avoiding a serious data security problem.
+
+Term 1: The prescribed QA time in the project plan could not be trimmed, under any circumstances.
+
+Term 2: The stakeholders had to identify 15 general requirements that were non-negotiable.
+
+Term 1 is the toughest to enforce, since QA at the tail end of a time-sensitive project always gets slashed, even though it's even more vital when developers are in a hurry. I have seen projects go live with only developer peer testing, and managers congratulating themselves over it. Argh.
+
+You'll find an ally in the QA manager for setting Term 1, and with any luck you'll be able to push back hard on folks who agreed to the terms when they start thinking that fudging is a good idea.
+
+Term 2 is a little dicer, and will require the help of a business analyst or a project sponsor. If at all possible, try to quantify in dollars the damage that will likely occur if the requirement is not met. And this agreed-upon list should be communicated up the food chain to the Big Guy well in advance of the launch date. It should be simple enough for senior executives to grasp; hell, put it in a PowerPoint.
+
+Again, I cannot stress this enough: When the launch date is mandated by the Big Guy, making that date becomes a goal unto itself, regardless if the actual product is even remotely useful. That's just politics, on Capitol Hill or in your office campus.
+
+By codifying the most essential needs of the project – "we need multiple security layers, so that teddy bears with sticks can't make us completely vulnerable to attack" — and ensuring that the team has time enough to test those requirements, you can at least go to senior management with a very clear message as to why the project simply can't launch on a purely arbitrary date.
+
+Would this have worked in the case of the Obamacare site? Maybe, if the project team knew about some of the more serious bugs and faced credible penalties for launching a buggy mess. Or maybe not — the U.S. federal government is enormous, and as I said from the outset, I don't really know what happened here, and frankly have no insight into the professionalism and honesty with which those involved acted.
+
+But here's hoping that at least in your shop, if you can clearly quantify the pain of launching just to say you launched, someone Up There will listen.

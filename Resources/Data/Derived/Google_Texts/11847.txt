@@ -1,0 +1,21 @@
+Breaking … With a 31-move draw with Black against Bulgaria’s Veselin Topalov, GM Levon Aronian of Armenia on Tuesday clinched sole first place in the 3rd Sinquefield Cup, with an undefeated final score of 6-3. World champion Magnus Carlsen of Norway, who saw his chances of a tie for first end with Aronian’s draw, accepted a draw with ex-world titleholder Viswanathan Anand to finish a full point back at 5-4 in the St. Louis tournament.
+
+He was supposed to be an afterthought, the onetime No. 2 player in the world supplanted by a rising generation of Young Guns.
+
+But popular Armenian GM Levon Aronian is making a strong case for his continued relevance as the 3rd Sinquefield Cup nears the finish line in St. Louis this week. With a round to go after Monday’s play, the 32-year-old Aronian sits atop a leaderboard at 5½-2½, with world champion Magnus Carlsen and younger rivals such as U.S. stars Hikaru Nakamura, Wesley So And Fabiano Caruana trailing in his wake.
+
+The Sinquefield Cup, the second leg of the three-tournament 2015 Grand Chess Tour, boasts an absurdly strong lineup — half of the field is rated above 2800, and Aronian, at 2765, is the second lowest rated entrant in the 10-grandmaster field.
+
+Aronian’s most impressive win in St. Louis came in Round 4 on the Black side of a Nimzo-Indian against So. Black clearly wins the opening preparation battle with the new move 8. a4 Ba5! (found by Hungarian GM Peter Leko, the point of this odd retreat is to revive the positional threat of 9…b5) 9. Bd2 exd5 10. cxd5 Nh5!, and White has great difficulty developing his pieces. White’s incautious 13. g4? (0-0 was almost mandatory here) b4! 14. Nb1 Qh4+ 15. Kf1 leads Aronian to sacrifice a full piece to pry open the position: 15…Ne5! 16. Be1 (gxh5 f5 and the opening of the f-file will be devastating) Qf6 17. gxh5 Nxf3 18. Bf2 Bg4 19. Qc1 Nd4!, and the other Black rook will enter the game via the c-file.
+
+Black plays the final moves with great precision: 23. Qb1 b3! (the threat of Rc2 diverts the White knight from the king’s defense) 24. Nxb3 Bb6 25. a5 Ba7 (the computer likes the flashier 25…Rc2!! 26. Qxc2 d3 27. axb6 dxc2 28. h3 e4, winning, but Aronian’s move is also good enough) 26. Kg1 Bf5! 27. Be4 (Qe1 e4 28. Rd1 e3 29. Bh4 g5 30. hxg6 Qxg6 wins for Black) Qg5+ 28. Kf1 Qf4, and White can’t meet the threat of 29…d3; So resigned.
+
+–
+
+Today’s diagram is the mate-in-two we ran last week, taken the recent World Solving Championship in Ostroda, Poland. The position is a mess, but a small bishop move runs some neat interference to do the job. The solution: 1. Be7!, guarding the c5-pawn and threatening 2. Rxd7 mate. Black’s various defenses allow various White mates: 1…Bxc5 (or 1…Nxc5) 2. Rxd6 mate; 1…Nd6 2. Rc7 mate; 1…d6 2. Qc8 mate; 1…Rxe7 2. Nxe7 mate; 1…Bf7 (or 1…Bg6) 2. Qxd7 mate; and 1…Rd3 (or 1…Re3 or 1…Rxh3 2. Nb4).
+
+So-Aronian, 3rd Sinquefield Cup, St. Louis, August 2015
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 O-O 6. e4 d6 7. Ne2 a6 8. a4 Ba5 9. Bd2 exd5 10. cxd5 Nh5 11. g3 Nd7 12. Bg2 b5 13. g4 b4 14. Nb1 Qh4+ 15. Kf1 Ne5 16. Be1 Qf6 17. gxh5 Nxf3 18. Bf2 Bg4 19. Qc1 Nd4 20. Nxd4 cxd4 21. e5 dxe5 22. Nd2 Rac8 23. Qb1 b3 24. Nxb3 Bb6 25. a5 Ba7 26. Kg1 Bf5 27. Be4 Qg5+ 28. Kf1 Qf4 White resigns.
+
+• David R. Sands can be reached at 202/636-3178 or by email at dsands@washingtontimes.com.

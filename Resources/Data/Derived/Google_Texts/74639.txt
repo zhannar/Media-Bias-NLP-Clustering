@@ -1,0 +1,15 @@
+Typically, babies can be screened for jaundice with expensive tools in the hospital — but BiliCam attempts to bring the process home, where parents can test their baby with their phones.
+
+A condition that’s defined by yellow discoloration of skin and eyes, jaundice affects many infants when they’re first born. It occurs when the baby’s blood contains too much bilirubin, a yellow pigment of red blood cells, due to an immature liver.
+
+Infant jaundice often doesn’t need to be treated — but if it’s severe enough and isn’t treated, it can ultimately lead to complications. Now, a newly-developed smartphone app will assist parents in screening their babies to see if they need a blood test to check bilirubin levels.
+
+“Virtually every baby gets jaundiced, and we’re sending them home from the hospital even before bilirubin levels reach their peak,” said James Taylor, a professor of pediatrics and medical director at the newborn nursery at University of Washington Medical Center. “This smartphone test is really for babies in the first few days after they go home. A parent or health care provider can get an accurate picture of bilirubin to bridge the gap after leaving the hospital.”
+
+The app is called BiliCam and uses a smartphone’s camera, flash, and color calibration card. The phone is placed on the infant’s belly, then the parent or doctor can take a picture with the color card in view, thus determining different lighting conditions and skin tones. The app then reports the baby’s bilirubin levels. Though jaundice screening is available in some hospitals, it is usually extremely expensive and can’t be used at home. The app would provide an easy and accurate way for parents to identify jaundice early. “This is a way to provide peace of mind for the parents of newborns,” Shwetak Patel, an associate professor of computer science and engineering at the University of Washington, said.
+
+In a recent clinical study, researchers examined BiliCam’s efficacy on 100 newborns, and found that it was just as effective or even better than the current screening tool.
+
+“In the old days, all we used were our eyes to decide whether a baby should get her or his blood drawn for bilirubin levels,” Taylor said in a UW article. “And so our eyes are obviously very subjective to the baby’s skin and the light in the room … and that really was one of the main problems with visual assessment for jaundice.”
+
+Taylor continued:

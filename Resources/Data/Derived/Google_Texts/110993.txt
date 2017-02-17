@@ -1,0 +1,23 @@
+Inhibitory neurons in the spinal cord use sensory information to control motor reflexes and limb coordination. This sensory information, sent as electrical impulses, can be manipulated by applying optogenetics to neurons present in the spinal cords of freely moving animals, according to a new research. This will shed new light in the study of interneuronal activity that controls the complex spinal circuits involved in the flow of sensory information.
+
+The research, carried out by neuroscientists at the Massachusetts Institute of Technology (MIT) and described in the June 25 issue of PLOS ONE, involved using optogenetic tools to access inhibitory interneurons in the spinal cord. The inhibitory interneurons form circuits with many other neurons in the spinal cord. These circuits, or nerve impulses, carry messages from the sense organs to the central nervous system.
+
+To study the inhibitory neurons that influence these, the scientists used optogenetics, since conventional methods like electrical stimulation or pharmacological intervention are not able to provide information on the specific subsets of neurons. Optogenetics works because it allows scientists to control specific subsets of neurons, genetically programming them to express light-sensitive proteins. These proteins, called opsins, act as ion channels or pumps that regulate neurons' electrical activity. Some opsins suppress activity when light shines on them, while others stimulate it.
+
+So after inserting the opsins into a subset of spinal neurons, the researchers shone blue light on mice's spinal cords. This completely immobilized their hind legs. When the light was removed, the response was no longer present. "With optogenetics, you are attacking a system of cells that have certain characteristics similar to each other. It's a big shift in terms of our ability to understand how the system works," said Emilio Bizzi, lead researcher and member of MIT's McGovern Institute, in a press release.
+
+Role in Muscle Control
+
+Inhibitory neurons are involved in muscle contraction by receiving excitatory and inhibitory synaptic inputs. For example, when you raise an apple to your mouth, the biceps contract while the triceps relax. Inhibitory neurons are also thought to be involved in the state of muscle inhibition that occurs during the rapid eye movement (REM) stage of sleep.
+
+For this experiment, the researchers used mice developed by Guoping Feng, the Poitras Professor of Neuroscience at MIT, in which all inhibitory spinal neurons were engineered to express an opsin called channelrhodopsin-2. This opsin stimulates neural activity when exposed to blue light, so the researchers shone light at different points along the spine to observe the effects of neuron activation.
+
+When light was shone on the middle-lower part of the thoracic spine there was strong suppression of hind limb movement. This suggested that inhibitory neurons in the thoracic spine pass on the inhibition all the way to the end of the spine, findings concluded. The researchers also found that activating inhibitory neurons had no effect on the transmission of sensory information from the limbs to the brain, or on normal reflexes.
+
+"The spinal location where we found this complete suppression was completely new," co-reasercher Vittorio Caggiano said. "It has not been shown by any other scientists that there is this front-to-back suppression that affects only motor behavior without affecting sensory behavior."
+
+Scientists are now wondering if optogenetics causes an emergency stop or if the inhibitory neurons form modules that allow for more selective suppression of movement patterns. The success of this experiment has prompted the scientists to explore the use of optogenetics in understanding the role of other neurons and to determine how the brain and these spinal circuits interact.
+
+“There's huge interest in trying to extend these studies and dissect these circuits because we tackled only the inhibitory system in a very global way," Caggiano said in the press release. "Further studies will highlight the contribution of single populations of neurons in the spinal cord for the control of limbs and control of movement."
+
+Source: Caggiano V, Sur M, Bizzi E et al. Rostro-Caudal Inhibition of Hindlimb Movements in the Spinal Cord of Mice. PLOS ONE. 2014.

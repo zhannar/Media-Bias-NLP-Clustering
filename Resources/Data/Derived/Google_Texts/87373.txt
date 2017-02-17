@@ -1,0 +1,51 @@
+Conventional wisdom calls for initiating sound information technology strategies in concert with efforts to organize for shared savings, bundled payment, financial risk and other versions of new reimbursement models based on population health management. Once in place, interdependent clinical and community-oriented operations can’t succeed without fundamental data-sharing and communication capabilities.
+
+
+
+A game plan for succeeding in this new reimbursement atmosphere, underpinned by extensive IT, is coming together at Robert Wood Johnson Health System in New Jersey. However, RWJ Health System began implementing an IT foundation to enable value-based care long before it knew which exact models of value-based care it was working toward. This iterative approach has positioned the system to take on any variation of population health management — a highly advantageous capability in the fast-changing world of reimbursement.
+
+
+
+The right data at the right time
+
+At Robert Wood Johnson University Hospital in New Brunswick, the flagship academic medical center of the health system, discussions about how to better manage the health of the diverse populations served by the hospital began nearly a decade ago, launching discussion among the RWJ leadership about “the kind of things we would have to do in the future, not having any idea what population health management meant or where it was going,” says Joshua Bershad, M.D., senior vice president of medical affairs and chief medical officer. “High on the list was knowing that we would have to have access to good data in the right setting at the right time.”
+
+
+
+In a span of about three years, the push for a data-sharing foundation came to include standardizing electronic health records on one platform within RWJ and a choice of two options for then-independent physician groups in the area. Early on, the health system forged agreement on a common set of data standards for information it wanted to collect in the hospitals, physician practices and Rutgers Robert Wood Johnson Medical School, says Bershad. Robert Wood Johnson University Hospital serves as the principal teaching hospital for Rutgers Robert Wood Johnson Medical School. The health system required IT vendors to build a common set of data fields into EHRs at the outset, along with certain collection tools so that, for example, quality data pertinent to accountable care approaches could be extracted discretely for reporting needs.
+
+
+
+As the shift to preventing or intervening early on patient health problems spawned new management concepts, such as care coordination and clinical and cost-control targets for physician practices, RWJ’s leaders found that its established ability to exchange clinical results and present performance data figured prominently in any value-based strategy, Bershad says. “Enhanced data exchange capability is critical in managing population health effectively. Providers cannot live on islands anymore, whether in the private clinical practice, retail ambulatory care or hospital settings. A commitment to improved data exchange among all providers must happen early in your population health journey.”
+
+
+
+A stem-cell approach to value-based care models
+
+Rather than build a network and set of processes around a particular objective, such as participating in the Medicare Shared Savings Program, RWJ has set a course to pursue the Triple Aim concept of lowering costs, improving clinical results and improving population health. “What we don’t know is exactly what form it’s going to take,” Bershad explains. “We have to be like a stem cell: We must be ready to transform.” Physician alignment necessary to move smoothly into a systemwide set of health care delivery goals was aided by a proliferation of primary care physician employment by RWJ, from zero employed practices in 2012 to 110 today.
+
+
+
+Though the health system’s core technological foundation allowed it to pivot any number of ways toward population health opportunities, the move into Medicare shared savings in 2012 introduced a level of care coordination that also had to be looped into the daily provision of care. That meant a new level of information- sharing beyond the physician and hospital realms, says RWJ Health System Chief Information Officer Robert Irwin. Managing the administrative infrastructure for identifying the sickest patients and assigning care navigators to intervene called for specialized software systems and integration with physician practice EHRs.
+
+
+
+Three years ago, “we just weren’t happy with what we saw,” says Irwin. Successful care coordination activity hinges on several interrelated functions: identifying the patients that care navigators should be focusing on, using a care management tool integrated with a risk stratification function to enable follow-up with those patients, and getting the care management activities and results back into the hands of the practicing physician in a timely fashion.
+
+
+
+RWJ contracted with Conifer Health Solutions to assess its care management and technology infrastructure, as well as the financial implications for moving into more advanced risk-sharing models. The goal of the assessment was to offer ways that RWJ could strengthen its care management infrastructure, and ultimately enhance both of the value-based payment initiatives including the Medicare ACO and commercial contracting. RWJ selected Conifer Health’s Population Health Intelligence and Outcomes Optimization solutions to support its care management and financial analysis teams in driving the Triple Aim objectives.
+
+
+
+The next round of information-sharing buildup adheres to the same “any direction” theme that the first level of IT implementation fol- lowed. “The competency of sharing data, care coordination across the continuum, partnerships and looking at cost and quality at all times, are the core capabilities we will rely on going forward,” says Bershad.
+
+
+
+Two Medicare reimbursement programs typify the different aspects of those core capabilities that rise and fall in importance depending on the care model. A new program that reimburses joint replacement through a bundled payment covering 90 to 120 days of surgery and follow-up management is mainly an acute-care exercise. That model is less focused on traditional population health measures such as cancer screening and influenza vaccinations, adds Bershad. But the care navigation function of population health management is an essential element of moving a recovering patient through the 120-day acute care bundle period, he points out.
+
+
+
+The Medicare Shared Savings Program and other attempts to manage commercial or Medicaid patients follow the model of attaining patient wellness, and require actions that are different from managing a payment bundle. Those are different still from attempting to take full risk for the well-being of a defined population. “It really doesn’t matter,” Bershad says about the difference in the details of various models. “There may be four or five more models that we don’t know about today. We have to remain stem cell-like in order to transform into any one of those programs at any time. The core
+
+capabilities we will need to succeed remain the same.”

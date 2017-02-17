@@ -1,0 +1,11 @@
+Blockchain technology is not just for cryptocurrencies. Technologists are exploring all kinds of blockchain applications and one of the first is Darkleaks, a new service where people can buy and sell secrets honestly and anonymously. The opening of Darkleaks for trade in secrets is announced over at Medium.com:
+
+Darkleaks is a decentralised blackmarket where you can sell information. It has a mechanism for trustless authentication of documents that are being sold through a novel cryptographic mechanism. The authentication is fair, provably fair. Before paying for the file, a random selection of segments are released chosen by the block chain demonstrating the file’s contents match the leaker’s claim.
+
+The software uses Bitcoin’s block chain to encrypt files which are released when payment is claimed by the leaker. Files are split into segments and encrypted. These segments are unlocked only when the leaker reveals the key by claiming his Bitcoins.
+
+There is no identity, no central operator and no interaction between leaker and buyers. We encourage everyone to download Darkleaks now and start building. The code can be found here.
+
+We give the world a new scheme for selling information of any type, form or kind. This is a gift for you to stop corruption and challenge power.
+
+Darkleaks is the best tool to trade any kind of media, information, video, data and documents that have value.

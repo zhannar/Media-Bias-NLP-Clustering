@@ -1,0 +1,77 @@
+The HuffPost Pollster model of the Louisiana race, which aggregates all publicly available polls, finds Edwards with 51 percent of the vote and Vitter with 39 percent. Nearly 10 percent remain undecided.
+
+But not so fast - More from Gaddie and Goidel: "But as happens every election cycle, polling is doubted in the face of uncertainty. An Edwards win doesn't fit two decades of southern Republican realignment narrative. The recent failure of the polling in Kentucky is given as evidence that the polls are flawed for not capturing the election of tea party outsider Matt Bevin over Democratic frontrunner Jack Conway….It is also possible that Republican voters who didn't back Vitter in the initial primary are telling pollsters that they want to vote for Edwards but won't actually do that when they step into the booth."
+
+A narrow path to victory for Edwards - Keith Gaddie and Kirby Goidel : "John Bel Edwards has consistently led Vitter in public and internal tracking polls since the October 24 primary. His margins vary from 7 to 22 percentage points depending on the poll…. It is hard to imagine how Vitter overcomes his deficit . Louisiana's open primary system generally favors frontrunners. A candidate who enjoys solid support in the initial primary -- like Edwards -- and also a large lead -- like Edwards -- nearly always wins the runoff… . Analyses of early voting in Louisiana indicate that turnout will likely be higher than in the primary, increasing from 39 percent to 44 percent. And the electorate will be more Democratic and more African-American, according to early voting data, These are ominous signs for David Vitter." [ HuffPost ]
+
+LOUISIANA GOVERNOR'S RACE COULD SWING DEMOCRATIC: Conservative Louisiana Gov. Bobby Jindal might be succeeded by a Democrat come election day Saturday, if the polls are right. Republican incumbent David Vitter has been plagued by a prostitution scandal , leaving little-known state Rep. John Bel Edwards (D) with a chance to win. Of course, many thought a Democrat could win Kentucky a few weeks ago, but the polls were proven wrong when Republican Matt Bevin won by a landslide.
+
+Early voting favors Edwards - David Nir and Jeff Singer: "The early voting period for Louisiana's runoff election ended on Saturday, and 257,021 people have voted early, a 9.5 percent increase compared to October's jungle primary….[E]arly voting rose disproportionately in parishes in which Democrat John Bel Edwards is expected to do well. Turnout also went up among registered Democrats and among African-Americans. The share of the early voting electorate who are registered Democrats is 52.6 percent. That's significantly higher from early voting in both the primary (50.6 percent) and in the 2014 Senate runoff (49 percent)... But these numbers all come with a big warning label attached: early voting statistics should not be used to predict results. For one thing, we don't know how many early voters would have just voted on Election Day, and we also don't know how many are showing up now when they stayed home last time. [Daily Kos]
+
+MOST AMERICANS AGAINST SYRIAN REFUGEE RESETTLEMENT IN U.S. - HuffPollster: "Fifty-six percent of Americans in an NBC News/SurveyMonkey poll released Wednesday disapprove of allowing refugees escaping violence to continue entering the U.S., whether from Syria or other nations. A Bloomberg/Selzer poll, also released Wednesday, found similar sentiments when it asked respondents to identify the best way for the U.S. to handle the Syrian refugee crisis. Fifty-three percent of Americans in the survey say the best course of action is for the U.S. to deny Syrian refugees entry into the U.S….Sentiments about dealing with the refugee crisis seem to be tied to party allegiance. The NBC/SurveyMonkey poll finds that more than eight in 10 Republicans are against letting in more refugees. Of those Republicans who oppose refugee entry, 64 percent "strongly disapprove."[HuffPost]
+
+More support for sending troops than taking in refugees - HuffPollster: "There's considerably more support for sending U.S. ground troops to fight the Islamic State than there is for accepting the Syrian refugees fleeing from the terrorist group, a new HuffPost/YouGov poll finds...While 38 percent of Americans say the U.S. should take in refugees, 39 percent say it should not, with the remainder unsure. Most don't think the U.S. has a special role to play as a haven for people escaping war in their home countries…In contrast, the U.S. public is increasingly willing to back military action. Forty-eight percent of Americans say they support sending U.S. ground troops to fight ISIS, up 13 points from the end of October, while 32 percent are opposed. Sixty-eight percent of Republicans are in favor, while Democrats are about evenly divided between support and opposition." [HuffPost]
+
+Anti-refugee sentiment has a long history - Frank Newport: "This, of course, is not the first time that Americans have been faced with the issue of dealing with refugees fleeing some form of oppression or political reprisal in countries around the world. In 1939, Gallup was asking the nation about their reactions to proposals to allow refugees from Nazi Europe to enter the U.S. In the years since, Gallup has asked Americans about World War II refugees, refugees attempting to flee from Hungary after the 1956 Soviet crackdown on protests there, refugees fleeing from Vietnam after the communist takeover in the mid-1970s and refugees from Albania in the late 1990s. Overall, a review of these attitudes shows that Americans have a general reluctance to accept refugees into the U.S., even in response to situations that are clearly oppressive." [Gallup]
+
+PARIS ATTACK UNLIKELY TO HAVE IMPACT ON ELECTION RESULTS - Brendan Nyhan: "Until last week, the threat from terrorism had received little attention from candidates or voters during the 2016 campaign. In one poll, just 3 percent of Americans rated it the most important problem facing the country. The horrific attacks that took place Friday in Paris have, at least for the moment, changed that dynamic. CBS quickly moved to increase the emphasis on foreign policy and national security during Saturday night’s Democratic debate. Candidates are scrambling to adjust to the news, which media analysis has suggested might “alter” the character of the race, for instance by helping more experienced candidates like Hillary Rodham Clinton and hurting outsiders like Donald Trump. How long-lasting an effect will the Paris attacks have on the United States presidential race? Absent further attacks, the suggestion that Paris will prove to be a “game changer” is unlikely to be correct." [NYT]
+
+But it brings foreign policy, at least briefly, to the forefront - Jonathan Martin: "The assault on Paris has thrust national security to the heart of the presidential race, forcing candidates to scramble and possibly prompting voters to reconsider their flirtations with unconventional candidates and to take a more sober measure of who is prepared to serve as commander in chief….Much is not known about the attack’s impact on the race, given short attention spans in politics and the news media and the fact that it did not occur on American soil...What is almost certain is that the demands on the candidates will grow more exacting." [NYT]
+
+TWEAKING THE POLLSTER PRIMARY CHARTS - Some readers have noticed lately that our chart estimates sometimes trail the polls -- or in the case of Trump’s quick rise in early July, overshoot the polls. As we explained in July regarding Trump’s estimate, “The reason is that the chart is not based on an average, but rather a statistical procedure known as ‘local regression’ (also known as LOESS) that attempts to draw a trend line that best fits the underlying data” To better represent the underlying data we’ll be making an adjustment to make the estimates just a bit more sensitive to new polling data. We did this with the Obama job approval chart back in March for similar reasons -- “As a result [of the large number of polls], our default trend lines were smoothing out too much variation, missing some real but short-lived changes.” The change is small, but allows trends such as the dip and recent recovery of Trump’s support in Iowa to be more easily seen.. For consistency, we’ll make this small adjustment on all of the national primary, Iowa caucus and New Hampshire primary election charts. The change will be in place by Monday.
+
+THIS WEEK'S POLLS
+
+-Pew reports on a test of several ways vendors are trying to make cell phone sample more efficient. [Pew]
+
+-Ben Carson fades in New Hampshire while Donald Trump continues to lead. [WBUR]
+
+-Republicans think Ben Carson has a better temperament to be president but most have more confidence in Donald Trump to get things done. [Bloomberg]
+
+-Hillary Clinton takes a 25 percentage point lead against Bernie Sanders in a national poll. [Bloomberg]
+
+-Trump maintains a strong lead in a national poll while Carson and Cruz are tied in second place with 18 percent. [NBC]
+
+-Trump leads by double digits in New Hampshire while Marco Rubio trails in second place.[Fox]
+
+-Wisconsin GOP primary race is split three ways between Trump, Carson, and Rubio in. [WPR]
+
+-Republican candidates are struggling to be liked by Hispanic voters. [PRRI]
+
+-Donald Trump and Ben Carson are dominating with likely Republican voters. [UMass]
+
+-Americans cite healthcare costs and access as the country's most urgent health problems. [Gallup]
+
+-Americans haven't grown any more satisfied with their own health care plan since the enactment of the Affordable Care Act. [Gallup]
+
+-Legalizing pot is a popular proposal, but not one that will mobilize voters. [HuffPost]
+
+-More than seven in 10 Americans think electing an older president, 65 or older, is a good idea. [Marist]
+
+-Girls are less confident about their ability to learn computer science than boys are. [Gallup]
+
+-Nearly a quarter of adults under 33 say they have a helicopter parent. [HuffPost
+
+-Here are Americans' favorite pies, presented (naturally) in the form of a pie chart. [HuffPost]
+
+HUFFPOLLSTER VIA EMAIL! - You can receive this weekly update every Friday morning via email! Just click here. Enter your email address, and click "sign up." That's all there is to it (and you can unsubscribe anytime).
+
+THIS WEEK'S 'OUTLIERS' - Links to the best of news at the intersection of polling, politics and political data:
+
+-Pollsters agree skepticism about polls is warranted, but defend their processes against recent attacks. [The Hill]
+
+-Stu Rothenberg says it's too early to worry about Ben Carson or Donald Trump winning the GOP nomination. [Roll Call]
+
+-David Rothschild compares what the polls are saying to what prediction markets are saying about the Republican presidential contest. [MSNBC]
+
+-Sean Trende and David Byler introduce an interactive tool to simulate the GOP delegate race. [RCP]
+
+-Nate Cohn sees trouble in New Hampshire for the GOP establishment. [NYT]
+
+-Ann Selzer discusses the challenges of polling and gives journalists advice about distinguishing good polls. [CJR]
+
+-Tom Clark reports on research suggesting that British polls failed to interview a representative sample of voters. [Guardian]
+
+-Daniel Marans takes a closer look at a survey of Syrian refugees. [HuffPost]
+
+CORRECTION: The Pollster chart of the Louisiana gubernatorial race was initially mislabeled.

@@ -1,0 +1,15 @@
+If you’re one of the millions of users of a Samsung Galaxy phone, you might be a potential target for a malicious hacker.
+
+A report released today by NowSecure, a security firm located in Chicago, found that a glitch in Swift, the keyboard software used by default on all Samsung Galaxy devices could allow a remote attacker to compromise your phone.
+
+This particular bug makes the phone vulnerable to what is known as a “man in the middle” attack. The Swift software consistently sends requests to a server, checking for updates. To someone with the right knowhow, though, it’s possible to impersonate Swift’s server and send through software that can be used to gain control of the device.
+
+The main problem with this vulnerability is that there’s no real solution. The Swift keyboard is so integrated into Samsung’s software that it cannot be removed or disabled — even if it is switched out with a different keyboard app. Steering clear of unsecured Wi-Fi networks will make you less likely to be targeted, but it won’t render you invulnerable.
+
+Related: 10 Biggest Tech Flops of the Century​​
+
+Swift runs with elevated permissions, giving it pretty much free rein around the phone. This means that a hacker that worms his way into it can also access the Galaxy’s microphone and camera, track the user’s location or listen to their calls. They can even install apps.
+
+NowSecure claims to have made Samsung and Google’s Android team aware of this vulnerability in late 2014, and Samsung reportedly has made a patch available to network providers. It’s not clear, though, whether providers have pushed out the patch to users yet. Many networks have a record of being notoriously slow to push through updates and security patches, and NowSecure’s tests found a number of Galaxy phones on different carriers were still vulnerable as of Tuesday.
+
+If you’re of a more technical bent, you may be interested in seeing the details of NowSecure’s report on their blog. If you’re of a less technical bent, you might want to check with your carrier and try to avoid insecure Wi-Fi networks.

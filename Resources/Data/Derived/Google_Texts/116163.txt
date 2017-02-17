@@ -1,0 +1,11 @@
+Maybe it’s because my head’s in the cloud so much, but I view IBM’s planned divestiture of its server business as a direct response to the growing threat it sees from Amazon(s amzn). Simplistic, yes, but that doesn’t make it wrong.
+
+Here’s how AWS drove (or at the very least helped drive) IBM(s ibm) to act:
+
+Advertisement
+
+In the past 3 years AWS emerged, like an aircraft carrier out of the fog, as a prodigious competitor to IBM in IT services. The fact that AWS won the CIA cloud contract over IBM despite quoting a higher price, crystallized that for anyone who had doubts Buying trends among Amazon and its webscale cousins Facebook(s fb), Google(s goog), Yahoo(s yhoo) pulled the rug out from under brand-name X86 server makers. These companies thirst for simple, cheap hardware and increasingly they either design their own boxes to be built by white-box providers like Quanta and Wistron. Or they just buy cheap servers off the rack from such suppliers. As more corporate workloads — CRM, e-mail, office productivity applications — flow to SaaS providers and more in-house product development to AWS the companies that used to buy hardware from IBM or HP etc — don’t have to upgrade their own servers as often. Or when they do update, they buy fewer servers since virtualization lets them cram more workloads on fewer boxes.
+
+Advertisement
+
+All of that churns up a perfect storm for legacy providers like IBM. The company’s decision to sell its server unit to Lenovo, and to devote more time and resources to its SoftLayer-focused cloud efforts, is the direct result.

@@ -1,0 +1,127 @@
+If big data is so helpful in health care, why aren't more hospitals using it efficiently? (iStockPhoto)
+
+Picture a hospital where patients input information about their current conditions on tablets in the waiting room. During the examination, doctor and patient talk about the patient’s hobby of biking. He would like to continue it, but his speeds are slowing down because of knee pain, as the doctor can see from the data he uploaded from his personal fitness tracker into his health record.
+
+In another area of the hospital, doctors narrow down a child’s asthma to one of 15 types and examine the data from every child that has that type of asthma to determine the best treatment. A cancer patient, whose treatment has helped much more than expected, agrees to have her data added to the system so doctors in another city can learn from her case.
+
+This is what a learning health system fueled by big data looks like, and it’s becoming a reality.
+
+
+
+[MAP: Want to Help Fight Ebola? Here's How.]
+
+
+
+What is big data?
+
+Big data means an incredibly large amount of information. Kaiser is currently managing more than 4,000 times the amount of information housed in the Library of Congress. The amount of health care data worldwide is expected to increase 50 times by 2020 to 25,000 petabytes. For comparison, 2 petabytes is about the size of all the information in all of the academic research libraries in the United States.
+
+Big data is also diverse. Data could be structured or unstructured and include weight measurements, urine samples, genetic mapping, pictures or listings of symptoms. Big data also means the ability to compute data at high speeds to produce generalized knowledge.
+
+Driven by need, big data has already seeped into some parts of the health care industry, particularly at cancer centers and with treatment of rare diseases. Between 5 percent and 7 percent of Americans have one of the 7,000 diseases health professionals consider rare. A single hospital wouldn’t have the number of patients needed to learn about the disease alone, so this area has been one of the leaders in big data resources.
+
+Big data is already producing research that has helped patients. For example, a data network for children with Crohn’s disease and ulcerative colitis called ImproveCareNow helped increase remission rates for sick children, according to Dr. Christopher Forrest and his colleagues, who are creating a national network of big data for children in the U.S.
+
+“I envision health systems devoting more and more attention to managing health instead of managing disease and it will be powered by these big data resources,” says Forrest, who is a professor of pediatrics at the Children’s Hospital of Philadelphia and the University of Pennsylvania.
+
+If big data is so helpful in medicine, why isn’t it being used everywhere?
+
+A mix of uncharted legal territory, the sometimes stubborn culture of medicine and slow technological adoption has prevented the application of data science to health care in the U.S. on a large scale. Experts say with technology, patient demands and pushes from the Affordable Care Act, we are finally reaching a tipping point.
+
+
+
+[READ: U.S. Isn't Done With Ebola]
+
+
+
+Legal issues
+
+In some ways, the learning health system has been around since the beginning of medicine, says Glenn Cohen, a professor specializing in health law policy at Harvard Law School.
+
+When a doctor tried a new drug or treatment for a certain ailment and the patient reacted a certain way, that reaction has always influenced the doctor’s future treatment of patients with that ailment. Relying on your past experiences and maybe those of your colleagues is common sense. When a doctor asks another doctor for advice about a specific patient or gives advice based on something she learned from a patient’s treatment (without naming them, of course), that hasn’t been a big legal issue in the past.
+
+“No one ever thought your doctor needed explicit consent before he could talk about your case with a colleague,” Cohen says.
+
+Yet, this learning from past experience is about to happen on a larger scale with big data, and it’s presenting sticky legal issues.
+
+One is consent. While the consensus is that patients should be notified and give consent to have their data join the system, how often consent is given and in what form is up for discussion. Some disagree about whether it is even possible to obtain true consent when the public's knowledge about data is so low in general.
+
+Electronic health records have reached saturation in the last few years. When you go to the doctor, a nurse or doctor probably enters your information into a computer (generating an EHR). Now, that researchers want to combine the data from all of these EHRs into a big data resource for research, should you be contacted again, and how?
+
+“The baseline assumption is that most people have not thought about what from their EHR is and is not being used,” Cohen says. “Most people are doing it under the assumption that this is about a treatment relationship. I am giving my doctor this information and he is recording it because this is going to help him treat me as an individual, not population health.”
+
+The information will be de-identified, meaning you would be identified by your age, location and race among other factors instead of by your name or social security number. The risk of re-identification is a small one, but it’s possible.
+
+
+
+[LOOK: How Hospitals Are Supposed to Treat Ebola Patients]
+
+
+
+Doctors aren’t sure
+
+Many doctors aren’t fans of electronic health records. They impose great costs on a doctor’s time to input fields and make sure everything is standardized. In the past, doctors may have been given data from the EHR, but hospital managers said doctors found the data overwhelming and not particularly relevant.
+
+Although some doctors use decision-support software now, where they enter in symptoms and a model suggests possible conditions, it’s necessary to assure doctors that they, and not an algorithm, are the ultimate decision makers, according to Cohen.
+
+Models need to be as transparent as possible about what factors go into suggesting certain treatment for certain patients. If models are true black boxes, doctors won’t trust them. There is a constant tug between transparency and the trade secrets necessary for viable business.
+
+Changing medical curriculum to integrate data education and education about how big data can better inform decisions will be crucial.
+
+“All we’re trying to do is give doctors more information that they can ignore if they want to or accept if they want to about the way in which the experience of millions of other patients might inform their decision as of what to do in their case,” Cohen says. “Getting doctors to use decision-support software, especially a generation of doctors raised on Facebook, Twitter and video games, is going to be easier than getting them to love EHRs.”
+
+
+
+Public is concerned, doesn’t understand big data
+
+Ultimately, changes toward big data will help researchers answer the questions patients want answered.
+
+Although the trend toward more patient involvement in medical decision making, away from the past patriarchal relationship, has been happening for years, big data resources call for another level of involvement.
+
+In the new relationship, doctor and patient both have something powerful. Doctors need consent to use patients’ data and their participation in gathering it. Patients need doctors to learn from the data and make suggestions.
+
+Some early models of data resources, such as Forrest’s PEDSnet, involve patients in the governance.
+
+“They push scientists to move at a faster clip because when you’re a person affected by disease, you want answers,” he says. “You don't have time. It has pushed researchers to figure out things faster and more cheaply.”
+
+As the public becomes more educated on data and data science, Dr. Harlan Krumholz, a professor at the Yale School of Medicine, says patients will see the connection between releasing their data and solving the nation’s biggest health priorities.
+
+“The way we win against cancer is learning from everyone who has cancer,” he says. “I can’t customize to who you are on prognosis, but if I had all the records of people who had this type of cancer, I could. If we are serious about solving these problems, we need to be serious about unleashing the data that will solve them.”
+
+
+
+Technology
+
+Although people have entered medical data into a computer since the existence of the technology, it’s only in the last few years that electronic health records have reached a tipping point of adoption. Now most major and mid-sized medical centers use them.
+
+Government pushes through provisions of the 2009 stimulus package and the Affordable Care Act have also sped up the process by making EHRs useful for multiple purposes such as health management and research, and creating and enforcing standards about what fields should be in the records and what form those fields should be in. Because there are several different companies making EHRs, having standardized fields ensures records can be combined across years, cases, hospitals and states.
+
+The ACA has also beefed up anti-discrimination laws, meaning hospitals can’t use the big data resources to cherry-pick patients.
+
+Medical organizations are also researching what should be included and how. Forrest recently participated in an Institute of Medicine publication detailing which individual factors needed to be in EHRs. The group found employment, food and housing security, stress, health literacy and dietary patterns were some factors that could influence how patients and doctors discuss and deal with health.
+
+“This is a profound change – to get, in a very standardized way, information about people’s social lives and their behavior and some physiological attributes consistently into electronic health records is going to greatly help clinicians, health professionals and ultimately patients manage their health in a way they haven’t been able to in the past,” he says. “These are new metrics that kind of compliment your blood count, urine analysis, to get a more complete picture of patient health.”
+
+While traditional disease taxonomy has treated all types of asthma as one condition, using big data, doctors are learning there are actually many subtypes of diseases and, within cancer, your genetic profile can make a big difference.
+
+Social factors, once largely ignored in the health system, can also impact how a disease progresses, which is why they are important to include in EHRs.
+
+“One disease in a poor person might be very different in a wealthy person,” Krumholz says. “They can afford medication. They can afford 24-hour nurses. They can put a comfortable hospital bed in their home. That may make a disease very different for a person who can't afford food, much less the medication.”
+
+
+
+Research community
+
+Krumholz said he began thinking about the research community as a barrier on a sabbatical from Yale. He was discouraged in his research. While many doctors entered the profession to change people’s lives for the better, the researchers in charge of advancing medicine weren’t changing people’s lives enough.
+
+“Look at how infrequently what we’re doing actually changes people’s lives, and look at how expensive it is,” he says he thought.
+
+Krumholz points to many barriers holding back the medical profession. One is the way medical research is funded. The average length of time between when a National Institute of Health Study is proposed and when it is published is seven years. Research is slow, expensive and often doesn’t produce useful knowledge.
+
+“The way in which the medical scientific complex works is that you need to publish papers and get grants, and if the grantees will fund you for ideas using older methods and if the promotion committees will promote you for doing things the old way, then where the pressure to innovate?” he says.“The academic model where people publish papers and no one ends up using them and caring about them, that’s just not going to work to solve our problem.”
+
+He says more risk-taking is needed in grant applications and the medical profession needs to actively search for faster, cheaper and better ways to generate knowledge.
+
+Although Krumholz calls medicine an “information science,” he admits the profession hasn’t kept up with innovations in information and data science. Collaboration with other fields is one way to move the profession forward. Emphasizing a team-approach instead of a “star model” where people are awarded for their individual work and contributions to a team are looked down upon is also hurting medical advances, he says.
+
+Despite all the roadblocks for big data in medicine, the professionals said they remained excited about the future of medicine, even if it isn't coming fast enough.

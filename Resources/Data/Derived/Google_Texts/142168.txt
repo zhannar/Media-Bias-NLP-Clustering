@@ -1,0 +1,23 @@
+For two weeks I've been contemplating the news that Microsoft is terminating several high-end certification programs.
+
+Microsoft is retiring the masters-level certification exams, which include Microsoft Certified Master, Microsoft Certified Solutions Master, and Microsoft Certified Architect. Many of those who worked so hard and spent so much time and money to reach these levels and distinguish themselves have exploded with anger and frustration over this decision, not to mention the ones who were still in the process of obtaining the coveted Master (aka Ranger) designation.
+
+[ The InfoWorld review: Windows 8.1: New version, same mess. | 10 excellent new features in Windows Server 2012 R2. | Stay atop key Microsoft technologies in our Technology: Microsoft newsletter. ]
+
+The MCM program began in 2001 as the Exchange Ranger program and was later expanded to include Active Directory, Lync, SharePoint, and SQL as part of 2005's MCA program. These programs have had a good run. As for why Microsoft is cutting the program, it's very simple, says Tim Sneath, a Microsoft senior director: Too few people are trying to get certified, which means there's little money to maintain it.
+
+In Microsoft's formal announcement, Sneath wrote: "Only a few hundred people have attained the certification in the last few years, far fewer than we would have hoped. We wanted to create a certification that many would aspire to and that would be the ultimate peak of the Microsoft Certified program, but with only about 0.08 percent of all MCSE-certified individuals being in the program, it just hasn't gained the traction we hoped for."
+
+I'll admit it: I always wanted to be a Ranger -- specifically, an Exchange Ranger. Over the years, I've met some Masters, and that designation always inspired a little awe in me. It's good, even for adults, to have heroes.
+
+Unfortunately, it was going to cost more then $20,000 and I would have to be at Redmond for several weeks to focus and study, which was a hard sell for my wife and our young children. More recently, Microsoft dropped the onsite training requirement, so you could test without the training -- but I wanted the training, and I doubt I could have passed without it.
+
+Ultimately what does all of this mean? If you're a Ranger, your credential remains valid and does not need to be renewed -- once a Ranger, always a Ranger at this point. For those who were trying to obtain the certification, they have until Jan. 1, 2014, to do so. (Microsoft initially offered a deadline of Oct. 1, but relented on that rapidly approaching date.)
+
+Microsoft will ponder what might make sense for a future "pinnacle" certification to replace the Masters programs, one that might be sustainable and more reasonable in cost, and thus more attractive. Where that may lead, who knows?
+
+Yes, some people are bitterly disappointed. But times change. Microsoft is reorganizing, and in fact changing the kind of business it wants to be. Leaders are being shifted, CEO Steve Ballmer is stepping down soon, TechNet is being discontinued, the Masters program is ending, and so may be the Microsoft Management Summit, though that's not yet confirmed.
+
+But some of them come back, such as the Microsoft Exchange Conference (MEC) after a decade's absence. Whatever new programs, certifications, and so forth Microsoft may create, I hope they will build on the existing legacy of what came before it. To quote John Lennon: "You may say I'm a dreamer, but I'm not the only one."
+
+This story, "Why the Microsoft Certified Master program had to end," was originally published at InfoWorld.com. Read more of J. Peter Bruzzese's Enterprise Windows blog and follow the latest developments in Windows at InfoWorld.com. For the latest business technology news, follow InfoWorld.com on Twitter.

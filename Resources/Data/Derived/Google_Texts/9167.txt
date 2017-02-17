@@ -1,0 +1,27 @@
+Scientists in Spain have discovered how to reprogram tissue in organs directly into embryonic stem cells. The findings, reported today in the Nature, could lead to regenerative medicine therapies that bypass the need for removing cells from the body and manipulating them in a laboratory.
+
+"We can now start to think about methods for inducing regeneration locally and in a transitory manner for a particular damaged tissue,” said lead author and oncologist Dr. Manuel Serrano of the Spanish National Cancer Research Centre (CNIO) in Madrid.
+
+One of the biggest discoveries of the last decade came when Dr. Shinya Yamanaka of Kyoto University devised a method of turning regular adult cells into embryonic stem cells. Embryonic stem cells typically have a short existence that is limited to the early days of life. Soon after conception, they transform into adult cells that make up all of our different organs — brain, kidneys, liver, you name it — but once this happens, the cells are stuck in this state.
+
+Yamanaka took adult skin cells from mice and found that adding four genes — Oct4, Sox2, Klf4, and c-Myc — reprogrammed them into embryonic stem cells, more popularly known today at induced pluripotent stem (iPS) cells. These iPS cells are now regarded as one of our best options for regenerative medicine for diseases like Alzheimer’s and Parkinson’s. This process also eliminates the need to use embryos to derive embryonic stem cells, which has been a contentious political and ethical issue over the past decade.
+
+Better On The Inside
+
+Fast-forward to today where Manuel Serrano’s team has extended Yamanaka’s principle by directly changing adult cells in mouse organs into iPS cells.
+
+To do this, the researchers created mutant mice where the four iPS-inducing genes were expressed in most tissues of the adult body. Embryonic stem cells sprouted in all over — in the stomach, intestines, pancreas, and kidneys.
+
+"This change of direction in development has never been observed in nature,” said first author Dr. María Abad of the CNIO. “We have demonstrated that we can also obtain embryonic stem cells in adult organisms and not only in the laboratory."
+
+Stem cells were even isolated in the bloodstream and, when extracted and observed under a microscope, had more potency for becoming other cell types compared to iPS cells created in a dish.
+
+"This data tell us that our stem cells are much more versatile than Yamanaka's in vitro iPSCs, whose potency generates the different layers of the embryo but never tissues that sustain the development of a new embryo, like the placenta,” continued Abad.
+
+Although the therapeutic potiential of this discovery is exciting, as it suggests that injured tissue could simply be replaced by adjacent healthy cells in the future, it’ll be a long time before this concept reaches the bedside for a number of reasons. First, the newly minted stem cells grow in a tumor-like ball called a teratoma. A critical step will be figuring how to jump from adult cell to iPS cell back to adult cell without creating tumors.
+
+"Undoubtedly being able to reprogram cells in the body to different cell types will be useful in producing future therapies capable of transforming patients’ lives,” said Dr. Chris Mason, a professor of regenerative medicine at University College London, who wasn’t involved with this research. “This paper is an interesting proof of concept of the first step in the process (in vivo adult cells to iPS cells), but it still needs these iPS cells to be safely converted to useful 'adult' cell types in the body."
+
+“The major challenge will be tightly controlling every step in this potential approach to treating patients in order to deliver clinical benefits whilst avoiding significant complications," he concluded.
+
+Source: Abad M, Mosteiro L, Pantoja C, et al. Reprogramming in vivo produces teratomas and iPS cells with totipotency features. Nature. 2013.

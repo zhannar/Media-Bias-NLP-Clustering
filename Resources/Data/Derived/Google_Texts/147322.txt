@@ -1,0 +1,65 @@
+PITTSBURGH (AP) - In the vast network of data, drilling and pipes that’s made Marcellus shale an international energy reserve, computer attacks pose a serious threat.
+
+Hackers target energy companies all the time because of the information and technology involved, but the public rarely hears about it, said Paul Kurtz, CEO of TruSTAR Technology, a Washington startup that allows companies to share anonymous information about hacks. He and other cybersecurity experts said the risk from these attacks extends beyond losing information to opening opportunities for serious damage.
+
+“It’s quite easy for people to say, ‘It’s not going to happen here,’ ” said Kurtz, who was White House senior director for critical infrastructure protection in the Bill Clinton and George W. Bush administrations. “The problem is that the bad guys aren’t necessarily that selective. … There is no doubt that you could use a cyber attack to make things blow up.”
+
+Terry Boss, senior vice president of environment, safety and operations at Interstate Natural Gas Association of America, a Washington trade group, disagrees.
+
+A major pipeline incident “isn’t realistic,” Boss said.
+
+Even if hackers got past cybersecurity protections, he said, simple mechanical controls can prevent pipeline pressure buildup.
+
+“Is it disruptive if there’s a cyber event for a company? Absolutely,” Boss said. “Is it going to affect the health of the customers along the pipeline or delivery? No. We’re doing everything we can do to prevent that sort of thing.”
+
+Few energy companies are willing to talk about whether it’s that easy to attack their systems. Fifteen gas companies operating in Western Pennsylvania declined to comment about specifics - or at all - on their cybersecurity precautions.
+
+Consol Energy Inc., based in Cecil, tells employees to watch out for email scams, discourages them from using external flash drives and warns them to be careful online at home. The company formulates quarterly cybersecurity response plans and is in the second year of a three-year computer systems review, said George Rosato, Consol vice president of information systems and technology. The company’s plans address how quickly it could recover from a cyber incident.
+
+“As data moves back and forth, and specifically outside of our firewalls, we have to make sure we can protect that data,” Rosato said.
+
+The chances of an adversary initiating a cyber attack on an oil and gas company are much greater than that of a physical attack, said former Homeland Security Director Tom Ridge.
+
+The industry makes a tempting target for terrorists or foreign countries that want to hurt the economy by disrupting energy supplies, Ridge said. Activists opposed to fossil fuels, meanwhile, would consider it a victory to cause problems, he said.
+
+“It’s a grave business risk to minimize the potential impact of a successful cyber attack, and I think the oil and gas industry, for a variety of reasons, is probably at the top of the list,” Ridge told the Tribune-Review.
+
+Hackers regularly target energy companies, accounting for nearly a third of the incidents handled last year by Homeland Security’s Industrial Control Systems Cyber Emergency Response Team.
+
+Even among energy producers, oil and gas operators face extended risks because projects often involve multiple companies working together, sharing information and trying to integrate systems, experts said.
+
+One company might drill a hole, another frack the shale, and yet another transport the gas through a pipeline. Employees monitor the activity remotely, sending information from the drill site to a field office and then to the corporate headquarters. Each step involves computers and corporate networks - presenting a wealth of hacking opportunities.
+
+“The more third parties you work with, in general, they could then become a target to pivot into your network,” said Bob Marx, a cybersecurity and industrial automation consultant with Cimation, an energy consulting company from Houston, Texas, with offices in Pittsburgh.
+
+Energy companies traditionally have worried more about hackers stealing their secrets - where they plan to drill, how much money they make - but executives realize they have to pay attention to infrastructure threats, said David Miller, chief security officer at Covisint, a Detroit company that provides secure online communications for energy companies.
+
+Computer security experts said ample evidence exists that software can be used to spawn dangerous situations.
+
+The Energy Department showed in 2007 how computer code can cause an electricity generator to spew black smoke. Three years later, a computer virus called Stuxnet destroyed Iran’s uranium centrifuges. In 2012, hackers wiped out 30,000 computers at Saudi Arabia’s oil company.
+
+Yet 60 percent of energy companies in an international survey this year by Oil & Gas IQ, an industry news site, said they do not have a cyber attack response plan.
+
+Lack of education and awareness remain top hurdles in preventing cyber attacks on oil and gas operations, security officials said.
+
+Hacking methods continue to evolve and become more sophisticated, said Graham Speake, who teaches cybersecurity to oil and gas executives at SANS Institute, a Bethesda, Md., training company.
+
+The Marcellus shale is a vulnerable play because there are smaller companies drilling, and executives often do not know about online risks or where to seek help, he said.
+
+Several government-led, public-private partnerships exist to share information and warn against attacks, but no regulations require oil and gas companies to protect data.
+
+Targeted email scams, called “spear-phishing,” are the most common attacks among oil and gas operators, said FBI Special Officer Michelle Pirtle, coordinator of the Pittsburgh chapter for InfraGard, an FBI-led cybersecurity information-sharing initiative.
+
+The automated equipment used by the oil and gas industry often runs on antiquated technology that is easy to use but hard to protect, said Marx with Cimation. Information can be put online without operators realizing it, and new technology to shield that information is not always compatible with old systems, he said.
+
+It’s a problem even if hackers simply get into systems and start manipulating data or blocking information, said Miller at Covisint in Detroit.
+
+___
+
+Online:
+
+http://bit.ly/1IJLEZi
+
+___
+
+Information from: Pittsburgh Tribune-Review, http://pghtrib.com

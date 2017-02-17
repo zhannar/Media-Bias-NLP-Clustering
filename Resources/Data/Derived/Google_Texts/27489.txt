@@ -1,0 +1,35 @@
+Fog hovers over a mountaintop as a cut out of a coal miner stands at a memorial to local miners killed on the job in Cumberland, Ky.
+
+The Supreme Court is back in action this week, and on Wednesday it will hear arguments in a trio of cases involving the Environmental Protection Agency and its regulation of power plant pollutants. (The cases are being rolled together and heard in 90 minutes of oral argument, rather than the usual 60.) Before we lift up the robes to look for some data, here’s a bit of background on the case.
+
+The Case
+
+More Politics
+
+This suite of cases is a challenge to how the EPA regulates pollutants from power plants. Here’s the question before the court: “Whether the Environmental Protection Agency unreasonably refused to consider costs in determining whether it is appropriate to regulate hazardous air pollutants emitted by electric utilities.”
+
+Essentially, what the petitioners — mainly Republican-led states and industry groups — claim is that the EPA, unlawfully, did not perform the “cost” part of a cost-benefit analysis. In its petition for a writ of certiorari, the National Mining Association wrote, “No rational person would see spending $9.6 billion for $4-6 million in return as an appropriate exchange.”
+
+On the other side, the respondents — the federal government and some allied groups — argue that the EPA took costs into account properly. Specifically, they argue that the relevant statutes require taking costs into account when determining the precise level of regulation to bring down on a plant, but not when determining whether or not to regulate a plant in the first place. They also argue with the petitioners’ calculations, citing huge potential benefits down the road from the elimination of toxic emissions like mercury.
+
+Stepping back: Some see these cases as part of a series of cases that are meant to provoke the court’s suspicion of the Obama administration’s regulations. First on health care, now on environmental regulation, and perhaps in the near future on immigration.
+
+The Combatants
+
+It’s a counsel clown car at the court for this case, with a quartet of combatants. Arguing for the petitioners are Aaron D. Lindstrom, Michigan’s solicitor general, and F. William Brownell, a partner and Hunton & Williams. According to the Oyez Project, neither have argued before the Supreme Court before.
+
+For the respondents, it’s U.S. Solicitor General Donald Verrilli and Paul Smith, a partner at Jenner & Block. Verrilli last argued before the court earlier this month, and did quite well, according to court watchers. This will be his 41st appearance before the court. It will be Smith’s 16th appearance. His record thus far: 7-7 (one case is excluded here as it was ruled that certiorari was improvidently granted).
+
+The Role Of The Government
+
+Verrilli has been busy lately, and is arguing this case hot on the heels of his defense of Obamacare. He’ll be arguing, of course, on behalf of the EPA, a federal government agency.
+
+According to the Supreme Court Database, since 1946, petitioners (the EPA opponents, in this case) win 64 percent of the time. However, if the respondent is a federal government agency (the EPA, in this case), the respondent wins 54 percent of the time. Your federal government hard at work!
+
+(And if the petitioner is a federal government agency, it wins 77 percent of the time.)
+
+The Predictions
+
+As usual, we’ll turn to two sources: the wisdom of the FantasySCOTUS crowd and the machine learning algorithm {Marshall}+. But they won’t tell us too much — the predictors see the cases completely differently. As I write, the crowd views all three cases as likely affirms — wins for the EPA — including two 9-0 affirms. The algorithm, on the other hand, sees them all as reversals: 9-0, 9-0 and 7-2 losses for the EPA. In Michigan v. EPA, the two are diametrically opposed, predicting 9-0 votes in opposite directions.
+
+The crowd predictions may change, and improve, however, after the court watchers have had a chance to dissect what happens in oral argument. But for now, you might as well toss a coin.

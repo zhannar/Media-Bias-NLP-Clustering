@@ -1,0 +1,25 @@
+In 2005, President George W. Bush spoke at the Cleveland Clinic while I was there as a precocious third-year medical student. His goal was to promote a 10-year plan to computerize half of Americans healthcare data to allow for secure healthcare data sharing across institutions [1].
+
+Flash forward four years to February of 2009, and the American Recovery and Reinvestment Act (Obamacare to some) was enacted with the goal to "promote the adoption and meaningful use of interoperable health information technology"[2]. As part of the Medicare program there have been incentives (and future punishments) for incorporating the ability to share healthcare information through health information exchanges. This would (in a perfect world) allow for a healthcare provider to view data from other institutions and potentially improve quality and/or decrease costs (value).
+
+As a gastroenterologist and Director of the Data Core in Research Services at the Regenstrief Institute, I have been a major advocate for secure widespread sharing of healthcare data to improve the value of healthcare in American (more on this in future postings). The overall goal is to have the right information, at the right time, to the right person to make the right decision for the patient (R4 Goal). The Regenstrief Institute houses the oldest and largest health information exchange (HIE) in the country with over 30 years of electronic health records on 18 million unique individuals and over 4 billion clinical data points (e.g. labs, billing codes, etc.). With over 80 hospitals now participating in healthcare data sharing, this is a model for a national health information exchange that was envisioned by President Bush and pushed forward by the monetary rewards of the American Recovery and Reinvestment Act.
+
+This all sounds wonderful from the surface (and from the politicians). However, the reality of healthcare data is that it does not work as well as what we would hope. We are now 10 years later and have, as of 2014, 76% of hospitals on at least a "basic" electronic health record system (EHR) [3]. However, the decision to rapidly expand the electronic availability of healthcare records has some major downstream consequences.
+
+For instance, can your gender change throughout your life? You can within healthcare data, even without involving Caitlyn Jenner's surgeons [4]. Or can a patient be born after they die? Sean Connery was able to do this back in 1967 [5], and yes, it happens in healthcare data.
+
+These are real scenarios that have been published in peer reviewed healthcare literature and impact the care of real life patients. How does this happen? The answer is complex and a combination of people and policies that have not been aligned as we have digitalized the healthcare enterprise.
+
+Have no fear of perfection -- you'll never reach it.
+
+- Salvador Dali
+
+Humans are fallible. Humans entering data into healthcare records are no different. Gender, date of birth, ethnicity and many other demographic factors are often manually entered by a clerk or medical assistant within a health care system. Billing codes are assigned from hospitalizations by reviewing the documentation (often incomplete) and potentially assigning a non-specific code (more on ICD9/10 in future posts).
+
+Even if there is internal reliability (within a hospital), in the era of data sharing across institutions on variable EHRs, there is increasing room for error. This is so common that researchers will often choose the gender, race or date of birth that is closest to their topic of interest or take the demographic characteristic that occurs most often. It is unclear, then, how much these assumptions play a role in outcomes of research, therefore influencing future patient care simply due to information entered at the initial point of care. In other words, would you want a future doctor of yours to use outdated or incorrect information to treat you?
+
+How do you fix this? Well, Salvador Dali was correct in stating that we should have no fear of perfection, but we can put processes in place to make it more reachable.
+
+Over the next months, I will highlight specific research questions posed and how the "dirtiness" of data effects the assumptions that we make and the outcomes of research. Hopefully this will illuminate the challenges faced within "Big Data" in the healthcare field and generate discussion of how to handle the imperfect world in which we live.
+
+Follow Dr. Timothy Imler on Twitter: www.twitter.com/Dr_Imler

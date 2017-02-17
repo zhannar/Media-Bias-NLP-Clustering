@@ -1,0 +1,17 @@
+Google has released a version of Chrome that includes 64-bit support for Windows that it says offers better speed, stability and security. The new version also offers fixes for a number of security flaws that could let a remote attacker obtain unauthorized access or cause a denial of service.
+
+The 64-bit Chrome version improves the speed of graphics and video including high definition YouTube videos, Google wrote in a blog post. It’s also twice as stable as 32-bit engines when handling typical web content. The company said the increased capacity makes it possible for its security mitigations to better defend against certain types of attacks. This is part of Google’s “defense in depth” strategy to deploy a variety of stumbling blocks to the attacker.
+
+Chromium, the open source web browser project from which Google Chrome draws its source code, has worked to make the browser more modular. This makes it possible to separate different functions and create an extra layer of defense, known as a sandbox, for each one to improve security. Sandboxes help prevent malicious code from infecting applications through the browser.
+
+The new version of Chrome, also available for Windows 32-bit, Mac and Linux, offers about 50 fixes to security flaws. Every six weeks, Google updates Chrome to fix security flaws found both by its security team and a group of external security researchers, according to Google spokesperson Veronica Navarrete.
+
+The most important of the 50 patches is a critical fix for a series of vulnerabilities that could let malicious code escape the browser and attack other applications, Dennis Fisher, security evangelist at Kaspersky Lab, said in an email. Google paid a $30,000 bug bounty to a security researcher known as lokihardt@asrt for finding the series of vulnerabilities.
+
+Like other browsers, Chrome has a sandbox built in to prevent malicious code from infecting applications through the browser. Google’s security team has made it difficult for that to occur, to the point that attackers typically need several vulnerabilities chained together to accomplish the task, said Mr. Fisher. “Attackers place a high value on those sandbox escapes as they could be very useful in targeted attacks,” he said.
+
+Many companies worry that attackers will gain access to their systems by exploiting a flaw in an employee Web browser. Once into corporate systems, attackers have a much easier time moving laterally through a corporate network because there typically aren’t as many defenses behind the firewall.
+
+In April, a security hole in Microsoft’s Internet Explorer was discovered. Microsoft said it would let hackers have the same level of access on a network computer as the official user, wrote the Journal’s Danny Yadron. At the time, Microsoft said it was aware of “limited, targeted attacks” that attempted to exploit the flaw. Security firm FireEye, which discovered the vulnerability, described it as part of a hacking campaign against U.S. financial and defense companies, Mr. Yadron wrote.
+
+Write to rachael.king@wsj.com

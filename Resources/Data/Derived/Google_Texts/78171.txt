@@ -1,0 +1,35 @@
+Sunday, January 3, 2016
+
+On December 16th, the Commodity Futures Trading Commission (“CFTC”) held an open meeting at which it voted to adopt final rules (the “CFTC Margin Rules”)1 governing margin requirements for uncleared swaps (“Swaps”) entered into by swap dealers and major swap participants who are not supervised by a “prudential regulator” (such entities, “Covered Swap Entities”).2
+
+The CFTC Margin Rules, based on a re-proposal in October of 2014,3 are intended to be consistent with the international framework published by the Basel Committee on Banking Supervision and the International Organization of Securities Commissions.4 Included are rules to implement statutory amendments to the Commodity Exchange Act made in January to provide an exemption from margin requirements for commercial end users and other entities.5
+
+Commissioner Voting
+
+The CFTC vote to adopt the final rules was two-to-one, with the somewhat unusual alignment of Chairman Massad and Commissioner Giancarlo in favor and Commissioner Bowen dissenting. As she made clear during her opening remarks, Commissioner Bowen objected to the final rules because they will not, subject to certain conditions, impose a requirement on Covered Swap Entities to collect or post initial margin from their consolidated affiliates.6 The Commissioner expressed concern that a large portion of Swaps will not be subject to initial margin requirements under the final rule.7 In this regard, Commissioner Bowen was aligned with recent criticisms of the Prudential Regulators’ margin rules by Senator Elizabeth Warren. In turn, Chairman Giancarlo provided a spirited defense of this aspect of the final rules, highlighting the logical connection between the CFTC’s previous analysis in connection with adopting an inter-affiliate exemption from the clearing requirement (under then-Chairman Gensler) and exempting them from uncleared margin requirements.8 While Commissioner Giancarlo strongly disagreed with certain aspects of the rules that impose high costs on various market participants, he nevertheless voted in favor of the CFTC Margin Rules on the basis that the rules are “much better than originally proposed and less harmful than likely alternatives.”
+
+Content of the CFTC Margin Rules
+
+While some time will be required to fully analyze the text of the CFTC Margin Rules, Chairman Massad helpfully noted in his remarks that the rules as adopted are “practically identical” to the rules recently adopted by the Prudential Regulators (the “PR Margin Rules”). (Readers interested in the content of the PR Margin Rules can find a summary here.) Based on the discussion at the open meeting and an initial review of the rule text, four significant differences are apparent:
+
+Inter-Affiliate Margin. As noted above, the CFTC decided to not impose initial margin requirements on transactions between consolidated affiliates, provided that certain conditions are met, including the existence of consolidated risk management policies and procedures and that the consolidated affiliate is collecting initial margin in its third-party swaps “where it should be.” In contrast, the PR Margin Rules would require swap dealers subject to their rules to collect but not post initial margin to affiliates and would include a collateral threshold of up to $20 million for each affiliate. Both the PR Margin Rules and the CFTC Margin Rules would subject inter-affiliate transactions tovariation margin requirements. Approval of Initial Margin Models. The CFTC rules would permit approval of margin models by a registered futures association (i.e., the National Futures Association) for purposes of permitting Covered Swap Entities to calculate initial margin requirements on the basis of such models rather than a CFTC-provided schedule. In contrast, the PR Margin Rules require approval of initial margin models by the Prudential Regulators themselves. Cross-Border Scope of Requirements. The CFTC did not adopt provisions as to how their margin rules would apply to cross-border transactions. The CFTC approach to cross border transactions, which was proposed in a separate rulemaking,9 will also be adopted separately at a later time. At the open meeting, members of the CFTC staff indicated that they are continuing to consider open points as to the cross-border proposal, including as to how it impacts so-called “de-guaranteed” affiliates of U.S. entities (e.g., consolidated subsidiaries of a U.S. parent). Chairman Massad indicated that he hoped that the CFTC could finalize those rules “early next year.” Calculation of Variation Margin and Related Documentation Requirements. Though it was not raised during the open meeting, the CFTC approach differs from the Prudential Regulators’ with respect to the calculation of variation margin and related documentation requirements. In particular, the CFTC Margin Rules specify that Covered Swap Entities must “to the maximum extent practicable” rely on third party data and other objective inputs in determining the amount of variation margin required to be collected and posted and to have in place “alternative methods” in the event of an unavailability of any input.10 These valuation terms are required to be documented in a manner sufficient to allow the Covered Swap Entity, its counterparty and relevant regulatory authorities to calculate a “reasonable approximation” of the margin requirement independently.
+
+We note that the PR Margin Rules are complex and that substantial guidance from the Prudential Regulators is provided in the preamble text to their rulemaking. It remains to be seen whether the CFTC Margin Rules will be fully consistent in respect of the related guidance.
+
+1 See CFTC Press Release PR7294-15 and “Fact Sheet: Final Rule Regarding Margin for Uncleared Swaps,” available athttp://www.cftc.gov/PressRoom/Events/opaevent_cftcstaff121615.
+
+2 The “prudential regulators” are the FDIC, the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Farm Credit Administration, and the Federal Housing Finance Agency (collectively, the “Prudential Regulators”).
+
+3 79 Fed. Reg. 59898 (Oct. 3, 2014) (the “Proposal”). A Cadwalader summary of the proposal is available here.
+
+4 See “Margin Requirements for Non-Centrally Cleared Derivatives” (Mar. 2015) (“BCBS-IOSCO Framework”).
+
+5 See Terrorism Risk Insurance Program Reauthorization Act of 2015, Pub. L. No. 114-1.
+
+6 See Dissenting Statement of Commissioner Sharon Y. Bowen Regarding Final Rule on Margin for Uncleared Swaps (Dec. 16, 2015).
+
+7 CFTC staff noted during the meeting that a large percentage of outstanding notional amounts for interest rate swaps and index credit default swaps are be transactions between “affiliates,” while also noting that the data was not clear as to how much.
+
+8 See Statement of Commissioner J. Christopher Giancarlo Regarding Final Rule on Margin Requirements for Uncleared Swaps (Dec. 16, 2015).
+
+9 80 Fed. Reg. 41376 (July 14, 2015). A Cadwalader summary of the proposal is available here.

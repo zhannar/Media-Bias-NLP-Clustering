@@ -1,0 +1,15 @@
+Many healthcare organizations have little awareness of the risks associated with health information technology (IT), according to a report prepared by RAND Health in collaboration with the Office of the National Coordinator for Health IT (ONC).
+
+“The research report finds that health IT safety often competes with other pressing priorities for limited resources within healthcare organizations,” the ONC wrote in a blog post. “It also tells us that users of electronic health records (EHRs) see EHRs as a solution to patient safety problems, and may not understand new risks that may be introduced by EHRs.”
+
+RAND began its study with 14 different hospitals and clinics of various sizes, locations and patient loads, and found that many were unprepared to participate in an external health IT risk management assessment. Three of the organizations dropped out of the project. Of the 11 left, three became less active over the nine-month assessment. The study’s authors found that the organizations with the most engagement had staff members experienced in organizational quality improvement and risk management.
+
+“This outcome suggests that even organizations with good intentions may be unable to achieve the goal of implementing a health IT safety project within a short time frame—even with technical assistance from an outside organization,” the study’s authors said.
+
+The study also found that the healthcare organizations were more likely to select known issues as problems, rather than issues identified through diagnostic research. It was harder to get resources and find solutions for IT issues that didn’t align with existing priorities within the healthcare organization.
+
+“While each hospital and ambulatory site completed a standardized diagnostic assessment designed to assist the staff at hospitals and ambulatory practices as they sought to identify potential targets for risk mitigation, most sites selected intervention targets on the basis of known problems with safety, quality, MU (meaningful use) criteria, or a combination of these items,” the study’s authors said.
+
+Ambulatory practices had more difficulty identifying and fixing IT problems than hospitals, and needed better tools to assist with the process. The study also found a disconnect between the size of IT projects and the amount of staff delegated to handle them. This contributed to what IT projects lacked the most: timely results and adequate resources.
+
+The ONC says that it hopes the study will lead to IT solutions that integrate better with other patient safety agendas at healthcare organizations. The organization has published a guide to identify unsafe IT practices, and recommended practices for EHR implementation along with the study’s results.

@@ -1,0 +1,15 @@
+Topics: Astronomy, Black Hole, black holes, Milky Way, Science, South Pole, The Scientific American, Innovation News, Technology News, News
+
+This article was originally published by Scientific American
+
+Each of the telescopes that the astronomers of the Event Horizon Telescope (EHT) are currently working to bring into their black-hole-observing, planet-size array is a special case. Mexico’s Large Millimeter Telescope, for example, is an enormous single dish on top of an exceptionally high mountain, not to mention the biggest science project of any kind in its country. The Atacama Large Millimeter Array (ALMA) is a billion-dollar class instrument, the world’s most powerful radio telescope.
+
+The South Pole Telescope is a special case in several ways. First, the obvious: it’s at the South Pole. That makes it incredibly hard to get to even in good weather, and completely inaccessible during the austral winter. But there are less obvious distinguishing characteristics as well. For one, the South Pole Telescope was designed for the very specific task of studying the cosmic microwave background—something completely different than what the astronomers of the EHT want it to do.
+
+Which is why last December, University of Arizona-Tucson astronomer and EHT collaborator Dan Marrone flew, along with several colleagues, to the South Pole. Their job was to install the gear the South Pole Telescope would need to join the EHT in observing black holes.
+
+Normally, the South Pole Telescope’s 10-meter dish funnels extremely faint radiation from the cosmic microwave background into a camera called a bolometer. “That camera effectively just measures the heat from the sky in a given direction by sensing how much the accumulated light heats each detector,” Marrone explains. To do Very Long Baseline Interferometry (VLBI), the technique used by the Event Horizon Telescope, the SPT needs a different kind of camera—a single-pixel instrument that records the waveform of microwaves (specifically those with a frequency of 230 GHz) hitting the telescope. With that single, highly sensitive pixel, Marrone explains, “we can actually record a ‘movie’ of the electric field that the radiation from our targets is creating on the surface of the telescope.”
+
+Eventually, during a full Event Horizon Telescope observing run, telescopes around the world will record such a “movie” on banks of 8-terabyte hard drives, then ship them back to MIT’s Haystack Observatory near Boston, where scientists will combine the data collected at all sites using a supercomputer called a correlator.
+
+By the time Marrone left Tucson on December 1, his team had already shipped 13 crates of equipment to the Pole. When Marrone arrived on December 9, only two of those crates were waiting for him. “It turns out never to be easy to do anything at the South Pole,” Marrone says.

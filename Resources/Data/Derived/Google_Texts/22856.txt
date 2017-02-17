@@ -1,0 +1,123 @@
+By last year’s extremely low bar, this year’s MNsure enrollment period was a technological success. The health insurance exchange’s website crashed less often and had fewer bugs, and would-be enrollees got their calls for help answered in minutes instead of hours.
+
+But behind the scenes, MNsure’s software still has major problems. The expensive software meant to handle low-income people who qualify for public health programs is buggy and missing key features almost a year and a half after its public debut.
+
+The result is a massive headache for counties as they try to manage their public assistance caseloads. Simple software tasks that should take five minutes instead takes 90 minutes hand-typing the same data over and over again. Other basic tasks are impossible for county workers, such as closing a case. And hundreds of thousands of low-income Minnesotans are being managed using software from the early 1990s just because, for all its problems, it’s still better than the MNsure software.
+
+“A year after implementation, MNsure remains woefully inadequate for managing public health care programs, and counties are reaching a tipping point to effectively manage the fallout of the lack of basic functionality,” said Linda Bixby, Washington County’s division manager for community services, at a recent MNsure board meeting.
+
+State officials say they intentionally put off fixing these issues last year to focus on fixing the MNsure website, because it was the public face of Minnesota’s coordinated health system. Now they’re turning their attention to these less-visible software problems — the so-called “back end” — and hope to fix many but not all of them this year.
+
+“(It) probably ends up being a two-year plan for getting the remaining functionality into place,” said Chuck Johnson, deputy commissioner for policy and operations at the Minnesota Department of Human Services. “Our goal at this point (is) to make significant improvements on the back end in 2015.”
+
+Castigated by lawmakers this week for problems with MNsure’s software, MNsure’s CEO Scott Leitz promised work was under way on them.
+
+“It absolutely is at the top of the priority list, because those are critical things that need to be in place,” Leitz said.
+
+That can’t come soon enough for county workers like Marti Fischbach, Dakota County’s deputy director of employment and economic assistance.
+
+“We continue to have more and more cases added, and without the additional functionality, it’s feeling like an exponential impact on us,” Fischbach said at the MNsure meeting. “It’s becoming more and more unmanageable to work on these cases and help people.”
+
+Jerry Vitzthum, the director of economic assistance for Anoka County, agreed.
+
+“I think they’re sincere that they want to get it done,” he said of the state’s promises. “But they’ve got to deliver. We’re not going to be able to handle the numbers unless they do.”
+
+HOW IT WORKS
+
+MNsure was built to a be a one-stop-shop for health coverage in Minnesota. People visit MNsure’s website, and after inputting information are told whether they’re eligible for Medical Assistance or MinnesotaCare, the state’s public programs, or a private health plan on MNsure’s marketplace.
+
+It’s intended to make things smoother: whichever program people are eligible for, they can get it all done at one place.
+
+But behind the scenes, nothing is smooth. Someone who earns at least 200 percent of the poverty line gets sent to private insurance companies — who have their own problems interacting with MNsure. People who earn less than that get sent to the Department of Human Services to enroll in Medical Assistance or MinnesotaCare.
+
+To do so, however, their information has to be sent to MNsure’s computer software.
+
+Minnesota’s not unique in this. As part of the federal Affordable Care Act, the federal government provided increased funds to states around the country to upgrade their Medicaid computer software.
+
+WHAT’S NOT WORKING
+
+One of the biggest issues Minnesota is facing is that different parts of the state’s database aren’t communicating with each other.
+
+For example, updating a person’s income in one part of the database is supposed to change that person’s income everywhere. As intended, the system would automatically determine any effects on that person’s eligibility for programs.
+
+In practice, case workers “have to go into multiple different screens and enter the same data in different places” to get the system to make the change, Johnson said.
+
+That’s how what used to take five minutes now takes 45, 60 or even 90 minutes.
+
+With all that time spent typing in data, case workers can’t handle as many cases per day. That’s forced counties to hire extra staff.
+
+“The result really is confusing to clients, and it’s incredibly costly for counties to administer,” Bixby said.
+
+In Anoka County, for example, the Medical Assistance budget is up by about 15 percent to cover extra costs incurred by the software problems.
+
+Other tasks are impossible for counties to do. Instead, state workers have to do everything — which created a huge backlog.
+
+DHS is supposed to check every year to see if people on public health programs are still eligible for those programs. But in the chaos of the new software and the MNsure rollout, that didn’t happen for parts of last year.
+
+That means some people potentially continued receiving benefits for a year or more that they were no longer eligible for. An audit last year found several such cases in a random sample of benefit recipients.
+
+Johnson said that backlog was a real problem last year but has been largely addressed, though individuals can still suffer delays in having their status resolved.
+
+“A lot of those have been resolved since then,” Johnson said.
+
+Joel Alter, who led a recent audit of MNsure for the Minnesota Office of the Legislative Auditor, said it would surprise him if the backlog was gone, given how big it got, but that he couldn’t verify it one way or other.
+
+BENEFICIARIES LEFT IN LIMBO
+
+While some people may have gotten benefits they weren’t entitled to because of the software glitches, other beneficiaries have suffered.
+
+The software bugs mean it can take a lot longer than it should to give someone benefits they’re eligible for.
+
+DHS will give benefits retroactively once they’re confirmed, Johnson said. But that means a period of limbo where a recipient might need medical attention without knowing for certain if it will be covered or not.
+
+Johnson said those people can talk to their case workers for clarity until their eligibility is formally established.
+
+Fischbach cited one extreme case in which a person with disabilities needs services but can’t get them because of a computer bug. The person with disabilities could be forced to go to a nursing home because they can’t get the outpatient services they’re entitled to.
+
+COUNTIES USING LEGACY SYSTEMS
+
+The problems might be worse if it weren’t for the state’s two pieces of legacy software that have managed public assistance cases for decades. Two programs, one called MAXIS, the other MMIS, were implemented in the early 1990s.
+
+Both are based on mainframe computers and are controlled by keyboard commands, not by pointing and clicking with a mouse.
+
+MNsure was supposed to replace MAXIS and MMIS — a long-overdue update.
+
+The old programs “basically uses formats and software and things that you just can’t sustain over time because it’s so old,” Alter said.
+
+DHS has had to pull experts out of retirement to help maintain MAXIS and MMIS, commissioner Lucinda Jesson said this week.
+
+The state’s original plan was to move all the state’s public assistance cases from MAXIS and MMIS to MNsure in 2013. But that got delayed, and then delayed more when MNsure debuted to intense software difficulties.
+
+Instead, the state now has a divided system. About 500,000 people are being handled through MAXIS and MMIS, while another 386,219 are being managed through the MNsure software.
+
+HISTORY REPEATS ITSELF
+
+This sort of software problem isn’t new for Minnesota’s public health programs.
+
+The Department of Human Services has been wanting to replace MAXIS and MMIS for more than a decade, and in 2003 it launched an ambitious replacement project called HealthMatch.
+
+It fell prey to many of the same problems that would hamstring MNsure a decade later: poor communication between the state and its contractor, disagreements, software glitches and cost overruns. In 2008, HealthMatch was cancelled without ever being released. Its final price tag, when the last lawsuits were settled years later, was $41 million.
+
+“DHS finally said, we’ve spent enough on this, we’ve gotten too little,” Alter said.
+
+Instead, it decided to focus on developing a new system. That ended up being MNsure.
+
+Jesson said one reason Minnesota decided to build MNsure, instead of letting the federal government run Minnesota’s health insurance exchange, was to “leverage federal funding… to build a human services IT system we desperately needed.”
+
+And though HealthMatch was lingering as “the lesson of what not to do,” Alter said, it also ended up in trouble.
+
+“With MNsure, we at least have a system that has in fact been enrolling people,” he said. “But again there are certain elements to it that have been so problematic.”
+
+David Montgomery can be reached at 651-224-5064. Follow him at twitter.com/dhmontgomery.
+
+WHAT YOU NEED TO KNOW
+
+— MNsure is Minnesota’s state-run health care exchange. Individuals seeking health coverage sign up on MNsure, which routes them either to private insurance plans or public assistance, depending on their income.
+
+— The MNsure project also includes software to help manage these customers once they’ve signed up for coverage.
+
+— But the software behind MNsure is having major difficulties.
+
+— County workers have born the brunt of these software problems.
+
+— State officials say fixing these software problems are now their top priority after addressing issues with MNsure’s website last year.

@@ -1,0 +1,29 @@
+Sunday, January 24, 2016
+
+Takeaway: In order to preserve an argument that the patent is not entitled to an earlier effective filing date, a petitioner must make that argument in its petition so that patent owner is on notice that it has to provide evidence to show that the patent is entitled to an earlier filing date.
+
+In its Final Written Decision, the Board concluded that Petitioner had not demonstrated by a preponderance of the evidence that the challenged claims (1-22) of the ’794 are unpatentable. The ’794 Patent provides “a number of methods directed to the multiplexing amplification and/or genotyping reactions of target sequences to create amplicons that can subsequently be detected on an array.” The earliest possible effective filing date of the ’794 Patent is September 2000.
+
+The Board began with the lone ground of unpatentability – that the challenged claims are anticipated by Fan. First, the Board discussed whether Fan is available as prior art. Patent Owner contended that Fan is not prior art because its filing date (February 7, 2000) is after the effective filing date of the ’794 Patent. Petitioner argued that Fan incorporates the disclosure of the ’810 provisional, thus, Fan is prior art as of the filing date of the ’810 provisional (February 7, 2000). Patent Owner argued that Petitioner failed to prove that the subject matter cited from Fan is supported by the ’810 provisional. Petitioner responded that Fan is clearly prior art because it incorporates the ’810 provisional by reference. Petitioner also argued that Patent Owner did not establish that the ’794 Patent has priority before the filing date of Fan.
+
+After oral hearing, the Federal Circuit issued a decision (Dynamic Drinkware LLC, v. National Graphics, Inc., 800 F.3d 1375 (Fed. Cir. 2015)), finding that a petitioner had failed to demonstrate that its prior art was entitled to the filing date of the provisional because it had failed to compare the portions of the prior art it was relying upon to the provisional. The Federal Circuit held that in an inter partes review, the petitioner has the burden of production to demonstrate that the reference is prior art, but the burden then shifts to the patent owner to argue or provide evidence that the reference was not prior art to the challenged claims by providing evidence of an earlier filing date. The burden then shifts once again to petitioner to prove that the reference is entitled to the filing date of the provisional application. Therefore, the Board found that the claims of the patent document must be supported by the earlier filed application to which priority is being sought, in compliance with 35 U.S.C. § 112. The Board then determined that in this case, the incorporation by reference of the ’810 provisional into Fan does not itself meet the requirement that the claims of Fan are supported by the ’810 provisional in compliance with 35 U.S.C. § 112, first paragraph.
+
+In the subsequent briefing on Dynamic Drinkware, Petitioner argued that it made a prima facie showing that Fan is prior art to the ’794 patent and that Patent Owner never demonstrated that the ’794 Patent was entitled to an earlier filing date, and that Patent Owner waived its argument that the claims of Fan are not supported by the ’810 provisional. Patent Owner responded that Petitioner did not put Patent Owner on notice as to Petitioner’s prior art theory, and, therefore, did not meet its burden of production.
+
+The Board concluded that Patent Owner had the better position, noting there was no argument in the Petition that the ’794 Patent was not entitled to the earliest possible effective filing date. Therefore, the Petition put Patent Owner on notice that Petitioner was relying on Fan with an effective filing date of the ’810 provisional. Further, Patent Owner argued in its Response that Fan was not entitled to the effective filing date of the ’810 provisional, therefore, Patent Owner met its burden. Finally, Petitioner did not meet its burden of demonstrating that Fan was entitled to the effective filing date of the ’810 provisional.
+
+Petitioner also argued that Dynamic Drinkwareis inapplicable because it dealt with issued patents, not published applications, such as Fan. The Board was not convinced by this argument.
+
+Ariosa Diagnostics, Inc. v. Illumina, Inc., IPR2014-01093
+
+Paper 69: Final Written Decision
+
+Dated: January 7, 2016
+
+Patent: 7,955,794 B2
+
+Before: Lora M. Green, Zhenyu Yan, and Tina E. Hulse
+
+Written by: Green
+
+Related Proceedings: Illumina, Inc. v. Ariosa Diagnostics, Inc., No. 3:14-cv-01921 (N.D. Cal.); IPR2015-01091

@@ -1,0 +1,61 @@
+As the total amount of money spent on lobbying continues to fall, many analysts — including the staff at the Center for Responsive Politics — cite congressional gridlock as a cause of the decline. The 113th Congress, one of the least popular in history, is known for its apparent inability to pass legislation. Given the perceived ineffectiveness of Congress, it may be no surprise that the amount spent on lobbying – which is usually undertaken to influence members of the House and Senate — has declined. While a lobbying campaign could have resulted in the passage of a bill or a helpful earmark in the past, those who pay the lobbyists’ bills may find a gridlocked Congress to be an unappealing target. When faced with decisions about how to spend limited funds, clients may not be willing to gamble on Congress to come through for them.
+
+But the notion that lobbying dollars might flow more freely when Congress is passing many bills, though plausible, is untested. In this report, the second in our series documenting the decline in lobbying, we looked at whether the data actually supports the explanation that lobbying increases when Congress is productive. The results are a decidedly mixed bag.
+
+Congressional productivity and lobbying dollars
+
+If we want to see whether lobbying clients will spend more money during times when Congress is more active, we are faced with a conundrum: How does one measure congressional productivity? In the 111th Congress, lawmakers passed 861 bills, but many of those were largely symbolic pieces of legislation, like the renaming of a post office or the commemoration of some famous individual. More interesting to us is the number of substantive bills passed by Congress, which can do anything from reducing tariff rates to radically restructuring the U.S. healthcare system. That, too, though, is probably a poor measure of productivity, because a bill like the Affordable Care Act of 2009 may involve more debate and affect a significantly larger number of lobbying clients than a simple cut in an import tariff on a specialty chemical.
+
+Simply charting the number of bills passed over the amount of lobbying dollars spent, by year, it is clear that a variety of other factors affect the amount of lobbying. (We can stipulate that we expect to see more bills passed in the second year of any Congress than in the first, as it takes time to draft and file legislation.) Most importantly, the overall amount of lobbying spending has dramatically increased since 1998, even though the total has fallen in the last few years.This means that any basic exploration of the relationship between the number of bills and the amount of lobbying is likely to be skewed by the strong upward trend in increasing lobbying dollars. In fact, the amount of lobbying money spent is actually negatively correlated with the number of bills in Congress, indicating that when Congress is passing more bills, lobbying dollars decrease. That seems counterintuitive, and calls for more probing.
+
+(If you’d prefer not to read our methodology, skip to just below the next table)
+
+To really explore the relationship between congressional productivity and the amount spent on lobbying by companies and other parties, we need to consider the many other factors which could cause lobbying expenditures to rise or fall. In this case, we want to figure out whether the total spent on lobbying is influenced by the number of bills passed by Congress. However, there could be other factors that affect the level of lobbying expenditures, like whether it is the second year of a Congress, or whether members of Congress were allowed to use earmarks. In social science lingo, the total amount of lobbying is a dependent variable, meaning that it is affected by a variety of “independent” variables (like the number of bills in Congress).
+
+In circumstances where many independent variables affect a single dependent variable, we need to “model” the relationship between the dependent variable and the independent variables. Factors which could affect the dependent variable but are not of interest are a special kind of independent variable known as a control. By adding control variables to a model, it allows us to see whether the independent variable of interest — in this case the number of bills passed by Congress — has any affect on the amount of lobbying even accounting for a variety of other explanations for lobbying.
+
+For us, one of the strongest independent variables is simply the passage of time. Some dependent variables always grow (think the U.S. GDP because of inflation), and lobbying activitiy looks like it might be one of those kinds of variables. Given this, we can’t safely just use the total amount of lobbying as our dependent variable. Instead, we took the difference between two years as the dependent variable. This means that when lobbying increases, our dependent variable will be a positive number, but when it decreases it will be negative.
+
+Our main independent variable of interest is the number of bills passed by Congress. In addition to that, we also include “dummy” (which means it is either “yes” or “no”) variables for whether Congress was allowed to use earmarks, whether the year was the second year of a Congress, and whether or not Congress was divided. We also include a measure of congressional disapproval, which ranged from 29 percent disapproval in 2002 to 81 percent disapproval in 2013.
+
+In the table, you can see the different variables, and whether they were “significant.” If the variable was significant, this means that there is only a 5 percent chance that a relationship between the independent variable and the dependent variable could have occurred by chance. If the variable is not significant, it means that we are not confident enough to say that the independent variable affects the dependent variable. All of these results are in the table below; the statistically-minded can click on the result to see more information.
+
+Dependent Variable Significant or Not?
+
+(Mouse over for values) Earmarks Allowed Significant! Congressional Disapproval Not Significant Second year of Congress Not Significant Divided Congress Not Significant Number of Bills Passed Not Significant
+
+​
+
+​
+
+The results of the analysis suggest that the number of bills passed in Congress is not related to the amount of money spent on lobbying. The only variable that significantly predicted the level of lobbying dollars was whether or not Congress had the ability to use earmarks. However, it could also just be the case that the years following the earmark ban just happen to be the years where lobbying decreased (which is true) and something else is the cause of the decline.
+
+Onward, then, to further research. Using the measure of the number of bills passed as the main explanatory variable is problematic, as it counts the passage of a tarrif bill as equal to the passage of an omnibus appropriations bill. One bill might attract lobbying interest from a single client, while the other may attract the attention of thousands.
+
+Even though it does not appear that the productivity of Congress has much to do with the waxing and waning of lobbying activities, it is still hard to believe that the spike in lobbying in 2009-2010 was unrelated to the flurry of attention given to major bills under consideration at that time. Due to the way clients disclose their lobbying activities, it is impossible to tell how much money a client spends on lobbying a specific bill or issue. However, we can see how many clients target a specific bill in a given year. A bill that attracts more attention would probably be considered a more important and significant bill, and it alone could spur significant lobbying activity.
+
+Since 2006, only 64 bills have attracted the lobbying attention of at least 10 percent of all lobbying clients. Seven bills were under consideration for multiple years in a Congress. The bill that attracted the most attention since 2006 was the American Recovery and Reinvestment Act of 2009 (also known as the “bailout”), on which 47 percent of all clients reported lobbying.
+
+Year Number of Clients Bill Name Percent Lobbied 2009 7473 American Recovery and Reinvestment Act of 2009 46.2% 2010 4368 Patient Protection and Affordable Care Act 30.2% 2009 4764 American Clean Energy and Security Act of 2009 29.4% 2010 4255 Dodd-Frank Wall Street Reform and Consumer Protection Act 29.4% 2010 4211 American Clean Energy and Security Act of 2009 29.1% 2010 4064 Unemployment Compensation Extension Act of 2010 28.1% 2011 3448 Disaster Relief Appropriations Act, 2013 26.5% 2012 2949 MAP-21 25.1% 2009 3556 America’s Affordable Health Choices Act of 2009 (and other versions of the health care overhaul) 22.0% 2008 3228 Emergency Economic Stabilization Act of 2008 21.1%
+
+All of the top six most lobbied bills were debated in 2009 or 2010, and with the exceptions of the Disaster Relief Appropriations Act (which was actually the federal budget in 2012) and the MAP-21 bill (another major funding package), all were debated before 2011, at which point the lobbying decline began.
+
+Year Bills lobbied by 10% + 2007 6 2008 11 2009 11 2010 12 2011 7 2012 9 2013 10
+
+The number of bills attracting at least 10 percent of all lobbying clients did, indeed, peak in 2010 at the same time the overall lobbying total peaked, but the decline since then has not been particularly dramatic. However, it does appear as that the number of “major” bills has declined slightly since the heyday in 2009 and 2010.
+
+Changing patterns of political activity
+
+Another explanation for the decline in lobbying is that clients have chosen to send their money not to K street lobbyists, but to members’ campaign coffers. Of the top 500 lobbying clients from 2009, 400 had affiliated PACs which contributed to candidates in the 2010 and 2012 cycles. Were those clients ramping up their PAC contributions as they cut back their lobbying expenditures?
+
+The data does not suggest that’s what happened. Of 399 clients who have data in both time periods, only 72 have decreased their lobbying (relative to the average decrease) while increasing their PAC spending (relative to the average increase), indicating that companies inclined to decrease their lobbying also decreased their spending. Generally, “consistent” behaviors were more common, with companies tending to increase both their lobbying and PAC contributions or decrease both over the time period.
+
+Changes in spending Number of Clients Increase Lobbying/Decrease PAC 107 Increase Lobbying/Increase PAC 115 Decrease Lobbying/Decrease PAC 105 Decrease Lobbying/Increase PAC 72
+
+Conclusions
+
+Three findings emerged from our analysis: One, earmarks disappeared at the same time the lobbying decline began, and holding a variety of other factors constant seems to indicate that the earmark ban may be significantly related to the decline. Our second finding is that Congress considered a larger than usual number of “major” bills right as the lobbying peak occurred, and this could be related to the increase in lobbying spending. Finally, it does not appear that companies have shifted their attention to political giving instead of lobbying. Companies that increased their lobbying activity (or kept it stable) also increased their campaign spending, and vice versa.
+
+It does seem clear that congressional productivity (as measured by the number of bills), or lack thereof, is not the cause of the decline. This finding, while helpful, does not tell the whole story. Often, lobbying clients seek to block new legislation and rules changes because they want to avoid greater regulation of their industry.
+
+These findings all help to explain the decline in lobbying, but none stand alone. We hope to explore further explanations for the decrease in lobbying spending in more detail in future reports in this series.

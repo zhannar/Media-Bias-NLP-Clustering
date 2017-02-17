@@ -1,0 +1,47 @@
+Doctor Atul Gawande wants to kill his fax machine -- not just for himself, but on behalf of physicians everywhere.
+
+For Gawande, a Harvard professor and surgeon at Brigham and Women’s Hospital in Boston, fax machines are a mechanical manifestation of all that’s inherently wrong with the healthcare industry. They're antiquated, ineffectual and offer a decidedly poor return on investment.
+
+“We will know that the [health] system has changed when...number one, what I mentioned at the first Health Datapalooza I came to, whether I still have a fax machine,” Gawande said in his keynote address at the 2014 Heath Datapalooza.
+
+The conference, created by U.S. CTO Todd Park to promote innovative data uses in healthcare, drew an energized crowd of more than 2,000-plus entrepreneurs, data geeks and government officials who — like Gawande — want to disrupt healthcare management with better data solutions. Eliminating the need for fax machines through electronic health records was just one of the event’s talking points.
+
+The three-day event held earlier this week in Washington, D.C., was motivational, educational and controversial -- with touches of humor mixed with inspirational monologue.
+
+Outgoing U.S. Health and Human Services Secretary Kathleen Sebelius grabbed some of the spotlight to give one of her final talks before exiting her position. Park made an appearance to unveil the U.S. Food and Drug Administration’s new open data portal openFDA. The event also drew a diversity of healthcare insiders like U.K. Secretary of State for Health Jeremy Hunt and Dartmouth’s Institute for Health Policy & Clinical Practice Director Elliott Fisher, along with investors such as multimillion dollar venture capitalist Vinod Khosla, of Khosla Ventures.
+
+Here are some major takeaways from the conference:
+
+1. Health Data’s Four Super Trends
+
+Dressed in a gray suit and red tie, Park strode to the stage to offer a state-of-the-union style address on the impact of data innovation in healthcare. He singled out four trends the Obama administration has identified and intends to cultivate.
+
+• An emerging shift toward healthcare purchasing models that reward providers for positive health outcomes: In the past, Park said patient quantity determined success; now, he said it’s becoming more about good care. As evidence, Park submitted the fact there are about 350 Accountable Care Organizations serving more than 5 million Medicare beneficiaries. Each ACO is a group of doctors, hospitals and other healthcare providers that collaborate to give high quality cost-effective care to Medicare patients covered under the Affordable Care Act in return for shared savings.
+
+"While still in its infancy this work collectively signals a fundamental shift in how this country will pay for health care to a paradigm where you pay not for volume but for value, for better outcomes," Park said.
+
+• A rising wave of electronic health records: In 2009, when President Obama took office, Park said only 1 in 8 hospitals used EHRs. Today, more than half of hospitals use them. “No longer is a record of description a photocopy, now it’s bits and bytes of machine readable goodness,” Park said.
+
+• Patient access to records: More than 150 million Americans can access their own health information, and most recently, Park said HHS has extended patient reach by allowing direct access to lab results.
+
+• Open data growth in health care: HHS and the Centers for Medicaid & Medicare Services have released more than 1,000 data sets since 2009. These open records on spending and services are supporting entrepreneurial activity and economic growth, Park said.
+
+2. Data Analytics May Replace Your Doctor
+
+Khosla, a Silicon Valley billionaire, paced the stage Tuesday to elaborate on his long held forecast that data analytics inevitably will replace many functions performed by doctors. He predicts at least 80 percent of the decision-making activities performed by human doctors eventually will be turned over to data-analyzing computers and backed by investors supporting the technology. Anticipating blowback from doctors, Khosla said his observation meant no disrespect, but was an objective evaluation that the human mind cannot process what a computer can through health monitoring metrics and statistical analysis.
+
+Khosla said data science will have even greater impact on health care in the coming years than biological research. “Data-driven findings will uncover patterns in clinical data and algorithmically create new clinical guidelines using practice-based evidence,” he said.
+
+3. What 2014 Says About Healthcare
+
+Gawande said the Afordable Care Act -- love it or hate it -- settled the argument over universal health care in the United States. He likened the direction as an answer to a “moral demand.”
+
+"It's not a question of whether we'll do it. Now it's a question of how we'll do it," he said.
+
+Gawande said the state of healthcare in 2014 is a call for great reforms. Historically, he pointed out, healthcare costs have risen with innovations in services. However, for the past decade, patient mortality rates have not improved and costs have jumped. Complicating matters, Gawande said his own research shows that five percent of the population account for 50 percent of all health care costs, and it’s often the case that the sickest patients receive the worst medical care.
+
+He called on entrepreneurs and developers to integrate data into every nook of the healthcare industry. "What you're creating, and what you're part of creating are new systems [for medical care]," he said.
+
+4. Open Data Launches
+
+Apart from the event’s forecasts, appeals, observations and calls to action, there was a fair amount of news about open data launches. Park announced the U.S. Food and Drug Administration’s new web portal openFDA that is expected to publish millions of adverse event records and product recall information throughout the summer. Similarly, CMS released state and county per capita spending data for Medicare beneficiaries, along with an update to its inpatient and outpatient charges for 2012. A major takeaway from the CMS data shows that in 2012 northern and western states were spending notably less than states in the south and midwestern regions of the nation. The national average per capita charge amounted to $8,973. The three highest-spending states included Louisiana at $10,843 (21 percent higher than average), Florida at $10,728 (20 percent above average) and Texas at $10,503 (17 percent above average).

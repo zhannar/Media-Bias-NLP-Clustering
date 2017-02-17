@@ -1,0 +1,147 @@
+Diabetes-related hospital charges are driven by complications, hospital misadventures, procedures, and other patient and discharge characteristics. Readmission charges are not different from initial admission charges.
+
+Zhen-qiang Ma, MD, MPH, MS, and Monica A. Fisher, PhD, DDS, MS, MPH
+
+Objectives
+
+To evaluate the characteristics driving higher diabetes-related hospitalization charges.
+
+
+
+Methods
+
+Hospital discharge data on 216,858 hospitalizations from 2001 to 2011 with primary discharge diagnosis of diabetes were linked to the Pennsylvania death registry. Multiple linear regression analysis was used to evaluate the association between inpatient hospitalization charges and complications, sociodemographic status, comorbidities, readmission, length of stay, admission type, region, procedures, payer type, and hospitalization misadventures.
+
+
+
+Results
+
+Diabetes-related adjusted hospitalization charges were higher for those with long-term complications [renal manifestations (75%), peripheral circulatory disorders (38%), neurological manifestations (30%), ophthalmic manifestations (16%)], acute complications [ketoacidosis (48%), hyperosmolarity (41%), coma (40%)], amputations (91%) or other medical procedure(s) (70%), emergency/urgent admissions (7%), comorbidity (3% per modified Charlson Comorbidity Index score item), medical misadventure (20%), different regions [Philadelphia (135%), and Pittsburgh (8%)], and for minorities [non-Hispanic black (12%), Hispanic (21%), and non-Hispanic other (14%)]. Readmission adjusted charges were not different from the initial admission charges.
+
+
+
+Conclusions
+
+To reduce diabetes-related hospitalizations and curb hospitalization charges, public health and healthcare policy makers should be cognizant of high-impact drivers: diabetes-related complications, unnecessary procedures, race/ethnicity, and region. Inpatient are should focus on preventing unnecessary readmissions and misadventures. These findings are timely as the Affordable Care Act reduces Medicare payments to hospitals with high readmission rates, and as states consider Medicaid expansion.
+
+• Diabetes complications, medical procedures, region, race/ethnicity, and medical misadventures are major drivers of diabetes-related hospitalization charges. Age, admission type, payer type, and comorbidities are also independent drivers of these charges.
+
+
+
+• Evidence-based clinical pathways, policy changes that reduce medical misadventures and assess discharge readiness, and improving quality of follow-up care after discharge should reduce unnecessary charges and readmissions.
+
+
+
+• Future research is needed to investigate why hospital charges differ by region, payer type, and race/ethnicity, after simultaneously taking into account 16 contributing factors. Multiple linear regression analyses of factors driving diabetes-related hospitalization charges are sparse, but essential when making managed care decisions regarding healthcare reform.
+
+Diabetes is an important public health problem, affecting an estimated 25.8 million Americans (8.3% of the US population) as of 2010.1 In Pennsylvania, our area of focus, the prevalence of adults diagnosed with diabetes has considerably increased, almost doubling from an estimated 500,000 (5.5%) in 1994 to 941,000 (9.7%) in 2010.2,3 In addition to the morbidity and mortality burden, the economic burden of diabetes in the United States was estimated as $174 billion in 2007, including direct medical costs of $116 billion and indirect disability, work loss, and premature mortality costs of $58 billion.1 The average medical expenditures for those with diagnosed diabetes are 2.3 times higher than the expenditures for those without diabetes.1
+
+
+
+Hospitalization costs are a major contribution to the healthcare costs of those with diabetes,4 exacerbated by the economic burden of poor management. Data regarding the characteristics that drive higher hospitalization charges are sparse, but they are crucial; the Affordable Care Act (ACA) began reducing Medicare payments to hospitals with high readmissions rates during Fiscal Year 2013.5 Comprehensive evaluations that quantify the multiple patient and hospital factors that independently drive the variation in diabetes hospital charges are scarce. Studies designed to address this gap in knowledge can facilitate the rendering of more informed data-driven decisions. The data reported herein add to the scientific evidence by providing such adjusted diabetes hospitalization charges. We simultaneously consider complications, sociodemographic status, comorbidities, readmission, length of stay (LOS), admission type, region, procedures, payer type, and medical misadventures.4,6-8
+
+
+
+By investigating this question—“What patient and discharge characteristics independently drive hospitalization charges related to poor diabetes management in Pennsylvania?”—the study’s objective was to provide much-needed relevant data for states as the ACA reduces Medicare payments to hospitals with high readmissions, and as states consider expansion of Medicaid. The analytic approach simultaneously takes into account all patient and hospitalization factors associated with hospitalization charges: acute and chronic complications, comorbidity, sociodemographic status, readmission, LOS, admission type, region, procedures, payer type, and medical misadventure. Such an approach allows healthcare policy makers and decision makers to develop evidence-based approaches that target the high-impact drivers of hospitalization charges.
+
+
+
+MATERIALS AND METHODS
+
+
+
+Study Population
+
+
+
+A diabetes-related hospitalization was defined as a patient hospitalized with a primary diagnosis of diabetes (all 250 codes in the International Classification of Diseases, Ninth Revision, Clinical Modification [ICD-9-CM]) at discharge in the Pennsylvania Health Care Cost Containment Council (PHC4) data set during the period of 2001 to 2011, with a total hospitalization room charge greater than $0 and an LOS less than 90 days. PHC4 data were linked to Pennsylvania vital statistics death certificate data by PHC4, using patient identity match algorithms to get death information.
+
+
+
+Description of Hospitalization Charge Outcome (dependent variable)
+
+
+
+Hospitalization charge was defined as the total charge related to the hospital stay with a primary diagnosis of diabetes excluding professional fees. This includes room and board charges, ancillary charges, drug charges, equipment charges, specialty charges, and miscellaneous charges.
+
+
+
+Description of Patient and Discharge Characteristics (independent variables)
+
+
+
+Complications: Derived from the fourth digit of the primary and all 8 secondary diagnoses ICD-9-CM codes, and were grouped into the following categories: no complication, coma, hyperosmolarity, ketoacidosis, renal manifestations, neurological manifestations, ophthalmic manifestations, peripheral circulatory disorders, other complications, and 2 or more complications. These are based on the Agency for Healthcare Research Quality (AHRQ) Prevention Quality Indicators (PQI) technical specifications, version 4.4.9
+
+
+
+Year: Inpatient hospitalization year at date of admission, from 2001 to 2011.
+
+
+
+Age: Patient age in years at time of hospitalization. Categorized as <20, 20 to 34, 35 to 44, 45 to 64, ≥65 years.
+
+
+
+Race/Ethnicity: Patients were categorized as non-Hispanic white (NHW), non-Hispanic black (NHB), non-Hispanic other race (NHO), and Hispanic. If race/ethnicity was missing for a record, it was inputted from a previous or subsequent record in the data set.
+
+
+
+Gender: If gender was missing for a record, it was inputted from another record in the dataset.
+
+
+
+Diabetes type: Type 1 diabetes (T1DM) or type 2 diabetes (T2DM) was defined based on the last digit of the primary ICD-9-CM diagnosis code; an even number is T2DM, an odd number is T1DM.
+
+
+
+Readmission: Readmission days were calculated from the previous hospitalization discharge date with a primary discharge diagnosis of diabetes. Readmissions were categorized as 1 to 7 days, 8 to 14 days, 15 to 30 days, after 30 days, and first admission. Year 2000 data were consulted to ensure that all hospitalizations could be assessed as a new hospitalization or readmission for a minimum of 1 year.
+
+
+
+Mortality status: Patients with discharge status of “expired” or having the same discharge date and death date on their death certificate were defined as “death at discharge.” Based on the difference between death date and the discharge date, others were categorized as either death between 1 and 7 days after discharge, and alive after 7 days of discharge.
+
+
+
+Primary payer type: Categorized as commercial, Medicaid, Medicare, uninsured, and other.
+
+
+
+Admission type: Defined as the hospital admission’s level of urgency; 1) Emergency department (ED)/urgent admissions were defined as such when the patient required immediate medical intervention as a result of severe, life-threatening, or potentially disabling conditions; urgent admissions were noted when the patient required immediate attention for the care and treatment of a physical or mental disorder; 2) Elective admissions were defined as cases in which the patient’s condition permitted adequate time to schedule the services.
+
+
+
+Admission day of week: Categorized as weekday versus weekend.
+
+
+
+Region: Facility region was categorized as Philadelphia (includes the surrounding 4 counties of Chester, Montgomery, Bucks and Delaware); Pittsburgh (includes Pittsburgh city, Allegheny County, and the 7 surrounding counties of Armstrong, Beaver, Butler, Fayette, Greene, Washington, Westmoreland), or other (the rest of the state of Pennsylvania).
+
+
+
+Procedures: Defined based on the primary and 5 secondary procedure codes, then further categorized as no procedure, amputation, and procedures other than amputation.
+
+
+
+Medical misadventure: Defined as the patient having external causes of injury and poisoning based on the presence of one or more codes between E870 and E879. These include misadventures to patients during surgical and medical care (E870-E876), and surgical and medical procedures as the cause of abnormal reaction of patient or later complication, without mention of misadventure at the time of procedure (E878-E879).
+
+
+
+LOS: The number of hospitalization days with a maximum of 90 days; LOS of 0 was recoded to 0.5 to avoid counting partial-day admissions as 0.
+
+
+
+Modified Charlson Comorbidity Index (CCI): Predicts 10-year mortality based on weighted scores ranging from 0 to 35 for 19 conditions.10,11 All 8 secondary diagnoses were considered in the calculation of the CCI. Diabetes was excluded from the weighted score so the impact of diabetes would not be double-counted; all the hospitalizations we assessed were related to diabetes.
+
+
+
+Statistical Analyses
+
+
+
+Descriptive analysis: Total number of hospitalizations and average hospitalization charges were calculated by year, complication, age group, race/ethnicity, gender, diabetes type, readmission status, mortality status, primary payer type, admission type, admission day of the week, region, procedure(s), and medical misadventure. Average LOS and modified CCI were also calculated.
+
+
+
+
+
+PDF is available on the last page.

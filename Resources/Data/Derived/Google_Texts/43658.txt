@@ -1,0 +1,19 @@
+The Internal Revenue Service is suspending an online service to retrieve special personal identification numbers (PINs) after it found 800 fraudulent returns that used such numbers. The news comes after the agency reported a hack attack last month and received a report about the inadequate way it backs up data.
+
+The IRS this year mailed Identity Protection PINs to 2.7 million taxpayers who have been or could be victims of tax-related identity theft. These PINs were designed to add another layer of protection for the taxpayer, who must use the number to file an electronic or paper tax return. (These IP PINs are not the same as the e-file PINs that taxpayers use to file their returns electronically.)
+
+Taxpayers who lost or forgot their IP PINs could retrieve them on the IRS website after correctly answering four questions from Equifax, the credit reporting agency, to prove their identity. This is the service that the IRS is temporarily suspending. Taxpayers now must call the IRS to retrieve a misplaced or forgotten IP PIN.
+
+Related: 10 Tips to Protect Yourself From Scammers This Tax Season
+
+The respected security blog, KrebsOnSecurity, noted that the authentication questions from Equifax often involved information that could be found on Zillow or Facebook, allowing criminals to get the IP PIN, file a fraudulent return and get a tax refund in someone else’s name.
+
+The blog also noted that the number of victims could go up significantly from the 800 reported by the IRS. It said the agency in the past has revised victim numbers upwards after similar security breaches, like the one involving its “Get Transcript” feature last year.
+
+“The IRS originally said a little over 100,000 people were impacted by the Get Transcript weakness, a number it later revised to 340,000 and last month more than doubled again to more than 700,000 taxpayers,” the blog stated.
+
+Related: Tax Trouble: 32 Celebrities Who’ve Tangled With the IRS
+
+The IRS has already been dealing with other security issues this tax season. In February, it said that hackers used malware to generate 101,000 e-file PINs, which are used by some filers to submit their tax returns electronically.
+
+This week, the Treasury Inspector General for Tax Administration released a report that said the agency needs to improve how it backs up and restores information such as emails, personal and shared files and taxpayer information. The report said the data could be lost and unrecoverable if it’s not backed up properly.

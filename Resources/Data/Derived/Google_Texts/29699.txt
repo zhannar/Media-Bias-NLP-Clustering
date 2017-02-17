@@ -1,0 +1,17 @@
+If you've received an email about the Affordable Care Act recently, be careful. It could be a fake. Hackers have sent out the bogus email to try and trick you into downloading malware that could swipe all the money from your bank account.
+
+The Department of Labor sent out a real email last month that included information about updates to its Affordable Care Act page, but now it looks like hackers have used that legitimate email as a template for a new scam. The fake email includes a link to a site that will prompt you to download malware.
+
+-advertisement-
+
+The security experts over at Naked Security spotted the bogus email. It uses similar language to the original email and even includes the Department of Labor logo and other similar formatting. But, instead of summarizing the changes to the Affordable Care Act page, it tells you to follow a link to download more information.
+
+The "FOLLOW LINK" link is your first sign of trouble. Links embedded in emails usually aren't good news and are one of the signs to look for if you think an email might be a scam. If you hover the mouse over the link, you'll also see that it doesn't go to a government website.
+
+If you follow the link, you're encouraged to download a PDF called health_​coverage_​webcast.pdf, but the file that actually downloads is health_​coverage_​webcast.pdf.scr. The program then installs Vawtrak, malware that can steal your information and gain access to your bank accounts.
+
+
+
+Here's the fake Affordable Care Act email that Naked Security discovered.
+
+Sadly, fake scam emails aren't rare. Believe me, I get more than a few in my inbox. Click here to look at a few tips you can use to spot a bogus email.

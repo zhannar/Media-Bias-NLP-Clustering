@@ -1,0 +1,25 @@
+Jeremy Howard is the founder and CEO of Enlitic, a company that uses "machine learning" to improve medical diagnostics. In December, he gave a TED Talk on "the wonderful and terrifying implications" of an algorithm known as "deep learning," which processes huge amounts of data in order to teach itself to understand pictures, read words, speak foreign languages, and more. Deputy Managing Editor Stephanie Slade spoke with Howard in January.
+
+Q: Are computers that can learn a good or a bad thing?
+
+A: In the last five years [deep learning] has become about 10,000 times faster and about 10 times more accurate at understanding the content of images. We're just starting to see it go down the same path at understanding human language. Overall, my expectation is that computers are on their way to becoming very good at a full range of perceptual capabilities.
+
+Is this a good thing or a bad thing? It just depends how it's used. It could be a wonderful thing, because it could allow us to spend our time doing the things we want to do rather than the things we have to do, which is, I think, what humanity has been aiming at for thousands of years. But on the bad side, that by definition puts people out of jobs. Eventually, it puts everybody out of a job.
+
+Longer term, when you have machines that are extremely capable, they can be either misused intentionally or misprogrammed unintentionally and create great harm.
+
+Q: What would you say is the most exciting application of this technology?
+
+A: For me, the most immediate one is in medicine. Medicine is currently more art than science. We describe it as the practice of medicine, not the science of medicine. Which is fine, but there is a lot of data that people have to bring together in order to make an appropriate diagnostic and treatment recommendation. With computers that can see and read, computers could potentially bring tens of millions of pieces of data together and make a good diagnostic or treatment decision. Not only could this make medicine far more accurate, but most excitingly for me, it could bring modern medicine to the billions of people in the world who currently don't have access to it because there's a huge shortage of expertise right now.
+
+The other very exciting short-term opportunity is robots. If you take the machine-learning algorithm and use it in software attached to some kind of "actuators"—engines and grippers and wheels and so forth—that's what we call a robot. And that has the ability to automate some of the most tedious and dangerous and unpleasant jobs.
+
+Q: You mention that at some point many if not all people will not be able to contribute economic value to society anymore.
+
+A: If we remove the idea of the soul, at some point in history [there's nothing that] computers and machines won't be able to do at least as well as us. We can argue about when that will happen. I think it will be in the next few decades.
+
+Q: No one will have to work anymore?
+
+A: Some very large percentage of the world. The vast majority of things that are necessary will have been automated.
+
+The question that is actually much more interesting is: What happens when we're halfway there? What happens when the amount of things that can't be automated is much smaller than the amount of people that exist to do them? That's this point where half the world can't add economic value. That means half the world is destitute and unable to feed themselves. So we have to start to allocate some wealth on a basis other than the basis of labor or capital inputs. The alternative would be to say, "Most of humanity can't add any economic value, so we'll just let them die."

@@ -1,0 +1,95 @@
+Best Practices für performanceoptimierte DevOps
+
+Etwa 80 Prozent der kritischen IT-Probleme werden von nur 20 Prozent aller Ursachenmuster ausgelöst. Dies zeigen diverse Untersuchungen und Expertendiskussionen. Die meisten Ursachenmuster hängen dabei mit Performance- oder Architekturproblemen in der Applikation selbst oder der darunter liegenden Infrastruktur zusammen. Die Folge: Gemäß einer aktuellen Studie werden 80 Prozent der Entwicklungszeit mit der Erkennung und Behebung von Problemen verschwendet. Daraus resultieren alleine in den USA geschätzte Gesamtkosten von etwa 60 Milliarden Dollar pro Jahr. Und dieser Aufwand für die Fehlersuche dürfte sich aufgrund der steigenden Komplexität durch Cloud-Angebote sowie der immer schnelleren App-Entwicklung vor allem für Mobilgeräte weiter erhöhen. Oft noch schlimmer als der finanzielle Verlust schmerzt aber der durch Abstürze und lange Reaktionszeiten ruinierte Ruf des Anbieters.
+
+Empfehlenswerte DevOps-Vorgehensweisen
+
+Es gibt viele Definitionen von DevOps. Der wichtigste Aspekt ist die „gelebte“ Kollaboration aller Entscheider in Softwareentwicklung, Test und Betrieb und die gemeinsame Verantwortung für alles, was zum Erfolg der Software führt. Das bedeutet, dass der Betrieb der Entwicklung zu verstehen gibt, wie die Betriebsumgebung wirklich aussieht, in der die Anwendung in Zukunft laufen wird und was es bedeutet, wenn Fehler auftreten. Der Betrieb wiederum muss sowohl den Testern als auch den Entwicklern dabei helfen, eine betriebsähnliche Umgebung zur Verfügung zu stellen. Die Entwickler müssen sich dazu verpflichten, dass ihre Software in dieser Umgebung stabil läuft.
+
+Eine Ausrede wie „Es läuft auf meiner Maschine“ gibt es dann nicht mehr. Außerdem sind die Entwickler gefordert, dem Betrieb dabei behilflich zu sein, automatische Deployment-Tools zu entwickeln, die sicherstellen, dass beim Aufziehen neuer Versionen nichts übersehen wird. Leider gibt es viele prominente Gegenbeispiele, bei denen genau das übersehen wurde. Diese könnten zukünftig verhindert werden. Im nächsten Schritt gilt es zusammen zu definieren, welche Daten aus dem Betrieb für Entwicklungs- und Testabteilung zugreifbar sind und welche Tools dafür verwendet werden. Mit diesen Daten kann man im Fehlerfall schneller auf Probleme reagieren. Außerdem können die Tester ihre Testszenarien um reale Anwendungsfälle erweitern.
+
+Ein prominentes Problembeispiel ist die Internetseite von „Obamacare“ für den Zugang zur Krankenversicherung in den USA.
+
+Trotz jahrelanger Vorbereitung stürzte sie kurz nach dem Start Ende 2013 mehrmals und nachhaltig ab. Um solche Peinlichkeiten zu vermeiden, sollte die Entwicklung von Anwendungen mit schlanken, flexiblen und lösungsorientierten Methoden erfolgen. Vor allem DevOps zur Integration von Entwicklung und Betrieb der Software bietet sich hierfür an, sollte aber mit einem Fokus auf Performance und kurze Reaktionszeiten aus Sicht des Nutzers erweitert werden. Doch was bedeutet das genau und wie lässt sich das umsetzen?
+
+Aufmacherbild: Magnifying glass over Obamacare policy and piggy bank von Shutterstock / Urheberrecht: zimmytws
+
+[ header = Seite 2: Diagnose der Obamacare-Webseite ]
+
+Diagnose der Obamacare-Website
+
+Nicht nur in den USA beherrschte der politische Streit über die neu eingeführte Pflicht zur Krankenversicherung die Schlagzeilen. Nach jahrelangen Diskussionen und diversen Gerichtsurteilen wurde Ende 2013 die Registrierungsmaske auf healthcare.gov für alle US-Bürger freigeschaltet. Kaum online, war sie aber auch schon wieder offline, denn sie hielt dem Ansturm der Eintragungswilligen nicht einmal ansatzweise stand. Das Portal wurde auch in den Wochen danach von Abstürzen, Blackouts, inaktiven Links und unverständlichen Fehlermeldungen dominiert. Schnell waren vier vermeidbare Fehler des neuen Portals identifiziert:
+
+die großflächige Nutzung von Inhalten, die durch Drittanbieter bereitgestellt wurden das Fehlen von Web Performance Optimization (WPO) und grundlegender Best Practices prozessaufwändiges JavaScript langsame serverseitige AJAX Requests
+
+Selbst nach dem anfänglichen Komplettzusammenbruch hatten die IT-Verantwortlichen in den folgenden Wochen nicht viel auf der Website ändern lassen. Nur aufgrund der geringer werdenden Nutzerzahlen stabilisierte sich das Angebot ein wenig. Dabei hätten ein paar einfache Maßnahmen genügt, um die Website dauerhaft und zuverlässig zu stabilisieren.
+
+Bei den Inhalten von Drittanbietern fiel beispielsweise auf, dass healthcare.gov verschiedene Real-User-Monitoring-Lösungen nutzte. Dafür mag es zwar gute Gründe geben, doch eine Konsolidierung der Lösungen sowie die Nutzung eines Monitoring-Tools, das viele Funktionen und Anwendungsmöglichkeiten bietet, hätte die Performance deutlich erhöht. Die Missachtung grundlegender Best Practices sah man beispielsweise an dem mit 350 KB sehr großen Hintergrundbild auf der Homepage. Mit kostenlosen Bildbearbeitungsprogrammen ließe es sich ohne Qualitätsverlust um mehr als 70 Prozent auf 99 KB reduzieren.
+
+Sogar 80 Prozent der JavaScript-Inhalte ließen sich reduzieren. Auf den meisten Seiten befanden sich zahlreiche JavaScript-Dateien – alleine 65 (!) auf der myAccount-Seite. Die Registrierungsseite enthielt sechzehn jQuery-bezogene JavaScript-Dateien mit einem Gesamtvolumen von 1 MB. Die meisten dieser jQuery-Dateien waren Entwickler- und Debug-Versionen, die noch sämtliche Kommentare enthielten. Die Zusammenfassung und Minimierung der JavaScript-Dateien hätte schnell zu höherer und zuverlässigerer Performance geführt. Alleine die Datei jQuery.DataTables.js wäre durch einen öffentlich verfügbaren Minimierer wie JS Compress [1] von 440 auf 83 KB geschrumpft.
+
+Zumindest bei den AJAX-Aufrufen waren nach wenigen Wochen Verbesserungen erkennbar. Während sie anfangs bis zu 16,8 Sekunden dauerten und mehrmals durchgeführt wurden, waren sie später deutlich schneller. Ob dies an einer echten Verbesserung der serverseitigen Performance lag oder an der geringeren Arbeitslast der Webseite durch eine höhere Abbruchrate der Nutzer, ließ sich nicht ohne größeren Aufwand ermitteln.
+
+An der Nachhaltigkeit von Verbesserungen waren zumindest leichte Zweifel angebracht. Wenige Wochen nach dem Go-Live hat Compuware den Nutzern in einem Fernsehinterview empfohlen, die neuesten Browserversionen zu verwenden, die schnellere JavaScript und Rendering Engines besitzen. In einem Test war klar erkennbar, dass etwa der Internet Explorer 10 deutlich schneller beim Parsing und der Ausführung von JavaScript war als die Version 9.
+
+[ header = Seite 3: Lektionen aus Obamacare ]
+
+Lektionen aus Obamacare
+
+Die Verantwortung für die vernünftige Nutzung einer Website sollte nie auf den Anwender abgewälzt werden. So muss erst der Anbieter seine Hausaufgaben erledigen und die WPO Best Practices befolgen. Dazu gehören:
+
+Die möglichst sparsame Nutzung von Inhalten, die über Drittanbieter bereitgestellt werden Umfassende WPO und die Befolgung grundlegender Best Practices wie minimierte Bild-, JavaScript- und CSS-Dateien Zusammenfassung verschiedener JavaScript-Dateien und deren Reduzierung Schnelle serverseitige AJAX Requests
+
+Mit diesen einfachen Mitteln erreicht der Anbieter in der Regel bereits schnell deutliche Verbesserungen. Anschließend empfiehlt sich ein umfassendes Application-Performance-Management zur weiteren Erhöhung von Geschwindigkeit und Zuverlässigkeit der Anwendungen. Dazu gehört die Einführung von synthetischem SLA-Monitoring zur Überwachung verschiedener Regionen sowie von Real User Monitoring zur Kontrolle der Performance aus Sicht des Nutzers. Beim synthetischen Monitoring werden an verschiedenen Stellen im Netzwerk und im Rechenzentrum Roboter installiert, die automatisch in definierten Intervallen immer wieder die gleiche Transaktion ausführen.
+
+Dies zeigt aber nur die grundsätzliche Funktionsfähigkeit der Komponenten. Ein echter Anwender hat dagegen ein völlig anderes Nutzungsverhalten. So werden beim Real User Monitoring tatsächliche Nutzer in die Analyse einbezogen. Dazu sind „Messfühler“ im Netzwerk installiert, um die Performance von Transaktionen aus Anwendersicht zu überwachen. Aus den eingehenden Datenpaketen lassen sich somit die Performancewerte sämtlicher Transaktionen für jeden Standort sowie jedes Gerät ermitteln und analysieren. Dies ermöglicht einen detaillierten Einblick in die Performance jeder Infrastrukturschicht wie Anwendungsserver oder Load Balancer sowie die Korrelation zwischen dem Datenverkehr im Frontend und Backend von Applikationen und der unterstützenden Netzwerkinfrastruktur.
+
+Über ein entsprechendes Dashboard können IT- und Businessverantwortliche dann genau erkennen, wie viele Nutzer, welche Standorte oder gar welche Transaktionen von einem konkreten Problem betroffen sind und welchen möglichen Einfluss dieses auf Geschäftsprozesse hat. Dabei erhalten verschiedene Abteilungsleiter unterschiedliche Sichten, damit sie möglichst schnell die Probleme priorisieren können. Zudem ermöglicht die Berechnung von Trends Vorhersagen zur zukünftigen Leistungsfähigkeit. Auch umfassende, regelmäßige Deep-Dive-Sessions lassen sich damit durchführen, um den Erfolg von Änderungen zu kontrollieren.
+
+Für eine ausreichende Performance der ausgelieferten Anwendungen ist die gesamte Lieferkette einzubeziehen, vom Rechenzentrum oder der Cloud bis hin zum Endgerät des Nutzers, denn an allen Stellen kann die Performance beeinträchtigt werden. So sollte eine Lösung installiert werden, die sämtliche Bereiche erfasst und auswertet. Ist dann eine Zuordnung auf einzelne Transaktionen und Nutzer möglich, lässt sich schnell die tatsächliche Ursache für Performanceprobleme lokalisieren. Aktuelle Monitoring-Lösungen zeigen nicht nur die Dringlichkeit in Form von möglichen Geschäftsauswirkungen an, sondern geben auch Hinweise zur Behebung und können die schnelle Problemlösung unterstützen, ohne dass der Anwender etwas davon bemerkt.
+
+Performance von Anfang an testen
+
+Betrachtet man die Hauptgründe dafür, warum Anwendungen langsam und instabil sind oder Entwicklungsteams sehr viel Zeit für die Behebung von Problemen sowie die Durchführung von Änderungen benötigen, fällt das fehlende Verständnis zwischen den Teams auf. Die Voraussetzungen für eine hohe Performance sind nicht allen beteiligten Teams klar und es gibt keine automatische Erfolgsbewertung. Hierfür gibt es jedoch eine Reihe von Möglichkeiten, die bereits erfolgreich in Unternehmen angewendet werden. Damit lassen sich die Ziele aller Teams abgleichen und deren bislang getrennte Arbeitsprozesse miteinander verbinden. Die oberste Priorität lautet dann: höchste Softwarequalität für den Nutzer.
+
+Die meisten Probleme bei Anwendungen entstehen in den Bereichen Performance und Stabilität. Daher sollten die entsprechend benötigten Architekturen zu den funktionalen Aufgaben für die agile Entwicklung hinzugefügt werden. Beispielsweise sollen 100 Nutzer gleichzeitig eine neue Suchfunktion bedienen können und eine Antwort innerhalb einer Sekunde erhalten. Eine Anforderung könnte dann lauten, dass die Anwendung beim Hinzufügen zusätzlicher Server skalieren kann und zusätzliche Lasten ohne höhere Antwortzeiten bewältigt.
+
+Einer der Gründe, warum solche Anforderungen nicht bereits während der Entwicklung gestellt werden, ist, dass Testbarkeit als Implementierungsaufgabe bei geänderten oder neuen Funktionen fehlt. Änderungen in der Software unterbrechen häufig Testskripte und eine Wiederherstellung erscheint in vielen Fällen als zu aufwändig. Die Prüfungen finden daher entweder zu spät statt oder werden manuell durchgeführt. Entsprechend sollte die Bedienoberfläche IDs für Felder nutzen, die nicht durch Layoutänderungen beeinflusst werden. Zudem sollten URL-Muster oder REST-Oberflächen bei verschiedenen Build-Versionen möglichst gleich bleiben. Damit lassen sich Anwendungen schon ab der Frühphase der Entwicklung regelmäßig und schnell testen.
+
+Eine weitere Voraussetzung dafür ist, dass sich die Anwendung oder Funktion schnell installieren lässt. Die Entwickler müssen daher Testern und Betriebsverantwortlichen automatische Installationsprozesse für Softwarekomponenten bereitstellen, die das Set-up von Testumgebungen beschleunigen sowie die Qualität von Produktionsrollouts erhöhen.
+
+[ header = Seite 4: Devs, Test, Ops und Business müssen voneinander lernen ]
+
+Devs, Test, Ops und Business müssen voneinander lernen
+
+Neben technischen Optimierungen ist auch eine effiziente organisatorische Basis nötig, um schnell auf Veränderungen oder Probleme zu reagieren. In vielen Unternehmen arbeiten die an der Softwareentwicklung beteiligten Bereiche Entwicklung, Test, IT- und Geschäftsbetrieb (Dev, Test, Ops, Business) voneinander getrennt. Die Teams müssen jedoch miteinander verbunden werden. Der erste Schritt besteht darin, Test und Ops zu den täglichen Entwicklermeetings einzuladen. So erfahren sie, woran gerade gearbeitet wird und was geplant ist. Die Devs sollten auf das Feedback der anderen Abteilungen hören und es in die Aufgaben einbauen, z. B.: „Entwicklung einer automatischen Deployment-Option für Funktion XYZ“ oder „neue REST-Schnittstelle TESTABLE“. Auch bei der Architektur sollte der externe Input berücksichtigt werden, etwa Anregungen dazu, welche Datenbanken oder Logging-Server wünschenswert sind.
+
+Entwickler können von Testern und IT-Betrieblern einiges lernen, weil diese Erfahrungen zu Performance, Skalierbarkeit und Deployment-Szenarien besitzen. Andererseits können Tester und Ops von den Devs lernen, wie automatische Deployment-Tools für Test- und Produktionsumgebungen erstellt werden. Damit verringern sie den Aufwand für jedes neue Test- oder Produktions-Deployment. Eine enge Zusammenarbeit gemäß DevOps ermöglicht es allen Teams, die benötigten Tools zur Messung von Performance und Skalierbarkeit neuer Funktionen sowie zum Sammeln von Diagnoseinformationen oder Erfolgsmessungen für das Business zu ermitteln. Die gemeinsame Verwendung dieser Tools erhöht die Akzeptanz der Messergebnisse und verbessert die Zusammenarbeit zwischen den Teams. So werden die Verständnislücken zwischen Test, Dev, Ops und Biz geschlossen. Zudem verhindert diese enge Zusammenarbeit auch das übliche Schwarze-Peter-Spiel, in dem die Verantwortung für Fehler zwischen den Abteilungen hin- und hergeschoben wird, ohne dabei einen konkreten Lösungsversuch zu entwickeln.
+
+Fortschritt und Erfolg lassen sich aber nur anhand überprüfbarer Fakten messen. Code Coverage etwa sagt Entwicklern und Testern, wie gut ihre Testumgebung ist. Zudem wollen Ops wissen, ob sie zumindest so hoch ist wie bei der letzten erfolgreichen Installation. Die Messung und Veröffentlichung dieser Werte für alle beteiligten Teams ist wichtig, damit diese die Auswirkung ihrer Arbeit auf die Ziele anderer Teams besser verstehen. Zudem fördert dies das Vertrauen, dass die Tätigkeiten anderer Abteilungen sie bei der Erreichung ihrer eigenen Ziele unterstützen.
+
+Aus Sicht der Entwickler sollten beispielsweise die eingangs erwähnten Problemmuster vermieden werden. Falls bekannt ist, dass die Ausführung zu vieler Datenbankabrufe pro Anfrage ein Problem darstellt, sollte die Anzahl der Datenbankprozesse für alle Produkt- und Integrationstests gemessen werden. Ein Frühwarnsignal für Ingenieure ist die Erhöhung des SQL Counts aufgrund aktueller Codeänderungen. Erhält der IT-Betrieb die entsprechenden Zahlen und sieht er dadurch, dass der Datenbankverkehr trotz neuer Funktionen nicht erhöht wird, muss er auch nicht prophylaktisch die Kapazität der Datenbankserver erweitern.
+
+Für den Betrieb ist es auch wichtig, Installationen schnell und erfolgreich durchzuführen. So stellt die Deployment-Zeit ein entscheidendes Kriterium dar, das deutlich durch neue Funktionen und Architekturen beeinflusst wird. Falls sich die Installationszeit dadurch erhöht oder zu viele Abstürze ausgelöst werden, müssen diese den Entwicklern kommuniziert werden. Weitere wichtige Kriterien sind z. B. Antwortzeiten, MBs pro Nutzung, Anzahl der Log-Zeilen oder Dauer der Wiederherstellung.
+
+Weitgehende Automatisierung
+
+Die übergreifende Zusammenarbeit der Teams nach DevOps führt zu einer beschleunigten Entwicklung von Anwendungen und Funktionen, um schneller auf Probleme oder Marktanforderungen reagieren zu können. Um noch schneller zu werden, ist ein hohes Maß an Automatisierung nötig, denn jeder manuelle Prozess kostet Zeit. Daher ist es wichtig, alle bislang erwähnten Bereiche zu automatisieren, seien es die Performance- und Skalierbarkeitstests, Deployments oder Skalierungsmöglichkeiten. Das bedeutet auch, dass die von jedem Team definierten Metriken automatisch ermittelt und an jeden beteiligten Mitarbeiter kommuniziert werden.
+
+Daher sollten Unternehmen in Testtools investieren, die sich einfach integrieren lassen und automatisch Performancewerte wie Antwortzeiten oder Architekturwerte wie die Anzahl der SQL Statements liefern. Dies erfordert Tools, die automatische Bündelung und Deployments sowie Rollbacks erlauben. Die entsprechenden Tools sollten die Ergebnisse automatisch an einem zentralen und einfach zugänglichen Ort veröffentlichen, etwa einem Wiki oder Ticketsystem. Das Ziel lautet daher, möglichst alle Aufgaben entlang der Entwicklungs- und Deployment-Pipeline zu automatisieren.
+
+Wie sollte man damit anfangen? Am besten mit der Identifizierung der aktuell häufigsten und wichtigsten Problemursachen. Anschließend sollte man herausfinden, wie sich diese Probleme bereits in der Entwicklung erkennen lassen. Welche Messungen sind dann nötig, um diese Performance- und Architekturprobleme zu identifizieren? Welche Tests sind nötig, um diese Fehler zu erfassen? Und wie lässt sich der Code überwachen, um diese Probleme zu erfassen und sie automatisch an die Verantwortlichen weiterzuleiten? Erst wenn alle diese Fragen beantwortet und die entsprechenden Lösungen umgesetzt sind, führt DevOps tatsächlich zu einer bereits während der Entwicklung optimierten Anwendungsperformance.
+
+To-dos für optimiertes DevOps
+
+– „Gelebte“ Kollaboration, z. B. durch gemeinsame Stand-up-Meetings (tägliche Kurzbesprechungen, meist im Stehen)
+
+– Automatisierung von Testen, Deployment und Monitoring
+
+– Betriebsähnliche Umgebung für Entwickler und Tester
+
+– Definierte Abnahmetests, bevor in den Betrieb ausgefahren wird
+
+– Gemeinsam entwickelte Deployment-Tools
+
+– Gemeinsam definierter Monitoring-Ansatz für den Betrieb

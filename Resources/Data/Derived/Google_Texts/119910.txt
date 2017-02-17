@@ -1,0 +1,33 @@
+Top IT officials from U.S. President Barack Obama’s administration insisted HealthCare.gov is as secure as possible, despite questions raised from inside the government before the flawed website’s launch.
+
+A Sept. 3 memo from Tony Trenkle, CIO at the U.S. Centers for Medicare and Medicaid Services (CMS), raised six security concerns, including two open high-priority problems, less than a month before the agency launched HealthCare.gov, Republican critics of the Obama administration noted Wednesday.
+
+Republicans also pointed to a Sept. 13 CMS memo saying security vendor Mitre was unable to complete end-to-end security testing of the health-insurance website. CMS officials are still “ignoring” integrated security testing requirements for the website, said Representative Darrell Issa, a California Republican and chairman of the U.S. House of Representatives Oversight and Government Reform Committee.
+
+“On the day of the launch, and even today, there are material failures in the security of the Obamacare website,” Issa said during a committee hearing. “Hackers may have already, or may soon, find those vulnerabilities.”
+
+Security issues?
+
+Several Republican critics of the Affordable Care Act, the 2010 insurance-reform law known as Obamacare, questioned the security of HealthCare.gov during two separate hearings Wednesday morning. So far, critics of the law and its main website have been able to point to a single security incident, when one insurance applicant’s personal information was shared with a second user.
+
+Henry Chao, deputy CIO at CMS, and other Obama administration officials defended the security practices at HealthCare.gov during an often contentious oversight committee hearing. Despite a Sept. 27 internal memo raising concerns about a lack of end-to-end testing on the site, security testing is continually happening, Chao said.
+
+HealthCare.gov hasn’t had end-to-end testing because security testing has not been completed on some portions of the website that are not yet rolled out or have not yet been completed, Chao told the committee. “We are still building parts of the system,” he said.
+
+Asked if HealthCare.gov is as secure as a banking website, Chao answered: “It was designed, implemented, and tested to be secure.”
+
+Representative Patrick McHenry, a North Carolina Republican, asked if the website was “fully” tested to be as secure as other CMS sites.
+
+The website meets all federal data-security standards, said Chao, who earlier told committee staffers he did not see the Sept. 3 Trenkle memo.
+
+Launch decision questioned
+
+Several Republicans questioned why CMS launched the site on Oct. 1 when there were outstanding questions about security and functionality. Many users were unable to navigate the website in the days after the launch, with page time-outs and several other malfunctions.
+
+The problems persist a month-and-a-half after launch, Representative James Lankford, an Oklahoma Republican, said. Lankford tried to create an account on HealthCare.gov for about 90 minutes Wednesday morning with no success, he said.
+
+Still, Chao and Todd Park, CTO for the Obama administration, both declined to say whether they would have delayed the website’s launch, knowing what they know now. The decision to launch was not theirs, they both said.
+
+Some Democrats accused committee Republicans of raising security questions in an effort to discredit Obamacare. Republicans are trying “to scare Americans away from the website by once again making unsupported assertions about the risk to their personal medical information,” said Representative Elijah Cummings, a Maryland Democrat. “Nobody in this country believes that Republicans want to fix the website.”
+
+The effect of oversight hearing might be to “exaggerate the security difficulties of the website,” added Representative Jim Cooper, a Tennessee Democrat. “The entire Internet probably should be more secure.”

@@ -1,0 +1,17 @@
+Though a single night’s lost sleep may be regained, the chronic disruption of natural sleep patterns seen among shift workers may cause permanent harm to the brain.
+
+Dr. Sigrid Veasey, an associate medical professor at the Center for Sleep and Circadian Neurobiology at the University of Pennsylvania, says extended periods of sleeplessness may damage or kill the locus coeruleus (LC) neurons — brain cells important to alertness and optimal thinking.
+
+"In general, we’ve always assumed full recovery of cognition following short- and long-term sleep loss," Veasey said in a statement. "But some of the research in humans has shown that attention span and several other aspects of cognition may not normalize even with three days of recovery sleep, raising the question of lasting injury in the brain. We wanted to figure out exactly whether chronic sleep loss injures neurons, whether the injury is reversible, and which neurons are involved."
+
+In a mouse model, Veasey’s team found the brain responded to short-term sleep deprivation to protect LC neurons from damage, but could not do so after a sustained period of disrupted sleep. The researchers compared mice after periods of normal rest, short wakefulness, or extended wakefulness in an attempt to recreate the sleep life of the average American shiftworker.
+
+Over the short-term, they found that LC neurons upregulated the sirtuin type 3 protein — known wonderfully as SirT3 — to protect against metabolic injury.
+
+Yet after several days of punishing sleep deprivation, the biology of the mouse model broke down. The SirT3 of the LC neurons, essential for energy production as well as a cellular process called redox response, gradually dissipated with increased cellular death. As many as one in four of these neurons died after the prolonged period of wakefulness, the researchers found.
+
+"This is the first report that sleep loss can actually result in a loss of neurons," Veasey said. “Particularly intriguing is, that the findings suggest that mitochondria in LC neurons respond to sleep loss and can adapt to short-term sleep loss but not to extended wake. This raises the possibility that somehow increasing SirT3 levels in the mitochondria may help rescue neurons or protect them across chronic or extended sleep loss.”
+
+Veasey said the study also demonstrated the importance of sleep to the brain on a molecular level, with mitochondria in the LC neurons seen now as essential for restoring metabolic balance brought by disrupted sleep patterns. The findings may help scientists develop therapies for sleep deprivation suffered by shift workers and others with sleep problems, by targeting SirT3.
+
+Source: Zhu Y, Fenik P, Zhan G, et al. Selective Loss Of Catecholaminergic Wake-Active Neurons In A Murine Sleep Apnea Model. Journal Of Neuroscience. 2014.

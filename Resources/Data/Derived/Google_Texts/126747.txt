@@ -1,0 +1,55 @@
+First question, of course:
+
+How will the new codes finally enable Obamacare—and of course Clintoncare, starting in 2017—to round us all up and intern us in FEMA camps?
+
+If I told you that, I'd have to kill you!
+
+So what's going on with medical codes and why is this big science-y news?
+
+So if you read the Wiki page, these codes are called ICD-10. Because this is the 10th revision of the International Statistical Classification of Diseases and Related Health Problems, or ICD. That's a medical classification list by the World Health Organization (WHO). It contains codes for diseases, signs and symptoms, abnormal findings, complaints, social circumstances, and external causes of injury or diseases. You can get an idea of how detailed this is and see some of the code and how it works in this table below or by clicking here:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Y92 - Place of occurrence of the external cause Y92.0 - Non-institutional (private) residence as the place of occurrence of the external cause Y92.00 - Unspecified non-institutional (private) residence as the place of occurrence of the external cause Y92.000 - is a specific ICD-10-CM diagnosis code Y92.000 Kitchen of unspecified non-institutional (private) residence as the place of occurrence of the external cause Y92.001 - is a specific ICD-10-CM diagnosis code Y92.001 Dining room of unspecified non-institutional (private) residence as the place of occurrence of the external cause Y92.002 - is a specific ICD-10-CM diagnosis code Y92.002 Bathroom of unspecified non-institutional (private) residence single-family (private) house as the place of occurrence of the external cause Y92.003 - is a specific ICD-10-CM diagnosis code Y92.003 Bedroom of unspecified non-institutional (private) residence as the place of occurrence of the external cause Y92.007 - is a specific ICD-10-CM diagnosis code Y92.007 Garden or yard of unspecified non-institutional (private) residence as the place of occurrence of the external cause ...
+
+The prototype for ICD 10 was developed some years ago and has now been adopted by a number of countries. The deadline for the U.S. has been delayed once or twice already. Currently it's set for October 1, 2015.
+
+The answer is they are much more detailed and better designed to work hand-in-hand with the information age. The new code set has been expanded from five positions (first one alphanumeric, others numeric) to seven positions. The codes use alphanumeric characters in all positions, not just the first position as in ICD-9. As of the latest version, there are 68,000 existing codes, as opposed to the 13,000 in ICD-9. The new code set provides a significant increase in the specificity of the reporting, allowing more information to be conveyed in a code.
+
+Could they save lives?
+
+It's possible. Doctors, especially doctors in hospital and ER's that see all kinds of patients, have to be part doctor, part scientist, and part detective. We're always interested in comparing signs and symptoms, and seeing if this same condition is being reported elsewhere. If so, what did the medical staff there do, what was the outcome? What complications or twists might have been encountered along the way?
+
+There's reason to hope these codes could help create a highly searchable, relational database that can be quickly queried for those kinds of answers (which might also mean a new kind of job, a medical specialist on staff who is fluent in SQL). Anything that shortens the window between examination, correct diagnosis, and effective treatment could, in theory, prevent no end of suffering and yes, might even eventually save lives.
+
+How will they help improve patient care?
+
+We don't know for sure, yet. But imagine as a purely hypothetical illustration, if we had had this kind of tool and the global information processing and sharing technology to make the best use of it when the first clusters of HIV patients started showing up in U.S. ERs decades ago. We might have been able to more quickly zero in and make correlations, we might have more quickly realized, for example, that a subset of patients had all had recent transfusions.
+
+Certainly ICD 10 will allow insurers in the U.S. and elsewhere to see better what they are paying for. And data-mining the codes may allow providers to see the same thing and better aggregate and stratify disease groups. Over time they may help us spot trends earlier, or allow statisticians and insurance companies to tighten predictions and efficiencies.
+
+So we are comparing not just apples to apples when we compare ICD 9 to ICD 10, we're comparing macs to granny smiths.
+
+What are some of the more surprising and cooler codes?
+
+Spaceship and space-related injury codes!!! With ability to see the location the ship landed, too! Although whale bite and fiery water ski codes come close:
+
+
+
+All jokes aside however, there are codes for space vehicle collisions, injuries resulting from encounters with spacecraft, and claims stemming from prolonged exposure in a weightless environment. And aside from outer space there are even more baffling codes involving the water. Although unlikely to happen in the same place, there is a code for being bitten by a whale and a code for being injured in a prison swimming pool. And water skiers need not worry; if your water skis catch fire and burn you there is a code for that too.

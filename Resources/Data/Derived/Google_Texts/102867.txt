@@ -1,0 +1,47 @@
+Missouri health information exchange bills panned
+
+With help from Darius Tahir (@DariusTahir)
+
+KERFUFFLE IN MISSOURI OVER HIE BILLS: Controversy is brewing in the Missouri legislature over a bill that would create a health information commission empowered to dictate health information standards and regulate “health information organizations.” Mike Dittemore, executive director of the Lewis and Clark Information Exchange in neighboring Kansas, says the commission would “mandate good behavior” in an industry known to have some bad actors. He tells Morning eHealth that data flow in Missouri is still siloed and the new regulator would expedite the exchange of patient records. He points to Kansas as a good example of a state doing things right and says linking the two states, which share Kansas City, has been extremely difficult.
+
+Story Continued Below
+
+— But it’s not so simple, says Angie Bass, chief operating officer of the Missouri Health Connection. The precise powers of the new state-wide commission aren’t yet clear and that’s scary Bass said. In addition, it could interfere with federal standards. “We feel like there isn’t a problem to be solved and this is an overreach of government,” Bass told us.
+
+Another wrinkle — The Missouri Health Connection’s members believe the legislation is backed by EHR vendor giant Cerner. Cerner, whose role in the legislation is unclear, says its clients believe the proposed legislation is intended to address existing barriers to health information exchange at the local level. Cerner competitor Epic, which is used by seven major Missouri hospitals, has asked state lawmakers to “avoid unnecessary government regulation that will slow this progress and ultimately harm Missouri patients and providers.” The bill hasn’t cleared committees in either the House or the Senate, and sponsors didn’t return requests for comment. Find the text of S.B. 636 and H.B. 1579 here and here.
+
+EMPIRE STATE’S E-Rx RULE TAKES EFFECT: A New York law takes effect this week that requires all prescriptions to be transmitted electronically and penalizes those who don't comply. As we’ve told you before, the so-called I-STOP mandate intends to cut down on prescription drug abuse. But are doctors ready to comply? New data from Surescripts shows the number of Empire State doctors enabled to e-prescribe controlled substances has increased 28 percent since March 1. Now, just under half of the nearly 100,000 active prescribers in the state are set up, up from a third a month ago. Fewer than two percent could e-prescribe controlled substances a year ago, Surescripts says. More from Surescripts: http://bit.ly/1RqFDUZ
+
+Related: The president of the Medical Society of the State of New York asks that low-prescribing doctors be exempt from the law. http://bit.ly/1RySztY
+
+eHealth tweet of the day: @kevinmd: Meaningful use creates meaningless strife http://buff.ly/1T6JICd
+
+Welcome to Monday morning eHealth where it’s hard to believe but opening day of Major League Baseball is only a week away. Didn’t it seem like Thanksgiving was just last month? Feel free to pass along your news to dpittman@politico.com and connect with the whole team on Twitter @David_Pittman, @arthurallen202, @DariusTahir @ POLITICOPro, @Morning_eHealth.
+
+ANOTHER DATA BLOCKING ADVOCATE ON THE HILL: California Democrat Ted Lieu told Bloomberg BNA following last week’s House Oversight hearing on health IT that he was interested in legislation to combat data blocking, the intentional hindrance of patient record sharing. But, he warns, it’s very early in the process. Lieu is also interested in a bill that requires hospitals to notify patients when they’ve been a victim of ransomware attacks, a recent area of activity for hospitals. Remember, House Oversight IT subcommittee chair Will Hurd told me last week that lawmakers were still considering where to turn to next after its fact-finding work of late. Also, the 21st Century Cures Act (H.R. 6) has provisions to tackle data blocking as does the Senate’s Improving Health IT Act (S. 2511), so it’s unclear what more Lieu could do. The full BNA story from Alex Ruoff: http://bit.ly/22AKkWN
+
+COMMENTS ON QUALIFIED ENTITY RULE: Comments were due Friday on a proposed CMS rule that expands access to Medicare Part A, B and D claims data for certain organizations to buy and share. The American Hospital Association gave its thoughts. Some highlights: CMS should require qualified entities to publicly list the Medicare claims data they receive and the data they intend to combine with it; CMS should also release Medicaid and CHIP data, not just Medicare; Make private health plans provide data; CMS also underestimates the impact the rule will have on providers’’ time. The AHA’s full comments: http://bit.ly/1RR96fb
+
+TELEMEDICINE ASSOCIATION WRITES DC : Some of the District of Columbia’s recently proposed telemedicine rules are “onerous and arbitrary,” the American Telemedicine Association told the local Department of Health Friday. The regulations should more clearly allow clinicians to use their medical judgement to decide whether to treat a patient via telemedicine in their first encounter. “When a physician uses telemedicine they are simply augmenting the sound clinical training and education that they have received to perform a clinical encounter,” the ATA wrote. The telemedicine group also urges the DC government to address telemedicine rules for pharmacists. In some states, they haven’t filled prescriptions given after encounters through the technology. The ATA’s letter: http://bit.ly/1WSpTh7
+
+UPDATE ON JOHN THUNE’S RURAL HEALTH BROADBAND BILL: The South Dakota senator’s Rural Health Care Connectivity Act (S. 1916), which would expand subsidies for rural nursing homes to purchase broadband Internet, could potentially clear the Senate soon by unanimous consent, a spokesman for the Senate Commerce Committee tells us. The bill sailed through the Senate Commerce Committee in November on a voice vote, and following a favorable score from the Congressional Budget Office last week (saving $18 million over a decade) could do the same in the full Senate after lawmakers return from recess next week. Rep. Leonard Lance has a companion bill (H.R. 4111) in the House.
+
+HOW ABOUT SOME PRECISION MEDICINE SECURITY?: The White House’s draft data security policies for the Precision Medicine Initiative may be problematic for smaller organizations because it won’t scale for them, ACT | The App Association wrote Friday. For example, smaller firms may have trouble gaining third-party review of their security plans as the draft policy framework suggests. Furthermore, the White House doesn’t incorporate NIST’s cybersecurity framework into its plans. Their comments, which were due Friday, are here: http://bit.ly/1SpwqP1
+
+TEXAS STILL TWO-STEPPING ON TELEHEALTH: Telemedicine isn’t dead in Texas despite the popular sentiment that it is, the head of government affairs at direct-to-consumer firm American Well writes in The Health Care Blog. The Texas Medical Board, facing the never-ending legal game with Teladoc, is inching toward a resolution on the technology, Kofi Jones explains. “The board itself has evolved as well…They now allow behavioral health providers to establish a treatment relationship through telehealth regardless of the patient location. The board, in partnership with its telemedicine stakeholder group is creating a new call-coverage model to allow telemedicine providers to leverage after-hour and specialty care that was sorely lacking. In 2016, they will meet again and ask, ‘What is the next step in telehealth expansion?’” her full column: http://bit.ly/1XT8vZE
+
+ICYMI — OHIO SUPREME COURT TAKES BROAD VIEW OF RECORD: No matter where a patient’s medical history data are stored, if a hospital maintains it, it’s a medical record, the Ohio Supreme Court decided last week. The court made its decision due to a 2012 medical-records request case asking for a dead patient’s entire record. The plaintiff believed the hospital had been less than forthcoming in failing to disclose its nursing records and monitoring strip data, and the court agreed. In what must seem like a cruel irony for the digitally enthusiastic, the case hinged on the literal physical location of the record –the hospital’s records department – rather than, say, the modern software we’re hoping all hospitals use these days. On the other hand, data liberationists are, we’re sure, quite pleased.
+
+WHAT WE’RE CLICKING:
+
+New York Times editorial board calls for federal protections from employers use of health data in hiring: http://nyti.ms/1UQSPrK
+
+The journal Nature shows the promise of mobile health apps: http://bit.ly/1REo2rD
+
+Google trademarks two health-related images: http://bit.ly/1WOK7Io
+
+Should health care work like Priceline?: http://bit.ly/1ZBnklh
+
+Arizona eyes a bill to force doctors to check a prescription drug monitoring program before prescribing opioids: http://bit.ly/1SbLm0B
+
+Tips, comments, suggestions? Send them along via email to our team: Arthur Allen (aallen@politico.com, @ArthurAllen202), David Pittman (dpittman@politico.com, @David_Pittman) and Darius Tahir (dtahir@politico.com, (@DariusTahir).

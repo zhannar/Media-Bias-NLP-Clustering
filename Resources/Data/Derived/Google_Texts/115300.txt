@@ -1,0 +1,49 @@
+WASHINGTON (AP) — As the Obama administration raced to meet its self-imposed deadline for online health insurance markets, security experts working for the government worried that state computer systems could become a back door for hackers.
+
+Documents provided to The Associated Press show that more than two-thirds of state systems that were supposed to tap into federal computers to verify sensitive personal information for coverage were initially rated as “high risk” for security problems.
+
+Back-door attacks have been in the news, since the hackers who stole millions of customers’ credit and debit card numbers from Target are believed to have gained access through a contractor’s network.
+
+The administration says the documents offer only a partial and “outdated” snapshot of an improving situation, and the security problems cited were either resolved or are being addressed through specific actions. No successful cyberattacks have taken place, officials say.
+
+However, the issues detailed in documents and emails provided by the House Oversight and Government Reform Committee reveal broader concerns than the federal Health and Human Services department has previously acknowledged.
+
+They show a frenzied behind-the-scenes juggling act by officials and contractors as the Oct. 1 deadline for new health insurance exchanges loomed. Instead of providing a showcase for President Barack Obama, the launch of his health care law became a case study in how big technology projects can go off the rails.
+
+In order to connect to federal computers, state and other outside systems must undergo a security review and receive an “authority to connect.”
+
+With the health care law, states needed approval to connect to a new federal data hub, an electronic back room that pings Social Security, the Internal Revenue Service, Homeland Security to verify personal details about people applying for government-subsidized insurance. The hub handles sensitive information, including income, immigration status and Social Security numbers.
+
+The documents showed a high-stakes decision-making process playing out against a backdrop of tension and uncertainty as the clock ran out. For example:
+
+- In one email from Sept. 29, a Sunday two days before the launch, Teresa Fryer, chief information security officer for the federal Centers for Medicare and Medicaid Services, wrote of the state security approvals, “The front office is signing them whether or not they are a high risk.” Her agency, known as CMS, also administers the health care law.
+
+Two days earlier, in a separate document, CMS administrator Marilyn Tavenner approved nine states to connect although the approval document noted that “CMS views the October 1 connections to the nine states as a risk due to the fact that their documentation may not be submitted completely nor reviewed…by Oct. 1.” Approval was contingent on states submitting proper documentation. The states were Arkansas, Illinois, Iowa, Louisiana, Montana, Nebraska, Pennsylvania, Oklahoma, and South Dakota.
+
+- A CMS PowerPoint presentation from Sept. 23 revealed huge differences in states’ readiness. Some were already approved; others had security weaknesses that were well understood and being tackled. But there were also states where the federal government had little information on security preparations.
+
+“CMS views these connections to states as a high risk due to the unknown nature of their systems,” according to the presentation.
+
+CMS officials contemplated whether their agency would have to accept risk on behalf of other federal government entities, including Social Security and the IRS.
+
+-A federal contractor explicitly detailed the potential consequences of what he called an “elevated high risk.”
+
+Allowing states to connect without the appropriate review “introduces an unknown amount of risk” that could put the personal information of “potentially millions of users at risk of identity theft,” not to mention exposing the program to fraud, contractor Ryan Brewer wrote to CMS security in a Sept. 18 email.
+
+Brewer had formerly been in government, as top CMS information security officer. He is currently with the cybersecurity firm GrayScout. The administration says he had no direct knowledge of the status of state security information.
+
+In a Feb. 20 letter to the oversight panel’s chairman, Rep. Darrell Issa, R-Calif., the administration said many of the high-risk issues identified in the documents had a corrective action plan before states got approval to connect. Twelve states received temporary, 60-day permissions to connect before Oct. 1 because the administration had not completed full reviews.
+
+Currently, 46 states and Washington, D.C., have full three-year permissions to connect, wrote HHS assistant secretary Jim Esquea.
+
+“The administration has not been forthcoming with the American people about the serious security risks,” Issa said in a statement. “Despite repeated assurances from HHS, the department appears to still be struggling with security concerns.”
+
+Cybersecurity consultant and author Theresa Payton, who reviewed the materials for the AP, said it’s difficult to second-guess the administration’s decisions. A phased rollout of the health care markets would have been a prudent way to keep risks manageable. But Payton, who was chief White House information officer for President George W. Bush, said federal agencies can face unique deadline pressures.
+
+The administration should have found a way to let consumers know that the new online markets weren’t quite ready for prime time, she said. “A customer education campaign on how to avoid fraud would have gone a long way.”
+
+Even top-performing states are not immune to problems. In a Jan. 10 email exchange, officials and contractors wondered whether they might have to disconnect California from federal computers after a website publicly disclosed that state’s vulnerabilities.
+
+“There are many security issues with the states’ systems,” a contractor wrote to CMS supervisors. “I would expect many more of the `known’ flaws to be posted in the near future.”
+
+The administration says officials quickly contacted California, and after learning that the state was addressing the issues, and dropped any consideration of disconnecting.

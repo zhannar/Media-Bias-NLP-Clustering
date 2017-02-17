@@ -1,0 +1,35 @@
+The Norse Corp. attack map, which shows cyber threats from its global network of sensors, was knocked offline earlier this month by hackers according to the new CEO. Norse
+
+Cybersecurity company Norse Corp. named Howard A. Bain III the company’s new CEO, president and interim CFO on Tuesday. He replaces co-founder and former CEO Sam Glines whose employment at the company was terminated during the last week in January after missing sales forecasts for 2015, according to Mr. Bain.
+
+At the same time that Mr. Bain took over as CEO, the company has named four new board members for the company. Norse, whose customers include the U.S. Dept. of Energy, provides threat intelligence to corporate customers from its global network of eight million sensors and crawlers that analyze Internet traffic to identify compromised hosts, malicious botnets and other sources of digital attack. It’s one of many cybersecurity startups and larger companies monetizing threat intelligence.
+
+“The bottom line is that the company ended up missing a quarter, and as a result, the year’s sales forecast by a substantial amount,” said Mr. Bain. “What that did was basically kill our Series B financing.” As a private company, Norse does not release its sales data.
+
+Norse invested heavily in its products and staffed up ahead of what it thought would be near-term revenue, Mr. Glines, the former CEO, told CIO Journal Wednesday in an email. The lower-than-expected sales results were primarily a timing issue, with large deals with governments and major enterprises delayed until the first quarter of 2016, he said.
+
+Mr. Bain agrees with this characterization but said in an email message Thursday that the burn rate was also too high, even following the layoffs.
+
+The last few weeks have been what Mr. Bain described to CIO Journal as a “perfect storm” which included the sales miss, scuttled investment, large-scale layoffs, a management change and a so-called DNS attack by hackers that knocked its website and attack map offline and brought down its internal email system for about a week. The company is still repairing the damage, said Mr. Bain. There are now about 40 employees at the company, said Mr. Bain. At its height last year, there were 92 employees.
+
+Norse appeared to be on the right track for much of 2015, Mr. Bain said. “The company was chugging along fairly nicely, we thought, to the extent that KPMG Capital made a significant investment in the company at the end of August after extensive due diligence,” he said.
+
+Part of the underlying issue was an “aggressive” burn rate in an attempt to improve the product, Mr. Glines, the former CEO, told CIO Journal in the email message. He wouldn’t say specifically what that monthly burn rate was but he acknowledged that employee compensation was just a percentage of that monthly burn.
+
+“They were reckless and did not manage the company’s funds well, spending on lavish parties, catered meals in the office daily and flashy attempts to garner attention like renting a bunch of really expensive sports cars covered with Norse logos and driving them up and down the coast of California,” said former employee Anthony M. Freed in a comment on an article posted by security blogger Brian Krebs on his website on January 30, where the news about Mr. Glines leaving the company was first reported. Mr. Freed director of publications at Norse confirmed to CIO Journal that he wrote the comment. Mr. Freed now works at another cybersecurity startup that does not compete directly with Norse.
+
+Mr. Glines does not agree with that assessment. He said that like other companies in Silicon Valley, there were daily catered meals for employees, many of whom worked more than 14-hour days. He acknowledges that Norse rented luxury vehicles for employees once “in lieu of an employee bonus and the footage was captured to aid in recruitment of more engineers.”
+
+Mr. Bain said the only parties he knew about happened at two of the major industry conferences including Black Hat and RSA. “This is where companies typically hold parties for customers and prospects or attendees in general,” he said. He wasn’t aware of renting the luxury vehicles but said that daily meals were provided as a thank you to employees for their hard work and dedication, which isn’t out of the ordinary in Silicon Valley.
+
+In any event, the company’s sales and funding could not keep up with its expenses, according to Mr. Bain. In September, KPMG Capital said it invested $11.4 million in Series A funding in Norse. KPMG Capital declined to comment.
+
+About $2.4 million of the $11.4 million had been raised in the first half of 2015, according to Mr. Glines. The remaining $9 million was given pending extended due diligence which began in May and June. “The company was forced to take on convertible debt to fund the business in this time frame,” he said in an email. After factoring in debt, the company netted about $6 million or so in fresh funds from KPMG Capital to use for working capital and product build-out in September, he added. The plan all along had been to move rapidly to Series B funding in late 2015 or the first quarter of 2016.
+
+The company has also been criticized for the quality of the data its sensors provide. “The company was interpreting Internet scanning data against their high level sensors as attack intelligence,” wrote Robert M. Lee, founder of the critical infrastructure cybersecurity company Dragos Security LLC, in a blog post on January 30. In order to be true intelligence, that data needs to be correlated with other information such as actual incident response data to serve as attack intelligence, he wrote. Mr. Lee’s cybersecurity company does not compete directly with Norse.
+
+Both Mr. Bain and Mr. Glines said that the data from Norse’s sensor network is valid. Mr. Bain said its sensors are located in sensitive locations in foreign countries so it’s not possible for the company to reveal much about its network.
+
+As for moving forward, Mr. Bain said he still has a functioning company with sales, product and support. Tommy Stiansen, the CTO and the other Norse co-founder is still with the company as is the rest of the management team. Mr. Bain told CIO Journal that he did his own due diligence and is prepared to lead the company. Even though an attack by hackers temporarily knocked the company’s website offline and shut down its online attack map, Mr. Bain said that the company has continued to serve its customers.
+
+Write to rachael.king@wsj.com

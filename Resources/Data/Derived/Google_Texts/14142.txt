@@ -1,0 +1,15 @@
+Pacemaker patients could soon have their devices protected by a truly unique password: their own heartbeat. The Heart-To-Heart system guards pacemakers, defibrillators, insulin pumps, and other implantable medical devices (IMDs) from unauthorized manipulation by implementing the patient’s real-time heartbeat into the authentication process. This way, adjustments can never be performed without the patient’s knowledge.
+
+Although the wireless technology used in many IMDs facilitates the work of physicians, emergency workers, and programmers, it also makes the life-sustaining devices susceptible to cyber intruders. Unfortunately, sophisticated password protection is unfeasible, as it would require paramedics to handle extensive electronic keychains at all times. As a result, most pacemakers and IMDs remain completely unprotected.
+
+"If you have a device inside your body, a person could walk by, push a button and violate your privacy, even give you a shock," said developer Masoud Rostami, a graduate student at Rice University. "He could make [an insulin pump] inject insulin or update the software of your pacemaker.
+
+“But our proposed solution forces anybody who wants to read the device to touch you," he added.
+
+To keep anonymous hackers at bay, the Heart-To-Heart authentication process requires a physical interaction between the IMD patient and the person seeking access. In order to manipulate the device, paramedics and medical technicians must “touch” the patient with a separate device that records his or her current electrocardiogram (EKG) signature. The IMD and the “touch” device then compare the minutia of the registered signature in an authenticating “handshake.”
+
+"The signal from your heartbeat is different every second, so the password is different each time," Rostami explained, comparing the unpredictable, ever-changing EKG signature to market fluctuations. "If you zoom in on a stock, it ticks up and it ticks down every microsecond. Those fine details are the byproduct of a very complex system and they can't be predicted."
+
+At a time when both cyber intrusion and IMDs proliferate, the innovation stands to transform privacy as well as personal security. Judging by current research trends, the demand will only increase. The time to pursue pacemaker and IMD security is now, the developers assert.
+
+"People will have more implantable devices, not fewer," Roustami told reporters. "We already have devices for the heart and insulin pumps, and now researchers are talking about putting neuron stimulators inside the brain. We should make sure all these things are secure."

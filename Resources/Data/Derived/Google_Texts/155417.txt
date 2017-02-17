@@ -1,0 +1,39 @@
+Bruce Bartlett held senior policy roles in the Reagan and George H.W. Bush administrations and served on the staffs of Representatives Jack Kemp and Ron Paul. He is the author of “The Benefit and the Burden: Tax Reform — Why We Need It and What It Will Take.”
+
+In last week’s post, I made reference to some 210-year-old budget data that required a contextual adjustment. Calling a $50,000 expenditure in 1803 a large number wouldn’t have registered with readers and made my point unless it could be adjusted in some way to make it comparable to an equivalently large expenditure today.
+
+Today's Economist Perspectives from expert contributors.
+
+This led to some discussion with my editors about the best way to do this, since there are no rules to explain exactly how and when this should be done. Unfortunately, even the experts disagree, making the final decision essentially a judgment call.
+
+Not surprisingly, economic historians have been wrestling with this problem for years and have produced an excellent calculator for converting historical data into contemporary figures. The site is called Measuring Worth, and it is the one I use most of the time.
+
+Of course, the primary adjustment that economists and journalists often must make is for prices. Inflation and deflation are facts of life. And especially over long time periods, it would be grossly deceptive to imply that a dollar in the past has the same relative value as a dollar today. Adam Smith made this point in 1776, saying that the labor content of goods was the best measure of their relative value.
+
+
+
+Today we use price indexes to convert monetary values from the past into “real” values today. The best-known such index is the Consumer Price Index published monthly by the Bureau of Labor Statistics. For those interested only in a simple inflation adjustment, the bureau maintains a useful calculator.
+
+While adjusting prices for inflation is almost always better than not, it is often far from sufficient to properly convey context and orders of magnitude. Moreover, there are many different price indexes used for different purposes. Another well-known index is the Producer Price Index, which measures production inputs. It sometimes forecasts C.P.I. inflation and sometimes doesn’t. The Federal Reserve tends to favor something called the Personal Consumption Expenditures price index, produced by the Commerce Department.
+
+Unfortunately, at any given moment, these indexes may be giving different signals, which leads to many Wall Street economists trying to read the tea leaves, especially insofar as they give clues to Fed policy. And there are still deep theoretical questions about how to measure price changes that the economics profession has not resolved.
+
+For example, should the prices of assets like stocks be incorporated into general price indexes? Do certain commodities like gold give accurate advance warning as to changes in the price level? Is the price of housing best measured by home prices or the equivalent rental value? How can new products be incorporated into price indexes so as to maintain historical consistency?
+
+Generally speaking, journalists need not concern themselves with such questions, which are best left to theoretical economics. What they need is a quick way to decide what numbers need some sort of adjustment, what that adjustment should be based on context, and a reasonably accurate and rapidly accessible means of doing so.
+
+The area where this is the biggest problem is probably large budget numbers. The raw data is almost universally useless. Saying that the budget deficit was $680.3 billion in fiscal year 2013 tells the average person absolutely nothing of value. It’s just a large number that sounds scary. It would help to at least know that it is down from $1.087 trillion in 2012 and a peak of $1.413 trillion in 2009, but that’s not entirely adequate.
+
+Simply adjusting the deficit for inflation would show that the deficit has fallen from $1.541 trillion in 2009, since there has been inflation in the meantime. But it makes no sense to compare the federal budget to a family budget, which is what the Consumer Price Index is based on. One needs to use a broader index, like the gross domestic product deflator, which measures price changes throughout the entire economy.
+
+One problem with only adjusting for prices, regardless of index, is that there are real changes going on in the economy simultaneously – productivity, wages and wealth generally rise over time. These sometimes need to be accounted for to give proper context.
+
+For large numbers, the percentage of the gross domestic product is both the easiest to find and best to use. Organizations like the Congressional Budget Office routinely calculate budget data as a share of the gross domestic product. They show that the deficit fell to 4.1 percent of the G.D.P. in 2013 from 6.8 percent in 2012 and from 9.8 percent in 2009. The effect is to show a much larger improvement than one would sense only from the raw numbers, because the G.D.P. grew to $16.8 trillion in 2013 from $14.4 trillion in 2009.
+
+Since the “burden” of the debt basically falls on the entire economy, the debt-to-G.D.P. ratio is generally considered the best measure of that burden. It also facilitates international comparisons without having to worry about exchange-rate adjustments.
+
+Incidentally, international price comparisons can be especially tricky because current market exchange rates may not accurately reflect relative values or standards of living. Economists generally prefer to use something called “purchasing power parity,” but such data is not always easy to come by. The Economist magazine tries to do this in an easily understandable way by calculating the equivalent price of a Big Mac throughout the world.
+
+There is much more to say on this topic. I recommend an essay on the Measuring Worth website that discusses different measures of value over time and how they materially affect our perceptions. There are also new statistical measures coming online that may provide even better data, like the Billion Prices Project from M.I.T., which gathers price data in real time directly from store price scanners.
+
+This is an area where trial and error is the best strategy. The important thing is to make an effort to provide proper context where it appears necessary and not to simply ignore the problem.

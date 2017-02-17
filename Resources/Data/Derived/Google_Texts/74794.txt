@@ -1,0 +1,31 @@
+Photo
+
+Most people would agree that it would be better to prevent cancer, if we could, than to treat it once it developed. Yet economic incentives encourage researchers to focus on treatment rather than prevention.
+
+The way the patent system interacts with the Food and Drug Administration’s drug approval process skews what kinds of cancer clinical trials are run. There’s more money to be made investing in drugs that will extend cancer patients’ lives by a few months than in drugs that would prevent cancer in the first place.
+
+That’s one of the findings from the work of Heidi Williams, an M.I.T. economics professor and recent MacArthur Foundation “genius” grant winner, who studied the problem along with Eric Budish, a University of Chicago economics professor, and Ben Roin, assistant professor of technological innovation, entrepreneurship and strategic management at M.I.T.
+
+“R & D on cancer prevention and treatment of early-stage cancer is very socially valuable,” the authors told me in an email, “yet our work shows that society provides private firms — perhaps inadvertently — with surprisingly few incentives to conduct this kind of research.”
+
+To secure F.D.A. approval, after patenting a drug, drug companies race the clock to show that their product is safe and effective. The more quickly they can complete those studies, the longer they have until the patent runs out, which is the period of time during which profit margins are highest. Developing drugs to treat late-stage disease is usually much faster than developing drugs to treat early-stage disease or prevention, because late-stage disease is aggressive and progresses rapidly. This allows companies to see results in clinical trials more quickly, even if those results are only small improvements in survival.
+
+Advertisement Continue reading the main story
+
+This very lesson is taught in some medicinal chemistry textbooks. For instance, one notes that “some compounds are never developed [into drugs] because the patent protected production time available to recoup the cost of development is too short.”
+
+The clinical trials necessary for the F.D.A. to approve drugs for commercialization take years. Though a patent lasts 20 years (before any extensions), a typical drug comes to market with about 12.5 years of patent life remaining. But would-be innovators have some control over the length of time between receipt of a patent and F.D.A. approval — the “commercialization lag.” By studying patients in whom safety and efficacy can be demonstrated more quickly, innovators can reduce this lag. (Recent studies suggest that commercialization lag times may be decreasing for some types of drugs.)
+
+Many more cancer trials focused on treatments for patients with late-stage cancers than for early-stage cancers, according to the study. Between 1973 and 2011, there were about 12,000 trials for relatively later-stage patients with a 90 percent chance of dying in five years. But there were only about 6,000 focused on earlier-stage patients with a 30 percent chance of dying. And there were over 17,000 trials of patients with the lowest chance of survival (those with recurrent cancers) but only 500 for cancer prevention, which confer the longest survival gains. The bias toward studies focused on patients with shorter survival duration is more prevalent among privately financed trials than for publicly financed ones.
+
+Ms. Williams’s study estimated that the commercialization lag’s incentive to invest in drugs of shorter duration benefit led to 890,000 lost life-years among American patients found to have cancer in 2003 alone.
+
+There are several possible ways to address the commercialization lag. One idea, included in legislation working its way through Congress, is to more routinely confer F.D.A. approval based on indications of improved health that can be measured more quickly than survival — so-called surrogate endpoints, like cancerous white blood cell counts and bone marrow characteristics in leukemia studies. These measures are highly correlated with survival, so they are a reliable way to speed up leukemia drug trials.
+
+According to the study’s analysis, this approach can work. For cancer drugs approved based on some types of validated surrogate endpoints, the researchers found no difference in the number of clinical trials by survival rate. This suggests that surrogate endpoints can undo the bias that arises from the commercialization lag. To date, the only privately financed drugs to prevent cancer — the survival benefits of which would not be apparent for many years — have been F.D.A.-approved based on surrogate endpoints.
+
+Use of surrogate endpoints with no known or strong relationship to survival is controversial. For example, the prostate-specific antigen test level — assessed with a blood test — is correlated with the amount of cancer in the prostate but has limited value in predicting prostate cancer survival. So, though they may be lucrative to drug companies, one would have little confidence that drugs approved based on P.S.A. test results would confer survival benefits. A recent systematic review found that most surrogate endpoints examined in cancer drug trials are weakly related to survival. Though most cancer drugs in recent years have been approved on the basis of surrogate endpoints, a majority of them have unknown or no beneficial survival effects.
+
+Another approach is to extend the period of a drug’s market exclusivity to compensate for the commercialization lag. The Hatch-Waxman Act of 1984 already permits a partial extension — a half year for every year in clinical trial, up to a maximum of five additional years. Ms. Williams’s analysis suggests this is the right idea, but that there are still many potential drugs that receive only very short periods of market exclusivity. The Affordable Care Act includes a provision that grants 12 years of market exclusivity beginning from F.D.A. approval — a half year less than the typical 12.5 years remaining on a patent — but it applies only to biologic drugs.
+
+Drug patents incentivize innovation, and F.D.A. approval is a check regarding drug safety and efficacy. The way they work together affects the incentives for research and could reduce something many would view as highly valuable: cancer prevention.

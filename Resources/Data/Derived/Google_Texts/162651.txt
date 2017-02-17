@@ -1,0 +1,39 @@
+Executive Briefing | by Athena Mandros | October 23, 2015
+
+There has been a lot written about accountable care organizations (ACOs). The concept—groups of primary care providers coordinate care for a specified population with the goal of reducing costs and improving quality of care—was created by the Patient Protection and Affordable Care Act (PPACA) as a value-based purchasing model for Medicare. But ACO-like models are now used by both Medicaid and commercial insurance plans, and currently, about 15% of the U.S. population (49 million people) is served by an ACO (see 15% Of United States Population Served By An Accountable Care Organization).
+
+The strategic question is not whether the ACO model will be adopted across other payers (there are currently over 300 commercial ACOs and 60 Medicaid ACOs), but whether the Medicare model for pay-for-performance (P4P) model will be adopted for other payers and other payment structures.
+
+The Medicare Shared Savings Program (MSSP) is currently the dominant Medicare ACO model and as its name suggests, its P4P model is shared savings. Shared savings utilize both an organization’s financial and quality performance to determine the ACO’s bonus payment. There are three shared savings track under the Medicare program:
+
+MSSP Track One: ACOs are eligible for 50% of the shared savings generated, but do not share in the losses. Total shared savings are capped at 10% of the baseline benchmark.
+
+MSSP Track Two: ACOs are eligible for 60% of the shared savings and 40-60% of the shared losses. Total shared savings are capped at 15% of the baseline benchmark and total losses are capped at 5-10%.
+
+MSSP Track Three: ACOs are eligible for 75% of the shared savings and 40-75% of the shared losses. Savings are capped at 20% of the baseline benchmark and total losses are capped at 15%. This ACO model will be implemented in 2016.
+
+Although ACOs have a number of different tracks to choose from, shared savings and losses are calculated the same way – using financial and quality performance.
+
+Financial Performance – Baseline cost of care is determined by a three-year look back at risk-adjusted per capita average Medicare Part A and Medicare Part B expenditures, for the assigned beneficiaries. The expenditures are then risk-adjusted using the CMS Hierarchical Condition Categories (HCC) originally developed for Medicare Advantage, the Medicare managed care program. The cost of care for the performance year is determined using the same methodology, but for the performance year time period.
+
+Quality Performance – To ensure that ACOs are providing quality care while lowering costs, the Center for Medicare and Medicaid Services (CMS) ties an ACO’s share of the savings to a quality score. The quality score is calculated by tying ACO performance on 33 measures spanning four domains to a sliding scale point system. The ACO’s points for each measure are added together for each domain (patient/caregiver experience, care coordination/patient safety, preventative health, and the at-risk population) and divided by the total number of points in each domain. The percentages are then averaged to determine the ACO’s quality score.
+
+MSSP Quality Score Point System, 2015 Domain Number of Individual Measures Total Possible Points Domain Weight Patient/caregiver experience 8 16 25% Care coordination/patient safety 10 22 25% Preventative Health 8 16 25% At-risk population 7 12 25%
+
+To calculate the final shared savings/losses, the performance year baseline expenditures are subtracted from the performance year expenditures. If the ACO generated savings, which are outside the minimum shared savings rate (a percentage applied to the difference that ensures savings were not due to normal variation, which is generally set anywhere from 0.5% to 3.9%), then the ACO is eligible for a share of the savings. To determine the ACO’s portion of the savings, the quality score is multiplied by the maximum amount of shared savings available to the ACO.
+
+Where are we at now? The most recent data shows that in 2014, there were 333 ACOs participating in the MSSP model – 99% in Track One model. Only about a fourth were eligible for a share of the savings, totaling $341 million. An additional 89 ACOs lowered costs, but did not meet the minimum savings rate to receive a share of the savings. Overall, Medicare saved $465 million dollars through the MSSP program (see About One-Fourth Of Medicare ACOs Earned Shared Savings Bonuses).
+
+What are the implications of the Medicare ACO’s P4P model, shared savings? I think there are a few:
+
+There is broad general acceptance that provider organizations should lead population health management initiatives – and those initiatives should be tied to P4P payments The model of linking bonus payments to both savings and quality will likely continue in all P4P arrangements Provider organizations will need not only technology infrastructure and management systems that support population health management, but also have sophisticated and standardized measures of consumer experience and consumer outcomes As this model of P4P becomes more prevalent, the market advantage will go to the larger and the more efficient health care systems
+
+For more detailed information on how the MSSP (and the newest Medicare ACO model, Next Generation ACOs) determine shared savings and losses, check out How Is The Medicare ACO Performance Payment System Structured?: An OPEN MINDS Market Intelligence Report. The report answers a number of questions, including:
+
+What is the Medicare Shared Savings Program? How are beneficiaries attributed under the MSSP model? What is the MSSP reimbursement and performance model What is the Next Generation ACO model? How are beneficiaries attributed under the next generation model? What is the Next Generation ACO reimbursement and performance model?
+
+Additionally, the report has a number of essential reference charts, such as:
+
+A comparison chart of the attributes of the three MSSP models The financial model and shared savings calculation formula for MSSP ACOs The financial model and shared savings calculation formula for Next Generation ACOs The MSSP quality measures The Next Generation ACO quality measures
+
+The report is free to all OPEN MINDS Circle premium members, and can be purchased in the OPEN MINDS e-Store for $495. As payers adopt P4P models, including shared savings models, we will be sure to tell you about them.

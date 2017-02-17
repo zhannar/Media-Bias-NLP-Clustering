@@ -1,0 +1,17 @@
+We all have those Facebook friends—friends with Very Strong Political Opinions they just can't keep to themselves. While the political memes popular on Facebook pander shamelessly to people who already agree, sometimes the memes get twisted. And mutated. And even co-opted by the opposite party.
+
+Facebook's data science team has a fascinating post about the evolution of memes on the site. They look at one political meme in particular, which you may recall from September 2009, when Obamacare was first making its way through Congress.
+
+No one should die because they cannot afford health care, and no one should go broke because they get sick. If you agree, post this as your status for the rest of the day.
+
+The team found 121,605 different variants of this meme in 1.14 million status updates in all. Some were just slight wording changes, such as "the rest of the day" (blue dots in the diagram above) switched to ("next 24 hours").
+
+Advertisement
+
+But things got a little weird, too: Zombies appeared in the meme, and then Jabba the Hut. As the meme made its way across Facebook, different variants took hold in subcultures, like mutant creatures adapted to slightly different habitats. What's most interesting is how they varied across the political spectrum, based on the user's self-identified political leanings on Facebook:
+
+Conservatives co-opted the pro-Obamacare meme into a message against government and taxes—the exact opposite of the meme's original intent. Sci-fi geeks seem to lean liberal. And everybody hates cancer. Glad we can at least agree on that.
+
+Sponsored
+
+This all injects another dimension to the discussion of Facebook's role in the polarization of American politics. Certainly we are reading each others' statuses. We're even mocking them. But are we having any real discussion, or are we just batting memes back and forth? [Facebook Data Science]

@@ -1,0 +1,25 @@
+Just last week, the chief information security officer for the Centers for Medicare and Medicaid Services was able to Just last week, the chief information security officer for the Centers for Medicare and Medicaid Services was able to boast a bit to the House Oversight Committee. Healthcare.gov has been subjected to “end-to-end security testing and passed with flying colors.”
+
+Not so fast, conservative media responded.
+
+The Daily Caller , the Washington Times , Fox News, and others pointed to David Kennedy, the head of a head of computer security consulting firm, who reportedly claimed he could use a standard web browser to access 70,000 personal records belonging to consumers who enrolled through the ACA system – after just four minutes of effort.
+
+Well, that certainly sounds alarming, doesn’t it? And it’s not as if conservative media has ever steered anyone wrong when it comes to “Obamacare,” right?
+
+After all, here’s a computer security consulting expert, recently a star witness in a hearing organized by Rep. Darrell Issa (R-Calif.), who exposed a critical flaw in healthcare.gov.
+
+Except, that’s not quite what happened, and those reports from conservative media painted a deeply bogus picture.
+
+The Washington Post ’s Brian Fung discovered , “[I]t turned out the reports were nothing more than simple confusion.” Washington Post
+
+“We never accessed 70,000 records nor is it directly on the Healthcare.gov website,” wrote Kennedy in an update to an earlier blog post. “No dumping of data, malicious intent, hacking, or even viewing of the information was done.” In short, Kennedy explained that he used basic Google tools to search the Web site, but he didn’t hack it. Some media reports, however, latched onto this line in his original post: “The 70,000 mark of information disclosure being reported was through using a basic Google search terms and browsing through a web browser” and assumed Kennedy had been able to access 70,000 records.
+
+OK, but if Kennedy didn’t access 70,000 personal records, as conservative media claimed, what did he access? There were 70,000 results of what, exactly? As best as I can tell, he hasn’t elaborated on this point, except to say , “We do not support the statements from the news organizations.”
+
+In defense of the conservative media outlets that got this story very wrong, some of their confusion is understandable. Consider this exchange between Fox News’ Chris Wallace and David Kennedy over the weekend:
+
+WALLACE: You say you did not hack the site and, yet, you say you could access 70,000 records of various people who have signed up for health care under – at the website within four minutes. How do you know that if you haven’t hacked the site? KENNEDY: That’s a great question. There is a technique called – what we call passer reconnaissance, which allows us to queering look at how the website operates and performs. And these type of attacks that, you know, I’m mentioning here in the 70,000 that you’re referencing is very easy to do.
+
+Hearing this, it’s easy to see how someone might get the impression that Kennedy was able to access 70,000 personal records, since that’s what Wallace asked and Kennedy didn’t correct him.
+
+That said – and this is the point conservatives still struggle to understand – even if healthcare.gov were somehow hacked, the hackers couldn’t gain access to private medical records. Why not? Because there are no private medical records stored on healthcare.gov. The threat doesn’t exist because the scenario is imaginary.

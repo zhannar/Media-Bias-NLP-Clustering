@@ -1,0 +1,19 @@
+There’s a growing sense of angst and frustration in the “data liberación“ movement these days, and much of it has do with the difficulty of fighting the status quo in healthcare.
+
+“There won’t be major change until payment shifts” away from fee-for-service to rewarding value and outcomes, Ceci Connolly, managing director of PricewaterhouseCoopers’ Health Research Institute , said Monday during the opening session of Health Datapalooza in Washington. The topic of the discussion was big data in healthcare.
+
+Panelists, including former national health IT coordinator Dr. Farzad Mostashari, Dr. Bob Kocher of investment firm Venrock and athenahealth Executive Vice President and COO Ed Park, mostly concurred with Connolly, who moderated the talk.
+
+Park said that there is too much data and too little ability to act on it now. Mostashari then noted that insights gained from analytics are creating new tasks for healthcare professionals, and not all of the tasks fit into current workflow. “It’s impossible if you’re trying to operate in the old business model,” the former national coordinator said.
+
+Park said that the traditional “three Vs” of big data, namely volume, variability and velocity, still apply, particularly the latter. “I’m real excited about the velocity of data,” he said, because velocity of data movement is accelerating. For example, Park said, data from an emergency department is “not helpful if the person entered the ED two months ago,”
+
+Mostashari also picked up on the ED example, saying that the most accessible potential of big data in healthcare today is in admission-discharge-transfer notifications. Say a patient of a primary care physician showed up in a hospital ED an hour ago. “You know that. What are you going to do about it?” he asked.
+
+Mostashari said that 91 percent of clients of Aledade , the startup company he launched to support physician-led Accountable Care Organizations, receive event notifications. The challenge for these practices now is to develop protocols for responding to such notifications.
+
+Again, though, the financial incentives have to be right. “The more you move to caring for total populations, the more there is a business case for that,” Mostashari said.
+
+As a physician, Kocher said he just wants to know how patients are feeling, whether they are in for an office visit the office or in their daily lives. “I’m excited about patient-reported outcomes,” he said.
+
+If practitioners are paid for managing populations, it makes sense to seek and act on data from outside traditional care settings. “One of the first places we could begin building that is in behavioral health,” he offered.

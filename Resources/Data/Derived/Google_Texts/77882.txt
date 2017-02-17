@@ -1,0 +1,41 @@
+Monday, August 10, 2015
+
+A New York Federal District Court issued an Opinion and Order, on August 3, 2015, in a closely-watched False Claims Act (FCA) case, Kane v. Healthfirst, Inc. The Court refused to dismiss the whistleblower complaint in which both the federal government and the State of New York have intervened. As important to this discussion, the Court addresses the intersection of recent amendments to the FCA in the context of the so-called “60-Day Refund Rule,” a provision applicable to Medicare and Medicaid overpayments that was added as part of the Affordable Care Act (ACA). The ACA provides that the 60-day clock starts on the date an overpayment is “identified,” but the term “identified” is not defined in the statute. Kane is the first known Federal case to grapple with what it means to be “identified” with respect to overpayments.
+
+The Court concluded that the pleadings adequately alleged a violation of laws in defendants’ alleged “failure to act quickly enough.” The case provides insights as to when it will be asserted by the government and by whistleblowers that the 60-day clock starts on the duty to “report and return” overpayments.
+
+What Are Providers to Make of this Decision?
+
+This is only an interim ruling, denying motions to dismiss, but it is likely to be read and considered in a variety of other venues. It is also very likely that the defense will appeal the standard applied by the Court, or, perhaps, petition the Court to reconsider its decision. One observation is that the Court may have thought the alleged facts were egregious enough to merit the strict ruling. For example, Judge Ramos wrote “the Court finds implausible Defendants’ suggestion that they delayed their statutorily-required duty because they were waiting for a report from their terminated employee.” It may be, therefore, that the decision can be viewed through the lens of alleged bad facts making hard law.
+
+The Facts in Kane
+
+The facts of the case are important, and it appears that the Court felt there was little disagreement between the parties. However, the Court made no final finding with respect to the specific allegations involved in this case (the full facts and elements of the alleged violations of law will be developed as the litigation progresses), but assumed the facts as alleged to be true for purposes of weighing the motions to dismiss.
+
+Due to a computer glitch, a New York State Medicaid managed care plan sent remittances to local hospitals with an error that caused the hospitals to submit claims for secondary payment to the New York State Medicaid Program. The State discovered the problem and notified hospitals. The hospitals in this case all belonged to a network of non-profit hospitals operated and coordinated by Continuum Health Partners, Inc. (Continuum). Continuum had an employee (the relator in this case, Mr. Kane) review the issue. Five months after the receipt of information about the computer glitch, Mr. Kane sent an email to members of the management team and attached a spreadsheet that contained 900 claims that may have had overpayments associated with them. Neither the government nor the Court denied that the spreadsheet was over-inclusive in that approximately half of the claims listed were never overpaid. The government alleged, however, that following the receipt of the email and spreadsheet the defendants “did nothing further,” though Mr. Kane was fired shortly after sending the email. Refunds did not occur until additional time passed (approximately two years) and upon prodding by the New York State Comptroller.
+
+The 60-Day Refund Rule: When is an Overpayment “Identified?”
+
+One of the most carefully-read sections of the ACA from a healthcare compliance perspective was the section that requires any person who receives an overpayment of Medicare or Medicaid funds to “report and return” the overpayment within sixty (60) days of the date the overpayment was identified. The Court recognized that Congress did not define that “pivotal” term in the text of the ACA. This case caused the Court to grapple with whether the clock was triggered merely by notice of “potential overpayments.”
+
+The Court was presented with two conflicting extremes of the definition of an identified overpayment. The Court viewed the defendants as urging the Court to adopt a definition that means “classified with certainty;” whereas the government urged that the clock starts when a person is “put on notice that a certain claim may have been overpaid.” Restated in a more positive fashion, “[t]he Government’s proposal – that an entity has identified an overpayment when it has determined, or should have determined through the exercise of reasonable diligence, that [it] has received an overpayment.” The Court agreed with the government that the “sixty (60) day clock begins ticking when a provider is put on notice of a potential overpayment, rather than the moment when an overpayment is conclusively ascertained.”
+
+A “Potentially Unworkable” Standard
+
+The defense described in detail the challenge of a provider being in a position to report and return overpayments within 60 days of being put on notice of the potential overpayment. Indeed, the Court quoted in detail that challenge. Unfortunately for the defendants, the Court ruled that
+
+the ACA itself contains no language to temper or qualify this unforgiving rule; it nowhere requires the Government to grant more leeway or more time to a provider who fails to timely report an overpayment but acts with reasonable diligence in an attempt to do so.
+
+Indeed, the court acknowledges that the government’s interpretation, which the court endorses, “would impose a stringent– and, in certain cases, potentially unworkable – burden on providers.” However, the Court concluded that the potential for abuse by providers of a contrary rule was too great and would produce absurd results.
+
+The only consolation the Court’s decision offers to a provider diligently working to be in a position to make such a refund, but unable to do so within 60 days, is that “prosecutorial discretion would counsel against the institution of enforcement actions aimed at well-intentioned healthcare providers working with reasonable haste to address erroneous overpayments.”
+
+Leaving aside the fact that “qui tam” relators and their contingency-fee paid lawyers will have little incentive to exercise “prosecutorial discretion,” providers may be challenged (or disappointed) should they try to rely on the hope for such prosecutorial discretion when implementing industry standard audit responses that, by necessity, will require more than 60 days after commencement to conclude a reasonable inquiry process.
+
+As we have noted previously, in many significant healthcare reimbursement questions (where it is now almost cliché to note the ambiguities, complexities, and morass of authorities) it simply is impossible to complete a responsible, thorough, and best-practices investigation within 60 days of the first allegation. Complex investigations routinely require the organization to:
+
+engage counsel and consultants, interview witnesses, secure and collect relevant documents (including voluminous electronic records and emails), have the documents reviewed and analyzed, conduct statistical analyses for necessary extrapolations, address coinsurance and deductibles, address secondary payors, and take the other steps necessary before concluding that an overpayment has been made.
+
+Conclusion
+
+The industry will carefully follow the progress of this case and see if any flexibility is introduced in the Court’s view of this important law. Until then, providers should be on a heightened state of alert, expedite responses to potential overpayments, and consider more interim communications with the Medicare and Medicaid programs regarding internal overpayment investigations that require extended periods of time to investigate.

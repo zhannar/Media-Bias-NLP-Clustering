@@ -1,0 +1,59 @@
+Based on some of the comments on my last post, it seems helpful to post a primer on Obamacare premium support.
+
+It’s been called “subsidies”, but it’s actually “premium support”: Obamacare guarantees that you won’t spend more than X% of your income on insurance. X is itself calculated based on your income, such that low income uninsured people will pay very little while higher-income uninsured people will pay around what they currently pay. The amount of your premium support can then be applied to whichever plan you want.
+
+Around 88% of Ohioans who go to the exchange will get premium support or enroll in Medicaid1. Here’s how it’s calculated, with the monthly premium being for both adults:
+
+Income (2 adults) Premium Cap Dollar Amount (monthly $20,628 3% $52 $23,265 4% $78 $31,020 6.3% $163 $38,775 8.05% $260 $46,530 9.5% $368 $54,285 9.5% $430 $62,040 9.5% $491
+
+Here’s where it gets tricky. That monthly dollar amount is the price you’ll pay (in Cleveland) for the CareSource Just4me plan with a $1750 deductible, valued at $498 a month (for two 40-year olds). Now the premium support becomes a transferrable voucher.
+
+Income (2 adults) Voucher (monthly) $20,628 $446 $23,265 $420 $31,020 $335 $38,775 $238 $46,530 $130 $54,285 $68 $62,040 $7
+
+That voucher can now be applied to any of the 80 or so insurance plans offered in Cleveland. If you don’t have ongoing health needs (like prescription drugs) then you can get a Bronze plan like Kaiser Foundation Health Plan, valued at $354 a month.
+
+If you earn $31,000 that plan only costs you $19 a month. If you earn less, it’s free.
+
+If you want a Silver plan but don’t like CareSource, you can get Kaiser’s plan. It’s actually $28 less across the board.
+
+If you have a lot of ongoing health needs 2, you can get a discount on a more expensive plan using your voucher. A Platinum plan from Humana ($560 a month), covering basically all health expenses, is lowered to $114 a month for the family earning $20K. For the couple earning $55K it costs $492.
+
+For reference, that Platinum plan would be around $814 for the couple today. In essence, that’s $8400 in annual savings for the lower-income family.
+
+Now, here’s the beauty of Obamacare: you don’t need to know any of this. The exchange will automatically calculate it based only on your income, your household size, and your insurance needs. You will only see plans and their after-tax prices.
+
+Now, if you understate your income, then you’ll be in a world of hurt the following April. If you overstate it, though, you’ll get a much larger tax return. Since the eeeevil IRS is administering the exchange, it’ll already know what tax credit you’ve gotten.
+
+—–
+
+In answer to a question from an earlier post, this structure is clearly designed for households with equal insurance needs. When only one member is insured, it gets tricky.
+
+Anybody can buy from the exchange. However, you can only get premium support if you’re unable to get insurance for less than 9.5% of your income3.
+
+Let’s say one spouse is on Medicare (but still working), but his wife is 55. If she can get insurance through his job, and that insurance is less than 9.5% of their combined income, then she can’t get subsidies on the exchange. If he’s retired, though, and they earn $40,000 a year, then she’ll be able to get the CareSource plan for herself for $276 a month.
+
+In another instance, a teacher is married to a freelance graphic designer and they have 2 kids. Their combined income is $45,000. The teacher can get insurance for $150 a month, but it’s another $500 a month to cover his family (this is a non-union district).
+
+The teacher can’t get premium support. The graphic designer, however, can go to the exchange and enroll both kids in CHIP and get the CareSource plan for $220.
+
+Finally, if your employer offers you coverage that costs less than 9.5% of your income but the coverage is lousy, then you can’t get premium support. In 2015, if you’re at a business with fewer than 50 employees, your employer will send you to the exchange and pay 75% of whichever plan you want–and then get reimbursed by the IRS for up to 33% of those costs, which are themselves tax deductible. This is insanely complex from an administrative standpoint, so it’s being delayed a year in Ohio.
+
+As with the above, though, it’s all on the back end. If you work at a small business, you’ll just get to go online and choose an insurance plan at a huge discount. And your boss will now be getting a subsidy for a third of insurance costs.
+
+—–
+
+What about the individual mandate? That’s just to get you to go to the exchange. If you declare in your tax return that you don’t have health insurance, you’ll have $95 deducted from your return.
+
+It’s a psychological thing. The premium support levels are set such that 90% of people will very happily take the insurance (as they do when their employer offers those same prices). But if they aren’t “required” to take it, then they won’t go to the exchange in the first place.
+
+If they don’t like what they see at the exchange, then we’ll have problems. But, what you see above is what you’ll see at the exchange.
+
+—–
+
+1 Medicaid is, in practice, “0% of income” on the chart. People below 138% of poverty are, statistically speaking, unable to spend anything at all on their health insurance.
+
+Only 25% of Ohioans below 138% have private insurance, compared to 61% of those earning 138%-250%.
+
+2 As a warning, I think the drug coverage on Silver plans is going to be disappointing (like, a $500 deductible). We won’t know until October, though, because Mary Taylor won’t release the plan details.
+
+3 For the record, I think most of the following is bad policy and will be pretty annoying in practice.

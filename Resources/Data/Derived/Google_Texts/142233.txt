@@ -1,0 +1,9 @@
+Saturday, July 12, 2014
+
+Among the Federal Rules of Civil Procedure is Rule 12(b)(5) which permits a defendant to file a motion to dismiss a case for insufficient service of process. Most states have a similar rule for their own courts.
+
+This rule arises from Constitutional requirements of due process. To commence a lawsuit and change the legal position of parties, due process requires that proper notice be given. This is a fundamental proposition and failure to serve notice violates due process. Even actual notice of a lawuit may not suffice if service of process requirements have not been met. Typically, this involves service by a sheriff, constable, marshal or other person duly appointed to serve process, who then makes a proper affidavit of service.
+
+Recently, a case has become notorious because the Plaintiff's attorney opted to name the Tor Project as a defendant simply because an offending website used Tor. Tor is a system by which anonymous internet use is facilitated; it can be used for good and for ill. The Tor Project likely enjoys complete immunity under Section 230 of the Communications Decency Act. However, I observed another flaw.
+
+The chief defendant, a website, has faced litigation from this attorney before. As an obvious joke, they listed a colleague of his as the attorney to whom complaints should be addressed. Yet, the Plaintiff's attorney chose to attempt to effect service on the defendant website at his colleague's office. I observed that due process would not be met and the service defective. Moreover, it might constitute a fraud on the court since the attorney apparently knowingly attested to the court that service upon the colleague would be good service.

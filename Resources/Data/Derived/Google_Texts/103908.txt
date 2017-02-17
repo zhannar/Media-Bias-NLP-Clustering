@@ -1,0 +1,69 @@
+OPINION -- “As some put it, personal data will be the new "oil" - a valuable resource of the 21st century. It will emerge as a new asset class touching all aspects of society.”
+
+—“Personal Data: The Emergence of A New Asset Class” presented February, 2011 at the World Economic Forum
+
+Personal data surges from swollen data clouds and leaky Internet pipes, flooding the 21st Century digital highway with gigabytes of our private lives. We volunteer personal data through social media. But “observed” data is captured and collected in bulk metadata program (such as cell phone location data) without our knowledge. Even more troubling is the kind of data that is “inferred” through analysis of data merged from multiple sources.
+
+DATA HARVESTING OR DATA RAPE?
+
+The international debate about data privacy could be framed different ways.
+
+The data harvester gleans data for seeds that germinate ideas—good and bad. Harvest them all to eliminate the bad seeds so the good seeds can grow.
+
+Data rape sounds more sinister. Internet service providers (ISPs) penetrate our personal computers through deep packet inspection. This technology enables ISPs to monitor the content of data packets in real-time. When you express interest on the Internet, the click of a mouse creates a cookie trail. These cookies are like booze, ecstasy and other drugs that make it easier for the college coed to score.
+
+In December, the U.S. Senate Committee on Commerce, Science, and Transportation held a hearing to examine the data broker industry and how industry practices may impact consumers. Pam Dixon from the World Privacy Forum testified, stating data brokers commonly sold “lists of rape sufferers, victims of domestic violence, police officers’ home addresses, people who suffer from genetic illnesses.” She presented evidence of a “Rape Sufferers List” that sold for 79 cents per name. The Wall Street Journal investigated with this story: “Data Mining to Recruit Sick People.”
+
+Data mining and lawfulness
+
+Regardless of the framing, when details of our personal lives are collected without consent, our privacy is violated. This is repugnant since we cannot finger the nameless and faceless perpetrators. The NSA argues that bulk data collection is lawful and necessary for national security. As Pam Dixon illustrated, controversies of data privacy go far beyond spy agencies.
+
+Behavioral profiling is a form of inferred data exploited by commercial interests. Media conglomerates and bloggers compete for readers to monetize digital content through “behaviorally targeted advertising.” Campaigns strategically mine our hobbies, passions and vulnerabilities to micro-target a tailored message that effectively sells politics and products.
+
+McKinsey Global Institute, a global management and consulting firm, describes BIG DATA as “datasets whose size is beyond the ability of typical database software tools to capture, store, manage and analyze.”
+
+That’s a convenient definition. BIG DATA software tools create inferred data. And they are proprietary, of course. Who could audit or question inferred data—especially if we have no access (let alone knowledge) that the BIG DATA is being collected.
+
+“Competing on information is no longer a luxury—it’s a matter of survival,” writes Boris Evelson, VP and analyst of Forrester Research in his review of Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie or Die. Predictive analytics and evidence-based analysis are touted to save lives and taxpayer dollars.Big government and big business have united—often in formal public private partnerships—to collect and mine BIG DATA.
+
+HIPAA (Health Insurance Portability and Accountability Act) and FERPA (Family Education Rights and Privacy Act) are landmark laws intended to protect health and education privacy. There is “no private right of action” when unlawful access, use or disclosure of personal health information or student’s protected information occurs. In other words, you can’t sue under HIPAA or FERPA laws when your personal data has been compromised.
+
+Regulatory revisions have essentially gutted both HIPAA and FERPA. The Electronic Privacy Information Center (EPIC), a public interest research center, sued the US Department of Education for unlawful regulations of FERPA which allowed the "release of student records for non-academic purposes and undercut parental and student consent provisions." The federal court dismissed the case, concluding EPIC lacked “constitutional standing.” The fate would likely be the same for HIPAA.
+
+HIPAA and FERPA were gutted to make way for BIG DATA.
+
+BIG DATA = BIG MONEY
+
+One thing is certain. There is BIG MONEY in BIG DATA. In 2012, private equity firm Veritas Capital paid $1.25 billion for the healthcare unit of Thomas Reuters Corporation. They re-christened their cash cow, Truven (a combination of the words “trusted” and “proven”) Health Analytics.
+
+Truven Health crmViewTM Marketing Solutions boasts a “double-digit ROI” for Medford Providence Medical Center. (ROI for those who don’t know business speak is return on investment.) In 2009, the hospital’s chief medical officer sent a personalized letter to encourage visits with their primary care physician for a routine screening focused on “stage of life” procedures. The demographics: 1,489 insured female heads of household, aged 40 to 55 and who hadn’t seen their primary care physician for two years. Ka-ching!
+
+Not to be outdone, IMS Health Holdings has just filed for a public stock offering. IMS Health brags that they’ve collected “over 85 percent of the world’s prescriptions by sales revenue.” According to ProPublica, IMS Health stores 10 petabytes (or 10 million gigabytes) of data that includes comprehensive, anonymous medical records from 400 million patients. This, no doubt, attracts the top 100 global pharmaceutical and biotechnology companies as clients. Ka-ching! Ka-ching!
+
+As reported last year in Bloomberg News, Truven was the top purchaser of hospital discharge data. An accompanying infographic show IMS is not far behind. OptumInsight “owns one of the deepest pools of health data on the planet.” Seattle-based Milliman, a global actuarial firm that consults with insurance companies, is also no slouch. Milliman’s spokesman declined further discussions, noting the company’s data analysis methodology is proprietary.
+
+Inferred data: Inferred motives
+
+In 2008, the Federal Trade Commission found Milliman Inc. to have violated the Fair Credit Reporting Act. Since at least 2005, Milliman “has marketed IntelliScript, a data aggregation service that provides individual medical profiles, including, but not limited to, prescription drug purchase histories of insurance applicants, to health and life insurance companies.”
+
+With prescription drug histories mined from pharmacy benefit managers, IntelliScript created a color-coded “pharmacy risk score.” Red codes, for example, included AIDS cocktail drugs and cancer medications. Milliman marketed instant access to personal drug profiles. As Mark Franzen, managing director of Milliman IntelliScript, stated, “That's the real 'value-add.’”
+
+A value-add for patients? Tim Sparapani, senior legislative counsel at the American Civil Liberties Union thought otherwise, saying products Milliman markets are a "commodification" of electronic medical records by third parties.
+
+Ingenix is another case study. A subsidiary of UnitedHealth Group, Ingenix was the nation’s largest provider of healthcare billing information.
+
+In 2008, then New York Attorney General Andrew Cuomo conducted an “industry-wide investigation into a scheme by health insurers to defraud consumers by manipulating reimbursement rates.“ Ingenix had rigged rates for out-of-network doctors. When “reasonable and customary” reimbursements were lowballed, patients were forced to absorb a higher share of the costs.
+
+Healthcare.gov defines balance billing:
+
+When a provider bills you for the difference between the provider’s charge and the allowed amount. For example, if the provider’s charge is $100 and the allowed amount is $70, the provider may bill you for the remaining $30. A preferred provider may not balance bill you for covered services.
+
+Balance billing does not accrue toward the out-of-pocket maximum with enactment of the Not-So-Affordable-Care-Act.
+
+The American Medical Association maintains a litigation center and a database specifically for Ingenix lawsuits. In April 2011, UnitedHealth Group rebranded Ingenix as OptumInsight. The CEO of UnitedHealth Group and its subsidiary OptumInsight, née Ingenix, is Stephen J. Hemsley. According to Forbes, he is the top paid CEO in America, having earned over $120 million in the past five years.
+
+BIG DATA and Oregon’s All Payer All Claims Database(s)
+
+What has any of this got to do with Oregon? A lot. To be continued…
+
+Dr. Kris Alman retired from healthcare to become a citizen activist for a healthier democracy. She advocates for fair taxation to invest in the common good--prioritizing education, renewable energy, campaign finance and healthcare policies and laws. She is also the Green Shadow Cabinet Assistant Secretary of Health for Data Privacy. She can be reached at kris.alman@gmail.com

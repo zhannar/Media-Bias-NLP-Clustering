@@ -1,0 +1,21 @@
+Topics: De-extinction, extinction, Scientific American, Woolly Mammoth, Sustainability News, Technology News, Life News
+
+This article was originally published by Scientific American
+
+In a petri dish in the bowels of Harvard Medical School scientists have tweaked three genes from the cells of an Asian elephant that help control the production of hemoglobin, the protein in blood that carries oxygen. Their goal is to make these genes more like those of an animal that last walked the planet thousands of years ago: the woolly mammoth.
+
+“Asian elephants are closer to mammoths than either is to African elephants, yet quite different in appearance and temperature range,” notes Harvard geneticist and technology developer George Church. “We are not trying to make an exact copy of a mammoth, but rather a cold-resistant elephant.”
+
+But what if the new—and fast advancing—techniques of genome editing allowed scientists to engineer not only cold-resistance traits but also other characteristics of the woolly mammoth into its living Asiatic relatives? Scientists have found mammoth cells preserved in permafrost. If they were to recover cells with intact DNA, they could theoretically “edit” an Asian elephant’s genome to match the woolly mammoth’s. A single cell contains the complete genetic instruction set for its species, and by replicating that via editing a new individual can, theoretically, be created. But would such a hybrid—scion of an Asian elephant mother and genetic tinkerers—count as a true woolly mammoth?
+
+In other words, is de-extinction a real possibility?
+
+The answer is yes. On January 6, 2000, a falling tree killed the last bucardo, a wild Iberian ibex, which is a goatlike animal. Her name was Celia. On July 30, 2003, Celia’s clone was born. To make the clone scientists removed the nucleus of a cell from Celia intact and inserted it into the unfertilized egg cell of another kind of ibex. They then transferred the resulting embryo to the womb of a living goat. Nearly a year later they delivered the clone by cutting her from her mother.
+
+Although she lived for a scant seven minutes due to lung defects, Celia’s clone proved that not only is de-extinction real, “it has already happened,” in the words of environmentalist Stewart Brand, whose San Francisco-based Long Now Foundation is funding some of this de-extinction research, including Church’s effort as well as bids to bring back the passenger pigeon and heath hen, among other candidate species. Nor is the bucardo alone in the annals of de-extinction. Several viruses have already been brought back, including the flu variant responsible for the 1918 pandemic that killed more than 20 million people worldwide.
+
+And yet, the bucardo remains extinct. The lack of progress stems partly from a lack of funds, according to Alberto Fernández-Arias, the Spanish wildlife veterinarian who helped lead the bucardo cloning effort. But it also has to do with flaws in the method used to bring the species back to life. Researchers in Asia have been using the technique for a decade or more to try to resurrect the mammoth—to no avail.
+
+New genome editing techniques—in particular the CRISPR system Church and his team are using—offer new hope, however. In 1987 Japanese scientists found genetic sequences dubbed “clustered regularly interspaced short palindromic repeats” inEscherichia coli bacteria. These CRISPRs, as they are known, were subsequently found to be ubiquitous in many bacteria, where they defend against viruses—a simple but effective immune system.
+
+Specifically, the enzyme known as Cas9 (for CRISPR-associated system 9) can attach itself to specific DNA in a virus and cut it, following the lead of an RNA guide. That cut kills the pathogen or at least disables it. And now geneticists, armed with the right RNA sequence to guide Cas9 exactly where they want it to go (an outcome still not always guaranteed), can unleash this editor from the Streptococcus pyogenesbacteria to add or subtract code from many genes, such as those that produce hemoglobin in the Asian elephant genome or even genes in human cells. Moreover, with the right RNA guide CRISPR can edit up to five genes at once—a number that keeps growing as scientists continue to experiment. And RNA is quick and cheap to make with machines.

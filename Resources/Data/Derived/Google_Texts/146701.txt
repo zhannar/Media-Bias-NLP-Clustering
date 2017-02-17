@@ -1,0 +1,91 @@
+With millions of patients’ lives hanging in the balance at any given moment, it’s no wonder that the healthcare sector is one of the most heavily regulated industries there is.
+
+From the quality and cleanliness of medical devices and the functionality of electronic health records, to the credentialing of staff members and the flow of sensitive personal health information, nearly every aspect of medical practice comes with local, state, or federal rules attached to it.
+
+Many of these rules and regulations are critical for the protection of patients and their clinicians, and provide an important framework to govern the daily workings of providers large and small.
+
+But some of the federal government’s more recent attempts to use new policies, reporting requirements, and Congressional legislation as levers to overhaul the health IT ecosystem have come under fire from providers who feel that enough is enough.
+
+The Affordable Care Act has, of course, been a major target for stakeholders across the political spectrum, and the EHR Incentive Programs have not been far behind when it comes to collecting acrimonious comments.
+
+While these initiatives are intended to promote health IT adoption, improve the flow of data across organizations, bolster patient safety efforts, and dramatically slash out-of-control costs of care, it isn’t yet clear if meaningful use and its associated reforms have changed the industry for the better.
+
+Despite the fact that widespread disgruntlement with the quality of EHR options is widespread, The Centers for Medicare and Medicaid Services has expressed unwavering optimism that policy levers, incentive programs, pilots, demonstration projects, and resource centers are key to encouraging providers to truly embrace health IT tools.
+
+Individual states have also committed to fostering the data-driven ecosystem through policies and regulations, participating in projects, grant programs, demonstrations, and other initiatives to encourage their local communities to begin health information exchange, transition to patient-centered care programs, and engage in population health management activities.
+
+But are these state-level policy levers an effective way to drive health IT adoption and create a meaningful, interoperable, data-driven care continuum? Do the number and type of state projects correlate to actual EHR adoption and HIE rates?
+
+Using data provided by the Office of the National Coordinator, HealthITAnalytics.com will examine the relationship – or lack thereof – between state-level efforts to advance healthcare reform and health IT adoption levels in non-federal acute care hospitals.
+
+EHR adoption levels are laying the groundwork for health information exchange
+
+The EHR Incentive Programs may have their flaws, but they have undoubtedly produced results on the hospital side of the healthcare system.
+
+Thanks to strong uptake of early incentive dollars and a broad recognition that health IT is a competitive advantage, more than ninety percent of hospitals in the country have adopted certified EHR technology.
+
+Perhaps predictably, EHR adoption rates among small and rural hospitals lag behind their larger, more urbanized counterparts, but basic EHR adoption rates for small hospitals are still over 50 percent in every state except Nevada.
+
+Nevada and West Virginia are the only two states in which less than 40 percent of rural hospitals have basic EHR technology.
+
+A “basic EHR” is defined as a technology system that allows users to input and access patient histories and demographics, physician clinical notes, comprehensive medication and allergy lists, radiology and lab reports, diagnostic test results, and nursing assessments.
+
+Health information exchange is on the rise despite indirect state involvement
+
+Hospitals may be building a strong health IT foundation with widespread EHR adoption, but electronic data doesn’t do organizations much good unless they can make sure that it is complete, accurate, and as up-to-date as possible.
+
+To do this, they must engage in health information exchange with other providers in their community. Patients rarely receive all of their care in a single location, and EHR-level interoperability across unaffiliated organizations is still a pipe dream for many communities.
+
+The latest ONC data shows that states with high levels of hospital basic EHR adoption are likely to have higher rates of health information exchange, but there are some exceptions. In Maine, for example, basic EHR adoption sits at 79 percent, but HIE capabilities are only available to 51 percent of hospitals.
+
+And state-level policy levers related to HIE and health data interoperability don’t seem to have a direct impact on HIE capabilities.
+
+While many of the states with HIE advisory councils or oversight boards and HIE connection or interoperability mandates are among the leaders in data exchange, more than eighty percent of hospitals in states such as North and South Dakota, Georgia, and Virginia are able to exchange summary of care records with other providers without having such a mandate in place.
+
+What all those states do have are Regional Extension Centers (RECs) that remain open for business. Technical assistance with EHR implementation and other foundational health IT competencies continues to be available not just for ambulatory providers, but for critical access hospitals and rural hospitals, too.
+
+In Georgia, more than half of CAHs/RHs enrolled in an assistance program with the state’s REC have demonstrated meaningful use. In Minnesota and North Dakota, both served by the same REC, critical access and rural hospitals have collected more than $70 million in incentive dollars since the start of meaningful use.
+
+Thirteen states, including Texas, Colorado, New York, Massachusetts, and North Carolina, also have state-designated health information exchange organizations, some of which also provide REC services.
+
+Many of these organizations, including CORHIO in Colorado and the Mass HIway in Massachusetts, are among the most successful and stable HIE organizations in the country.
+
+In general, health information exchange levels between hospitals and primary care providers have been rising steadily since 2012, though hospitals are still struggling to develop the capability to routinely exchange electronic notifications with primary care providers outside their clinical networks.
+
+The national rate of health information exchange with external ambulatory providers is currently hovering just under 60 percent.
+
+North Dakota, Virginia, Vermont, Rhode Island, and Delaware are the only states to achieve 80 percent or better in this category. The Midwest experiences some of the lowest rates of HIE, while the coasts generally fare better on this metric.
+
+EHR adoption rates may not predict patient engagement abilities
+
+Along with provider-to-provider health information exchange, organizations must also focus on making patient data available to the people who own it. Patient engagement through patient portals and other electronic tools has been a contentious topic for hospitals seeking to attest to Stage 2 meaningful use, and most states are not quite where they ought to be with the ability to allow patients to electronically view, download, and transmit their personal health information.
+
+Surprisingly, provider-to-provider HIE capabilities don’t appear to be very directly related to patient engagement capabilities. In states like Oregon and Washington, which have broad EHR adoption and widespread use of HIE, patient engagement rates sink to just 38 and 42 percent, respectively.
+
+Vermont boasts an outstanding 100 percent hospital patient engagement rate, while Massachusetts follows close behind with 91 percent. Low patient communication abilities along the West Coast and throughout the Midwest bring the national average down to just 64 percent.
+
+This is despite the fact that just over half of states have at least one proposed policy lever focused on advanced primary care arrangements, which typically promote HIE, patient engagement, and population health management across the care continuum.
+
+Hospitals may not be pulling their weight when it comes to developing a shared, data-driven ecosystem to bolster connected primary care. These advanced primary care arrangements help to promote novel care delivery initiatives like patient-centered medical homes, managed care programs, telehealth and remote care services, and chronic disease management opportunities for Medicare and Medicaid patients.
+
+Can state-level policy levers bring big data analytics to bear?
+
+Official initiatives on the state level may not have the strongest impact on actual health IT adoption and usage rates, but they may be able to create opportunities for the big data analytics that support population health management and coordinated care.
+
+Thirteen states have documented all-payer claims database (APCD) policies on the books, while nine are working to better align electronic clinical quality measure (eCQM) reporting with other interoperability and data exchange efforts.
+
+Public health surveillance is even more prevalent, with documented programs in sixteen states, including California, Texas, Alaska, Pennsylvania, and New Jersey. These efforts include immunization registries, electronic lab reporting, syndromic surveillance, and cancer rate reporting.
+
+Along with interoperability and population health management programs run by health IT vendors, individual hospitals, accountable care organizations, and other stakeholder groups, state-level initiatives are laying the groundwork for the development of big data cohorts that can significantly improve community health.
+
+This extra layer of investment in the health IT ecosystem may be just the push that hospitals need to make the most of the regulatory environment, a necessary part of furthering healthcare reform. While contention over the scope of these and other mandates is likely to keep rule makers busy for years to come, it is important to recognize that policy levers are a vital piece of the puzzle that must be solved if providers are to continue to deliver high quality, data-driven care.
+
+A disclaimer about this data
+
+Data from the ONC dashboard is derived from the 2014 American Hospital Association (AHA) Annual Survey Information Technology Supplement. This data includes information from 3200 hospitals providing updates on their EHR and other health IT adoption activities. It may not represent every non-federal acute care facility in the nation, and there may be certain inaccuracies in the dataset.
+
+For example, Dev Culver, President and CEO of HealthInfoNet, Maine's state-wide HIE, pointed out to HealthITAnalytics.com that the ONC's presentation of health information exchange rates is inaccurate in his state, and may be in need of revision in other regions as well. Culver provided the following comment to address the discrepencies:
+
+At this time there are 37 hospitals in the State of Maine. 36 of the 37 are bidirectionally connected to HealthInfoNet and exchanging clinical data on a real time basis. The last hospital will be fully connected within the next 30 to 60 days. At this time, 97 percent of the residents of Maine have clinical information in the exchange. This past month (January 2016) clinical and encounter information on 43,843 patients were accessed by 2,242 authorized clinical users of the exchange. In addition to the hospitals connected to the exchange at this time, there are more than 450 other physician practices, home health agencies, behavioral health providers, and long term care facilities connected to and exchanging clinical data through HealthInfoNet. As of spring 2015, HealthInfoNet became the only statewide HIE in the country that provides direct access to clinical and encounter data within the exchange for all Veteran’s Administration patient care locations across Maine. This is in addition to providing HIE connection to VA facilities across the US through the national health information network.
+
+For more information on the American Hospital Association's data collection procedures, please visit the AHA Annual Survey site here.

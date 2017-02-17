@@ -1,0 +1,47 @@
+GIS maps hospital efforts to healthier populations
+
+For years, providers have used GIS software to map disease outbreaks and monitor the effectiveness of interventions. Now, with the Affordable Care Act and the push for accountable care, it’s proving to be a valuable tool in population health efforts.
+
+GIS — short for geographic information system — is software that is capable of capturing, storing, analyzing, and displaying geographically referenced data.
+
+While global health organizations and public health agencies in the U.S. have long used it for population health purposes, its use in the private sector has mostly been limited to strategic planning and marketing. But that’s starting to change as hospitals take on more risk for health outcomes and cost, says Danny Patel, account executive for health and human services at GIS software maker Esri.
+
+Why GIS use is rising
+
+“As the move to accountable care and value-based payments takes hold, providers and health plans are increasingly interested in applying GIS to assess risk based on geography and the populations that live there, reveal where the greatest need is, and prioritize areas for interventions,” Patel tells Healthcare Dive.
+
+EHRs alone don’t tell the whole story to mitigate those risks, Patel notes. Providers need to understand what’s driving peoples’ health, and much of that stems from their community.
+
+Big data power users
+
+One of the best-known proponents of medical GIS is Jeffrey Brenner, a family physician in Camden, NJ, who uses big data to identify “hot spot” buildings where large numbers of high-need, high-cost individuals live. By using data from hospital claims, Brenner’s Camden Coalition of Healthcare Providers (CCHP) has helped to cut emergency room use and hospital stays.
+
+“Over the years, we’ve tried a variety of geographic approaches — targeting a building/neighborhood for chronic disease management courses, building a primary care office directly in a high-cost building, and developing a relationship and care transition workflows with social services in the building,” says Aaron Truchil, CCHP’s director of data, research and evaluation.
+
+Today, the coalition is pursuing a more holistic data framework that spans health and social services — linking individuals’ education, housing, and criminal justice record to their use of healthcare.
+
+“Administrative data can play a huge role in advancing the shift to accountable care and value-based payment,” Truchil says. ”It is the financial history of what got us to this point and can help us understand where we went wrong and who is likely to have adverse events in the future.”
+
+One example of this place-based approach is Loma Linda University Health (LLUH) in California, which is using GIS to create successful interventions that reduce unnecessary readmissions and promote health behavior with a focus on transitional care. Discharged patients in San Bernardino County, where LLUH is located, have historically had trouble maintaining their health and wind up back in the hospital, says Patel. The county ranks 42 out of 57 in the state in health outcomes and 41 of 57 in health behaviors.
+
+To turn things around, LLUH created an interactive map that patients can access to find community resources near their home that will help them stay healthy and avoid recurrent hospitalization.
+
+A deep GIS dive into Children's National
+
+At Children’s National Heath System (CNHS) in Washington, D.C., administrators are using GIS to better understand their population across the region, characterize different subsets of a disease population, and target areas for improvement and intervention. For example, in 2015, CNHS characterized all of its sickle cell disease patients were admitted for pain crisis.
+
+“In doing so, we evaluated clinical variables found during the initial admission that may influence the propensity for a child to be readmitted,” says Jefferson McMillan, manager of business intelligence and clinical analytics at the 313-bed hospital.
+
+“We also worked into this prediction model information about the geographic area from which the children originated," McMillan says. "This information was gathered from our enterprise GIS and include how close they were to appropriate outpatients services, other emergency departments and our main campus.”
+
+The prediction model showed that the distance patients had to travel to get to the hospital was often significant and those who were closer had a “protective effect,” according to McMillan.
+
+The model has also helped the nonprofit health system focus scarce resources on areas that need them the most, such as building interventional clinics or clinic services to prevent readmissions. “GIS significantly improves the overall [return on investment] because of both the increase of specificity and sensitivity of the intervention and decision,” McMillan says.
+
+CNHS uses a system-wide GIS platform that can be accessed by all users in the system. “Our payment models have not changed in pediatrics to a value-based or accountable care, so implementing this system allows us to provide the highest level of care,” McMillan says.
+
+The drivers may vary depending on whether the focus is research, clinical, quality improvement or some other need, but the goal is always the same — doing what’s best for the kids.
+
+The mighty strength of GIS
+
+The value of GIS is that it provides context to geographic data that would otherwise just be a value in a database, says Patel. “The key to making this data actionable is to uncover the relationships and patterns that traditional healthcare IT systems can’t detect.”

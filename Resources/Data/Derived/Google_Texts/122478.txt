@@ -1,0 +1,23 @@
+Oversight
+
+GAO calls for improved security for HealthCare.Gov
+
+A Government Accountability Office report released on the six-year anniversary of the Affordable Care Act highlights several potential security weaknesses and oversight deficiencies for the HealthCare.gov website.
+
+According to GAO auditors, the Centers for Medicare and Medicaid Services reported 316 cybersecurity-related incidents from October 2013 to March 2015 targeting HealthCare.gov, none of which left evidence that sensitive personal information had been successfully compromised.
+
+Nevertheless, the GAO report outlines areas in which CMS could bolster the security and privacy of the data processed via HealthCare.gov.
+
+Auditors identified potential security weaknesses in technical controls and software for the Federal Data Services Hub, the portal for exchanging personal health information between the Federally Facilitated Marketplace and other government agencies.
+
+The hub's potential weaknesses include insufficient timeliness in patching security vulnerabilities, insufficient security configuration of the hub's administrative network and the need for more restrictions on the functions CMS administrators are allowed to access. In particular, more restrictions on access would decrease the risk of a breach by a malicious or compromised insider, according to the GAO.
+
+Furthermore, although CMS has taken steps to oversee the security controls governing the state-based health insurance exchanges, the report criticizes the agency's triennial testing frequency and the lack of a clear definition of its responsibilities, procedures and, in some cases, time frames for correcting deficiencies.
+
+Three state-based exchanges also had "significant weaknesses" related to the potential compromise of data, according to the report.
+
+One state had authentication servers that accepted unencrypted connections, making it susceptible to outside surveillance and possible information gathering. Another state did not filter URL requests through a firewall, and a third did not enforce high-level encryption on its Windows servers.
+
+GAO issued a separate report with limited distribution that includes 27 recommendations aimed at improving oversight on the part of CMS and the Department of Health and Human Services. Those recommendations address implementing stronger monitoring practices, bolstering security weaknesses in the data hub and other ideas for better securing the state-based marketplaces.
+
+HHS officials concurred with all GAO's recommendations and said they are taking steps to address them. The three states generally concurred with their recommendations as well.

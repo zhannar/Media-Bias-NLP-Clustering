@@ -1,0 +1,45 @@
+Connect with Facebook to share articles you read on ProPublica. Learn more »
+
+In the early days of Healthcare.gov, I praised the Centers for Medicare and Medicaid Services for publishing a dataset with sample rates for every health plan participating in the federal health insurance marketplace.
+
+It seemed like a great, early example of transparency in this months-long enrollment period. The dataset is a decent size — 78,000 rows — and provides information by health plan, state and county of residence.
+
+For every plan, it includes sample rates for a 27-year-old adult, a 50-year-old adult, a family (2 adults age 30, 2 children), a family with a single parent (1 adult age 30, 2 children), a couple (2 adults age 40, no children) and a child of any age.
+
+It seemed like a good apples-to-apples way of comparing health plans in a market. But what is a good comparison tool for the media and researchers, we’ve come to learn, is not working for consumers.
+
+One of the early criticisms of Healthcare.gov is that it forced users to register (a tedious and often unsuccessful process) before they could find plans and their prices. That decision was a major area of criticism during a hearing yesterday before the House Energy and Commerce Committee.
+
+In recent days, officials at the U.S. Department of Health and Human Services have touted a solution that went live this week: a new tool on Healthcare.gov that allows users to “window shop” without logging on.
+
+"This tool provides a user-friendly way to see high-level plan information with examples of pre-tax credit prices," HHS spokeswoman Emma Sandoe said in a statement when the tool was released. She added that most consumers will qualify for credits, resulting in lower premiums than those quoted.
+
+But on Wednesday, CBS News reported that the tool could be wildly misleading because it quoted prices for only two groups (49 and younger, and 50 or older). The first group was based on a 27-year-old’s cost while the 50 and older was based on a 50-year-old’s. If you’re, say, 48 or 63, your prices could be much higher.
+
+I decided to see for myself how this new price tool differs from the actual rates quoted when I log into the account I created on Healthcare.gov. (I’m 39 years old and live in New Jersey.)
+
+As CBS found, the price comparison tool notes that the prices listed may be lower because many people are eligible for subsidies.
+
+What it doesn’t prominently say is that your cost may be higher if you’re older than the ages used for the comparison.
+
+Here are a couple examples of what I was told from the price comparison tool and what I was actually quoted when I logged in to my account:
+
+Price comparison tool
+
+Actual site
+
+That’s a difference of $562 a year. But I also learn when logging in that this plan comes with a $2,350 deductible before it covers my health expenses (except for preventive care, which is free).
+
+Here’s another example with a different insurer.
+
+Price comparison tool
+
+Actual site
+
+This is a difference of $700 a year. And this plan has a $2,500 deductible.
+
+The co-payments differ in both plans, and I still would need to see if my doctors take whichever plan I would choose.
+
+The bottom line is that HHS can and should do a better job of making accurate information available to those who window shop. That doesn’t require a major technological investment.
+
+Like this story? Sign up for our daily newsletter to get more of our best work.

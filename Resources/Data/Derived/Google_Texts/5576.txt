@@ -1,0 +1,89 @@
+(Mark Wilson/Getty Images)
+
+More than 175 pages of internal Obama administration memos, obtained by the House Oversight Committee, released Tuesday and reviewed by ABC News, present the most detailed account yet of the troubled rollout of the federal health insurance exchange, HealthCare.gov.
+
+While there are no bombshell revelations, the documents make clear that the administration grossly underestimated the scope of the website's technical problems; struggled to contain widespread confusion among insurers and applicants; and now faces a barrage of new challenges triggered by its emphasis on paper applications.
+
+The memos from Oct. 1 through Oct. 27 are "war room notes" from the government team charged with overseeing the health care law rollout. They don't provide any hard enrollment figures, which officials have promised to release later this month. But they do suggest the administration likely fell well short of its 500,000 enrollment target in the first month, possibly reaching fewer than one tenth of that goal.
+
+Here are some highlights from the document trove:
+
+CHAOS, CONFUSION BEHIND THE SCENES: 'TIGER TEAM' RESPONDS
+
+From the moment HealthCare.gov went live, there were problems across the board, not just limited to logging in or creating an account. There were widespread reports of insurers' plans not showing up in the marketplace, or showing up with the wrong pricing or details. Many applicants (90 percent) who managed to get into the system couldn't pass residency tests to determine Medicaid eligibility. Meanwhile, agents and brokers couldn't access their portal, while regional account officers and caseworkers were "unavailable."
+
+A Critical Incident Response Team (CIRT), also known as the "Tiger Team," composed of members of each division involved with the rollout, convened immediately. They began meeting daily at 8 a.m. and 2:30 p.m. until Oct. 15. The group stopped meeting regularly after that point, but "continue to discuss urgent topics."
+
+RELATED: Phone, Mail Signup Uses Same System as Website
+
+While much focus has been on the consumer experience, insurers have had an equally frustrating time with HealthCare.gov, and also contributed to some of the chaos. In the first week, insurers requested to make more than 200 changes to their plans and offerings through the portal.
+
+On Oct. 7, for example, Humana Georgia wanted to cancel a PPO plan after 11 people had already enrolled. U.S. Health and Human Services officials agreed to allow the move but then had to figure out how to cancel and re-enroll each person.
+
+Three days later, on Oct. 10 the memos show, the Oklahoma Community Care plan wanted to drop bariatric surgery coverage: "They understood the benchmark plan as covering it and so they covered it," the memo explains of the company's concern. "They noted other plans in [Oklahoma] didn't cover it. The other plans use the same language as the benchmark: covered if medically necessary except for weight reduction. [Oklahoma] Community Care didn't use that language and covered it. … They would like to stop covering bariatric surgery." HHS ultimately approved the change.
+
+WELL BELOW THE 500,000 ENROLLMENT TARGET?
+
+It's unclear is how many people succeeded in enrolling in new insurance plans through the online portal during October. As of Oct. 8, according to the memos, it was "700+ enrollments."
+
+RELATED: New 'Obamacare' Snafus Strike White House
+
+As for paper applications: More than 11,000 have been received, but only 4,000 had been entered into the system as of Oct. 27. Of those, it's not clear how many are completed and applicants officially enrolled.
+
+Bottom line: it's hard to see how the first-month totals come anywhere close to 500,000, or possibly even 50,000.
+
+ROOT CAUSE: WAS IT TRAFFIC VOLUME, OR SOFTWARE FLAWS?
+
+Top administration officials, including HHS Secretary Kathleen Sebelius and President Obama, have repeatedly blamed higher-than-expected traffic to HealthCare.gov to help explain the disastrous user experience on the website. But the memos offer no indication that the officials closely overseeing the site were surprised by the volume, or blamed it for the poor performance.
+
+As problems emerged Oct. 1, officials noted: "We heard that the capacity [of the site] was 100,000 people and there are 150,000 on it - is it an EIDM issue or a system capacity issue? (It is confirmed as an EIDM issue)" An n Oct. 3 memo indicated that the "EIDM servers may have software issue." The next day: "Initially thought it was a capacity issue, but changing the software."
+
+The software glitches continued for those who were able to begin completing applications. On Oct. 9, officials reported, "For about 30% of the 70,000 applicants, the system has skipped through 'events' they are required to complete": in other words, not allowing people to complete their applications.
+
+ADMINISTRATION UNDERESTIMATED SCOPE OF PROBLEMS
+
+From the beginning, one of the biggest problems with the website has been the inability of people to create an account, log in or check their eligibility for a subsidy. The glitch has centered on the Enterprise Identity Management (EIDM), "the system that helps identify that people are who they say they are."
+
+Repeatedly in October, analysts and administration officials talk about adding servers and making code fixes, each time implying that the noted "fix" should resolve the issue once and for all. But weeks after the EIDM issue first surfaced, they are still grappling with the issue.
+
+"EIDM fix is taking longer than expected," analysts wrote in an Oct. 8 memo. "Website is shut down to carry it out. It's a new take on how to fix the problem that's being implemented today."
+
+On Oct. 11, experts were still grappling with "code freezes" and considering an "EIDM alternative."
+
+PAPER APPLICATIONS PRESENT NEW HEADACHES
+
+Initially, the Obama administration wanted to avoid paper applications, funneling all consumers to HealthCare.gov for the greater efficiency, ease of workflow and less manpower required. Paper applications were not initially available for download on the website. By the end of the first week, a scant 300 paper applications had been received.
+
+Yet with the website problems spiraling, administration officials began to openly consider a shift to paper applications, despite knowing that all applications would still have to be processed through the same flawed computer portal.
+
+Serco, the contractor responsible for processing all applications by mail, "can't process online the 500+ applications they have" because they can't log in, an Oct. 8 memo noted. "They may be doing the opening and mailroom part, but they haven't been able to link to the application and get people an eligibility determination."
+
+Still, many people started turning to paper applications on their own. By Oct. 11, Serco reported around 1,000 paper applications and the call center was getting "30,000 requests a day for paper applications." On Oct. 15, Obama administration officials made a deliberate choice to promote paper applications as an alternative, making them available online and directing navigators to use them.
+
+The collection of paper created new problems, however. There were mounting "discrepancies between the paper applications and online system they need to populate," one memo reads. In other words, many applications were incomplete without proper in-person follow up.
+
+Thus began a major undertaking Oct. 22: "outbound calling," with Serco staffers personally calling applicants to try to correct applications and fill-in the blanks. "50% were not getting into the online system because they are not key-able that are missing some info," according to a memo. And attempts to obtain the missing info aren't always successful: "A significant number of outbound calls are not actually resulting in contacts. (Wrong numbers, etc.)," a memo from Oct. 25 reads.
+
+As of Oct. 27, roughly 4,000 applications had been entered into the system, with 1,400 in the process of being keyed in by a contractor, according to the memos. About 6,000 applications remain in the queue because of missing data or other issues. To handle the surge in applications, the Serco is boosting its staff of 1,800 to 3,800 by December, according to an Oct. 16 memo.
+
+ODDBALL PROBLEMS
+
+Incarceration problem: In the first few days of the launch, as many as 6 percent of applicants were coming back as incarcerated, according to one memo. This was later determined to be a problem with the application itself. "Really high match for things we wouldn't expect like death, incarceration - mostly in the states," a memo from Oct. 7 reads.
+
+NH Abortion: New Hampshire officials inquired about adding elective abortion coverage to their plan offerings for 2014 and wondered how to set up an account for separate payments. (Plans offered through HealthCare.gov with subsidy support are forbidden by law from covering abortions, although consumers can purchase separate coverage.) Officials at HHS dismissed the inquiry as infeasible: "It is not happening. It is not doable to have a segregated account and track it."
+
+Utah requested to shut down its exchange until there were fixes to problems with issuers' plans not showing up. The state's biggest issuer, Select Health, was not appearing in the marketplace two weeks after launch.
+
+Immigrant applications were not checked against the Department of Homeland Security database in the first few weeks, the memos show.
+
+Fraud allegation: Kansas navigators reported on Oct. 8: "BCBS [Blue Cross Blue Shield} called an application back with all kinds of personal information to share and a changed password." No word on how the allegation was resolved.
+
+VA & Deceased People: Seventy-five percent of total traffic to the Veterans Affairs data hub has matched deceased individuals, according to an Oct. 10 memo. Initially, officials said it was unclear whether it's a system problem, an issue of repeat submissions or fraud. One week later, a memo says the VA identified issue as a problem with a "VHA" verification mechanism.
+
+UPDATE at 1:13 pm ET
+
+Health and Human Services spokeswoman Joanne Peters downplayed the significance of the "war room notes," calling them "just notes by a contractor" who sat in on the meetings.
+
+"Many of them are more than a month old and they reflect static points in time in a fast moving process," Peters said in an email statement. " We have made significant progress, as we have worked to identify issues, diagnose them and fix them. Users today are experiencing quicker page load times, less user errors and a better overall consumer experience as Americans are enrolling in coverage every day."
+
+HHS said this week that the website is now capable of processing more than 17,000 applications per hour, though its unclear how many are getting through. Secretary Kathleen Sebelius told a Senate committee today that official enrollment figures for October will be released next week.

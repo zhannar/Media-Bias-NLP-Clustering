@@ -1,0 +1,15 @@
+Trout and salmon are two types of fish that are likely to be infected with Y. ruckeri, a type of bacteria that may have future potential in treating cancer.
+
+Researchers recently examined the features of a pathogen that infects fish and found that it could possibly work as a cancer treatment in the future.
+
+Though the research is in its early stages, researchers believe they may have found a potential new route for treating cancer — through a pathogen that causes redmouth disease in Salmonidae fish, which includes salmon and trout. The researchers, from the University of Freiburg in Germany, published their study in Nature Communications.
+
+The research team focused primarily on the pathogen Yersinia ruckeri, a species of gram-negative bacteria that is tied mainly to fish diseases. Yersinia ruckeri is related to, but different than the Yersinia pestis bacteria, which is known to cause several forms of plague, including bubonic. Y. ruckeri only infects fish.
+
+The key to treating cancer lies in a particular toxin-injection “machine” located in the Y. ruckeri genome. The researchers found this machine has a structure resembling that of a virus that attacks bacteria, and that it contains a toxin known as Afp18, which deactivates the switch protein RhoA. RhoA plays a significant role in the cells of both humans and fish, such as monitoring processes in cell division and tumor spreading.
+
+The researchers decided to take Afp18 and inject it into zebra fish embryos, thus blocking the RhoA switch protein and cell division, and preventing the embryos from developing. Using X-ray analysis, the research team was able to watch how this process unfolded. RhoA controls buildup and breakdown of actin filaments — parts of the cell that are important during cell division and tumor metastasis. When the zebra fish embryos were injected with Afp18, the actin filaments collapsed. Because RhoA proteins are often involved in cancer growth and spreading, they hope that injecting Afp18 could ultimately block cancer cell division and metastasis.
+
+Researchers have explored toxins as cancer treatment in the past — from the polio virus to infectious bacteria like Salmonella and C. novyi. But while trials are often successful in animal tissue, with many dogs, mice, and even one human patient showing remission from cancer after the treatment, it has been difficult to translate the same results to all humans. Indeed, plenty more research will need to be done to truly determine whether this fish pathogen can stop cancer from spreading. It will likely be several years before such a treatment could be tested in clinical trials.
+
+Source: Jank T, Eckerle S, Steinemann M, Trillhaase C, Schimpl M, Wiese S. Tyrosine glycosylation of Rho by Yersinia toxin impairs blastomere cell behavior in zebrafish embryos. Nature Communications. 2015.

@@ -1,0 +1,99 @@
+News
+
+Wearables: Fad or the Future?
+
+Body-worn monitoring devices have the potential to disrupt healthcare, but they first need to overcome some serious hurdles. Share
+
+Posted in Mobile Health by Jamie Hartford on February 6, 2015
+
+Jamie Hartford
+
+
+
+Wearable health-monitoring devices represent an exciting opportunity in healthcare. Armed with tools to track their own conditions, patients could be empowered to take responsibility for their own health. And rather than getting small glimpses during infrequent checkups, physicians could be provided with a steady stream of data about how their patients are doing.
+
+That’s the dream, anyway. The reality is that given the tools to track their health, many patients don’t follow through, and physicians simply don’t have the time or resources to deal with the deluge of data about their patients that wearable health-monitoring devices can provide.
+
+Still, there is value for healthcare in body-worn tracking technology . Switzerland-based Soreon Research estimates that the market for wearable healthcare was worth $2 billion last year and expects it to grow 65% annually, to exceed $40 billion in 2020. Last year saw traditional medtech players wade into the space with Medtronic’s acquisition of Corventis , maker of a wearable, noninvasive mobile cardiac telemetry system, and Covidien’s purchase of Zephyr Technology , a maker of wearable patient monitoring devices.
+
+But for wearable health trackers to achieve their promise and even become the standard of care for some conditions, the technology must first overcome some serious hurdles.
+
+Quickly Abandoned
+
+One of the main criticisms lobbed at wearable technologies today is the fact that many people who initially adopt them don’t end up using them long term. A September 2013 study by Endeavor Partners found that although one in 10 Americans owned an activity tracker, nearly one in two users had abandoned their devices after only six months. When the consulting firm polled a new group of users in June 2014, long-term adoption rates had improved somewhat, but one-third of users had still stopped using their devices after just half a year.
+
+Therein lies a major problem for wearables in healthcare : Abandoning a toy you got for Christmas is one thing, but not continuing to use a device prescribed by your doctor could have serious ramifications—especially if it’s being used to capture vital data. For wearables to truly transform healthcare, they will need to improve their stickiness among users.
+
+Steven LeBoeuf attributes the widespread abandonment of wearables to “death by discharge.” LeBoeuf, cofounder and president of Valencell Inc., a Raleigh, NC-based company that licenses biometric sensor technology, says users may be initially enthusiastic about wearable devices, but their excitement tends to dim each time the battery needs recharged. Think of an activity tracker. You put it on the day you get it and wear it constantly until the battery dies, at which point you plug it in and forget about it for a few days. Each time the device needs to be recharged, the interval between uses gets longer and longer until, as LeBoeuf puts it, “it becomes best friends with your underwear in the sock drawer.”
+
+Make It Stick
+
+Vancive Medical Technologies's Metria IH1 disposable device monitors calorie expenditure, activity levels, steps, and sleep for up to seven days.
+
+Part of the problem, he says, is that wearables that track biometric data don’t keep users engaged. Sure, it can be exciting to track your heart rate for a week or log your steps for a month, but eventually the data plateaus, and you’re looking at the same stats day after day.
+
+One way to avoid that, LeBoeuf says, is to make wearable devices that combine biometrics to provide actionable insights.“ That way, [the data] becomes continually interesting,” he says. “Your phone would be boring as all hell if you just had one game on it. [Wearables] need to be more about experience; you have to want to turn back home and get the thing.”
+
+Another solution might be to ensure users don’t forget the device in the first place by incorporating it into something they already use. While many wearables on the market today are standalone, single-purpose devices, a new wave of health-tracking technology is being bundled with other items users find useful. “We want to make it so you don’t even think about it,” LeBoeuf says. “We want it to be part of what people already wear in a way they already want to wear it.”
+
+Wearable technology company Misfit, for example, recently paired its Shine activity and sleep tracker with Swarovski’s crystal jewelry to make a version of the technology that senior vice president of marketing Joan Ng bragged she wore to a fashion show. ( Hear Sridhar Iyengar, cofounder and chief technology officer at Misfit, talk about designing for simplicity at MD&M West February 10, 2015 .) LeBoeuf says Valencell is also working on a concept for earbuds that can both play music and measure blood pressure. He envisions the device as something users can pop in their ears at the gym or during their commute to gather the information they need.
+
+“You don’t need to wear a wearable all the time to get important data,” he says.
+
+That’s an idea Vancive Medical Technologies also subscribes to. The company launched its first foray into wearables with the Metria IH1 disposable adhesive monitoring patch, which tracks calories burned, activity level, steps taken, and sleep. The device is designed to be worn for seven days straight (even while showering and exercising), but Deepak Prakash, global director of marketing for digital health, says it’s not intended for long-term use.
+
+“What we want is to provide a good, accurate snapshot for a short period of time,” he says.
+
+Prakash compares monitoring health data to keeping tabs on your 401(k). “You don’t need to assess every second,” he says. “Most people’s lifestyles don’t change that rapidly. It takes time, and if you bombard them day after day [with data], they’re going to get sick of it.”
+
+The Physician's Perspective
+
+If patients don’t want to be bothered with a constant stream of data about themselves, imagine how doctors feel. Survey results published in 2005 in the Journal of General Internal Medicine showed that physicians typically see around 2300 patients per year. Managing a steady stream of wearable device data for even a small fraction of those patients would be overwhelming.
+
+“I don’t think that anybody wants to just see raw data 24/7; that’s a lot of data about you,” Young Sohn, Samsung’s president and chief strategy officer, told an audience during the Digital Health Summit at the 2015 International CES consumer electronics show in Las Vegas last month. “What matters is the trend and the change and being able to have a smart algorithm that can pick up on the change.”
+
+H2 Care's H2 device can take a blood pressure reading in just 20 seconds as well as capture the data and share it with a physician.
+
+Companies such as Qualcomm, with its 2net Platform, are working to create portals to help clinicians and users aggregate and make sense of data from disparate devices including wearables, but that’s only half the battle. For wearables to really gain traction in healthcare, they will need to be incorporated into clinical workflows.
+
+That’s a substantial challenge because healthcare today is typically managed episodically, with many patients only visiting a physician when something is wrong. Wearables, however, have the potential to disrupt that paradigm.
+
+Take the example of a patient with high blood pressure. Once the condition is discovered, the doctor will typically advise the patient to come back for check-ups and ask them to periodically take readings with a blood pressure cuff at home and record the results to share at their appointments. But South Korea-based H2 Care has developed the H2, a small, lightweight, wrist-worn blood pressure monitor that lets users get readings from anywhere in just 20 seconds. The device is paired with an online dashboard for managing the data it captures, and a companion app can be set to remind users to take readings at set intervals.
+
+As chief medical officer at the New England Quality Care Alliance, a network of nearly 1800 physicians in practices across eastern Massachusetts, Michael Cantor looks at the wearable trend from a clinical perspective. “Most doctors are not thrilled, I would say, by this opportunity,” he said during a panel about wearable technology at the Digital Health Summit. “The challenge we’ve got is, ‘How does this fit into my mental model of how I treat patients?’”
+
+Cantor said from the time they’re in medical school, physicians are taught a clear, constructive process to help them diagnose or treat patients. When presented with new tools such as wearables, they naturally try to figure out how those tools fit into the workflow they’re used to.
+
+“It’s much more of a barrier than you might think,” he said.
+
+Keys to Clinical Adoption
+
+So how can developers of wearable health-tracking devices overcome that barrier?
+
+“[Physicians] been left out of this conversation so far,” Cantor said. “We have to be part of this conversation, too, and we want to be part of this conversation.”
+
+Makers of wearable devices also need to ensure physicians are confident in their technology. That’s part of the mission at the UCSF-Samsung Digital Health Innovation Lab at the University of California, San Francisco’s Mission Bay campus, where researchers are coming together to validate new mobile health technologies.
+
+“When these things get in the clinical space, we need to have utmost confidence that the data is accurate and reliable,” Michael Blum, a cardiologist who also serves as the chief medical information officer at UCSF Medical Center, vice chancellor for informatics at UCSF, and director of the Center for Digital Health Innovation at UCSF, said at the Digital Health Summit. “As clinicians, we can’t just have everyone sending us or e-mailing us the data from whatever device they’re wearing.”
+
+Reimbursement is another hurdle. Though there are a few exceptions, such as an August 2014 announcement by the U.S. Department of Veteran Affairs that it would begin reimbursing physicians for activity trackers that deliver data on prosthetic devices, there hasn’t been consensus among payers as to how to handle wearable technology.
+
+But healthcare reform driven by the Affordable Care Act could be nudging providers toward adoption of wearables. The law’s pay-for-performance structure penalizes facilities for hospital-acquired conditions such as pressure ulcers, and some providers are turning to wearables to help them meet their goals. Chino Valley Medical Center, in California, for example, now requires patients at risk of developing pressure ulcers to be monitored using Pleasanton, CA-based Leaf Healthcare’s Leaf Patient Monitoring System , which includes a wearable sensor that wirelessly monitors patients’ movements and position to ensure adherence to protocols intended to prevent bed sores.
+
+“The Leaf Patient Monitor will help us to maintain a pressure-ulcer-free performance goal while significantly improving staff productivity by allowing clinicians to focus on those patients requiring turn assistance,” James Lally, the hospital's chief medical officer, said in a press release.
+
+Won't Happen Overnight
+
+While developments like that hint at the promising future of wearable monitoring technology in healthcare, there’s still a ways to go before we get there. While Soreon Research predicts 1.3 million lives will be saved with help from wearable devices by 2020, others see a longer path to adoption for the technology.
+
+“It’s going to be slow,” says Valencell’s LeBoeuf. “I wouldn’t be surprised if it’s 10 years out, and I’d be shocked if it's sooner than that.”
+
+Prakash, of Vancive Medical Technologies, predicts it could take even double that amount of time for wearable health-tracking technology to gain widespread acceptance among providers. “People are expecting too much, too soon, too fast,” he says. “To go into the clinical space and go into legacy systems is going to take years.”
+
+And during that time, the medtech industry will need to do some heavy lifting to help wearables live up to their potential. “Manufacturers need to invest in outcomes,” Prakash says. Providing meaningful data—not just about patients, but about the effectiveness of wearable devices themselves—will play a key role in determining if wearables are indeed the future or simply another fad.
+
+Jamie Hartford is MD+DI's editor-in-chief. Reach her via e-mail at jamie.hartford@ubm.com.
+
+Tags:
+
+Select rating Poor Okay Good Great Awesome Your rating: None Average: 4.3 ( 3 votes)

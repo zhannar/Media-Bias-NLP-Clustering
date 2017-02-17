@@ -1,0 +1,25 @@
+Getty Images
+
+SAN FRANCISCO (MarketWatch) — Google has set up a special team to take on hackers and other threats on the Web.
+
+Google’s GOOG, -0.16% GOOGL, -0.16% new initiative, dubbed “Project Zero,” aims to hunt cyber-threats and identify potential vulnerabilities on the Web that could be exploited by “criminal or state-sponsored” actors.
+
+“You should be able to use the web without fear that a criminal or state-sponsored actor is exploiting software bugs to infect your computer, steal secrets or monitor your communications,” Chris Evans, a member of Google’s security research team said in a company blog post. “Yet in sophisticated attacks, we see the use of ’zero-day’ vulnerabilities to target, for example, human rights activists or to conduct industrial espionage.”
+
+“Zero-day” threats refer to attacks on previously unknown vulnerabilities in a software application. One example is the so-called “heartbleed” bug discovered earlier this year that made large amounts of online data, including passwords, vulnerable to hackers. The flaw sent many major Internet companies scrambling to secure their networks.
+
+Google has also beefed up its encryption system to protect its network, including its Gmail service, after a massive secret government data-gathering program under the National Security System was exposed by former NSA contractor Edward Snowden.
+
+The Google team will take on threats even beyond Google products and will work with other software vendors in identifying and fixing network flaws.
+
+“We’re not placing any particular bounds on this project and will work to improve the security of any software depended upon by large numbers of people, paying careful attention to the techniques, targets and motivations of attackers,” said Evans, who also helped set up the Google Chrome security team.
+
+“Our objective is to significantly reduce the number of people harmed by targeted attacks,” he added. “We’re hiring the best practically-minded security researchers and contributing 100% of their time toward improving security across the Internet.”
+
+More must-read stories from MarketWatch:
+
+Google Glass pioneer joins Amazon
+
+Yahoo earnings: Focus on Alibaba, display business
+
+More from MarketWatch

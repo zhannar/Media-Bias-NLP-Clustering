@@ -1,0 +1,13 @@
+Booz Allen has been awarded a $202 million contract from the Centers for Medicare and Medicaid Services (CMS) to take over integration efforts on Healthcare.gov, but the overall contracting picture remains murky.
+
+It’s been a rough few weeks for Healthcare.gov. Recent GAO reports show that investigators were able to fraudulently enroll in plans and qualify for subsidies. Then, another report released last Thursday, from the HHS Inspector General showed that only some of the eligibility checks actually worked.
+
+The flawed system isn’t all that surprising once you trace the history of healthcare.gov and the spaghetti architecture that makes up the system. As CivSource has previously reported, CGI Federal was originally tasked with much of the work and was subsequently fired. Accenture and Optum/QSSI, a subsidiary of UnitedHealth Group, came in alongside a team of federal developers to duct tape the website back together during the first open enrollment period.
+
+It looked like Optum/QSSI would stay on, but the company said in May it was leaving. That brings us to yesterday’s announcement from CMS. Optum/QSSI will remain the quality tester while procurement officials deal with complaints from two failed bidders on that part of the contract.
+
+Optum/QSSI is also involved in some state exchanges, including the rebuild of Vermont’s troubled exchange which remains offline after previous vendors failed to deliver. According to VT Digger, the state may have to hire up to 200 people to manage another paper-based open enrollment period if Optum is unable to get the technology up and running by November.
+
+Booz Allen will be on board for five years under the CMS award, and will lead governance and technical coordination. According to a statement from the company, Booz Allen will work with CMS on new features and improved functionality as part of the contract.
+
+Booz Allen will also be responsible for coordinating with the CMS Marketplace IT PMO including both business and technical stakeholders through the open enrollment periods.

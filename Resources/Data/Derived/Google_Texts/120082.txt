@@ -1,0 +1,65 @@
+Federal auditors reported Tuesday that they found deficiencies in the internal controls used by the health insurance exchanges run by Connecticut, California and the federal government.
+
+The problems could have limited the marketplaces’ ability to prevent people from using inaccurate or fraudulent information when applying for coverage as part of the health law commonly known as Obamacare, the auditors said.
+
+Connecticut’s exchange, Access Health CT, inaccurately determined that several hundred applicants were eligible for federal assistance in paying insurance premiums or health care costs, failed to promptly send enrollment information from 139 customers to insurers, and didn’t always verify the identity of people who use the exchange’s call center in accordance with federal guidance, the auditors reported.
+
+Steven Sigal, Access Health’s chief financial officer, said the exchange had already found and fixed most of the problems the auditors reported -- a sign, he said, that the organization had appropriate controls in place.
+
+“We didn’t think we had very serious problems, and we certainly don’t think we had inadequate controls because of all the mitigations we were doing,” he said. “And we continue to be vigilant because we’re still solving issues for people as they go through the process.”
+
+Because the exchange’s system was developed in a short time to meet deadlines, Sigal said staff was vigilant in reviewing the data it was generating.
+
+“This thing has got a lot of pimples and blemishes,” Sigal said. “We basically put together in 10 months what [in] a normal systems development lifecycle would take three years, so we were keenly examining and reviewing everything that went on. Some of the things that [the auditors] found were a byproduct of our caution.”
+
+Report for Congress
+
+The issues were identified as part of an audit the U.S. Department of Health and Human Service’s Office of Inspector General conducted on three exchanges -- Access Health CT, the federal marketplace used by 36 states, and California’s exchange, Covered California. Congress required the auditors to report on the effectiveness of safeguards to prevent people from submitting inaccurate or fraudulent data when applying for health insurance.
+
+The findings -- along with a separate report that found that the federal exchange had been unable to resolve 2.6 million application inconsistencies in the first three months of open enrollment because of problems with the eligibility system -- are likely to generate renewed criticism of the rollout of the health law.
+
+“The reports underscore the perils of the administration’s incompetence, the reckless rollout, and the systemic disregard for taxpayer dollars,” U.S. Rep. Fred Upton, chairman of the House Energy and Commerce Committee and a Michigan Republican, said in a statement.
+
+In their report on the Connecticut, California and federal exchanges, the auditors raised questions about exchanges’ ability to verify applicants’ residency and family size after finding that the three exchanges relied solely on the information that applicants provided. According to the auditors’ report, Access Health officials said the federal government had not identified a data source to use to verify applicants’ residency, although the exchange said it verifies that the addresses people give are valid.
+
+The report also noted that exchanges rely on applicants’ information about family size without verifying it. The federal Centers for Medicare and Medicaid Services, which oversees the exchanges, had planned to use data from the Internal Revenue Service to verify family size, but determined it might not correspond to actual family seize, according to the auditors.
+
+The audit identified three areas of deficiency in the internal controls used by federal and Connecticut exchanges, and five in California’s exchange, as well as additional issues that weren’t directly related to internal controls. The examination covered October through December 2013, the first three months of the open-enrollment period for health plans sold by the exchanges.
+
+The auditors noted that deficiencies they found don’t necessarily mean people enrolled in coverage improperly because other mechanisms exist that could remedy problems.
+
+Inaccurate eligibility determinations
+
+Arielle Levin Becker / The CT Mirror
+
+During the period covered by the audit, 34,095 people signed up for private insurance through Access Health, according to the audit report. But some had problems, according to the report.
+
+There were 223 people who were eligible for Medicaid, but who Access Health inaccurately determined were eligible to buy private insurance with financial aid from the federal government. The exchange also inaccurately determined that 619 people who selected catastrophic health plans were eligible for federal help reducing their deductibles and other out-of-pocket costs, even though those discounts can’t be used on catastrophic plans.
+
+Access Health officials said they found soon after open enrollment began that the system was determining that some applicants were eligible for both Medicaid and discounted private insurance if changes were made to their applications after they were submitted. The exchange said the issue was corrected on Dec. 21, before anyone’s coverage began. Sigal said people were contacted and asked to re-enroll.
+
+Sigal said the problem with catastrophic plans occurred because of a coding error that was later fixed. The auditors reported that customers weren’t affected because the insurance companies didn’t apply the cost-sharing reductions to the plans.
+
+Delays in sending information to insurers
+
+The auditors also reported that Access Health didn’t promptly send insurance companies the enrollment records of 139 applicants. According to the auditors, this occurred because the exchange staff identified issues with the applications but didn’t inform the staff responsible for correcting the issues. Some applicants later told the exchange that insurers hadn’t received their information, the auditors wrote.
+
+Access Health ultimately resolved the issues for 121 of the applicants and sent their information to the insurers, but the exchange was unable to reach the other 18 despite making three attempts.
+
+Sigal said the applicant information was held back from the carriers so exchange staff could address the problems in the files. He said he didn’t know if the people responsible for fixing the files hadn’t been informed about them, as the auditors reported.
+
+There was “a lot of stuff going on here while we were trying to scramble, get people enrolled,” he said. “They may have keyed in on some of the controlled chaos that was happening.”
+
+Telephone identity verification
+
+The auditors also took issue with the way Connecticut handles applicants’ calls. Federal guidance calls for state exchanges to conduct “identity proofing” before accepting phone or online applications, to assure that the right person has access to restricted data. In the case of one applicant who applied by phone, whose case was examined by the auditors, Access Health didn’t perform identity proofing in accordance with the federal guidance, the auditors wrote.
+
+Access Health officials disagreed with the auditors’ view that the internal controls weren’t effective.
+
+Sigal said the exchange decided not to verify new applicants’ identities at the beginning of a phone call because it would slow down the process. Sometimes, people call because they’re having trouble using the exchange’s website, and having to go through identity proofing first would have made the phone call and wait times longer, Sigal said.
+
+“You can’t begin to solve their issue if you’re going to have difficulty right away with identity proofing,” he said.
+
+But exchange officials noted that people’s identity is verified when they submit their applications. And if someone calls back after submitting an application, identity proofing is done, they said.
+
+After reviewing Access Health’s response, the auditors said they stood by their recommendation that the exchange develop a procedure to perform identity proofing of phone applicants consistent with federal guidance.

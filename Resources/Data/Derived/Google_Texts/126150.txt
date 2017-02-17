@@ -1,0 +1,31 @@
+Hundreds of millions of times every year many of us turn to a new kind of online software called symptom checkers to try to self-diagnose our symptoms and to get advice on whether we should seek further medical care or just rest at home until we feel better.
+
+But how good is the information we receive?
+
+The first wide-scale study of the accuracy of general-purpose symptom checkers found that although the online programs are often wrong, they are roughly equivalent to telephone triage lines commonly used at primary care practices — and they are better than general Internet-search self-diagnosis and triage. The study, led by researchers at Harvard Medical School (HMS), is published in the BMJ.
+
+“These tools may be useful in patients who are trying to decide whether they should get to a doctor quickly, but in many cases, users should be cautious and not take the information they receive from online symptom checkers as gospel,” said senior author Ateev Mehrotra, associate professor of health care policy and medicine at HMS and Beth Israel Deaconess Medical Center.
+
+Symptom checkers are hosted by medical schools (including Harvard Medical School), hospital systems, insurance companies, and government agencies (including the United Kingdom’s National Health Service). This type of software asks users to list their symptoms, using methods such as multiple-choice checklists and free text entry. Once a program has collected the information, the computer returns a list of potential illnesses that might cause the listed symptoms and suggests whether the patient should seek care immediately, visit a doctor in the next few days, or use self-care methods, such as resting at home.
+
+To test the symptom checkers, the researchers created standardized lists of symptoms from 45 clinical vignettes that are used to teach and test medical students and then input those symptoms into 23 different symptom checkers. Overall, the software algorithms that the researchers studied listed the correct diagnosis first in 34 percent of cases. The correct diagnosis was included in the top three diagnoses in the list in 51 percent of cases and in the top 20 in 58 percent.
+
+In many cases, getting the exact diagnosis may not be as important as getting the correct advice about whether — or how quickly — to go to the doctor.
+
+“It’s not nearly as important for a patient with fever, headache, stiff neck, and confusion to know whether they have meningitis or encephalitis as it is for them to know that they should get to an ER quickly,” Mehrotra said.
+
+Overall, the 23 symptom checkers provided correct triage advice in 58 percent of cases, with the checkers performing much better in more critical cases, correctly recommending emergency care in 80 percent of urgent cases. In comparison, other studies have found that Internet search engines for urgent symptoms led to content that suggested emergency medical treatment only 64 percent of the time.
+
+The symptom checkers that were evaluated tended to be overly cautious, encouraging users to seek care for situations where staying at home might be reasonable. The researchers noted that this tendency toward conservative advice encouraged people to seek unnecessary care — an outcome that health care reform strives to minimize in order to reduce costs.
+
+The researchers found a great deal of variation between checkers, but none was without limitations; for example, checkers with the most accurate diagnoses (Isabel, iTriage, Mayo Clinic, and Symcat) were not on the list of the programs that did the best job of recommending the appropriate level of care for a given case (Healthychildren.org, Steps2Care, and Symptify).
+
+Symptom checkers are part of a larger trend of both patients and practitioners using online platforms for a range of health care tasks, such as patient-doctor chat sessions and algorithmic tools used to aid the diagnosis and triage of patients, the researchers said.
+
+“The tools are not likely to go away,” said first author Hannah Semigran, HMS research assistant in health care policy. “With symptom trackers, we’re looking at the first generation of a new technology. It’s important to continue to track their performance to see if they can reach their full potential in helping patients get the right care.”
+
+Other authors on the study were Courtney Gidengil, HMS instructor in pediatrics at Boston Children’s Hospital and a physician-scientist at the Rand Corp., and Jeffrey Linder, HMS associate professor of medicine and a physician and researcher at Brigham and Women’s Hospital.
+
+Harvard Medical School’s Family Health Guide is used as the basis for one of the symptom checkers evaluated. None of the study authors is involved with the HMS-related symptom checker.
+
+This study was funded by the U.S. National Institutes of Health.

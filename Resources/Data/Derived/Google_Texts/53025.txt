@@ -1,0 +1,65 @@
+Beth Israel Deaconess Medical Center’s Dr. John D. Halamka, shown amid rows of servers in the hospital’s data center, is cochair of a federal IT group that advises the government.
+
+WASHINGTON — The latest threat of identity theft might not come from retail stores or big banks, but your doctor’s office or local hospital.
+
+Criminals are stealing patient records to file fake insurance claims, obtain prescription medication, or sell Social Security numbers. Just this summer, Chinese hackers seized the personal information of 4.5 million patients at a Tennessee-based hospital network. And federal officials disclosed Thursday that an intruder managed to install malicious software on HealthCare.gov, the government’s health insurance marketplace.
+
+Advertisement
+
+These and other recent incidents reveal the growing market for patient data and perilous gaps within the health care industry.
+
+“It’s a war we’re in,” said John Halamka, the chief information officer of Boston-based Beth Israel Deaconess Medical Center and cochair of the Health IT Standards Committee, a federal group that advises the government. “Hackers innovate and find new ways to get in and those who store data innovate and find new ways to keep them out. We’re leapfrogging back and forth.”
+
+Halamka considered this summer’s attack on the hospital operator, Community Health Systems, one of the most sophisticated he’s seen and an example of the increasingly clever methods of cyber criminals.
+
+Demand for health records is high. The FBI estimates one goes for $50 on the black market, much more than the few dollars often required for credit card numbers. Ponemon Institute, a research center that examines data protections, says breaches cost the industry up to $5.6 billion a year.
+
+Stolen health care data can lead not only to financial loss but also to inaccurate medical records and, thus, misdiagnosis.
+
+Advertisement
+
+Criminal intrusions into health care systems have risen 100 percent in the past four years, according to a recent Ponemon report. The FBI warned this April that the health sector, amid mandatory transition to electronic health records, lacked protections to ward off the rising threat of cybercrime. It sent out another alert last month emphasizing the rise of “malicious actors” who prey on health care and medical device fields.
+
+It’s not clear the industry is up for the fight.
+
+“They’re focused on delivering health care, not operational security,” said Stephen Boyer, cofounder of BitSight Technologies, a Cambridge-based security ratings firm that issued a recent report on the topic. “It’s just not a high priority.”
+
+The study found that hospitals and other health care providers respond to data breaches more slowly than any other industry.
+
+The attack on Community Health Systems reportedly resulted from a well-documented vulnerability known as Heartbleed. And the HealthCare.gov hacker found a way into one of the nation’s most monitored websites, although federal officials said the hacker obtained no consumer data.
+
+Analysts, at Ponemon and elsewhere, warn threats could only get worse with the Affordable Care Act’s online exchanges and the rise of digitalized records.
+
+Motivations for attack range from political agendas to sheer greed.
+
+‘It’s getting to the point now where it has to be a number one focus for organizations. There are lots of competing priorities but, frankly, security is one that is bubbling up on the top of that list.’ Daniel Nigrin, chief information officer at Boston Children’s Hospital
+
+The infamous hacker group Anonymous this spring disrupted Internet access at Boston Children’s Hospital and tried to infiltrate the hospital’s network. Emeline Lubin, a former employee of Tufts Health Plan this April stole Social Security numbers from thousands of patients. (She pleaded guilty last month to a ploy for fake benefits and tax refunds.) And Boston Medical Center fired a vendor this year after the medical information of 15,000 patients wound up unprotected on a physician website.
+
+A state report released this week calculated that Massachusetts experienced 88 health care related data breaches last year. The number still trails the 1,551 that affected banks and financial institutions but suggests a market for health records.
+
+“It’s getting to the point now where it has to be a number one focus for organizations,” said Daniel Nigrin, chief information officer at Boston Children’s who helped mitigate the Anonymous attack. “There are lots of competing priorities but, frankly, security is one that is bubbling up on the top of that list.”
+
+The Obama administration, in conjunction with the passage of a 2009 health IT law, has doled out at least $24 billion to spur the transition from paper records to digital ones. The technological push expands opportunities for misuse to smartphone and computers. Beth Israel notified nearly 4,000 patients in 2012 after someone stole a physician’s personal laptop from a hospital office.
+
+“Health care has only really gone digital over the course of the last five years,” said Denny Brennan, the executive director of the Massachusetts Health Data Consortium, a group that focuses on improving collaboration around health information and technology.
+
+This industry does face tougher notification requirements than many retailers. It must report data breaches that affect 500 or more individuals and adhere to a federal law that aims to protect patient privacy. Intrusions don’t mean data is stolen, and Massachusetts law requires business and organizations that handle personal information to report a breach.
+
+But no federal law mandates specific security procedures industries must follow — and a cybersecurity bill has stalled in Congress. Meanwhile, low budgets for IT and the increasing sophistication of data theft have left the industry particularly vulnerable.
+
+The health care industry’s IT department historically receives 2 or 3 percent of the budget compared with more than 20 percent in retail and financial industries, Beth Israel’s Halamka said. The hospital’s board began to prioritize security after incidents such as the doctor’s stolen computer, he said.
+
+A Ponemon report last year noted that health and pharmaceutical companies pay the least for information security staff.
+
+But changes means convincing hospitals and other health care providers that they need to overhaul budgets, hire more staff, and share information.
+
+The US Department of Health and Human Services has increased the incentive by cracking down on medical facilities that fail to protect patient data. The agency in May fined New York Presbyterian Hospital and Columbia University Medical Center $4.8 million for the disclosure of nearly 7,000 medical records because of lax technical safeguards.
+
+The Health Information Trust Alliance, an organization that pushes information security in health care, partnered with Southern Methodist University in Dallas this year to create the first graduate program dedicated to addressing risk in health care organizations. The training is essential, the organization said, because “gaps in talent are proving more troubling than technical gaps.”
+
+The industry, in the meantime, is scrambling to catch up.
+
+“It’s not just medical identity theft that can be committed with a medical profile; it’s every type of identity theft,” said Eva Velasquez, the president of the Identity Theft Resource Center, a San Diego-based nonprofit.
+
+“In a lot of ways, it’s a one-stop shop for the thief.”

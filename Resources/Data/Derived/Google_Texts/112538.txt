@@ -1,0 +1,45 @@
+I mentioned on Monday that this past week was intended by the CDC, WHO and other health authorities to be a global awareness week for antibiotic resistance. Alarming news that came out of China at the end of the week certainly created new awareness of resistance, but possibly not what the organizers had in mind.
+
+On Thursday, researchers from several Chinese, British and US universities announced in the journal Lancet Infectious Diseases that they have identified a new form of resistance, to the very last-ditch drug colistin—and that it is present in both meat animals and people, probably comes from agricultural use of that drug, can move easily among bacteria, and may already be spreading across borders.
+
+This is very bad news.
+
+To understand why, it’s necessary to know a little bit about colistin. It is an old drug: It was first introduced in 1959. It has been on the shelf, without seeing much use, for most of the years since, because it can be toxic to the kidneys. And precisely because it hasn’t been used much, bacteria have not developed much resistance to it. It remains effective.
+
+That neglect turned out to be very fortunate a few years ago when several different resistance factors—NDM, OXA, KPC—started hopscotching around the globe. All of them made bacteria invulnerable to a group of drugs called carbapenems that had been considered a last line of defense: They were the last drugs that were in common use and were able to take care of complex infections that happen in hospitals, caused by E. coli, Klebsiella, Acinetobacter and similar gut-dwelling organisms. Once those bacteria became resistant to carbapenems (earning them the general name of “carbapenem-resistant Enterobacteriaceae,” or CREs), colistin was all that was left—and colistin use began rising.
+
+(From around that time: Here’s a great story that Jason Gale of Bloomberg wrote about colistin, and one I wrote for Nature about CREs. A long series of posts I wrote for WIRED about the discovery of NDM and the bitter political fights over its apparent origin in India can be found here. Of note, one of the discoverers of NDM is one of the authors of this new research.)
+
+A thing about colistin, which no one seems to have connected the dots on: Because it is an old drug, it is cheap. And because it is cheap, it is an affordable addition to animal feed for all the uses I’ve talked about before: to make animals put on muscle mass faster, and protect them from the conditions of intensive farming.
+
+Which, apparently, is how it is being used in China—but not only in China. From the paper:
+
+China is… one of the world’s highest users of colistin in agriculture. Driven largely by China, the global demand for colistin in agriculture is expected to reach 11,942 tonnes per annum by the end of 2015 (with associated revenues of $229·5 million), rising to 16,500 tonnes by the year 2021, at an average annual growth rate of 4·75%. Of the top ten largest producers of colistin for veterinary use, one is Indian, one is Danish, and eight are Chinese. Asia (including China) makes up 73·1% of colistin production with 28·7% for export including to Europe.
+
+The findings reported this week originate in an ongoing project in which the Chinese authors were looking for resistance in the E. coli that reside in the guts of food animals. (It’s encouraging that such a project exists.) They say they first perceived a colistin-resistant E. coli in 2013, in a pig from an intensive farm near Shanghai, and then noted increasing colistin resistance over several years. They expanded their research to include, not just samples from animals as they were slaughtered, but sampling of retail meat from supermarkets and street markets, and testing of samples previously taken from patients in two hospitals. The samples were collected between 2011 and 2014.
+
+Here’s what they found. The gene they discovered, which directs colistin resistance and which they dubbed MCR-1, was present:
+
+in 78 (15 percent) of 523 samples of raw pork and chicken meat
+
+in 166 (21 percent) of 804 pigs in slaughterhouses
+
+and in 16 (1 percent) of 1,322 samples from hospital patients with infections.
+
+That last is important: The bacteria possessing this resistance were not, as sometimes happens, merely gut bacteria that had acquired the necessary DNA but were hanging out quietly in the intestines and not causing trouble. They are already causing human infections.
+
+And, of most concern: The MCR-1 gene that creates this resistance is contained on a plasmid, a small piece of DNA that is not part of a bacteria’s chromosome. Plasmids move freely around the bacterial world, hopping from one bacterium to another; in the past, they have transported resistance DNA between bacterial species, facilitating resistance’s rapid movement around the globe. This gene, the authors predict, will be able to do that as well.
+
+The rapid dissemination of previous resistance mechanisms (eg, NDM-1) indicates that, with the advent of transmissible colistin resistance, progression of Enterobacteriaceae from extensive drug resistance to pan-drug resistance is inevitable and will ultimately become global.
+
+“Pan-drug resistance,” to be clear, means that nothing at all will work—that infections are untreatable by any known compound.
+
+It’s worth noting that not every dire superbug prediction comes true. In the early 2000s, physicians were very alarmed when resistance to vancomycin—like colistin, another last-resort antibiotic preserved from the 1950s—moved via a plasmid from Enterococcus into Staphylococcus aureus, or staph. At the time, people were already worried about the better-known form of drug-resistant staph, MRSA; the emergence of VRSA, as it became known, ratcheted worries way up. In the end, though, VRSA turned out not to be much of a threat: In 15 years, there have been only 14 such infections in the United States.
+
+But what makes MCR, this new colistin resistance, different from VRSA is the role that agriculture seems to be playing in its evolution and dispersal. There are two problems here. First, that thousands to millions of animals are getting the drug, which exponentially expands the opportunities that favor resistance. And second, that projects such as the Chinese one that allowed the new gene to be discovered are rare—so colistin resistance could begin moving, from animals and into people, without being noticed.
+
+And, in fact, it may be on the move now. The authors note that, while they were writing up their findings, the European Molecular Biology Laboratory received five submissions of bacterial data that appeared to contain the MCR gene—but not from China; from Malaysia.
+
+What will happen next? Unfortunately, we have to wait and see—and hope that systems are built that will perceive this new resistance if it arrives. Meanwhile, I especially appreciate the reaction of Mike the Mad Biologist, who knows a great deal about resistance in his real life and can be counted on to be exasperated and blunt. He said, about this discovery:
+
+If this doesn’t convince people to get serious about the agricultural side of the problem, I don’t know what will.

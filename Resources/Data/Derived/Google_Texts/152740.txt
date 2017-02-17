@@ -1,0 +1,9 @@
+The word “meme” was originally coined by evolutionary biologist Richard Dawkins to draw an analogy between the way ideas and genes proliferate and evolve. Dawkins had loftier ideas in mind, but there’s evidence now that Facebook memes—those variants of “like/repost this statement if you agree” deals that seem impossible to banish from the newsfeed—evolve in much the same way.
+
+Facebook’s data science team has posted a fascinating analysis of data collected from Facebook shares that allowed it to track the evolution of a popular meme. Originally in support of president Barack Obama’s health-care reform, the Affordable Care Act, and first posted in September 2009, it read: “No one should die because they cannot afford health care, and no one should go broke because they get sick. If you agree, post this as your status for the rest of the day”.
+
+It did well in its original form (470,000 exact copies of the status in the first month alone) but it quickly began evolving. First there were insubstantial changes in wording; then people began making jokes that played off it, turning it into a statement about other diseases like cancer; and finally some began shifting it into a political message against Obamacare instead of for it. By taking note of the political leanings of each person who posted it, Facebook’s analysts were able to track the evolution of the meme from its origins on the left to its culmination on right, where people posted variants of “No one should go broke because government taxes and spends.”
+
+Evolution of the meme, from “very liberal” (-2) users to “very conservative” (+2) (Facebook Data Team)
+
+So there you have it: Just as we made the magnificent transition from single cells to meme-creators with a series of random mutations, a meme in support of healthcare reform went from zombies to beer to anti-Obama outrage. Because internet.

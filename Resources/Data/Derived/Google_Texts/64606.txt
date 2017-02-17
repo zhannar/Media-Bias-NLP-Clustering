@@ -1,0 +1,69 @@
+Tech Innovation From Unexpected Sources: A Healthcare Provider
+
+Geisinger Health System shows that big, long-established providers can drive digital innovation.
+
+
+
+6 Ways To Master The Data-Driven Enterprise (Click image for larger view and slideshow.)
+
+Back when HITECH was passed, spurring the construction of the electronic health records foundation we now have today, I predicted we would unleash an explosion of tech-driven healthcare innovation. But, to be honest, I assumed it would come from young entrepreneurs like my Georgia Tech students, and would have probably laughed at a prediction that it might come from large, long-established organizations -- particularly if those companies' real business was healthcare delivery.
+
+Yet innovation is coming from exactly those sources, as we saw in two clear examples this year at HIMSS, the annual healthcare IT mega event. They both prove me right about innovation, and wrong about the source.
+
+The innovator I'll cover in this column is Geisinger Health System, whose executives unveiled EnrG, which is a platform for apps that supplement electronic health records (EHRs). Many at HIMSS cheered it as the first advanced FHIR-based EHR app platform.
+
+FHIR is rapidly being accepted as the US (and likely global) healthcare interoperability standard. That means the EnrG platform works not only with Geisinger's extensively modified Epic EHR system, but also with Epic systems customized by other providers, as well as Cerner and Athenahealth medical records (and presumably in time, virtually all EHRs). Senior Athenahealth, Cerner, and Epic executives were present at the launch conference.
+
+Geisinger's EnrG platform is surprising in its scope, but the work fits its reputation for innovation, and its commitment to health IT and FHIR-based interoperability.
+
+The Danville, Pa.-based company is often cited as an exemplar of the desired future state of US healthcare, because its economic and practice model aligns incentives and produces high quality, affordable care. Indeed, President Obama cited Geisinger as part of his effort to pass the Affordable Care Act.
+
+Less well known is the huge investment Geisinger has made in advanced informatics and analytics tools and systems. I knew this intellectually, but that knowledge didn’t quite prepare me for the experience of spending a day last December visiting its Institute for Advanced Application, which it describes as a mix of think tank, research laboratory, and skunkworks.
+
+There I learned about transformational projects such as exome sequencing of a quarter-million patients, by far the largest such effort anywhere. And it's not just sequencing genes of patients with cancer or rare and complex diseases. It's also doing so for a cross section of Geisinger’s 3 million patients, with a longer term goal of sequencing them all.
+
+[ Not everything is about data. Technology Is A Human Endeavor. ]
+
+Anyone who follows genomic medicine immediately understands the potential to unlock the mysteries surrounding the role of many genome variants when this data is combined with EHR data (e.g. phenotypic data) on these same patients. I left recognizing that Geisinger thinks big -- and that its long goal is transformation, not incremental improvement.
+
+I also learned about the scope of Geisinger’s commitment to FHIR as a platform to spur the use of informatics in clinical practice. Using FHIR could move past long standing problems such as:
+
+Inefficient and inaccurate clinical data capture
+
+The unimaginative and substantially unhelpful way clinical data is usually presented to physicians by their EHR, once that data is captured
+
+The lack of support in most EHRs for efficient clinical process and workflow. (Those EHRs were mainly designed to facilitate charge capture and billing for the highest level of services possible in a rapidly receding healthcare system that rewarded procedures rather than results.)
+
+Even physicians who use and want to continue using EHRs frequently complain about these problems.
+
+Not only is Geisinger intent on solving these problems through innovative FHIR apps that inculcate their own proven approaches to the management of common medical problems. It intended, through its xG Health Solutions spinoff, to offer these best practices to other health care providers, no matter what EHR they might be using.
+
+How EnrG Spurs Interoperability
+
+EnrG uses FHIR to access specific data elements in an EHR, and uses Harvard’s SMART on FHIR technology to display the information. Security is provided by OAuth, another rapidly emerging standard. Aneesh Chopra, the former CTO of the US, said, "Geisinger's ability to commercialize its EHR workflows via FHIR to a growing number of FHIR-enabled EHR platforms is pioneering and will usher in a new era of provider and patient focused applications to more effectively deliver care."
+
+HQ of xG, a spinoff from Geisinger Health. (Image: xG)
+
+EnrG rheum is a good example of how EnrG apps are designed to augment, not replace, the EHR. The app aims to aggregate and reorganize the data in a way that fits the workflow of a particular provider or specialty. The potential benefits don't just accrue from bringing data together. While EnrG apps can exchange information in real-time with any FHIR-enabled EHR, they can also analyze the data, reorganize it, and present it in a user-friendly way, along with clinical-decision support. The key is that all of this in now integrated in one place, directly into the clinical workflow. A third benefit is that graphical presentations of the data make it easier for physicians and patients to grasp its meaning and understand trends over time.
+
+The pre-FHIR version of the rheumatology app has been in use for four years and has been shown to improve disease control. Dr. Eric Newman, a coauthor of the study, said that this approach accelerates the acquisition of patient information during an encounter and allows patients and physicians to achieve more during the visit. By integrating the pre-analyzed, patient-entered data into the note, he added, "we can auto-create 90% of the patient note, so doctors can focus on the assessment and plan." This approach saves the provider time and increases patient satisfaction and practice revenue. The new FHIR-based EnrG rheum app will be beta-tested at non-Geisinger sites this summer, and is expected to be generally available by the fall.
+
+xG's Big Ambitions
+
+xG Health Solutions plans to bring half a dozen additional apps to market in the next 18 months. These will focus on common procedures and chronic diseases, including coronary artery bypass surgery, coronary angioplasty, total hip replacement, lumbar spine surgery, rheumatoid arthritis, hip fracture, congestive heart failure, chronic obstructive pulmonary disease, asthma, diabetes, and oncology. In addition, xG will market a host of other Geisinger developed applications for population health management, care manager training, and analytics, along with its ProvenCare evidence-based approaches to hospital care.
+
+FHIR is still a work in progress; only five to ten FHIR Resources will be in the next version this summer, well short of the one hundred-plus anticipated at some point. Moreover, FHIR alone doesn't achieve full clinical interoperability, as Epic pointed out in my recent interview. Intermountain Healthcare is collaborating with Geisinger. Intermountain Dr. Stanley Huff, the chair of HL7, points out that disparate EHRs become fully interoperable only if they use standardized data profiles, including unified clinical nomenclature.
+
+Also Geisinger has been heavily customizing its Epic EHR for many years. Dr. Alistair Erskine, chief clinical informatics officer at Geisinger, said that other organizations don't need to change their EHRs to the same degree to take advantage of Geisinger's workflow apps. Nevertheless, even a lesser degree of customization will undoubtedly be an issue many organizations struggle with, given the other challenges they face in our rapidly changing healthcare system.
+
+In my next column, we'll look at another impressive innovation from an unexpected but well regarded source: Marshfield Clinic Health System.
+
+Mark Braunstein has written a new book, Practitioners Guide to Health Informatics, intended as a practical guide to health informatics for care practitioners and other non-technical readers.
+
+Mark Braunstein is a professor in the College of Computing at Georgia Institute of Technology, where he teaches a graduate seminar and the first MOOC devoted to health informatics. He is the author of Contemporary Health Informatics (AHIMA Press, 2014) as well as Health ... View Full Bio
+
+Comment |
+
+Email This |
+
+Print |

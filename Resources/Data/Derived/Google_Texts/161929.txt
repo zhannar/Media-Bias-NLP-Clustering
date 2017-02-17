@@ -1,0 +1,81 @@
+By a News Reporter-Staff News Editor at Politics & Government Week -- According to news reporting originating from Washington, D.C. , by VerticalNews journalists, a patent application by the inventors DeRoo, Donna ( Clovis, CA ); Hensleit, Allison ( San Leandro, CA ); Hart, Ashley ( Sanger, CA ), filed on October 10, 2014 , was made available online on April 21, 2016 .
+
+The assignee for this patent application is California State University, Fresno .
+
+Reporters obtained the following quote from the background information supplied by the inventors: "A. Field of the Invention
+
+"The present invention relates to a method of setting aims, defining goals and tracking performance measures through use of a management dashboard.
+
+"B. Description of the Prior Art
+
+"'Pay-for-performance' is an umbrella term for initiatives aimed at improving the quality, efficiency, and overall value of health care. These arrangements provide financial incentives to hospitals, physicians, and other health care providers to carry out such improvements and achieve optimal outcomes for patients. The Patient Protection and Affordable Care Act (hereinafter 'Affordable Care Act') expands the use of pay-for-performance approaches in Medicare in particular and encourages experimentation to identify designs and programs that are most effective.
+
+"A provision of the (Affordable Care Act) requires health plans to submit reports each year demonstrating how they reward health care quality through market-based incentives in benefit design and provider reimbursement structures. The U.S. Secretary of Health and Human Services (HHS) will develop requirements for health plans to report on their efforts to: improve health outcomes, prevent hospital readmissions, ensure patient safety and reduce medical errors, and implement wellness and health promotion activities. Both employer group health plans, including self-insured plans, individual market plans, and qualified health plans sold through the insurance exchanges are required to submit such reports.
+
+"Health plan performance is measured through an array of standardized performance measures assessing preventive care, clinical processes, and intermediate outcomes (e.g., blood pressure or cholesterol levels) as well as care experiences and outcomes (e.g., functional status).
+
+"Under the Affordable Care Act, federal regulation will require accreditation of all public health departments through the public health accreditation board in the near future. Part of the public health department accreditation--covered by Domain 9, Standard 9.1 (Performance Management System)--requires monitoring achievement of organizational objectives. Domain 9, Standard 9.2 requires development and implementation of quality improvement processes integrated into organizational practice, processes and interventions.
+
+"'Accreditation' is a comprehensive evaluation process in which a health care organization's systems, processes and performance are examined by an impartial external organization ('accrediting body') to ensure that it is conducting business in a manner that meets predetermined criteria and is consistent with national standards. States currently use accreditation of a variety of health care organizations as part of their overall strategy to evaluate and improve the quality and cost-effectiveness of care and to promote compliance with state and federal laws.
+
+"The Affordable Care Act requires that, beginning in 2014, all health plans offered through state insurance exchanges ' . . . must be accredited with respect to local performance on clinical quality measures such as the Healthcare Effectiveness Data and Information Set (HEDIS), patient experience ratings on a standardized Consumer Assessment of Healthcare Providers and Systems (CAHPS) survey, as well as consumer access, utilization management, quality assurance, provider credentialing, complaints and appeals, network adequacy and access, and patient information programs by any entity recognized by the Secretary for the accreditation of health insurance issuers or plans (so long as any such entity has transparent and rigorous methodological and scoring criteria).'
+
+"Currently, most county public health agencies around the nation do not have performance management systems implemented to track public health agency performance measures or to identify strategic aims and goals.
+
+"Performance management plans ensure that aims are clearly defined, and goals are consistently being met in an effective and efficient manner. Performance management can focus on the performance of an organization, a department, employee, or even the processes to build a product of service, as well as many other areas. Performance management is also known as a process by which organizations align their resources, systems and employees to strategic objectives and priorities.
+
+"In management information systems, a dashboard is an easy to read, real-time user interface, showing a graphical presentation of the current status (snapshot) and historical trends of an organization's key performance indicators to enable instantaneous and informed decisions to be made at a glance. In real-world terms, a 'dashboard' is another name for 'progress report' or 'report.' Often, the 'dashboard' is linked to a database which allows the report to be constantly updated. Digital dashboards allow managers to monitor the contribution of the various departments in their organization. To gauge exactly how well an organization is performing overall, digital dashboards capture and report specific data points from each department within the organization, thus providing a snapshot of performance.
+
+"The prior art includes many performance management plans and dashboards, but none that appropriately track the performance measurements necessary for public health agency accreditation under the Affordable Care Act.
+
+" U.S. Pat. No. 8,195,503 describes achieving an objective by collecting data related to the objective and determining a set of drivers related to the objective. The method includes calculating a gap for each driver between a baseline and a goal for the objective. The method does not allow the user to program how often the drivers are collected, explain why the drivers were chosen, nor who is responsible for collecting the set of drivers. The method does not have a color-coded alert system to track how close an objective is to being met.
+
+" U.S. Pat. No. 8,275,651 describes a behavior improvement system by allowing the user to set a goal and to set an action plan to realize the goal, and to carry out evaluations to determine whether the goals are met. The system does not allow customization of different types of data to determine when the goals are met apart from evaluations. Also, the system does not allow customization of different people to track various aspects of the action plan. The system does not have a color-coded alert system to track how close a goal is to being met.
+
+" U.S. Pat. Pub. No. US 2012/0072252 A1 describes a dashboard to assess the ability of workers in an organization to accomplish one or more organizational goals. The dashboard permits the user to define competencies the employees are expected to have, to define a skill set to carry out each competency, and to track the acquisition of the skill set. The dashboard does not describe tracking organizational goals in any way apart from employee competencies. Also, the dashboard does not allow customizing different people responsible for analyzing when each skill set is acquired. There is no color-coded alert system to track how close each competency is to being reached."
+
+In addition to obtaining background information on this patent application, VerticalNews editors also obtained the inventors' summary information for this patent application: "The present invention is directed to a management method to achieve organizational aims, comprising listing organizational aims, determining one or more goals to meet in order to reach the organizational aims, defining one or more performance measures each having numeric year to date measure data to measure attainment of each of the goals in a twelve month period, describing why each of the performance measures was chosen, naming person or personnel position responsible for ensuring entry of the year to date measure data, specifying frequency of entry of the year to date measure data within a twelve month period, labeling the year to date measure data with an appropriate unit of measure, stating a source from which the year to date measure data is to be collected, demarcating an annual target and a red line target for each of the year to date measure data, entering the year to date measure data to create entered year to date measure data, updating the year to date measure to create updated year to date measure data, calculating a progression of each of the entered year to date measure data and/or each of the updated year to date measure data in relation to the annual target and the red line target, and displaying the progression of the entered year to date measure data and/or the updated year to date measure data over the twelve month period.
+
+"In one aspect of the invention, the listing step comprises identifying priorities and ensuring the organizational aims achieve each of the priorities. In a second aspect of the invention, the specifying step comprises of stating that the year to date measure data are entered monthly, quarterly, biannually, or annually. In another aspect of the invention, the displaying step further comprises showing a color-coded alert corresponding to the progression. In yet another aspect of the invention, the color-coded alert may show red when the year to date measure data has not surpassed the red line target. Alternatively, the color-coded alert may show yellow when the year to date measure data has surpassed the red line target and has not yet met the annual target. The color-coded alert may show green when the year to date measure data has met or surpassed the annual target.
+
+"The management method of the present invention may have the displaying step comprising showing a bar chart showing a development of the year to date measure data over the twelve month period. In one aspect of the invention, the labeling step comprises choosing a unit of measure from the following: number, percentage, and dollar amount. In another aspect of the invention, the claimed method further comprises documenting protocols for collecting the year to date measure data from the source. In yet another aspect of the invention, the claimed management method is carried out by Microsoft Excel. In the invention, the displaying step may utilize a dashboard.
+
+"In the present invention, the listing step may comprise of listing organizational aims for each of a plurality of programs. In one aspect of the invention, the claimed method may further comprise summarizing in a cumulative display the progression of each of the performance measures by the year to date measure data in relation to the annual target and the red line target for each of the programs, and presenting the cumulative display in a central dashboard. In yet another aspect of the invention, the claimed method may further comprise recording a year end measure data for each of the performance measures for each of several consecutive twelve month periods, and evaluating a development of each of the year end measure data against the annual target and the red line target over the several consecutive twelve month periods.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+"FIG. 1 is a flowchart showing an overview of the claimed method.
+
+"FIG. 2 is a flowchart showing how organizational aims are listed, how goals are determined, and how performance measures are defined.
+
+"FIG. 3A is a depiction of how one aim can be associated with an infinite number of goals, and how each goal can be associated with an infinite number of performance measures.
+
+"FIG. 3B is a depiction of how any aim can be associated with an infinite number of goals, and how each goal can be associated with an infinite number of performance measures.
+
+"FIG. 4 shows how the claimed method requires, for each performance measure, describing step, naming step, specifying step, labeling step, stating step, and on some occasions the documenting step.
+
+"FIG. 5 shows how the performance measure progression is calculated and displayed in a color-coded alert system.
+
+"FIG. 6 shows a blank Microsoft Excel worksheet that can be formatted and used to carry out the claimed method.
+
+"FIG. 7 shows an embodiment of a Measure Definitions worksheet.
+
+"FIG. 8 shows one embodiment of a Data Entry worksheet, in non-expanded form.
+
+"FIG. 9 shows an embodiment of a Data Entry worksheet in an expanded form, with monthly measure data entries.
+
+"FIG. 10 shows an embodiment of a Data Entry worksheet in an expanded form, with quarterly measure data entries.
+
+"FIG. 11A shows an embodiment for a Dashboard worksheet for one performance measure.
+
+"FIG. 11B shows an embodiment for a Dashboard worksheet for six different performance measures.
+
+"FIG. 12 shows an embodiment of a Graphical Summary worksheet.
+
+"FIG. 13 shows an embodiment of a Department dashboard displaying cumulative information for performance measures for each of the Department's programs."
+
+For more information, see this patent application: DeRoo, Donna; Hensleit, Allison; Hart, Ashley. Method of Achieving Health Agency Aims through a Performance Management Dashboard. Filed October 10, 2014 and posted April 21, 2016 . Patent URL: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1935&p=39&f=G&l=50&d=PG01&S1=20160414.PD.&OS=PD/20160414&RS=PD/20160414
+
+Keywords for this news article include: Legal Issues, Public Health, California State University Fresno .
+
+Our reports deliver fact-based news of research and discoveries from around the world. Copyright 2016, NewsRx LLC

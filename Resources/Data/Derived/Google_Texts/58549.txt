@@ -1,0 +1,59 @@
+Jeff Bezos’ recent demonstration of a drone aircraft simulating delivery of an Amazon parcel was more stunt than technological breakthrough. We aren’t there yet. Yes, such things may well come to pass, but there are obstacles aplenty to overcome — not so much engineering snags, but cultural and regulatory issues.
+
+The first widely publicized application of modern drone aircraft — dropping Hellfire missiles on suspected terrorists — greatly skewed perceptions of the technology. On the one hand, the sophistication of such unmanned systems generated admiration from technophiles (and also average citizens who saw them as valuable adjuncts in the war against terrorism). On the other, the significant civilian casualties that were collateral to some strikes have engendered outrage. Further, the fear that drones could be used for domestic spying has ratcheted up our paranoia, particularly in the wake of Edward Snowden’s revelations of National Security Agency overreach.
+
+It’s as though drones have been painted with a giant red “D,” á la The Scarlet Letter. Manufacturers of the aircraft, not surprisingly, are desperate to rehabilitate the technology’s image, and properly so. Drones have too many exciting — even essential — civilian applications to restrict their use to war.
+
+That’s why drone proponents don’t want us to call them “drones.” They’d prefer we use the periphrastic term, “Unmanned Aerial Vehicle,” or at least the acronym — UAV. Or depending on whom you talk to, Unmanned Vehicle System (UVS).
+
+Will either catch on? Probably not. Think back: do we call it Star Wars or the Strategic Defense Initiative? Obamacare, or the Affordable Care Act? Popular culture has a way of reducing bombastic rubrics to pithy, evocative phrases. Chances are pretty good “drones” it is, and “drones” it’ll stay.
+
+And that’s not so bad, says Brendan Schulman, an attorney with the New York office of Kramer Levin Naftalis & Frankel.
+
+“People need to use terminology they understand,” says Schulman, who serves as the firm’s e-discovery counsel and specializes in commercial unmanned aviation law. “And they understand ‘drones.’ I know that causes some discomfort to manufacturers and people who use drones for commercial purposes, but I have no trouble with the term. I think we can live with it.”
+
+Michael Toscano, the president and CEO of the Association of Unmanned Vehicle Systems International, feels differently: not surprisingly, he favors the acronym “UVS” over “drone.”
+
+“The term ‘drones’ evokes a hostile, military device,” says Toscano. “That isn’t what the broad applications of this technology are about. Commercial unmanned aircraft have a wide range of uses, from monitoring pipelines and power lines, to wildlife censuses, to agriculture. In Japan, they’ve been used for years for pesticide applications on crops. They’re far superior to manned aircraft for that — the Japanese government even partnered with Yamaha to develop a craft specifically designed for the job.”
+
+Nomenclature aside, drones are stuck in a time warp here in the United States. The Federal Aviation Administration (FAA) prohibits their general use pending development of final regulations; such rules have been in the works for years but have yet to be released. Still, the FAA does allow some variances on the ban: government agencies and universities, after thrashing through a maze of red tape, can obtain waivers for specific tasks. And for the most part, field researchers who have hands-on-joystick experience with the aircraft are wildly enthusiastic about them.
+
+“They give us superb data,” says Michael Hutt , the Unmanned Aircraft Systems Manager for the U.S. Geological Survey (USGS) . USGS is currently using drones — specifically the fixed-wing RQ-11A Raven and the hovering RQ-16A T-Hawk — for everything from surveying abandoned mine sites to monitoring coal seam fires, estimating waterfowl populations, and evaluating pygmy rabbit habitat.
+
+“Landsat [satellites] have been the workhorse for most of our projects,” continues Hutt, “and they’re pretty good as far as they go, but they have definite limitations. You’re able to take images only when a satellite passes overhead, obviously, and you’re limited to what you can see by the weather. Also, your resolution is only 30 meters. With the Raven or Hawk, we can fly anytime we want. And because we fly low and slow, our data is collected in resolutions of centimeters, not meters. It’s just a level of detail we’ve never had before.”
+
+And highly detailed data, of course, translates as highly accurate and reliable data. Hutt offers an example: a project to map fossil beds at White Sands National Monument.
+
+“The problem is that these beds aren’t static,” says Hutt. “They tend to erode, or they can get covered up with blowing sand. It has been difficult to tell just what we have, and where the fossils are precisely. But with our T-Hawks, were able to get down to 2.5-centimeter resolution. We know exactly where the fossils are — it doesn’t matter if a sand dune forms on top of them.”
+
+Even with current FAA restrictions, Hutt notes, universities are crowding into the drone zone.
+
+“Not long ago, maybe five or six universities were using them, or had applied for permits,” Hutt says. “Now, there’s close to 200. The gathering of high-quality data is becoming easy and cheap. That’s because of aircraft advances, of course, and also because the payload packages — the sensors and cameras — are dropping dramatically in price. A few years ago, you needed a $500,000 mapping camera to obtain the information we’re now getting with an off-the-shelf $1,000 camera.”
+
+Unmanned aircraft may be easier to fly than F-22 fighter jets, but they impose their own challenges, observes Jeff Sloan, a top drone jock for USGS.
+
+“Dealing with wind is the major problem,” says Sloan. “The aircraft we’re using are really quite small, and they get pushed around easily. Also, though they can get into tighter spots than any manned aircraft, steep terrain can get you pretty tense. You’re flying very low, and there’s not much room for error.”
+
+If and when the FAA gives the green light for broad commercial drone applications, a large cohort of potential pilots with the requisite skill sets will be ready and waiting.
+
+“We’ve found that the best pilots are those who’ve had a lot of video game experience,” laughs Sloan, “so it’s good to know my kids have a future.”
+
+But back to the FAA: a primary reason for the rules delay is public worry over safety and privacy. Toscano says safety concerns are mostly just that — foreboding more than real risk.
+
+“It’s going to take a while before you see general risk tolerance, but it’ll come,” Toscano said. “The Internet started with real apprehension, and now, of course there’s general acceptance. There are risks with the Internet, but they’re widely understood now, and people realize there’s a trade-off for the benefits.”
+
+System vulnerability is tops among safety concerns, acknowledges Toscano. Some folks worry that a drone’s wireless links could be severed or jammed, and that the craft would start noodling around independently, with potentially dire results.
+
+“That probably could be addressed by programming the drone with a pre-determined landing spot,” says Toscano. “It could default to a safe zone if something went wrong.”
+
+And what about privacy? Drones, says Toscano, don’t pose a greater threat to privacy than any other extant technology with potential eavesdropping applications.
+
+“The law is the critical factor here,” he insists. “The Fourth Amendment supports the expectation of privacy. If that’s violated by any means, it’s a crime, regardless of the technology responsible.”
+
+More to the point, says Toscano, we have to give unmanned aircraft a little time and space to develop: we’re still at Drones 1.0.
+
+“With any new technology, it’s the same story: crawl, walk, run,” Toscano says. “What Bezos did was show what UVS technology would look like at a full run — but it’s important to remember, we’re really still crawling.”
+
+To get drones up on their hind legs and sprinting — or soaring — they’re going to need a helping hand from the FAA. And things aren’t going swimmingly there, says attorney Schulman.
+
+“They recently issued a road map on the probable form of the new rules,” Schulman says, “and frankly, it’s discouraging. It suggests the regulations are going to be pretty burdensome, particularly for the smaller UAVs, which are the kind best suited for civilian uses. If that’s how things work out, it will have a major chilling effect on the industry.”

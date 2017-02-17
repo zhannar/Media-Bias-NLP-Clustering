@@ -1,0 +1,13 @@
+What's Up in Medicine?
+
+Perhaps I should start with what's "app" in the world of medicine because mobile and messaging seem to have gone wild in the digital world. But in the medical sphere, there is always a lot of "what's up" these days.
+
+I'm going to pick 3 topics that have been particularly interesting in the past month and are potentially transformative:
+
+First, multiple new studies on cell-free, plasma tumor DNA appeared, two of which were in Science Translational Medicine.[1,2] The first study demonstrated that circulating tumor DNA (ctDNA) is present in more than 75% of patients across the board, in most solid tumors except for brain tumors (related to the blood-brain barrier), and that the quantity of ctDNA was closely correlated with prognosis (eg, 2-year survival).[1]
+
+The second study, in the same issue, showed how the ctDNA could be used to detect the genomic basis of resistance to therapy in colon cancer.[2] Around the same time that this journal issue was published, the first company that will offer ctDNA testing commercially was announced: Guardant Health in Redwood City, California.[3] This area is moving at a rapid pace, and with fast, affordable sequencing of ctDNA in the future, it could become a critical step in early diagnosis and monitoring of a large proportion of patients with cancer.
+
+CRISPR Madness
+
+Second, although not mainstream stuff for most practicing physicians, is that the ability to edit genomes went into high gear with a new technique that has become known as CRISPR [Clustered Regularly Interspaced Short Palindromic Repeats]. If you're interested in further reading, multiple reviews on the topic have been published, including an excellent review by Susan Young in MIT Technology Review[4] and another by the Wellcome Trust Sanger Institute, "Clean Cut Genetics."[5] I have called this "CRISPR madness" because the whole field has quickly flocked to this technique, thanks to its relative ease of and efficiency in editing the human genome. The Economist[6] even got into it with an article called "Ingenious." Areas that are currently under hot clinical pursuit are the hemoglobinopathies and HIV.

@@ -1,0 +1,41 @@
+Arizona Palliative Home Care started over three years ago as a small, experimental program within the massive Hospice of the Valley. It has about 350 patients contracted out for their brand of palliative care, a fairly new discipline that focuses on improving quality of life for patients who are seriously ill. They've had all the best medical care and aren't at hospice stage, but going in and out of the hospital repeatedly for continued treatments they need is both difficult and expensive.
+
+Which is why Arizona Palliative, from the outset, has used technology provided by Avizia, a telemedicine company with a video chat system to ease access between doctors and patients.
+
+Avizia’s telemedicine tech saves Arizona Palliative on expenses, and using it hasn’t negatively affected the quality of care, says director Gobi Paramanandam. Typically, Arizona Palliative’s patients, many of whom have cancer or dementia, have a "goal of care" conversation in person with their physician to discuss quality of life—whether the patient would want to undergo chemotherapy if it buys four months more life or whether the person would rather spend that time at home, for instance. After that, doctor visits are typically performed on-screen with Avizia.
+
+Nurses perform the first 45 minutes of care and the health care professionals video chat in for the last 10 to 15 minutes of the visit, says Paramanandam. Previously, Arizona Palliative’s health care professionals saw three to four patients per day as they drove across the Phoenix metropolitan area making house calls, but using Avizia’s video chat has doubled their rate of patients seen to six to eight per day.
+
+"Before, we would go in once a month and it wasn’t necessary. These patients have primary-care doctors, so we’re not in there managing everything," says Paramanandam. "We’re basically trying to change behaviors, trying to catch things early before they get worse, and make sure the patient is doing what they’re supposed to be doing."
+
+The core element of Avizia’s telemedicine SaaS platform is a video chat system that both patients and health practitioners can use within their Internet browsers, no download needed. Health care providers can pay for just the SaaS platform or buy custom hospital carts that let on-site nurses plug patient monitoring instruments (like compatible examination cameras and stethoscopes) into the carts, which send readings in real time to distant health practitioners.
+
+Avizia’s platform also includes organizational software for the health care provider to handle all those video chats. The software, called Avizia One, is a virtual waiting room. A doctor on call gets a private text by the Avizia One operator, and if the doctor doesn’t respond in five minutes, the patient goes to the next doctor on call.
+
+"If you think about it, you’ve seen the same transformations in banking and real estate, but health care tends to be a couple years behind. You’d never dream of standing in line to see a teller for all your banking needs today," says Avizia CEO Mike Baird.
+
+Current market forces and technological innovations mean that telemedicine is only going to become more prevalent. The industry lore goes that telemedicine started with the Mercury and Gemini space programs in the mid-'60s when flight control had to remotely monitor the health of astronauts rocketing into space for days at a time, says Baird. But current access to telemedicine tech depends on whether it’s covered by insurance: While all 50 states support telemedicine through Medicare, only 27 states have parity laws that require private insurance to reimburse patients for telemedical health.
+
+Now that the Affordable Care Act added 30 million Americans to the ranks of the insured, there’s a doctor gap, and Baird thinks telemedicine is positioned to close that gap. Avizia has already partnered with the University of Virginia Health System to use Avizia's telemedicine suite to offer remote care to 125 sites throughout southwestern Appalachia, a medically underserved area. You can’t set a broken arm through video chat, admits Baird, but other diagnoses might be even more accurate through telemedicine.
+
+"I can have a nurse use an examination camera to look at a mole, and the doctor sees a high-definition picture that’s frankly better than what they’d see normally—they’re seeing a 10-inch-wide mole on a 25-inch computer display," says Baird. "And particularly in our age of digital tracking devices, especially when my iPhone uploads my Fitbit data to the platform and we are starting to be able to track so many data points on a patient, it’s very easy for a doctor to know how you are."
+
+For a relatively new toolset in the health care world, telemedicine has surprisingly few legal challenges, says Baird. The devices are FDA-certified and HIPAA-compliant to protect patient data.
+
+Medical checkups have always involved health professionals physically poking and prodding a patient while saying: "Oh, that’s interesting." But telemedicine is a new field with many questions, chief among them being: Does it work?
+
+Yes, with exceptions. Dr. John Shufeldt heads MeMD, an urgent-care collective that includes 300 health care providers in all 50 states, all of which use Avizia’s telemedicine tech. MeMD’s doctors use Avizia’s video chat to diagnose urgent-care situations that don’t need physical touch to address, like viral illnesses or tract infections, says Shufeldt. MeMD started contracting with Avizia’s predecessor back in 2010 and has been using its telemedicine solutions ever since. MeMD’s partners don’t use Avizia’s hospital carts—just the in-browser video chat—and Shufeldt considers it a great, affordable service. Plus, since Avizia’s software is cloud-based, doctors don’t have to download anything, and it’s so intuitive that it takes Shufeldt’s doctors only 10 minutes to grasp.
+
+"What we use it for, it’s absolutely perfect. It allows us to see patients in an on-demand basis. We’ve seen tens of thousands of patients [through Avizia’s platform], and for our use, it’s as good as gold," says Shufeldt.
+
+Which is all well and good for diagnosing things that don’t require touch. But even regular care that requires physical examinations with every checkup can benefit from telemedicine by having a nurse trek over to the patient and act as proxy for the health care professional.
+
+"Since the first conversations are always in person, we already have some relationship with the patient," says Paramanandam. "Those conversations have been pretty powerful and worthwhile, even if it’s virtual. The physician-patient relationship doesn’t just go away."
+
+Like MeMD, Arizona Palliative is happy using Avizia’s video chat feature to connect doctors to patients. Someday they might expand their care protocols to use the fancier things in Avizia’s toolbox, like Avizia’s instrument-connected carts. MeMD's Shufeldt says he'd like the option to connect Avizia’s systems wirelessly and seamlessly to any instrument (the Avizia system currently connects to a range of instruments via direct cables or Wi-Fi).
+
+Avizia is working on integrating health-tracker data into its system so patients can upload that data straight to health care professionals, says Baird, just in time to scoop up the automatic health tracking in Apple Watches.
+
+Right now, Avizia sells its tech to companies in 35 countries, with an established client base in the U.S. and Canada, but is looking into expanding to the United Kingdom, Australia, New Zealand, and India. Avizia will likely push further internationally in six months, says Baird, with aspirations to double down in regions like the Middle East.
+
+One challenge is that all of Avizia’s tech relies on a constant and reliable Internet signal, which is hard to come by in parts of the developing world. But Baird points out that telemedicine has been used in the recovery efforts in Haiti, and recently in the Himalayas after the Nepal earthquake. It has the potential to be incredibly useful in the developing world—all you need is Internet access.

@@ -1,0 +1,67 @@
+The promise of Big Data got a little smaller on March 1, 2016. In a decision that barely registered in the mainstream media, the United States Supreme Court's (SCOTUS) ruling in Gobeille v. Liberty Mutual Insurance Company has (at least temporarily) halted state-mandated all payer claims databases (APCD).
+
+Quick recap: Vermont legislatively mandated health insurers to report their claims data to the state. The law is unremarkable and similar to laws in place or in development in all but seven U.S. states. In Vermont, however, Liberty Mutual Insurance Company instructed its third party administrator, Blue Cross Blue Shield of Massachusetts, to not comply with the law because they were concerned that sharing this proprietary information might disclose details that could be used by competitors.
+
+For health plans operating across multiple states, like the Liberty Mutual Insurance Company, the Employee Retirement Income Security Act (ERISA) effectively exempts health insurers from having to comply with 50 different sets of rules and regulations. With the intent of simplifying operations for companies working in multiple states, ERISA expressly pre-empts "any and all State laws insofar as they... relate to any employee benefit plan."
+
+Based on its interpretation of ERISA, SCOTUS ruled that the Vermont law could not be applied to ERISA plans. Therefore, Vermont could not compel Liberty Mutual Insurance Company, or any other ERISA plan, to provide the information mandated in the law. With this opinion, as Richard Mann concludes in his opinion analysis on SCOTUSBlog, the justices struck a blow against state health care data collection.
+
+This is unlikely to be the end of this conversation. Others will likely try to come up with ways to get around the opinion. SCOTUS cut off one such avenue by expressly forbidding a potential work-around through public health regulatory authority.
+
+Other avenues exist, however. As Justice Kennedy's opinion recognizes, the Department of Labor might be able to require ERISA plans to report these data, an option that appears even more certain in Justice Breyer's concurring opinion. Congress also has the option to amend ERISA (as it did multiple times as part of the Affordable Care Act) to require this reporting.
+
+The legal jockeying may be only just beginning. In the meantime, an important tool for public health surveillance, healthcare quality improvement, and price transparency has been shelved.
+
+
+
+The Gaps in Public Health Data
+
+Public health surveillance relies on data to assess health outcomes and trends, including:
+
+Population-based surveys
+
+Reportable disease and event data provided by laboratories, providers, and workplaces
+
+Disease registries
+
+Mortality data
+
+Hospital discharge data
+
+Without these data informing our health interventions and policymaking, many of public health's achievements in the past century would not have been possible, and their full impact would not be understood.
+
+Public health data are also rarely local. This is especially true for chronic disease. As disease dynamics have changed and the role of personal behaviors in premature mortality have become more widely recognized, surveys have been implemented to provide state-level data to aid agencies trying to target resources to reduce behavioral risks and their consequent illnesses.
+
+The emergence of these state-level surveys demonstrated an understanding that national data may not be applicable to the conditions found in any given state. A similar argument could justify the need for data within ZIP codes, census tracts, block groups, and neighborhoods. However, for methodologic reasons and cost, our existing surveys rarely provide any data below county levels.
+
+The consequences are significant for public health leaders. Without timely and geographically specific data, it is challenging to make real-time changes in projects and to measure outcomes; to spot new and emerging trends; and to raise awareness and catalyze action, all of which can undermine the credibility of public health leaders.
+
+For example, as the opioid epidemic was emerging in Boston, the Boston Public Health Commission (BPHC) started looking into opioid overdose deaths only to find that there were no such deaths recorded in the mortality and nothing unusual in the hospital discharge data. Unfortunately, the most recent mortality data were four years old, while the most recent hospital discharge data were three years old. Neither reflected the anecdotal information that public health, healthcare, and public safety leaders had of a fast-developing crisis. Fortunately, the BPHC has authority over Boston's EMS allowing it to access real-time, address-level ambulance dispatch and reporting data and to confirm the problem, pinpoint its sources, and take action.
+
+The Promise of "Big Data" and the APCD
+
+"Big Data" has been an oft prophesized solution to these problems. While a textbook definition would be much more complex, you can think of "Big Data" as the vast quantities of data that have been created by the mass adoption of digitized data of all sorts of information. The promise of "Big Data" is the treasure trove of information that could be discovered when this information is consolidated and analyzed.
+
+APCDs hold this promise. When aggregated across all payers, the information contained in APCDs provide population-based, system-wide clinical, financial, utilization, and demographic data that could be used to improve public health, promote price competition, improve healthcare quality, and more.
+
+For example, Utah used its APCD to investigate the costs of asthma within its population and found, among other things, that the costs of asthma prescriptions exceeded $15M in 2009. Analysis of the New Hampshire APCD in 2005 found that the rate of ED visits for the Medicaid population was more than four times greater than the commercially-insured population.
+
+Another example comes from Camden, New Jersey. The Camden Coalition of Healthcare Providers developed a citywide, all-payer, hospital claims database used to produce powerful information. They found that 1 percent of all patients accounted for 30 percent of all costs and the identification of six city blocks that accounted for 18 percent of the population but 37 percent of all receipts. Without an APCD, this information would remain unknown and not actionable.
+
+The "Some Payer" Claims Database?
+
+Despite all of its promise, unlocking the potential of "Big Data" has proven challenging.
+
+"Big Data" is like your dad's Corvette -- you can see it, you know it would be fun to drive, but there's no way you're ever getting the keys.
+
+In the case of APCDs, we had the keys and were even learning to drive, only to have SCOTUS pull us over, take the keys, and leave us on the side of the road. For now, we're walking and waiting to see if there's a way to get the keys back.
+
+It is possible that states can maintain their APCDs on a voluntary basis, but a "some payer" claims database just doesn't have the same ring (or impact) as an "all payer" claims database.
+
+
+
+###
+
+Brian Castrucci is the Chief Program and Strategy Officer at the de Beaumont Foundation. Brian wants to thank Gene Matthews and Jane Perkins from the Southeast Region of the Network for Public Health Law for their thoughtful review of this blog. You can follow Brian on Twitter at @BrianCCastrucci, the National Network for Public Health Law at @networkforphl, and the de Beaumont Foundation at @deBeaumontFndtn.
+
+Follow Brian Castrucci on Twitter: www.twitter.com/BrianCCastrucci

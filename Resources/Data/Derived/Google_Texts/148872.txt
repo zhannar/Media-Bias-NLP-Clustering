@@ -1,0 +1,45 @@
+Wednesday, August 19, 2015
+
+As we reported last week, the IRS recently issued draft 2015 Instructions for Forms 1094-C and 1095-C. These instructions are of interest to applicable large employers who must report their compliance with the Affordable Care Act’s (ACA) rules governing employer shared responsibility. At the same time, the IRS also issued draft 2015 Instructions for Forms 1094-B and 1095-B (“Draft 2015 Instructions”). Forms 1094-B and 1095-B are used to report certain information to the IRS and to taxpayers about individuals who are covered by minimum essential coverage and therefore are not liable for the individual shared responsibility payment. The Draft 2015 Instructions contain an unpleasant clarification on the subject of Health Reimbursement Arrangements, saying essentially that an employer that maintains an insured group plan and a self-funded Health Reimbursement Arrangement (HRA) must separately report the HRA coverage.
+
+Background
+
+The ACA added Internal Revenue Code § 6055, which requires information reporting by any entity that provides “minimum essential coverage” or “MEC.” Providers of MEC must file an information return with the IRS and provide a written statement to each individual listed on the return. The information reported under Code § 6055 allows taxpayers to establish (and the IRS to verify) (i) that they had minimum essential coverage and (ii) their months of enrollment, during a calendar year.
+
+The Code § 6055 reporting obligation in the case of a fully-insured plan rests with the health insurance issuer or carrier. In the case of a self-funded plan, the obligation is generally with the employer/plan sponsor. There is an exception in the final regulations under which no reporting is required for “minimum essential coverage that provides benefits in addition or as a supplement to a health plan or arrangement” but only “if the primary and supplemental coverages have the same plan sponsor” or the “coverage supplements government-sponsored coverage” (e.g., Medicare).
+
+Reporting Status of HRAs
+
+The preamble to the proposed regulations had the following to say about reporting for HRAs:
+
+A commenter asked whether an employer and an issuer must coordinate section 6055 reporting for an employer sponsored group health plan that consists of an insured high-deductible health plan (HDHP) and additional health benefits provided through a contribution to a health savings account. Health savings accounts are not minimum essential coverage, and therefore section 6055 reporting is not required for them. Additionally, the proposed regulations provide that reporting is not required for arrangements such as health reimbursement arrangements that supplement minimum essential coverage. 78 Fed. Reg. p. 54,990 (Sept. 9, 2013) (Emphasis added).
+
+The preamble to the final regulations appeared to be in accord:
+
+The proposed regulations provided that reporting is not required for arrangements that provide benefits in addition or as a supplement to a health plan or arrangement that constitutes minimum essential coverage. The preamble to the proposed regulations identified health reimbursement arrangements as supplemental coverage to which this rule may apply. . . . The final regulations clarify that minimum essential coverage that supplements a primary plan of the same plan sponsor or that supplements government-sponsored coverage (such as Medicare) are supplemental coverage not subject to reporting. 79 Fed. Reg. 13, 221 (Mar. 10, 2014) (Emphasis added).
+
+This clarification is reflected in a set of IRS-authored Code § 6055 Q&As, Q&A 14, which reads:
+
+Must a health coverage provider report under section 6055 for arrangements that provide benefits in addition or as a supplement to an arrangement that is minimum essential coverage? If the additional or supplemental benefits are not minimum essential coverage (for example, if they are excepted benefits like coverage at an on-site medical clinic), no reporting is required for the additional or supplemental benefits. In addition, no reporting is required under section 6055 for additional or supplemental benefits that are minimum essential coverage if the primary and supplemental coverages have the same plan sponsor or the coverage supplements government-sponsored coverage such as Medicare.
+
+But it was not until the Draft 2015 Instructions for Forms 1094-B and 1095-B that the full import of the clarification in the final regulations became apparent. Here is what the Draft 2015 Instructions have to say:
+
+Supplemental Coverage Providers aren’t required to report the following minimum essential coverage that is supplemental to other minimum essential coverage. Coverage that supplements a government-sponsored program, such as Medicare or TRICARE supplemental coverage.
+
+Coverage of an individual in more than one plan or program provided by the same plan sponsor (the plan sponsor is required to report only one type of minimum essential coverage). Coverage isn’t provided by the same plan sponsor if they aren’t reported by the same reporting entity. Thus, an insured group health plan and a self-insured health reimbursement arrangement covering the employees of the same employer aren’t supplemental. (Emphasis added).
+
+What this means, of course, is that small employers with fully-insured plans that maintain HRAs will be required to issue Form 1095-Cs to covered employees and transmit copies to the IRS on Form 1094-B. This is so despite that the carrier will issue the Form 1095-Bs with respect to the fully-insured coverage. Small employers with self-funded plans will issue Form 1095-Bs and transmit copies on Form 1094-B only for the major medical coverage. For these employers, the HRA is supplemental.
+
+Large employers with fully-insured arrangements, who would not otherwise complete Part III of Form 1095-C, will need to do so if they also maintain an HRA. Large employers with self-funded arrangements that include an HRA will issue Form 1095-Cs with Parts I and II (but not III) completed. The transmittal in each case would be on Form 1094-C.
+
+But what does it mean for the coverage to not be “provided by the same plan sponsor?” Isn’t the employer the “plan sponsor” of an insured plan as well as a self-funded plan? The reference to being “reported by the same reporting entity” is new in the Draft 2015 Instructions. The language does not appear in the final regulations. To treat HRAs in the manner envisioned by the Draft 2015 Instructions, the insurer must be the plan sponsor of a fully-insured plan. The final regulations refer to the health insurance issuer or carriers and to plan sponsors. At no point do they conflate the two.
+
+Most HRAs are “integrated” with group health plan coverage—i.e., they are only available when offered and elected alongside group health plan coverage. (We discussed integrated vs. non-integrated HRAs here.) Integrated HRAs merely supplement other group health plan coverage; non-integrated HRAs, in contrast, result in a separate offer of minimum essential coverage. Might it not be better to require reporting of HRA coverage only where the HRA is not integrated (such as a retiree-only HRA)?
+
+Reporting of Other Supplemental Coverage
+
+The preamble to the final Code § 6055 regulations clarifies that “reporting is not required for arrangements that provide benefits in addition or as a supplement to a health plan or arrangement that constitutes minimum essential coverage.” Nor is reporting required for coverage that is not minimum essential coverage. Thus, for example, no reporting is required for health savings accounts, which are not minimum essential coverage.
+
+What is—or at least should be—clear is that the term “supplemental” in the context of “other supplemental coverage” does not mean “supplemental coverage” as that term is used in Public Health Service Act § 2791, ERISA § 733, and Code § 9832 establishing HIPAA excepted benefits. These parallel statutory provisions establish four categories of excepted benefits, the last of which is “supplemental” excepted benefits. Supplemental benefits for HIPAA purposes are those provided under a separate policy, certificate, or contract of insurance and that consist of coverage supplemental to Medicare, coverage supplemental to the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) or to Tricare, or similar coverage that is supplemental to coverage provided under a group health plan. HIPAA excepted benefits are not minimum essential coverage so they do not trigger a reporting obligation.
+
+But if “other supplemental coverage” is unrelated to HIPAA supplemental benefits, then what is it? For example, if an employer offers a fully insured major medical plan but provides prescription drug coverage under a self-funded carve-out, must the prescription drug coverage be separately reported? Based on the Draft 2015 Instructions, the answer appears to be yes, irrespective of whether it rises to the level of other supplemental coverage.

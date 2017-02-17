@@ -1,0 +1,13 @@
+If you’ve ever taken a moment to think about DNA and the traits we inherit, then chances are that you also wondered which parent passed down a disease that you’re likely to inherit. Although current gene sequencing techniques can already weed out inheritable diseases, a new technique promises to dig further — allowing for more personalized care — by not only pinpointing the disease but by also determining whether it came from a patient’s mother or father, a new study says.
+
+“The technique will enable clinicians to better assess a person’s individual risk for disease,” Bing Ren, of the University of California San Diego School of Medicine, who worked with the Ludwig Institute for Cancer Research, said in a statement. “It is potentially transformative for personalized medicine.”
+
+The new technique, known as “HaploSeq,” uses several molecular and computational biology approaches to get around a common problem with current techniques. Besides the sex chromosomes, XX (female) and XY (male), every other chromosome is indistinguishable from its copy, meaning that scientists have been unable to determine which copy came from the mother and which came from the father. The inability to differentiate also meant that genetic differences in one chromosome couldn’t be traced back to a single parent.
+
+HaploSeq, however, looks at which genetic variants occur on the same chromosomal strand. From there, the scientists can trace the group of variants back to one parent. HaploSeq also promises to personalize care even further. Doctors will be able to use the technique to assess individual risk for disease, especially when they cause more than one mutation in the DNA. If multiple mutations show up on the same strand, then doctors would know that it came from a certain parent. The researchers would also know if there was a reduced risk for disease, because the “good” chromosome would counteract the bad one.
+
+Going beyond medicine, the technique could also help researchers look into the history of human migration and ancestry with regards to the International HapMap Project, a multi-country mission to identify and record genetic similarities and differences in humans.
+
+“In principle, you could compare your genetic sequence to your neighbor’s and ask if you have any recent ancestors in common,” Ren said. “With our technique we can study each individual and how they relate to other individuals. As we accumulate data from many individuals we can more precisely determine the relationships.”
+
+Source: Selvaraj S, Dixon J, Ren B, et al. Whole-genome haplotype reconstruction using proximity-ligation and shotgun sequencing. Nature Biotechnology. 2013.

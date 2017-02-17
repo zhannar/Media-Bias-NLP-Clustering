@@ -1,0 +1,31 @@
+Since the Affordable Care Act, also called Obamacare, launched in full force, stories of folks having trouble accessing the Healthcare.gov website and signing up for insurance plans have been rampant.
+
+Part of the problem has been the demand. In the first 10 days, Healthcare.gov had 14.6 million unique visits. But part of the problem has also been the structure of the site. For example, people have to register and create an account before they can get information about their eligibility and plans. And now that some of the accessibility issues are being fixed, there are reports of error messages late in the process.
+
+Not to excuse the pitifully-executed launch, and it certainly won’t relieve the frustration millions are facing. But Healthcare.gov apparently isn’t the only site having some problems.
+
+The website efficiency group, Radware, just released its sixth quarterly report on web performance. It shows that e-retailers are struggling as well.
+
+The sixth edition of Radware’s quarterly report, “State of the Union: Ecommerce Page Speed & Web Performance, Fall 2013″ was released this morning (with all the news about the Obamacare website, you’ve got to love the title), and found that e-commerce websites in general are slower and less efficient than just a year ago.
+
+That runs counter to our continued expectation that everything digital just constantly keeps improving. Goes to show: improvement isn’t some magic spell cast by the technological gods. It’s the product of smart people coming up with smart solutions and using best practices.
+
+That apparently hasn’t been happening often enough. The report confirmed what many of us are finding when we navigate the web. Companies are cramming more stuff onto web pages and that’s slowing them down. The Cliff Notes version of the report is that pages are too big, too slow, there are too many users who are being shortchanged too often by companies hesitant to use best practices.
+
+“1. The trend toward bigger, slower pages continues,” the report said. “The median page took 8.56 seconds to load for first-time visitors, representing a 14% slowdown over the median of 7.48 seconds recorded three months ago (Summer 2013).
+
+“2. The median page takes 5.3 seconds to become interactive. Sites have experienced a slowdown of 8% since Summer 2013, when the median time to interact (TTI) was 4.9 seconds. Ideally, pages should be interactive in 3 seconds or less.
+
+“3. Three common design practices are failing users. Most sites made at least one of three critical mistakes in the design and presentation of their feature content: loading feature banners last; placing a call-to-action at the bottom of feature banners; and/or not
+
+implementing a call-to-action at all.
+
+“4. The adoption of performance best practices is inconsistent, even among leading sites. Among the top 100 sites, adoption of some best practices is nearing the saturation point, whereas others remain neglected.
+
+“5. Browser vendors are not keeping pace with page demands. Across all three major browsers, performance is trending downward as browser vendors struggle to keep pace with the demands of today’s large, complex, dynamic web pages.
+
+Too big. Too slow. Too many users. Administrators not using best practices. Why, that basically describes Healthcare.gov.
+
+I was about to say the Obama administration should get in touch with the Radware folks. But maybe they already have.
+
+When I went to access the report, first thing they did was require me to register.

@@ -1,0 +1,25 @@
+Nonsteroidal anti-inflammatory drugs, or NSAIDs, are effective for treating a range of conditions, from common fevers to painful arthritis. But researchers have discovered that these over-the-counter drugs alter the activity of enzymes within cell membranes and long-term use or overdose may result in serious health complications.
+
+"When drug designers think about possible sources of side effects, they tend to think about which proteins are similar to the protein they are targeting, and they make sure that the former are not affected by the drug," said Sinisa Urban from the Johns Hopkins University School of Medicine and a Howard Hughes Medical Institute investigator, in a statement. But according to his research, drugs that affect cell membranes can affect proteins that are completely unrelated to the target. Their research appears in the journal Cell Reports on Thursday.
+
+More specifically, the researchers wanted to see how these drugs altered the enzymes present in the cell membrane that act like “cellular scissors.” These enzymes known as rhomboid proteases cut the polypeptide chain of proteins to maintain cellular regulation. The cut proteins are released from the cell membrane. The cut protein halves might go on to signal other cells or might get degraded depending on their type.
+
+In previous research, Urban and his team found that proteases decide which proteins to cut depending on the stability of the "protein clients." So, less stable proteins are more likely to be cut than more stable ones.
+
+Since cell membranes are known to host the proteins embedded in them, the team tried altering the physical properties of this "habitat" to determine if this would change the proteins that the rhomboid proteases selected to cut. This was done by treating human cells with two chemicals that either made the membranes more flexible or distorted their shape. As suspected, rhomboid proteases started cutting proteins they don't normally cut, namely amyloid-beta precursor protein (APP) and the signaling protein Delta, while continuing to cut their standard "clients." In short, the enzymes could no longer distinguish between clients and nonclients or nonclients started acting like clients when the cell membrane was altered.
+
+Since many drugs end up in the cell membrane, the team wanted to analyze if these drugs altered the cell membrane and thus the rhomboid proteases' ability to recognize normal clients.
+
+Earlier research has shown that certain prescription-level NSAIDs like flurbiprofen, correct the function of enzyme gamma-secretase by making it less likely to cut APP at the wrong site. When gamma-secretase cuts APP at the "wrong" site, it generates a short protein piece that clumps in the brain and goes on to cause Alzheimer's disease.
+
+Urban wanted to check if the activity of rhomboid proteases could also be altered by treating the cells to NSAIDs. So he treated the cells with flurbiprofen, indomethacin, and sulindac at high but similar concentrations to those found in the blood of patients taking them at approved doses. But rhomboid proteases again cut nonclients, like APP and Delta, just as they had when treated with the membrane-altering chemicals.
+
+When treated with over-the-counter NSAIDs like aspirin, ibuprofen, and naproxen, the range of clients cut by rhomboid proteases increased marginally.
+
+When prescription-level NSAIDs were applied directly to the cell membranes it was found that they lowered the membranes melting temperature. This melting temperature caused the rhomboid proteases to cut nonclient proteins.
+
+"It's possible that some of the side effects of NSAIDs are caused by their effect on the membrane and its enzymes," Urban said. He added that this research should be used by drug developers to reduce the potential side effects of future drugs being developed.
+
+"Our results are also a caution to drug developers trying to target new drugs to the membrane or hoping to increase the duration or dosage of already approved drugs. Throwing off the balance of the membrane has consequences."
+
+“Now we can use rhomboid proteases as predictors of a drug's possible effects on the membrane and its enzymes," Urban said.

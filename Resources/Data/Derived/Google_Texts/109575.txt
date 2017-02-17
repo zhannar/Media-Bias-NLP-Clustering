@@ -1,0 +1,79 @@
+Charles Roehrig, Ani Turner, and Katherine Hempstead
+
+November 20, 2015
+
+The rate of health sector hiring started to increase in the middle of 2014, and has continued to accelerate through the first three quarters of 2015. The timing of this acceleration corresponds to the recent expansion of health insurance coverage, but thus far there is little direct evidence of a relationship between expanded coverage and health jobs.
+
+We use state-level data on health jobs and insurance coverage to show that much of the acceleration in health jobs can be explained by expanded coverage. This suggests that as insurance coverage stabilizes, health job growth should revert back to more typical historical levels, providing some comfort to those concerned that the recent jump in the health spending growth rate is permanent.
+
+The Acceleration In Health Jobs
+
+Figure 1 provides a long term view of year-over-year health and nonhealth job growth (see Note 1). After a slump in the rate of hiring in 2013, the pace has ramped steadily upward to its highest value since the early 2000s. Hospitals have been a driver of both the slow job growth in 2013 and the recent acceleration.
+
+Figure 1: Percentage Growth In Health Jobs (Year-Over-Year)
+
+Source: Altarum Health Sector Economic Indicators Labor Brief, November 2015
+
+For the three 12-month periods between June 2012 and June 2015, health jobs grew by 1.5 percent, 1.2 percent, and 3.0 percent, respectively. The slowdown in the middle year, from mid-2013 to mid-2014, was largely driven by a loss of hospital jobs, and it may have been influenced by the 2 percent cut in Medicare payments that began April 1, 2013 under the sequester.
+
+From mid-2014 to mid-2015, there has been an increase in health job growth of 1.8 percentage points (1.2 percent to 3.0 percent). The timing of this acceleration strongly suggests a link to the increases in health insurance coverage that began in 2014 under the expanded coverage provisions of the Affordable Care Act (ACA).
+
+According to data from the Health Reform Monitoring Survey, the percentage of nonelderly adults without health insurance fell during each of the first three quarters of 2014, with an additional drop in the first quarter of 2015 (Figure 2). Looking across the last two quarters of 2014 and the first two quarters of 2015 (which is the same period for which we have measured the acceleration in health jobs), the average change in the percent uninsured compared to same quarter of the previous year is 4.6 percent. This translates to over 9 million more non-elderly adults with health insurance, or about 3 percent of the total population (see Note 2).
+
+Figure 2: Percent Of Non-Elderly Adults Without Health Insurance
+
+Source: Health Reform Monitoring Survey (Q2 2015 interpolated due to missing data)
+
+Thus, the 1.8 percentage point acceleration in the health jobs growth rate occurred at the same time that health insurance coverage of the population expanded by about 3 percentage points. Expanded coverage should lead to more health jobs because insurance leads to a greater demand for services and reduces uncompensated care. Thus at least some of the acceleration in health job growth should be attributable to expanded coverage. But how much?
+
+In a previous blog post, we estimated that if 10 million people (or about 3 percent of the population) were to gain insurance coverage, it would result in a 1.4 percentage point increase in health spending. A more recent analysis by researchers at the Urban Institute reached a similar conclusion. One might expect this to drive an increase in health jobs by a roughly similar amount; this therefore suggests that expanded coverage explains a large share of the acceleration in health jobs, but perhaps not all of it (see Note 3). For more direct evidence, we turn to state-level data.
+
+State-Level Analysis
+
+If expanded coverage explains most of the acceleration in health jobs, then states with the greatest expansion in coverage should exhibit the greatest acceleration in health jobs. In December 2014 we made our first attempt to apply state-level data to this question. Because we did not have reliable estimates of expanded coverage by state, we instead compared the acceleration in health jobs between Medicaid expansion and non-expansion states.
+
+We found similar levels of acceleration in expansion and non-expansion states and concluded that “Medicaid expansion does not appear to explain the recent acceleration in health job growth.” We speculated that one of the reasons for this somewhat surprising finding could be that Medicaid expansion was not necessarily representative of total increased insurance coverage, since coverage could also be expanding due to factors including the ACA exchanges and an improving economy (see Note 4).
+
+With the recent release of American Community Survey (ACS) data through 2014, we now have solid estimates of the change in insurance coverage by state between 2013 and 2014. We combined the ACS data with estimates of state-level health jobs from the Bureau of Labor Statistics (BLS) Current Employment Statistics (CES) survey to explore the relationship between expanded coverage and the increase in health job growth (see Note 5). Figure 3 plots the percentage point change in health job growth against the percentage point increase in the insured population between 2013 and 2014.
+
+Figure 3: Increase In Health Job Growth Rate vs Increase In Percent Insured
+
+Source: Center for Sustainable Health Spending calculations. The percentage point increase in the insured population is measured from 2013 to 2014 using ACS data. The percentage point acceleration in health jobs compares job growth between June 2014 and June 2015 to job growth between June 2013 and June 2014. Health job growth rates were computed from BLS Current Employment Statistics data and were available for 40 states. The 10 states with missing data are AK, IA, KS, MS, NV, NH, NM, SC, SD, and WV.
+
+Though the data are quite noisy, particularly for the smaller states, overall we find the expected positive relationship between increased insurance and accelerated job growth. The weighted regression line, shown in Figure 3 (with statistics in Figure 4) suggests that job growth would have accelerated by 0.3 percent in the absence of expanded coverage (the intercept), and for every percentage point increase in the insured population, jobs growth would be increased by 0.38 percentage points (the slope). The slope is statistically significance at the 2 percent level. While the confidence intervals are fairly large, the regression line suggests that all but 0.3 percent of the acceleration in health jobs is due to expanded coverage.
+
+Figure 4: Weighted Regression Statistics
+
+Source: Computed from data in figure 3 (see Note 6)
+
+Summing Up
+
+Given these findings, we believe it makes sense to attribute much, if not most, of the acceleration in health jobs to expanded coverage. First, the acceleration in health jobs coincides with the timing of expanded coverage. Second, there are sound reasons to expect expanded coverage to accelerate job growth due to its impact on health care utilization and provider revenues. Third, the amount of acceleration (1.8 percentage points) is not much greater than recent estimates of how much expanded coverage should accelerate health spending (1.4 percentage points).
+
+Finally, our state-level analysis shows a statistically significant relationship between expanded coverage and accelerated job growth and is consistent with the hypothesis that most of the acceleration is explained by expanded coverage.
+
+Note 1
+
+Health jobs are those employed by providers of health care services, including hospitals, physician offices, freestanding clinics, home health, nursing homes, and residential care facilities.
+
+Note 2
+
+The non-elderly adult population in 2014 was about 200 million and the total population was about 320 million.
+
+Note 3
+
+In our derivation of the 1.4 percent increase in health spending due to expanded coverage of 10 million, we estimated that half of the increase would be due to greater utilization of health care by the newly insured. Assuming that this additional health care was typical with respect to requirements for health workers, this would increase health jobs by about 0.7 percent.
+
+We estimated that the other half of the increase would come from the extra payments for care that was previously uncompensated. These extra revenues should also contribute to more jobs though perhaps by less than 0.7 percent. Thus, in this part of the analysis, we would conclude that expanded coverage explains a bit less than 1.4 percentage points of the 1.8 percentage points of acceleration in health jobs.
+
+Note 4
+
+We also used health care and social assistance jobs to represent health jobs since health jobs greatly outnumber social assistance jobs. We have since discovered that social assistance jobs in the BLS data for California showed some extreme changes that impacted our results. For this reason, we are now subtracting social assistance jobs in order to analyze health jobs only, even though this reduces our sample size due to missing social assistance jobs.
+
+Note 5
+
+Our September Trend Report included a plot similar to Figure 3 for the 10 states with the most health jobs. However, it used a slightly different time period for the measure of acceleration in jobs and also used a different data source for the change in insurance because ACS was not available at the time.
+
+Note 6
+
+Weighted regression using the square root of health jobs in June 2015 as weights.

@@ -1,0 +1,65 @@
+If you're looking for a feel-good story to warm your spirits in winter 2015, you need only look back a few weeks. On a Saturday last December, in a school gym in Baltimore, more than three dozen Cub Scouts, Boy Scouts, Girl Scouts and their adult leaders spent the day hunched at long tables enthusiastically piecing together 140 prosthetic hands. The devices were destined as gifts for children in the underdeveloped world who've been born without fingers or have lost portions of their hands or arms to disease, natural disasters or war.
+
+Wait … what? Kids assembling prosthetic hands?
+
+Yes. Not only that, but these hands were — are — fully functional: four jointed fingers, an opposable thumb and a flexible wrist, made of wires and interlocking components that some of the scouts had earlier helped to build from layers of brilliantly hued plastic filament extruded by tabletop 3-D printers. (Make no mistake: These hands don't aspire to be "lifelike." They resemble an appendage that Iron Man or a Transformer would ball into a fist to terrify a foe. Children who've gone through life with a fleshy stub instead of a hand to grasp a cup or a bike handle are proud to display their new dexterity so garishly. Some get to choose their own colors.)
+
+The software to run the printers is downloadable free from the Internet. The open-source code was developed by an ad hoc collaborative of "tinkerers, engineers, 3-D print enthusiasts, occupational therapists, university professors, designers, parents, families, artists, students, teachers and people who just want to make a difference." They donate their time and expertise as members of a global Google+ community called e-NABLING the Future.
+
+Last year alone, e-NABLE's 3,200 "passionate volunteers" provided more than 700 hands to amputees around the world. Cost in materials to make one of these hands: less than $50. (Jose Delgado, a 53-year-old born with only a vestigial left palm, recently tested a basic mechanical e-NABLE model — whimsically dubbed the "Cyborg Beast" — and proclaimed it stronger and better suited to daily work use than the $42,000 myoelectric prosthesis he'd been wearing.)
+
+In 2014, e-NABLE collaborators introduced 10 new designs, including wrist-driven hands; myoelectric arms; and prototypes for feet, legs and whole-body exoskeletons that let people paralyzed by stroke or spinal cord injuries ambulate again.
+
+150,000 Amputations Every Year
+
+Upward of 30 million people worldwide are missing limbs, the World Health Organization estimates. In the United States alone, at least 900,000 people have lost a hand, fingers or toes. Another 700,000 have suffered a "major" amputation, classified as an arm, a leg or a foot.
+
+About 150,000 operations to remove an injured or diseased extremity are performed in the United States each year. More than half are due to complications of diabetes. Trauma, severe infections, tumors or birth deformities account for the rest. Every year, 10,000 Americans lose a hand or part of an arm. Another 40,000 undergo an amputation below the knee.
+
+In April 2013, Adrianne Haslet-Davis joined that number. To celebrate her husband's return from Afghanistan, where he'd served unscathed as an Air Force captain, she took him to watch the Boston Marathon. They were among 264 spectators and runners injured when terrorists detonated a bomb near the finish line. Three died. Haslet-Davis's leg was blown off below the knee. At the age of 33, she faced a sudden, tragic end to her career: She was a professional ballroom dancer.
+
+
+
+But just 11 months later, thanks to a team headed by researcher Hugh Herr at the Massachusetts Institute of Technology's Media Lab Center for Extreme Bionics — who'd been moved to take on her case — Haslet-Davis gracefully twirled and dipped across a stage, her short skirt unapologetically revealing a bionic left leg. Tucked inside its plastic casing were an internal battery, a computer, a Bluetooth receiver for wireless fine-tuning and a motorized ankle joint with springs responsive to sensors that allow her to control her speed of movement, torque and foot position.
+
+Haslet-Davis unveiled her new leg in a seamlessly partnered rumba that earned a standing ovation at the conclusion of a TED Talk last March in Vancouver, Canada. The presenter was her biomechatronic enabler, MIT's Herr — who himself stalked the stage on two prosthetic legs as he described recent advances in biomechanical limb replacement and the potential to bionically enhance even healthy, everyday physical activities like walking, climbing, swimming and running.
+
+The Bionics Revolution Has Begun
+
+Indeed, so rapidly have breakthroughs been recorded in this field of rehabilitative medicine that Popular Science proclaimed 2014 "a turning point for bionic technologies." The magazine cited two highly visible examples: Haslet-Davis's return to the dance floor and 29-year-old Juliano Pinto's opening kickoff at the soccer World Cup in São Paulo, Brazil. Pinto, a paraplegic, was encased in a full-body exoskeleton that enabled him to move his leg muscles in response to signals from his brain and feedback sensors applied to the soles of his feet.
+
+Although cumbersome and still highly experimental, Pinto's armature is only one of several exoskeletons offering hope of mobility — sitting, standing, strolling, climbing stairs — to patients otherwise paralyzed. Two such suits are already on the commercial market in the United States. One, made by a U.S.-German-Israeli company called ReWalk Robotics, boasts Food and Drug Association approval; the other, made by Ekso Bionics of Richmond, Calif., is awaiting agency clearance.
+
+Learning to use an exoskeleton requires a series of sessions with a trained therapist at significant cost. Both ReWalk and Ekso have partnered with the Veterans Administration, hospitals, and orthopedic and rehabilitation practices across the United States and Europe to provide the equipment and lessons. The suit itself doesn't come cheap. ReWalk's exoskeleton costs $69,500 and is not yet covered by health insurance.
+
+Depending on their sophistication and intended use — and not counting e-NABLE's 3-D-printed devices, whose considerable research and development and production costs have simply been swallowed by contributors — bionic hands, feet and limbs range in price from hundreds to thousands of dollars. Amy Purdy, a 29-year-old double amputee who lost her legs below the knee to bacterial meningitis at the age of 17, won a bronze medal in snowboarding wearing sports prosthetics at the 2014 Winter Paralympics. Then, she appeared on the popular television show Dancing with the Stars. She finished second. During the course of the contest, she switched among two basic $500 feet to dance the swing and cha-cha, two $3,000 carbon-fiber feet with adjustable heels for jazz and Latin numbers, and two $3,800 feet designed to stretch for swimmers (marketed by a company called Freedom Innovations) that allowed her to perform a tribute to her father balanced on the points of her "toes."
+
+The Interplay of Forces
+
+Affordability is a key issue confronting developers of bionic limbs. Government research grants fund much of the early-stage work, primarily in university labs like Herr's at MIT. But bringing a promising prototype into clinical use — available to every amputee whose disability it can alleviate, not only to those rich enough to pay out-of-pocket — takes tens of millions of dollars of investor and venture capital funding, notes Herr.
+
+It also takes persuading insurers — especially the Centers for Medicare & Medicaid Services — that coverage of a pricey device will save more in long-term health care expenses than the initial outlay. Hampered mobility is associated with all sorts of complications, from obesity and arthritis to diabetes and heart disease, not to mention the impact on mental health and quality of personal and family life.
+
+As a teenager, Herr suffered severe frostbite while mountain climbing in New Hampshire. He set up a workshop in his garage to customize artificial leg replacements that would help him continue to scale rocks and ice. (Bionic limbs have certain advantages over original equipment. They can be modified for specific tasks at which blunt natural fingers and feet are less than ideal.) The loss of his lower legs also kindled an interest in biophysics: Herr wanted to understand the interplay of forces at work on bones, sinews and joints during ordinary movements.
+
+At MIT's Media Lab, where he earned a master's degree and returned after completion of a Harvard doctorate, Herr helped to develop an artificial knee now marketed by a company headquartered in Iceland called Össur. Next, with VA and Department of Defense funding, came a battery-powered, foot-ankle prosthesis resembling that used by Haslet-Davis. The latter now has been fitted to some 1,000 patients, reports Herr, through a startup company he founded to commercialize the device, BiOM. (CMS has issued a coverage code for the $50,000 BiOM foot, but actual Medicare and Medicaid reimbursement is still being negotiated.)
+
+The Elephant in the Room
+
+Amazing leaps forward in bionic technology make news regularly: At Ohio State University's Wexner Medical Center, doctors insert a chip in the brain of a paralyzed man and watch him make a fist simply by visualizing the movements; at the Illinois Institute of Technology, doctors implant myoelectric sensors along the vestigial arm of a patient and watch him spontaneously flex and swivel his prosthetic wrist; at the Università Campus Biomedica di Roma, a Swiss-Italian team painstakingly sites electrodes along neural pathways of an amputee's arm to restore his sense of touch and ability to distinguish shapes and consistencies — through a robotic hand.
+
+None of these experimental achievements will end up benefiting ordinary patients, warns Herr, unless "entrepreneurs, technologists, hospitals and government team together."
+
+The challenges remain formidable, he acknowledges. Surgical techniques need refinement to adapt to the physical and neurological requirements of bionic prostheses. Electrical interfaces between artificial limbs and human tissue still can be problematic. Despite improvements, says Herr, "Prostheses are terribly uncomfortable." He and colleagues are at work on all these problems.
+
+But, he adds, "The elephant in the room is money."
+
+The effort and costs to bring a device from lab to marketplace are "monumental," he points out. If the FDA niggles on approval or if CMS nixes coverage, "the technology will disappear … even though the U.S. government has already invested millions in research grants in creating it."
+
+
+
+Hospitals and private entrepreneurs are key partners in the process as well. "It's the hospitals that approve and subscribe the devices," he explains. "They're the clients. Which means the BiOM [foot], for instance, has to be approved by physicians who sit at the hospital.
+
+"If any one of these pieces is missing," he cautions, "great technology will never get to the people whose lives it can transform."
+
+David Ollier Weber is a principal of The Kila Springs Group in Placerville, Calif., and a regular contributor to H&HN Daily.

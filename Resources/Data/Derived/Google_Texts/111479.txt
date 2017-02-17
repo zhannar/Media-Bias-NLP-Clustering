@@ -1,0 +1,27 @@
+UPDATE: Following the publication of this blog post I received an email from the deputy commissioner for public affairs at the New York City Taxi and Limousine Commission, who writes that there is no “TLC” regulation requiring that passenger information be included in trip data. The email reads (in part):
+
+There is no such regulation. We did, just this past week, approve a package of rules that will routinize the flow of required trip data, but it is—and always HAS been—limited to pick-up location, date/time, the dispatching base and affiliated base … no passenger information whatsoever.
+
+——–
+
+Original post:
+
+Uber has not had a good month. In the wake of an Uber executive’s worrying remarks regarding a possible smear campaign against critical journalists, the company has been on the receiving end of unflattering reporting related to its privacy policy and what one commentator has referred to as its “[something stronger than “jerk”] problem.” While it is certainly the case that Uber does have legitimate privacy issues to address, it should not be forgotten that existing regulations could hamper some of the privacy reforms many Uber passengers would like to see implemented.
+
+For many, Uber is more convenient than taxis because of its ease of use. Once a passenger creates an account a ride that is paid for automatically is only a push of a button away. Drivers and passengers are rated by each other, providing an incentive for both parties to behave well. However, while the Uber platform’s simplicity is a major attraction, there have been disturbing reports of Uber drivers accessing passengers’ information.
+
+In March of this year, Olivia Nuzzi, a reporter for The Daily Beast, wrote about two creepy interactions with Uber drivers in New York City. In her writing about the first incident, Nuzzi describes her driver showing her a photo he had taken of her before the ride began. Nuzzi was understandably upset and rated the driver poorly. Uber deactivated the driver, who later emailed Nuzzi, The Daily Beast, and a journalist who had written about Nuzzi. After this incident Nuzzi was told by an Uber employee there was no way the Uber driver could have accessed her full name and that he must have recognized her.
+
+Yet the second incident reveals that Uber drivers can discover the full names of their passengers, thereby making them easier targets for stalking. Months after Nuzzi’s first disturbing incident, one of her friends was contacted by an Uber driver over Facebook. The driver asked whether Nuzzi was single. When Nuzzi asked an Uber spokeswoman for comment regarding this incident she was informed that Uber drivers could in fact access the full names of their passengers. The Uber spokeswoman went on to explain that this data collection is possible because:
+
+The New York City and Limousine commission, along with the vast majority of jurisdictions across the country, do require first and last names on what is commonly called a waybill or trip record. It’s intended to prevent gypsy cabbing in the taxi and livery industry… So Uber does provide trip sheets to drivers so that they can comply with those regulations that exist in most cities.
+
+Some readers might be wondering why Uber cannot simply anonymize passenger information in order to prevent the sort of stalking Nuzzi endured. The reason that passenger names are not made anonymous is that New York City Taxi and Limousine Commission (TLC) regulations prevent such information from being hidden, as Polly Mosendz explained this month in Newsweek:
+
+While a user’s Uber profile only shows the first name and a small picture, the driver does have access to the full name as soon as the ride is ordered. Showing the full name opens up a number of issues, such as drivers Facebook messaging their riders or finding their homes, but Uber is unable to anonymize this unless the TLC changes its regulations.
+
+In New York City, it seems that Uber must find a way to tackle TLC regulations in order to prevent the sort of awful behavior Nuzzi reported.
+
+Of course, there are other complaints related to Uber and privacy, such as the tracking of journalists and “known people.” Uber is investigating the improper use of its so-called “God View” tool, which allows corporate employees to view the current location of Uber cars and users looking for rides. According to Uber, a New York executive’s use of “God View” to track a journalist on her way to Uber’s New York headquarters was in violation of the company’s privacy policy.
+
+Perhaps unsurprisingly, Uber announced last week that it was working with the law firm Hogan Lovells in order to strengthen its privacy policy. It is welcome news that Uber is addressing the legitimate privacy concerns that have been raised by some passengers, but those watching Uber’s attempts to reform its privacy policy should keep in mind that regulations make that task considerably more difficult.

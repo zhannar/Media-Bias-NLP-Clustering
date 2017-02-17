@@ -1,0 +1,69 @@
+In the wake of the latest high-profile hack of Sony and claims of “cyber-vandalism” being thrown about, it’s normal to feel a sense of unease. Just this week, yet another proposal for new cybersecurity legislation has been made, and by the president no less.
+
+Yes, cybercrime is rising and does result in losses. However, successfully committing cybercrime isn’t as easy as one might think.
+
+The direct losses from data stolen through hacking, online card fraud and online scams are actually relatively low when compared with the direct losses from welfare fraud or tax evasion. Moreover, current federal spending on cybersecurity dwarfs the losses suffered by victims of online scams, fraud and other crimes, by at least three or four times. And yet we have very little idea how this money is being spent, so it’s hard to judge how effective it is.
+
+Related: The Cyber Attack That Could Take Down the Government
+
+As we ponder how much to spend and what to do about so-called cyber-vandalism and cyber-warfare, we need to keep these figures in mind. It’s usually the most low-tech, low-cost and simplest remedies that are actually the most effective in deterring crime online.
+
+Internet Crime Isn’t as Easy as It Sounds
+
+When a big data breach or “hack” takes place, we’re told about millions and millions of credit card numbers, social security numbers and all kinds of other personal data being stolen then spilled onto “darknet” markets for sale.
+
+It’s easy to imagine thieves practically printing money based on the sales of these data, giving them access to bank accounts and credit cards. The reality is, it isn’t that easy to make money from stolen data. There are two reasons for this.
+
+First of all, the stolen data themselves aren’t terribly valuable. Stolen credit card and other credentials typically sell for pennies on the dollar – numbers for credit card accounts with thousands of dollars go for 50 cents to $12 on average.
+
+Related: Next Cyber Hack Attacks Could Be on Power Grids
+
+One reason is this is that the black markets where these data are bought and sold don’t function well. There is very little trust between buyers and sellers. The incentives for sellers to cheat buyers are huge because it’s hard for buyers to determine whether a stash of credit card numbers for sale is any good. This huge uncertainty makes them akin to a “market for lemons,” which is a situation in which the seller knows more about a product than the buyer. A large “tax” is essentially imposed on every transaction to compensate for this massive uncertainty – hence the low selling prices.
+
+Secondly, it’s surprisingly hard to successfully commit online card fraud. Say you buy thousands of credit card numbers for a few bucks: how would you know which ones will work and which ones won’t? You’d have to do some pretty detailed research to find out. Those with a lot of money to defraud have got to be found. Doing this for thousands of accounts would take such a long time that you’d run out of time before the stolen cards are reported.
+
+Even if you get one successful transaction, the bank’s anti-fraud system is likely to pick up multiple fraud attempts. You see, it’s really hard to make a profit through this kind of fraud at scale.
+
+In other words, it is really hard to steal large amounts of money from large numbers of people through online card fraud. For all the fear that we may have as consumers due to huge data breaches at Target, JP Morgan or Home Depot, the actual threat to the average person of being targeted and suffering huge losses is relatively small.
+
+The Real Costs of Online Card Fraud
+
+We see this difficulty in the statistics. Approximately $1.5 billion was lost in 2012 to online credit and debit card fraud in the U.S. That might sound like a lot but consider that this is less than 0.1% of all card transactions that year. This translates to a loss of about $4.70 per person a year.
+
+Related: 4 Scams That Consumers Must Avoid
+
+In the same year, the “old-fashioned” way of committing fraud, using fake cards (sometimes with stolen data) to make fraudulent purchases usually at stores and in-person, was more than $2.2 billion. Despite the relative ubiquity of the internet in our lives, card fraud still happens more offline than online.
+
+Even Less for Online Scams
+
+A variety of frauds and scams are perpetrated each year over the internet. These range from emails purporting to be from the FBI to fake property or car sale listings.
+
+In 2013, the minimum losses from all reported online scams in the US amounted to $574 million (these are self-reported figures). Many of these internet-related scams happened before the Internet though – the classified section of the newspaper was used instead of Craigslist. That Nigerian prince would send a letter rather than an email.
+
+Compare these crime figures with traditional crimes that are becoming “cyber” (by virtue of them being filed increasingly online), including welfare fraud, tax filing fraud and tax evasion.
+
+Related: The 'Grandpa Scam' That's Costing Seniors a Bundle
+
+In 2013, the US Department of Labor estimated welfare fraud to be $4 billion. In 2010 the IRS lost $5.2 billion to fraudulent refunds. Tax evasion alone results in $385 billion of lost revenue every year. Put together, every year we lose more than 100 times more from welfare fraud, tax filing fraud and tax evasion than we do from cyber-crimes.
+
+A Look at the Cyber-Warfare Budget
+
+Calls are rising for the government to do something about the spate of recent cyber-attacks. The US already spends a lot on enhancing cybersecurity. In fact, in 2013, $4.2 billion was spent for precisely this reason through the National Intelligence Program.
+
+The U.S. Cyber Command’s budget was $447 million in 2014, four times more than in 2010. All in all, we spend about $10 billion on federal cybersecurity each year.
+
+It’s reassuring to know so much is spent on “enhancing cybersecurity,” except that we know very little about what this money is actually spent on and thus how effective these measures have been. As a result, we have trouble knowing whether this is an appropriate amount of money to be spending or whether this money might be spent in a better way.
+
+Best Solutions Are the Simplest
+
+This doesn’t imply that we shouldn’t spend any money on cybersecurity. What it does imply, though, is that if the plan is to spend more taxpayer funds on on this, we need more transparency about how that money is used. As it stands, very little information has been revealed about where that $10 billion-plus is going, whether for more effective defenses or for offensive capabilities, as alleged by NSA whistleblower Edward Snowden.
+
+In the end, the measures that will actually be the most effective don’t cost a lot and if widely adopted would greatly improve cybersecurity.
+
+Widespread use of simple two-factor authentication is one (a system that confirms the identity of a user by sending a code to another device that the account holder will have immediate access to, such as a phone). The recent hackers of JP Morgan took advantage of a server that didn’t have two-factor authentication enabled.
+
+Basic encryption of sensitive information is another. The hacked Sony passwords were stored in a plain-text spreadsheet called “passwords” after all.
+
+Keeping critical networks separate from one another (i.e not centralizing all networks in search of cost savings) is another option. The German steel mill that suffered a damaging cyber-attack last week could have avoided this were the business and production networks separated. Better yet, the production network could have not been hooked up to the Internet at all.
+
+There are numerous competing budgetary priorities at any one time and limited funds to spend on meeting all these needs. How much money does it make sense to invest in bolstering cybersecurity, relative to the losses? In the hysteria created in the wake of the hacks of 2014, we risk making the wrong choice simply because we don’t know what the current sums of money are being spent on.

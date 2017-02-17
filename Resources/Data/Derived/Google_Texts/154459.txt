@@ -1,0 +1,11 @@
+Saturday, October 10, 2015
+
+On October 6, 2015, California Governor Jerry Brown signed into law a trio of bills that is intended to clarify key elements of the state’s data-breach notification statute and provide guidance to persons, businesses, and state and local agencies that deal with electronically stored personal information. The bills, which were passed together as a single legislative package, will take effect on January 1, 2016.
+
+Assembly Bill 964 (A.B. 964) clarifies the meaning of the term “encrypted,” which is found throughout California’s data-breach notification statute. Personal information is now deemed properly “encrypted,” as defined in A.B. 964, if it is “rendered unusable, unreadable or indecipherable to an unauthorized person through a security technology or methodology generally accepted in the field of information security.”
+
+Senate Bill 570 (S.B. 570) makes uniform the language that must be used in security breach notifications. Under the law, security breach notifications must now be titled “Notice of Data Breach” and must present relevant notification information under the following predetermined headings: “What Happened,” “What Information Was Involved,” “What We Are Doing,” “What You Can Do,” “Other Important Information,” and “For More Information.” S.B. 570 comes complete with a model form for a breach notification.
+
+Senate Bill 34 (S.B. 34) expands the definition of the term “personal information” found in California’s data-breach notification statute, sweeping within its ambit information or data that is captured by automated license plate recognition (ALPR) systems. The law also imposes new requirements on operators and end-users of ALPR technology. Among other things, ALPR operators and end-users must undertake reasonable security measures to protect ALPR information and implement usage and privacy policies that govern the collection, use, maintenance, sharing, and dissemination of this information. S.B. 34 grants a private right of action to individuals who have been harmed by a violation of these requirements, which includes the unauthorized access or use of ALPR information and the breach of an ALPR system’s security.
+
+This post was written by Brandon Johnson.

@@ -1,0 +1,57 @@
+Half a million drones were expected to be placed under Christmas trees this year, which has hobbyists, retailers and regulators all scrambling to adjust to the ever-more-crowded skies.
+
+The FAA announced new rules this week requiring the registration of unmanned aircraft systems (UAS) -- drones -- to a federal website to ensure responsible flying.
+
+Under the new rules, all drones that weigh 250 grams (0.55 pounds) or more will have to be registered with the FAA, even those just being flown in the backyard for fun. Drones that were in use before Dec. 21 will have until Feb. 19 to register, while any drones purchased after Dec. 21 must be registered before they can be flown.
+
+Owners can register on an FAA website and will receive a Certificate of Aircraft Registration/Proof of Ownership with a unique identification number that must be displayed on the drone. The $5 registration fee will be waived for the first 30 days.
+
+"We expect hundreds of thousands of model unmanned aircraft will be purchased this holiday season," FAA Administrator Michael P. Huerta said in a press release. "Registration gives us the opportunity to educate these new airspace users before they fly so they know the airspace rules and understand they are accountable to the public for flying responsibly."
+
+This year there have been hundreds of reports to the FAA by pilots and civilians about drone incidents, including a drone hitting a bystander during an attempted landing and drones on airport runways or interfering with flight paths.
+
+On Christmas Eve, the FAA tweeted out a friendly reminder: "Don't mess with Santa's flight path. Fly your drone responsibly & register."
+
+Don’t mess with Santa’s flight path. Fly your drone responsibly & register. https://t.co/gECND0BQf9 #FlySafe #drones pic.twitter.com/Y8JenV8tJB — The FAA (@FAANews) December 24, 2015
+
+Mike Thorpe, co-owner of Drones Plus, a consumer drone retailer in North America, says the new regulations will help authorities identify drones so users can be held responsible for any incidents. "I'm excited there's a solidified understanding of what you can and can't do [with your drone]," Thorpe told CBS News. "Before it was the wild west and the new regulations make it much clearer."
+
+In addition to the mandatory regulations, there are other best practices for using drones to ensure responsible flying. The FAA's "Know Before You Fly" campaign seeks to educate drone users to help keep their devices out of trouble. Some rules and advice include:
+
+Keep your drone in eyesight at all times, even if the drone has a camera attached to it, and use an observer to assist if needed.
+
+Do not fly drones within 25 feet of people.
+
+Don't fly a drone while under the influence of alcohol or drugs.
+
+Do not fly near manned aircraft. This can lead to criminal charges.
+
+Contact the airport or control tower before flying within five miles of an airport.
+
+Avoid sensitive infrastructure or property such as power lines, water treatment facilities, government facilities and highways.
+
+Thorpe also suggested that new drone owners take lessons to learn how to fly safely. (He noted that Drones Plus offers 30 minute and 1-hour sessions.)
+
+"It can be dangerous if you don't use common sense," he said.
+
+Future control systems
+
+Drones are not just the fancy of hobbyists. Plans are also in development to use the devices to deliver packages, monitor agriculture and conduct search and rescue missions. However, before we can safely unleash swarms of drones into the sky, experts say we'll need to come up with better ways to avoid collisions and revamp our air traffic control system.
+
+"The only way for that to work is for drones to be able to talk to one another," Thorpe told CBS News. "The technology is not there yet."
+
+Researchers are working on a number of ways to make this futuristic scenario a reality.
+
+For one, the Stanford Intelligent Systems Laboratory (SISL) is working with NASA, drone manufacturers and technology giants like Amazon and Google to create an air-traffic control system for the skies called unmanned aerial system traffic management system (UTM).
+
+"UTM is meant to fulfill a lot of the functions of air traffic control, but it will be in the cloud and largely automated," SISL Director Mykel Kochenderfer, an assistant professor of aeronautics and astronautics, said in a press release.
+
+His team at Stanford University is currently developing software that relies on automated conflict avoidance to prevent drones from colliding into one another.
+
+"The drones will send sensor information to a server on the ground that will use a probabilisitic model of where the drones will be in the future to arrive at a maneuver that will minimize unnecessary deviation while preserving safety," Kochenderfer told CBS News in an email. A pilot can then take that information to reroute the flight path or, in some cases, the drone controls will be overridden and the machine automatically rerouted to a safer place.
+
+Another part of UTM involves geo-fencing, which some drone manufacturers already have integrated into their products. Geo-fencing puts up a virtual fence to keep drones out of restricted areas. If a drone does enter restricted space, authorities can takeover the drone controls and steer it away.
+
+NASA has a roadmap for UTM with staged levels of increased capability. Kochenderfer thinks that the system could be in place in roughly five years.
+
+"Just like anything in aviation, we need to take gradual steps towards our goal, gaining confidence in our engineering systems along the way," he said.

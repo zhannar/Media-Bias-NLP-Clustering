@@ -1,0 +1,71 @@
+If you’re a database geek, or are just interested in the field, you’ll want to listen up this week as Michael Stonebraker sounds off on the shrinking opportunities for legacy relational database vendors. Stonebraker, who helped create Ingres, Postgres, and Vertica(S HPQ) is now founding CTO of VoltDB and an adjunct professor at MIT.
+
+Advertisement
+
+The fact that the Obamacare web site launched on a NoSQL database (and that’s not a knock on that choice, he quickly added) shows that “mainstream systems are now being deployed on DBMS technology that’s other than the standard relational database stuff.”
+
+Advertisement
+
+He’s also awaiting a battle royale shaping up between Oracle and SAP, which is now a database company. “Among the elephants there’s going to be a duke it out between Oracle and SAP and I’m delighted to look on from the side.”
+
+Advertisement
+
+But first, Derrick Harris and I sum up a big week in the hotly contested file-sync-and-share world — Box launched a new enterprise push; and there was apparently some money left over from big Box and Dropbox rounds because Egnyte and ownCloud got funding.
+
+Advertisement
+
+Also Facebook(s fb), the repository of all our personal data, hired a deep learning expert from NYU to make better use of all that stuff.
+
+Advertisement
+
+Download this Episode
+
+Advertisement
+
+Subscribe in iTunes
+
+Advertisement
+
+The Structure Show RSS Feed
+
+Advertisement
+
+SHOW NOTES:
+
+Hosts: Barb Darrow and Derrick Harris
+
+Advertisement
+
+If you have a moment, please take our survey to help make the Structure Show even better.
+
+Advertisement
+
+PREVIOUS EPISODES:
+
+Advertisement
+
+Treading the fine line of AWS love and fear of lockin
+
+Advertisement
+
+In cloud you gotta go deep, go big, or go home
+
+Advertisement
+
+Here a PaaS, there a PaaS, everywhere a Paas
+
+Advertisement
+
+Dumb hardware, smart software’s the way to go and geeking it up with Cycle Computing
+
+Advertisement
+
+Is a database bloodbath on the horizon? Mitchell Kertzman doesn’t think so.
+
+Advertisement
+
+East Coast vs. West Coast in big data and the hadoopalypse
+
+Advertisement
+
+Advertisement

@@ -1,0 +1,73 @@
+This series is devoted principally to the reporting requirements imposed by Internal Revenue Code §§ 6055 and 6056 as added by §§ 1502 and 1514 of the Affordable Care Act (ACA), respectively. The former reports offers of minimum essential coverage, which allows taxpayers to demonstrate that they have complied with the law's individual mandate. The latter solicits from applicable large employers the information needed to enforce the law's employer mandate. As we have explained in a previous post, the IRS has prescribed Form 1094-B and Form 1095-B for purposes of reporting minimum essential coverage, and Form 1094-C and Form 1095-C for purposes of reporting by applicable large employers, except that self-funded plans consolidate their reporting on a single form, Form 1095-C. These ACA reporting rules (and related forms) are far more complex than other reporting requirements (and their forms) to which employers are accustomed.
+
+This post attempts to clarify how the Forms 1095-B and 1095-C have been structured by the IRS (and how the forms should be completed) to obtain this data (in particular Form 1095-C, Parts II and III).
+
+While the mechanics of the Code §§ 6055 and 6056 reporting scheme mirror the reporting rules for wages and withholding on IRS Forms W-2 and W-3, they are far more complicated. To comply, employers need to access and collate information from a number of disparate sources such as payroll, HRIS, and other employment records. The IRS also has designed Form 1095-C to elicit information needed to enforce the individual mandate and the administration of premium tax credits available to low- and moderate-income individuals through public insurance exchanges, thereby adding to the complexity. Much of the data that the IRS needs for these disparate purposes is provided, in the case of fully-insured plans maintained by applicable large employers, on Form 1095-B and Form 1095-C, Part II and, in the case of self-funded plans, on Form 1095-C, Parts II and III.
+
+FORM 1095-B
+
+Form 1095-B is prepared by the "Issuer or Other Coverage Provider." In the case of a fully-insured plan, this is the carrier. Part IV of the form lists the covered individuals, i.e. the covered employee, and his or her spouse and/or dependents, as the case may be. Part IV(d) is checked "if the individual was covered for at least one day per month for all 12 months of the calendar year." (Emphasis in the original.) Part IV(e) solicits the same information month-by-month in cases where the individual was not covered for at least one day per month for all 12 months of the calendar year. If an individual was not covered during any month of the calendar year, no Form 1095-B would be issued.
+
+In the case of a self-funded plan, the Issuer or Other Coverage Provider is the plan sponsor of a single employer plan or the joint board of trustees of a multiemployer plan. Each participating employer in a multiple employer welfare arrangement or "MEWA" reports separately with respect to its own employees. With some minor exceptions, the information solicited by Form 1095-B is in each case instead provided in Part III of Form 1095-C, discussed below.
+
+FORM 1095-C
+
+The data central to the enforcement of the individual mandate, eligibility for premium tax subsidies and exposure for assessable payments is solicited in Part II of Form 1095-C as follows:
+
+Line 14—"Offer of Coverage"
+
+Line 14 is concerned with whether the employee actually had an offer of coverage, irrespective of whether the employer is required to make the offer and without regard to the employer's exposure for assessable payments under the employer shared responsibility rules. For example, there might be no offer of coverage because the employee is in a waiting period, or the employer may offer coverage to part-time employees for whom no offer is required. What constitutes an offer for Line 14 purposes is explained in some detail in the instructions:
+
+An employer offers health coverage for a month only if it offers health coverage that would provide coverage for every day of that calendar month. Thus, if an employee terminates coverage before the last day of the month, the employee does not actually have an offer of coverage for that month. (Emphasis added.)
+
+Thus, for purposes of reporting minimum essential coverage on Form 1095-B, coverage on any day of the month qualifies, but for purposes of making an offer of coverage for purposes of the employer mandate, coverage must be offered for every day of the month.
+
+Line 15—"Employee Share of the Lowest Cost Monthly Premium, for Self-Only Minimum Value Coverage"
+
+This line goes to affordability. If an employer makes an offer of coverage that provides minimum value (think, Bronze level plan), and if that coverage is affordable then the employee is barred—or "firewalled"—from obtaining a premium tax credit from a public insurance exchange even if he or she would otherwise qualify. This is important because, where any particular employee cannot qualify for a subsidy, there can be no penalty under Code § 4980H(b) with respect to that employee. The IRS needs this information to determine whether the employee is firewalled.
+
+The amount included here need not in all cases refer to coverage offered by the employer. An employer participating in a MEWA, for example, would include the self-only premium cost of the MEWA coverage.
+
+Line 16—"Applicable Section 4980H Safe Harbor"
+
+This is where the employer explains why, even where coverage is not offered, there is no exposure for an assessable payment under Code § 4980H(b) with respect to that employee. If this line is left blank, then the employer may be assessed a penalty.
+
+EXAMPLES
+
+The interaction among Form 1095-C, Lines 14, 15 and 16, and Part III in the case of a self-funded plan is perhaps best illustrated by some examples. In each example below, assume that (i) the plan is self-funded, provides minimum value, and is offered to employees, and their spouse and dependents; (ii) the plan imposes a 90-day waiting period; (iii) the employer has elected to determine full-time employee status under the look-back measurement method; (iv) the cost of self-only coverage is $150 per month; and (v) the employer has elected to use the W-2 affordability safe harbor.
+
+(1) Employee A is an ongoing employee who previously qualified for an offer of coverage for the 2015 stability period. During the 2015 annual open enrollment period, A was offered but declined coverage. A's W-2, Box 1 for 2015 shows income of $25,000.
+
+The proper Line 14 indicator code is 1E (Minimum essential coverage providing minimum value offered to employee and at least minimum essential coverage offered to dependent(s) and spouse). This would be entered in the "all 12 months" column. The Line 15 amount would be $150, and the Line 16 indicator code would be 2F (Section 4980H affordability Form W-2 safe harbor).
+
+Comment: The cost of coverage in this instance is 7.2% (($150 x 12)/$25,000), which is less than 9.5%. Coverage is therefore affordable.
+
+Part III would be left blank, indicating that coverage was declined.
+
+(2) Employee B was hired on February 15, 2015, expecting to work full-time. B elected single coverage that commenced May 16, 2016.
+
+For January through and including May, the Line 14 indicator code is 1H (No offer of coverage (employee not offered any health coverage or employee offered coverage that is not minimum essential coverage, which may include one or more months in which the individual was not an employee)). For June through December, the proper code is 1E (Minimum essential coverage providing minimum value offered to employee and at least minimum essential coverage offered to dependent(s) and spouse).
+
+Line 15 is left blank through May. For June to December, the proper amount is $150.
+
+Line 16 is coded 2A (Employee not employed during the month) for January; 2D (Employee in a section 4980H(b) Limited Non-Assessment Period) (i.e., a waiting period) for February through May, and 2C (Employee enrolled in coverage offered) for the balance of the year.
+
+Part III indicates that coverage was offered commencing in May through and including December. This despite that Line 14 indicates that there was no offer of coverage for May.
+
+Comment: The disparate reporting on Line 14 and Part III reflects that an offer of coverage for Line 14 reporting purposes must be for all days during the month while an offer of minimum essential coverage for purposes of Part III requires that the employee be covered on any day of the month.
+
+(3) Employee C is hired February 15, expecting to work full-time. C elects single coverage on May 15, but transfers to part-time status on July 15, whereupon C is provided a COBRA notice (the COBRA premium is $350 per month). C's earns $25,000 for the year. C works fewer than 130 hours per month in every month except September and December.
+
+Line 14 is coded 1H (No offer of coverage) for January through and including May, and 1E (Minimum essential coverage providing minimum value offered to employee and at least minimum essential coverage offered to dependent(s) and spouse) for the balance of the year.
+
+Line 14 is left blank through May; $150 for June and $350 for July through December.
+
+For January, the Line 16 code is 2A (Employee not employed during the month). For February through and including May, the proper code is 2D (Employee in a section 4980H(b) Limited Non-Assessment Period). For July, August, October and November (i.e., the months in which C worked part-time), the Line 16 code is 2B (Employee not a full-time employee). For September and December, there is no Line 16 entry, thereby indicating that the employer may be liable for an assessable payment if C applies and qualifies for a premium tax subsidy.
+
+Comment: Under the look-back measurement method, an employee who is classified as full-time as of his or her date of hire is tested for full-time status month-by-month until he or she has completed a full standard measurement period. The employer's offer of COBRA coverage is treated as an offer of coverage for Code § 4980H purposes in this instance because C remains an active employee. The bump-up in the premium cost to $350 per month, however, makes the coverage unaffordable. Had the employer offered to subsidize the COBRA coverage, the proper code for those months would be 2F (Section 4980H affordability Form W-2 safe harbor), the employee would have been firewalled, and the employer would not be liable for assessable payments with respect to C for those months.
+
+* * * * * * * * * *
+
+The examples in this post were adapted from a series of ten examples originally prepared by Linda Mendel of Vorys, LLP, Helen Morrison, Ernst & Young LLP and Tiffany Santos, Trucker Huss, APC for a March 2015 program sponsored by the American Bar Association Center for Continuing Legal Education, entitled Reporting Common Employment Situations on Form 1095-C.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

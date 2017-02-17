@@ -1,0 +1,105 @@
+Douglas Hervey, David Muhlestein, and Austin Bordelon
+
+December 1, 2015
+
+With recent news of the proposed Aetna/Humana, Anthem/Cigna, and Centene/Health Net mergers, a number of stakeholders have raised questions about consolidation’s impact on the competitiveness of health care markets. For these proposed deals, we estimated the degree of payer consolidation post-merger across the 50 states and the District of Columbia.
+
+If the mergers are finalized, Georgia, Connecticut, and Colorado could potentially experience 40 percent or higher increases in commercial insurance concentration (Table 1). Kansas, Alaska, Iowa, and Ohio could experience 60 percent or higher increases in Medicare Advantage concentration (Table 3). The mergers are not expected to heavily affect Medicaid managed care markets. We also recognize and discuss below how concentrated markets may still experience healthy consumer-benefiting competition from established and new entrants.
+
+Understanding payer concentration trends and potential future scenarios will inform policy and decision makers as they discuss the implications of consolidation and competition within the United States health care system.
+
+The National Landscape
+
+Several factors are driving the Aetna, Anthem, and Centene merger announcements. First, they appear to be diversifying their product mix to create synergies and mitigate risk by expanding their offerings across market segments and experimenting with new distribution channels in public and private exchanges.
+
+Second, by achieving greater scale, they can potentially reduce administrative costs, strengthen their negotiating ability with local providers, and pursue value-based payment arrangements. Enhanced scale could potentially create opportunities for the payers to offer more competitive products and pass along savings to the consumers through their market pricing. Third, the mergers can further enhance their ability to engage with and market to consumers over the long run.
+
+What does this mean for the broader health care community? If approved, these mergers may bring a noticeable shift in health insurer market concentrations. However, national trends do not tell the full story. Health care markets are not created equal, and payer consolidation and its pace of change differs market to market.
+
+Measures Of Concentration
+
+For this analysis, we measure market concentration using the Herfindahl-Hirschman Index (HHI). The HHI is a commonly accepted measure of market concentration. It is calculated by squaring the market share of each firm competing in a market, and then summing the resulting numbers. A market with a single firm (i.e., a monopoly) would have a HHI of 1, while a perfectly competitive market would have a HHI approaching zero. Markets with higher HHI values are more concentrated and may be less competitive. Markets in which the HHI is below 0.15 are generally considered unconcentrated, from 0.15 and 0.25 to be moderately concentrated and in excess of 0.25 to be highly concentrated.
+
+Market concentration can be a useful indicator for determining a market’s competitive dynamics. As noted above, market concentration findings do not perfectly reflect competitive dynamics, and are best used in conjunction with other evidence of competitive forces. For example, there may be cases when a larger market is concentrated among two or three payers, and the competitive dynamics are healthy.
+
+Our data comes from statutory insurance data filings made to the National Association of Insurance Commissioners (NAIC) and provided by Mark Farrah Associates.
+
+Payer Concentration
+
+Figure 1 displays current commercial insurance concentration. Figure 2 illustrates the post-merger increase in HHI of commercial insurance concentration at the state level, with higher HHIs indicating more concentrated markets. Figure 3 shows payer market concentration increases post-merger across the states for commercial administrative-services only (ASO) plans. Commercial ASO group health self-insurance programs involve large employers that assume responsibility for the cost of their employees’ health care, generally purchasing only administrative services from an insurer. Figures 4 and 5 highlight increases in Medicare Advantage and Managed Medicaid concentration across states (See Note 1).
+
+Impact On Commercial Market
+
+Figure 1 below reveals that commercial payer markets are generally concentrated and relatively few payers are competing in many markets. Figure 2 highlights how Georgia, Connecticut, Colorado, Virginia, and New Hampshire are likely to experience the greatest increase in commercial insurance concentration. Each of these markets is poised to increase 30 percent or more in commercial insurance concentration due to the combined market footprint the mergers create. Each of those state markets currently has a HHI above .15.
+
+Impact On ASO Market
+
+As shown in Figure 3 below, Georgia, Florida, Connecticut, Colorado, and California are poised to increase the most in commercial ASO concentration post-mergers (Table 2).
+
+The Anthem/Cigna deal most affects the commercial ASO market changes highlighted below. Cigna is a major market force among employers, and a combined merger will strengthen Anthem’s foothold within the growing ASO market. As a way to reduce employer costs and improve care quality, Anthem and Cigna are likely exploring synergistic ways to enhance wellness programs, form accountable-care networks, and engage in direct provider contracting. If the mergers successfully drive down costs as planned, Anthem’s CEO has stated that some savings will accrue to consumers.
+
+Impact On Medicare Advantage
+
+As demonstrated in Figure 4 below, Medicare Advantage concentration is likely to increase significantly in select states if the Department of Justice (DOJ) approves the mergers. Kansas, Alaska, Iowa, Ohio, and Missouri are all likely expected to experience 50 percent or higher growth in concentration post-merger.
+
+The Aetna and Humana deal is largely driving the increased market concentration within Medicare Advantage. Humana’s Medicare enrollment has grown substantially in recent years and totals 3.2 million. Aetna’s current membership equals 1.26 million. Combined, the merged company would displace current market leader UnitedHealth as the program’s market leader.
+
+Aetna and Humana believe the deal will help them lower consumer prices by exacting price reductions from hospitals and doctors. Both companies argue that lower overhead costs enhance their ability to conform to the Affordable Care Act requirement (i.e., Medical Loss Ratio) that a higher percentage of premium revenue is spent on medical benefits rather than administrative costs. Furthermore, the payers believe they could invest more in benefit packages that enhance their Medicare star quality ratings. The central question is whether the mergers will reduce prices to consumers without materially harming competition and creating prohibitive barriers to entry in select locations.
+
+Impact On Medicaid Managed Care
+
+The Aetna, Anthem, and Centene mergers are not expected to heavily affect the Medicaid managed care markets in states across the country. Among the 50 states, Kentucky is likely to see the only double-digit (18 percent) increase in Medicaid managed care concentration.
+
+That said, both Aetna’s and Humana’s CEOs have said the proposed deal will strengthen their Medicaid businesses. Aetna’s and Humana’s government business—Medicare, Medicaid, and Tricare—will be headquartered in Louisville and is projected to account for 56 percent of the combined companies’ projected 2015 operating revenue of about $115 billion.
+
+The Centene/Health Net acquisition will further enable Centene to position itself as a market leader within the Managed Medicaid market while it diversifies its core business across other product lines. For example, the Health Net acquisition should deliver about 1.7 million Medicaid members to Centene’s portfolio and enable it to capitalize on future state Medicaid expansion. But the acquisition will have a negligible effect on Medicaid managed care concentration. As Table 4 shows below, Medicaid managed care markets are currently not nearly as concentrated as commercial and Medicare Advantage markets. Current competition within Medicaid managed care dilutes the merger’s impact in most markets. Centene and Health Net primarily operate in different states as well.
+
+Possible Outcomes Of Merger Reviews
+
+The DOJ and Federal Trade Commission (FTC) will closely scrutinize these acquisitions because of their potential for wide-reaching impact. The outcomes of this exacting review are difficult to predict and there is little precedent for health insurance mergers or acquisitions of this magnitude. It is important to note that each proposed merger will be evaluated independently.
+
+Regulatory agencies will seek to understand whether aggregated purchasing power and altered competitive dynamics are in violation of antitrust laws and harmful to consumers. In addition to review by federal agencies, state insurance commissioners and attorneys general will also review impacts of these acquisitions for their respective markets and have a chance to weigh-in on the final deal. Based on our analysis, we have identified several possible outcomes for the finalization of these acquisitions, including several issues that are likely to influence their ultimate configuration.
+
+Upon completing their review, these regulators will have an opportunity to file suit (DOJ remedy) or issue a complaint (FTC remedy) on the combining organizations or their practices. It is possible that regulators would allow these deals to go forward, unencumbered, as proposed. This could be based on the idea that increased consolidation will actually benefit consumers due to the power of larger insurers to push down provider prices. However, such high-profile consolidations and significant revisions to local competition are likely to trigger some degree of regulatory action.
+
+Another possible outcome is that the regulatory agencies block these acquisitions entirely. The FTC has been willing to intervene in several notable health care provider mergers and acquisitions (i.e., St Luke’s and Saltzar Medical) over the past few years which could have reduced competition or resulted in concentrated market power.
+
+A final possible outcome could be that the agencies allow the acquisitions to proceed but with conditions of divestiture in markets or lines of business where the merger is deemed to be anti-competitive or establish dominant market power. Several recent health insurance acquisitions have resulted in similar deals with the DOJ. For instance, Humana’s acquisition of Arcadian Management Services Inc. was only approved after agreeing to divest Medicare Advantage plans in five states and WellPoint Inc.’s acquisition of Amerigroup Corp. addressed concerns by divesting Amerigroup’s Managed Medicaid business in Virginia. We view this third outcome as the most likely.
+
+For this reason, a major priority of the regulators’ analysis will be the consumer impact of insurance carrier market concentration, pre- and post-acquisition, across lines of business and geographic markets. Input from third parties who stand to be affected by these mergers, such as states, employers, and health care providers, will also be indicative of areas for possible regulator involvement.
+
+Implications Of Proposed Mergers
+
+If we assume the mergers are approved in some form, we see several broad implications for the health care community arising from the proposed mergers.
+
+One key consideration is whether payers will pressure providers to bear greater risk within value-based payment arrangements in an attempt to improve the delivery of care. The more beneficiaries a payer has, the more leverage it can have. Will larger payers use that leverage to simply garner price concessions from providers or will they use the leverage to encourage more value-based payment arrangements?
+
+Payer consolidation could also spark further consolidation. For example, regional and local payers may also respond with competitive moves of their own. Providers may also counter with their own mergers and acquisitions in affected markets as they feel heightened urgency to preserve their negotiating strength and generate scale.
+
+Another consideration is the effect mergers will have on the competitiveness of the health insurance exchange marketplaces. If post-merger scale creates operational efficiencies and the combined entities drop prices in select markets, it could affect other payers’ ability to compete. For example, the mergers could compound market entry efforts for non-profit co-ops and for-profit new entrants such as Oscar and ZoomPlus in select markets. At the same time, the recent emergence and situational successes of these new entrants may indicate that markets are, in fact, more competitive than any market concentration data may otherwise indicate.
+
+All of these factors will determine the effect this enhanced payer market power will have on the health care community: whether heightened market power benefits consumers by lowering product costs and increasing coverage value. Either way, the emergence of a “big three” will motivate policymakers to reevaluate industry oversight. As noted above, the merger discussions have already prompted a stew of antitrust issues.
+
+While debate will continue regarding the degree to which competition among health care payers may affect the cost of services, a more basic question is whether competition will exist among markets. Recognizing that market concentration is just one type of competitive measurement yardstick, we find that most health care payer markets will be highly concentrated. Whether these proposed mergers occur, though, and how they may ultimately affect the end consumer, remain to be seen.
+
+Figure 1
+
+Figure 2
+
+Figure 3
+
+Figure 4
+
+Figure 5
+
+Table 1
+
+Table 2
+
+Table 3
+
+Table 4
+
+Note 1
+
+Data in our analysis is based on each company’s market share as of Q4 2014.

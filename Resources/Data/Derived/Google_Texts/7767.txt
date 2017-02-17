@@ -1,0 +1,31 @@
+Michael Hiltzik is a business columnist for the Los Angeles Times who has spent a good deal of the last few months blogging about ObamaCare. I noticed that he recently used the discredited statistic that “45,000 Americans die annually because they lack insurance.”
+
+That statistic came from this study entitled “Health Insurance and Mortality in US Adults”—henceforth the “Wilper-2009 study” after the lead author. The Wilper-2009 study examined the insurance status of a group of people in 1993 and then checked their mortality in 2001. The researchers found a higher death rate among those who where uninsured in 1993 and from that computed that 45,000 statistic.
+
+The big flaw, as I pointed out, is “the authors had no idea how many people uninsured in 1993 subsequently acquired health insurance. Someone who was uninsured in 1993, got insurance in, say, 1996, and then died in 2000—well, it would be pretty hard to attribute his death to being uninsured, wouldn’t it? “
+
+So, I tweeted him my recent post about that:
+
+That led to this exchange:
+
+Note Hiltzik’s use of ad hominem attacks “conservatives, clutching at straws” and “Right-Wing echo chamber.” Whether the research in the Wilper-2009 study is flawed is not dependent on the ideology of the person criticizing the study. But Hiltzik takes the easy, if not cowardly, approach of axiomatically assuming that anything a conservative says is untrue. That way, he doesn’t have to defend the 45,000 statistic.
+
+And, of course, he didn’t defend it as he never responded to my tweet asking who validated the study. Perhaps that’s due to the fact it’s pretty hard to find anyone who will validate the methodology. For example, Professors Jenny Kim and Jeffrey Milyo of the University of Missouri have this to say:
+
+A 2009 observational study reported that private insurance status is associated with decreased mortality risk compared to no insurance. Employing the same statistical model but with more recent data, we observe a weaker and statistically insignificant relationship…. We replicate the multivariate analysis in Wilper et al. (2009) with more recent data and find that the association between lack of health insurance and mortality is weaker than previously observed. Moreover, Medicaid coverage is strongly associated with an increased risk of mortality…. We do not interpret our findings to mean that Medicaid kills or that private insurance coverage has no impact on mortality. Instead, this exercise demonstrates the pitfalls of using observational studies to estimate the health consequences of insurance.
+
+Yet Milyo has had associations with the Cato Institute and the Hoover Institution, so maybe he’s part of the Right-Wing noise machine. On the other hand, David Dranove, professor at the Kellog School of Management, doesn’t appear to have any such associations. Here’s what he had to say about the Wilper-2009 study:
+
+Now I have to get a bit technical. In regression and related analyses, a critical assumption is that the unobservable characteristics of the “control” and “experimental” groups are uncorrelated with the observables. Translation in this case – if the regression model does not include all possible factors that might predict mortality, and just one of these omitted factors is correlated with insurance status, then the reported coefficient on insurance status is biased. This is an onerous requirement for sure, but it must be met if bias is to be avoided. Without this full set of variables, and in the absence of a randomized experimental design, it is still possible to avoid bias by using advanced statistical techniques such as “instrumental variables” regression. But the Harvard study does not use this technique.
+
+Finally, there is J. Michael McWilliams of Harvard Medical School who does believe there is a link between insurance status and mortality. Nevertheless, he was not impressed with the Wilper-2009 study:
+
+Yet several other observational studies that controlled for an equally robust set of characteristics have consistently demonstrated a 35-43% greater risk of death within 8-10 years for adults who were uninsured at baseline and even higher relative risks for older uninsured adults with treatable chronic conditions such as diabetes and hypertension (Baker et al. 2006; McWilliams et al. 2004; Wilper et al. 2009). Because these observational studies are not sufficiently rigorous to support causal conclusions, we should look to studies that are more experimental in design for more definitive evidence. (Bold added.)
+
+If Hiltzik can show how the methodology has been validated, I’d like to see it. But it appears he would much rather make unsupported accusations against conservative researchers. For example, Linda Gorman of the Independence Institute wrote a lenghthy post for the National Center for Policy Analysis about the problems with studies linking insurance status to mortality.
+
+I tweeted it to Hiltzik resulting in this exchange:
+
+What Hiltzik is referring to in his tweet is the Oregon Medicaid experiment. Here’s what Gorman wrote about it: “The results from the Oregon Experiment, published in the New England Journal of Medicine on May 2, show that extending Medicaid to low-income adults did not improve basic clinical measures of health.” Well, that’s what the study found. There was no improvement in measures for hypertension, cholesterol or diabetes. The only thing that even came close was that people on Medicaid reported lower rates of depression versus the uninsured. But this was due to simply being on Medicaid, not because they were receiving therapy or pharmaceuticals. As Avik Roy pointed out, it was likely a classic placebo effect. Hiltzik didn’t respond to my question in that instance either, suggesting he knows Gorman didn’t misrepresent anything.
+
+In the end, I guess it’s too much to expect anything more than ad hominem attacks and groundless accusations from a left-wing pundit like Michael Hiltzik, even one working for the Los Angeles Times. After all, it’s not like he won a Pulitzer Prize or anything.

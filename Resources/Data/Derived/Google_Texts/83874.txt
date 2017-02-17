@@ -1,0 +1,51 @@
+Dean Sittig and Hardeep Singh
+
+July 21, 2015
+
+On July 17, 2015, the Office of the National Coordinator for Health Information Technology (ONC) released the Health IT Safety Center Roadmap that lays a path forward for progress in the field of health information technology-related patient safety. The proposed Center focuses on two core objectives: “using health IT to make care safer, and continuously improving the safety of health IT.” It recognizes that achieving health IT safety requires continual evidence, education, and engagement from a variety of health care stakeholders.
+
+This is an important step for both policy and practice in an area where researchers like us are just beginning to understand the boundaries and definition of health IT-related patient safety. Herein, we discuss key additional opportunities and challenges to be addressed to help operationalize the next steps inspired by the Roadmap. In interest of full disclosure, one of us (Dean Sittig) participated in Roadmap discussions as a member of the Task-force assembled by RTI, but these views are strictly our own.
+
+What Is The ONC Proposing?
+
+Briefly, the Roadmap calls for creation of a new national, public-private entity — a trusted convener of a diverse set of stakeholders committed to developing a learning health system focused on using health IT to make care safer and continuously improving the safety of health IT. Participants in this center would collaborate to:
+
+identify solutions to address health IT-related safety events and hazards; devise methods of improving the identification and sharing of information on health IT-related safety events and hazards; collect and disseminate evidence on successful health IT safety interventions; and promote health IT safety education and competency of clinicians in appropriate and safe use of health IT
+
+The Challenges
+
+Why hasn’t all of this been done by now? The answer lies in the complexity of health IT use. In addition, research to understand unintended consequences of Health IT has emerged mostly in the last decade. As recognized in the roadmap, a comprehensive, sociotechnical approach is essential; this must include technical factors, as well as nontechnical factors such as people, workflow, and organizational issues.
+
+In our research we focus on all eight dimensions of a sociotechnical model to inform safe and effective health IT implementation, use, and evaluation. We also define health IT-related patient safety broadly as involving
+
+activities to mitigate risks that are unique and specific to technology (e.g., safety issues related to unavailable or malfunctioning hardware or software); issues created by the failure to use technology appropriately or by misuse of technology (e.g., hazards created by nuisance alerts in the electronic health record (EHR)), and use of technology to monitor health care processes and outcomes and identify potential safety issues before they can harm patients (e.g., the use of EHR-based algorithms to identify patients at risk for medication errors or care delays).
+
+The Groundwork So Far
+
+Keeping track of these multiple facets all at once is challenging. In response, ONC sponsored several key activities before the Roadmap. After an ONC-sponsored analysis of their sentinel events, the Joint Commission released a Sentinel Event Alert “Safe use of health information technology” and developed an educational module. Two large patient safety organizations (PSOs) analyzed their adverse event databases and described the role of health IT in safety events.
+
+The National Quality Forum recently convened a committee to explore measurement of health IT safety. And our team developed the Safety Assurance for EHR Resilience (SAFER) Guides, nine proactive self-assessment guides designed to help organizations optimize the safety and safe use of health IT. However, at a time when research in this area needs to be bolstered, the future of Agency for Health Care Research and Quality, an entity that is uniquely positioned to do just that, remains uncertain.
+
+The Roadmap aims to develop a “trusted space where stakeholders [can] convene to review evidence and jointly develop solutions to critical health IT safety issues.” Such spaces are few. However, one promising approach is currently being pilot-tested by ECRI (with support from the Jayne Koskinas & Ted Giovanis Foundation (JKTG) for Health and Policy in their “Partnership for Health IT Patient Safety” and should be adopted by others if successful.
+
+Methods for improving identification and sharing of Health IT-related safety events will pose a challenge for the Center. Our research shows that identifying EHR-related patient safety issues or delineating the role technology plays in a safety event is difficult. For example, when clinicians overlook abnormal test results in EHRs, nearly all eight sociotechnical dimensions can be involved. Table 1 captures the breadth of issues that would need to be captured.
+
+Table 1: Definitions And Examples Of Different Types Of HIT Related Safety Concerns
+
+Used with permission from J Am Med Inform Assoc. 2015 Mar;22(2):472-8.
+
+Charting The Path Forward
+
+Once we know what problems we are looking for, we need to figure out how to identify them. While the proposed Center emphasizes learning through reporting, this only provides part of the picture; most clinicians either do not report events or don’t know how, exactly, technology was involved. We need more robust detection methods, such as computer-generated “triggers,” a concept also supported by the Roadmap. Triggers scan electronic records of all patients seen by the health care organization in an attempt to find signals that an error may have occurred.
+
+For example, triggers could involve use of electronic algorithms to detect missed diagnoses, a common problem that health IT could help solve.
+
+A trigger for “continuously improving the safety of health IT” could involve detection of electronic orders entered on the wrong patient. Moreover, vendors will need to be very closely involved in detecting, learning from, and fixing these problems.
+
+EHRs safety concerns could have widespread consequences affecting thousands of patients or patient records. In the quest to collect data and disseminate successful interventions to solve these problems, the Safety Center should consider a successful model developed by the US Veterans’ Affairs health system. Briefly, the VA’s Informatics Patient Safety Office uses a team with human factors and informatics expertise that centrally analyzes reports of EHR-related safety events and disseminates their findings and proposed solutions to the field.
+
+While the proposed National Health IT safety center would not conduct investigations, we believe EHR-enabled health care organizations should themselves create multi-disciplinary EHR safety teams to investigate safety events with potential “health IT involvement”. These teams could work with the PSOs during investigations and solution development and be integrated with an organization’s risk management infrastructure. The Center could collect locally de-identified data, make sense of aggregate data, and disseminate findings and corresponding solutions nationally so that others could learn from these events. Patient safety information must be shared widely, no exceptions.
+
+Health care organizations need more people with experience and training in health IT-related patient safety. They need to identify, train, and support individuals with knowledge and experience in clinical informatics, patient safety, clinical care, information technology, and risk management. Very few organizations have built this capacity. Most institutions for which we recommend SAFER guides for risk-assessment tell us that they have no bandwidth to either do the assessments or follow their recommendations to make changes.
+
+Safe and effective implementation and use of health IT within a complex adaptive health care system is a monumental, sociotechnical challenge. The proposed Safety Center is a step forward, but it will require strong and sustained support from a multitude of stakeholders, including vendors, researchers, and policymakers. A great deal is at stake here. In the absence of any other central oversight, the Safety Center will need to lead the way in making health IT safer and better, so we can improve the health and health care of our patients.

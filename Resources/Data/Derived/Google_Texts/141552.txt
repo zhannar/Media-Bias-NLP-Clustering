@@ -1,0 +1,21 @@
+We've been hearing a lot about technical problems with the Federal government's Affordable Care Act (ACA) Web site. But slow downloads and 404 errors aren’t the worst of what could plague the Obamacare site. According to white-hat hacker David Kennedy, the site can be easily hacked, allowing criminals to compromise computers and steal people's private information.
+
+White-hat hackers examine systems, searching for security flaws. But instead of criminally exploiting whatever flaws they find, they report them so that the systems can become more secure. Kennedy is chief executive of TrustedSec, a security company.
+
+On a Monday morning interview on CNBC, Kennedy offered some harsh words about the Obamacare Web site. After noting the well-publicized performance problems, "we basically started poking and prodding and looking at the security, and we found that it was pretty bad all around… Putting your information on there is definitely a risk."
+
+What could happen to people who use the site should it be compromised? Kennedy warns of "everything from hacking someone's computer so when you visit the website it actually tries to hack your computer back, all the way to being able to extract email addresses, users names—first name, last name—[and] locations."
+
+Kennedy testified before Congress last week on the issue, and TrustedSec published a damning report. TrustedSec found "clear indicators that even basic security was not built into the healthcare.gov website." The report warns "the website has critical risks associated with it and security concerns should be remediated immediately."
+
+Kennedy explained to CNBC that "When you develop a website, you develop it with security in mind. And it doesn't appear to have happened this time…It's really hard to go back and fix the security around it because security wasn't built into it."
+
+How long will it take to fix the site? Kennedy estimated on CNBC that " We're talking about multiple months to over a year."
+
+And not everyone in government seemed aware of the seriousness of the problem. "One of the folks on the congress side literally said 'There are other web sites that are hacked all the time, so why should ours be any different.'" Fortunately, "A lot of others are trying to fix this and address it."
+
+Kennedy isn't the only security expert to be concerned. CNBC also quotes Crowd Sourced Investigations CEO Morgan Wright, who believes that the current site should be dumped and recreated from scratch. "There's not a plan to fix this that meets the sniff test of being reasonable."
+
+Kennedy finds all of this "unfortunate because when you look at the site itself, it could do really good."
+
+Barack Obama came into office as our first--among other things--connected president. He used Twitter cleverly in his campaign, and much was made of his devotion to his Blackberry (which didn't sound so retro in 2008). So it's surprising, especially when you consider how many people would love to see Obamacare fail, that his team hasn't done what's needed to secure the Web site for his signature law.

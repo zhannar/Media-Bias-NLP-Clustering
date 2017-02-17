@@ -1,0 +1,23 @@
+Paul Romer has been writing a series of posts on the problem he calls “mathiness”, in which economists write down fairly hard-to-understand mathematical models accompanied by verbal claims that don’t actually match what’s going on in the math. Most recently, he has been recounting the pushback he’s getting from freshwater macro types, who seem him as allying himself with evil people like me — whereas he sees them as having turned away from science toward a legalistic, adversarial form of pleading.
+
+You can guess where I stand on this. But in his latest, he notes some of the freshwater types appealing to their glorious past, claiming that Robert Lucas in particular has a record of intellectual transparency that should insulate him from criticism now. PR replies that Lucas once was like that, but no longer, and asks what happened.
+
+Well, I’m pretty sure I know the answer.
+
+First of all, it’s true about the initial transparency. In the beginning, Lucas and disciples had a very clear statement of both the problem and their solution. They took it as an observed fact that fluctuations in nominal demand were associated with fluctuations in real output, as opposed to merely affecting the price level, which shouldn’t happen if prices were flexible. But they insisted that it was illegitimate to assume sticky prices and wages, that any story you tell must be grounded in microfoundations — and not just that, in maximizing behavior.
+
+So Lucas came up with a story: it was all about imperfect information. Faced with a shock to nominal demand, producers couldn’t tell how much was just a money fluctuation and how much a real change in demand for their particular product, to which they should respond by changing output. So they would engage in signal extraction, making the best possible estimate; this would lead in aggregate to an upward-sloping aggregate supply curve, but only because of rational confusion. And this in turn had strong policy implications: you might see a relationship between money and output, but it would disappear if you tried to use it.
+
+It was a lovely, intellectually interesting and exciting approach. It was also quite wrong.
+
+The wrongness took a few years to become irrefutable. By the early 1980s, however, it was overwhelmingly clear that rational confusion couldn’t explain business cycles, either empirically or theoretically — business cycles last too long, rational agents should be able to tell real from nominal shocks using information like asset prices, and more. And so you had a substantial chunk of the profession going back to sticky-price models, arguing that under imperfect competition things like menu costs or slight deviations from perfect rationality were enough to make money very non-neutral in the short run.
+
+But Lucas and his school couldn’t do that, because they had burned their bridges. They had seized the moment when people took their models seriously to loudly and aggressively declare that Keynesianism of any form was total nonsense, that everything macroeconomists had done in the previous four decades was worthless. it would have taken a lot of intellectual integrity to admit that they might have been premature, that their models weren’t working and that maybe there was something in that Keynesian stuff after all. And that kind of integrity did not manifest itself.
+
+Instead they went even further down the equilibrium rabbit hole, notably with real business cycle theory. And here is where the kind of willful obscurantism Romer is after became the norm. I wrote last year about the remarkable failure of RBC theorists ever to offer an intuitive explanation of how their models work, which I at least hinted was willful:
+
+But the RBC theorists never seem to go there; it’s right into calibration and statistical moments, with never a break for intuition. And because they never do the simple version, they don’t realize (or at any rate don’t admit to themselves) how fundamentally silly the whole thing sounds, how much it’s at odds with lived experience.
+
+What Romer is telling us, based on his discussion of growth models, is that this kind of thing is pervasive in that school. And no, everyone doesn’t do it. Read Mike Woodford or Gauti Eggertsson or Ken Rogoff when he’s doing theory: they all take pains to provide an intuition behind their models, and they don’t engage in false advertising.
+
+So what happened to freshwater, I’d argue, is that a movement that started by doing interesting work was corrupted by its early hubris; the braggadocio and trash-talking of the 1970s left its leaders unable to confront their intellectual problems, and sent them off on the path Paul now finds so troubling.

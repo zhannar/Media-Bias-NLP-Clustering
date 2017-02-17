@@ -1,0 +1,31 @@
+With Obamacare’s massive Patient Data Hub poised to open soon, a sloppy mistake by an Obamacare employee hasn’t exactly inspired confidence that Americans’ private information will be closely guarded by Obamacare’s powers-that-be. As the Minneapolis Star Tribune reports (and Andrew Johnson highlights at NRO), an Obamacare exchange employee in Minnesota accidentally sent out an email containing 2,400 Americans’ Social Security numbers.
+
+The Star Tribune writes:
+
+“A MNsure employee accidentally sent an e-mail file to an Apple Valley insurance broker’s office on Thursday that contained Social Security numbers, names, business addresses and other identifying information on more than 2,400 insurance agents.
+
+“An official at MNsure, the state’s new online health insurance exchange, acknowledged it had mishandled private data. A MNsure security manager called the broker, Jim Koester, and walked him and his assistant through a process of deleting the file from their computer hard drives.
+
+“Koester said he willingly complied, but was unnerved.
+
+“‘The more I thought about it, the more troubled I was,’ he said. ‘What if this had fallen into the wrong hands? It’s scary. If this is happening now, how can clients of MNsure be confident their data is safe?’”
+
+The Star Tribune continues:
+
+“Users of the exchange will need to provide sensitive information, including Social Security numbers, that will be sent to a federal hub to verify such things as citizenship and household income….
+
+“All states and the federal government, which also is setting up exchanges for some states, are scurrying to get the complex system running in less than three weeks.
+
+“‘The people who believe in this are so driven that there’s a subcontext of “Just let us do our job and get as many people signed up as possible, and we’ll pick up the debris later,”’ said Steve Parente, a University of Minnesota finance professor who specializes in health IT issues.
+
+“Parente testified on Capitol Hill earlier this week, urging caution in pushing the federal hub online before it has been thoroughly tested.
+
+The Star Tribune reports that the recipient of the mishandled privacy data was applying to become an Obamacare “navigator”:
+
+“Koester, the agent, had been working with MNsure staff because he was having trouble registering for classes to get trained as a certified ‘navigator’ to help people sign up for coverage.
+
+“Koester said there had been some back-and-forth with a MNsure staffer when he received an e-mail and attachment that took him by surprise: page after page of names, business addresses, license numbers and Social Security numbers.
+
+…“‘[T]he gorilla in the room is that they sent me something that’s not even encrypted. It’s unsecured, on an Excel spreadsheet — which is using outdated technology to transfer that information in the first place.’
+
+“‘They’ve got to realize they have a huge problem.’”

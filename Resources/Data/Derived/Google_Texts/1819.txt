@@ -1,0 +1,37 @@
+There's a truism among certain circles of analysts and commentators: Technologies usually outpace the laws meant to govern and regulate them. It's often big news when legislation is passed that aims to address technological issues such as, for instance, privacy and surveillance. One such legal action recently came from the European Court of Justice, which ruled that people have a "right to be forgotten." That is, search engines like Google now have a legal obligation to "forget" a person if he or she chooses to make a claim indicating where indexed search results are "inadequate, irrelevant or no longer relevant."
+
+ADVERTISEMENT
+
+The court's decision has effectively moved debate on the topic from legal and academic communities to the realm of public discourse and legislation. To get a better grasp on the debate and how the decision will or should effect privacy law and search-engine regulation in the U.S., I posed the following questions to Frank Pasquale , a law professor at the University of Maryland who is an expert on law and information technology, and the author of the forthcoming book The Black Box Society: The Secret Algorithms That Control Money and Information
+
+JS: Lawyers have discussed a "right to be forgotten" for some time now, and once the decision was made, both critics and supporters voiced their opinion. Do you think any aspects of this ruling have, or should have, bearing on U.S. policy?
+
+FP: I'm surprised at how many technology lawyers in the U.S. are alarmed at this decision. Many seem to believe that it represents a fundamental break in the EU from American models of free speech.
+
+But in fact, we in the U.S. have long had to try to balance privacy and free-speech concerns. The Fair Credit Reporting Act, for example, balances credit-reporting agencies' right to speak about our pasts with our right to ensure that the report is accurate, and also to keep certain things off the report once a certain amount of time has elapsed. The Spanish case [that led to the European Court of Justice's decision] involved a credit problem that persisted for over 10 years, which is the cut-off for a bankruptcy report to appear on a U.S. credit report. If people are using Google results in the same way as they use credit reports, then we need to expand the scope of the Fair Credit Reporting act to achieve its original function and purpose.
+
+The other thing that I believe is naive about U.S. techno-libertarians' concerns is that they seem to assume that Google is a record of everything, and the Europeans are capriciously deleting aspects of a historical record that Google, unregulated, would deliver in whole if only it weren't for meddling governments. How do we know that's the case? No one should presume that Google, unregulated, will present some absolutely accurate and complete record of the past.
+
+Nor should anyone assume that whatever search results come up are an expression of a human opinion, some company stance, or some other aspect of expression that we consider sacrosanct and untouchable by government interference. Search results pages are a messy ground of contestation, influenced by search-engine optimizers, engineers within Google, paid ads, human reviewers of proposed algorithm changes, and many other factors. Why not let some fundamental human values constrain some of the worst results?
+
+We're going to see more of these conflicts in the U.S. Mug shot extortion sites, for example, could try to shake down anyone with an arrest record and a booking photo.
+
+JS: You've done quite a bit of writing about the legal and policy aspects of search engine regulation. Is there anything important you think is missing or misunderstood around the "right to be forgotten" decision and debate?
+
+FP: I think that the name of the right is misleading. It really might be better understood as the "right not to have one damaging incident or characterization dominate important reports about oneself."
+
+Many also forget that, in the Spanish case, the newspaper that published the notice about the [plaintiff's debt] delinquency was not ordered to change anything about its files. So anyone who took the trouble to search that newspaper could find out about the record at issue. In that sense, the decision was less about erasing history than it was about managing the arbitrary or unfair creation of reputations by important data processors — like search engines.
+
+JS: How should search engines be regulated? Is there a specific policy or group of policies that you think would provide oversight and guidance for the role of search engines in society?
+
+FP: I think the key to this question is to realize that the search engine can be used for many different purposes. So when it's being used for credit reports, it should fall under credit-reporting regulations. When the search engine is simply a finding service, there are elements of the regulation of phonebooks that might apply.
+
+Fortunately, at least some aspects of search engines are being regulated now. For example, the Federal Trade Commission requires them to disclose which results are commercial and which are organic. Unfortunately, though, the regulation is barely enforced.
+
+The big problem we are facing now is search engine essentialism: Many people just don't want to think about the complexity involved in the new information location services. So they lazily analogize them to newspapers or other media. Of course, sometimes the search engine is acting merely as a media source. But that is certainly not the case all the time. And even if we think that it is media, there are different rules for different media — much of what the Federal Communications Commission does[,] does not affect newspapers.
+
+I also think size matters in search engine regulation. Some tiny upstart should not be subject to all of the scrutiny that a dominant company like Google is. We see this type of differentiation in law all the time: Different employers are subject to different types of rules in all types of contexts, depending on their size.
+
+A few years ago, I used to analogize Google, Yahoo and Bing to ABC, CBS and NBC. But now, Google is so dominant, even that oligopoly model seems unduly unrealistic about the nature of competition among the three.
+
+Sadowski is a freelance writer and Ph.D. student in the Consortium for Science, Policy & Outcomes at Arizona State University. He writes about social justice and political economy of technologies. Follow him on Twitter at @jathansadowski.

@@ -1,0 +1,23 @@
+The White House's repeated claim that the Obamacare Web site is secure seemed to fall flat Tuesday with the surfacing of various reports suggesting that security researcher David Kennedy broke into the health insurance hub and uncovered tens of thousands of user records within four minutes. It was a staggering claim that appeared to show gaping holes in the implementation of Obama's signature legislative achievement.
+
+But it turned out the reports were nothing more than simple confusion. So far as we know, HealthCare.gov still has not been hacked by a malicious actor — despite the fact that Kennedy still considers the Web site vulnerable.
+
+"We never accessed 70,000 records nor is it directly on the Healthcare.gov website," wrote Kennedy in an update to an earlier blog post. "No dumping of data, malicious intent, hacking, or even viewing of the information was done."
+
+In short, Kennedy explained that he used basic Google tools to search the Web site, but he didn't hack it.
+
+Some media reports, however, latched onto this line in his original post: "The 70,000 mark of information disclosure being reported was through using a basic Google search terms and browsing through a web browser" and assumed Kennedy had been able to access 70,000 records. That was not the case, Kennedy said, but he did not elaborate much on the 70,000 figure:
+
+"The number 70,000 was a number that was tested for as an example through utilizing Google’s advanced search functionality as well as normally browsing the website," he wrote in an update to his post. Kennedy did not immediately respond to a question from The Washington Post.
+
+Regardless, Kennedy still gave HealthCare.gov bad grades on security.
+
+"There are techniques you can use through Google, such as reconnaissance on the website, and just clicking through links that gave me enough information about how the site was developed and how security was very much an afterthought," Kennedy added.
+
+The security of HealthCare.gov has been the object of an ongoing investigation by Rep. Darrell Issa (R-Calif.). The chairman of the House Oversight Committee has been pounding away at HealthCare.gov's security flaws, even comparing the site's problems to the recent massive breaches at big-box stores such as Target and Neiman Marcus, which have admitted losing control of tens of millions of financial records.
+
+In a committee hearing last Thursday, Issa said that the difference between the Target breach and HealthCare.gov was that Americans could choose alternatives to cash rather than hand Target their credit card information (or choose another retailer other than Target, entirely).
+
+Of the 110 million Americans potentially affected by the Target hack alone, Rep. Elijah Cummings (D-Md.), the committee's ranking member, fired back, "You say they can use cash at Target. A lot of them don't have cash because they don't have jobs. Give me a break."
+
+Correction: An earlier version of this post misidentified Rep. Darrell Issa as a Democrat. He is a Republican. Sorry, everyone.

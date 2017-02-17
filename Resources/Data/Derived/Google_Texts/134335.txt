@@ -1,0 +1,23 @@
+(Reuters) - FireEye Inc's Mandiant forensics division is helping investigate a cyber heist at Bangladesh's central bank last month that netted more than $80 million, people familiar with the matter told Reuters on Thursday.
+
+The two sources said Silicon Valley-based FireEye, which has investigated some of the biggest cyber thefts on record, was brought in by World Informatix, a smaller firm that is advising Bangladesh Bank on the investigation.
+
+World Informatix's website says it was founded by its chief executive, Rakesh Asthana, a former World Bank deputy chief information officer. Asthana recruited Mandiant to help with the probe, according to sources who asked not be identified due to the sensitive nature of the matter.
+
+One of those sources, a senior official with the central bank, said the U.S. government has offered to help investigate how hackers stole funds from a Bangladesh Bank account at the New York Fed.
+
+The source said that officials with the Federal Bureau of Investigation and U.S. Department of Justice had held informal conversations with Bangladesh Bank about the case, one of the largest bank thefts in history.
+
+Representatives with the FBI, U.S. Secret Service, Department of Justice and U.S. Treasury's Crimes Enforcement Network declined comment on the case, which became public this week, about a month after the funds were stolen.
+
+The New York Fed has said little about what happened, except that its systems were not breached and that it has been working with the Bangladesh central bank on the investigation.
+
+Any investigation by U.S. authorities is likely to focus on learning how cyber criminals penetrated the central bank's network, the flow of the looted funds around the world and whether any money can be recovered.
+
+The hackers breached Bangladesh Bank's systems and stole its credentials for payment transfers, according to an account by two senior officials at the bank. The attackers then bombarded the New York Fed with nearly three dozen money-transfer requests over a weekend in early February.[L4N16I4A8]
+
+The Fed processed four of the requests, sending a total of $81 million to accounts in the Philippines. A fifth transfer of $20 million, to a non-profit in Sri Lanka, was stopped after a typo in the routing instructions raised suspicions, according to bank sources.
+
+Bangladesh Bank has said it has recovered some of the stolen money, and is working with anti-money laundering authorities in the Philippines to try to recover the rest.
+
+(Reporting by Jim Finkle in Boston and Serajul Quadir in Dhaka; additional reporting by Jeremy Wagstaff in Singapore, Brett Wolf in St. Louis and Jonathan Spicer in New York; editing by Jonathan Weber and Chizu Nomiyama)

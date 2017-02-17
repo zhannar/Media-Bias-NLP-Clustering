@@ -1,0 +1,23 @@
+The FBI is denying reports it paid security researchers at least $1 million to uncover the identities of dark Web users as part of a sweeping criminal investigation.
+
+Earlier this week, the Tor Project, which oversees the leading online anonymity software Tor, said it had evidence the FBI had made a massive payment to Carnegie Mellon University in an attempt to out the personal details of a wide swath of Tor users.
+
+ADVERTISEMENT
+
+That allegation is “inaccurate,” an FBI representative told The Hill.
+
+The Tor Project claim spurred widespread anger in the security research and digital rights community.
+
+Not only would such a collaboration have represented an ethically questionable tactic, Tor Project Director Roger Dingledine argued, it may also have violated the Fourth Amendment if the FBI did not obtain a warrant.
+
+“Civil liberties are under attack if law enforcement believes it can circumvent the rules of evidence by outsourcing police work to universities,” Dingledine said in a blog post. “If academia uses ‘research’ as a stalking horse for privacy invasion, the entire enterprise of security research will fall into disrepute.”
+
+According to multiple reports, the unmasking efforts came during the FBI’s investigation into Silk Road 2.0, the major dark Web market that, like its notorious predecessor, enabled more than 100,000 people to buy and sell illegal drugs anonymously over the Internet, according to the Justice Department.
+
+In the bust last November, authorities took down the central marketplace and dozens of other similar dark Web sites while arresting a handful of people in connection with Silk Road 2.0.
+
+At the time, Tor acknowledged it wasn’t sure exactly how investigators had cracked the anonymity of the Tor users, and many worried Tor might have been widely compromised.
+
+The FBI on Friday did not provide any additional details as to how it did uncover those dark Web users during the Silk Road 2.0 sting.
+
+The bureau does maintain public research partnerships with Carnegie Mellon's Software Engineering Institute.

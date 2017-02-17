@@ -1,0 +1,19 @@
+Your face is not only a mirror to your mind, but it can also tell if you are experiencing atrial fibrillation (AF), a common but potentially fatal condition characterized by irregular heartbeats. A new technology developed by the University of Rochester School of Medicine and Dentistry and Xerox uses a web camera and software algorithms to record subtle changes in the skin color of an individual, which results due to uneven blood flow caused by AF. The results of this new experiment, still a pilot project, were published in the online edition of journal Heart Rhythm.
+
+"This technology holds the potential to identify and diagnosis cardiac disease using contactless video monitoring," said Dr. Jean-Philippe Couderc, of the University of Rochester's Heart Research Follow-up Program, in a statement. "This is a very simple concept, but one that could enable more people with AF to get the care the care they need."
+
+AF is a silent killer, affecting more than three million Americans. It is a condition where the heart, due to an inefficient heartbeat, is not able to pump enough blood into the body. Some people with AF are symptomless and become aware of their condition only during a physical check-up. Others who do show symptoms suffer from palpitations, weakness, dizziness, chest paint, etc. It is very important to diagnose and treat this condition, since it may be an indication of an underlying cause, such as high blood pressure, lung disease, coronary artery disease and such. If untreated, it may lead to stroke or heart failure.
+
+This new method, which the researchers are calling videoplethymography, can detect AF in a person in 15 seconds flat. All that is required of the person is to sit in front of a camera while it scans the face. Algorithms built into the software can detect changes in skin color, which otherwise go undetected by the naked eye.
+
+The sensors in the camera are designed to pick up three colors: red, green, and blue. Since hemoglobin “absorbs” more of the green spectrum of light, the variation in this color is indicative of the amount of blood flowing through the facial veins with each heartbeat. The face is the most ideal place to detect this phenomenon because the skin is thinner than other parts of the body, and blood vessels are closer to the surface.
+
+The study involved capturing the participants’ faces while simultaneously checking their ECG, so that the facial scans could be compared to the actual electrical activity of the heart. The researchers found high levels of accuracy with the facial scans. It had an error rate of 20 percent, comparable to the 17 to 29 percent error rate associated with automated ECG measurements.
+
+The contactless nature of this method is very appealing, according to the researchers, as it can run as a background process without interrupting the user. The developers are also confident that advancement in lens resolutions can further decrease the error levels.
+
+The researchers aim to take this pilot project to the next level by conducting a study on a larger population.
+
+"This study was intended to be a proof of concept and, as is the case with many new technologies, we believe that we can significantly improve its accuracy and the usability," Couderc said.
+
+Source: Peterson D, Xia X, Couderc J, et al. Detection of Atrial Fibrillation Using Contactless Facial Video Monitoring. Heart Rhythm. 2014.

@@ -1,0 +1,37 @@
+A key goal of the Affordable Care Act is to lower healthcare costs by prioritizing the quality of care over the quantity of services provided to patients. To that end, the Obama administration is moving quickly to adopt Alternative Payment Methods (APMs), such as a bundled payment system that fixes the amount Medicare will reimburse medical providers for specific episodes of care.
+
+The emerging bundled payments model is a game-changer that poses great financial risk for medical providers that get it wrong. To survive, hospitals, clinics and doctors’ offices will need to completely re-engineer their operations, creating a multi-billion-dollar market opportunity for startups that can deliver systems and tools that help the healthcare industry make the transition.
+
+But time is short, the technologies are unproven and the stakes are immense; there will be no second chances for startups that don’t get it right the first time.
+
+By adopting fixed bundled payments for “episodes of care,” the Obama administration aims to incentivize hospitals, physicians and other medical services providers to work together to provide patients with more effective and efficient care, as well as find better ways to help them recover successfully.
+
+Under current practices, the average Medicare expenditure for surgery, hospitalization and recovery ranges from $16,500 to $33,000 across geographic areas. But average costs fly out the window when post-surgery complications require readmissions to hospitals or extended rehabilitative care. Medicare assumes these additional costs, as well.
+
+In January, the Centers for Medicare and Medicaid Services (CMS) will start moving to bundled payments for knee and hip replacements, some of the most common surgeries that Medicare beneficiaries receive, with other procedures expected to follow.
+
+Time is short, the technologies are unproven and the stakes are immense.
+
+Under this new model, CMS will reimburse medical providers a fixed amount (estimates suggest around $25,000) for each knee or hip surgery, and medical providers are responsible for any costs that exceed the reimbursed amount. This is known as “breaking the bundle,” and with some knee and hip surgeries running as high as $125,000, it would not take many bundle-breaking patients to bankrupt small- or medium-sized clinics or hospitals.
+
+Medical providers will be under tremendous pressure to make the transition from fee-for-service to bundled payments, giving startups an 18-month window of opportunity to prove their technology works. If they fail, healthcare IT leaders like McKesson and TriZetto will have a chance to retool and retain their grip on the market.
+
+Three key areas of opportunity stand out:
+
+Revenue Cycle Management and Payment Systems. Startups like Remedy Partners are leveraging data analytics to give medical providers the clinical and financial insights they need to design successful bundled payment programs.
+
+Another important challenge will be to develop software that tracks contributions and distributes payment among the various providers — hospitals, doctors, imaging services, laboratories and rehab therapists — that contribute to a single episode, or outcome. Even more contentious will be assessing which service provider is responsible when costs exceed the reimbursed amount.
+
+Remote Care Technologies. Health care providers can dramatically lower costs by better coordinating care between providers and keeping patients out of the doctor’s office or hospital in the first place. Startups such as Patient IO help medical providers create personalized mobile care plans that can be delivered to patients outside the clinic.
+
+Others are developing new tools to guide post-op patients through physical therapy and other rehabilitation programs. For example, one researcher at University College Dublin has developed an app that turns a mobile phone into a rehabilitation tool that provides real-time feedback on rehab exercises and activities.
+
+Patient Selection Software. Much has been written about how big data can be used to predict which hospitalized patients are most likely to suffer complications or relapses. With the push toward bundled payments, medical providers will increasingly want to know which patients are safe bets and which ones are considered high risk to break the bundle.
+
+The medical community needs to understand its exposure if it is expected to assume the financial risks.
+
+For example, under the current fee for service system, there is no penalty to the hospital or surgeon when a patient is actually a poor candidate for the surgery being performed. Under a bundled payment system, providers are going to need to have much more sophisticated tools to discern who may be a risk to break the bundle before offering surgery. While there certainly are moral issues to be debated here, it is clear the medical community needs to understand its exposure if it is expected to assume the financial risks.
+
+Dozens of startups have anticipated this opportunity, but with the first bundle payments set for January, the moment of truth is arriving more quickly than expected. While some of these startups can tout financial management software built for the bundled payment model, none of it has been tested in real-world conditions. And not one of these startups has yet designed software that medical providers need to analyze and optimize the delivery of clinical care. The clock is ticking.
+
+Featured Image: Pressmaster/Shutterstock

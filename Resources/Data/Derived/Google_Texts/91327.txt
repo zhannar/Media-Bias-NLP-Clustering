@@ -1,0 +1,17 @@
+Shoot the messenger is the standard bureaucratic response of the system to its own ineptitude all the way down from ObamaCare's HealthCare.gov to Covered California.
+
+L.A.-based security researcher Kristian Erik Hermansen was signing up for Obamacare via the Covered California site. Given his background in finding vulnerabilities in software and websites, spotting security flaws , he couldn’t help noticing a vulnerability that would allow someone to take over another person’s account on the California site.
+
+He tried contacting Covered California “at least 15 times” by email, phone or chat about the problem, but got no response for over a month.
+
+Hermansen, frustrated that the flaw had been out there for over a month already, decided to release a video of the exploit to YouTube. That got the attention of a Covered California lawyer who contacted him to take the video down.
+
+Hermansen then spoke by phone to the lawyer and a chief security person. “They were not interested in talking about the security issues but about getting the video or any other online mention of the flaw taken down.”
+
+Hermansen said he found more serious issues — such as an exposed admin interface and a potentially raidable database that might have made it easy to steal complete social security numbers en masse — but that he did not explore or expose them publicly to avoid running afoul of the law.
+
+He was most dismayed though by how the site’s administrators reacted to his finding flaws: first ignoring him, then trying to sweep his disclosure under the rug, rather than immediately addressing or fixing the problem that he had found.
+
+On Wednesday, Hermansen said the FBI visited him and told him not to talk about this publicly anymore.
+
+Matt Ploessel, a security researcher who collaborated with Hermansen, reported the problems to the government’s vulnerability clearinghouse US-CERT. He said he also got a call from the F.B.I. Wednesday. “They told me that creating a test account because we didn’t want to touch real live data is fraudulent.”

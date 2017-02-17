@@ -1,0 +1,39 @@
+Making The Human Condition Computable
+
+i toggle caption Glen Davis/Forbes Glen Davis/Forbes
+
+For centuries, the central challenge in health care was ignorance. There simply wasn't enough information to know what was making a person sick, or what to do to cure them.
+
+Now, health care is being flooded with information. Advances in computing technology mean that gathering, storing and analyzing health information is relatively cheap, and it's getting cheaper by the day. As computers continue to fall in price, the cost of sequencing a single person's genome is tumbling, too.
+
+Entrepreneur Dr. Patrick Soon-Shiong is working on wearable, real-time monitors to give doctors the ability to "interrogate" a person's individual blood cells "all the way down to the atom level" to see how a given drug works or why it fails.
+
+The information from patients around the globe could then be compared, in theory. Computers could ultimately help doctors match specific treatments at the molecular level to the people for whom they would work best. Software might also detect patterns in data that would suggest new uses for existing drugs.
+
+Collecting biochemical and genomic data on billions of people around the world is just the tip of the data iceberg that a few dozen health information technology experts described recently in New York at a gathering sponsored by Forbes magazine.
+
+"You now have all of health care digitized, which is pretty cool," said Paul Black, president of the electronic health records company Allscripts.
+
+But it's still unclear how to make sense of all the digital information on a big-picture scale. "There's different approaches in the marketplace to how you would make this all be actually valuable to people," Black said.
+
+Some doctors are finding it valuable to "see the community information, versus just the campus information," meaning: if they know where their patients are going for health care beyond their hospital or office, and whether they're actually filling all the prescriptions they've been given, doctors make different treatment decisions nearly 70 percent of the time, Black said.
+
+Companies like Castlight Health are betting that they can come up with ways to analyze seemingly unrelated data about how and why people use health care to improve health and save corporations money.
+
+Castlight's Dr. Dena Bravata said, "We can now actually marry information from [corporate human resources] systems — Are you a high performer in your company? What's your absenteeism been? — with medical claims to really understand that, among our high performers we're having a lot of absenteeism because their kids' asthma is not well controlled."
+
+There are concerns about privacy and data security. Blackberry CEO John Chen pitched his company's mobile devices as secure enough to meet federal medical privacy laws. But the Forbes event was more focused on the potential benefits in the new Big Data world.
+
+There's a lot of optimism that having a more complete picture of peoples' health and how they use the health care system will save insurance companies money, and drive health care premiums down. Kevin Nazemi, co-CEO of Oscar Insurance, believes that a new generation of wearable wireless sensors will soon help doctors detect health problems early enough to prevent expensive treatments.
+
+But, Nazemi said, it's still hard for insurance companies to justify investing up front in data systems when, "the value is reaped in Year 4 or 5 in a market where [people switch insurance] on average every three years. You know, dollar in, 25 cents back. How do you think of that?"
+
+David Goldhill, who runs a cable TV network and is the author of the book Catastrophic Care, is skeptical that technological breakthroughs, even if they make people healthier, will ever tame health care spending.
+
+"We didn't go from 4 percent to 17 percent of GDP on health care spending because Americans got a lot less healthy," he said. "The increase in spending in health care isn't because, 'Oh my god, we're sick and if we can just cure ourselves, it's going to go away,' " he said. "It's a business model issue, it's the way we subsidize and manage demand."
+
+Some see a future when wirelessly enabled skin patches are cheap, common and accumulating personal health data on a massive scale, and all that data leads to better cures and detects health problems before they blossom into expensive diagnoses. Others, an era where every minute abnormality, dangerous or not, are identified and money is spent needlessly treating them.
+
+Yale Medical School cardiologist and Shots contributor Harlan Krumholz is optimistic about medicine's ability to reel in meaningful insights in that vast sea of data. But, he says, it's going to require a major shift in culture in clinics and hospitals. He says it's still the norm for doctors to rely on their memories to determine whether a given drug is right for a particular patient, "as if nobody's walking with a computer on their holster."
+
+This story is part of a reporting partnership with NPR and Kaiser Health News.

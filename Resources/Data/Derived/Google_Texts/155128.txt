@@ -1,0 +1,45 @@
+One of the most inefficient and costly processes for providers and payers is the prior authorization procedure, but help is one way to ease the pain.
+
+For those not in the know, prior authorization is the process of obtaining approval from a payer for a patient to see a medical specialist. Without prior authorization, providers run the risk of serious disruption of their revenue cycle because healthcare claims can be denied.
+
+This effort, for which there are no specific standards, is burdensome, costly and inefficient, both for healthcare providers and health plans.
+
+However, relief is coming in the forms of new regulations and consumerism.
+
+New regulations emerge this year effective in 2016 aimed at addressing shortcomings. The regulations are designed to standardize the prior authorization process, reward efficient payers and providers and penalize those who are less efficient.
+
+Healthcare consumers are demanding mobile applications that allow them to instantly view their copay at the point of care, and pay for their healthcare services before they leave the doctor's office.
+
+These services allow patients to pay at the time of service based on their health insurance benefits or cash price for those without insurance. Shifting to patient-centered, risk-based high-deductible health plans and mobile data at the point of care gives patients the opportunity to potentially receive a cash discount and avoid the surprise of additional bills later in the mail.
+
+On the verge of disruption
+
+Two new companies aiming to capitalize on this opportunity caught my eye: Informatics In Context and Wellero. They are using cloud analytics, rules engines and mobile technologies.
+
+According to Steve Sandy, co-founder of Boston-based Informatics In Context (IIC), the manual process for pre-authorizations is about to be disrupted. IIC claims to be the first solution that supports the PPACA operating rule to process pre-authorizations in true real-time using auto adjudication without requiring manual processes for the majority of the requests.
+
+IIC describes itself as “a cloud-based clinical analytics company.” Its mission is to automate and streamline referral and prior authorization processes in real-time via an EDI 278 transaction between providers and payers.
+
+IIC claims to offer true real-time adjudication for prior authorizations by combining an eligibility check using the HIPAA EDI 270/271 transactions, then sending referrals and prior authorization using a EDI 278 transaction to a payer in the provider’s network, in a single transaction, without needing to login to individual payer sites.
+
+Before submission, IIC claims that prior authorization requests are reconciled against payer policy guidelines to ensure compliance. Currently, IIC is in production with an eligibility solution and is beta testing its prior authorization solution.
+
+Post-N-Track, a cloud-based interoperability and EDI clearinghouse company, is partnering with IIC. As CORE operating rules phase in and require real-time data at the point of care, Post-N-Track believes solutions like IIC will be more important.
+
+“The prior authorization is often an ‘orphan’ transaction because providers send it and the payers then receive it and request manual follow up,” explained Post-N-Track Senior Director of Business Development David Barth.
+
+Many health plans don’t have procedures for the 278 because it is simply too expensive to scale cost effectively due to manual components of the process, according to Barth. As a result, payers outsource the workflow to call centers and others.
+
+Convergence ahead
+
+Cambia launched mobile health company Wellero in 2013. It offers consumers a mobile application to pay for services before they leave the doctor's office.
+
+At the America’s Health Insurance Plans Institute 2014 in Seattle in mid-June, the company was marketing its product benefits to plans and providers, pointing out that users don't need to purchase new software or equipment to use Wellero. The patient's smartphone can access the system directly.
+
+Wellero is part of a growing trend in the mHealth industry to target healthcare payments at the point of care – especially out-of-pocket (“patient responsibility”) charges, which usually account for over one-third of a patient's bill.
+
+But storage is a constraint for many mobile devices. The cloud, on the other hand, has virtually limitless storage. The power of the cloud is merging with just-in-time information on mobile devices to enable new innovations, perhaps most notably what analyst house IDC dubbed “The 3rd Platform” – a single, cohesive, symbiotic platform.
+
+This convergence will inevitably accelerate as disruptive healthcare regulations drive interoperability.
+
+This blog is based on an article appearing on Government Health IT.

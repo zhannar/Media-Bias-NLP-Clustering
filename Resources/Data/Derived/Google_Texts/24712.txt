@@ -1,0 +1,51 @@
+Judges are struggling to determine the appropriate punishments for cyber crimes even as U.S. law enforcement works to bring more of the Internet’s bad actors to justice.
+
+Cyber crime is such a recent phenomenon that there are few guideposts for judges to use, experts say.
+
+ADVERTISEMENT
+
+“Cybercrimes on the grand scheme are so new, they’re kind of playing it by each individual case,” said Dr. Catherine Marcum, a criminal justice professor who has studied cybercrime sentencing. “A lot of the [cybercrime] legislation has been in the last 10 or 15 years and they’re trying to figure out how to apply it and how to use it.”
+
+Judges typically seek guidance from a number of places when determining a sentence, but the first port of call is the Sentencing Guidelines, federal rules that lay out a uniform sentencing policy for different felonies and serious misdemeanors.
+
+But in the realm of cybercrime, those guidelines are extremely broad and carry stiff penalties. The maximum penalty for computer abuse crimes under the federal anti-hacking law — known as the Computer Fraud and Abuse Act, or CFAA — is 10 years for first offenders and 20 years for repeat offenders.
+
+One of the factors the guidelines tell judges to take into account is the so-called “loss,” or the financial harm caused by a cyber crime. But the guidelines define “loss” far more broadly for CFAA convictions than they do for other crimes.
+
+Loss can include any reasonable cost to the victim — including the cost of restoring a system or conducting a damage assessment — whether or not that loss was foreseeable.
+
+Critics say that standard provides too much latitude to prosecutors and can lead to excessive sentences compared to other kinds of fraud.
+
+Such broad definitions “give prosecutors wide discretion to ratchet potential sentences for defendants who insist on exercising their constitutional right to go to trial,” says the Electronic Frontier Foundation (EFF), which supports an overhaul of CFAA.
+
+But with the limited number of cybercrime convictions compared to other crimes, judges have little to go on aside from the Sentencing Guidelines.
+
+“It’s not like your standard drug crime where there’s very little new under the sun and a judge can compare his or her own prior sentences that have similar facts,” Glen Kopp, a former assistant U.S. attorney and partner in Bracewell & Guiliani’s white collar practice. “Here, you can get judges that are sentencing people for the first time in this context.”
+
+An increased focus on investigating and prosecuting cybercrimes has placed added pressure on the legal system to assess responsibility appropriately and mete out punishments that act as a deterrent.
+
+The Department of Justice last fall embedded a prosecutor within the European criminal justice agency Eurojust to better combat hackers, who often strike the U.S. from across the Atlantic.
+
+The FBI, meanwhile, has placed three new permanent Cyber Assistant Legal Attachés in foreign offices, with plans to add four more in 2016.
+
+The result has been a number of high-profile extraditions and convictions for hacking.
+
+On Tuesday, a Manhattan district judge sentenced a Latvian man to time already served for his part in the infamous Gozi virus, a case that observers say highlights some of the challenges judges face in administering the appropriate punishments.
+
+The Gozi virus infected at least 40,000 U.S. computers and has been called "one of the most financially destructive computer viruses in history” — but Deniss Calovskis wrote only one section of the code, and was compensated a mere $1,000 for his role in the scheme.
+
+After pleading guilty to conspiracy to commit computer intrusion in a federal court in September, he was sentenced to the 21 months in prison he has already served and will be allowed to return to Latvia in a matter of weeks.
+
+Calovskis’ defense attorney urged the judge to consider that he neither participated in collecting data from infected computers nor used the data to illegally access financial institutions.
+
+“When you have 500 kilos of cocaine, you have 500 kilos of cocaine. You can’t make it 50,” Kopp said. “In the cyber context, people have trouble grasping it as a tangible thing. I think there will be some room for some creative negotiating by defense attorneys and prosecutors as to the scope of responsibility for an individual who may have written part of a code.”
+
+Critics say it’s not just the Sentencing Guidelines for CFAA that need reform — they say the law itself is both draconian and stymies legitimate security research.
+
+The suicide of the computer programmer and digital activist Aaron Schwartz, who faced up to 35 years in prison and $1 million in fines under CFAA, sparked an eponymous bill that would change the statute’s definition of “access without authorization.”
+
+Swartz was accused of illegally accessing the network at the Massachusetts Institute of Technology in order to download millions of academic journal articles and them share them online.
+
+Observers say sentencing for cybercrimes will continue to be a moving target.
+
+“It’s still a young trend. I hate to make any overarching generalizations because cybercrime overall is still in its infancy,” Marcum said. “I think it’s going to be in transition as technology changes and as the offender changes.”

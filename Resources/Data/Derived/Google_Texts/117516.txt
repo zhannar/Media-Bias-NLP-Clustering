@@ -1,0 +1,19 @@
+Microsoft
+
+Microsoft has pulled temporarily its recently released Windows RT 8.1 update from the Windows Store because of a vaguely explained "situation."
+
+Microsoft pulled the RT 8.1 update some time in the morning on October 19, as reported by WinBeta.org, two days after it first made the software available for download by existing Windows RT users.
+
+I asked Microsoft what led to the decision to pull the update and received the following statement from a spokesperson:
+
+Microsoft is investigating a situation affecting a limited number of users updating their Windows RT devices to Windows RT 8.1. As a result, we have temporarily removed the Windows RT 8.1 update from the Windows Store. We are working to resolve the situation as quickly as possible and apologize for any inconvenience. We will provide updates as they become available.
+
+I managed to update my Surface RT to Windows RT 8.1 on October 17 after several attempts to get the device to find the update. I have heard from a number of other Windows RT users who've had similar difficulties in locating and getting the update process to begin on their ARM-based Microsoft-made and OEM devices.
+
+Microsoft made available for download the Windows 8.1 (for Intel) and Windows RT 8.1 (for ARM) updates earlier this week. Windows 8.1 adds a Start Button, boot-to-desktop option, and other updates designed to improve the usability and appeal of Windows 8.
+
+The company is going to make its next-generation Surface devices running Windows 8.1 -- the ARM-based Surface 2 and the Intel-based Surface 2 Pro -- available for purchase on October 22.
+
+Update: Microsoft has posted a Surface RT recovery image to the Microsoft Download Center. I'm assuming this is meant to help those who've had problems installing Windows RT 8.1 and/or bricked their Surface RTs attempting to update to Windows RT 8.1. Still no word from officials as to when the company plans to make Windows RT 8.1 available in the Store again.
+
+This story originally appeared as "Microsoft pulls Windows RT 8.1 update from the Store" on ZDNet.

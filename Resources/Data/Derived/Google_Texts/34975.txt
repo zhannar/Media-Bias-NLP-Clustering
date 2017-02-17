@@ -1,0 +1,121 @@
+Businesses are fundamentally about money: making money, managing money, and paying money to employees or other businesses.
+
+Every business — even those “billion dollar” startups that don’t make a cent — needs to stay on top of its finances.
+
+Back in the day, actual humans using actual pieces of paper took care of accounting, payroll, benefit enrollment, expenses, reporting, and all the other nitty-gritty, tedious, yet critical elements of running a business.
+
+Software-as-a-service (SaaS) is changing how businesses of all sizes manage their finances.
+
+“There is a huge trend toward the integration of cloud services into business services and enterprise adoption of cloud services beyond basic things,” said Michael Skok, a partner at North Bridge Venture Partners. “We are entering an era of ‘outservicing’ when businesses can pick the core business process they are good at and outsource everything else.”
+
+For companies of all sizes, the process of selecting quality financial services software has replaced the process of hiring an accountant or an HR professional. This is particularly true for smaller startups that may not be able to pay a full salary but can afford a small monthly subscription fee for software.
+
+Michael Carvin is the CEO of SmartAsset, a personal-finance startup that uses data and algorithms to help people make financial decisions. He spent his career in finance, and the financial crisis combined with the growing interest in big data has created an entirely new culture surrounding back-office operations like accounting.
+
+VentureBeat is researching cloud platforms and we’re looking for your help. We’re starting with marketing — specifically marketing automation. Help us by filling out a survey, and you’ll get the full report when it’s complete.
+
+“The underlying force driving the current direction of fin-tech is an increasing demand for self-management,” Carvin told VentureBeat. “When it comes to money management, people want to be able to do three things: monitor, manage, and make better decisions. The most important element for us is ‘low-touch’ — we look for set-it-and-forget-it software packages.”
+
+For this feature, VentureBeat surveyed a wide range of startups, venture capitalists, and industry experts to find out what financial software they use and what they recommend. Companies in the list focus on accounting, payroll, expenses, and benefits (or some combination of these).
+
+Here’s a look at the SaaS tools currently winning over the tech industry.
+
+Quickbooks Online
+
+Quickbooks belongs to Intuit, the grandaddy of all accounting software. Despite that Intuit has been around for 30 years and has 10,000 employees, it wants to be associated with cutting-edge technology and fancies itself a startup. The company recently unveiled a dramatic overhaul of Quickbooks Online in an effort to keep up with the demand for cloud-based services and with competitor Xero, which is also on this list.
+
+The new Quickbooks Online looks a lot like Mint.com, the popular personal finance website also owned by Intuit. The dashboards are colorful and clear, with visualizations of expenses, profits, losses, and income. The dash also shows notifications about issues that need attention, such as overdue invoices. Quickbooks also has features for creating custom invoices, accepting payments, digital expense reporting from mobile devices, processing payroll, and producing tax reports. Companion mobile apps come free of charge.
+
+One benefit of Quickbooks is its wide variety of features under one umbrella, which keeps things simple for businesses. Intuit has also aggressively been acquiring companies over the past couple years that can expand its financial offerings into a stronger small business ecosystem, complete with marketing software, online scheduling tools, and data analytics. Quickbooks also has integrations with a large number of third parties, such as Square and Kabbage.
+
+Xero
+
+Xero, Intuit’s primary competitor, raised $150 million in October and positions itself as the younger, more nimble accounting product. Most of the companies VentureBeat interviewed use Xero over Quickbooks and highly recommend it.
+
+Xero was founded in New Zealand but has had considerable growth in the U.S. since it entered the market in 2011. Its customer base is growing fast, and Xero chief executive Jamie Sutherland announced that he and his team are coming up with a separate feature to help Quickbooks customers transfer to Xero in a few hours.
+
+The general sentiment is that Xero has better customer support, cleaner design, and stronger mobile products, and it costs less. It has tools for payroll, inventory, expense claims, payments, budgets, invoicing, financial reporting, and collaboration, so workers can share the latest business numbers with teams and accountants. Xero automatically imports and categorizes bank statements and can reconcile accounts from multiple sources and in multiple currencies. It even shows how foreign currency rates affect your cash flow.
+
+Like Quickbooks, Xero integrates with other business applications and recently formed a partnership with Expensify to make it simpler to important data from Expensify into Xero.
+
+Indinero
+
+Indinero offers accounting, taxes, and payroll for businesses in one solution.
+
+The dashboard’s design is for entrepreneurs rather than accountants or tax professionals. It presents information in an easy-to-digest manner, so entrepreneurs can monitor how their businesses are doing — where the money’s going, what the margins are, how each product/location is performing, etc. It tracks revenue versus spending over time, profit and loss statements, and cash flow and balance sheets. It also does budgeting.
+
+Indinero has a forecasting feature that makes gives an instant look at income or spending might affect a company over the next 12 months. Just like Mint gives individuals data to make smarter business decisions, so Indinero does for small businesses.
+
+Expensify
+
+Expensify was the clear choice for expense software among the experts we talked to. Its tagline is “expense reports that don’t suck,” and customers agree. The company was founded in 2008 with the simple goal of making expense reports as simple as possible, for employees and employers.
+
+Employees can quickly enter receipt information by snapping a photo with their mobile phone and forwarding it to receipts@expensify.com. Expensify’s “SmartScan” inputs the receipt information and matches the receipt to the expense, doing away with manual entry. Chrome extensions and third-party software such as Dropbox can also export receipts to Expensify.
+
+Another convenient little feature is that Expensify can capture reimbursable expenses, like mileage, using GPS and odometer readings on phones. Recognizing that expenses and travel are often inextricably linked, Expensify integrated with popular trip itinerary planner TripIt to turn trip-based itineraries into expense reports.
+
+All expenses can be tagged to specific categories or projects, and administrators have a central dashboard on Expensify where they process and approve all reports from one place and issue reimbursements.
+
+Earlier this year, Expensify introduced invoicing and billing clients, which was the first time it launched a feature not directly related to expense reporting. This move put it in direct competition with Freshbooks and Bill.com
+
+ZenPayroll
+
+Like Expensify, ZenPayroll focuses on one key business process and does it well: payroll.
+
+This Y Combinator-backed company presents an easy signup process: Administrators enter data about employee hours, overtime pay, bonuses, and reimbursements, and the platform automatically calculates and pays your state and federal payroll taxes. It also enables direct deposit and gives employees direct access to their pay stubs, pay history, and information.
+
+ZenPayroll has tools for administering pretax benefits like medical insurance, paying independent contractors, and tracking vacation and sick days as well. The system is accessible on mobile devices, is easy to update with employee changes, and integrates with other business software tools.
+
+The startup started in California and is in the process of expanding nationwide, which takes time since each municipality and state has different regulatory and tax considerations. Compliance is one of the biggest reasons why payroll is a complicated, frustrating, and labor-intensive process.
+
+The product design is better and easier to use than legacy competitors like ADP, Paychex, and even Intuit; and of course, the service is cheaper. ZenPayroll raised a monster $6.1 million seed round in December 2012 from Google Ventures and well-known angel investors to bring payroll into the modern era of SaaS. Like Expensify, it integrates with Quickbooks and Xero.
+
+Zenefits
+
+A second Y Combinator financial services startup with “zen” in the title, Zenefits‘ speciality is, you guessed it, paperwork-free benefits.
+
+Benefits are extremely complicated and confusing. Zenefits makes it super easy to set up group benefits programs for employees, including medical, dental, vision, 401(k), and stock options. Rather than replacing an accountant, Zenefits is more of a replacement for an HR representative, although it also takes care of payroll.
+
+It acts as a licensed insurance broker. The software guides entrepreneurs through the process of selecting an insurance plan that makes sense and helps them get set up. Companies have their employees sign agreements online, and Zenefits will collect their personal, bank, and tax info and add them to payroll and benefit programs.
+
+Everything lives in Zenefit’s system, and employees can update themselves when a change happens, like they get married or have a child. Zenefits will automatically make any necessary tax changes.
+
+The service is free and is now available in all 50 states.
+
+The Affordable Care Act is significantly changing the landscape for health benefits, and Zenefits is one of the companies that can help businesses respond to these changes. It also handles other HR functions like sexual harassment training and collecting Equal Employment Opportunity data.
+
+Advisor
+
+Not all businesses want to rely on pure software for their financial services needs. Some require a more personal approach.
+
+Advisor takes care of your back-office operations such as accounting, HR, and payroll, but it gets much more involved with its clients than the companies listed above.
+
+Advisor conducts phone calls or in-person meetings with prospective clients and has them fill out a questionnaire — all in an effort to gain a stronger idea of the business, the team, and its unique set of needs and to tailor the services accordingly.
+
+Startups not only get help with the basic operations but also with how to build a scaleable business foundation. Advisor views itself as a strategic partner, dedicated to helping startups beat growth milestones. It claims to offer a “remarkable” amount of personal attention from its staff of CPAs, CFOs, accountants, auditors, consultants, founders, and business-operations specialists.
+
+Advisor works with both early stage startups and growth-stage startups, and pricing is customized on a per-company basis. In addition to financial services, Advisor also offers support for financial and expansion strategy, hiring, and even exit strategies.
+
+BackOps
+
+BackOps provides cloud-based accounting, HR, and finance services on a subscription basis. Its approach combines software with the expertise of a crowdsourced pool of freelance workers (primarily stay-at-home moms), known as “riveters,” who help businesses keep their back-office operations running smoothly.
+
+Like Advisor, BackOps believes humans and software should work together to keep back-office operations running smoothly. Questions inevitably come up, and the reality is that software is rarely as dead-simple as the companies behind it claim.
+
+BackOps customers receive an automated email every week with an overview of what is happening. It stores all documents in the cloud, and real-time information is accessible from a central dashboard. Customers receive notifications whenever they need to log in and make approvals. If they do have an issue, it immediately connects them to a qualified riveter, many whom are MBAs or CPAs, who can help resolve it.
+
+Startups solving startup problems
+
+When it comes to back-office operations, the sector has a lot of players — Zoho, WorkDay, Trinet, FreshBooks, and legacy providers like NetSuite, SAP, and Accenture. But most of the financial services SaaS companies people are excited about are new. They are startups themselves. They uniquely understand the pain points faced by a new company, and they are building products with a serious focus on user-friendly design, customer service, and an increasingly mobile workforce.
+
+What startups are helping solve your back-office problems? Let us know in the comments, and tell us what you like and why.
+
+Want to know more about online marketing? Fill out our survey on marketing automation tools, and you’ll get our full report on the sector when it’s complete.
+
+More information:
+
+Intuit
+
+Expensify
+
+Xero Intuit Inc. is a leading provider of business and financial management solutions for small and mid-sized businesses; financial institutions, including banks and credit unions; consumers and ... All Intuit news » Intuit's Landscape to stay on top of the industry. Access the entire ecosystem, track innovation & deals. Trackto stay on top of the industry. Access the entire ecosystem, track innovation & deals. Learn more Expensify does "expense reports that don't suck!" If you’re sick of the painful expense reporting process, Expensify is the fastest and easiest way to manage and analyze your business expe... All Expensify news » Expensify's Landscape to stay on top of the industry. Access the entire ecosystem, track innovation & deals. Trackto stay on top of the industry. Access the entire ecosystem, track innovation & deals. Learn more Xero develops online accounting software for small businesses and their advisors. Designed to be fun and easy to use as well as making key business information accessible in real-time for be... All Xero news » Xero's Landscape to stay on top of the industry. Access the entire ecosystem, track innovation & deals. Trackto stay on top of the industry. Access the entire ecosystem, track innovation & deals. Learn more

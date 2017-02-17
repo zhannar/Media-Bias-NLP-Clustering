@@ -1,0 +1,71 @@
+Mike Bare, Erik Bakken, John Mullahy, and David Riemer
+
+December 18, 2014
+
+During the next few years, states and the federal government will likely seek solutions to control costs and improve quality in the Affordable Care Act (ACA) health insurance marketplaces. State and federal policymakers should look carefully at the decades-long success of the Wisconsin State Employee Health Plan (WSEHP) in controlling the rapid rise of health insurance costs in Dane County—where Madison, Wisconsin’s state capital, and the University of Wisconsin, are located—as they seek to improve the effectiveness of the ACA’s marketplaces and health insurance costs in general.
+
+The WSEHP consistently obtains substantially lower health insurance premiums in Dane County than in Wisconsin’s 71 other counties. In 2013, an individual plan in the WSEHP was about $1,400 cheaper annually in Dane County, or 16 percent less than the average in the rest of the state; and a family plan was about $3,500 cheaper, also a 16 percent difference. This Dane difference has existed for at least a decade, with the gap slowly widening over that time.
+
+Why does WSEHP get much lower premiums in Dane County than in the state’s 71 other counties, and what lessons can policymakers learn from this difference?
+
+Exhibit 1. Lowest Individual Monthly Premium Difference from Dane County
+
+Background
+
+The WSEHP is one of the longest-running health insurance exchanges programs in the United States, predating the Massachusetts Connector by over 25 years. Since 1983, the WSEHP has provided health insurance for over 72 health insurance exchanges—one exchange for each county in Wisconsin. While it could be argued that the WSEHP operates a single exchange that uses 72 bidding areas, plans are free to choose the individual counties or clusters of counties in which they want to bid. Participating HMOs have historically selected and modified their bidding regions in ways that frequently overlap. These facts make it reasonable to describe Wisconsin’s structure as consisting of 72 separate exchanges. Whether the WSEHP is defined as operating a single exchange with 72 bidding areas, or as overseeing 72 separate exchanges, the analysis that follows is the same.
+
+Since 2003, the operational structure of the WSEHP has remained essentially unchanged. Over 70,000 state employees (which amounts to more than 210,000 covered lives) make an annual choice of a health insurance plan via the “It’s Your Choice” decision guide. The guide presents the standard benefits package, the health insurance options available in each county, information on cost, plan descriptions, and a quality report card.
+
+The HMOs available in each county are organized into three cost tiers. Employees pay the least to enroll in the lowest-cost Tier 1 plans. They must pay significantly more if they select a higher-cost Tier 2 plan, and even more if they choose to enroll in a highest-cost Tier 3 plan. Therefore, most state employees select lower-cost Tier 1 plans; very few select a more expensive (to them) and more costly (in terms of total premium) Tier 2 plan (if available) or Tier 3 plan.
+
+In the few counties where no private HMO has submitted a bid that qualifies for Tier 1, state employees may enroll in a State Maintenance Plan HMO administered by an insurance company that is placed in Tier 1. There is also a statewide PPO that, because of its cost, is placed in Tier 3. Thus, as state employees in any Wisconsin county shop among the available plans and make their selections, their choices are driven by the cost to them of picking a particular plan, the competing plans’ network of providers, and the plans’ reputation for quality.
+
+What Could Account For The Dane Difference?
+
+After carefully studying the WSEHP’s structure, assessing the premiums bid in all 72 counties, and conducting detailed bivariate and multivariate statistical analyses, we identified and tested seven variables that may explain why the Dane exchange produces such dramatically lower HMO premiums than in the rest of the state: (1) the relative size of the insurance pool, (2) the risk profile of the insurance pool, (3) provider characteristics, (4) the quality of the plans, (5) integrated delivery systems, (6) the intensity of the competition, and (7) program management.
+
+The relative size of the insurance pool. The Dane County exchange has a much larger pool of purchasers as a share of the county’s population, which may explain why the Dane exchange commands lower premiums. The number of state employees, their spouses, partners, and dependent children who buy health insurance through the WSEHP’s exchange in Dane County constitutes 26.5 percent of the county’s total potential market for individual and group health insurance (private insurance market), far higher than in any other county’s exchange. Only seven other counties even achieve double-digit percentage shares, while enrollees in the WSEHP account for less than 10 percent of the private insurance market in the other 64 counties.
+
+In short, the WSEHP exchange in Dane County results in a very big volume of buying power while each of the WSEHP’s other 71 exchanges results in only small-scale buying power. Since a big buy typically commands lower prices, the Dane exchange’s big buy may contribute to its lower premiums. Our analysis shows the high level of the WSEHP’s market share in Dane County was one of the variables that may help explain the Dane difference.
+
+The risk profile of the insurance pool. It is often hypothesized that the population of Dane County is younger, wealthier, and healthier, and that Dane residents have better health behaviors than the rest of Wisconsin. Thus, it is suggested, the risk profile of the WSEHP exchange in Dane County is better than the rest of the state, and therefore cheaper to insure.
+
+In our multivariate analysis, median income of the county’s entire population emerged as a potential explanatory factor for the Dane difference. It is possible that median income acts as a proxy for education level, health knowledge, and health behaviors. However, other factors, including the county’s average age, differences in gender, overall health ranking, diabetes rate, cancer rate, and low birth weight rate, had no statistically significant explanatory value for the Dane difference.
+
+These conclusions are limited to the counties’ entire populations. We did not specifically analyze the risk profile of the pool of WSEHP enrollees, though this is an area for future research.
+
+Provider characteristics. As with most states, Wisconsin’s counties vary when it comes to physician-to-population ratios, the number of hospitals per county, and hospital reimbursement rates. Did the Dane exchange achieve better premiums because it differed significantly from the other 71 counties on these measures? For example, the Dane exchange’s premiums might be lower if, for exogenous reasons, Dane hospitals simply charged lower rates.
+
+Our analysis indicates that differences among providers are not explanatory factors. Neither the ratio of physicians to population, nor the number of hospitals in a county, nor hospital reimbursement rates, explain why the Dane exchange got lower premiums than the state’s other 71 exchanges.
+
+The quality of the plans. The Dane County exchange has four “homegrown” health care plans: Dean Health Plan, Group Health Cooperative of South Central Wisconsin, Physicians Plus, and Unity. Each achieves high quality ratings from the members of the WSEHP and from outside evaluators. The WSEHP presents consumers with an “overall quality score” for each plan that is based on composite quality measures gathered by Consumer Assessment of Healthcare Providers and Systems (CAHPS) surveys and the Healthcare Effectiveness Data and Information Set (HEDIS) in the areas of wellness and prevention, mental health, disease management, and consumer satisfaction and experiences.
+
+The Dane County plans scored a non-weighted average of 3.25 out of 4.00 (higher being more satisfactory). This was the highest average quality rating of any county in the state. Twelve counties achieved the next highest score of 3.00. Of the twelve 3.00 scores, six counties offered a Dane County plan. Our research indicates that the relatively higher quality of the Dane exchange’s HMOs may help explain its lower premiums.
+
+Integrated delivery systems. Only integrated delivery systems compete in the Dane County exchange, and the HMO plans in Dane County are four of only seven integrated health delivery systems that compete in the entire WSEHP. Integrated delivery systems coordinate providers and insurers—that share a bottom line—to achieve lower premiums. The plans competing in Dane County may thus be inherently more cost-effective in delivering health care services. While some of the other 71 exchanges offer some (but not all) of the Dane County HMOs, our analysis suggests that the Dane exchange’s unique structure of competition among integrated delivery systems only—as well as its greater number of competing integrated delivery systems compared to the other 71 exchanges—may explain why the Dane exchange gets lower premiums.
+
+The intensity of the competition. Dane County’s exchange may achieve lower premiums because of more health plan competition, period. This increased competition is evident in both the absolute number of plans the Dane exchange offers (four), and the ratio of HMOs to the number of state employees or covered lives in the county in general. A simple difference in the number of competing plans, regardless of the quality of the plans or the integrated structure of the plans, might trigger competitive forces that have a positive impact on holding down the Dane exchange’s premiums.
+
+Our research indeed suggested that the greater level of competition found in Dane County may contribute to its lower premiums.
+
+Program management. It is possible that the Dane exchange benefits from the WSEHP administrators’ putting more effort into controlling costs in Dane County than in the other 71 counties. Approximately half of state employees live in Dane County. Cost control efforts there could produce bigger paybacks. It is conceivable that the WSEHP staff, while on the surface treating all exchanges alike, nonetheless applied more “elbow grease” or “arm twisting” in the Dane exchange.
+
+We saw little evidence that the management of the exchange by Wisconsin’s Department of Employee Trust Funds was an explanatory factor. The one potential exception is the managers’ risk adjustment methodology, which has a regional component that may impact premium pricing. The data underlying this and other adjustments were not available to us; thus, this is an issue for further research.
+
+Summing Up: The Policy Implications
+
+In short, Dane County’s lower premiums appear to stem largely from the Dane exchange’s very high share of the private health insurance market; the relatively higher median income of the Dane County population (and thus, presumably, Dane County members of the WSEHP); and the Dane County exchange’s use of a large number of integrated delivery systems of high quality.
+
+Wisconsin’s experience in creating and operating 72 health insurance exchanges over the last several decades provides several important—indeed, compelling—lessons for policymakers. Our research into the Dane difference is particularly useful for state and federal policymakers who are looking for ways to refine the ACA’s marketplaces to better control costs and improve quality.
+
+Interestingly, all four integrated delivery systems that compete in the WSEHP in Dane County have also competed for two years in Wisconsin’s federally facilitated ACA Marketplace in Dane County (which itself comprises one of the Marketplace’s bidding regions in Wisconsin). Our analysis of silver plan premiums for 2014 for a 27 year-old individual shows that the ACA exchange in Dane County also achieves significantly lower premiums than the ACA’s exchanges in Wisconsin’s other counties. The same pattern holds regardless of age.
+
+Exhibit 2. ACA Premium Difference Between Dane County’s Lowest-Bidding Plan and Other Counties’ Lowest-Bidding Plan for 2014
+
+Based on the strength of our evidence, it would be reasonable for policymakers to conclude that an exchange is far more likely to hold down premiums and costs, without sacrificing quality, if the exchange also has at least one, and optimally more than one, of the following features:
+
+The exchange’s pool comprises a very large percentage of the privately insured lives in the exchange’s bidding region; The exchanges offers a large number of high-quality plans; and Those plans are integrated delivery systems.
+
+These conclusions assume that the exchange provides pooled members with a standard benefit package, and that it offers them a clear economic incentive to choose a low-premium health care plan by requiring them to pay a portion, if not the full extra cost, of a plan that offers a higher premium.
+
+For additional information, including tables and charts that present the specific results of the bivariate and multivariate analyses we conducted, see our full report. Funding for this project was provided by the University of Wisconsin-Madison School of Medicine and Public Health from the Wisconsin Partnership Program.

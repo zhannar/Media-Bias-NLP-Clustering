@@ -1,0 +1,65 @@
+The mammoth data breach at health insurer Anthem Inc. has given new life to concerns about whether information shared with federal healthcare websites is safe.
+
+“That was one of the first things I thought about,” Senate Homeland Security and Governmental Affairs Committee Chairman Ron Johnson Ron JohnsonThe Trail 2016: Interleague play Sanders fundraises for Feingold in Wisconsin Senate race Pressure builds from GOP to delay internet domain transition MORE (R-Wis.) told The Hill.
+
+“They have not put in the fail-safe requirements or mechanisms that protect some of this data,” added Senate Finance Committee Chairman Orrin Hatch Orrin HatchGOP senator reacts to Garland meeting before it happens Senate amendments could sink email privacy compromise Overnight Defense: VA chief 'deeply' regrets Disney remark; Senate fight brews over Gitmo MORE (R-Utah). “It’s a doggone disaster.”
+
+The Centers for Medicare and Medicaid Services (CMS), which oversees the sites HealthCare.gov and Medicare.gov, has said there is no indication federal systems were affected by the Anthem breach.
+
+ADVERTISEMENT
+
+But the Affordable Care Act and the broader move from paper health records to electronic health records have resulted in numerous links between health insurance providers and federal healthcare websites.
+
+The unprecedented scale of the Anthem hack, which exposed the personal data of up to 80 million customers, has shown that these links present a potential vulnerability in the healthcare system.
+
+“We’re not talking with healthcare organizations as standalone entities anymore,” said Christopher Budd, a security expert with TrendMicro. “They’re interconnected.”
+
+Health insurers like Anthem market and sell their plans on the federal- and state-run healthcare exchange websites, creating data flows between the two sources.
+
+“Those are basically roadways that attackers could be using,” Budd said.
+
+Valuable information makes up the traffic on those roadways. The Anthem hackers made off with names, birth dates, home addresses, salary information and, most importantly, Social Security numbers. Medical records and credit card data were not exposed.
+
+But a stolen Social Security number is worth roughly 10 to 20 times more than a stolen credit card number, said John Gunn, of data security firm VASCO. Unlike credit cards, Social Security numbers are never reissued.
+
+“10 years from now, I can still sell your Social Security number,” he said.
+
+Most high-profile breaches to date — including those at Target, Home Depot and Neiman Marcus — exposed shoppers’ credit card data. In aggregate, well over 100 million credit card numbers were stolen.
+
+The value of the data stolen in the Anthem breach is the equivalent of a billion stolen credit card numbers, Gunn said.
+
+With such desirable data flowing between federal exchange sites and insurers, lawmakers on Thursday emphasized the need to bolster the government’s cyber defenses.
+
+“Certainly we need to make sure our own government websites and our cyber assets are secure,” Johnson said.
+
+Questions about HealthCare.gov are rising at a crucial moment for the Obama administration.
+
+With less than two weeks before the healthcare law's 2015 enrollment deadline, the Department of Health and Human Services (HHS) appears poised to meet its target of 9.1 million paid enrollments.
+
+This sign-up period has proceeded smoothly for the federal exchange in a victory for HHS Secretary Sylvia Mathews Burwell, who was nominated in part as a fixer who could avoid the mistakes of ObamaCare's first year online. Security experts have given the site much higher marks in its second year.
+
+Perhaps as a result, Republican attacks on the technical aspects of healthcare implementation have quieted substantially in the last eight months.
+
+Indeed, most congressional Republicans used the Anthem incident not to bash ObamaCare but to push for cybersecurity legislation.
+
+Lawmakers are considering two main cyber bills. One would provide legal liability protections for companies sharing cyber threat information with the government. The other would likely create federal data security standards and require companies to notify both their customers and the government following data breaches.
+
+The White House has also issued its own legislative proposals for both bills.
+
+The Anthem breach “shows again why it’s so important that we take some of those initial first steps,” said Johnson, whose committee is preparing its own version of an information sharing measure. “Every last one of these additional attacks certainly improves the chance of us passing something because people realize how important it is.”
+
+House Energy and Commerce Committee Chairman Fred Upton (R-Mich.) has already said he will hold hearings on the Anthem incident in an attempt to build more momentum for cyber legislation. Anthem officials will also brief the Energy and Commerce panel on Friday.
+
+Industry groups and government officials argue both measures are needed to bolster the country’s cybersecurity. Privacy advocates have concerns that enhanced information sharing could allow the government to collect more sensitive information on Americans.
+
+The Anthem hack will only fuel these debates, raising questions about the best way for the government and Congress to protect healthcare networks.
+
+“Does it make sense for Anthem to be leading the response when it’s something that could involve more than Anthem?” Budd asked.
+
+“We have to think about moving forward, how do we ensure that anybody's personal information is safe? What’s the best way to do that?” Senate Commerce Committee Chairman John Thune John ThuneSelf-driving cars: The next great leap in automotive safety Overnight Tech: Senate panel poised to advance email privacy bill Senators to House: FAA reauthorization would enhance airport security MORE (R-S.D.) told The Hill.
+
+Anthem may be the first major healthcare breach, but it won’t be the last.
+
+“We’re going to see a lot more,” Hatch said.
+
+Elise Viebeck contributed.

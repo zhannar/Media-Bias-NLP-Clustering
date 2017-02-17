@@ -1,0 +1,39 @@
+While it's been in effect since January 2014, the Healthcare EFT Standard via ACH is still a source of confusion for many medical providers.
+
+The standard allows providers to request that claims payments be made using EFTs instead of paper checks--that is, electronically transferred from the insurer to the provider's bank account via ACH, similar to direct deposit. Health plans are required, by law, to comply.
+
+Converting to EFTs via ACH can result in substantial cost and time savings for healthcare practices. Yet, because the standard is still relatively new, many providers have received misinformation about EFTs via ACH that could be deterring them from making the switch.
+
+Here are four common myths about the Healthcare EFT Standard and the reasons they're false:
+
+Myth: Enrollment is difficult.
+
+In fact, new operating rules have standardized sign-up data requirements for providers, so the process is the same, no matter the health plan.
+
+Additionally, the CAQH Enroll Hub allows providers to fill out one form and enroll with multiple insurance carriers all at once. Clearinghouses can also assist providers with the enrollment process.
+
+Myth: Receiving healthcare EFTs via ACH is costly and requires special equipment.
+
+Actually, the only item required to receive EFT via ACH payments is a bank account, and signing up costs nothing.
+
+What's more, EFTs via ACH are more cost effective than many other forms of payment, including checks and virtual cards. Providers see an average savings of $3.04 for every claims check converted to an ACH payment.
+
+When EFTs are used in combination with ERAs--which allows for automated reconciliation of EFT and ERA and automated posting--cost and time savings increase even more. Providers can save $7.21 per payment when they switch from checks and explanations of benefits to EFT and ERA.
+
+Some practices may need to upgrade their practice management or accounting software to accommodate automated posting, but it's not necessary if a provider simply wants to receive EFTs.
+
+Myth: Healthcare EFTs via ACH are less secure than other methods of payment.
+
+In reality, healthcare EFTs via ACH are among the safest forms of payment available.
+
+Funds are transferred directly from bank account to bank account via the ACH Network, which has been in use since the 1970s. Because EFTs are entirely electronic, using them eliminates the risk of a check being lost or stolen.
+
+Myth: Not all health plans offer the Healthcare EFT Standard.
+
+Health plans have been required by law, since January 2014, to offer the Healthcare EFT Standard via ACH to any provider who requests it. If a health plan refuses to offer the Healthcare EFT Standard via ACH, providers should speak with the company's compliance officer and, if necessary, file a HIPAA violation.
+
+Additionally, some health plans are offering virtual cards for claims payments instead of EFTs and believe that this complies with the standard. It does not. The healthcare EFT standard is the NACHA CCD+ and must flow through the ACH Network. Providers have the option to say no to virtual cards, and all health plans must offer the healthcare EFT standard via ACH if it is requested.
+
+It's easy to be misled by incorrect information, especially when it revolves around a new standard. To get the facts on the Healthcare EFT Standard, providers should always turn to reliable sources to research any outside information they receive. There are plenty of sources available online, including NACHA's Healthcare Payment website, NACHA's ACH Primer for Healthcare, and the American Medical Association's EFT Toolkit and ERA Toolkit.
+
+Priscilla Holland is senior director, healthcare payments, at NACHA – The Electronic Payments Association.

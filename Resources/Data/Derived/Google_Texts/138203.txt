@@ -1,0 +1,19 @@
+TORONTO, June 15 (UPI) -- Researchers sequenced and assembled the full genome of the bacteria Escherichia Coli, or E.coli, using nanopore sequencing data and a device the size of a cell phone.
+
+The device, the MinION, manufactured by the U.K.-based Oxford Nanopore, uses ionic currents passed through nanopores, nanoscale holes on a chip, to decipher the genome and the device uses a three step process to assemble the genome based on physical data gathered from the nanopore.
+
+"This work has incredible potential," said Dr. Tom Hudson, President and Scientific Director of the Ontario Institute for Cancer Research, in a press release. "Scaled up, this technology could one day be used to sequence tumor genomes. The device's portable nature would allow for sequencing to become far more accessible, bringing the option of more personalized diagnosis and treatment to more patients."
+
+Samples are dropped into the device, which can be plugged into a laptop using a USB cable. DNA is read as it is unzipped while passing through nanopores in the device. The proteins in DNA cause unique changes in an ionic current, which are detected and recorded by the device. Each of these changes represents a protein in the DNA.
+
+Once the genome has been decoded, software first detects and corrects overlaps between sequence reads, then it assembles the corrected reads, before refining it using a "probabilistic model of the electric signals caused by DNA moving through the nanopore."
+
+The method of assembly the authors devised had three stages. First, overlaps between sequence reads are detected and corrected using a multiple alignment process. Then the corrected reads are assembled using the Celera assembler and finally the assembly is refined using a probabilistic model of the electric signals caused by DNA moving through the nanopore.
+
+The device, which can be plugged into the USB port of a laptop, is designed to allow real-time genome sequencing in doctor's offices or on-site during an emergency.
+
+Researchers said they expect over time to be able to quickly sequence larger and larger organisms genomes, including humans.
+
+"Long reads are necessary to assemble the most repetitive parts of genomes but we need a lot of reads if we want to sequence human genomes. The small size of the MinION suggests there is room to scale up and sequence larger and more complex samples," said Dr. Jared Simpson, Principal Investigator at the Ontario Institute for Cancer Research.
+
+The study is published in Nature Methods.

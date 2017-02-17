@@ -1,0 +1,49 @@
+Last week, with the exception of the massively annoying Heartbleed programming oofta, was a relatively quiet one with the typical garden variety of IT-related snafus, errors and problems being reported. We start this edition of IT Hiccups with 911 emergency call system outages that hit several states last week.
+
+Early last Thursday morning beginning around 0100 am local time, three counties in Oregon as well as the entirety of Washington State discovered that their emergency 911 call dispatch systems were no longer working. Oregon’s outage was cleared up in about three hours, but it took nearly seven hours before 911 services were restored across Washington State.
+
+At first, the two outages were thought to be related because CenturyLink’s networks were involved in both outages. CenturyLink is a Louisiana-based telecom provider that is contracted with Washington State and the three affected counties in Oregon to provide 911 communication services. In Washington State, the emergency centers are interconnected, so when a network outage occurs it apparently can take them all down at once. There are back-up 911 systems in some localities, but these systems do not provide “enhanced 911” features, such as providing a caller’s address, the Seattle Times reported. In addition, when a caller receives a “fast busy” signal indicating that the 911 system isn’t working or is overloaded, Washington State residents need to remember to call their local emergency services using the regular 10-digit phone codes, state emergency officials said afterwards.
+
+On Friday, a CenturyLink spokesperson said its investigations into the “intermittent interruption,” as the company called the simultaneous 911 outages in Oregon and Washington, were not related by anything other than by what it said was an “uncanny” coincidence. In Oregon, the outage was caused by an issue arising during a scheduled maintenance window, Oregon Public Broadcasting reported. OPB quoted CenturyLink spokesperson Martin Flynn as saying that “a computer card was removed from CenturyLink’s master controller, the unit stopped responding and needed to be reset.”
+
+In Washington State, the AP reported that CenturyLink blamed the outage on an unspecified “technical error by a third-party vendor” that was “not related to CenturyLink's network.” A story in the Tacoma News Tribune reported that state emergency officials told the paper that the “outage apparently stemmed from a malfunction in the telephone networks that people use to make everyday calls, not the separate system that sends calls to emergency dispatchers.” CenturyLink apologized for the “inconvenience,” which likely did not satisfy the Everett, Washington woman who could not get through to report an intruder trying to break into her house.
+
+In addition, the Tribune reported that CenturyLink wasn't exactly forthcoming with Washington State emergency management officials on the details of what caused the outage, which has not pleased them, nor the state’s governor who is demanding an explanation of the outage. The state’s Utilities and Transportation Commission has said that it will be investigating the 911 system outage, which should shed more light into its cause.
+
+Washington and Oregon were not alone last week in regards to a 911 system issue. On Wednesday, at least 20 Indiana counties lost 911 services for three and a half hours. The outage was subsequently blamed on a 911 system upgrade by AT&T. A back-up system successfully took over when the outage occurred, although emergency calls took slightly longer to be answered and responded to than normal. AT&T also apologized for the “inconvenience.”
+
+British Columbia Drivers to Get Insurance Refund
+
+The Canadian Broadcasting Corporation (CBC) reported over the weekend that British Columbia’s government-run insurance company, the Insurance Corporation of British Columbia (ICBC), has for at least six years both over- and under-charged tens of thousands of B.C. drivers their insurance premiums. Drivers in B.C. must buy their insurance through the ICBC, which is responsible for driver licensing as well as vehicle licensing and registration.
+
+According to the CBC, a computer error under-charged some 60 000 B.C. drivers for their insurance by some $71 million while concurrently over-charging the insurance premiums of another 40 000 B.C. drivers some $36 million. B.C. Transportation Minister Todd Stone, who was described as being “angry” over the error, has ordered ICBC to pay back the over-charged B.C. drivers (including interest) as well as telling the ICBC that it will not be able to recover the premiums it under-charged for.
+
+A story at The Province states that the ICBC blamed the mistake on its on-going migration that began in 2006 from a 40-year old legacy computer system to a new CAD$400 million system which is scheduled to be completed in 2015. The error was discovered last year but it has taken until now to discover the full extent of the error and to develop a repayment plan.
+
+Minister Stone has called for an audit into the error and why it remained undiscovered for so long.
+
+Affordable Care Act Related Errors Still Abound
+
+Well, last week Health and Human Services Secretary Kathleen Sebelius formally announced her resignation. At the announcement, both Sebelius and President Obama claimed victory in turning the ACA website from an error-ridden disaster into one whereby some 7.5 million people successfully have used it to sign-up for health insurance.
+
+Sebelius finally admitted yesterday, however, that she was “flat-out wrong” to think that the ACA website was ready last October 1. She conceded that “more time and testing” would have been useful before rolling it out. Sebelius also tried to deflect the blame for not knowing how bad the situation really was on her inability to ask the right questions, as well as incorrect information coming from her ACA technical advisors. She is quoted by the New York Daily News as saying, “If I had a magic wand and could go back to mid-September and ask different questions based on what I know now, I would. I thought I was getting the best information from the best experts, but clearly that didn't go well.”
+
+Sebelius did not indicate if she had indeed been told at the time that the ACA website wasn’t ready to go whether she would have delayed ACA’s introduction, however. Given the political pressures at the time, I seriously doubt she would have.
+
+ACA-related system issues still remain, however. For instance, computer issues continue to delay the approval of some 800 000 California residents who have applied for Medi-Cal coverage through the ACA. Oregon is still trying to figure out what to do with its still non-functioning website: try to still fix it or default to using the federal ACA website. However, news reports state that the number of the “most serious programming bugs” discovered in Oregon's healthcare website implementation has grown from 13 in January to over 300 currently, which would seem to make the choice fairly obvious. And Massachusetts says it hopes that its glitch-filled website will be finally functioning by November 15th of this year, with the goal of (only) being “minimally compliant” with ACA’s requirements by then. A robust health insurance system would not be available until mostly likely November of 2015, state officials indicated.
+
+In Other News …
+
+Dead Backup Computer Won’t Stop Space Station Resupply
+
+British Gas Pays £5.6m Fine for Blocking Customers from Switching to Other Supplier
+
+Bombay Stock Exchange Has Second Glitch in Week
+
+Technical Glitch Hits CME Trading
+
+Bangladesh Dhaka Stock Exchange Suffers “Technical Problem”
+
+Instagram Goes Down Over the Weekend
+
+SCADA System Error Cause of California City’s Waterline Breaks

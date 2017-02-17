@@ -1,0 +1,13 @@
+New York–American Express Co. is experimenting with facial recognition and wearable technology that could turn into new capabilities for some of its mobile apps, including products aimed at customers traditionally underserved by financial services companies.
+
+To boost business growth, the company wants to use emerging technologies to appeal to consumers in new segments, such as heavy mobile users who want to use digital payments and those with little or no credit and others who prefer not to use credit and charge cards. American Express and other traditional financial firms face competition from upstart payment systems.
+
+“There’s a large population better served by something other than credit or charge cards,” said Neal Sample, president of the Enterprise Growth group at American Express. For example, the group worked with Wal-Mart Stores to develop the Bluebird prepaid, reloadable card. It also created a digital wallet and peer-to-peer payment system, called Serve.
+
+The company’s lab of agile developers and designers works to adapt American Express products and services to new consumer devices, such as Google Glass and the Apple Watch. The lab also experiments with emerging technologies, doing mock-ups and prototypes to prove or disprove their theories. “We want to do the minimum amount of work to demonstrate whether a leap of faith to full development is worth taking,” Mr. Sample said.
+
+Facial recognition technology is gathering support in the company’s lab. David Baldie, director of technical delivery at American Express Enterprise Growth, has been testing with ways to capture and authenticate face images accurately and quickly on a mobile device. Facial recognition could be more secure than user names and passwords, Mr. Baldie said. A customer could use it when conducting sensitive transactions, such as money transfers, via mobile device.
+
+Several incremental challenges make the process difficult. Mr. Baldie found, for example, that users need visual cues on screen to help align the camera properly. Also, the authentication step of sending the image to a server to match it against stored files must be very fast and very accurate.
+
+The technology is not ready for launch but it’s far enough along that Mr. Sample and his team demonstrated a version to senior managers in March. “If we bring it forward, we would follow the full rigor of the development process,” said Mili Doshi, director of mobile product development and innovation at American Express Enterprise Growth. That includes extensive risk and security review, she said.

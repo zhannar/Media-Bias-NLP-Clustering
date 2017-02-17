@@ -1,0 +1,39 @@
+It’s hard to imagine a more compound irony than this: ISIS, a group dedicated to dragging millions of people back into a centuries-old, religion-based social order, has been using 21st century social media to advance its cause. But it has recently found itself stymied online more than on the ground in Iraq.
+
+The Islamic State, also known as ISIS and ISIL, is a group of fundamentalist Sunni Muslims, and it has quickly taken over large portions of Iraq and Syria, slaughtering untold numbers of men, women and children as it progresses. For a group dedicated to advancing a worldview largely developed in the 7th century, ISIS has so far been surprisingly adept at co-opting 21st century social media.
+
+Related: The ISIS Massacre We’re Not Preventing
+
+The group gained some of its notoriety from its representatives posting videos of its activities on social media — especially gruesome videos of its members murdering people it deemed apostate or otherwise opposed to its aims. The most high profile example, though far from the only one, was a video released last week that showed an ISIS fighter killing and beheading American journalist James Foley.
+
+The video was, apparently, the final straw for the mainstream social media site Twitter. Until recently, ISIS representatives had used the site to post similar videos as well as messages supporting the group’s aims. After the Foley murder, Twitter revved up its aggressive crackdown on accounts that shared the video of his murder as well as any accounts sharing similar content.
+
+Apparently determined to continue publicizing its atrocities, ISIS began looking elsewhere, and landed on a newer and lesser-known social media network known as Diaspora (or, as the service styles its name, diaspora*).
+
+Diaspora is, in many ways, similar to Twitter. Users have similar identifying handles that begin with the “@” symbol, and conversation threads are marked by terms preceded by the hashtag familiar to most Twitter users.
+
+Related: The ISIS Dilemma Confronting Obama
+
+In other ways, Diaspora is, by design, fundamentally different than its larger cousin. Rather than having a centralized system that collects and posts all users’ content, Diaspora is what’s known as a “distributed system” — a conglomeration of hundreds of “pods” spread across the globe, all of which can communicate with each other.
+
+The system is designed this way, in part, to avoid the possibility that a single administrator, or government, could shut it down. Unfortunately, this also made the network vulnerable to exploitation by ISIS, because its decentralized nature means that there is no overarching administrator with the authority to ban individual posters.
+
+For a short time after it was banned from Twitter, ISIS was apparently able to exploit the widespread nature of Diaspora’s system, allowing it to post its videos freely. Over the course of the past week, though, the network began fighting back by reaching out to pod administrators (“podmins”) in an effort to fight off ISIS.
+
+“The decentralized nature of the network and the…philosophy of the project are two of the key strengths of diaspora*,” administrators wrote on the network’s blog. “However, they can make it more difficult to act swiftly when there is inappropriate activity on the network. Each pod administrator has final say over the content hosted on their pod, and we, and our entire community of members, work to help our podmins to keep the network healthy and growing.”
+
+A number of headlines in various media suggested that Diaspora was either unwilling or unable to block ISIS posts, but in a post late last week, the service’s administrators reported that, while it had taken some time, the community of podmins had been largely successful in booting ISIS from the network.
+
+“diaspora* can and does deal with inappropriate usage,” the organization said in a later post. “As with everything in a decentralized project, the ability and responsibility to deal with inappropriate usage are devolved, from the one central body of the centralized corporate model of Facebook or Twitter to individual podmins and individual community members.”
+
+One podmin, Brian O'Donnell, said that the ISIS posts began appearing only days after he set up his Diaspora server.
+
+In response to an email, he wrote, "It was an odd situation to be in, having brought the server online mostly for the sake of satisfying my curiosity only to have it infiltrated by foreign militants almost immediately, in a way that made national news.
+
+"I became pretty concerned about any ISIS activity on my own pod, mostly out of the desire to avoid any potential legal problems," he said. "For the first few days, I kept an eye on new accounts and watched for any posts that looked like links to ISIS-related sites or Facebook pages, quickly deleting anything that seemed suspect. It became apparent that most of these accounts were being accessed from IP addresses located in Iraq, but also a few others in Jordan and Saudi Arabia."
+
+After a few days of "playing whack-a-mole," O'Donnell was able to redirect all traffic coming from those countries to a main directory, on the theory that legitimate users would easily find another pod, while ISIS-related users would eventually become frustrated.
+
+"After the first few days, I stopped seeing much suspicious traffic coming in - even stuff I was redirecting. It seemed like the whole phenomenon kind of dried up - as if maybe ISIS decided that Diaspora wasn't quite the easy target that it initially presented itself as."
+
+Top Reads from The Fiscal Times

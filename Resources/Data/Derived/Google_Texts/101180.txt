@@ -1,0 +1,55 @@
+Galen Benshoof
+
+July 29, 2015
+
+At the core of the Affordable Care Act (ACA) is the notion that health insurance should be accessible and affordable. In pursuit of that goal, the legislation includes premium tax credits to provide financial assistance to individuals whose income falls within a specified range. Because of the attempted precision and fairness of a means-tested affordability program, the tax credit is more complex than merely receiving a refund at the end of the year.
+
+Instead, eligibility is determined prospectively. When individuals apply for advanced premium tax credits (APTC), they provide household details and estimate their income for the coming year. Early the following year, they must reconcile the information they provided earlier with their actual earnings and other details reported on their tax return.
+
+However, predicting annual income is not an easy task, especially for people working variable hours or in seasonal industries. Nor is passing up the full credit at the time of application, especially when the tax credit can significantly reduce monthly premiums, an enticing offer. Another difficulty is remembering to update the exchange if your salary changes, if you receive an unexpected bonus, or if you experience a change in family circumstance such as marriage or divorce.
+
+APTC Reconciliation Adds Complexities At Tax Time
+
+As a result of these complexities, tax-filing season may have some added confusion. According to preliminary data from the Internal Revenue Service (IRS), roughly half of those who enrolled in the ACA’s exchanges and received APTC ended up owing money to the federal government, because their income ended up higher than they had anticipated. For most people, that means a smaller refund ($800 smaller on average), rather an out-of-pocket payment.
+
+It’s not all bad news for enrollees who owe — a smaller refund just means they had additional help affording monthly premiums. And the law contains protections for lower-income enrollees, capping APTC repayment at $600 for people below 200 percent of the federal poverty level (FPL), as you can see in this table from the Kaiser Family Foundation:
+
+Above that, though, the potential repayments grow larger. In fact, according to the IRS data, 25 percent of enrollees who overclaimed ended up owing back more than $1,000 to the federal government.
+
+Thus, repayment can present major challenges, especially for individuals and families with little slack in their budgets. Earned Income Tax Credit (EITC) is an important safety net for low-income families, helping them afford transportation to work, school supplies, and much more. It also provides a boost after the burden of the holiday season. Millions of families depend on the assistance, often filing their taxes early in the year to obtain it right away. Thus, over-claiming APTC could place an unexpected strain on household budgets.
+
+Although enrollees will continue to gain experience with the APTC process, not everyone will be able to accurately predict their income for the upcoming year. Even with email reminders, many will still not update their online profiles when income or family circumstances change (and some information technology (IT) systems are not yet well-equipped to manage such changes). These issues may persist for some time.
+
+One solution is for enrollees to wait until tax filing to receive their credit as a lump sum. For most people, however, that would diminish their ability to afford monthly premiums. Another is to claim a partial amount of what they are eligible for at the time of application. This would build in a financial cushion: they may not get quite as much monthly assistance, but if they experience changes in their personal lives during the year, they wouldn’t end up owing as much back to the IRS. Enrollees across the country have this option available to them, but it’s not clear many chose it — based on preliminary IRS data, repayment is still a problem for many subsidized enrollees. So, is there a role for exchanges in requiring, recommending, or nudging them to claim less than the full credit?
+
+How Exchanges Can Help Minimize Repayments
+
+The District of Columbia’s exchange, known as the DC Health Benefit Exchange Authority, does exactly that. All other exchanges set the default amount of tax credits that applicants receive at 100 percent of what the exchange determines them qualified for, based on previous tax data and the applicant’s prediction for the coming year. In other words, they automatically get what they appear eligible to get. DC opted to take a different approach, lowering the default to 85 percent.
+
+Behavioral economics research demonstrates the power of defaults, a type of behavioral “nudge.” Typically, only the most motivated individuals proactively select something different from the default option. It’s a way to encourage a particular choice without being prescriptive about it.
+
+Exchanges might want to set a lower default for the following reason: if an enrollee’s income grows over the course of the year, and she had claimed less than the full tax credit amount available, she will be at lower risk for repayment to the IRS at the time of tax reconciliation the next year. If the individual’s income does not increase, then she will be eligible for a refund. In DC, a lower default seemed like a good way to encourage caution during enrollment.
+
+Results Of The DC Experiment
+
+However, something quite unexpected happened there.
+
+The vast majority of people who enrolled in subsidized plans in DC bypassed the default and actively chose something different. According to minutes from an April meeting of the Health Benefit Exchange Authority Executive Board, 86.6 percent landed somewhere above the default option, with three-quarters of subsidized enrollees claiming the full amount.
+
+As you can see from the chart above:
+
+74.5 percent of enrollees opted for the full credit
+
+of enrollees opted for the full credit 12.1 percent selected an amount somewhere between 85 percent and 100 percent of the credit
+
+selected an amount somewhere between 85 percent and 100 percent of the credit 6.6 percent took no action and kept their election at 85 percent of the credit
+
+took no action and kept their election at 85 percent of the credit 6.8 percent chose an amount below 85 percent of the credit
+
+What’s clear from this data is that most people in DC found it important to receive the full amount of tax credits they were eligible for at the time of applying for coverage. Less clear is why. Perhaps some would have found premiums to be unaffordable otherwise or did not realize the tax consequences of an increase in their income. Or maybe the nudge just wasn’t strong enough.
+
+The IRS data does not include a state-by-state breakdown of repayments, so we don’t yet know how many DC enrollees received a smaller federal refund or owed money to the federal government. Maybe all of the people who chose 100 percent were fully confident their income wouldn’t change and the average repayment in DC was very small as a result. DC’s tax dynamic might also be different due to the unique characteristics of the individual market there, with only 11 percent of enrollees eligible for financial assistance (in all other exchanges it is a majority, averaging around 80 percent).
+
+However, if the experience in DC follows the general national pattern of claiming too much up front, a firmer nudge or broadened choice architecture might be necessary. For instance, through a 1332 waiver—a provision in the ACA enabling states to craft alternative coverage frameworks—exchanges may even be able to withhold some portion of a tax credit until tax time, in order to protect enrollees from a painful repayment. But that could make it harder for many to afford their monthly premiums in the meantime.
+
+The bottom line is that exchanges face a difficult trade-off between ensuring up-front affordability for enrollees and offering an appealing enrollment experience, including protection from later financial strain. With policies such as defaults, exchanges can make it just hard enough to claim the full credit so that only those who truly need it to afford monthly premium payments opt for it. More data on tax filings in DC will show us whether the nudge had much of an impact this year.

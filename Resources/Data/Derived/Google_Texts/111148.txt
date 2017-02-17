@@ -1,0 +1,57 @@
+A man looks over the Affordable Care Act (commonly known as Obamacare) signup page on the HealthCare.gov website in New York in this October 2, 2013 photo illustration.
+
+President Barack Obama's HealthCare.gov site is riddled with security flaws that put user data of millions of people at risk and it should be shut down until fixed, several technology experts warned lawmakers on Tuesday.
+
+The testimony at a congressional hearing could increase concerns among many Americans about Obama's healthcare overhaul, popularly known as Obamacare. Opinion polls show the botched rollout of the online marketplace for health insurance policies has hurt the popularity of the effort.
+
+The website collects personal data such as names, birth dates, social security numbers, email addresses and other information that criminals could use for a variety of scams.
+
+In a rapid "yes" or "no" question-and-answer session during a Republican-sponsored hearing by the House of Representatives Science, Space and Technology Committee, Republican Representative Chris Collins of New York asked four experts about the security of the site:
+
+"Do any of you think today that the site is secure?"
+
+The answer from the experts, which included two academics and two private sector technical researchers, was a unanimous "no."
+
+"Would you recommend today that this site be shut down until it is?" asked Collins, whose party is opposed to Obamacare and has sought to capitalize on the failures of the website since it opened for enrollment on October 1.
+
+Three of the experts said "yes," while a fourth said he did not have enough information to make the call.
+
+"The privacy and security of consumers' personal information are a top priority," White House spokesman Jay Carney said after the hearing.
+
+"When consumers fill out their online marketplace applications they can trust that the information that they are providing is protected by stringent security standards."
+
+HealthCare.gov allows consumers to shop for insurance plans under Obama's Affordable Care Act, which passed in 2010 and mandated that Americans have health insurance. It also created new marketplaces to buy and sell policies.
+
+The portal has been bedeviled by technical glitches and reports of security bugs, although officials say they are making progress with repairs and that it should be accessible to the "vast majority" of consumers by November 30.
+
+"The Obama administration has a responsibility to ensure that the personal and financial data collected by the government is secure," said Representative Lamar Smith, the Texas Republican who chairs the House science panel.
+
+"Unfortunately, in their haste to launch the HealthCare.gov website, it appears the administration cut corners that leaves the site open to hackers and other online criminals," he said.
+
+CODE 'INDEFENSIBLE'
+
+The experts said the site needed to be completely rebuilt to run more efficiently, making it easier to protect. They said HealthCare.gov runs on 500 million lines of code, or 25 times the size of Facebook, one of the world's busiest sites.
+
+"When your code base is that large it's going to be indefensible," Morgan Wright, CEO of a firm known as Crowd Sourced Investigations, said in an interview after testifying at the hearing.
+
+"Do you want to defend the Great Wall of China or a very small line?"
+
+David Kennedy, head of computer security consulting firm TrustedSec LLC and a former U.S. Marine Corps cyber-intelligence analyst, gave lawmakers a 17-page report that highlights the problems with the site and warned that some of them remain live.
+
+The site lets people know invalid user names when logging in, allowing hackers to identify user IDs, according to the report, which also warns of other security bugs.
+
+Avi Rubin, director of the Information Security Institute at Johns Hopkins University and an expert on health and medical security, said he needed more data before calling for a shutdown of the site.
+
+"Bringing down the site is a very drastic response," he told Reuters after the hearing.
+
+But he would not use it because he is concerned about security bugs that have been made public, he said.
+
+In written testimony, Kennedy said it would take a minimum of seven to 12 months to fix the problems with the site shut down, given the site's complexity and size.
+
+In October, a September 27 government memorandum surfaced in which two Department of Health and Human Services officials said the security of the site had not been properly tested before it opened, creating "a high risk."
+
+HHS spokeswoman Joanne Peters said then that steps were taken to ease security concerns after the memo was written, and that consumer data was secure.
+
+Peters said on Tuesday the government has been making improvements to the site as it has learned of specific problems. In late October technicians fixed a security bug in the password reset function, she said.
+
+(Reporting by Jim Finkle in Boston and Alina Selyukh in Washington; Additional reporting by Mark Felsenthal; Editing by Ross Colvin and Grant McCool)

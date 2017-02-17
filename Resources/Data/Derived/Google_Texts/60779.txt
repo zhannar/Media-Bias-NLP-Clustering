@@ -1,0 +1,51 @@
+In this July 2, 2015 photo, asthma sufferer Elizabeth Ortiz, who uses the Asthma Health smartphone app daily to track her condition, poses for photos at her apartment, on New York's Lower East Side. Ortiz measures her lung power each day by breathing into an inexpensive plastic device and then typing the results into the app, which also asks if she’s had difficulty breathing or sleeping, or taken medication that day. (AP Photo/Richard Drew) The Associated Press
+
+By BRANDON BAILEY, AP Technology Writer
+
+SAN FRANCISCO (AP) — Jody Kearns doesn't like to spend time obsessing about her Parkinson's disease. The 56-year-old dietitian from Syracuse, New York, had to give up bicycling because the disorder affected her balance. But she still works, drives and tries to live a normal life.
+
+Yet since she enrolled in a clinical study that uses her iPhone to gather information about her condition, Kearns has been diligently taking a series of tests three times a day. She taps the phone's screen in a certain pattern, records a spoken phrase and walks a short distance while the phone's motion sensors measure her gait.
+
+"The thing with Parkinson's disease is there's not much you can do about it," she said of the nervous-system disorder, which can be managed but has no cure. "So when I heard about this, I thought, 'I can do this.'"
+
+Smartphone apps are the latest tools to emerge from the intersection of health care and Silicon Valley, where tech companies are also working on new ways of bringing patients and doctors together online, applying massive computing power to analyze DNA and even developing ingestible "smart" pills for detecting cancer.
+
+More than 75,000 people have enrolled in health studies that use specialized iPhone apps, built with software Apple Inc. developed to help turn the popular smartphone into a research tool. Once enrolled, iPhone owners use the apps to submit data on a daily basis, by answering a few survey questions or using the iPhone's built-in sensors to measure their symptoms.
+
+Scientists overseeing the studies say the apps could transform medical research by helping them collect information more frequently and from more people, across larger and more diverse regions, than they're able to reach with traditional health studies.
+
+A smartphone "is a great platform for research," said Dr. Michael McConnell, a Stanford University cardiologist, who's using an app to study heart disease. "It's one thing that people have with them every day."
+
+While the studies are in early stages, researchers also say a smartphone's microphone, motion sensors and touchscreen can take precise readings that, in some cases, may be more reliable than a doctor's observations. These can be correlated with other health or fitness data and even environmental conditions, such as smog levels, based on the phone's GPS locater.
+
+Others have had similar ideas. Google Inc. says it's developing a health-tracking wristband specifically designed for medical studies. Researchers also have tried limited studies that gather data from apps on Android phones.
+
+But if smartphones hold great promise for medical research, experts say there are issues to consider when turning vast numbers of people into walking test subjects.
+
+The most important is safeguarding privacy and the data that's collected, according to ethics experts. In addition, researchers say apps must be designed to ask questions that produce useful information, without overloading participants or making them lose interest after a few weeks. Study organizers also acknowledge that iPhone owners tend to be more affluent and not necessarily an accurate mirror of the world's population.
+
+Apple had previously created software called HealthKit for apps that track iPhone owners' health statistics and exercise habits. Senior Vice President Jeff Williams said the company wants to help scientists by creating additional software for more specialized apps, using the iPhone's capabilities and vast user base — estimated at 70 million or more in North America alone.
+
+"This is advancing research and helping to democratize medicine," Williams said in an interview.
+
+Apple launched its ResearchKit program in March with five apps to investigate Parkinson's, asthma, heart disease, diabetes and breast cancer. A sixth app was released last month to collect information for a long-term health study of gays and lesbians by the University of California, San Francisco. Williams said more are being developed.
+
+For scientists, a smartphone app is a relatively inexpensive way to reach thousands of people living in different settings and geographic areas. Traditional studies may only draw a few hundred participants, said Dr. Ray Dorsey, a University of Rochester neurologist who's leading the Parkinson's app study called mPower.
+
+"Participating in clinical studies is often a burden," he explained. "You have to live near where the study's being conducted. You have to be able to take time off work and go in for frequent assessments."
+
+Smartphones also offer the ability to collect precise readings, Dorsey added. One test in the Parkinson's study measures the speed at which participants tap their fingers in a particular sequence on the iPhone's touchscreen. Dorsey said that's more objective than a process still used in clinics, where doctors watch patients tap their fingers and assign them a numerical score.
+
+Some apps rely on participants to provide data. Elizabeth Ortiz, a 48-year-old New York nurse with asthma, measures her lung power each day by breathing into an inexpensive plastic device. She types the results into the Asthma Health app, which also asks if she's had difficulty breathing or sleeping, or taken medication that day.
+
+"I'm a Latina woman and there's a high rate of asthma in my community," said Ortiz, who said she already used her iPhone "constantly" for things like banking and email. "I figured that participating would help my family and friends, and anyone else who suffers from asthma."
+
+None of the apps test experimental drugs or surgeries. Instead, they're designed to explore such questions as how diseases develop or how sufferers respond to stress, exercise or standard treatment regimens. Stanford's McConnell said he also wants to study the effect of giving participants feedback on their progress, or reminders about exercise and medication.
+
+In the future, researchers might be able to incorporate data from participants' hospital records, said McConnell. But first, he added, they must build a track record of safeguarding data they collect. "We need to get to the stage where we've passed the privacy test and made sure that people feel comfortable with this."
+
+Toward that end, the enrollment process for each app requires participants to read an explanation of how their information will be used, before giving formal consent. The studies all promise to meet federal health confidentiality rules and remove identifying information from other data that's collected. Apple says it won't have access to any data or use it for commercial purposes.
+
+Some studies will always require in-person interaction or supervision by a doctor, experts say. But by reaching more people and gathering more data, advocates say smartphone apps can help doctors answer more subtle questions about a disease.
+
+"Diseases like asthma are very complicated. They're not caused by a single gene or environmental influence," said Eric Schadt, a genomics professor who's using an iPhone app to study asthma at New York's Icahn School of Medicine at Mount Sinai. "The only hope you have of really going further in resolving this disease is for researchers to get to more people."

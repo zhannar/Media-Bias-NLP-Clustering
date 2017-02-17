@@ -1,0 +1,129 @@
+Editor's Note: In this segment of Medscape One-on-One, Editor-in-Chief Eric J. Topol, MD, talks with Anne E. Wojcicki, co-founder and CEO of 23andMe, about her desire to shake up the practice of medicine by using patients' genetic data to enhance preventive care and disease treatment. Although the US Food and Drug Administration (FDA) ordered 23andMe to stop marketing its $99 genetic screening tests to consumers last November, Ms. Wojcicki, a Yale-educated biologist, says her company is pressing on with its mission, having already genetically screened some 650,000 people, including Dr. Topol.
+
+Taking Biology to Wall Street
+
+Eric J. Topol, MD: Hello. I'm Eric Topol, and this is Medscape One-on-One. As we continue our series on some of the most interesting people in the world of medicine, I am thrilled to speak with Anne Wojcicki from 23andMe, who has done a lot to try to shake up the world of medicine and healthcare. It's great to have you with us. Let's start with some of your background. You went to college at Yale. After that you went into Wall Street?
+
+Anne E. Wojcicki: I grew up on the Stanford campus [Editor's note: Ms. Wojcicki's father, Stanley Wojcicki, is a physicist and professor emeritus at Stanford University] and went to Yale for undergraduate education. I was a biology major, and very haphazardly I got an introduction to a Wall Street firm. I was investing in healthcare companies for 10 years.
+
+Dr. Topol: What was the big lesson out of that decade for you?
+
+Ms. Wojcicki: In the beginning, I loved it because there was all this innovation. My first investment, ironically, was Affymetrix, a genome company. There was this amazing spirit of innovation. Then the bubble burst in 2000 and a lot of innovation dried up. I started to understand more about how the healthcare system worked and to realize that there are all of these great people in the system, but the system was encouraging a type of healthcare that I didn't want.
+
+Primarily, if I think of what I really want, I want to be healthy at 100 and I don't want to take any medications. But you are part of a healthcare system where, if you are diabetic, many people can make money, and if you never become diabetic, no one makes money. I just felt that the system wasn't getting to the issues that I wanted, which were prevention and wellness.
+
+Dr. Topol: You got to that sense with a lot of experience from another perspective -- not from the inside but from the outside. How did you go from that to the idea of starting a consumer genomics company?
+
+Involving the Consumer
+
+Ms. Wojcicki: Every year I would see these glossy brochures that talked about personalized medicine. Everyone had these great quotes about how personalized medicine is coming and the genome project was done, but it wasn't actually happening. More and more I realized that the consumer -- you, the individual -- can never make choices; everyone is making choices for you. I was doing research on, ironically, Affymetrix and Illumina, so I started and ended my career with that. I remember talking to Steven McCarroll at the Broad Institute, and he was like a kid in a candy store, saying, "It's the most exciting time. We are finally getting whole genetic data and it's inexpensive and reliable. It's going to change the world." I kept thinking, if you are going to change the world and usher in personalized medicine, and understand the risks and what you are at risk for, and what you are not at risk for, you have to get the consumer involved.
+
+After those discussions I started to realize that there was the potential for marrying inexpensive genetics with the Livestrong/Susan G. Komen kind of enthusiasm and what was happening on YouTube and Facebook. So I put together this community to help people access their genetic data and make it really fun for them. We wanted to do research that involved everyone, [allowing them to contribute their own] information.
+
+Dr. Topol: This was back in 2006, when you founded the company?
+
+Ms. Wojcicki: Correct.
+
+Dr. Topol: There were some really weak entries in this space already, such as "send in your hair and we will tell you who your daddy is" or what vitamins you should take. You came in with a really legitimate idea: You wanted to advance science and do research. Were you worried at all that you were flanked by these very shaky consumer companies?
+
+Ms. Wojcicki: Yes. The first year, we did a lot of research and we actually visited a physician at one of those companies. She told me that if I was genotyped and took her vitamins, then it would change my DNA. I kept asking her to send me the literature about how this would change my DNA. Obviously, I never got those reports; I think I asked too many questions.
+
+I was definitely worried about this level of "let's tell you about your diet." Everybody wants to know the diets specific for their genetics, or how to lose weight. Those things would make a ton of money, but we don't have that science yet.
+
+We didn't have a marketing team in the beginning, and we were really focused on how to partner with the best scientists and to really do things right. After 5 years I felt like we hit nirvana when Muin Khoury [founding director of the CDC's Office of Public Health Genomics] tweeted one of our papers. It was like one of my greatest critics actually looked at us and said that we did something good. We really focused on the science, but those shady companies did worry us.
+
+Affordable Genomics
+
+Dr. Topol: You have published as a group in many major peer-reviewed journals on various topics -- Parkinson's, the photic reflex of sneezing when you look at the sun, and the BRCA gene and the experience of women who find out that they have BRCA-positive mutations. You have taken the high road of trying to do first-rate research and go through the usual peer-review process, which is a little unusual for a consumer genomics company.
+
+Back in 2007, when you launched -- I think it was November 2007 -- the cost [of personal genome sequencing] was $999. Over time, it went down to $99. During that span of time, what did you learn from the consumer-based market?
+
+Ms. Wojcicki: First and foremost, we had a great science team that was part of the founding team. It was obvious to all of us why you should want your genetic information. What we learned is that it's not obvious to the consumer why they should want their genetic information. We were dubbed the "recreational genomics company" because we talked about asparagus in your urine or the photic sneeze reflex, but the reason we did that was because those are things that people can latch on to. If I go to a dinner party and talk about a Parkinson's paper and the single-nucleotide polymorphisms that we found and the associations with Parkinson's, people aren't going to talk about that for more than a couple minutes.
+
+Dr. Topol: Right.
+
+Ms. Wojcicki: But if I ask whether people can smell the asparagus in their urine, 45 minutes later people might still be reeling from this information. It got people interested in genetics, and that is what is most important about what we are trying to do: Just get people interested in this because there is a revolution coming.
+
+The more that we can just get people to understand what it means, that it's not [science fiction]... And we need to spur all of these ethical, legal, and social debates about how to use this information. It is really just about getting the public aware of it.
+
+Dr. Topol: You had the price at a very affordable rate. It was the ultimate bargain. When, for $99, you can get 30 pharmacogenomic tests, which would cost a few hundred dollars to send each of them out separately, that's pretty remarkable. Then you threw in all the other stuff. It isn't easy to get pharmacogenomic testing, as well as carrier testing, ancestry, disease susceptibility, and all that. Then things really took off. You got a half a million people?
+
+The Quest for Huge Numbers
+
+Ms. Wojcicki: [We have] 650,000 now. We are by far the largest. It is phenomenal. When you look at some of our papers, and we say that we had 40,000 people with asthma, and 150,000 controls, our numbers are genuinely huge. My inspiration was my father. He's a particle physicist, and they collect really big data. He used to laugh at clinical trials. He would say, "Three hundred people -- what is this?" So my goal was always to get huge numbers to really understand how things work. The price point has dramatically dropped, and that has really spurred the volume.
+
+When we put the initiative out, we made a conscious decision to say that we are going for growth and that the best thing we can do is get to a million people. We can always introduce a full-sequencing product later, but the best thing that is going to really help research move forward and help us understand genetics is to have a big database. We had massive growth last year.
+
+Dr. Topol: When each person signs on to get their data, do they automatically become a research subject? What does it mean when you click on "I want to participate"?
+
+Ms. Wojcicki: Yes, 85%-90% of our customers consent to an IRB-approved research protocol. That means that they have the ability to take surveys, and we might target surveys to them that we might publish, or we might partner with other groups to do that research. You always have the ability to decide whether you want to participate in that kind of research, because I can't do the research until you give me the information.
+
+For instance, if I asked you to be a healthy control for Parkinson's, you could decide whether you want to do that. We have had more controversial surveys such as sexual orientation. You can decide whether you want to take that survey. We can't use your data unless you give it to us. You are able to decide for yourself what research you want to participate in, but we are getting huge numbers. When we announce to our community that we want people to take a survey, we can easily get tens of thousands of people to very quickly take it.
+
+Putting Noses Out of Joint
+
+Dr. Topol: That's impressive. Things got a little stormy in the latter half of 2013. I remember seeing you on the cover of Fast Company , and it mentioned the $99 test that could save your life. I'm sure you didn't get a picture of the cover before it went out. What were your thoughts when you saw that?
+
+Ms. Wojcicki: It was a great article. I'm relatively "head down," just getting the work done, so it's great when we have articles and press that come out. It drives awareness and a lot of people email me. I have a ton of friends who took pictures and sent them to me, and that is how I found out it was out there and that people were reading it. For the most part, I don't read a lot of my own press. I get a lot of input, but I want to work.
+
+Dr. Topol: It's a polarizing issue and it's tricky, right?
+
+Ms. Wojcicki: Yes.
+
+Dr. Topol: Some people think this is really great and that people are entitled to their DNA. Other people think this is wacko stuff, right?
+
+Ms. Wojcicki: Right, and there are many examples in medicine where this has been an issue. There was a JAMA study[1] in 1961 where they surveyed physicians, and 90% said they would not tell their patient about a cancer diagnosis. The physician-patient interaction has changed a lot in the past 50 years. I remember when I was on Wall Street and WebMD and Medscape came out. It was wildly controversial. Physicians hated patients coming in with these printouts, saying, "How do you have the authority to come in and tell me about this disease?" But now it's accepted -- it's the norm.
+
+Dr. Topol: Why is it that the American Medical Association and the FDA and various other regulatory factions don't think that people are entitled to see their own DNA results without having to go through a physician who may be totally uninitiated?
+
+Ms. Wojcicki: That is one of the issues. We find that a lot of physicians are not educated yet about genetics. We try to work more with genetic counselors. More and more, you don't necessarily have so many in-person meetings. You can do things through video and through chat, so do I have to go to my physician all the time? Why can't we adopt more modern technology? We are at a true inflection point in this. What is unusual about 23andMe is that it is one test and it gives you a ton of data. The traditional system is 1 test and 1 report. Someone at the company recently had a similar test. It was reimbursed through insurance, and the insurance company paid $1400 for 9 tests, all of which are on the 23andMe test. The healthcare system just wasted $1400 because ours costs only $99 for the same thing.
+
+It's getting the system to change and understand that you are going to get a ton of information. It's not necessarily information that you are looking for right now. How do you incorporate that into preventive care? That's why we have these stories about individuals who find that they are carriers for factor V deficiency and at high risk for blood clots. They don't know how to use the information right away, but then they are in the hospital and they have something serious and it's really important. Having that information becomes really valuable.
+
+Putting Consumers in the Driver's Seat
+
+Dr. Topol: That clearly represents a challenge to the current system -- the hundreds of thousands of genotypes and hundreds of actual results for an individual. How do you get around this challenge? How do you ultimately get us to the reset point where this is accepted and we can move forward?
+
+Ms. Wojcicki: Part of the strategy originally with the million-person initiative was to get that many people because a million people walking around the country and into their physicians' offices becomes disruptive in the right way. That was our goal. I don't want to wait around for 10 years for personalized medicine. I want to see it ushered in sooner. Look at how YouTube changed media. Five years ago, no big media companies wanted to put their content online, but it was consumer demand and the fact that consumers actually created a competitive pressure for it. How can consumers do something similar in this case and how can they start to drive and say, "We want this information"? We are going to bring personalized medicine to the forefront now.
+
+Dr. Topol: This is tough, because there doesn't seem to be enough respect for consumers. If you want to get your genome sequenced through Illumina, you need a doctor's prescription. Some of your competitors have basically bowed and said, "Okay, we'll go with the doctor prescription mode." That isn't where we are headed. That's not democratization of medicine, is it?
+
+Ms. Wojcicki: No, because not everybody has a physician, and it's more expensive. Someone has to walk in, pay the physician, and go through the traditional system. We are essentially trying to make healthcare information accessible and affordable. Robert Green had an article in Nature[2] that talked about what people did with this information. Overwhelmingly, people who got this information went to their doctors. So they want a community. They want help understanding it. They want either genetic counseling or physician involvement, but does it have to be the bottleneck of the physician? The US Department of Health and Human Services (HHS) has come out with a ruling that lab results can go directly back to the consumer now.
+
+Dr. Topol: That was a big one.
+
+Ms. Wojcicki: It is fascinating, because everything I see the Obama administration doing is pushing individuals to take more control of their health.
+
+Dr. Topol: The problem with the new HHS rule is that it doesn't give a time limit or say that it has to [take effect] immediately. It doesn't [specify whether] it applies to an individual's blood sample or a sample of saliva. It's a step in the right direction, though.
+
+Who Owns Your DNA?
+
+Ms. Wojcicki: Consumers need to understand that they own their information. When I was pregnant and had an amniocentesis, I went to Stanford and said, "I want my cells." It was the first time that anyone had ever requested their amniotic cells, but I wanted to genotype them and I wanted to have control over where they were going. Obviously, that is not the norm. More people are demanding their medical records and saying they want to know where their tumor is going, and taking control because that information is really valuable to them. They might want other people to look at it.
+
+Dr. Topol: Did you think that because you were trying to change this world and catalyze where we are ultimately going [in medicine] that you would wind up getting beaten up by the regulatory authorities? Is that happening because you are challenging the current system, which is not really [consumer-driven]?
+
+Ms. Wojcicki: There is definitely a sense of that. We are a square peg in a round hole, and we said in 2010 at an FDA hearing that we don't really fit. The FDA obviously recognizes it. They recognize that full genome information is coming and there has to be a path for this. And they have to figure out what that path is going to be. We have to adopt new technologies for healthcare. Physicians can be online. I email my Kaiser doctor if I have a mole that I want seen. I don't go in; I take a picture and send it to them.
+
+Dr. Topol: Do you think that this will get on track soon? Do you think we will finally get to where we need to be to get the whole public truly engaged? It isn't just about their DNA; it's about their sensor data, their imaging data, all of their health information. They are the rightful owners of their own body's information. Do you think it's going to take a long time, or do you think we might get there imminently?
+
+Ms. Wojcicki: Realistically it will take some work, but hopefully not that long. The reality is that if the United States is going to spend a lot of time trying to make this happen, we are going to fall dramatically behind other countries. You can already see what the Beijing Genomics Institute is doing. It is the largest in the world. They have massive interest in getting everybody genotyped or sequenced. Saudi Arabia announced plans [to genotype] 100,000 individuals. The United Kingdom is doing 100,000; Scotland has a big program. The rest of the world is moving forward aggressively with this, but we are somewhat stuck. It's going to happen, and overwhelmingly it is going to improve healthcare. So how do we do that?
+
+Don't Sit on Piles of Data
+
+Dr. Topol: We need the consumers fully activated to get where we want to be. The other hit has been the fear that you will publish research and that you will sell all of that data -- that you will get data from millions of people and then sell it to the pharma companies. That is another critique. How do you respond to that one?
+
+Ms. Wojcicki: The way I run the company is to think about if I were sick with a disease; what would I want to happen? If you have a child with sarcoma, you don't care whether Pfizer or Glaxo or Hopkins or Harvard gets the data. You just want someone to do something with the data. Rather than saying that we are going to monetize and do all of these things, I point the finger at all of the pharma companies and groups who are just sitting on frozen piles of data because they don't want to do anything with it yet. I want everybody to start to use the data to do something good. Otherwise, for this child with sarcoma, what's going to happen?
+
+Dr. Topol: We are not talking about identified data and the drug companies finding your genetic information on your Facebook page. That's not exactly what you had in mind.
+
+Ms. Wojcicki: No, that is not the purpose. The question is, how do you use this for targeted identification? For example, for the young girl who came in healthy but was homozygous for the PCSK9 mutation and had very low LDL levels. We all have loss-of-function mutations -- that's kind of the long tail of humanity.
+
+Dr. Topol: When you have a million or even 10 million people, and you can find these rare variants that a lot of other people can't find, that's an exciting opportunity. We are going to watch this and follow along with you.
+
+Ms. Wojcicki: That is definitely the direction in which we are going.
+
+Dr. Topol: That's fantastic. You have been bold. We all have learned how hard it is to change a system that is so entrenched, but it's likely that you are going to be quite successful. Thanks so much for joining us.
+
+Ms. Wojcicki: Thank you, Eric.
+
+Dr. Topol: This has been another [interview] in our series on the most interesting people in the world of medicine. We are pleased to have you join us for this Medscape One-on-One. Thank you.

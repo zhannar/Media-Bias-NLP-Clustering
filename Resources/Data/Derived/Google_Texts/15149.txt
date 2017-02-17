@@ -1,0 +1,13 @@
+Amazon.com Inc. is said to have acquired data-migration startup Amiato last year, giving the online retailer the brains behind a technology that makes it easier to pour data into Amazon’s cloud services.
+
+Amazon bought Amiato for the skills of its employees, according to a person familiar with the matter who wasn’t authorized to speak publicly about the deal. Terms weren’t disclosed.
+
+The Palo Alto-based startup specialized in taking data from a variety of modern databases and migrating it into Amazon’s online archiving service named Redshift. The company had received $2 million in funding from Data Collective, Andreessen Horowitz, Ignition Partners and others.
+
+Amazon doesn’t acquire many companies for its Amazon Web Services cloud division, instead investing heavily in internal research and development. Acquisition targets typically are small companies that fill a particular niche, such as 2lemetry, an Internet-of-Things firm Amazon purchased last month, and Israeli semiconductor startup Annapurna Labs, which the online retailer agreed to buy in January.
+
+One use of Amiato’s technology is to take data kept in modern databases, such as MongoDB, and load it into Amazon’s Redshift. Amiato employees have subsequently gone to work in Amazon’s database and Redshift product groups, according to posts on LinkedIn.
+
+Spokeswomen for Seattle-based Amazon didn’t respond to requests for comment on the deal.
+
+Amazon introduced its first set of Web-services products almost 10 years ago. The business division in which Web-services sales are logged brought in $1.67 billion in sales in the company’s most recent quarter. Amazon will start breaking out its Web-services unit as its own line item later this month when it reports its next quarterly earnings.

@@ -1,0 +1,11 @@
+Earlier this week, we wrote in detail about the 3D printed self assembling robot which was created by MIT researchers. Over the next decade or so, 3D printing will certainly be an integral part of our everyday lives. Probably the biggest boost for the technology will be when desktop, consumer based 3D printers can print electronics within an object. There are already several ideas being worked on, and circuitry has already been 3D printed within objects. However, much still needs to be accomplished within the field before we begin seeing affordable desktop electronic printers.
+
+Having said this, Harvard researchers, ByungHyun Shin, Samuel M. Felton, Michael T. Tolley, and Robert J. Wood seem to have made significant progress recently. This year at the IEEE International Conference on Robotics and Automation (ICRA), they presented a proof-of-concept 3D printed, self assembling lamp. As you can see in the video below, the lamp folds up and assembles by itelf within seconds.
+
+What’s most impressive here, is the fact that nearly the entire lamp has been printed out on a 3D printer. This includes the self-folding shape memory polymers, triggered by heat, as well as the material of the lamp itself, a mechanical switch, and even the capacitive touch sensors. Pretty much the only parts which were not printed intact are the LED components, and the Arduino board which is the intermediary between the sensors and the LED.
+
+The touch sensors can sense applied force, and are able to turn the LED on or off, as well as dim or brighten it. The mechanical switch opens and closes the printed electrical contacts by twisting. What the team at Harvard has demonstated, is key for the progression of 3D printed self folding, electronics. The fact that they were able to integrate more complicated mechanisms like that of the mechanical switch in this lamp, is astep above simply 3D printing circuitry. The future of such technology may lead to rapid prototyping of electronic devices, as well as customized 3D printed electronics from home.
+
+What do you think about this 3D printed lamp? Will this type of manufacturing eventually progress enough to allow for the 3D printing of complicated electronic devices? Discuss this story at the 3DPB.com forum for this self-assembling lamp.
+
+[Source: IEEE.org

@@ -1,0 +1,19 @@
+A recent investigation by the Associated Press revealed that HealthCare.gov, the website that asks you to give them your medical and personal history in exchange for health insurance you are legally obligated to have, is sending that information to third party companies to do god knows what with it.
+
+As the AP reports, the data — which includes things like “age, income, ZIP code, whether a person smokes, and if a person is pregnant…a computer’s Internet address, which can identify a person’s name or address” — is being sent to third party firms specializing in selling data to marketing and advertising firms, and you probably didn’t know about it.
+
+And according to the report, the information gets rather specific:
+
+Tracking consumers’ Internet searches is a lucrative business, helping Google, Facebook and others tailor ads to customers’ interests. Because your computer and mobile devices can be assigned an individual signature, profiles of Internet users can be pieced together, generating lists that have commercial value. Third-party sites embedded on HealthCare.gov can’t see your name, birth date or Social Security number. But they may be able to correlate the fact that your computer accessed the government website with your other Internet activities. Have you been researching a chronic illness like coronary artery blockage? Do you shop online for smoking-cessation aids? Are you investigating genetic markers for a certain type of breast cancer? Are you seeking help for financial problems, or for an addiction?
+
+While HHS officials claim that these outside firms are barred from using “personally identifiable information,” the fact that this information is out there is alarming to the experts tapped by the AP. “Personally, I look at this … and I don’t know what is going on between the government and Facebook, and Google, and Twitter,” said Mehdi Daoudi, CEO of Catchpoint Systems, who discovered at least 50 third-party connections embedded on the website. “Why is that there?”
+
+Read the rest of the report below.
+
+[AP]
+
+[Image via screenshot]
+
+—
+
+>> Follow Tina Nguyen (@Tina_Nguyen) on Twitter

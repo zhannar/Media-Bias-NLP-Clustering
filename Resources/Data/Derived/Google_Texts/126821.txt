@@ -1,0 +1,15 @@
+Saturday, November 1, 2014
+
+Cisco Systems, Inc. v. C-Cation Technologies, LLC
+
+In a decision issued by the Patent Trial and Appeal Board (PTAB or Board), the Board denied institution of inter partes review (IPR) of several challenged claims of the patent at issue, determining that the information provided in the petition itself did not demonstrate a reasonable likelihood that the petitioner would prevail. Cisco Systems, Inc. v. C-Cation Technologies, LLC, Case No. IPR2014-00454 (PTAB, Aug. 29, 2014) (Droesch, APJ).
+
+The patent at issue generally relates to two-way communication services on a multiple access communication system. The system in question is comprised of a central controller, a shared transmission media and multiple remote terminals dispersed throughout a network.
+
+In its petition, the petitioner contended that 20 separate claims were unpatentable under 35 U.S.C. §§ 102 and 103. In making its arguments, the petitioner utilized numerous footnotes to cite back to its expert declaration. In examining the petition, the PTAB first looked to the propriety of the petitioner’s use of these footnotes.
+
+The PTAB noted that the petitioner was using footnotes as a way to cite large portions of the declaration into its petition. For one particular limitation, the petition footnote cited to a paragraph of the expert declaration that consisted of nearly five pages, four pages of which were a claim chart. The petition further cited to the declaration in order to support conclusory statements for which the petition did not otherwise provide an argument or explanation. Ultimately, the PTAB determined that the petitioner’s use of footnotes amounted to incorporation by reference. In denying the request to institute inter partes review, the PTAB explained that it is improper to incorporate by reference arguments from one document to another. Such practices are prohibited because incorporation by reference “amounts to a self-help increase in the length of the brief, and is a pointless imposition on the court’s time.” The PTAB noted that the petitioner’s incorporation by reference of numerous arguments served “to circumvent the page limits imposed on petitions” and “impos[es] on our time by asking us to sift through over 250 pages of [the expert declaration] to locate specific arguments corresponding to the numerous paragraphs cited to support Petitioner’s assertions.” As such, the PTAB determined that it would not consider arguments that were not made in the petition, but were rather incorporated by reference.
+
+The PTAB denied the request to institute, finding that without the incorporation by reference, and because the petition did not include a detailed explanation of the significance of the evidence cited, the petitioner did not demonstrate a reasonable likelihood that it would prevail.
+
+Practice Note: Use footnotes strategically and sparingly.

@@ -1,0 +1,29 @@
+Saturday, August 15, 2015
+
+The Corporate & Financial Weekly Digest edition of October 17, 2014, discussed the Small Business, Enterprise and Employment Act 2015 (SBEE) and the potential impact the proposed transparency provisions will have on UK corporate structures and limited liability partnerships and the potential impact these rules will have on UK Crown Dependencies and Overseas Territories. The SBEE received Royal Assent on March 26 and certain provisions have come into force while other provisions remain the subject of further consultation and draft regulations.
+
+Notably, two months following Royal Assent, the SBEE’s prohibitions on bearer shares came into effect. While previously the Department for Business, Innovation and Skills (BIS) had intended on applying the prohibition on corporate directors as of October 2015, they have since announced a postponement until April 2016, pending the outcome of a consultation that closed on April 27.
+
+One of the more important changes contained in the SBEE relates to the new obligation for companies to keep and maintain a register (Register) of people with significant control (PSC) over the company (PSC Register), which applies from January 2016, and the PSC Register must then be provided to Companies House from April 2016, when companies deliver their annual confirmation statement. Once provided to Companies House, the information will be publicly searchable unless a waiver can be obtained under the SBEE’s protection regime.
+
+The initial step for a company is to determine whether an individual or entity is a PSC, and the consultation helpfully explains that a PSC is any person who satisfies one or more of the following conditions:
+
+directly or indirectly owns more than 25 percent of the shares in the company;
+
+directly or indirectly holds more than 25 percent of the voting rights in the company;
+
+directly or indirectly has the power to appoint or remove the majority of the board of directors of the company;
+
+otherwise has the right to exercise significant influence or control over the company; or
+
+has the right to exercise or actually exercises significant influence or control over a trust or firm that is not a legal entity, which in turn satisfies any of the first four conditions over the company.
+
+Entities that satisfy at least one of the conditions above and are either (1) a DTR 5 issuer or (2) are required to hold a PSC Register itself, are referred to in the SBEE as a “relevant legal entity.”
+
+Once a PSC is identified, the next step is to determine whether the PSC is registrable or non-registrable. If the ownership structure involves a chain of companies that are relevant legal entities, then only the first company in the chain is registrable and all of the other companies further up the chain are non-registrable from the perspective of the relevant company. That is because each of the successive corporate owners has a similar obligation and will maintain its own register. A chain of companies exists for the purposes of the SBEE only if each company in the chain holds a “majority stake” in the entity immediately below it in the chain. A “majority stake” is defined in the SBEE and generally applies the same tests as set out above in determining whether a person is a PSC.
+
+The BIS also recently closed a consultation that sought views on (1) the type of information required for the PSC Register, (2) the protection, (3) exemptions, (4) sanctions and penalties, and (5) fees chargeable by a company to provide copies of a Register entry. The BIS is holding additional consultations to seek views on how the PSC Register should apply to LLPs and how foreign limited partnerships should be treated if they own or control a UK company.
+
+Companies should expect detailed guidance on the PSC Register from the BIS to be published this autumn.
+
+There are further potential changes to the PSC Register due to the Fourth EU Money Laundering Directive (MLD), which came into force on June 24 and must be implemented by member states by June 26, 2017, which also requires disclosures regarding beneficial owners. Similar to the PSC Register, the MLD requires legal entities to obtain and maintain accurate information on their beneficial owners, and must provide that information to a central register. However, the MLD is broader in scope and until the MLD is transposed into local law there remains some uncertainty of what changes, if any, will be required to a company’s disclosure obligations.

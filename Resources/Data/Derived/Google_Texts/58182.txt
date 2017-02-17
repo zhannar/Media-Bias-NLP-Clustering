@@ -1,0 +1,25 @@
+Wednesday, December 24, 2014
+
+In a divided 5-to-4 opinion, the U.S. Supreme Court has held that defendants seeking to remove a case to federal court under the Class Action Fairness Act (“CAFA”) need only allege in the notice of removal an amount in controversy in excess of the $5 million threshold and need not attach evidence to the notice of removal proving the amount in controversy. Dart Cherokee Basin Operating Co., LLC v. Owens, No. 13-719 (Dec. 15, 2014).
+
+Reversing the Tenth Circuit Court of Appeals’ decision, the majority opinion (authored by Justice Ruth Bader Ginsburg and joined by Chief Justice John Roberts and Justices Stephen Breyer, Samuel Alito, and Sonia Sotomayor) held that a notice of removal need not contain evidentiary submissions because the plain language of the removal statute itself requires only a “short and plain statement of the grounds for removal.”
+
+Background
+
+In the case below, the plaintiff, Brandon Owens, had filed a putative class action in Kansas state court alleging that defendants Dart Cherokee Basin Operating Company, LLC and Cherokee Basin Pipeline, LLC underpaid royalties they owed to Owens and the putative class members under oil and gas leases. The complaint failed to plead a specific amount of damages, seeking only “a fair and reasonable amount” of damages on behalf of Owens and the putative class members.
+
+The defendants removed the case to the U.S. District Court for the District of Kansas under CAFA. In their notice of removal, the defendants alleged that the purported underpayments to the putative class members totaled more than $8.2 million, but defendants did not attach to their notice of removal any evidence to support the alleged amount in controversy. The plaintiff moved to remand the case, alleging that the defendants’ notice of removal was deficient because it failed to include evidence proving the amount in controversy exceeded the $5 million threshold under CAFA. The District Court granted the plaintiff’s motion to remand. A divided Tenth Circuit Court of Appeals subsequently denied defendants’ petition for review and petition for en banc review.
+
+Supreme Court Decision
+
+In the majority opinion, the Supreme Court noted the federal statute setting forth the requirements for a notice of removal (28 U.S.C. § 1446(a)) requires only that the notice contain “a short and plain statement of the grounds for removal.” The majority went on to note that, “[b]y design, § 1446(a) tracks the general pleading requirement stated in Rule 8(a) of the Federal Rules of Civil Procedure” and that the legislative history of § 1446(a) indicates the statute was intended to “simplify the pleading requirements for removal and . . . clarify that courts should apply the same liberal rules [to removal allegations] that are applied to other matters of pleading.”
+
+The majority went on to explain that “when a defendant seeks federal-court adjudication, the defendant’s amount-in-controversy allegation should be accepted when not contested by the plaintiff or questioned by the court.” When the plaintiff does contest the defendant’s amount-in-controversy allegation, the majority held, “both sides submit proof and the court decides, by a preponderance of the evidence, whether the amount-in-controversy requirement has been satisfied.” The majority concluded by stating that a notice of removal need only include “a plausible allegation” that the amount in controversy is met, and evidence to establish the amount in controversy is required only when the amount in controversy is contested by the plaintiff or questioned by the court.
+
+Dissenting Opinion
+
+Justice Antonin Scalia’s dissent (which was joined by Justices Anthony Kennedy and Elena Kagan, and joined in part by Justice Clarence Thomas) did not focus on the underlying question regarding the requirements for removal under CAFA. The dissent questioned whether the Supreme Court could even address the substantive issue in light of certain procedural and jurisdictional questions, and does not call into question the reasoning of the majority’s substantive holding.
+
+***
+
+The majority’s opinion resolves a prior split among circuit courts regarding a defendant’s burden when removing a case under CAFA. The law is now settled that a removing defendant need only make a good faith allegation in the notice of removal regarding the amount in controversy in order to meet its burden on removal. Only if the amount in controversy is challenged must a defendant offer evidence. Moreover, the majority made it clear that there is no presumption against removal jurisdiction in cases removed under CAFA, rejecting an argument often made by the plaintiffs contesting removal under CAFA.

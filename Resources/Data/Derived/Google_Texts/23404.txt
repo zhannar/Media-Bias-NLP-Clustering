@@ -1,0 +1,13 @@
+BitTorrent Inc. is shifting the emphasis of its business to BitTorrent Sync, a transformative file-sharing service that boasts NSA resistance.
+
+Last year, Belarussian Konstantin Lissounov threw together a crude version of Sync at a BitTorrent hackathon. It allowed him to “quickly and easily send encrypted photos of his three children across dodgy Eastern European network lines to the rest of his family.” Now, the peer-to-peer file synchronization tool boasts two million users a month and is developing into BitTorrent's primary product. Wired shines some light on the motivation for the move around:
+
+A big part of the commercial opportunity for the tool, BitTorrent executives believe, lies in the reality that large corporations are aggressively reining in data following Snowden’s revelations.
+
+Like Dropbox, BitTorrent Sync enables easy transfer of music, documents, and other files. But Sync's decentralized structure distinguishes it. Sync replaces data-storage centers, which the NSA can easily tap, with a peer-to-peer network. Like the BitTorrent protocol, users can share files directly, from one device to another. This leaves absolutely no opportunity for an agency like the NSA to harvest bulk data, because it cannot penetrate a central server. This method of file-sharing is somewhat less convenient because, Wired explains, “in order to synchronize files across multiple systems, all must be online at the same time.” But CEO Eric Klinker believes that the pros outweigh the cons for many consumers.
+
+Sync has also been used as a platform for other exciting projects. Wired reports:
+
+Two open source programmers, one in Texas and one in South Africa, have launched vole.cc, a distributed social network built on Sync. Last month, an engineer who works for Harvard University unveiled SyncNet, a parallel version of the world wide web that runs on Sync.
+
+Decentralized technologies are stirring a productive excitement. Bitcoin, the cryptocurrency, similarly relies on a peer-to-peer protocol. Projects like BitCloud, which aims to “decentralize the internet,” are popping up. The sharing economy is nurturing disruptive technologies that grant increased privacy, cheaper access, and a decentralized protocol. The “Dropbox killer” is embedded in that trend.

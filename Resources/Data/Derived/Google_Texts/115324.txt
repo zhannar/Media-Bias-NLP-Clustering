@@ -1,0 +1,17 @@
+Researchers have uncovered software available on the Internet designed to overload the struggling Healthcare.gov website with more traffic than it can handle.
+
+"ObamaCare is an affront to the Constitutional rights of the people," a screenshot from the tool, which was acquired by researchers at Arbor Networks, declares. "We HAVE the right to CIVIL disobedience!"
+
+In a blog post published Thursday, Arbor researcher Marc Eisenbarth said there's no evidence Healthcare.gov has been subjected to any significant denial-of-service attacks since going live last month. He also said the limited request rate, the lack of significant distribution, and other features of the tool's underlying code made it unlikely that it could play a significant role in taking down the site. The tool is designed to put a strain on the site by repeatedly alternating requests to the https://www.healthcare.gov and https:www.healthcare.gov/contact-us addresses. If enough requests are made over a short period of time, it can overload some of the "layer 7" applications that the site relies on to make timely responses.
+
+The screenshot below shows some of the inner workings of the unnamed tool.
+
+The tool fits a pattern seen in the previous years of hacktivist software available for download that's customized to take on a specific cause or support a particular ideology.
+
+"ASERT has seen site specific denial of service tools in the past related to topics of social or political interest," Eisenbarth wrote, referring to the Arbor Security Engineering and Response Team. "This application continues a trend ASERT is seeing with denial of service attacks being used as a means of retaliation against a policy, legal rulings or government actions."
+
+The full text of the screenshot reads:
+
+Destroy Obama Care. This program continually displays alternate page of the ObamaCare website. It has no virus, trojans, worms, or cookies. The purpose is to overload the ObamaCare website, to deny service to users and perhaps overload and crash the system. You can open as many copies of the program as you want. Each copy opens multiple links to the site. ObamaCare is an affront to the Constitutional rights of the people. We HAVE the right to CIVIL disobedience!
+
+Of course, there's no way of knowing who wrote and posted the tool, which has been mentioned on social media sites. It's certainly possible that it's the work of critics of President Obama's healthcare legislation. But until we learn more, there's no way to rule out the possibility that it was developed by an Obamacare supporter with the hope of discrediting critics.

@@ -1,0 +1,27 @@
+Fraudsters have started dropping devices into ATMs that can steal data off chip-enabled credit or debit cards.
+
+The discovery of these tools in a number of ATMs throughout Mexico is likely to raise questions about the security of chip-enabled cards, which are seen as a safer alternative to the vulnerable magnetic-strip cards still widely used in the U.S.
+
+ADVERTISEMENT
+
+Security journalist and researcher Brian Krebs first reported the discovery.
+
+These devices, known as “shimmers,” lie between the chip on the card and the ATM’s chip reader. They then lift the chip’s data as it is read by the ATM. The shimmer can apparently be slipped straight into a typical ATM.
+
+The push for chip-enabled cards in the U.S. began in earnest in early 2014 following massive data breaches at Target and Home Depot.
+
+In both instances, hackers lifted tens of millions of people’s payment card information from the terminals where shoppers swipe their cards.
+
+The U.S. lags behind much of the world in payment card technology.
+
+Most developed countries have switched to chip-and-PIN or chip-and-signature technology. In both instances, the chip helps lock down payment card data during purchases. The signature or PIN then serves as a second form of verification. Security specialists have pushed for a move to chip-and-PIN because signatures can be forged.
+
+Most European countries that have moved to chip-and-PIN have seen enormous drops in in-store credit card fraud.
+
+But the revelation that chip-enabled cards are not necessarily safe at ATMs highlights a new front in cybercrime.
+
+"ATMs are designed for magnetic stripe cards and PINs, which are severely outdated and about as secure as a username and password,” said John Gunn, vice president of Corporate Communications at Vasco Data Security, which provides security products for banks, by email. “This is why ATM skimming remains one of the leading causes of fraud losses for banks. As online and mobile banking become more secure, we will see a big increase in ATM attacks.”
+
+The ultimate solution, Gunn suggests, is integrating an ATM trip with some type of interaction on a smartphone banking app.
+
+That way, he said, “we can detect ATM fraud in more than a dozen ways and virtually eliminate the threat of skimming.”

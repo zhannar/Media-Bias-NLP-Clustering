@@ -1,0 +1,27 @@
+WASHINGTON -- If the White House learned one thing from the Healthcare.gov debacle, it was that the government needs clear-thinking people who can see a problem for what it is. Mikey Dickerson may just be that person.
+
+Dickerson, a site reliability engineer at Google, was appointed by the White House as the deputy federal CIO, with a mission of helping government IT function more like the private sector. He was asked to help fix Healthcare.gov shortly after its troubled Oct. 1 launch.
+
+The Healthcare.gov site was crippled with problems and was down more than it was up, putting the Affordable Care Act, President Obama's major legislative initiative, at risk.
+
+Mikey Dickerson, a Google site reliability engineer, speaks at a healthcare conference on the problems with the Healthcare.gov website.
+
+In June, Dickerson spoke at a healthcare conference, and in 18 minutes did more to explain what happened at Healthcare.gov than all the government reports and congressional hearings combined. He had the modestly sized audience laughing, all of it posted online.
+
+Dickerson not only gave a blistering critique of Healthcare.gov, he offered advice about how to get computer engineers to take government jobs. That may be one of the reasons why Dickerson was hired by the White House.
+
+Steven VanRoekel, the federal CIO, in announcing Dickerson's appointment, credited the private sector's help in fixing Healthcare.gov.
+
+The Healthcare.gov effort "reminded us why the President's commitment to bringing more of the nation's top IT talent into government is so critical to delivering the best possible results," said VanRoekel, in a statement. Along with being deputy CIO, Dickerson will run a new "U.S. Digital Service," a group that will seek to improve the federal development efforts.
+
+Dickerson's specialty, as he describes it, "is how to make big distributed systems work technically." He was one of five people, shortly after the launch of Healthcare.gov, who volunteered to help after hearing from Todd Park, the federal CTO and other White House officials.
+
+The importance of Healthcare.gov to the administration was explained to Dickerson, who summed up "the sales pitch" this way: "The president will be basically lame ducked two years early, it will be a complete disaster, the administration will end in ruin, and nobody will attempt health care reform for another generation. That's what they said."
+
+Dickerson broke down the website's problems in four ways:
+
+The Healthcare.gov organization and the system "were both ridiculously fragmented and dependent on dozens of vendors and dozens of products, all of which were supposed to be working together." On a day-to-day basis, Dickerson said he worked with "at least 20 different companies." That is not, he said, "how the technology industry does things." There was no monitoring at launch. No one knew how Healthcare.gov was performing. "Every day we went to lunch, we saw our own problems on CNN. Before we had any monitoring, that was the only way we knew whether there was a problem," Dickerson said to audience laughter. The companies that were hired to implement Healthcare.gov "had not built this kind of system before," Dickerson said. "They just didn't have the experience that they needed building big highly available things where everybody is going to notice if it's down." The environment "is not one that is optimized to get good work out of engineers." It was a shirt-and-tie environment, and while Dickerson said that pointing out cultural issues may sound superficial, they are still real. "Some of them," Dickerson said, referring to engineers, "are going to be willing to put on a shirt and tie in order to work on this mission, and some of them are not."
+
+"You don't have to think that the engineers are the creative snowflakes and rock stars that they think they are, you don't have to agree with any of that," Dickerson said. "I'm just telling you that's how they think of themselves, and if you want access to more of them, finding a way to deal with that helps a lot."
+
+Engineers want to make a difference, Dickerson said, and he has collected the names of 146 engineers who would be willing to take unpaid leave from their jobs to work on a meaningful project. He told his audience that if they can create the right environment for engineers, "I can bring people who can help you."

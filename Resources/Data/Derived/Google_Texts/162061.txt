@@ -1,0 +1,35 @@
+Sometime in the not-so-distant future, getting a checkup will be very different.
+
+When the doctor writes down your symptoms, it will be cross-checked with others in your area, making it easier to identify outbreaks and epidemics sooner. If you complain of shortness of breath, your phone’s heart rate monitor will instantly report how well your heart has functioned over the last month. Those readings then could be aggregated with others in your community, revealing hidden trends. As your doctor thinks about the best treatment for you, big-data analysis will help her assess how various options have worked for others with similar histories and body chemistry.
+
+This is the promise of big data in healthcare. And, it’s not just while you’re at the doctor. Medical research and findings are now being combined into massive searchable databases, making it easier to assess and compare results. Databases can absorb terabytes worth of disparate data, including things like the weather. This will make it clearer whether it’s the drug — or something extraneous like humidity — that’s making people feel better.
+
+But all this is in its infancy, with the sector moving slowly and cautiously. The Affordable Care Act now mandates that doctors switch to electronic health records when they treat Medicare patients. So far, they’re not especially sophisticated.
+
+“Electronic health records right now are only collecting about 100 megabytes of data per patient, per year,” says Dale Sanders, senior vice president of strategy at Health Catalyst, an analytics firm. “Most patients, if they knew how poorly informed healthcare was from a data perspective, would be really disappointed.”
+
+Health Catalyst is one of a number of companies — big and small — working to change that, seeing the immense potential to both improve care and save money. US healthcare industry expenditures are approaching $3 trillion annually. The McKinsey Global Institute estimated in 2013 that deploying big data could create $100 billion in value every year across the healthcare industry.
+
+In Pittsburgh, a major hospital system teamed up in March with the city’s biggest universities to advance big-data analytics in healthcare. As part of a consortium, Carnegie Mellon University is working on artificial intelligence that draws on databases of studies and health records.
+
+Andrew Moore, Dean of Carnegie Mellon’s School of Computer Science, imagines a day when his phone gives his doctor a more accurate report on his health than he can himself.
+
+“If he or she asks me, ‘have you been getting out of breath much lately?’ and I say, ‘I don’t think so,’ at that point I would like my cell phone to chime in and say, ‘yes, you have, actually, Andrew,'” he says. “That would be awesome for me and the physician.”
+
+Insights from By making real-time communication between machines possible, the Industrial Internet is an important part of improving the patient experience. For example, the Aventura Hospital and Medical Center in Florida has employed Industrial Internet solutions to cut emergency room wait times by 68% in just nine months. See how GE Software is changing the future of healthcare »
+
+Moore expects the systems to be able to trace hospital-borne infections back to a specific piece of equipment or patient. Or, some might make it possible to diagnose a rash with a smartphone photo.
+
+The Pittsburgh Health Alliance plans to spend $10-$20 million a year on its big-data collaboration. Carnegie Mellon joins with the University of Pittsburgh Medical Center and the University of Pittsburgh on the project, and UPMC already takes in info from 200 sources.
+
+And big data has the potential to become big business. In 2013, investors put nearly $200 million into analytics and big-data startups, according to research firm Gartner. There have been similar size investments in digital medical devices and personalized medicine. The government is investing millions in analyzing medical databases, too. That’s not to mention health-tracking research and products from the likes of Apple, Google, and FitBit.
+
+“Hospital systems realize that healthcare is becoming more and more an information technology business,” Moore says.
+
+For all the excitement over big data’s potential for personalized medicine and better public health, it’s not without obstacles and risks. Moore worries about security, knowing that any breach of privacy will threaten public acceptance of the whole industry.
+
+Sanders of Health Catalyst thinks the real promise of big data is improving the basics of healthcare. “We keep attaching big data to these moonshot kinds of expectations,” he says. To Sanders, big data isn’t a revolution. It’s a way to improve the fundamentals of care, like reducing hospital-borne infections.
+
+“Reducing variability in care and reducing overtreatment of patients is probably the most important place for any organization in healthcare to start,” he says.
+
+And perhaps the biggest challenge for big data is culture. Doctors and hospitals tend to be understandably cautious and skeptical about adopting new technology, waiting for it to be sufficiently proven safe and effective. But as analytics improve, and the pressure to bring down the cost of healthcare builds, most agree big data will become a big deal in medicine.

@@ -1,0 +1,77 @@
+Thursday, June 4, 2015
+
+The Environmental Protection Agency and the Army Corps of Engineers (“the agencies”) have issued the long-awaited final rule to define the scope of waters and wetlands subject to federal jurisdiction under the Clean Water Act (“CWA” or “Act”). The final rule offers notable changes from the proposed rule in an attempt to resolve years of debate and confusion in the wake of perplexing Supreme Court decisions and failed guidance by the agencies. While the final rule does provide clarity on some aspects of the meaning of “waters of the United States” (or “WOTUS”), ambiguity remains. The rule retains case-by-case “significant nexus” determinations for potentially jurisdictional waters, meaning that regulatory confusion and uncertainty will persist. Even though the agencies assert that the final rule will result in a less than 5% increase in waters found to be jurisdictional, that is far from certain. Congress and the courts will have their say, with the fate of WOTUS most likely remaining in the hands of Supreme Court (again).
+
+Summary of the Final Rule
+
+The background of how we arrived at this point is well known (for those interested in a refresher, our previous web alerts and EnviroStructure blog posts summarize the history of this issue and the agencies’ proposed rule, such as “ Supreme Court Decides Landmark Wetlands Cases ,” “ EPA, Army Corps Propose Expansive Rule Redefining CWA Jurisdiction ,” and “ WOTUS: SCOTUS, POTUS . . . LOTUS? ”). Since proposing their first cut at the WOTUS rule, the agencies have spent the past year plus addressing over 1 million stakeholder comments on the proposal and countless inquiries from Capitol Hill. The rule identifies more categories of waters that are per se jurisdictional, and for other categories that remain in jurisdictional limbo, codifies Justice Kennedy’s “significant nexus” test as the standard for evaluating those features. The final rule retains most of the structure of the proposed rule, and does not alter the categories of waters that the agencies historically have considered jurisdictional: traditionally navigable waters; interstate waters; territorial seas; and impoundments. The same cannot be said of four other categories of waters under the final rule.
+
+“Tributaries”
+
+The final rule defines a “tributary” in extremely broad terms: “a water that contributes flow, either directly or through another water . . . to a [traditionally navigable water, interstate water, or territorial sea] that is characterized by the presence of the physical indicators of a bed and banks and an ordinary high water mark.” Troublingly, it does not take into consideration frequency and duration of flow, allowing the agencies to assert jurisdiction by rule over all perennial, intermittent, and (for the first time) ephemeral streams with some hydrological connection to a major water body. It states that waters remain tributaries despite manmade or natural breaks of any length. And it indicates that the agencies are allowed to use historical indicators to evaluate tributaries, which means that they may rely on evidence of the prior existence of bed, banks, and ordinary high water mark. Moreover, the term “ordinary high water mark” remains ambiguous and inconsistently applied in practice, likely leading to continuing regulatory confusion notwithstanding the Army Corps’ ongoing efforts to address that uncertainty with new guidance.
+
+“Adjacent Waters”
+
+One of the most significant changes in the final rule is the extension of jurisdiction to all adjacent waters whereas jurisdiction previously applied only to adjacent wetlands. In addition, while the agencies have always considered a feature to be adjacent when it is “bordering, contiguous, or neighboring” to another jurisdictional water, they now define “neighboring” broadly to mean:
+
+All waters located within 100 feet of the ordinary high water mark of a traditionally navigable water, interstate water, territorial sea, impoundment, or tributary;
+
+All waters located within the 100-year floodplain of a traditionally navigable water, interstate water, territorial sea, impoundment, or tributary and not more than 1,500 feet from the ordinary high water mark of such water; and
+
+All waters located within 1,500 feet of the high tide line of a traditionally navigable water, interstate water, or territorial sea.
+
+The entire water will be considered adjacent if any part is bordering, contiguous, or neighboring to another jurisdictional feature, even if it is separated by berms, roads, or other barriers. Together, these significant changes will federalize many features never before considered jurisdictional simply because they are close to a WOTUS. Using the 100-year floodplain as a geographic delineation is potentially problematic, not only because it covers such a large area, but also because FEMA floodplain maps are not available and/or up to date for all parts of the country. Where floodplain maps are unavailable, stakeholders and regulators will have difficulty identifying whether certain features are “adjacent waters.” In practice, implementing the new “adjacent waters” standard will involve complex, technical determinations that will require substantive expenditure of time and resources.
+
+“Case-Specific WOTUS”
+
+The final rule will subject features that do not fit within any of the defined categories of waters to the complicated, case-specific “significant nexus” test. That test allows the agencies to select from a menu of physical, chemical and biological factors to determine whether a feature might affect the quality of a downstream jurisdictional water and therefore itself be considered jurisdictional. The test requires that the nexus to the receiving water must be more than “speculative or insubstantial,” but the range of factors available to the agencies’ consideration likely removes even that low threshold. The impact need only affect one “function” of the downstream waterbody. In theory, the agencies could find jurisdiction for a hydrologically isolated water solely on the basis that it performs one discrete function (i.e. wildfowl breeding habitat) for the nearest traditionally navigable water, interstate water, or territorial sea – an outcome potentially at odds with Supreme Court precedent.
+
+The rule also establishes five subcategories of so-called “other waters” for case-by-case analysis: prairie potholes, Carolina bays and Delmarva bays, pocosins, Western vernal pools, and Texas coastal prairie wetlands. The rule establishes that each of these subcategories is “similarly situated” and should be aggregated for the purpose of assessing a significant nexus to the downstream water.” What this means in practice is that the agencies can consider all Western vernal pools in a region (defined as a watershed that drains to the nearest a traditionally navigable water, interstate water, or territorial sea) in deciding whether one individual vernal pool has a significant nexus to a traditionally navigable water, interstate water, or territorial sea. One point of potential confusion with this category is that the rule only allows aggregation of waters that do not fit any other jurisdictional category in the final rule. This could require the agencies to painstakingly perform a jurisdictional analysis for each prairie pothole in a watershed before determining if the otherwise non-jurisdictional potholes are similarly situated and jurisdictional under the seventh category of WOTUS.
+
+Finally, the rule authorizes application of the significant nexus test to all waters located within the 100-year floodplain of a traditionally navigable water, interstate water, or territorial sea, and all waters located within 4,000 feet of the high tide line or ordinary high water mark of a tributary to federalize the entire feature irrespective of location. This means that if any portion of the feature is within the 100-year floodplain or within 4,000 feet of the high tide or ordinary high water mark, and any part of the feature has a significant nexus, then the entire feature will be considered jurisdictional. In practice, it appears the agencies may have to categorize each water within a watershed to determine whether they can be included in the significant nexus analysis, or whether they are otherwise jurisdictional under one of the other categories of WOTUS.
+
+Exclusions
+
+The final rule slightly expands a list of exclusions from WOTUS. Overall, the exclusions focus on the continuity of flow and proximity to jurisdictional features like tributaries and wetlands. Yet, as a practical matter, even these exclusions that the agencies intend to be helpful to development interests will likely require complex legal and technical analysis. The exclusions reinforced or expanded in the final rule are:
+
+Constructed components for MS4s;
+
+Waste treatment systems (including ponds or lagoons designed to meet the requirements of the CWA);
+
+Artificially irrigated areas that would revert to dry land if application of water ceases;
+
+Artificial, constructed lakes and ponds created in dry land (including farm/stock watering ponds, irrigation ponds, settling basins, and cooling ponds);
+
+Water-filled depressions created in dry land incidental to mining or construction activity;
+
+Erosional features (including gullies, rills, and other ephemeral features that do not meet the definition of tributary, non-wetland swales, and lawfully constructed grassed waterways);
+
+Puddles;
+
+Groundwater, including groundwater drained through subsurface drainage systems;
+
+Stormwater control features constructed to convey, treat, or store stormwater that are created in dry land; and
+
+Wastewater recycling structures constructed in dry land.
+
+Though several exclusions incorporate the term, the agencies did not define “dry land” in the regulation. The preamble refers to “dry land” as areas that are “not water features such as streams, rivers, wetlands, lakes, ponds, and the like.” It is conceivable that many features will not qualify for exclusion because they were not created in dry land, and permit applicants may have a hard time satisfying that condition using historical evidence.
+
+A Note On Ditches
+
+Ditches received significant attention in public comments. The final rule protects ditches if they function as streams or meet the definition of “tributary” and are not otherwise excluded in the rule. Thus, the following types of ditches are jurisdictional:
+
+Ditches, including roadside ditches, with perennial flow;
+
+Ditches with intermittent flow that are a relocated tributary, were excavated in a tributary, or drain wetlands;
+
+Ditches that have intermittent flow and are a relocated tributary or were excavated in a tributary.
+
+Conversely, the final rule excludes the following types of ditches:
+
+Ditches with ephemeral flow that are not a relocated tributary or excavated in a tributary;
+
+Ditches with intermittent flow that are not a relocated tributary, excavated in a tributary, or drain wetlands; and
+
+Ditches that do not flow, either directly or through another water, into a traditionally navigable water, interstate water, or territorial sea.
+
+The new WOTUS rule becomes effective 60 days after publication in the Federal Register. From a practical perspective, the agencies state that they do not intend to revisit existing jurisdictional determinations, which remain valid until the expiration dates of the permit or authorization. Determinations associated with permit applications deemed complete by the agencies as of the final rule’s publication date, including complete pre-construction notifications, will be made consistent with the new rule.

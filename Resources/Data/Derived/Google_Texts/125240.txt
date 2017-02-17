@@ -1,0 +1,19 @@
+The Obama administration has recruited engineers from several prominent technology companies to help fix the problems preventing people from signing up for government-mandated health insurance.
+
+Oracle Corp. CEO Larry Ellison told shareholders at the software maker's annual meeting Thursday that the Redwood Shores, Calif., company is trying to make the Healthcare.gov website more reliable and secure.
+
+Oracle and Red Hat are pitching in as well as Michael Dickerson, an engineer on leave from Google, according to a blog post Thursday by Julie Bataille, a spokeswoman for the Centers for Medicare & Medicaid Services.
+
+"Most of us want to see our government operating efficiently and effectively and it is incumbent upon us to help them do that," Ellison said.
+
+Red Hat Inc. and Google Inc. declined to comment.
+
+Dickerson is a site-reliability engineer at Google. He is now working directly with QSSI, the general contractor hired to upgrade Healthcare.gov, Bataille said.
+
+Exasperation with the website's buggy technology has been compounded by concerns that the service lacks the security measures needed to protect the sensitive information of people looking for insurance.
+
+Besides Dickerson, the government also identified entrepreneur Greg Gershman as one of its new troubleshooters. Gershman currently is director of innovation at mobile app developer Mobomo, according to his profile on professional networking site LinkedIn.
+
+Gershman's resume says he received a Presidential Innovation Fellowship last year to work with the White House on a project seeking "to re-imagine the relationship between citizens and government around the citizen's needs."
+
+The Obama administration has pledged Healthcare.gov will be running smoothly by Nov. 30.

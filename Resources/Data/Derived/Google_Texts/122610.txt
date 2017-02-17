@@ -1,0 +1,21 @@
+On Thursday the U.S. Supreme Court unanimously decided that ideas themselves can not be patented. As Wired notes, the ruling is a major blow to patent trolls and "could prevent some of the most frivolous patent cases from moving forward."
+
+Reason TV reported on the issues surrounding patent trolls back in 2013. "How Patent Trolls Kill Innovation" was originally released on Feb. 20, 2013 and the original writeup is below.
+
+"My statement to someone that is the victim of a patent troll lawsuit is that you are completely screwed," says Austin Meyer, who is himself the target of a so-called "patent troll" lawsuit.
+
+Meyer is a software developer and aviation enthusiast. His two passions intersected in the '90s when he created a flight simulator called X-Plane, which quickly grew in popularity, outlasting even the once-popular Microsoft Flight Simulator. As many software developers do, Meyer made his application available on mobile devices like the iPhone and Android. And this is where he first ran into trouble.
+
+A company called Uniloc has sued Meyer for patent infringement over a patent called, "System and Method for Preventing Unauthorized Access to Electronic Data." When a computer runs a paid application, one way that developers can assure that a customer has actually purchased the application is by coding the application to match a license code with an encrypted database. This is a method that most paid applications on the Android market use. It's a method that Meyer argues has been in use since at least the late '80s. This is the idea that Uniloc claims to own.
+
+"A patent troll is a company, a person... who owns patents, but doesn't make anything or sell anything," says Julie Samuels, an attorney and the Mark Cuban Chair to Eliminate Stupid Patents at the Electronic Frontier Foundation.
+
+Samuels says that patent trolls are a huge tax on innovation and add nothing valuable to the marketplace. A study out of Boston University estimates the direct economic damage that patent trolls cause to be around $29 billion a year, and this doesn't account for hush-hush, off-the-record settlements. But the bigger problem, says Samuels, is the patent system itself.
+
+"You can't separate the problem with the patent troll from the problem with software patents," says Samuels. "There are hundreds of thousands of software patents floating around that are really broad, that are really vague ... and a lot of them are bought up by patent trolls."
+
+A Yale study found that the U.S. patent office is approving new software patents at an approximate rate of 40,000 a year. That's more than 100 new software patents every day. Tracking every software patent to make sure one is not in violation would be an utter impossibility without a full-time team of lawyers on staff.
+
+Uniloc, which purchased the patent in question at a bankruptcy proceeding, declined an interview request for this piece. But on their website, they brag about a victory over software giant Microsoft resulting in $388 million in damages (though this amount was later lowered in an appeals court). Despite the enormous risk, and the enormous cost just to defend against a patent suit, Meyer is resolved to do so.
+
+"I will not simply give somebody money that endorses the idea that they should sue people for doing something amazing," says Meyer. "It must be stopped at some point."

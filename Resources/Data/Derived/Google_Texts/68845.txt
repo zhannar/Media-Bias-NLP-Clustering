@@ -1,0 +1,5 @@
+Error
+
+Error message PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in lock_may_be_available() (line 167 of /var/www/vhosts/natlawreview.com/httpdocs/includes/lock.inc).
+
+The website encountered an unexpected error. Please try again later.

@@ -1,0 +1,41 @@
+Photo
+
+David Vivero and his team at Amino, a San Francisco start-up, have been assembling for the last two years an unusual collection of health data for a consumer service.
+
+The online service, which was introduced on Tuesday, is built on a database that includes nearly every practicing doctor in America and the treatment of more than 188 million people. It is essentially a vast chronology of what happens inside physicians’ offices, as identified by what is billed and paid for. The anonymized patient and treatment information, Mr. Vivero said, comes from a lengthening list of about a dozen data sources including payers, processors, bill collectors and government agencies, though he declined to name them specifically.
+
+The information is quite detailed, which is perhaps not surprising, since the data behind it informs the vast reimbursement network that fuels America’s more than $3 trillion a year in health care spending. This kind of information has been used by insurers and other companies in the health care industry, not only for reimbursement but also for quality scoring, marketing and fraud detection.
+
+“But it has never been used in an open, transparent way before for consumers,” Mr. Vivero said.
+
+Amino joins a growing number of start-ups — and other organizations — mining data sources in new ways to manage health care for payers and consumers.
+
+Castlight Health, for example, is tapping data sets similar to Amino mainly to help employers better manage spending and care for their workers. HealthSparq uses data from various sources and works with dozens of health plans to help their members make better choices about the cost and quality of care. Iodine makes use of online surveys and research databases to help consumers share their experience and make decisions about the drugs they take. Another example that health experts point to is Surgeon Scorecard from ProPublica.
+
+Photo
+
+Behind the consumer ventures, experts say, is the belief that the long-predicted consumerization of health care may actually be starting to happen. Demographic trends and a more health-conscious population, they say, are contributing factors.
+
+But the main force is economics. The insurance plans on the state exchanges set up in step with the Affordable Care Act often have large deductibles along with low premiums. Companies, too, the experts added, are increasingly encouraging their workers to join high-deductible plans with lower premiums.
+
+The result, experts say, is that people are shopping more aggressively for health care because they are paying more of the bill themselves.
+
+“Consumers are paying attention to cost and quality in a way they never really did before,” said Dr. Ashish K. Jha, a professor at the Harvard School of Public Health, who is a member of Amino’s scientific advisory board. “That’s what’s creating this market, and what Amino and others are betting on.”
+
+(The members of the advisory board, like Dr. Jha, are receiving what are described as very small equity stakes in Amino, though the holdings are not disclosed.)
+
+Amino is starting with a doctor-selection service. The first question asked of users is the condition or treatment the person is interested in, since Amino’s surveys of thousands of people found that expertise in the patient’s condition was by far the factor that matters most to patients when choosing a new doctor.
+
+Say the treatment that interests you is a cesarean section. Then, one screen at a time, you are asked a series of simple questions: age, gender, address, how far you’re willing to travel (from one to 100 miles), insurance carrier (which is optional), and if you prefer a female or male doctor.
+
+Say you are a 35-year-old female living on Manhattan’s East Side, willing to travel a few miles, have Empire Blue Cross Blue Shield insurance and prefer a female doctor. After entering that information, you will be presented a list of doctors. In this case, Dr. Rebecca Nachamie is the first one listed because she has treated the most people like you. Click to the icon next to her name, and the next screen says she has “cared for 80 women around 35 for C-sections in the last four years.”
+
+Amino has no ads or sponsorship arrangements. “Money will not influence the results,” Mr. Vivero said. Like many consumer start-ups, the initial goal is to create an appealing product, and then figure out a business model later.
+
+Amino, said Joy Pritts, a member of its advisory board, is “making that kind of information available to consumers, and it is not easy to get.”
+
+Ms. Pritts, the former chief privacy officer at the Department of Health and Human Services, is advising Amino on the handling of patient data. The start-up’s privacy policy is straightforward, according to Mr. Vivero. “We never take possession of personally identifiable patient information,” he said.
+
+Amino has raised $19.4 million in funding so far from Accel, Charles River Ventures, Rock Health and a group of individual investors.
+
+Mr. Vivero was previously a founder of RentJuice, an online service for rental apartments, which was acquired by Zillow in 2012. The other Amino co-founders are Roger Billerey-Mosier, chief technology officer; Maudie Shah, head of user experience; and Sumul Shah, head of design.

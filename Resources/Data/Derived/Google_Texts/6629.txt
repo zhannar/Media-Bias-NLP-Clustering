@@ -1,0 +1,63 @@
+shutterstock
+
+(Corrects spelling of drug to Pristiq, not Pritiq, in paragraph 11)
+
+By Beth Pinsker
+
+NEW YORK, Jan 8 (Reuters) - If you went to visit your doctor and a drug company representative was sitting in the room with you, ready to hand out pamphlets and samples, you'd likely cry foul.
+
+Depending on what electronic health record system your physician uses, the digital version of this sort of thing is already happening.
+
+New regulations in the Affordable Care Act restrict access to doctors by pharmaceutical companies. As a result, drug companies are finding their way behind the medical industry's closed doors via digital record-keeping systems.
+
+These systems are able to crunch a lot of health information and spit out reports, stripped of data identifying specific patients, that the pharmaceutical industry finds useful.
+
+The process is not altogether shocking. Drug companies have been able to gather data for years from insurance company records, pharmacies and public records. Unlike the disconnected reports of yesteryear, these new data analyses come with the potential to reach back through the system via email or pop-up ads and directly target doctors and patients - both for medical and marketing purposes.
+
+The problem is that consumers don't want health information used to sell them medical services. They also don't want their doctors' medical judgment to be compromised by the financial clout of the pharmaceutical industry.
+
+"We expect our physicians to be acting in our best interest," says Farzad Mostashari, a visiting fellow at the Brookings Institution who was formerly the National Coordinator for Health IT at the U.S. Department of Health and Human Services. If a patient confides in a doctor about an ailment, and then gets a mailing about a possible treatment, "that would be pretty upsetting," Mostashari adds.
+
+Electronic health records were developed to streamline workflow and make patient data useful to doctors, says Mary Griskewicz, senior director of health information systems at HIMSS, a non-profit promoting health information technology.
+
+Marketing, Griskewicz adds, "wasn't the intent."
+
+POP UP ADS
+
+What exactly is going on between your doctor's tablet and marketing companies?
+
+When doctors at the Heart of Wellness clinic in Olympia, Washington, log on to their network to update patient data, they see advertising. Sometimes it's just house ads from Practice Fusion, the software company that operates their system, and sometimes it's full-color ads for prescription drugs such as Pristiq, a depression drug from Pfizer Inc, the kind any consumer might see on a public website.
+
+Practice Fusion is free for physicians who accept seeing advertising and letting the company crunch the data that results from patient files. This is just one of the payment models in the highly fragmented electronic health record marketplace, which involves dozens of companies, none with significant market share.
+
+Practice Fusion reaches over 100,000 physicians and processes some 80 million patient visits a year, which is about 3 percent of the market, according to government data.
+
+"We're an alternative holistic practice - we don't prescribe a lot of drugs. So we weren't influenced by (the ads) at all," says Logan Obermire, creative director of Heart of Wellness, which is in the process of switching to a paid system.
+
+Two of biggest companies, Cerner Corp and Epic Corp , deal with large hospital groups, and offer monthly fee-for-service plans. Both say they do not sell patient data. Other systems, like Kareo, offer free basic services, but heavily push additional paid services. There's even a model, Hello Health, that asks patients to foot the bill with a monthly fee to access their records.
+
+DATA PRIVACY
+
+It's not the price of the service that necessarily determines the levels of privacy protections for consumers. Beyond overt advertising, there are various uses for the analysis of consumer data.
+
+Medical purposes abound. Data that has been stripped of names - what is called "de-identified" in the industry - can be used to track outbreaks and fine-tune treatments. AthenaHealth Inc, which has about 5 percent of the market, says it used de-identified patient data this fall to construct its own flu tracker when the Centers for Disease Control had to suspend its effort during the government shut-down.
+
+There is a slippery slope when it comes to de-identified data and electronic health records, says Adriane Fugh-Berman, a doctor who is director of PharmedOut, a research and education project at Georgetown University Medical Center. The digital systems can email reminders to patients to refill medications or encourage them to get vaccines. It's not always clear who is paying for those messages and if the content is from the doctor or some kind of advertorial.
+
+"It's extremely misleading to patients," Fugh-Berman says.
+
+Practice Fusion chief executive Ryan Howard says his company has campaigns for vaccine reminders that are funded by pharmaceutical companies, passed along to patients via emails that come in the doctor's name.
+
+"The doctor has opted in to have us message the population," he says.
+
+Practice Fusion does not sell data to third parties, it is all kept in their own cloud, Howard says. The San Francisco-based firm crunches data internally and then makes some of the results available for sale, like how many adult men and women in their patient universe have not had a Hep A vaccine.
+
+"We never disclose any private health info or doctor-level data either," Howard adds.
+
+The only way currently for patients to figure out what is going on is to ask their doctors who runs their portals and find out exactly what's in the small print, says Christopher Tashjian, a physician in Ellsworth, Wisconsin.
+
+In reality, "most people are not that interested in where their data might go," says Jon Handler, a physician who is the Chief Medical Office for M*Modal, a healthcare technology services firm. "Almost everyone will say yes to letting the insurance company get their data in order to process their claims."
+
+Patient privacy and patient health are both really important, Handler says. "We just need to do a better job in finding ways to make sure those two things are not at odds with other," he adds. (Follow us @ReutersMoney or at http://www.reuters.com/finance/personal-finance. Editing by Lauren Young and Andrew Hay)
+
+More: Reuters

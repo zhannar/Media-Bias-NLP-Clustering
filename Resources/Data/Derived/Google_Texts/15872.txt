@@ -1,0 +1,33 @@
+Credit: Istock As the presidential race continues to heat up—the latest being that Republican presidential candidates were left fuming over what they called an unfair debate last week—the public will no doubt be more and more inundated with political messages from debates, political ads, and the campaign trail. Candidates face the challenge of cutting through the clutter and having their messages resonate with voters.
+
+It's a tricky task, for sure—but one that Northeastern assistant professor of political science Nick Beauchamp sees a new approach to address. He has created a new algorithm aimed at helping master the art of persuasive language for things like political talking points and advertisements.
+
+"We are consuming hundreds of these kinds of messages a day, and their origins are a bit mysterious," said Beauchamp, who is a core faculty member of the NULab for Texts, Maps, and Networks, Northeastern's center for digital humanities and computational social science. "You might think it's like Mad Men, with people sitting on a couch and ideas somehow bubbling up, and then they share them with us."
+
+Beauchamp, who studies political speech and persuasion as well as how political opinions are formed and change over time, has developed a computational tool that brings science to the challenging art of crafting persuasive text. In fact, when he tested this algorithm, he found it had a substantial impact in terms of generating persuasive text that shifted people's opinions of President Barack Obama's healthcare law.
+
+Beauchamp noted that focus groups, A/B testing, and theory can help suggest themes for persuasive text, but not when it comes to shaping the actual words and sentence structure that resonates with the intended audience. He sought to develop a more sophisticated approach to grappling with the complexity of language and its persuasive effect.
+
+The study
+
+Beauchamp scraped 2,000 sentences from a pro-Affordable Care Act website, ObamaCareFacts.com, and pumped them into a machine learning model. The model grouped the sentences into topics—essentially clusters of related words—and then put sentences with different proportions of those topics together to form short paragraphs.
+
+Beauchamp used these paragraphs to survey groups of Americans on Mechanical Turk, Amazon's Web-based crowdsourcing community, about their opinions on "Obamacare." Here's how it worked: A group of about a dozen people were asked to read a paragraph and rate on a scale from one to nine how much they approved or disapproved of Obamacare. The model then used those approval ratings to produce a new paragraph with a different combination of sentences for Beauchamp to poll a different group of people.
+
+This process repeated numerous times, with the goal of finding better and better combinations of sentences that would yield higher and higher approval ratings for Obamacare.
+
+The findings
+
+The surveys took an hour and a half to complete, and about 300 people were polled. The first paragraph people read yielded about a "5" (neutral) rating on the scale. By the end, that approval rating had grown to "6.5" (approve).
+
+Topics that seemed to persuade people to favor Obamacare included those with words referring to pre-existing conditions and coverage, and those discussing employer-employee relations and keeping existing coverage. Topics that seemed to turn people off Obamacare included one with words referring to state and federal relations, and a topic with words emphasizing laws and individual rights.
+
+Beauchamp cautioned that this project is a work in progress—more analysis on the impact of the sentences' sequence will be undertaken—and that his study only measures the shift in opinion in the short term. However, even in the preliminary stage he was surprised at how well it worked and noted that moving the approval rating 1.5 points "is a pretty big shift."
+
+Manipulation or democracy?
+
+Beauchamp said his project's goal was to pull back the curtain on how to make ideas and messages resonate more with an audience. But he acknowledged—and has heard the skeptics say—that his algorithm could be used as a manipulative tool for politicians to pander and increase the impact of their messages using rhetoric rather than substance.
+
+The way Beauchamp sees it, by focusing on topics and ideas rather than superficial rhetoric, his work has the ability to foster the exchange of ideas and help people make stronger arguments on the issues at hand. "It's potentially a new approach for understanding how words and text—and more generally ideas and topics—affect people and shape their beliefs," he said. "What's exciting for me is a new way of cracking open a complicated system and getting a perspective of the process in its full complexity."
+
+Explore further: Algorithm tests your Twitter skills and predicts virality of tweets

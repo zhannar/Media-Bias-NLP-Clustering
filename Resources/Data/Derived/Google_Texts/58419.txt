@@ -1,0 +1,23 @@
+The Electronic Healthcare Network Accreditation Commission (EHNAC) on Oct. 7 posted new versions of criteria for 16 existing health data exchange programs and added initial criteria versions in two new areas — data registry and cloud services.
+
+The upgraded criteria programs cover accountable care organizations, Direct exchange of health information, e-prescribing, and other administrative, financial and security operations. EHNAC added Version 1.0 criteria for the Data Registry Accreditation Program and Cloud Enabled Accreditation Program.
+
+The complete list of draft criteria programs appears here.
+
+A 60-day period of public review on the accreditation program criteria will end on Dec. 4, 2015. EHNAC seeks feedback on the “necessity, appropriateness and workability of the criteria versions proposed for adoption,” according to the standards development organization.
+
+The Data Registry Accreditation Program (DRAP) applies to entities that report clinical quality measures associated with EHR meaningful use, the Physician Quality Reporting System, the Group Practice Reporting Option and several other programs. It is intended to ensure that the entities “meet the privacy and security obligations expected of all large-scale handlers of protected health information,” according to EHNAC. Such registry database administrators might include health information exchanges and regional extension centers.
+
+DRAP assesses health information and oversight for meeting privacy and security, HIPAA, HITECH, Omnibus Rule and Affordable Care Act requirements, as well as technical performance, business processes and resource management. Under the program, EHNAC reviews functions of structure, portability, interoperability, clinical integration, compliance monitoring, reporting and industry certification/ accreditation. The program serves as a baseline standard for stakeholders to ensure compliance with requirements and guidelines issued by the Centers for Medicare and Medicaid Services.
+
+When development of DRAP was announced in May 2015, EHNAC Executive Director Lee Barrett said the program would “offer the same level of privacy and security assurances through accreditation that have driven other healthcare sectors for more than 20 years.”
+
+The Cloud Enabled Accreditation Program (CEAP) is available only as an “add-on” for organizations that have applied for another program, EHNAC said. The cloud-service provider must be FedRAMP-certified, meaning that it complies with a government-wide approach to security assessment, authorization and continuous monitoring for cloud products and services.
+
+EHNAC deploys site evaluators, who use a rating method to determine overall compliance with criteria for each program.
+
+"Applicants in candidacy status must meet the requirements of all mandatory criteria and must achieve an overall score of at least 85 percent to achieve full accreditation (subject to commission approval). The site evaluator will assign a 1, 0.5 or 0 rating value to each activity in the criteria, based upon an applicant’s ability to demonstrate compliance."
+
+EHNAC noted that an additional site visit day would be required for reviewing details of the CEAP program.
+
+EHNAC was one of 18 non-federal organizations included in a recent Government Accountability Office (GAO) review of entities working to facilitate electronic health record interoperability. GAO interviewed representative of each of the organizations and uncovered five barriers to EHR interoperability: insufficient data standards, variations in state privacy rules, inadequate patient-matching capabilities, financing and investment costs, and the need for information governance.

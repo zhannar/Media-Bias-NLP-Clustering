@@ -1,0 +1,41 @@
+Last week, I wrote a column on the deep fear held by many in the startup ecosystem of hiring a “Secretly Terrible Engineer.” I argued that for a variety of cultural reasons, software engineering has developed an elaborate interview system to ensure that these STEs – who seem practically mythical in reality – are caught before they can do any damage. I also heaped scorn on the algorithm interview question, which has become a sort of shibboleth of programming.
+
+Just take the case of one West Coast developer who discussed his experience with the process to me in an email. “Walking into a technical interview often feels like a court case where you’re guilty until proven innocent – even after getting through it successfully!” he wrote. “It’s an especially frustrating experience for self-taught programmers such as myself, who don’t have any academic credentials to ensure that I’m not a STE.”
+
+I received an immense amount of feedback like this from people on both sides of the interview table. Several engineers vociferously argued that these STEs are not just present but everywhere in the industry. Another group was more positive in outlook and offered their techniques on improving the interview process.
+
+The Older Dimension
+
+But one of the more surprising strains of emails I received was from engineers older than 40, who felt that the process was really about preventing them from working anywhere in the industry.
+
+One engineer, who started in the field in the early 1980s, has worked at a number of companies and government agencies over the years. “The interviewers I face have often been hostile and, I believe, concerned about the amount of gray in my beard,” he said to me. “Those I have worked with in the past continue to be friends, but references seem to be more part of the background check to see [if] I am a criminal or have bad credit.”
+
+This email and others like it really show the unusual approach we have to hiring. Job interviews are generally designed collect several pieces of information. They are supposed to tease out the performance capabilities of people, determine whether someone will be a good cultural fit with a firm, and discover a person’s temperament in different situations.
+
+Ideally, these interviews become easier with experience, since older workers have longer work histories, more references, and simply more datapoints that can be used to determine their value to a firm. Yet, programming interviews –- particularly those that focus on algorithmic minutia – get surprisingly more difficult as we age.
+
+There is a reason that most software developers have to study these sorts of interview questions before entering their job search. In our day-to-day development work, how often do we think about the big-oh run performance of a function? In an industry that argues that premature optimization is the root of all evil, the gatekeepers of the profession sure seem almost obsessed about runtime performance.
+
+But when you start to analyze these sorts of questions in the context of marginalized groups within the industry, we can start to see its inherent value. The techniques for solving algorithm questions come from university coursework, which conveniently leaves out many self-taught programmers. But more usefully, this knowledge tends to decay with age due to lack of use, and thus, these sorts of questions also act as a “years since college degree” screen.
+
+It’s not that performance doesn’t matter, but imagine an interview that instead provided a working example app that was having performance issues and the interviewee was asked to find the problem using whatever profiler or techniques they wanted to use. It’s practical rather than theoretical and better models the work a developer is likely to do on the job.
+
+In a world of secretly terrible engineers, however, it simply doesn’t provide the kind of shibboleth that will separate engineers into their appropriate class.
+
+Interviews are ultimately a shadow of the culture of our industry, a manifestation of the biases and models of work that we hold dear. Improvements to programming culture are mostly not going to come from making them better, any more than improving elections will somehow solve our biggest political problems. The gateway to the industry is a symptom of far deeper root causes.
+
+Two Tensions
+
+I think there are two tensions that we need to solve in order to fix this situation. The first has to do with meritocracy. Engineering, like other knowledge specialties, is a field in which the most difficult work is truly out of the reach of more average workers. Like a neurosurgeon who is the sole doctor in the world who can perform a complex surgery, there is a set of technical problems solvable by just a handful of top engineers. We know them when we work with them.
+
+Unlike medicine though, we still have a tension in engineering with working with people who are not at our talent level. A hospital care team might have orderlies, nurses, physician assistants, and of course medical doctors, all of whom have different training but can contribute to the care of a patient. We see nothing like this in programming, where everyone is expected to be a super engineer.
+
+The other tension is between new and old. With the breakneck pace of development of the internet, the ability to constantly throw every framework and library away every five years has proven useful. We have needed to constantly grasp for the future, lest our company and its products fall behind.
+
+But all that change has come at the expense of durability. As we enter a more mature phase of the internet’s progress, it may be time for us to reconsider our strong bias toward the new. Maintainability and reliability are increasingly the edges needed to serve internet users accustomed to highly-reliable systems. New approaches to programming will still have their place, but they are entering a more crowded market where they really have to prove their value in order to be received.
+
+We need to have a conversation about working with people of different experience and talent levels. We need to address our industry’s lust for shiny (i.e. young) over reliable. For in the process of that conversation, I believe that we will begin to address the odd inequities that plague our industry.
+
+In a time of engineer austerity, we simply can’t afford to throw away so much talent. We need to learn how to take advantage of all the skills that a worker can offer, while maximizing the overall productivity within an organization. If we work on the culture – and get it right – we simply won’t worry about the gatekeepers anymore.
+
+Featured Image: Emanuele/Flickr UNDER A CC BY-SA 2.0 LICENSE

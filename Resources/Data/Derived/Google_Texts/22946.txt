@@ -1,0 +1,17 @@
+Health care may still be at the very early stages of using computers that can learn and adapt over time, but the industry is advancing in that regard.
+
+We recently heard about how Mayo Clinic and IBM are partnering to use the artificially intelligent computer known as Watson to link patients better to clinical trials.
+
+Now, remote patient intelligence company Sentrian announced that two insurers are pilot-testing a home clinical monitoring system that will learn and improve on its own over time.
+
+Traditionally, home monitoring systems focused on a single parameter that carried a fixed trigger level, according to Sentrian officials. The insurers — only one of which is identified, CareMore — are testing Sentrian’s computer learning approach, which is designed to automatically adjust the triggers based on previous results, says Martin Kohn, M.D., chief medical scientist at Sentrian and a former IBMer himself. [Kohn was chief medical scientist for Care Delivery Systems at IBM Research, according to Sentrian].
+
+For example, weight is a commonly recorded gauge for congestive heart failure patients who may be recording and reporting the data multiple times a day. "The problem is that there are many, many reasons why a patient's weight can change from one day to the next," Kohn says. As a result, the recorded weight change doesn't always reflect worsening CHF, he says.
+
+The approach being tested by CareMore is based on multiple parameters and a pattern-recognition algorithm designed to sift out false positives as they become recognizable. The pattern may be a combination of weight gain and change in pulse.
+
+Sentrian's system can measure things like blood pressure, pulse and blood concentration generally two times a day, according to Kohn. Advancements in technology may soon allow for the measurement of fluid in the lungs, as well as more frequent monitoring, Kohn says. CareMore and the unidentified insurer are testing patients with chronic obstructive pulmonary disease, 1,500 in total and the same number of control group patients.
+
+Compared with the machine learning we're accustomed to seeing in movies, this might sound like child's play. But if these advances progress as quickly as predicted, big changes may be ahead.
+
+Comment below or via email, Twitter, and Google+.

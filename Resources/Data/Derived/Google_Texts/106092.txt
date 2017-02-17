@@ -1,0 +1,51 @@
+Leaked Encryption Draft Bill ‘Ignores Economic, Security, And Technical Reality’
+
+"This bill makes effective cybersecurity illegal."
+
+A draft of a proposed bill mandating companies give, under a court order, the government access to encrypted data is being derided by technology experts as “ludicrous,” as it “ignores technical reality” and threatens everyone’s security.
+
+The Hill reports that it obtained a discussion draft of the legislation, and others have posted the purported 9-page draft online.
+
+The bill’s proposers, Senators Richard Burr (R-North Carolina), Chair of the Senate Intelligence Committee, and Dianne Feinstein (D-California), top Democratic on the committee, neither disavowed the document nor confirmed its legitimacy, the Wall Street Journal reports.
+
+
+
+official MintPress sponsor official MintPress sponsor
+
+The draft states that, if faced with a government court order for data access, the company must “provide such information or data to such government in an intelligible format; or provide such technical assistance as is necessary to obtain such information or data in an intelligible format.”
+
+Essentially, writes Joshua Kopstein at Mothernboard, “the draft bill is an encryption-specific version of the All Writs Act, the controversial 1789 statute that the US government invoked to force Apple to build software capable of hacking into the San Bernardino shooter’s iPhone.”
+
+Describing the proposal at technology news website Techdirt, Mike Masnick writes that it is “even more ridiculous than originally expected,” adding that “what this bill requires is for tech companies to undermine the basics of encryption to make everyone less safe.”
+
+Such a possible risk to security was also underscored by the American Civil Liberties Union.
+
+“This bill is a clear threat to everyone’s privacy and security,” said Neema Singh Guliani, legislative counsel with the ACLU, in a statement Friday.
+
+“Instead of heeding the warnings of experts, the senators have written a bill that ignores economic, security, and technical reality. It would force companies to deliberately weaken the security of their products by providing backdoors into the devices and services that everyone relies on. Senators Burr and Feinstein should abandon their efforts to create a government backdoor,” Singh Guliani stated.
+
+Masnick added, “This bill makes effective cybersecurity illegal,” referring to encryption allowing the “building [of] systems as secure as possible to protect people from malicious attacks.”
+
+Wired cited numerous technology experts who denounced the bills’ implications, such as Kevin Bankston, the director of the New America Foundation’s Open Technology Institute, who said: “I gotta say in my nearly 20 years of work in tech policy this is easily the most ludicrous, dangerous, technically illiterate proposal I’ve ever seen.” Wired‘s reporting adds:
+
+“Apple’s app store, Google’s play store, any platform for software applications somehow has to vet every app to ensure they have backdoored or little enough security to comply,” says Bankston. That means, he says, that this would “seem to also be a massive internet censorship bill.”
+
+Sen. Ron Wyden, also a member of the intelligence committee, responded to the draft on Friday, stating that it “would definitely require [companies] to build a back door.”
+
+“For the first time in America, companies who want to provide their customers with stronger security would not have that choice—they would be required to decide how to weaken their products to make you less safe,” his statement continued.
+
+Other commentators charge that the document reveals a total absence of technological savvy on the part of the senators:
+
+You people beating up Burr/DiFi's Cuckoo Bill are missing the bright spot. Now we have PROOF our Intel Oversight run by blithering idiots. — emptywheel (@emptywheel) April 8, 2016
+
+Actor and writer Will Wheaton also curated tweets under the title “Feinstein-Burr’s anti-crypto bill is a technologically illiterate disaster,” which you can see here.
+
+“It’s pretty disturbing that these two particularly clueless people happen to be the highest ranking members on the Senate Intelligence Committee,” Masnick added, while Bankston told Wired, “If this is the level of nuance and understanding with which are policymakers are viewing technical issues we’re in a profoundly worrisome place.”
+
+Burr and Feinstein said in a statement Friday, “We’re still in the process of soliciting input from stakeholders and hope to have final language ready soon,” according to the WSJ.
+
+Reuters reported Thursday that the “White House is declining to offer public support” for Feinstein and Burr’s legislation.
+
+As the draft encryption bill makes waves, the Justice Department on Friday is continuing its push to get “Apple to unlock a drug dealer’s device even after the man pleaded guilty,” theGuardian reports.
+
+In a letter to U.S. District Judge Margo Brodie, prosecutors wrote: “The government’s application is not moot, and the government continues to require Apple’s assistance in accessing the data that it is authorized to search by warrant.”

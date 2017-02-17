@@ -1,0 +1,79 @@
+ASC cybersecurity: Developing an effective breach prevention program
+
+In February 2015, Anthem, Inc. announced its computer systems were hacked — “a very sophisticated external cyber attack” that sent shockwaves throughout the healthcare industry.
+
+“These attackers gained unauthorized access to Anthem’s IT system and have obtained personal information from our current and former members such as their names, birthdays, medical IDs/social security numbers, street addresses, email addresses and employment information, including income data,” Anthem President and CEO Joseph Swedish said in a statement. “Anthem’s own associates’ personal information – including my own – was accessed during this security breach.”
+
+The threat of a catastrophic data breach has never been greater, or more potentially damaging, to providers, payers and other industry stakeholders. According to the accounting and consulting firm KPMG, 81 percent of healthcare providers in the United States experienced a cyberattack during 2014-15. The survey also found that healthcare companies often find themselves unprepared by modern threats: Only53 percent of providers and 66 percent of payers “consider themselves ready to defend against a cyberattack.”
+
+It’s a trend that’s not difficult to spot when scanning news headlines:
+
+“MaineGeneral says computer breach included Social Security numbers” (Kennebec Journal & Morning Sentinel, Jan. 15, 2016)
+
+“A months-long cyber-attack against the UCLA hospital system could jeopardize 4.5 million people's information” (Associated Press, July 20, 2015)
+
+“Health Insurer Excellus Hacked: 10M Records Compromised” (Tech Times, Sept 15, 2015)
+
+The list goes on. A 2015 Raytheon|Websensestudy estimated that cyberattacks the previous year surged by 600 percent. The defense contractor also concluded that “the healthcare industry is more than 200 percent more likely to encounter data theft and sees 340 percent more security incidents and attacks than the average industry.” Data breaches involving protected health information (PHI) also can come with steep financial penalties. Since 2009, the U.S. Dept. of Health and Human Services has levied more than $28 million in fines under the Health Insurance Portability and Accountability Act’s breach notice requirement.
+
+Fines and HIPAA violations aren’t the only risk. On Feb. 12, 2016, it was reported that Hollywood Presbyterian Medical Center, in Los Angeles, was being held ransom for almost $3.7 million by a malicious software called “ransomware.” Ransomware encrypts all of the data it finds on a computer or network and holds it hostage by selling the decryption key for a price. Although a hospital spokesperson later confirmed the center paid $17,000 for the decryption key, a precedent has been set, and future ransoms are likely to increase in price. And healthcare devices may be next to fall prey to ransomware, according to Forrester’s 2015 report “Predictions 2016: Cybersecurity Swings to Prevention.”
+
+As general rule, if a computer, tablet, smartphone or any other electronic device is connected to the internet, then it's vulnerable to a cyberattack. And with more and more patient information undergoing digitization, this threat will only become more acute for our industry in the coming years.By implementing best practices in the following areas, however, ambulatory surgery centers and other providers can begin to limit their exposure to such a breach, and avoid costly and labor-intensive clean-up efforts that are left in its wake.
+
+Legal agreements
+
+Providers should outsource their liabilities as much as possible. This starts with following a business associated agreement (BAA), a requirement under the Health Insurance Portability and Accountability Act (HIPAA). BAAs ensure that electronic health records (EHR) and other data management vendors share the responsibility for keeping patient data safe. If a practice puts its health records into the hands of a hosted EHR, then it needs to make sure the EHR vendor, too, is liable for a possible HIPAA violation. This means that a practice will not be held exclusively liable in the event of a breach, especially if it’s a system the organization is not responsible for managing that is compromised.
+
+Cloud computing
+
+Offsite data storage is an additional tactic for outsourcing liability against a cyberattack. Big players like Amazon and Microsoft, as well as smaller industry-specific vendors, put leading information system security resources and expertise into the hands of even the smallest ASC. In fact, the federal government reportedly uses Amazon’s cloud-based services to host critical aspects of Healthcare.gov, the health insurance marketplace created by the Affordable Care Act.
+
+External auditors
+
+While the thought of someone outside of your organization rummaging through your computer files might not be appealing, external auditors can tell you where your current security efforts are lacking and what your practice can do to fix them. Auditors typically perform penetration tests and devise risk mitigation strategies. Though hiring such a firm is expensive, it’s no doubt cheaper than the cost of breach-related fines.
+
+Staff training
+
+One of the most common ways for hackers to penetrate a system is through social engineering—a non-technical method used by hackers to access sensitive information. An example of this would be someone calling an employee and saying they're from technical support or the back office and asking for passwords or IP addresses. Considering that social engineering is not a defined set of tactics, it’s recommended that organizations use reputable, established security firms that can provide comprehensive training against the latest threats.
+
+HIPAA experts/consultants
+
+At times, it’s necessary to bring in outside help. Hiring an experienced HIPAA security consultant will often provide an organization with the necessary expertise to reduce threats and avoid fines.
+
+But not all HIPAA consultants are the same. There's an important distinction to be made between a legal HIPAA security expert and a technical HIPAA security expert, both of whom are trained in quite different aspects of the federal statute. For example, technical HIPAA security experts frequently write recovery plans in the event of national disasters, while legal HIPAA security experts often advise clients on exact language in a BAA. Both serve critical, albeit very different, roles.
+
+Cybersecurity insurance
+
+Whether it’s after a fire, flood or cyberattack, insurance offers businesses protection for unexpected financial loss. And as the incidence of data breaches increases, so, too, has the need for IT-specific insurance solutions.
+
+As a result, many major insurance companies now offer cyber insurance, which helps organizations cover the cost of fines in the event of a breach. To issue a policy, insurance providers require that firms show they are being proactive and minimizing risk. Consistently documenting your ASC’s efforts reduces the amount of time and effort necessary to complete the underwriting of these policies. And before they sign a new policy, provides should read all of the fine print, especially pertaining to the organization’s exact exposure threat.
+
+IT breaches not only exact an immediate financial toll for repairs and lost productivity, but they also may harm a practice’s reputation and can come with steep federal fines for violating HIPAA requirements. By incorporating cybersecurity best practices into a daily routine, you can limit the risk of a breach, keep data safe and increase your ASC’s profitability.
+
+T.J. Rock has been an IT professional for over 15 years, and previously served as a systems engineer at the U.S. Department of Justice in Washington, DC, and a security implementation engineer at SAIC and the Defense Information Systems Agency.
+
+Sources:
+
+http://www.kpmg.com/us/en/issuesandinsights/articlespublications/press-releases/pages/81-of-healthcare-organizations-have-been-compromised-by-cyber-attacks-in-past-2-years-kpmg-survey.aspx
+
+http://money.cnn.com/2015/02/04/technology/anthem-insurance-hack-data-security/
+
+http://www.businessinsider.com/cyber-attack-against-the-ucla-hospital-system-could-jeopardize-45-million-peoples-information-2015-7
+
+https://www.websense.com/assets/reports/report-2015-industry-drill-down-healthcare-en.pdf
+
+http://blogs.wsj.com/cio/2014/06/06/healthcare-gov-floats-to-amazons-cloud-in-revamp/
+
+http://www.antheminc.com/AboutAntheminc/Leadership/ExecutiveLeadership/PW_E191992.html
+
+https://www.anthemfacts.com/ceo
+
+http://money.cnn.com/2015/02/04/technology/anthem-insurance-hack-data-security/
+
+http://www.techtimes.com/articles/84503/20150915/health-insurer-excellus-hacked-10m-records-compromised.htm
+
+http://www.cnbc.com/2016/02/16/the-hospital-held-hostage-by-hackers.html
+
+http://www.latimes.com/local/lanow/la-me-ln-hollywood-hospital-bitcoin-20160217-story.html
+
+© Copyright ASC COMMUNICATIONS 2016. Interested in LINKING to or REPRINTING this content? View our policies by clicking here.

@@ -1,0 +1,65 @@
+Federal overseers have seldom penalized the healthcare organizations responsible for safeguarding this data, a ProPublica review shows.
+
+In a string of meetings and press releases, the federal government's health watchdogs have delivered a stern message: They are cracking down on insurers, hospitals and doctors offices that don't adequately protect the security and privacy of medical records.
+
+"We've now moved into an area of more assertive enforcement," Leon Rodriguez, then-director of the U.S. Department of Health and Human Services' Office for Civil Rights, warned at a privacy and security forum in December 2012.
+
+But as breaches of patient records proliferate -- just this month, insurer Anthem revealed a hack that exposed information for nearly 80 million people -- federal overseers have seldom penalized the health care organizations responsible for safeguarding this data, a ProPublica review shows.
+
+Since October 2009, health care providers and organizations (including third parties that do business with them) have reported more than 1,140 large breaches to the Office for Civil Rights, affecting upward of 41 million people. They've also reported more than 120,000 smaller lapses, each affecting fewer than 500 people.
+
+In some cases, records were on laptops stolen from homes or cars. In others, records were targeted by hackers. Sometimes, paper records were forgotten on trains or otherwise left unattended.
+
+Yet, over that time span, the Office for Civil Rights has fined health care organizations just 22 times.
+
+By comparison, the California Department of Public Health, which also levies fines against hospitals for breaches of patient privacy, imposed 22 penalties last year alone and another eight in the first two months of this year.
+
+The federal Office for Civil Rights has clear authority to audit health care organizations to ensure they are protecting patient records, as well as to impose huge fines up to $1.5 million per violation. Yet experts on protecting health data have noted with chagrin how rarely the agency uses its power.
+
+"It's disappointing and underwhelming," said Bob Chaput, founder and chief executive of Clearwater Compliance, which helps health care organizations create programs to protect sensitive information. "They're not doing as much as they could or should."
+
+The Office for Civil Rights declined an interview request from ProPublica, but said in a statement that it "aggressively" identifies and investigates "high-impact cases that send strong enforcement messages about important compliance issues." The agency looks into all large data breaches, a spokeswoman wrote in an email, and the cases resulting in financial penalties "have involved systemic and/or long-standing" concerns.
+
+The agency's stiffest sanction to date came last May, when it hit New York-Presbyterian Hospital and Columbia University with fines totaling $4.8 million for failing to secure the electronic health records of 6,800 people. A physician had tried to remove his personal computer server from a shared network, causing patient records, including patient status, vital signs, medications and lab results, to be found on Web search engines. The problem surfaced when a person found a deceased partner's personal health information online.
+
+The federal government has played a growing role in health privacy and security since the passage of the Health Insurance Portability and Accountability Act, or HIPAA, in 1996. The law mandated standards for the use and dissemination of health care information and for how organizations protect electronic medical records.
+
+In 2009, the Health Information Technology for Economic and Clinical Health Act, known as the HITECH Act, went a step further. It required that organizations publicly report breaches involving at least 500 patients, increased how much HHS could fine organizations that violate patient privacy and record security, mandated that HHS conduct audits, and extended the rules to third parties that work with health care organizations.
+
+But since then, even HHS' inspector general has been critical of the way in which the Office for Civil Rights has used its authority. In November 2013, the inspector general faulted the agency for not performing audits mandated by the HITECH Act.
+
+A first, pilot set of audits, conducted in 2011 and 2012, showed that 102 of the 115 organizations reviewed had at least some problems with security or weren't following rules to safeguard patient privacy. A larger follow-up round of audits is only now getting underway, experts say.
+
+Consultants and experts in the field say the civil rights office has not fully explained the delays. Rodriguez, its former director, left last summer to head the U.S. Citizenship and Immigration Services. A new director has since taken the reins.
+
+Some industry veterans say the Office for Civil Rights is trying to strike a balance between working with organizations to improve their security and punishing truly egregious lapses. Health providers often agree to make voluntary changes even if they're not fined, the agency has said.
+
+"We've come a long way since HIPAA first came out," said Angela Rose, director of health information management practice excellence at the American Health Information Management Association, an industry trade group. "In the coming years, it will get better. It will get more strict."
+
+"What you don't want [the Office for Civil Rights] to become is somebody like your parking enforcement where they're funding themselves by issuing tickets or fines to everybody who has the smallest infractions," said Joy Pritts, who until last year served as chief privacy officer for the federal Office of the National Coordinator for Health Information Technology.
+
+Data security experts also say the Office for Civil Rights simply does not have the resources to handle its oversight responsibilities. While it can keep whatever fines it imposes to use for enforcement, it has fewer than 200 employees and a budget of just $39 million. Its duties, by comparison, are vast: Each year, it handles over 4,000 discrimination complaints, reviews 2,500 Medicare provider applicants to see if they are complying with federal civil rights requirements, and resolves more than 15,000 complaints of alleged HIPAA violations. The president is seeking a budget increase for the agency next year.
+
+"They're swamped," said Dan Berger, chief executive of Redspin, an IT security company that issues an annual report on trends in large data breaches.
+
+The number of large data breaches continues to increase. Last year, 278 were reported, according to federal data, up from under 200 per year from 2010 to 2012. Since the Office for Civil Rights reviews all of them, as well as some smaller ones and other complaints, years can pass before cases are closed.
+
+It took five years, for instance, for the office to impose an $800,000 fine against Parkview Health System for an incident in which 71 cardboard boxes of medical records for 5,000 to 8,000 patients were left unattended in the driveway of a physician's home. That incident was not reported as a large data breach but instead came in as a complaint from the physician.
+
+"I think the office is overwhelmed with the volume that's coming in and that's in part leading to long delays in resolving some of these cases," said Adam Greene, a partner at Davis Wright Tremaine, a law firm in Washington D.C., and a former OCR official.
+
+Some organizations currently under review by HHS say they don't know the status of their cases. In 2012, the state of Utah disclosed that hackers gained access to a server that stores data on Medicaid and children's health insurance claims. Social Security numbers of 280,000 people and less-sensitive information on 500,000 others were accessed.
+
+Since then, the state health department has had three official interactions with the Office for Civil Rights, the last coming in May 2014. "It's hard to tell where we are in the process," said Tom Hudachko, an agency spokesman. "We thought there would have been resolution by this point."
+
+Utah's Department of Technology Services, which handles all tech needs for the state, has increased security since the breach, hiring a new chief information security officer, received additional funding from the legislature, increased network monitoring to 24 hours a day, and arranged for an outside security assessment every two years.
+
+The Montana Department of Public Health and Human Services, which reported a hacking incident last year that affected more than 1 million people, also said HHS' investigation is ongoing.
+
+Some security experts say that the government needs to use its authority to impose fines to send a message. Bruce Schneier, a computer security expert and blogger, compared the situation to environmental pollution.
+
+"If the cost of polluting is zero, companies will pollute. How would a rational company not do that?" he said. "If your CEO said we're going to spend four times as much money not to pollute, he would be fired. What you need is to make security rational."
+
+This story was co-published with NPR's Shots blog.
+
+Twitter: @HFNewsTweet

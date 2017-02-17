@@ -1,0 +1,25 @@
+This fall, the medical device safety effort Congress kicked off in 2007 will reach another milestone. As of September 24th, all new, implantable life-sustaining and life-saving medical devices will bear a scannable unique device identifier (UDI)—similar to a barcode like one you’d find on a cereal box—that identifies a device’s make and model. Because the devices implanted in patients are critical clinical information, collecting these codes in health insurance claims databases would allow manufacturers, researchers, and regulators to track performance and identify safety issues.
+
+A spate of high-profile medical device recalls in the mid-2000s spurred Congress to create the UDI tracking system. Now, after years of legislating and rulemaking, manufacturers are doing their part by affixing UDI codes to their products.
+
+ADVERTISEMENT
+
+But despite private sector compliance, Congress’s intent in creating the UDI system—improved patient safety—has not yet been met. Until we collect this information and integrate it fully into the healthcare system, our medical device data will remain as outdated as paper files and faxed prescriptions.
+
+Device-specific information remains one of the black boxes of health data. In recent years, the American healthcare system has embarked on a digital revolution, and the nation’s largest payer, Medicare, has led the way with its rich claims information. A recent much-heralded data release shared unprecedented amounts of information about the drugs and procedures for which Medicare pays. There are countless applications for these data, including product development, creating new payment models, identifying efficiencies within current systems, and analyzing outcomes.
+
+However, the big piece missing from that data is device-specific information. Although Medicare can tally basic information about device-related procedures--how many are performed and how much we spend--we simply have no way of knowing which specific devices are used, because that data is not being collected.
+
+That means the Centers for Medicare & Medicaid Services (CMS), which administers the Medicare program, lacks key information about its single most commonly reimbursed inpatient procedure—joint replacement, which accounted for almost 450,000 admissions and $7 billion of spending in 2013. Just last month, CMS recognized joint replacement as a key opportunity to improve quality and control spending when it announced a major initiative to bundle payments for care associated with these procedures, thus providing an incentive for better clinical coordination and linking reimbursement with the patient outcomes.
+
+While bundling has the potential to be a transformative development in payment reform, policymakers need to be able to look “under” the bundle to see where the savings are coming from. . As long as CMS and other interested stakeholders cannot obtain information on the specific devices used in procedures, policymakers will stay in the dark on a key variable that can have a significant effect on the quality and cost of care.
+
+Claims data can also be a powerful tool for identifying problems in health care and developing solutions. The FDA’s Sentinel Initiative, which relies on claims data to track drug performance, has seen early success: At least 70 peer-reviewed articles have relied on data from the five-year-old project. Because of Sentinel’s accomplishments, Congress instructed FDA to expand the program to track devices, too. But this is a near-impossible task unless Sentinel has access to UDI data in claims.
+
+All that is needed to rectify the situation is a single change to the Medicare claims form. Conveniently, the form is already being updated, making the inclusion of UDIs a no-brainer. Unfortunately, CMS is opposing this change, which puts the organization at odds with FDA and many independent experts. The agency cites the cost of the entire claims form overhaul—which will happen regardless—as justification to avoid collecting UDI data.
+
+As the baby boomer generation ages, medical devices will become even more significant drivers of healthcare spending, and their performance will affect the health of more and more Americans. There is no excuse for allowing inertia to trump Congress’ intent by preventing us from harnessing this data to improve patient safety, transparency and accountability.
+
+CMS should include UDI information on the claim form during this round of revisions. If it continues to resist, Congress should step in and require integration of UDI codes so the system can fulfill its promise. The time has come to fill this gaping hole in Medicare data.
+
+Bjorklund recently left government after more than 20 years working on Medicare and other key healthcare issues, including the last 14 years as the lead Democratic health staffer for the Committee on Ways and Means. She is currently a Distinguished Visitor at the O’Neill Institute for National and Global Health Law at Georgetown University’s Law Center and a Senior Fellow at Georgetown University’s McCourt School of Public Policy.

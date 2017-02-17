@@ -1,0 +1,47 @@
+Robert Bohrer
+
+February 20, 2015
+
+Comparative effectiveness research was one of the hotly debated components of the Affordable Care Act. The pharmaceutical industry is marketing driven, with pharmaceutical companies spending more on marketing than they do on research and development. The need for a marketing edge can also drive drug development.
+
+As illustrated by the discussion below of Gazyva and Nexium, drugs can be developed at higher doses than the drugs they are intended to replace. When the newer, higher-dose drugs are tested against the older, lower-dose drugs, the trials are intended to show that the newer, higher dose drugs are superior to the older drugs that will soon be available as a biosimilar or generic.
+
+It can be very difficult to tell whether the results of such trials reflect the differences between the active ingredients or simply the difference in doses, but such trials are almost certain to lead to increased use of the newer, higher-priced drugs. Because the money at stake creates such an incentive for companies to stack the deck, publicly funded trials are the only way to make sure that evidence-based medicine is based on the best possible evidence.
+
+Gazyva v. Rituxan: More Effective, Or Just More Gazyva?
+
+Obinutuzumab (Gazyva in the US and Gazyvaro in the EU), Roche’s new antibody for Chronic Lymphocytic Leukemia (CLL), has been widely hailed as more effective than Roche’s older antibody Rituxan. However, comparative effectiveness studies are not always what they seem to be, and the evidence that Gazyva, a fully human antibody, is more effective than Rituxan, a chimeric antibody, is problematic. Like Rituxan (rituximab), Gazyva is a cytolitic (cell killing) antibody, targeting the same CD20 surface marker on B cells, and therefore both Gazyva and Rituxan have exactly the same mechanism of action — depleting the B-lymphocyte cell type in some hematological cancers.
+
+Gazyva and other second-generation anti-CD20 antibodies have been developed on the premise that features such as more complete humanization and different complement efficiency would provide greater efficacy. But since Rituxan is a very successful drug, with almost $8 billion in sales and a very good track record in prolonging the lives of people with non-Hodgkin’s Lymphoma (NHL) and CLL, we need to ask whether the evidence definitively supports the claim of Gazyva’s superiority.
+
+The biggest and best study supporting Gazyva’s superiority to Rituxan was published in the March 20, 2014 issue of the New England Journal of Medicine. That trial was a well-designed, randomized trial in which patients with CLL received either Gazyva plus chlorambucil, Rituxan plus chlorambucil, or chlorambucil alone. The data supports the primary conclusion that use of either of these anti-CD20 antibodies—Gazyva’s or Rituxan—is beneficial in the treatment of CLL, and the secondary conclusion that Gazyva was more effective than Rituxan.
+
+However, in this study Gazyva was administered at a higher dosage in general, with three doses in the first cycle compared to one dose of Rituxan in the first cycle. (Both drugs are dosed in six cycles of 28 days each.) It may indeed be the case that Gazyva’s apparent superior efficacy is due to its superior affinity for CD20, or reduced immunogenicity, or increased ability to kill the target B cells (referred to as complement-dependent cytotoxicity).
+
+But when two similar drugs are given at different doses, and the drug given at the higher dose has 1) greater efficacy and 2) a higher rate of lower-grade, presumably dose-dependent adverse events (infusion reactions, neutropenia, leukopenia, and thrombocytopenia), it is impossible to know if the efficacy is simply dose-dependent or instead results from the biological and pharmacological properties of the drug.
+
+In other words, did Roche develop a better second-generation antibody, or was Gazyva’s development simply premised on the theory that pushing the dose would result in superior effectiveness? Despite this ambiguity in the evidence, the US Food and Drug Administration (FDA) has decided to allow the results of the study to be summarized in the FDA-approved full prescribing information.
+
+The difficulty in comparing similar drugs used at different doses is not a new one, and it presents interesting challenges for pharmaceutical policy. The same question arose in the context of the FDA’s interpretation of the Orphan Drug Act as applied to allow the approval of Avonex and Betaseron, two versions of interferon beta, for the same orphan disease (relapsing forms of multiple sclerosis). The Orphan Drug Act prohibits the approval by the FDA of the same drug for the same indication for seven years; so to approve the two versions of interferon beta (Avonex is interferon Beta 1A and Betaseron is interferon beta 1B), the FDA had to determine that the second applicant’s drug (Avonex, made by Biogen Idec) was “clinically superior” to the first applicant’s approved drug (Betaseron).
+
+Because the patients in the clinical trials of Avonex had fewer adverse events (flu-like symptoms and injection site necrosis), the FDA reasoned that the second drug was demonstrably safer and therefore clinically superior. However, the FDA ignored the fact that the second drug was tested at a much lower dose, less frequently.
+
+It is not very surprising that a lower, less frequent dose of an injectable drug would produce fewer adverse effects, but the lower dose was nevertheless effective. The effectiveness at lower dose was not surprising, however, since a significantly lower dose (one-fifth the approved dose) of Betaseron also was effective in clinical trials when compared to placebo, in both reducing the rate of exacerbations and the mean lesion size, two very important clinical endpoints in multiple sclerosis.
+
+Once again, the issue is that, for an accurate comparison of two very similar drugs, the drugs should be tested head to head at the same dose whenever possible. That has never been done, and quite likely never will be, for Rituxan and Gazyva — unless, for example, the NIH were to fund the safety testing of higher doses of Rituxan in CLL patients (it is already used at much higher doses for Rheumatoid Arthritis), and then, assuming the higher doses are in fact safe, do a head-to-head study against Gazyva using both drugs at the same doses.
+
+Nexium: An Egregious Example Of Dosage Manipulation
+
+Perhaps the worst example, from a pharmaceutical policy perspective, of a pharmaceutical company varying doses when testing similar drugs is represented by AstraZeneca’s little purple pill (Nexium/esomeprazole) as successor to its breakthrough gastroesophageal reflux drug Prilosec (omeprazole). These are not merely similar drugs. In this case, the active ingredient in both drugs is exactly the same.
+
+There is, however, a “dosage” difference between the two pills. These chemical structures can occur in two “isomeric” forms, but only one of those forms has the desired pharmaceutical activity. In some cases the other form can be problematic; however, in the case of omeprazole the inactive isomer is just that, inactive. Thus, 20 mg of omeprazole, or Prilosec, contains approximately 10 mg of active isomer and 10 mg of inactive isomer, while 20 mg of esomeprazole, or Nexium, contains 20 mg of active isomer and 0 mg of inactive isomer.
+
+Although it took substantial efforts by chemists to synthesize only the single, pure, active isomer, the actual increase in effectiveness delivered by the single isomer appears to be slight. In four head-to-head studies of the two drugs, only two of the trials showed a small, but statistically significant, efficacy advantage in the rate of healing of erosive esophagitis and sustained relief of heartburn for the patients who took Nexium/Esomeprazole — even though these patients received either two times or four times the active ingredient dose as the patients in the Prilosec/Omeprazole group.
+
+The Path Forward: Publicly Funded Clinical Trials
+
+Whatever one might think of AstraZeneca’s marketing of the little purple pill, the end result is that consumers in the U.S. paid over $6 billion for Nexium in 2013, while virtually every single one of those consumers would have been adequately treated by the now very inexpensive generic OTC (over the counter) omeprazole; developing a higher dose of the same active ingredient and selling it as a different drug was pure business genius for AstraZeneca.
+
+Developing a lower dose of a very similar drug was equally successful for Biogen Idec in the case of Avonex. Developing a very similar drug at a significantly higher dose appears poised to pay off handsomely for Roche in the case of Gazyva.
+
+From a pharmaceutical policy perspective, we need publicly funded trials for comparative effectiveness research. Whenever possible such trials should be designed to evaluate similar drugs at comparable doses to determine their real comparative safety and efficacy. It is the only way to answer the question; “Is it really better?”

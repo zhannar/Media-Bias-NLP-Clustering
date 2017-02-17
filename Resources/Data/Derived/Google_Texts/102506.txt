@@ -1,0 +1,29 @@
+The launch of government data portals has done wonders for transparency efforts, but according to former U.S. CTO Aneesh Chopra, application programming interfaces [APIs] have an important role to play in making government information more useful to citizens.
+
+Chopra was the first-ever federal CTO, appointed by President Barack Obama in 2009. Together with then-U.S. CIO Vivek Kundra, the two focused efforts on making government more transparent with the Open Government Initiative.
+
+Chopra's departure from the federal government in 2012 brought him back to Virginia, where he served as the state’s technology officer before joining the Obama administration. Chopra threw his hat into the political ring by running for Virginia lieutenant governor during the June primaries, but lost to eventual Democratic nominee Ralph Northam.
+
+But losing an election hasn’t stopped Chopra from staying involved in government. He recently joined API management and strategy company Apigee where he serves on its advisory board.
+
+Chopra, a longtime advocate of open data in the public sector, said API development is a key digital strategy in unlocking government data, and will be instrumental in the development of new products and services that both advance the mission of the agency whose data is being released, but also grow the economy and create new jobs.
+
+Sam Ramji, vice president of strategy at Apigee, said that because APIs allow for access to data through multiple methods, it provides an “and” factor. Users can access data from a portal, mobile devices and kiosks.
+
+However, the progression of APIs will in no way replace the use of government portals for accessing data, Chopra said. It simply provides another outlet for accessing that same data.
+
+“It’s not an either/or by any means,” Chopra said. “There is no wrong door to access government data.”
+
+So far, API integration with government portals has already proved successful, for example, with HealthCare.gov, Chopra said. The portal, launched in 2010, is considered a first-of-its-kind guide to choosing health insurance information. Shortly after an API was released for the federal portal, data from the site was harnessed and provided on other websites so users could seek insurance information. Although it’s the same data from HealthCare.gov, it was presented to users outside of the site with the assistance of APIs.
+
+During the website’s development, overseen by the U.S. Department of Health and Human Services' former CTO Todd Park (who now coincidentally fills Chopra’s former position as U.S. CTO), the intention was that 90 percent of Americans using data provided on HeathCare.gov would not do so by going directly to the platform.
+
+“It’s all about data consumability," Ramji said. “That means starting with simplicity and ending with scale – that’s the big progression. The progression from what we call data in files on a server versus data that is live and almost effervescent coming out of an API – very consumable, very easy to tap.”
+
+APIs and the Affordable Healthcare Act
+
+The Oct. 1 deadline is fast approaching for the federal government’s mandated Health Insurance Marketplace to launch, an online application where users can view different health-care options and enroll in an insurance plan. But with the looming deadline just a week away, the marketplace, to be supported on HealthCare.gov, does not yet have its own API.
+
+During Chopra’s tenure as federal CTO, he helped draft the technical standards for the Affordable Care Act, the legislation connected to the marketplace. In those standards, Chopra advanced the idea that over time, the marketplace should have its own APIs.
+
+“My instinct is that within the next year or two [the HealthCare.gov Marketplace] will be one more example of an application that has APIs,” Chopra said.

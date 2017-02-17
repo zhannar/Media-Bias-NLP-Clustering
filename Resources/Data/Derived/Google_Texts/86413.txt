@@ -1,0 +1,31 @@
+Greenhouse Management: How does a software system help manage human resources (HR)?
+
+Greg Lafferty: Human resources is a closely regulated business process which covers everything from worker’s comp and family medical leave to affordable care. All those things are wrapped around HR. It becomes a paper intensive world, especially in greenhouses where the employee count can be huge. We’re talking about 300, 500, 1000 employees, and swings at peak time. It might go from 80 full-time, year-round to 300 employees during peak season.
+
+Keeping track of who were good employees, who doesn’t need to come back, who does need to come back, how long employees have been working for you; all those things are important, especially when you’re starting to get into the Affordable Care Act. You need to know how many full time equivalents you have. Do you owe them benefits, do you not?
+
+GM: Human resources can encompass a number of different subjects, including payroll, benefits, licensing, certifications, etc. In what ways does your system help simplify organizing all of these different subject areas?
+
+GL: Well the HR management system houses a centralized repository of all employee information. Whether that is health and dental benefits or beneficiary information or pay rates or certifications or worker’s compensation claims in the past, it is a central repository of all that information. The benefit being that if any information is needed about that employee, it’s all in one spot. When we’re thinking about managing pay rates per mile or licensing expiration dates or certifications and when those certs need to be renewed, all of that can be tracked with one system.
+
+And the administrators can be alerted to those particular life events. Whether that’s, “Hey, it’s his work anniversary,” or, “Uh-oh, his commercial vehicle license is about to expire. You’ve probably got to make sure he gets that renewed.” The administrators or those in authority can be alerted to that to take action and help.
+
+GM: How are they alerted?
+
+GL: It can be sent via an email, automatically, that says, “Here is everybody whose certifications are due to expire in the next 30 days.” And then continue to send you an email every day until those are corrected and renewed. Or it could be on like a centralized dashboard where they go in and look and get those notifications more in line.
+
+GM: What if an audit is being conducted? Could that information be accessed by the auditing agency? Could you provide proof of certification for particular employees?
+
+GL: If you are keeping track of that information in a centralized repository, then you can generate reports that say, “Here’s proof.” You can even scan documents and images and attach it to that employee’s file. If you wanted to make a photocopy of his driver’s license for whatever we’re trying to track then that can be attached to his record. And then if an audit happens, I can pull up all kinds of reports that show, “Okay, here’s the summary of all of our employees and here’s their certification dates and here is the attachments that prove that.”
+
+All that stuff can make an audit relatively easy. The alerting engine also keep us on our toes. We’ll know what those auditors are requiring then, if there is some employee that has a discrepancy, we can get that pulled out with a note that says, “This particular employee doesn’t have this record on file. We need to go track it down.”
+
+GM: How does the system manage payroll?
+
+GL: People are the greatest asset in an organization and your business lives and dies by its people. One of the methods of retaining people is to pay them. So payroll is another thing underneath the HR blanket that is regulated and has innumerable consequences if not done correctly. One consequence is the inability to retain good help. If your payroll gets messed up, chances are pretty good people won’t stay around for very long. They want to get paid and paid in a timely fashion and as agreed.
+
+If your payroll is incorrect, you can go to jail. It’s very important that payroll is done correctly. Our system not only manages benefits to those employees through an HR system, but can also handle paying those people.
+
+The system can recognize a piece rate or bonus pay employee versus a salaried employee and everywhere in between. The other thing that our systems have are standard government reporting, whether that’s printing out your W-2s at the end of the year or your 1099s or your I-9 reports or your EO reports or your 941 reports, all those reports just print naturally out of the system.
+
+The goal is to grow your business while minimizing additional labor costs. If your business adds on 300 more customers and you have to add 50 more direct laborer employees, that’s fine. But if you have to add on three more office administrative employees to manage that direct labor, that doesn’t really give you a direct benefit to the production process or to the customer satisfaction process. It’s just overhead. What our HR payroll system does is allow a smaller number of administrators to manage the paperwork and associated information about the employees making a direct contribution to the bottom line.

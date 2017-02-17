@@ -1,0 +1,57 @@
+Matthew Frank
+
+January 6, 2016
+
+Section 1557 is the primary nondiscrimination provision of the Patient Protection and Affordable Care Act (ACA).
+
+It prohibits discrimination on the basis of race, color, national origin, sex, age, and disability by applying existing civil rights laws to health insurers and providers that receive federal financial assistance. Specifically, the provision covers health insurers on the federal and state exchanges, hospitals, and physicians who receive Medicaid, meaningful use payments, and other forms of federal funding.
+
+However, under the proposed rules issued by the Office of Civil Rights at the Department of Health and Human Services (HHS), Section 1557 would not reach physicians who receive Medicare Part B payments but no other federal funding.
+
+If the proposed rules are accepted without change, a nontrivial segment of physicians will be exempt from complying with the ACA’s nondiscrimination provision. Contrary to the text and purpose of Section 1557, this would allow physician bias—a well-documented factor that may contribute to health disparities based on race and ethnicity (see, e.g., here and here), sex (here, here, and here), sexual orientation (here), age (here and here), and disability status (here)—to remain unchecked in many cases.
+
+HHS offers two justifications for its decision to exempt Medicare Part B physicians, neither of which are compelling. The first is a pragmatic argument: HHS concludes that the number of physicians who would be exempt is very small, though its analysis likely significantly underestimates the impact of the exemption.
+
+Second, HHS offers a substantive argument based on its prior interpretations of civil rights laws. However, these prior interpretations rely on inapplicable and outmoded rationales that run counter to Section 1557’s application of civil rights laws to health insurance and its sweeping breadth generally.
+
+The Number Of Exempt Physicians Is Likely Much Greater Than HHS Estimates
+
+HHS concludes that “very few physicians” will be excluded by the Medicare Part B exemption, but its analysis likely significantly underestimates the impact of this policy. Although HHS does not have “an exact number,” it argues that “almost all physicians” who receive Part B payments also “receive payments from other [] programs such as Medicaid or Medicare meaningful use payments.”
+
+Thus, HHS observes that 614,000 physicians receive Medicaid payments and 296,500 physicians receive meaningful use payments. While these figures are not adjusted for overlap, HHS believes that the programs cover almost all of the 890,000 physicians who practice in the U.S.
+
+Even if one assumes that allowing only a small number of physicians to discriminate constitutes an acceptable policy (which I do not), there is a major problem with HHS’ analysis: meaningful use payments to Medicare-eligible physicians end in 2016, after which this form of federal financial assistance will cease.
+
+Given that more physicians accept Medicare than Medicaid patients (because of higher reimbursement rates), it seems likely that a large portion of the 276,000 non-Medicaid physicians accept Medicare Part B payments but will receive no other federal funding once meaningful use payments end, and so will be exempt under the proposed rules.
+
+The Prior Interpretations Of Civil Rights Laws
+
+HHS also states, without offering further explanation, that the exemption of Medicare Part B from the definition of federal financial assistance is consistent with its prior enforcement of the civil rights laws incorporated into Section 1557, including the Civil Rights Act (which prohibits discrimination on the basis of race, color, and national origin), the Educational Amendments Act (sex), the Age Discrimination Act (age), and the Rehabilitation Act (disability). However, prior interpretations from HHS rely on inapplicable and outmoded rationales that run counter to Section 1557’s application of civil rights laws to health insurance and its text and purpose generally.
+
+To provide some historical context, Medicare was created under the Social Security Act in 1965, an era of significant civil rights reforms. Yet as David Barton Smith has observed (in his book Health Care Divided), given the substantial political power wielded by the American Medical Association as well as local and state medical societies at the time, the idea of imposing civil rights requirements on physicians was “inconceivable.” As a result, two separate but related arguments were advanced to support the Medicare Part B exemption.
+
+The Contract Of Insurance Rationale
+
+One argument is based on a view of Part B as a contract of insurance. When the Civil Rights Act was passed in 1964, it excluded “contract[s] of insurance and guaranty” from the definition of federal financial assistance. The Rehabilitation Act similarly excludes contracts of insurance from its definition.
+
+When Medicare was enacted, the Department of Health, Education, and Welfare (DHEW, predecessor to HHS) chose to define Part B as a contract of insurance, although social welfare programs are typically not deemed to constitute contracts of insurance. As Smith explains, DHEW argued that Part B was an indemnity insurance policy because payments (at the time) were made to patients for medical costs incurred, not to physicians. Based on this definition, DHEW and other regulatory agencies have held at different times that Part B physicians are exempt from the Civil Rights Act and the Rehabilitation Act because of Part B’s status as a contract of insurance.
+
+The Direct Payment To Beneficiaries Rationale
+
+The other, slightly different argument for the Part B exemption, which I call the direct payment to beneficiaries rationale, was articulated by DHEW as follows:
+
+Whether or not Medicare Part B arrangements involve a contract of insurance or guaranty, no Federal financial assistance flows from the Department to the doctor or other practitioner under the program, since Medicare Part B . . . is basically a program of payments to direct beneficiaries.
+
+On both the contract of insurance and direct payment to beneficiaries rationales, physicians who receive Part B payments are exempt from key civil rights laws, whereas providers who receive payments from other federal programs—most notably Medicare Part A (hospital care) and Medicaid—are not.
+
+While the contorted legal rationales distinguishing Medicare Part B from Medicare Part A and Medicaid were challenged by the U.S. Commission on Civil Rights as early as 1975 and again in 1980 (see the reports, The Federal Civil Rights Enforcement Effort – 1974, Vol. IV. To Extend Federal Financial Assistance (1975), and Civil Rights Issues in Health Care Delivery: A Consultation (1980)), these arguments are even less relevant in the context of the ACA.
+
+With regard to the contract of insurance argument, Section 1557 specifically prohibits discrimination by “any health program or activity” that receives “Federal financial assistance, including . . . contracts of insurance.” Therefore, even if Medicare Part B is deemed to constitute a contract of insurance, this rationale does not apply to the ACA.
+
+In turn, the direct payment to beneficiaries rationale has largely been eroded in practice. As legal scholar Mary Crossley wrote in a paper that addressed this lingering issue over a decade ago, since the 1980s the Medicare program has “taken a number of steps to encourage or require private physicians to accept payment directly from Medicare.”
+
+In addition, nearly a third of Medicare beneficiaries are now enrolled in Medicare Advantage managed care plans (Part C), which receive capitated payments to cover both hospital (Part A) and physician (Part B) services. Such plans are clearly recipients of federal financial assistance, which has led Crossley and other scholars to argue that the physicians contracted by these managed care plans should also be deemed recipients of federal funding.
+
+The Medicare Part B exemption runs counter to the sweeping breadth of Section 1557. HHS should interpret Section 1557 to reach not only providers that receive Medicare Part A and Medicaid payments, but also physicians who receive Medicare Part B payments. This interpretation is consistent with the text and purpose of Section 1557. The arguments offered to the contrary are inapplicable and outmoded, and also significantly underestimate the impact of the exemption.
+
+By applying the ACA’s nondiscrimination provision to all physicians who receive federal funding, physician bias would be reduced — an essential step in transforming our health care system so that all patients receive equal access to the health care they need.

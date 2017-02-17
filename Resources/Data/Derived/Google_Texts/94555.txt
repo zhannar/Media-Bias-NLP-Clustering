@@ -1,0 +1,71 @@
+You must enter the characters with black color that stand out from the other characters
+
+Message: * A friend wanted you to see this item from WRAL.com: http://wral.com/13301442
+
+— North Carolina has stopped development of a multimillion-dollar tax collection computer system, and Department of Revenue officials say they will start over and re-bid the entire project.
+
+The information technology system, which had been in the works for five years, is the latest to come up short of the state’s expectations, although it’s unclear exactly what caused the department to pull the plug. The system was being built by the same company responsible for the defect-riddled rollout of the federal website associated with the Affordable Care Act.
+
+"After considerable review of the project status and direction, (the Department of Revenue) decided that a new direction for replacing our tax processing system was needed," said Trevor Johnson, a spokesman for the department.
+
+The state and its vendor, CGI, agreed to part ways on Friday, but a formal termination agreement had not been signed as of Wednesday afternoon, Johnson said.
+
+Both CGI and Johnson emphasized that the TIMS system had played a part in helping the state identify $320 million in savings or unpaid tax revenues. Despite that purported success, the TIMS system is still not complete, with some tax returns still being processed using the 20-year-old system that TIMS was meant to replace.
+
+According to Johnson, at some point in the future, the state will seek bids to replace both TIMS and the legacy Integrated Tax Administration System with something different.
+
+Pressed for what specifically caused revenue officials concerns, Johnson said the department "went through a very deliberative process" and concluded there would be no future work on the system.
+
+"We will also begin the process of determining the appropriate path forward in respect to finding an alternate integrated system," Johnson said.
+
+Despite successes, questions raised about the contract
+
+North Carolina has paid CGI $63.85 million as of Wednesday, Johnson said.
+
+Figures compiled by the state's Office of Information Technology Services show that another $22 million was paid to other vendors for hardware in the system, raising the total cost to date to $85 million.
+
+Johnson said the state has also agreed to pay the company an additional $5 million for unpaid work.
+
+CGI is one of a handful of companies that regularly handles big information technology products for the federal and state governments. It may be best known as the original contractor that put together HealthCare.gov, the federal health insurance website that frustrated those trying to sign up for coverage under the Affordable Care Act.
+
+In its news release regarding North Carolina's revenue collection system, the company claimed the system has been a success.
+
+"TIMS has been operational since 2011 and has allowed the state to collect more than $320 million in tax revenue that otherwise would not have been recovered," according to the release.
+
+Linda Odorisio, a spokeswoman for the company, did not return a phone call seeking comment about the decision to end work in North Carolina.
+
+Despite the claimed successes, state officials have recently worried out loud about the company's work.
+
+North Carolina first started looking for a replacement to its 20-year-old ITAS system in 2008. CGI was the lone bidder on that contract, which was issued during Gov. Mike Easley's last year in office. The bulk of the work on TIMS took place during Gov. Bev Perdue's administration, but it still was not complete when Gov. Pat McCrory took office.
+
+In a March 2013 presentation to the General Assembly, Revenue Secretary Lyons Gray told lawmakers that the original contract had been modified 12 times and that total projected costs could climb to roughly $95 million. A separate estimate released by the Office of Information Technology Services on Wednesday pegged the cost to finish the entire project at $107 million.
+
+"The full implementation of TIMS will enable the Department to more quickly respond to legislative changes, mandates and requests for information, expand e-Services offerings to taxpayers, take advantage of new data sources and stay current with technology through version updates," according to a slide from Gray's presentation.
+
+But a provision in last year's budget bill anticipated the state may not be able to properly reimburse counties for certain joint tax collections because of "implementation issues with the Tax Information Management System (TIMS)." In a Dec. 11 memo to lawmakers, Gray wrote that his department was worried about the system despite its successes.
+
+"While DOR and CGI collectively achieve significant financial success through the early stages of the TIMS project, as efforts have continued, DOR has become increasingly concerned about the ability of the contractor to provide a quality product in a timely manner," Gray wrote.
+
+The memo mentions steps the state was taking to ensure the company met its performance goals.
+
+CGI was scheduled to deliver a final update to its system this spring, but a little more than a month after that December memo, the department ended the contract.
+
+IT problems not unusual
+
+It's unclear why, after praising the system, department officials soured on the project and eventually ended work.
+
+But it is not unusual for large state IT projects to run into problems. Complications with the massive NC FAST system, which is designed to allow beneficiaries to apply for food stamps and Medicaid benefits, and NCTracks, which is designed to make payments to Medicaid providers speedier and more accurate, have been a constant headache for the Department of Health and Human Services.
+
+The State Auditor's Office highlighted the Department of Revenue TIMS system in a report that showed the average large North Carolina IT project costs twice as much as originally projected and was delivered more than a year after its due date. For state-funded technology, failure a likely option
+
+That April 2013 audit found the original TIMS contract ballooned from a system that originally cost $525,000 to a total of $97.3 million. The state's Information Technology Services Office pointed out at the time that the increase coincided with a massive expansion in the scope of the project. But auditors said TIMS was emblematic of "the large monetary impact that inaccurate estimates for a few large IT projects can have on state spending."
+
+What is clear is that, for the time being, the Department of Revenue will be running two large tax computer systems. TIMS will process applications for 28 of 34 different types of tax returns. The department will continue to pipe the remaining six tax schedules through the old ITAS system. But those six schedules, Johnson said, create some of the biggest volume of returns.
+
+Although the project hasn't been in the news, the General Assembly's Joint Legislative Oversight Committee on Information Technology had flagged the TIMS system as a potential problem.
+
+"One of the things that we've been concerned about is the number of amendments to the original agreement as factors for concern and missed deadlines on later parts of the project," said Rep. Jason Saine, R-Lincoln.
+
+Frequent changes in the scope of a contract have been a harbinger of problems in other IT projects, he said.
+
+"Past IT projects have had a tradition in our state of becoming too big and costing too much money," Saine said. "Our focus has been to rope in costs and seek efficiencies in the procurement process to avoid these situations."

@@ -1,0 +1,31 @@
+This story has been updated to include comments from the Health and Human Services Department and from U.S. Chief Technology Officer Todd Park.
+
+Bugs and bad coding in the online insurance marketplaces built under President Obama’s health care reform law were serious enough to require repair over the weekend, officials confirmed to The Wall Street Journal.
+
+Since its launch on Tuesday, the site has suffered from glitches and slow service that often left people unable to enroll or choose an insurance provider. The White House previously attributed the poor service to high demand.
+
+Over the weekend, officials told The Journal that, in addition to adding new servers to handle high traffic, information technology workers and contractors needed to redesign key parts of the software underlying the site.
+
+The site, Healthcare.gov, serves 36 states that, combined, are home to about 30 million people without insurance.
+
+"We can do better and we are working around the clock to do so," Health and Human Services spokeswoman Joanne Peters told the Journal.
+
+Third-party IT experts told The Journal Healthcare.gov was built on a “sloppy software foundation” and likely hadn’t undergone enough testing.
+
+The site did not undergo testing from the General Services Administration’s “First Fridays” Web usability testing service, a Health and Human Services Department spokeswoman told Nextgov on Monday. First Fridays is a program to spot glitches in government websites and to make them more user friendly.
+
+Malfunctioning portions of the site include a system to verify the identities of people enrolling in the insurance exchanges, a system to determine whether people are eligible for federal subsidies to buy insurance or are eligible for Medicaid, and a series of security questions, according to people who tried to use the site.
+
+U.S. Chief Technology Officer Todd Park maintained in an interview with USA Today posted on Sunday that the site’s problems were entirely due to heavy traffic.
+
+He said Healthcare.gov was designed to accommodate 60,000 simultaneous users, which is double the all-time record of 30,000 simultaneous users for Medicare.gov, the site’s nearest corollary in government. Instead the site has drawn as many as 250,000 users since its launch, he said.
+
+"These bugs were functions of volume,'' Park said. "Take away the volume and it works.''
+
+Park was formerly CTO of the Health and Human Services Department, which oversees Healthcare.gov, and was involved in the early stages of the online exchanges’ design. Before joining government, he launched Athenahealth, which offers online tools for doctors and patients.
+
+A computer cloud that stores national insurance information that helps power Healthcare.gov tripled in cost since the contract was first issued through the Centers for Medicare and Medicaid Services in 2011.
+
+“This effort has experienced a significant degree of change after award,” CMS said in a contracting document. “At the time of the contract award, the scope of cloud computing needs to support the implementation of insurance exchanges was unknown.”
+
+(Image via Gajus/Shutterstock.com)

@@ -1,0 +1,35 @@
+The New Year brings plenty of changes with it, including new tax laws, a new set of resolutions, and of course, the implementation of the Patient Protection and Affordable Care Act, also known as Obamacare.
+
+As of Jan. 1, U.S. citizens are required by law to have health insurance or face a penalty when they file their taxes equal to the greater of $95 or 1% of their income. This actionable component of the PPACA, known as the individual mandate, will deliver increasing penalties each year through 2016, after which the penalties will increase in unison with the rate of inflation.
+
+Initial signs from the first two weeks of Obamacare's implementation demonstrate that things are working fairly well. Last week we noted that there hasn't been a major surge in preventative doctor visits, hospital visits, or prescriptions written, though practically the entire health-care industry expects this rush to occur at some point soon.
+
+Healthcare.gov's ongoing woes
+
+Still, the one sore point that remains is the federally run Obamacare website, Healthcare.gov.
+
+Initially, Healthcare.gov, which is responsible for operating health care exchanges in 36 of the nation's 50 states, was almost unusable for the first two months after it went live on Oct. 1. The website suffered from user overflow, a problem that was remedied with ease by the use of more servers, but also struggled mightily with IT-source code issues.
+
+Things have certainly improved since early December, when the trio of Oracle, Red Hat, and Google were brought in to assist in the tech surge to get Healthcare.gov working for a majority of Americans.
+
+However, problems still are being swept under the rug -- for example, those encountered when adding a baby to a family's health insurance plan. Under the old system, you'd simply tell your health insurance company you had a child and they'd add the child to your plan. Under the new system, you have to contact the government and notify them of your major life change, a process that could entail quite a wait before the baby is added to your health insurance plan.
+
+These ongoing problems with Healthcare.gov ended up being the straw that broke the camel's back for CGI Group (NYSE:GIB), the primary contractor behind Healthcare.gov.
+
+Out with the old and in with the new
+
+Yesterday, the Centers for Medicare and Medicaid Services announced that it would be replacing CGI Group as the primary contractor of Healthcare.gov when its contract expires, and hiring the second-largest technology-consulting company, Accenture (NYSE:ACN), to take the lead.
+
+Accenture's contract will be good for one year, and necessitates an initial payment of $45 million. Furthermore, Accenture will now take on the critical role of preparing Healthcare.gov for 2015's open enrollment period, which will begin on Nov. 15, 2014, and will include the implementation of the employer mandate on Jan. 1, 2015.
+
+It's unclear how this move will affect UnitedHealth Group's (NYSE:UNH) Quality Software Services, which had been promoted to a sort of supervisory role in ensuring that Healthcare.gov's fixes were completed on schedule. While many minor fixes remain, the website is working now for a majority of Americans, likely implying that QSSI will take a back seat to Accenture's role moving forward.
+
+Will this change make things better or worse for Obamacare?
+
+The removal of CGI from the lead role of Obamacare's website was a long time coming. There was no way that the CMS could leave CGI as the primary contractor after the circus of problems it dealt with over the first two months of Healthcare.gov going live. But will Accenture be the best fit moving forward for Healthcare.gov? Maybe... maybe not!
+
+On one hand, the hiring of Accenture to man the helm of Healthcare.gov makes a lot of sense. Accenture has been a trusted name in tech-consulting for as long as I can recall, and it was the lead architect behind California's state-run health exchange. That isn't to say that California's site didn't have its own set of problems when it went live on Oct. 1, but relative to many other states' sites and Healthcare.gov it has fared far better. In fact, no state has enrolled more people for Obamacare than California, proving that Accenture can handle large and complex projects.
+
+Then again, I have to wonder what the U.S. government is thinking by going overseas and hiring Ireland-based Accenture. Although Accenture has demonstrated nothing but competence thus far, it makes little sense for the U.S. government to choose a foreign contractor for a second time to build a health exchange within the U.S. In other words, when things went wrong we called in a tech surge consisting of U.S.-based technology companies -- but when it comes time to award development contracts for Healthcare.gov, a foreign company is again chosen. Frankly, I believe it leaves little room for upside and plenty of room for weakness in Accenture's share price if things don't go well.
+
+Ultimately, I don't expect to see a huge difference in the functionality of the Obamacare website over the next couple of months. Once we get passed the 2014 coverage cutoff date on March 31, 2014, then Accenture can begin thinking about how to improve the website for 2015 and incorporating small businesses into the fold. That's when we'll get a truer feel for whether Accenture was the right call or whether the CMS made a poor decision by looking overseas again instead of in our own backyard.

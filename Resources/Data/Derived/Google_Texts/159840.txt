@@ -1,0 +1,19 @@
+Le Monde | 27.10.2013 à 05h50 • Mis à jour le 27.10.2013 à 14h28
+
+Son site Internet fédéral, lancé le 1er octobre, est, en effet, miné par les bugs et les failles techniques. Vendredi, le site américain The Verge rapportait que l'administration avait promis sa réparation d'ici à la fin du mois de novembre. Pour l'instant, des dizaines d'entreprises et des centaines d'informaticiens se sont employés à le remettre sur pied, et 90 % des utilisateurs peuvent, au moins, se créer un compte, rapporte le site d'information.
+
+"CLICKJACKING"
+
+Mais ce n'est pas tout : le site serait très vulnérable aux éventuelles attaques de hackers, qui pourraient facilement utiliser la méthode du "clickjacking", soit du détournement de clics, pour avoir accès aux données personnelles de ses utilisateurs, révèle un article du magazine Mother Jones. Une faille de programmation permet en effet aux pirates informatiques d'insérer des liens invisibles sur les pages officielles du site.
+
+Lorsque l'internaute clique dessus, il est détourné sans le savoir sur un autre site, dans lequel il entre lui-même les données personnelles requises pour obtenir l'assurance – soit son nom, son numéro de sécurité sociale, son numéro de téléphone, son adresse mail, son revenu, son employeur... Le risque, explique Mother Jones : la création de fausses demandes d'assurance, voire le vol d'identité, permettant notamment d'ouvrir un compte ou d'obtenir une carte bancaire sous le nom de quelqu'un d'autre.
+
+UN "TEST" POUR OBAMA
+
+Ses farouches détracteurs ne manquent donc pas de profiter de ces avaries pour discréditer une réforme qui peine déjà à convaincre les Américains, voire pour décrédibiliser le gouvernement. Barack Obama, qui a maintes fois promis de "rétablir la confiance des gens dans l'institution du gouvernement", a, dès lors, tout intérêt à ce que le site officiel soit rapidement réparé, relève un article du New York Times.
+
+Car la gestion de ces défaillances pourrait faire figure de symbole de l'action, en général, de son administration. "La panne du site Web fédéral Healthcare.gov pourrait apparaître comme un test pour la philosophie de M. Obama, avec potentiellement de sérieuses implications pour un agenda qui repose largement sur la confiance en une bureaucratie efficace", estime l'article.
+
+Au-delà de l'image du président, le temps presse pour rétablir le site vital à la réforme de l'assurance-maladie, qui doit véritablement s'appliquer le 1er janvier : les Américains auront alors jusqu'au 31 mars pour souscrire une assurance, sous peine d'amende ; tandis que les compagnies privées auront interdiction de refuser la couverture de personnes présentant des pathologies ou des risques. Ces sociétés, mises en concurrence, doivent permettre à ceux qui en sont exclus d'avoir accès à une assurance santé à un prix abordable, grâce à une aide de l'Etat fédéral.
+
+Lire (en édition abonnés) : "L''Obamacare', une 'usine à gaz' bureaucratique qui ne convainc pas les non-assurés"

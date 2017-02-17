@@ -1,0 +1,61 @@
+Health care organizations are under attack. Criminals are stealing patient records in order to commit medical identity theft. And the Affordable Care Act (ACA) has made the situation worse, according to a new report from the Ponemon Institute.
+
+Ponemon estimates that these breaches cost the industry about $5.6 billion a year.
+
+The survey found the overall number of reported data breaches at health care organizations declined slightly last year, but criminal attacks on health care providers increased dramatically—up 100 percent since 2010. This is Ponemon's fourth annual Patient Privacy and Data Security study, and it finds that most data breaches are caused by sloppy practices, such as lost laptops loaded with unencrypted patient data.
+
+Related: HealthCare.gov Application Sets Off Privacy Alarm Bells
+
+"The information that's contained in a medical record has real value in the hands of a cyber criminal," said Larry Ponemon, chairman and founder of the Ponemon Institute. "And there's evidence that suggests that in the world of black market information, a medical record is considered more valuable than everything else."
+
+"The black market is being flooded with payment card data," said Rick Kam, founder and president of ID Experts, which sponsored the study. "That data expires rather quickly because financial institutions replace the cards. Your Social Security number and personal health record don't change. They have a long shelf life."
+
+Other key threats include employee negligence, unsecured mobile devices and third-party contractors who have access to the sensitive patient information of the health care organizations they work with.
+
+"The people in the health care industry are good people who sometimes do stupid things, and that is the source of a lot of the problems," Ponemon said. "They're trying to get their work done, they feel under pressure, they're in the business of caring for patients, and they don't want to waste time to do more security or take that extra step to protect privacy."
+
+The study, based on in-depth interviews with senior-level security personnel at health-care providers, looks at actual data loss and perceived risk. It concludes that health care providers do not have the resources necessary to deal with the combination of threats from both inside and outside their organizations.
+
+Related: Republicans Grill Sebelius on Unanswered Obamacare Questions
+
+"The average person probably doesn't realize how many people touch their data as it moves through the health care system," Kam told CNBC. "There's an average of six to 10 companies that will have your information just from one trip to the hospital." This could include the medical center, an ambulance company, outside labs, doctors who don't bill through the hospital, health insurance, and if you don't pay on time, a debt collector.
+
+And now that medical records are being digitized, it makes them more portable and more accessible to more people, including criminals within the organization and outside hackers.
+
+Of course, for the person whose medical records are stolen, the loss can be devastating.Just imagine what could happen if an ID thief claiming to be you has medical treatment, and their information gets added to your health record? Maybe they have a different blood type or allergies to certain medications. If that gets added to your file and you're rushed to the hospital in an emergency, that confusion could be life threatening.
+
+Problems Caused by Obamacare
+
+Millions of new patients have entered the U.S. health care system since October and their records have become what the report calls "a smorgasbord" for crooks. "There was a rush to get things done to meet the deadlines," Kam said. "A lot of energy and resources were spent on just making sure the exchanges operated. Unfortunately, not enough effort has been spent to make sure they were secure."
+
+Nearly 70 percent of those responding believe Obamacare has increased or significantly increased the risk of data theft, because of inadequate security. The top concerns were insecure websites for patient registration, insecure databases, and insecure exchanges between health care providers and the government. ACA representatives did not immediately return a request for comment.
+
+Pam Dixon, executive director of the World Privacy Forum, said she's seen "a profound increase" in the problem because so much personally identifiable medical data is now being transmitted. Dixon, who did not work on this study, said the ACA "was like adding jet fuel" to the medical identity theft problem.
+
+"It's been open season for scams related to ACA," she said. "I don't know that there was an easy way around that, but I think there was some lack of preparation on this front."
+
+Unsecured Devices and Negligent Employees
+
+According to the report, 75 percent of the information security officers surveyed see employee negligence as their biggest concern. They worry about the growing use of personal devices (smartphones, laptops and tablets) that are not secure and increase the exposure of personally identifying medical information.
+
+Most medical facilities (88 percent) allow employees to use their own mobile devices to access patient information, but more than half are not confident these personal devices are secure. Yet, 38 percent of these organizations don't do anything to ensure the devices are secure or prevent them from accessing sensitive information, the report said.
+
+More medical facilities now use a cloud-based system to store critical patient data. But some employees and third-party contractors use their favorite file-sharing sites to move this information around—and these sites may not be secure. "You could be oozing a lot of information and never know you had a data breach," Ponemon told CNBC.
+
+Is There Anything a Patient Can Do?
+
+Right now, patients are forced to trust the system to protect their most sensitive and personal information, without any proof that it is happening. And quite frankly, there isn't very much that can be done about it. The single most important thing patients can and should do is to check the Explanation of Benefits (EOB) provided from doctors and other medical providers. "It's a small thing that can make all the difference in the world," said Eva Velasquez, president and CEO of the non-profit Identity Theft Resource Center.
+
+Most people ignore EOB statements because they say "This Is Not A Bill" in big, bold type. But Velasquez said consumers should take a few seconds to look at the name of the provider to see if it's their hospital or doctor. If not, they need to investigate.
+
+"Even if you're not being billed right now, if someone has gotten a hold of your insurance information, that's a huge red flag," she said. "Eventually this is going to come back to you." Read the full study here.
+
+This article originally appeared in CNBC.
+
+Read more at CNBC:
+
+For-profit college charged with predatory lending
+
+More winter woes: Utility-bill scams pile up
+
+Why some of us are more vulnerable to online fraud

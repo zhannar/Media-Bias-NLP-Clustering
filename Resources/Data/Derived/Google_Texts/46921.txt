@@ -1,0 +1,43 @@
+Welcome to Health Reform Watch, Sarah Kliff’s regular look at how the Affordable Care Act is changing the American health-care system — and being changed by it. You can reach Sarah with questions, comments and suggestions here. Check back every Monday, Wednesday and Friday afternoon for the latest edition, and read previous columns here.
+
+Housekeeping announcement: Starting this week, you can sign up to get Health Reform Watch straight to your inbox! Just enter your information here, and you'll be all set.
+
+Every evening, just about 6 p.m. or so, the federal health-care marketplace sends insurance companies a very important set of data files. Each one looks something like this:
+
+This is an "834 EDI transmission." Insurers sometimes call it, more simply, "an 834." It is a technical, back-end reporting tool that consumers never see. It is meant to be read by computers, not human beings. It's the form that tells the insurer's system who you are and what you need. And it might be the new health-care law's biggest problem.
+
+Insurers report that, in some cases, 834s are coming in wrong. That's a much more serious problem than the online traffic bottlenecks that have dominated coverage of the health-care law's rollout.
+
+If people can't get into the Web site, then they simply have to come back later. But if they believe they've signed up for a plan but their 834 is a garbled mess -- or, even worse, clear but wrong -- it could mean chaos when they actually go to use their health insurance. For that reason, inside the health-care industry, the 834 problems are the glitch that is causing the most concern.
+
+To back up a moment: 834 transmissions aren't new. They have been around for decades as the standard form that employers use to tell their insurance companies which workers are on their health insurance plan each month.
+
+An 834 transmission contains enrollment data like an individual's social security number, their dependents and the plan that they picked. That data is, obviously, critical: If it comes in wrong, an applicant may not get the right plan, or family members may not be covered, or identity may not be verifiable.
+
+When developers began working on HealthCare.gov, they decided to use the same format. That, insurance industry consultant Robert Laszewski says, makes sense. If insurers already have a standard way to move information, why reinvent the wheel?
+
+"The smart thing for CMS to do was to transmit data the way the whole industry does," he says. "That was the common sense thing."
+
+There's a 40-page manual that the Center for Medicare and Medicaid Services developed back in March that explains how to use the 834 transactions, and where they turn up in the process. They're in the bar labeled EFT which stands for "Electronic File Transmission."
+
+"The FFE will send the first 834 transaction to a QHP Issuer(s) with enrollment information," the manual says. "This exchange contains the Initial Enrollment Notification transaction(s). This transaction is created after an application has been determined eligible and a Qualified Health Plan (QHP) selected."
+
+To translate that into non-insurance speak: The 834 transmission is the one form, in the giant machinery of HealthCare.gov, that lets insurance companies know who signed up for their product. It is the electronic file that lets them get to work printing member cards, mailing them out and, eventually, paying claims.
+
+The 834 transmissions have begun filtering out to health insurance plans. The only problem? A lot of them are wrong.
+
+The Wall Street Journal reported that one insurance plan got an 834 for a subscriber who, according to the data, had three spouses. This was surprising because the individual was not a polygamist. Two dependents had been incorrectly coded as spouses.
+
+Others have gotten reports for people joining the plan, unenrolling and re-enrolling multiple times in the course of a week -- or even the same day.
+
+Right now, health-insurance plans say they can manage these problems. Few enough enrollment forms are coming in that they're able to hand-check each one. "What our company, and I'm assuming others, are doing is throwing people at it," one insurer told Wonkblog. "We're overcoming the tech flaws with manual reviews and manual rigor and manual processes. That's fine right now, but when you start looking at the scale of what the Obama administration wants to do, that's just not going to scale up."
+
+This approach undermines the very point of 834s, which is to make it possible for the computer system to automate the process of enrolling tens or even hundreds of thousands of applicants each day.
+
+"The purpose of the electronic transaction is to be able to do this with a minimum amount of human intervention," says Stanley Nachimson of Nachimson Advisors, a health IT consulting firm. "The hope would be that the health plan's computers will be able to understand the transaction and do all the processes automatically."
+
+Some in the industry believe HealthCare.gov's traffic problems have been a blessing-in-disguise for the program: If applicants were being able to sign up easily but the 834 forms were coming in with this many errors the results could be disastrous.
+
+"Some days its going to be 100,000 coming in," Laszewski says. "The good news right now is there is a small enough number that they can scrub the data manually."
+
+We don't have much information on when the 834 forms will be fixed, but getting there is crucial to the health-care law's success. If people are going to enroll in health insurance programs, the companies covering them need to know about it.

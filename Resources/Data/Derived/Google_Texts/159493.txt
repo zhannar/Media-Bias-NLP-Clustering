@@ -1,0 +1,59 @@
+Last fall, the FDA issued a final rule to establish a unique medical device identification system (also known as UDI).
+
+There’s a big deadline looming in healthcare. By the end of this year, hospitals and other healthcare providers will have to begin demonstrating meaningful use of certified electronic health records (EHRs) or be subject to reimbursement penalties by Medicare and Medicaid starting in 2015.
+
+To avoid the penalties and qualify for incentive payments, providers will have to show, through a series of set objectives across three stages, that they use EHR technology to improve the quality, safety, transparency, efficiency and coordination of clinical care while maintaining the privacy and security of patient health information.
+
+It’s a lofty goal, but about 450,000 hospitals and other eligible providers already have complied with stage 1 objectives for EHR adoption and received more than $20.5 billion in incentive payments from Medicare and Medicaid since the program started in 2011.
+
+Achieving meaningful use has long been considered a job for IT and clinical departments, but as hospitals and providers are tasked with using EHRs in increasingly complex ways to meet stage 2 and stage 3 objectives, and as the healthcare system is overhauled to focus more on outcomes, it’s becoming clear there’s also an important role for supply chain.
+
+Proposed medical device tracking capability in EHRs
+
+One reason supply chain’s role in EHR adoption has been so vague, according to Dick Perrin, president of AdvanTech and co-chair of the Supply Chain Management Special Interest Group for the Health Information and Management Systems Society (HIMSS), is that “when you look at meaningful use criteria, there is no tight cross-linkage to the supply chain.” But that could change soon.
+
+On February 26, the Office of the National Coordinator for Health Information Technology (ONC), the governmental agency in charge of creating the meaningful use objectives, published a set of proposed changes to certification criteria for EHRs. Among the proposals is one that would require EHR technology to be able to record and display unique device identifiers (UDIs) about patients’ implantable devices.
+
+Last fall, the FDA issued a final rule to establish a unique medical device identification system (also known as UDI). To comply, medical device manufacturers will have to assign a unique numeric or alphanumeric code to most devices that hospitals can use to help track their distribution and use. Class III devices had to be labeled with UDIs by September 24 of this year and all implantable devices next year.
+
+Meanwhile, the ONC is considering requiring hospitals and physicians to document UDIs in EHRs for devices implanted in patients as part of stage 3 of meaningful use.
+
+[See also: Calculating the total cost of the healing environment.]
+
+“We believe that EHR technology will play a key role in the widespread adoption and utilization of UDIs, and that its use of UDIs can help reduce device-related medical errors and provide other significant patient safety, healthcare quality and public health benefits,” explained the ONC in the Federal Register notice. “Specifically, EHR technology could be leveraged in conjunction with automated identification and data capture (AIDC) technology or other technologies to streamline the capture and exchange of UDIs and associated device data in clinical and administrative workflows.”
+
+According to Karen Conway, co-chair of the HIMSS Supply Chain Management Special Interest Group and executive director of industry relations for GHX, this is notable because it’s one of the first mentions of supply chain (or supply chain-related technology, in this case) by the ONC.
+
+“I am more optimistic than ever that there is growing recognition for the role supply chain can play in improving meaningful use of electronic health records,” Conway said. “That doesn’t mean supply chain is a commonly used term in the hallways of the ONC, but the importance of documenting data on devices used in patient care is gaining attention.”
+
+Recognition aside, if hospitals are required to record UDIs in EHRs there will be a need for supply chain involvement. But what that involvement should look like—and when—is still unknown.
+
+Supply chain playing a larger role
+
+Another organization that is helping elevate the role supply chain can play in meaningful use is the Association for Healthcare Resource and Materials Management (AHRMM), through its CQO (Cost, Quality, Outcomes) Movement.
+
+“It aims to show the role that supply chain plays at the intersection of cost, quality and outcomes,” said Conway, who is an AHRMM board member and also worked on the CQO Movement. “As supply chain professionals, we don’t own cost, we don’t own quality and we don’t own outcomes, but we touch all of these areas. So if you look at it that way, you start seeing supply chain playing a bigger role” not only in achieving meaningful use, but also in response to other demands of healthcare reform.
+
+Perrin points to a recent “Dear Colleague” letter issued by St. Jude Medical as an example of how supply chain’s involvement in meaningful use efforts could impact cost, quality and outcomes. In the letter, St. Jude warns surgeons that some of their older pacemaker models can drop their output voltage during surgical electrocautery procedures, causing the pacemaker to effectively cease to function. If information about the pacemaker model (which would have been required if the UDI-related proposals had been in place) and a notification from the manufacturer were included in patients’ EHR, and surgeons had access to this information before the surgery, they could make better clinical decisions that would result in lower-cost, higher-quality care.
+
+As supply chain professionals, we don’t own cost, we don’t own quality and we don’t own outcomes, but we touch all of these areas.
+
+“Most clinicians, especially after they start to incorporate the EHR processes into their workflow, begin to see how access to the electronic information anywhere at any time can be beneficial both for them and their patients,” said Dwayne Gunter, president of Parallon Technology Solutions, which offers support for EHR implementation. Information included in patients’ EHRs also can help supply chain make better-informed, value-based purchasing decisions.
+
+It all comes down to the ability to harness data captured in EHRs. The supply chain is not just a vast source of data. Supply chain professionals also bring a level of expertise in translating that information so that it’s useful to other departments.
+
+“Supply chain professionals know better than anyone else the importance of capturing data on products for a variety of purposes,” Conway said. “The goal is to capture the data once at the point of use and be able to read it many different times, whether for recall purposes, billing or inventory management. If we’re all in our silos, we can’t see how the dots are connected.”
+
+Communicating the power of data
+
+So how does one make the case for supply chain’s involvement in achieving meaningful use? Conway and Perrin agree that supply chain professionals should begin discussions with senior leadership about the types of data that can be harnessed by EHRs and how that data can help make better clinical and financial decisions for the organization.
+
+“It’s a complex process of spreading the word, but the supply chain leader is in a great position to carry that message to other key leaders in the leadership continuum,” Perrin said.
+
+“The key is showing the value of capturing the data consistently and how it delivers value to so many different aspects of healthcare delivery—from cost control to clinical quality,” Conway said.
+
+They also suggest supply chain professionals check out educational and training resources from AHRMM and HIMSS. The organizations co-hosted a three-part webinar on the topic, and the presentations are available for download.
+
+Click here for more information on the CQO Movement.
+
+Reprinted with permission from THE SOURCE magazine, (C)HealthTrust 2014.

@@ -1,0 +1,33 @@
+When officials confirmed that HealthCare.gov was hacked last month, it sparked new concerns over the website’s vulnerabilities –especially with the second open enrollment period launching in November.
+
+The incident prompted investigations by the Government Accountability Office as well as the Health and Human Services Department’s Inspector General which both found serious weaknesses suggesting that consumer data could be vulnerable to hackers.
+
+But the news wasn’t all bad.
+
+The IG’s probe actually concluded that despite security risks, HealthCare.gov is actually pretty good at warding off cyber attacks.
+
+The auditors arrived at that conclusion by hacking the site themselves. The IG’s certified white hat hacker (or professional hacker hired to detect website weaknesses) launched an attack on Healthcare.gov and was blocked by the website’s defense system.
+
+Related: HealthCare.gov Not Fully Ready for Round Two
+
+Of course, as the auditors noted, weaknesses still exist and any security issues are cause for concern. So, the IG’s recommended that the agency should address the critical issues before the second launch of HealthCare.gov on November 15, when the open enrollment period begins.
+
+The GAO report offered a separate and detailed array of issues that left unaddressed pose security risks to user information and the entire website itself. This includes weaknesses in technical controls—including not enforcing strong passwords to the website. Both auditors recommended that CMS should strengthen its security efforts overall.
+
+"Until it addresses shortcomings in both the technical security controls and its information security program, the Centers for Medicare and Medicaid Services is exposing HealthCare.gov-related data and its supporting systems to significant risks of unauthorized access, use, disclose, modification and disruption,” the GAO report said.
+
+And though CMS officials said the breach last month did not compromise user data, Republican lawmakers were still quick to call attention to the issue.
+
+Related: Obamacare Websites Still a Mess and Costing Millions
+
+Sen. Orin Hatch (R-UT) called the news “yet another deeply disturbing failure of the president’s health law,” he added that “once again it is the American people who are bearing the brunt of the law’s failures.”
+
+CMS officials, for their part, said the hackers did not successfully carry out their attack, adding that the intrusion would not have any affect on the start of the second enrollment period.
+
+Regardless, Rep. Darrell Issa, Chairman of the House Committee on Oversight and Government reform called a hearing last week to question CMS administrator Marilyn Tavenner on the breach and other weaknesses spotted by the GAO.
+
+“What you found a year into this site is they were not using best practices," Issa said, blasting the administration for its management over the website.
+
+Tavenner and Democrats on the committee denied that anyone was harmed in the breach and that HealthCare.gov has the ability to successfully defend itself from attacks, as the new IG report suggests.
+
+Top Reads from The Fiscal Times:

@@ -1,0 +1,11 @@
+Could ridesharing services be saving lives?
+
+As pressure from taxi unions and DMVs has mounted across the United States, popular ridesharing services like Uber, Lyft, and Sidecar have faced bans and setbacks in several cities. Pittsburgh is one of the most recent places to force ridesharing services to close up shop. Intrigued by the local government's claim that these ridesharing services are detrimental to the public, Nate Good, a computer scientist, investigated what kind of societal effect they really have.
+
+Good examined data in Pittsburgh's sister city, Philadelphia, because Pittsburgh's data was not available. His quick and dirty number crunching compared the DUI rate from January 2004 to January 2013 to the DUI rate from April 2013 (the first time that all ridesharing services were in effect) to December 2013. He found that the DUI rate decreased by 11.1 percent in the ridesharing era. The drop for people under 30 was even more impressive: 18.5 percent.
+
+As Good notes, correlation does not mean causation and the study design was far from comprehensive. But it is highly probable that Uber and its brethren has saved more than a few lives. In May, Uber published a similar study that examined data in Seattle:
+
+"We estimate that the entrance of Uber in Seattle caused the number of arrests for DUI to decrease by more than 10%. These results are robust and statistically significant. The diagram below illustrates the "Uber effect" relative to the baseline of DUIs."
+
+These results here should be taken with an even bigger grain of salt. Uber obviously has a significant stake in the outcome so the potential for bias is high. Perhaps these looks at the data will encourage others to take a more systematic dive into intuitive assertion that people will choose a convenient, reasonably priced alternative to drinking and driving when it is available.

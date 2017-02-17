@@ -1,0 +1,27 @@
+Dartmouth's 'magic wand' pairs medical devices to Wi-Fi
+
+hello
+
+In this photo taken Wednesday March 2, 2016 in Hanover, N.H., Dartmouth College grad student Tim Pierson holds a prototype called "wanda" that can connect a medical devise to a WiFi network. Researchers envision it being used in homes so doctors could remotely monitor a patient's blood pressure. Associated Press
+
+CONCORD, N.H. -- Doctors could keep better tabs on their patients between visits with a simple wave of a magic wand-like device being developed at Dartmouth College.
+
+The prototype, dubbed "Wanda," is part of a multi-university project to develop ways to protect patient confidentiality as health care increasingly moves out of hospitals and doctors' offices and into the home. But beyond safety, simplicity also is a key goal, said doctoral student Tim Pierson, Wanda's creator.
+
+"Quite frequently in the computer security business, we invent things that are super-secure but hard to use, and people don't understand them," he said. "We set out to make something that my parents and in-laws could use."
+
+Here's how Wanda could work: A doctor sends a patient home with a Wi-Fi-enabled blood pressure cuff. Instead of having to type in a passcode to connect the monitor to a home Wi-Fi network, the patient just points the wand at the device.
+
+Once that connection is made, blood pressure readings can be transmitted back to the doctor's office.
+
+"In a hospital you tend to have trained people who can configure medical devices, and set them up and monitor them to make sure they're working," Pierson said. "If we're going to move into a world where sensors are outside of the hospital, we started wondering what are the challenges to configuring these devices in the home where there is no IT team, or in a small clinic with a couple of doctors and nurses?"
+
+The prototype consists of a ruler with two antennas attached to it. It can acquire a network name and password by being plugged into a Wi-Fi router, and is then detached and pointed at the medical device to connect it to the network. The password information is converted into binary code - ones and zeroes - with one antenna transmitting information packets containing the "ones" and while the other sends the "zeroes."
+
+Because the medical device is close to the wand, it can tell which packet came from which antenna based on the signal strength and can reconstruct the information. But a hacker farther away couldn't tell the difference.
+
+"One of the good things about this system is that the user doesn't even have to know that information. The wand can get it from your Wi-Fi router and impart it on the device," he said. "We talked to a lot of people who have Wi-Fi in their homes and have no idea what their password is."
+
+Researchers elsewhere have tried similar approaches using sound to transmit a secret key that allows devices to be paired, or accelerometers that pair devices if they are shaken, said Pierson. One drawback of those approaches is that they require some kind of extra sensor or equipment to be included in the medical device.
+
+Pierson's project is part a $10-million, five-year grant from the National Science Foundation to Dartmouth, Johns Hopkins University, the University of Illinois Urbana-Champaign, the University of Michigan and Vanderbilt University.

@@ -1,0 +1,61 @@
+Blair Levin once served the Federal Communications Commission as chief of staff to Reed Hundt. In 2009, Levin returned to the FCC to help draft the government's road map for enhancing nationwide broadband access. On Friday, the National Broadband Plan turned four years old. Here's how we're doing, according to the plan's former executive director.
+
+Brian Fung: Let's do a diagnostic here, four years out. What's your report card on American broadband?
+
+Blair Levin: I'd start the diagnostic with two core ideas. One is my favorite line from the plan — "This plan is in beta and always will be." Lots of things have changed, and I think the important thing is to understand where you want to go and then course-correct as you go.
+
+The second was, rather than judge the United States the way most people do by international rankings — which are very problematic because they both cherry pick data and are backwards-looking — what we've tried to focus on are, 'What are the things that lead to leadership down the road?' and there really are four.
+
+One is, are you driving fiber deeper? Are you using spectrum more effectively? Are you getting everybody on? And are you using the platforms to deliver public goods more effectively? It's mixed on all of them. But one of the surprising things is that if you'd asked me two years ago on number one, I would've said "No, we're not, and that's very troubling." But now I think we are.
+
+What changed for you?
+
+Google Fiber, primarily. Google, AT&T, C-Spire, Century Link, Brighthouse Cable — there's a lot of activity. We're not out of the woods yet, but if you look at it from the perspective of 2009, there really weren't any major communities for which there was any plan to get a 1 Gbps connection. Now, I think that at least by 2015, there will be a number of American communities that are significant that have the best networks in the world. That's actually progress. Google Fiber came out of the discussion we had with Google about the plan. It was kind of the planning activity that helped spark this thing.
+
+On number three, adoption, I don't think we're doing as well. But to the extent we're doing better, it's because of Comcast Internet Essentials, also a program that came out of the plan. I think the government is not doing what it should be doing in getting everybody on.
+
+If you had to write the next draft of the National Broadband Plan, would would it be about?
+
+The next plan is about open data. Using data to deliver services. How do government processes all transform to the IP platform.
+
+Let me turn back to Comcast briefly. Some critics say that the cable industry's consolidation generally, and Comcast's vertical integration in particular, could potentially threaten the Internet. What's your take on that?
+
+For a lot of different reasons and I hope you'll forgive me I've decided not to talk publicly about what I think about the merger. I may do it in a few months, but right now I'm actually conflicted.
+
+Okay, so let me ask about this, then: The whole debate about interconnection and paid peering. Is that something you considered—
+
+—We actually didn't get into that in the plan. We stayed away from it, and the reasons we did that is really two fold: Our understanding was that that was something the commission was going to do before the plan was released. The plan was required by an act of Congress in February of 2009. I got hired in June. Julius Genachowski came on board in July, and the first thing he wanted to do was net neutrality. So we actually didn't deal with it at all.
+
+
+
+(Pew Internet & American Life Project)
+
+Is that something that you wish you'd tackled, in hindsight?
+
+No, and there are two reasons for that. One is that if we'd done that we would have done nothing else. As a practical matter, if we had told people we were going to be involved in that decision-making, I would've been called into every ex parte meeting. But the real thing is, I don't think we would've added much value. That was a mature policy debate that goes back a long way. And frankly, anything — I can't think of anything we could've said, even if I'd had 100 percent foresight that would've added value to that debate.
+
+Continuing along that line, is there anything you wish you'd dealt with that you didn't?
+
+We really wanted to deal with data. That is to say, privacy and security. Because data is really the fuel that drives all this. There's a tremendous amount of value there. You wrote a really interesting piece about Colombia, in which you noted that they're giving people a locker in the cloud. And collecting people's education and medical data. That's a great idea. I wish we'd come up with that.
+
+I just saw earlier this week that the city of Los Angeles is suing Time Warner Cable. Why is it that cities are throwing themselves at companies like Google for fiber and the relationship with incumbents is so bad?
+
+There's a relationship between how Google Fiber has woken up cities to how they need to control their own bandwidth destiny. Google Fiber has raised all kinds of questions about the relationship between cities and their broadband.
+
+About 40 years ago, the deal was between the cities and cable, which is you get a monopoly for multi-channel video, but you gotta do certain public-interest things. Now the world is very different. The incumbents argue correctly that they face all kinds of competition in various markets they didn't face before, and that therefore they shouldn't be required to do certain things that in the past they've been required to do. They make a good point.
+
+On the other hand, the communities say, "Wait a minute. You have all kinds of economic opportunities. And we depend on you for certain things." We need that infrastructure to deliver world-class education now. That was not true when those old social contracts were being done. So what you have is a situation where both sides that were subject to the earlier social contract are discontent. And Google comes in and says, "How about a new social contract? We don't want to make you pay money, but if you change your rules and regulations in a way that make it easier for us to deploy, we can deploy."
+
+We might just be creating a new kind of cable monopoly if we give Google the ability to build out all this fiber and then Google becomes the next incumbent, though, right?
+
+You know, at a time when Google has less than 1 percent of the market, it's amusing. What you've said, others have said. I don't dismiss it, I just say: Wouldn't that be a nice problem to have?
+
+Whatever harm you think there might be from a non-net neutrality regime, which is that somebody gets bad service — or, whatever problem you think might be caused by a net neutrality regime, which is that people don't invest — those are the two principal debates. If everybody gets a 1 Gbps connection at an affordable price, those two problems are solved.
+
+That's something I did not see when we were doing the plan, because we weren't focused on the issue. But my view now is that bandwidth abundance should really be the north star of FCC policy.
+
+One last question on Comcast. We were talking about Internet Essentials. How much skin is it off of Comcast's back to offer this deal if it's already paid the cost of bypassing every home with cable?
+
+That's a great question. Let me give you an answer that might surprise you: I hope, nothing. (Laughs)
+
+Here's what I mean by that: The great thing about those Comcast Essentials and Google Fiber, to me, is that you have two companies who are situated to do something which creates a public good. But they're doing it in a way that also creates private value. The reason that's great for me is that, at the end of the day, charity is not sustainable.

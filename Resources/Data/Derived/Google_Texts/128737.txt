@@ -1,0 +1,17 @@
+In January of 2015 we wrote about how healthcare.gov—the flagship site for the Affordable Care Act—was leaking personal data to third party services. The story gained a lot of attention in the press and in the government. Many privacy concerns were raised, and it appears that the administrators of healthcare.gov took notice.
+
+Last week, officials with healthcare.gov announced plans to improve privacy across the service, including a new privacy policy, easy privacy controls for users, and a commitment to honoring the Do Not Track header.
+
+Heathcare.gov users will now be able to disable tracking by advertising beacons, social media, and analytics services on the health care website if they so choose. And users who have turned on the "Do Not Track" feature in their browser—which is automatically enabled by Privacy Badger—will have advertising-related tracking disabled by default.
+
+Without privacy settings disabled, Privacy Badger detects 4 potential trackers on the healthcare.gov website. Without privacy settings disabled, Privacy Badger detects 4 potential trackers on the healthcare.gov website.
+
+With all privacy settings enabled, Privacy Badger detects zero trackers on the healthcare.gov website. With all privacy settings enabled, Privacy Badger detects zero trackers on the healthcare.gov website.
+
+Managing the tracking opt-out preferences for healthcare.gov is a company called Tealium. According to their policy, Tealium does not “see, collect, or store [user] data.” Their system works by “building a set of instructions for the browser to execute. These rules allow the management and routing of data to be done within the browser itself and not through Tealium’s servers.” Tealium has also stated that IDs stored in its cookies are different on each website, and that they do not use any sort of browser fingerprinting or supercookies. These safeguards would make it very difficult for Tealium to use this service to track healthcare.gov visitors.
+
+We applaud healthcare.gov's decision to support Do Not Track and give their users strong privacy controls. Since we're privacy perfectionists, though, we think there are a few more small changes they could make to improve their users' privacy even further. For example, users must accept a cookie from healthcare.gov in order to store privacy preferences; thus, users who have chosen to disable cookies will not be able to set any privacy protections. (Do Not Track will still be honored even when cookies are turned off, however). We think that users who disable cookies are expressing a privacy preference, just like users who activate DNT, and we recommend that websites treat users who disable cookies the same way. (Note that while this would require a little clever JavaScript, it's definitely technically feasible.)
+
+Another possible improvement would be to disable social widgets and analytics, and limit logging, for all DNT users as under EFF's Do Not Track Policy. We have suggested some of these changes to healthcare.gov and are discussing with them further improvements that they can make to their system.
+
+We think that this is a great first step toward protecting consumer privacy on the part of healthcare.gov. We are very excited by this new development and we would be thrilled to see more organizations, both public and private, follow their lead and create a web that protects people’s privacy. Until then you can always install Privacy Badger to tell websites you do not want to be tracked, and block them when they do.

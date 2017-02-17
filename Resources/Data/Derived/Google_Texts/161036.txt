@@ -1,0 +1,57 @@
+By Adam O'Neal - November 25, 2013
+
+The tech world was a very different place in 1996. Just 20 million Americans had Internet access. On average, those people spent less than 30 minutes per month online. AOL still charged users by the hour. Windows95 dominated the operating system market. Facebook, Twitter, and Google didn’t exist.
+
+That year was also the last time that the federal government enacted major information technology reforms, which is part of the reason almost 94 percent of federal IT projects are over-budget, late or unacceptable to users, according to data from the Standish Group, a tech industry research firm.
+
+The most glaring government IT failure in recent memory has been the breakdown of HealthCare.gov. President Obama, voicing his frustration for the tech problems that undermined the rollout of his signature policy initiative, has blamed government IT procurement practices. Speaking at a Wall Street Journal forum last week, he said his administration needed to “blow up how we procure for IT” given how “generally not very efficient” the current system is.
+
+Although small changes to acquisition have been enacted over the years, this most recent debacle has finally raised fundamental questions about the way that the federal government spends $84 billion annually on IT. Experts say that the system will never be perfect, but there are a few areas where reform can begin.
+
+So, what’s wrong with IT acquisition?
+
+Plenty, according to the Software & Information Industry Association’s Mike Hettinger.
+
+Hettinger, who has nearly two decades of experience in government IT and procurement, said that the rollouts for such websites -- tainted by the glacial, esoteric nature of government IT culture -- almost always have glitches.
+
+“We’ve recognized this over the course of many years,” said Hettinger, who pointed out several problems with the current system.
+
+The entire process of procurement simply takes too long, he asserted. First, the federal government puts out a notice of what services it seeks. Then companies review whether or not they have the capabilities to fulfill a contract (or they hire subcontractors). Then companies submit proposals and the government slowly sifts through them.
+
+The problem is that the process can take months -- if not more than a year. Companies can also appeal if they lose the bid for a contract, and the appeal process can take up to a year. Hettinger noted that sometimes “technology moves quicker than the acquisition process can keep pace with.”
+
+Not only is the actual contracting process long, but the preparation for the process is too.
+
+“It can often take a small business months just to get set up to be eligible to win contracts,” Clay Johnson, CEO of the software company Department of Better Technology, wrote in his manifesto about how to fix federal procurement procedures.
+
+This slow pace of acquisition has a degrading effect on government personnel’s effectiveness. “Because technology is moving so quickly, the acquisition personnel in the government aren’t used to buying innovative technology,” Hettinger explained.
+
+Part of the slowness stems from how inherently risk-averse the process is designed to be.
+
+“It’s a voluminous process, it’s very stringent and it is very rules-based. And it has to be. But that doesn’t necessarily make it the best way to acquire IT,” said Hettinger, who noted that “you want to be able to have some flexibility.”
+
+Still, not everyone wants to see reforms that simplify procurement. Large companies like CGI Federal -- one of the primary HealthCare.gov contractors -- have mastered the complexities associated with federal procurement law. Simplification would likely cause such established contractors to lose some of their advantage in securing contracts.
+
+One industry insider who has been involved with several federal IT projects told RCP that as far as details and requirements go, “the more the better.”
+
+He also claimed that the complexities helped everyone in the system: “The more requirements that are laid out, the more clear those requirements are, the better it is for any IT company in their ability to meet those requirements.”
+
+Farhad Manjoo, a technology writer for the Wall Street Journal, wrote last month that complex requirements lock out “all but a tiny handful of full-time contractors -- companies who also happen to be big federal lobbyists.”
+
+Beyond speeding up and simplifying the process, lawmakers might also look at how budgeting for these projects works. Hettinger explained that IT budgeting is spread throughout different programs within government departments, instead of managed at the top, making it difficult for different agencies to utilize uniform systems.
+
+“That’s why you wind up with 22 e-mail systems and that sort of thing. There was never a strategy that said, ‘We need to have one e-mail system across [an entire department],’” said Hettinger.
+
+Daniel Castro, director of the Center for Data Innovation, pointed out that government technology leadership, like budgeting, is also spread throughout different programs, making it difficult to employ uniform policy.
+
+For example, the chief information officer of Health and Human Services “isn’t really the one in charge of HealthCare.gov. And that wasn’t really the way the CIO system was designed when it was pitched to Congress,” Castro explained.
+
+Not only is there a leadership vacuum on many projects, but the actual quality of employees may vary. Castro noted that mismatched expertise and a lack of entrepreneurship within federal agencies exacerbate many of the problems.
+
+Professional Services Council CEO Stan Soloway, who also served as the deputy undersecretary of defense for acquisition reform in the Clinton administration, said that segmented training produces “perfectly set up silos of mediocrity.”
+
+“We have procurement people trained in a procurement pipeline. We have technology people [living] in a technology pipeline. … They don’t do cross-training. They don’t do cross-disciplinary rotations,” he bemoaned.
+
+Training, in addition to being isolated, also fails to promote entrepreneurship, according to Soloway.
+
+“Acquisition people are expected to be able to negotiate and engage in complex business arrangements, sometimes involving complex technology. But they’re not receiving the same kind of business acumen training … you’d want if you were in the private sector.”

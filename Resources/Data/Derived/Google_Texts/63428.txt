@@ -1,0 +1,81 @@
+With a March 31 deadline fast- approaching to purchase health insurance or risk a penalty, the White House is engaged a media blitz encouraging people to check out healthcare.gov.
+
+"Healthcare.gov works great now," President Barack Obama said during a video appearance on comedian Zach Galifianakis’ faux talkshow " Between Two Ferns " — right after Galifianakis mocked it as "the thing that doesn’t work."
+
+So does healthcare.gov work "great" now? "Great" is a subjective term, but we decided to investigate exactly how far along the site has come since its early troubles. Our review focused on three different groups: consumers, health insurance companies and state Medicaid programs.
+
+What we found is a site that is markedly improved but with persistent technical issues yet to be fixed.
+
+Consumer experience improved
+
+Back in October, when healthcare.gov was unveiled for the 36 states that chose not to run their own in exchanges, the error rate for the website was roughly 6 percent, according to an extensive Time story on the website’s turnaround . That meant the small number of visitors who were on the website were likely to hit an error message before the 16th click through the site. Site response time initially was around 8 seconds, a glacial pace, and it couldn’t handle a high volume of traffic.
+
+A fix-it team got to work, and by mid January error rates had fallen to 0.5 percent, and response time was "consistently less than half a second," according to the Center for Medicare and Medicaid Services . The site was able to handle 1.8 million visits a day, including 83,000 at once.
+
+Other improvements were added as well. The site now allows individuals to scan policies and premiums and determine their eligibility for Medicaid and subsidies without filling out a formal application.
+
+The most recent numbers show 2.6 million have selected a plan on healthcare.gov through February.
+
+Navigators who work with consumers say most people looking to sign up for coverage are having a dramatically better experience on the site.
+
+"Some of the things that were being reported early on, a lot of folks experienced them, whether it was flow (from page to page on the site) or they got kicked out of it. We don't see any of those things any more," said Jodi Ray, who teaches navigators for Florida Covering Kids & Families at University of South Florida.
+
+Not everything is perfect, though.
+
+Until recently, consumers who purchased coverage through healthcare.gov could not update their accounts for life changes, like having a baby or getting married. According to the latest IT update from CMS, that has been fixed.
+
+Prior to the update, customers tried to add their newborns by contacting the provider directly. The law intended for people to make those changes at healthcare.gov, not through insurance companies, and some leeway was granted from the administration for insurers to take care of that manually, according to America’s Health Insurance Plans, a national trade association for the health insurance industry. Confusion still persists.
+
+In February, there were also 22,000 Americans who filed appeals after discovering mistakes in the policies they purchased on healthcare.gov, according to the Washington Post .
+
+CMS is personally contacting those individuals, a spokesman told PolitiFact, to remedy the situation without the need to formally complete the appeals process (which the Post reported does not exist yet). Many of the issues stemmed from problems that were fixed in subsequent technical upgrades, the spokesman said.
+
+Insurance companies behind-the-scenes battles
+
+Insurance companies are facing a handful of back-end issues with healthcare.gov that may not get fixed until after the open enrollment period ends on March 31, and perhaps longer.
+
+For starters, a system has yet to be built for the government to pay them.
+
+Here’s how it’s supposed to work: Uninsured Americans who are eligible for subsidies to buy coverage pay a discounted amount to the insurance companies. The federal government then pays the insurance company the difference.
+
+But that system is in the works. In the interim, the federal government is tallying how much they owe and funneling the money through existing payment channels with providers, like the Medicare system.
+
+For a while, the online portal was also sending a garbled mess to insurance companies when trying to transmit information on new enrollees. Data was often wrong, missing or didn’t communicate properly with insurance companies. People who thought they bought a policy suddenly discovered that their provider didn’t have the proper records for them.
+
+This problem is more isolated now, America’s Health Insurance Plans said. But because many of the errors were fixed manually, a lot must still be done in the back end to ensure everyone's information is properly stored on healthcare.gov. This is especially important for next year, when people will be able to shop again and change plans if they wish.
+
+Health officials are still working to improve communication between healthcare.gov and the insurance companies, and some systems must still be built and tested, particularly for more complex consumer transactions. That could take months.
+
+"At the end of the day it causes disruption for consumers," said Robert Zirkelbach, spokesman for America’s Health Insurance Plans. "It can lead to delays in enrollment or processing their payment, which is necessary for coverage to begin."
+
+State struggles
+
+Not everyone accessing healthcare.gov is purchasing private insurance. Some low-income individuals are told they are eligible for Medicaid, and they are instructed to complete an application to apply for the federal-state health program.
+
+But states that deferred control of their online marketplaces to the federal government are having a hard time getting information for new Medicaid enrollees. Again, the issue is with the back-end of healthcare.gov. It’s especially a problem for states that accepted the Medicaid expansion and are experiencing a large volume of new accounts.
+
+In October, states were told to get their systems ready to "talk" directly with healthcare.gov. Pennsylvania, for example, rushed to make about 70 technological tweaks, said Kait Gillis, spokeswoman for the Pennsylvania Department of Public Welfare.
+
+"Healthcare.gov had our criteria for what would determine an individual for medicaid eligibility. So when someone went to the site it was supposed to say, ‘You are potentially Medicaid eligible,’ and then their information would come to us," Gillis said. "When the time came, it didn’t work. So we were unable to receive those account transfers."
+
+Federal health officials sent Pennsylvania what amounted to a spreadsheet with about 55,000 new Medicaid accounts to fix the problem manually. But a lot of information was still missing.
+
+The website has finally been able to send account information for about 43,000 new Medicaid enrollees, but the state is trying to track down the remaining 12,000 accounts.
+
+Arizona estimates about 60,000 accounts created on healthcare.gov remain in limbo. By using a hard file sent by federal health officials, they have deleted duplicative accounts and prepared their system for when all the account information can be sent automatically.
+
+"We have high confidence that we will accomplish our goal but want to be clear that progress is slow going," said Monica Higuera Coury with the Arizona Health Care Cost Containment System. "There simply isn’t any way to make it go any faster."
+
+States, and even the federal government, are telling people who should get Medicaid to avoid healthcare.gov and are instead directing them to apply through their state health departments.
+
+CMS said some states have been able to automate Medicaid enrollment systems and others are working out the kinks to do the same. New Jersey officials told PolitiFact that after early challenges, they have now processed 60,000 applications and receive a new batch of accounts weekly.
+
+In some states, people who thought they were signed up for Medicaid may not be formally entered into the state system. While their benefits will be retroactive to the date they enrolled, getting care may not be easy.
+
+"Some people have experienced some challenges," Gillis said. "Going to a doctor and saying, ‘I am Medicaid eligible, and I’ll pay you back’ — I don’t know how many doctors are open to accepting patients in that situation."
+
+Our conclusion
+
+Obama said healthcare.gov is "working great now." Compared to the site’s functionality in October, that may be a fair assessment.
+
+But for a website four years in the making, there are still a lot of issues that are making it difficult for states and providers, and that has indirect consequences for consumers. It’s a fraction of the individuals who faced issues last year, but many complicated and critical functions must be built and tested before the site is operating "great" for everyone.

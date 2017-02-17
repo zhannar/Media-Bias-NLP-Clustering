@@ -1,0 +1,15 @@
+New York Times:
+
+The bank’s internal computers, used by employees who process daily transfers and conduct bookkeeping, had been penetrated by malware that allowed cybercriminals to record their every move. The malicious software lurked for months, sending back video feeds and images that told a criminal group — including Russians, Chinese and Europeans — how the bank conducted its daily routines, according to the investigators.
+
+Then the group impersonated bank officers, not only turning on various cash machines, but also transferring millions of dollars from banks in Russia, Japan, Switzerland, the United States and the Netherlands into dummy accounts set up in other countries.
+
+In a report to be published on Monday, and provided in advance to The New York Times, Kaspersky Lab says that the scope of this attack on more than 100 banks and other financial institutions in 30 nations could make it one of the largest bank thefts ever — and one conducted without the usual signs of robbery.
+
+The Moscow-based firm says that because of nondisclosure agreements with the banks that were hit, it cannot name them. Officials at the White House and the F.B.I. have been briefed on the findings, but say that it will take time to confirm them and assess the losses.
+
+Kaspersky Lab says it has seen evidence of $300 million in theft through clients, and believes the total could be triple that. But that projection is impossible to verify because the thefts were limited to $10 million a transaction, though some banks were hit several times. In many cases the hauls were more modest, presumably to avoid setting off alarms.
+
+The majority of the targets were in Russia, but many were in Japan, the United States and Europe.
+
+No bank has come forward acknowledging the theft, a common problem that President Obama alluded to on Friday when he attended the first White House summit meeting on cybersecurity and consumer protection at Stanford University. He urged passage of a law that would require public disclosure of any breach that compromised personal or financial information.

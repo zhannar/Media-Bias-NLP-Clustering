@@ -1,0 +1,51 @@
+CISA’s Privacy Safeguard Can Be Overruled By The FBI, NSA, Or Any Federal Agency
+
+The current version of CISA would allow any one of the many federal agencies using the data-sharing portal to override that "scrubbing" process, which is one of the few privacy safeguards in the controversial bill.
+
+The cybersecurity bill that would let companies share cyber-threat data with the government contains a privacy provision with a major loophole.
+
+The Cybersecurity Information Sharing Act (CISA), which cleared a preliminary hurdle on Thursday, promotes the sharing of cyber threat data between businesses, like Facebook, and the federal government. The bill requires the government to create a process for eliminating sensitive and irrelevant material—like accidentally shared customer information—from data before it is shared with federal agencies.
+
+But the current version of CISA would allow any one of the many federal agencies using the data-sharing portal to override that “scrubbing” process, which is one of the few privacy safeguards in the controversial bill.
+
+
+
+official MintPress sponsor official MintPress sponsor
+
+National-security journalist Marcy Wheeler noticed that the manager’s amendment to CISA, which updated the bill’s language before today’s vote, contains this language in Section 105 (emphasis added):
+
+(3) REQUIREMENTS CONCERNING POLICIES AND PROCEDURES.—Consistent with the guidelines required by subsection (b), the policies and procedures developed and promulgated under this subsection shall—
+
+(A) ensure that cyber threat indicators shared with the Federal Government by any entity pursuant to section 104(c) through the real-time process described in subsection (c) of this section—
+
+(i) are shared in an automated manner with all of the appropriate Federal entities;
+
+(ii) are only subject to a delay, modification, or other action due to controls established for such real-time process that could impede real-time receipt by all of the appropriate Federal entities when the delay, modification, or other action is due to controls—
+
+(I) agreed upon unanimously by all of the heads of the appropriate Federal entities;
+
+(II) carried out before any of the appropriate Federal entities retains or uses the cyber threat indicators or defensive measures; and
+
+(III) uniformly applied such that each of the appropriate Federal entities is subject to the same delay, modification, or other action; and
+
+The “controls” referenced in (ii) are the processes for scrubbing private or otherwise unnecessary information from data prior to its sharing. The Section 105 language, thus, effectively gives the heads of the Federal Bureau of Investigation, the National Security Agency, and the other participating “Federal entities” veto power over the data-scrubbing process.
+
+Based on this language, FBI Director James Comey or NSA Director Adm. Mike Rogers could refuse to agree to the delay necessary for data scrubbing, thus forcing the data to enter the portal—where any participating agency could access it—in unscrubbed form.
+
+CISA’s opponents have focused their criticism on what they consider insufficient data-scrubbing requirements for the companies sharing the data, but they have said less about the scrubbing that occurs after the data has been sent to the government.
+
+Greg Nojem, senior counsel at the Center for Democracy and Technology and director of its Freedom, Security, and Technology Project, said that requiring any involvement from officials at such a senior level was a recipe for disaster.
+
+“The bill takes what should be an operational decision made by a technician on the ground into a virtual Cabinet-level decision that has to be agreed to unanimously,” Nojem told the Daily Dot. “It won’t happen, and as a result, cyber-threat indicators with unnecessary personal information will be shared routinely.”
+
+The White House, the Department of Homeland Security, and the office of CISA co-sponsor Sen. Richard Burr (R-N.C.), the Intelligence Committee chairman, did not respond to requests for comment about the Section 105 language.
+
+A spokesman for Sen. Dianne Feinstein (D-Calif.), the top Democrat on the Intelligence Committee, acknowledged that Section 105 would let one agency head veto the data-scrubbing process.
+
+“This reflects current operational practice,” the spokesman said in a email, “as federal cybersecurity experts work together to establish standards for how they exchange information.”
+
+The Daily Dot asked the spokesman for an example of another government cybersecurity process in which one participant could veto a privacy- or security-related step and force it to be skipped. The spokesman did not respond.
+
+Mark Jaycox, a legislative analyst at the Electronic Frontier Foundation, called the provision “yet more evidence that Senator Feinstein is misleading the public when she says she fixed privacy concerns in the bill.”
+
+The Senate is expected vote on an amendment from Sen. Chris Coons (D-Del.) to modify this provision during a series of CISA votes next Tuesday afternoon.

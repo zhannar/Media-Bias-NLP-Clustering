@@ -1,0 +1,57 @@
+Federal CIOs' Current Security Dilemma
+
+Three initiatives meant to improve government IT security are languishing from funding challenges, yet CIOs are asked to deliver on the promise of shared services.
+
+
+
+6 Cool Apps From Uncle Sam (Click image for larger view and slideshow.)
+
+The Obama administration has made an unprecedented commitment to making government data driven. It has also made cybersecurity a centerpiece of its IT strategy. But it now finds itself mired in controversy on both fronts.
+
+The less-than-stellar rollout of the website designed to support the Affordable Care Act was a major embarrassment, while the revelations surrounding NSA surveillance methods has cast doubts on the administration's commitment to privacy as a keystone of national policy.
+
+These two story lines symbolize some of the many challenges the administration faces in balancing the federal government's IT investments: It must maintain public support for a strong cyberdefense without losing focus on the civilian agency systems that are the public interface with "e-government," but which also need to be made more secure.
+
+They also show the role funding plays in managing the outcomes of those IT investments.
+
+[Read why Defense Department CIO Teri Takai believes in the government cloud security program: Why FedRAMP Helps Everyone.]
+
+Looking at cyberdefense, the Snowden disclosures ironically revealed that the long-term investment in intelligence gathering has paid off in the form of an infrastructure and capability that are second-to-none. The disclosures also brought to light just how much the administration has invested in cyberdefense. It began with the emergence of US Cyber Command in 2009 and more recently with the Pentagon's 2013 budget commitment to a fivefold expansion in staff and offensive capability over the next few years, which The Washington Post reported early last year.
+
+However, the cumulative impact of continuing resolutions, sequesters, and the government shutdown have put a damper on government efforts to make its IT systems more secure. Three key security initiatives in particular have been affected: Continuous Diagnostics and Mitigation (CDM), the Federal Risk and Authorization Management Program (FedRAMP), and HSPD-12.
+
+Federal agencies have taken to heart the government's "cloud first" strategy, outlined by former US CIO Vivek Kundra in the first Obama administration, which mandates moving email and other business applications into commercial clouds.
+
+The move to the cloud has had the greatest impact on small and midsized agencies that don't have legacy investments in large datacenters and that were able to shift operations to commercial clouds with relative ease. Unfortunately, these agencies also are least able to protect security funding from the budget axe. That's why these big three initiatives are so critical to the state of the shared security services.
+
+The CDM initiative, beginning in fiscal year 2013, offered the hope that low-cost monitoring tools and continuous authorization services would replace an expensive cycle of system certifications. But the task of managing the myriad of contracts associated with the initiative has bogged down at the Department of Homeland Security, which is leading the initiative. The tools -- along with the expected budget savings -- aren't yet at hand even as the 2015 budget cycle begins. According to a survey of defense and civilian IT specialists, conducted by Dimension Research and published by the security firm Tripwire, there are major challenges facing CDM implementation, with 50% of respondents citing budgets as a top barrier.
+
+Even if the CDM program gets back on its feet, it will not do anything in the short term for the agencies that have moved their operating environments to the cloud. CDM is currently an on-premises approach to system security. Plans to implement it in commercially hosted government clouds -- and to put those clouds inside the government’s Trusted Internet Connection (TIC) boundary -- are still to come.
+
+Two-factor identification cards, like those used by the Defense Department, still haven't become widely used by civilian agencies.
+
+(Source: DoD)
+
+Meanwhile FedRAMP, the framework for securing these commercial cloud services, despite some headway, is off to a slow start. The FedRAMP Concept of Operations memo, issued by the Office of Management and Budget, describes a rich array of capabilities and services that could support authorization of cloud-based environments. But CISOs and CIOs are finding that many of the big providers in the cloud space are using prior security certifications provided by the GSA or other agencies, with FedRAMP-certified services still being in short supply.
+
+Other providers have bundled multiple independent operating environments into a single certified package. This makes it difficult to unpack the connections and tell what controls are in place or to enforce them, even when they are spelled out in contract language.
+
+The FedRAMP Joint Advisory Board (JAB) has approved more than 20 independent third-party assessors who are qualified to certify cloud environments, but only a handful of them are doing the work. The irony is that without a scanning and monitoring function built into the FedRAMP process, the certifications are no different than the old three-year cycle model that DHS and NIST are trying to replace.
+
+The final piece of the security puzzle, inherited by the Obama Administration from the Bush Administration, is the HSPD-12 mandate, intended to replace outmoded password authentication with PKI-based, two-factor methods that rely on electronically coded identification cards and card-reading systems.
+
+Unfortunately, this critical security capability, meant to protect systems on-premises and in the cloud, is also languishing due to budget constraints. The initiative was launched as an "unfunded mandate," but in an environment of competing budgetary priorities, agencies have deferred implementation. And those that have implemented it report that only a small percentage of users are authenticating themselves using the credentials.
+
+Many CISOs believe that security would be better served focusing on the use of two-factor authentication -- which is relatively cheap to implement -- and deferring the more costly process of creating and managing the assured identity and expensive card that is bound to it. The White House has met those requests with a firm "no." However, as long as secure authentication remains an unfunded mandate, competing for a share of limited funds, other initiatives that depend on secure identities are hard-pressed to move forward.
+
+Consequently, civilian agency CIOs face a difficult balancing act trying to implement these three key initiatives, and others. They must manage the risks of a security infrastructure and also find the means to fund these security priorities. It's one more reason so much of the effort to fortify government IT remains a work in progress.
+
+Find out how a government program is putting cloud computing on the fast track to better security. Also in the Cloud Security issue of InformationWeek Government: Defense CIO Teri Taki on why FedRAMP helps everyone.
+
+The authors are members of the (ISC)2 U.S. Government Advisory Board Executive Writers Bureau, which includes federal IT security experts from government and industry. The experts write anonymously through the Bureau so they can be more forthcoming with their analysis and ... View Full Bio
+
+Comment |
+
+Email This |
+
+Print |

@@ -1,0 +1,47 @@
+The government has stopped openly sharing your personal information from the Obamacare website with private companies.
+
+Earlier this week, the government came under fire after the Associated Press showed that Healthcare.gov was relaying users' personal information, such as zip code, income level, pregnancy status and whether or not you are a smoker.
+
+That information was being shared with Google (GOOG), Twitter (TWTR, Tech30), Yahoo (YHOO, Tech30) and other companies that track people online, like the advertisement display service DoubleClick.
+
+The evidence was on the website code itself.
+
+But on Friday, CNNMoney read the code and found that Healthcare.gov was no longer relaying personal information to DoubleClick and others.
+
+Obama administration officials did not respond to requests for comment on Friday.
+
+But in a statement Saturday, a top official at the Centers for Medicare and Medicaid Services wrote that the agency has added "a layer of encryption that reduces the information available to the third party tools we use from our URLs."
+
+The change followed an internal review of Healthcare.gov's privacy policies, marketplace CEO Kevin Counihan wrote.
+
+After the initial reports about the privacy problems, Republican Senators Orrin Hatch and Chuck Grassley wrote a letter to the head of the Centers for Medicare and Medicaid Services demanding answers.
+
+Citing Healthcare.gov's many technology glitches, they wrote: "This new information is extremely concerning, not only because it violates the privacy of millions of Americans, but because it may potentially compromise their security."
+
+To be fair, the software tools used by Healthcare.gov were popular services that help improve a website's design (CNNMoney uses them).
+
+But health officials would not explain why DoubleClick, a company in the advertising industry that already tracks people's browsing habits, should be allowed to know whether users smoke or are pregnant.
+
+For its part, Google told CNNMoney it doesn't desire your personal health information anyway.
+
+"We don't want and don't use that kind of data," said Andrea Faville, a Google spokeswoman. "And we don't allow DoubleClick systems to be used to target ads based on health or medical history information."
+
+Related: Obamacare employer mandate is eased
+
+When CNNMoney learned that the Health and Human Services Department was sending information to third parties in 2013, HHS would only assure that the data being shared with DoubleClick and others is transmitted to them securely.
+
+That approach was criticized by privacy advocates such as the Electronic Frontier Foundation.
+
+Noah Lang, CEO of a health insurance startup Stride Health, said use of those tracking tools was sloppy and uncalled for.
+
+"I don't think it's necessary to build a great user experience," he said. "Should they be sending identifying information to a third-party advertiser? The pretty clear answer there is no. It's a massive breach of personal privacy."
+
+When CNNMoney read through the computer code on the Healthcare.gov website on Friday, certain lines of code that indicated the website was sending such personal information during the sign-up process were gone.
+
+Cooper Quintin, a staff technologist at EFF, confirmed that the code was gone.
+
+"That's a great first step for them to take," he said.
+
+While Healthcare.gov is no longer relaying your personal information on the front end, there's no telling what information might get shared once it is stored in the government's computers, however.
+
+--CNN's Jim Acosta contributed to this report.

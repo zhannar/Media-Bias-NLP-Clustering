@@ -1,0 +1,25 @@
+Sure, I’ve always wanted to write a clickbait headline that sounds like a promo for the bastard child of Buzzfeed and the Federal Register. But, seriously: you will not believe what Medicare just did about patient engagement in a draft new rule dramatically changing how doctors are paid.
+
+And, depending upon the reaction of the patient community, you definitely won’t believe what happens next.
+
+By way of background, the Centers for Medicare & Medicaid Services (CMS) just issued long-awaited regulations for implementation of a law as important to the health care delivery system as Obamacare was to health insurance. The Medicare and CHIP Reconciliation Act (MACRA) passed with an overwhelming bipartisan majority in both houses of Congress in 2015, in large part because it eliminated the sustainable growth rate (SGR) pay formula for doctor payment that doctors hated.
+
+In place of the SGR, MACRA links doctor pay to either their being part of a value-based arrangement such as certain accountable care organizations or participating in the Merit-Based Incentive Payment System (MIPS). By law, the MIPS score determines provider bonuses or penalties based on four domains: quality measures, efficiency measures, meaningful use of electronic health records and clinical practice improvement activities.
+
+As I wrote in an Urban Institute white paper with colleague Robert Berenson, measures mentioned in the law include “patient-reported outcome and functional status measures; patient experience measures; care coordination measures; and measures of appropriate use of services, including measures of overuse.”
+
+Naturally, when the draft MACRA rule was issued by CMS late on April 27, I immediately did a search through its 962 pages to see what patient empowering provisions it contained. (The PDF has all those details missing in the CMS YouTube version, though it’s way less fun.)
+
+Functional assessment tools and patient experience measures are, indeed, part of a very long list of possible MIPS measures. Some of these are extraordinarily progressive. For instance, there’s a measure of the percentage of patients undergoing a non-emergency surgery “who had their personalized risks of postoperative complications assessed by their surgical team” and then discussed with the patient. The “steward” of that measure is the American College of Surgeons.
+
+But in the section entitled, “Coordination of Care Through Patient Engagement,” the standards related to use of certified electronic health record (EHR) technology are startling in their laxity. Here are a few key excerpts. Emphasis added:
+
+“During the performance period, at least one unique patient (or patient-authorized representatives) seen by the MIPS eligible clinician actively engages with the EHR made accessible by the MIPS eligible clinician.” “For at least one unique patient seen by the MIPS eligible clinician during the performance period, a secure message was sent using the…EHR….” “Patient-generated health data or data from a non-clinical setting is incorporated into the certified EHR technology for at least one unique patient….”
+
+That’s right: one instance of “active engagement” with the EHR, one secure message exchange and one use of patient-generated health data among the doctor’s entire Medicare patient load during calendar year 2017 (the first performance period) qualifies a clinician for part of the MIPS bonus. I’m not a lawyer, so I don’t know whether “unique” patient means three different individuals or if three interactions with the same person – a designated “e-patient”? – would count.
+
+I know what you’re thinking: the rules say “at least one” patient because CMS knows that patient engagement is like eating potato chips! Nobody can stop with just one. Perhaps. But here’s a different perspective. Monday, Jan. 2, 2017 is a federal holiday. That gives doctors four days to send and receive three emails before checking off the tough regulatory burden of electronic patient engagement until the first week of 2018.
+
+The MACRA rule is available as a download on this government website. It will be formally published by CMS in the Federal Register on May 9 and open for public comment until June 27. (Details are at the beginning of the document.) Perhaps some pointed questions might be asked by attendees at this year’s Health Datapalooza, where a host of senior Obama administrations will provide preening perorations on their commitment to open data and patient empowerment.
+
+If we in the patient community do not raise questions and objections to this critically important MACRA rule, you will definitely not believe what happens next.

@@ -1,0 +1,21 @@
+I have had my doubts from the very beginning. Ever since the U.S. Government first indicated on December 17, 2014 that North Korea was “centrally involved” in the cyber-attack on Sony, I’ve had this unshakeable feeling that there was more to it than met the eye. Even after the NSA recently renewed their accusations, claiming to have implanted software inside North Korea’s internet in 2010 which allowed them to spy on the isolated nation’s online activity, there are plenty of reasons to have doubt.
+
+My doubts echoed those of leading cyber-security experts such as DEFCON organizer Marc Rogers, Wired Magazine security journalist Kim Zetter, Kurt Stammberger of cyber-security firm Norse, as well as ex-hacker and LulzSec founder, Sabu (his real name is Hector Xavier Monsegur). Kim Zetter called the government’s evidence against North Korea “flimsy.” Michael Hiltzik of the Los Angeles Times called it “circumstantial.” The government wouldn’t tell us how they knew it was North Korea, only that they knew and that we should believe them.
+
+Besides the lack of convincing evidence from our government, there were technical reasons to have doubts about North Korea. Parts of the comments in the malware code were in Korean, but not specifically the North Korean dialect. The software used in the attack is called Wiper, not a particularly Korean-sounding name. There were IP addresses, server names, and passwords hard-coded into the software, suggesting that the hackers had extensive knowledge of Sony’s network before the attack began, and giving rise to the “inside job” theory. Many experts also have doubts that a state-sponsored attack would have been staged under such a catchy moniker as the “Guardians of Peace” or “GOP.” On top of that, North Korea’s internet connection via China is so slow, it could not have downloaded the 100 terabytes (that’s about 30 million songs or 2.5 million music videos) of information stolen without anyone noticing, if at all.
+
+On January 15, a new voice emerged among the dissenters. John McAfee, anti-virus pioneer and founder of anti-virus software company, McAfee Associates, told IBTimes UK a different story. He claims to be in contact with the hackers behind the attack, and he insists the U.S. government is “wrong.”
+
+“I can guarantee they are wrong. It has to do with a group of hackers – I will not name them – who are civil libertarians and who hate the confinement the restrictions the music industry and the movie industry has placed on art and so they are behind it.”
+
+Well John, who is it then?
+
+‘I don’t want to name them – that would make me a nark,’ McAfee adds.
+
+Let us not forget, however, that McAfee is generally known to be somewhat off the deep end. He may have founded one of the world’s leading anti-virus software companies, but he also claims to keep no less than 10 guns with him at any given time as he travels the world running from drug cartels, murder accusations, and the government of Belize. That being said, it’s hard to dismiss the voice of someone who has had a unique relationship with the hacking community for three decades.
+
+“I founded McAfee Associates and they [hackers] were my enemies for years as were all other hacking groups, but over the years I began to respect their values at least, I had talks with many of them on the phone. I know many people within Anonymous, I was the keynote speaker at Defcon in Las Vegas and got a standing ovation. I’m not saying that their methods have my approval but I am saying is that the reason they do the things that they do is valid.”
+
+So now we have both sides claiming to know who did it, but nobody will tell us how. So close, yet so far away.
+
+Read Techvoice for interesting posts on technology, science and more.

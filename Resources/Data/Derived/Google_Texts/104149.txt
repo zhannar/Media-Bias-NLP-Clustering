@@ -1,0 +1,39 @@
+The overarching theme for MarkLogic 8 is ease of use, said MarkLogic CEO Gary Bloom. Bloom and his team recently brought the MarkLogic World Tour 2014 to Wall Street to showcase customer use cases and preview new features coming out in MarkLogic 8.
+
+The release is currently in test mode with customers and planned for general availability at the end of this year.
+
+There are a number of major new components in MarkLogic 8, explained Bloom during his keynote and also in an interview.
+
+JavaScript and JSON Support in MarkLogic 8
+
+Easier Development with JavaScript and JSON Support - New support for these popular programming languages has been driven by MarkLogic’s largest enterprise customers, said Bloom. They have solved complex problems with MarkLogic and now see that they can apply the technology to solve even more issues, but the problem is that they don’t have the people with the programming skills necessary. At the end of the day, there are a lot more JavaScript developers out there than there are XML XQuery developers. We are simply aligning for adoption. It has really been based on customer demand.” The situation is true with any generational shift of technology, said Bloom.
+
+“When I joined Oracle in the mid-80s, what we heard all day was that customers had all these COBOL developers, all these mainframe Assembly code developers but not many people that know SQL. Today, 25 years later, SQL is a common skill.” With support for JavaScript and JSON at every tier, developers can create applications using a language and data format they are familiar with while being assured that the database platform will pass the scrutiny of IT operations and risk management. With support for JavaScript and JSON at every tier, developers can create applications using a language and data format they are familiar with while being assured that the database platform will pass the scrutiny of IT operations and risk management. JavaScript expands the current list of languages that MarkLogic supports including, Java, PHP, C#, Ruby, Python, C++, C, Perl, SQL, and XQuery.
+
+Support for SPARQL 1.1 in MarkLogic 8
+
+Making Semantics Easier and More Powerful with Expanded Semantics Capability - The semantics capability has a three-part roadmap beginning with Marklogic 7 through MarkLogic 8 and completing with MarkLogic 9, said Bloom. However, Marklogic 8 is really the core of the full SPARQL 1.1 support. This support is important for people doing semantics projects, said Bloom. “I have never seen a technology get so much excitement as semantics.”
+
+Bitemporal Support in MarkLogic 8
+
+Easier regulatory compliance and trend analysis with Bitemporal Support – Enabling companies to answer the question of what did they know and when did they know it is benefit of bitemporal support and probably the “sleeper” feature of the next release, said Bloom. Describing the feature a huge capability, Bloom said it can be used in a range of scenarios, from across industries such as financial services, manufacturing, and insurance to enable support for regulatory compliance, litigation, as well as trending for fraud detection. Bitemporal is hard to do in relational because of the schemas changing over time, said Bloom. “I have talked to many customers that have had to restore their databases to go look at in time and that is a very expensive proposition.”
+
+Easier Access to MarkLogic for Smaller Companies
+
+In addition to the new features that target the needs of the largest enterprises, MarkLogic is also increasing the ease of use for smaller companies, said Bloom. “What we came to realize is that there is nothing about our technology that said that only the big enterprises should use it. If you are doing any kind of database project, even if you are you are a small company, you can’t afford to lose your data and you can’t afford to have it go down,” said Bloom.
+
+To make the platform more accessible, MarkLogic Developer, with full functionality, is now freely available for download. In addition, MarkLogic Essential Enterprise with new bundling is now available, and that is available on AWS as well. The company has also adjusted its pricing on MarkLogic Global Enterprise to streamline the purchasing process and make it more straightforward. In addition, training is now being offered at no charge and much of it is instructor-led online, making it easily accessible.
+
+Access to NoSQL as well as Relational Data in Disparate Structures
+
+While the focus for big data has largely been defined by a focus on rich media data that is not stored in traditional database management systems, there are many companies struggling with relational data as well because it is in different table structures and multiple different schemas, said Bloom. “We have found that if you actually take this heterogeneous data and treat it largely as unstructured, load it as is, index it and make it searchable, that there is phenomenal value locked in that.”
+
+MarkLogic and Hadoop
+
+Some may have thought early on that Hadoop would be all they would need to solve their big data problems, said Bloom, but if a company is trying to run its business off of that, then they actually need a data management layer above it and the database works as that data management layer.
+
+Hadoop vendors are adding more technologies for security and other business requirements. “They are going to continue to try to make the Hadoop layer a thicker and thicker layer but ultimately you still need that full application environment; you need the search capability; you need the update capability; you need the transactional capability.” And, Bloom said, if a company thinks about replication, and they don’t want to replicate the whole data lake - they want to be much smarter about replication and about availability architectures. In the end, he said, Hadoop and MarkLogic and are very complementary architectures. “We just have a different view than the Hadoop players.”
+
+MarkLogic’s Role in Healthcare.gov
+
+Bloom noted that MarkLogic is expanding its business not only in the U.S. but also in Europe and Asia-Pacific. And, MarkLogic provided critical technology that was used in the healthcare.gov website supporting the Affordable Care Act. Despite the website’s infrastructure being extremely fragile early on, MarkLogic’s databases came back with no data loss, and no corrupted data or consistency issues each time the network went down, and went on to achieve high scalability once those network issues were taken care of, with 150,000 concurrent users and 50,000 concurrent transactions a second. “Healthcare.gov is really a high water mark in the NoSQL industry, to be able to support those kinds of volumes and do it on a scale-out architecture at a fraction of the cost of traditional computing,” said Bloom.

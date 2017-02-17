@@ -1,0 +1,37 @@
+By Dennis Thompson
+
+HealthDay Reporter
+
+TUESDAY, April 14, 2015 (HealthDay News) -- Breaches in data security exposed more than 29 million health records to potential criminal misuse between 2010 and 2013, a new study found.
+
+Most of the breaches occurred due to simple theft of a computer, with some criminal grabbing a tablet or laptop that contained sensitive and unencrypted medical records, researchers at Kaiser Permanente in California and Stanford University found.
+
+But electronic health records also are increasingly vulnerable to exposure through hacking, the researchers reported.
+
+Security breaches involving hacking have nearly doubled in recent years, rising to 8.7 percent in 2013 compared with 4.7 percent in 2010, according to the study, published in the April 15 issue of the Journal of the American Medical Association.
+
+"It's important to note that in the data we evaluated, hacking or IT incidents only accounted for about one in 10 data breaches," said study lead author Dr. Vincent Liu, a research scientist with the Kaiser Permanente Division of Research in Oakland.
+
+"While hacking has garnered a lot of recent attention, a more common reason for breaches is simple theft of unsecured paper or electronic records," he continued. "Nonetheless, the potential for hacking to result in a large number of compromised records tends to be higher than for other sources of data breaches."
+
+It's most likely that criminals used the records to glean information for identity theft or medical insurance fraud, said Liu and Dr. David Blumenthal, president of The Commonwealth Fund and co-author of an accompanying editorial in the journal.
+
+Recent high-profile hacking cases have raised concerns over the security of electronic health records. Insurance companies Anthem Inc. and Premera Blue Cross both were hit by hackers earlier this year, in separate incidents that together exposed more than 90 million medical records to criminals.
+
+Spurred on by the Affordable Care Act and the U.S. government, health care providers are beginning to store more and more patient records on computers, in the form of electronic health records.
+
+More than 528,000 health care providers and hospitals had registered in federal incentive programs for electronic health records as of February 2015, according to the U.S. Centers for Medicare and Medicaid services.
+
+These electronic records mean that "doctors in hospitals have access to full health records where and when they need them and to have all of the information about all of the patients all of the time," Liu said.
+
+The records also give researchers a chance to tackle "some of our biggest health challenges by analyzing massive amounts of data for breakthroughs in treatment, prevention or prediction of illness," he added.
+
+Unfortunately, the increased use of electronic health records also exposes personal medical data to the same sort of cybersecurity threats that other industries and services have long faced, Blumenthal said.
+
+"What's happening now is that the medical world is catching up with the rest of the world," he said. "That means that health data is now potentially insecure in the same way that your credit card and financial data has been insecure for quite a long time."
+
+In their study, Liu and his colleagues evaluated an online database maintained by the U.S. Department of Health and Human Services that lists data breaches of unencrypted health information, as reported by health plans and physicians under the Health Insurance Portability and Accountability Act, or HIPAA.
+
+HIPAA requires that patient medical information be protected, and that breaches affecting 500 or more individuals be reported, Blumenthal said.
+
+The study authors identified 949 breaches affecting 29.1 million records. Six breaches involved more than 1 million records each, and the number of reported breaches increased over time, rising from 214 in 2010 to 265 in 2013.

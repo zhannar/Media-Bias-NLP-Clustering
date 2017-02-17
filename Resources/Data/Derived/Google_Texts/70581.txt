@@ -1,0 +1,83 @@
+AUSTIN, Texas – For the Islamic State, or ISIS, the social media site Twitter, with its 2.7 million users, remains core to the group’s recruiting, messaging and communication. A new report estimates there are possibly as many as 90,000 Twitter accounts that support ISIS, fueling the popular narrative that Twitter is helpless to cleanse itself of the Islamic State
+
+But the seminal analysis of public Twitter data about ISIS released last week shows that the company has achieved considerable success in increasing the organizational costs to ISIS of operating on Twitter. It also revealed a few simple steps that Twitter can take right now to make online life much harder for ISIS.
+
+Related: This Lethal Laser Can Cripple ISIS and Other Enemies
+
+The new report from author J.M Berger and data scientist Jonathon Morgan, of the crowd-data intelligence group Ushahidi, shows that the size of the ISIS universe on Twitter was approximately 46,000 pro-ISIS accounts between October and November. Berger and Morgan discussed the report this week at the popular South by Southwest Interactive, or SXSW, conference in Austin, Texas.
+
+They began with a sample of 450 accounts that they could identify as pro-ISIS. They then tracked those accounts’ interactions with other accounts and discovered a network of 46,000 (but perhaps as many as 90,000 accounts at the most) linked to ISIS and likely representing ISIS supporters.
+
+They also randomly sampled 2 million accounts.
+
+To explore this dataset, the researchers used a different machine learning-based tactic, which resulted in somewhat noisier results.
+
+Related: ISIS Attacks Tunisia, the Sole Arab Spring Success
+
+Instead of looking solely at the content of tweets, which is a common technique for investigating ISIS Twitter usage, Berger and Morgan looked instead at the behavior of the Tweeters: followings, retweets, tweets with replies, etc. All the data was freely available, and, thus their research excluded direct messages and private account data.
+
+Snapshot of the Twitter Jihadist
+
+ISIS supporters on Twitter are highly active compared to other Twitter users. More than 80 percent tweeted while Berger and Morgan collected the data. ISIS tweeting, however, is likely to occur in spurts.
+
+ISIS followers are d-listers who cluster for each other. The average pro-ISIS Twitter account has more followers than does your typical Twitter user, but fewer followers than high influencers on the site. The average pro-ISIS Twitter account has about 1000 followers, compared to a site average of 200 per user. But that doesn’t mean pro-ISIS supporting Twitter accounts are truly popular, if you take a wider view of “popularity.”
+
+Related: The Air Force Vet Who Wanted to Join ISIS
+
+“Really there are no ISIS followers with more than 100,000 followers,” Morgan told the crowd at SXSW. He added that after a large sweep in September that saw a high number ofISIS affiliated accounts suspended, there was no ISIS account with more than 50,000 followers and very few with more than 20,000. “They can’t win the big numbers. They can’t get Katy Perry followers. They can perform really well on the ground level,” said Morgan.
+
+It’s a dense network. That means that one particular ISISsupporter is more likely to know many others and that’s not necessarily true of other groups of such size.
+
+They don’t just tweet beheadings and propaganda. The vast majority of hashtags used among the group were ISISreferences but the second most common related to account suspensions. Some 18,000 pro-ISIS Twitter accounts have been suspended according to Berger and Morgan.
+
+The research also shows that only approximately 20 percent of pro-ISIS supporters selected English as their primary language when using Twitter with 75 percent selecting Arabic. Saudi Arabia was the most popular location for pro-ISIS tweeters, followed by Syria, Iraq and the United States.
+
+Related: How Iran Is Taking Over the Middle East
+
+It’s useful data from a social science perspective. But what does it mean for the actual fight against ISIS? Berger and Morgan maintain the data show that a slight shift in the way that Twitter deals with ISIS on Twitter could effectively destroy the militant group’s influence on the site.
+
+Three Steps to Destroy ISIS on Twitter
+
+1. Take a networked approach to identifying pro-ISIS accounts for suspension. The data suggests that Twitter is still relying on user reports to target accounts for suspension rather than analyzing network behavior. The result is an approach to terms of service enforcement that many refer to as whack-a-mole: Suspend an account and watch it pop up under a different name.
+
+Berger says that relying on user reports for terms of service enforcement has actually proven somewhat effective. When highly followed accounts are shut down, the replacement accounts can’t ramp up to as many followers and spend more time talking about getting suspended as opposed to tweetingISIS propaganda, recruiting messages, etc. The preponderance of hashtags related to suspensions suggests that dealing with Twitter cops is becoming a high cost activity for ISIS forcing them to hop around from account to account, “instead of showing pictures of beheadings, which is what they would prefer to be doing,” said Berger. He also observed that after a major suspension purge of ISIS in September, “the number of new [ISIS] accounts that were created started to drop dramatically.”
+
+Related: 9 ISIS Weapons That Will Shock You
+
+But, says Morgan, Twitter basically “stumbled” into the success it’s achieved. If Twitter were to undertake a broad survey of the behavior of those accounts, modeling who was most likely to interact with whom (and other factors) as opposed to responding to specific reports and tweets, Twitter would have a much better chance of identifying pro-ISIS accounts early and effectively. There’s a chance for misidentifying people on the basis of similarities rather than hard evidence, but Morgan reported that the false positive rate for his network model was 6 to 7 percent.
+
+2. Outsource countermessaging to a party that can actually be effective. Not long after ISIS became extremely active on Twitter, the State Department launched a counter-messaging campaign in both Arabic and Urdu in 2011 called “Think Again Turn Away.” The foreign language versions of the program, the existence of which was not widely known, were moderately successful, according to Berger.
+
+The fundamental problem lies in the fact that the State Department, by virtue of being an official arm of the United States government, is limited in the way it can communicate with groups like the Islamic State on open platforms like Twitter. The potential downside far exceeds the upside. “You have a lot of people watching to see if you’re going to lose the argument,” said Berger. Yet, engagement and actual interaction is the point of social media. The State Department, thus, is limited to ineffective, one-way message pushing. Other Western ISIS watchers such as Rita Katz, director of the SITE Intelligence Group have called the State Department initiative an “embarrassment” at best and a potential, legitimizing boost to ISIS at worst.
+
+Related: ISIS Delivers Shock and Awe with Arms from U.S., China and Russis
+
+
+
+“I think it’s worth exploring for Twitter to partner with organizations that are open to starting some sort of counter narrative. Right now, those counter-narrative approaches are occurring piecemeal,” said Morgan. It’s an area where Twitter could possibly “take the lead” by identifying social media marketing firms that can more effectively engage ISIS on Twitter.
+
+3. Twitter should become more like Facebook and YouTube. The report notes that both Facebook and YouTube “have already instituted policy changes specific to extremism.” Both have proven themselves more willing to tackle extremist groups at the community and affiliate level, rather than just at the individual level.
+
+Facebook recently posted an expanded explanation of its community standards policies, which state, “We remove content that expresses support for groups that are involved in the violent or criminal behavior mentioned above. Supporting or praising leaders of those same organizations, or condoning their violent activities, is not allowed.” They also issue a Government Global Request Report detailing when they cooperate with law enforcement agencies and under what circumstances.
+
+Twitter, conversely, doesn’t have a stated policy related to supporting, endorsing or marketing for extremist groups. It has a policy for law enforcement, stating “requests for the contents of communications (e.g., Tweets, Direct Messages, photos) require a valid search warrant from an agency with proper jurisdiction over Twitter.”
+
+Related: 20 Facts About Baghdadi, the Elusive ISIS Leader
+
+“For Twitter, I think as a policy, they could be more explicit about what is and what isn’t allowed on their platform,” said Morgan. Twitter’s current approach to dealing with law enforcement, governments and ISIS is, he said, “very cloak and dagger.”
+
+None of these three measures by themselves will defeat ISIS. But they could degrade the group’s ability to raise funds and maintain its public face, which is key to the group’s ability to operate. “Its recruiting is dependent on images of the strength of the organization, which is not what it seems,” says Berger.
+
+More importantly, says Morgan, the same methods that he and Berger use to understand ISIS can help researchers trying to study all the groups that come after them.
+
+“We can take radicalization and make it a numbers game,” said Morgan. “We’re right on the brink of being able to quantify things that were almost mystical at one point…. Twitter could almost certainly eliminate ISIS from Twitter if they chose. But it’s an open question as to whether or not that would actually be a good idea because there’s some utility in degrading the network so that they aren’t as good at recruiting people. There’s also an intelligence benefit and an opportunity for discovering people who are in the process of being radicalized. If we can quantify that radicalization process then that’s actually a way we could go about countering it.
+
+This article originally appeared in Defense One.
+
+Read more at Defense One:
+
+What's in the Senate's Cybersecurity Bill
+
+Tomorrow's Drone War Is Alive in Ukraine
+
+The Specter of Chemical Warfare Returns to the Middle East

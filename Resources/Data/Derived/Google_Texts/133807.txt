@@ -1,0 +1,33 @@
+As the number of retailers accepting Bitcoin has increased, more and more people are asking: What is Bitcoin? Here’s an attempt to unravel the mystery.
+
+Imagine you have a type of money you can send directly to anyone anywhere else in the world, via the Internet. That’s Bitcoin.
+
+Bitcoin is both a digital currency and an electronic payment network. Prior to Bitcoin, anyone who wanted to send money to another person or business via the Internet had to use a third party such as PayPal or MasterCard. Not anymore.
+
+This direct transfer seems rather simple, but the technology is still quite new. This newness, as well as several other features, have contributed to the mystery surrounding Bitcoin.
+
+For starters, we’ve been conditioned to think of money as a government-sanctioned means of payment. Historically, though, it’s usually been the other way around—money was created privately and later monopolized by governments.
+
+So even though Bitcoin is consistent with the norm—it is privately created and not controlled or sanctioned by any central government—it’s a bit unusual relative to what we’re used to.
+
+>>> An Introduction to Bitcoin and Its Regulatory Environment
+
+This fact leads to another source of mystery: If no central authority is making Bitcoins, where do they come from?
+
+The key here is that Bitcoin is purely digital, meaning it’s just bits of digitized data. Instead of representing something like a piece of candy in the Candy Crush game, the bits represent money.
+
+Because bits can be copied endlessly, they don’t automatically lend themselves to representing money. One way to solve this problem would be to use a central authority to verify the same Bitcoins are not being copied and re-spent.
+
+Instead of relying on some type of central authority, Bitcoin’s developer—whose identity remains a mystery—overcame this problem by using a decentralized peer-to-peer system.
+
+This decentralized network is used to ensure that all transactions are legitimately between two parties transferring Bitcoins that have not been copied. People who allow their computers to be used to handle these transactions are rewarded with Bitcoins.
+
+This process is known as mining, and it is how Bitcoins originate. (In a more technical sense, this process amounts to using computers to solve a math problem; for a more detailed explanation, see this document.) Once Bitcoins are created, they can be bought and sold by anyone willing to do so.
+
+Unlike transactions made in cash, each transaction made in Bitcoins is recorded in a publicly available database. In particular, the database records the public address associated with every Bitcoin.
+
+The public addresses are not tied to individuals’ identity, so Bitcoin transactions are frequently referred to as pseudonymous. But transactions are not completely anonymous because tying anyone to a public Bitcoin address reveals the person responsible for all transactions associated with that public address.
+
+This database is known as the block chain, and it is a central feature of Bitcoin. Transactions are not final until they are included in the block chain, and they are not included in the block chain until they are verified. This verification process, though technical, amounts to the peer-to-peer network computers solving a math problem.
+
+Bitcoin is a new innovation that holds a great deal of promise, particularly for its ability to serve as a low-cost way to transfer money without any third-party intermediary. Moreover, although Bitcoin cannot yet be considered money in that it is not generally accepted as a medium of exchange, it is far from clear that Bitcoin will not eventually meet this definition.

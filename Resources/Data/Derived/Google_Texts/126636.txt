@@ -1,0 +1,33 @@
+With more video streaming on its networks, Vodafone is looking to the future of its data infrastructure. Bloomberg News
+
+Vodafone, the U.K.-based telecom giant, and the computer science department of Imperial College in London are testing whether small data centers placed directly at mobile cell towers can boost data services to data-hungry consumers, a person familiar with the research said.
+
+Currently, smartphones communicate with carrier networks’ radio towers through radio signal, which is then sent to the carriers’ data server centers. These are often located far away from the cell towers. With increasing data-heavy applications like video streaming happening on smartphones, data quality is a competitive factor, so distance between cell towers and data centers could be an important aspect of a carrier’s infrastructure.
+
+The move comes as operators look for creative engineering solutions to deal with growing data traffic. Bringing data centers closer to the mobile tower, or base station, could allow for accommodation of bigger and faster traffic.
+
+Last February—at Mobile World Congress in Barcelona, Spain—U.S. technology group International Business Machines and Swedish telecom gear maker Nokia Siemens Networks said they are jointly working on the world’s first mobile “edge computing” platform that can run applications directly within a mobile base station.
+
+Vodafone says it has taken an interest in the hardware and software technology developed by IBM and NSN. “One of the platforms we have been looking at are the IBM and NSN applications,” said a spokesman for Vodafone. “We are still in testing phases at the moment.”
+
+Vodafone, the world’s second-largest mobile operator by number of subscribers after China Mobile, did not comment on the current stage of the testing or its own hardware innovations in this field. It also said there is no timing as yet for commercial roll-out of the technology.
+
+London’s Imperial College, a public research U.K. university, is leading the scientific and technical research for the geo-located mini data centers.
+
+Alexander Wolf, a professor at the department of computing, says unnamed telecom carriers are looking into the market feasibility of placing smaller data centers at their towers, instead of only in their existing locations.
+
+Should the project come to fruition, carriers might also be able to take advantage of reduced latency, or time lag, to users, Mr. Wolf says. This could work, for example, in a mass participation spectacle like a sporting event or concert, he said.
+
+“If the carrier has an access point near the stadium, then they can think about what images, video and other content they can place there. There will be good response for the tens of thousands of people taking photos and videos and sharing them on social networks, as well as uploading, downloading, and watching videos,” said Mr. Wolf.
+
+Mr. Wolf said it was a potentially large investment for the carriers, without saying how much a mini data center would cost to establish and operate.
+
+“From a technical and hardware point of view, the technology is quite mature. The software to manage it is a bit less mature, so that’s maybe more in the realm of a few years,” said Mr. Wolf.
+
+“The consumer is ready for it, but not necessarily the operators,” he added.
+
+Vodafone did not comment on whether it is working with Imperial College specifically on the project. It also did not comment on costs.
+
+EE—another mobile operator in the U.K. with owned infrastructure–was immediately unavailable to comment whether it is also involved in the project.
+
+Still, EE said demands on its network are “increasingly high” at mass spectator events.

@@ -1,0 +1,55 @@
+Topics: NSA, Paternity Test, ProPublica, technology, Washington Post, Innovation News, Technology News
+
+This originally appeared on ProPublica
+
+This story was co-published with the Washington Post.
+
+Jacqueline Stokes spotted the home paternity test at her local drugstore in Florida and knew she had to try it. She had no doubts for her own family, but as a cybersecurity consultant with an interest in genetics, she couldn’t resist the latest advance.
+
+At home, she carefully followed the instructions, swabbing inside the mouths of her husband and her daughter, placing the samples in the pouch provided and mailing them to a lab.
+
+Days later, Stokes went online to get the results. Part of the lab’s website address caught her attention, and her professional instincts kicked in. By tweaking the URL slightly, a sprawling directory appeared that gave her access to the test results of some 6,000 other people.
+
+The site was taken down after Stokescomplained on Twitter. But when she contacted the Department of Health and Human Services about the seemingly obvious violation of patient privacy, she got a surprising response: Officials couldn’t do anything about the breach.
+
+The Health Insurance Portability and Accountability Act, a landmark 1996 patient-privacy law, only covers patient information kept by health providers, insurers and data clearinghouses, as well as their business partners. At-home paternity tests fall outside the law’s purview. For that matter, so do wearables like Fitbit that measure steps and sleep, testing companies like 23andMe, and online repositories where individuals can store their health records.
+
+In several instances, the privacy of people using these newer services has been compromised, causing embarrassment or legal repercussions.
+
+In 2011, for instance, an Australian company failed to properly secure details of hundreds of paternity and drug tests, making them accessible through a Google search. The company said that it quickly fixed the problem.
+
+That same year, some users of the Fitbit tracker found that data they entered in their online profiles about their sexual activity and its intensity — to help calculate calories burned — was accessible to anyone. Fitbit quickly hid the information.
+
+And last year, a publicly accessible genealogy database was used by police to look for possible suspects in a 1996 Idaho murder. After finding a “very good match” with the DNA of semen found at the crime scene, police obtained a search warrant to get the person’s name. After investigating further, authorities got another warrant ordering the man’s son to provide a DNA sample, which cleared him of involvement.
+
+The incident spooked genealogy aficionados; AncestryDNA, which ran the online database, pulled it this spring.
+
+“When you publicly make available your genetic information, you essentially are signing a waiver to your past and future medical records,” said Erin Murphy, a professor at New York University School of Law.
+
+The true extent of the problem is unclear because many companies don’t know when the health information they store has been accessed inappropriately, experts say. A range of potentially sensitive data is at risk, including medical diagnoses, disease markers in a person’s genes and children’s paternity.
+
+What is known is that the Office for Civil Rights, the HHS agency that enforces HIPAA, hasn’t taken action on 60 percent of the complaints it has received because they were filed too late or withdrawn or because the agency lacked authority over the entity that’s accused. The latter accounts for a growing proportion of complaints, an OCR spokeswoman said.
+
+A 2009 law called on HHS to work with the Federal Trade Commission — which targets unfair business practices and identity theft — and to submit recommendations to Congress within a year on how to deal with entities handling health information that falls outside of HIPAA. Six years later, however, no recommendations have been issued.
+
+The report is in “the final legs of being completed,” said Lucia Savage, chief privacy officer of the HHS Office of the National Coordinator for Health Information Technology.
+
+None of this was useful to the 30-year-old Stokes, a principal consultant at the cybersecurity firm Mandiant. Four months after she filed her complaint with OCR, it suggested she contact the FTC. At that point, she gave up.
+
+“It just kind of seems like a Wild West right now,” she said.
+
+Protection of Consumer-app Data Varies
+
+Advances in technology offer patients ways to monitor their own health that were impossible until recently: Internet-connected scales to track their weight; electrodes attached to their iPhones to monitor heart rhythms; virtual file cabinets to store their medical records.
+
+“Consumer-generated health information is proliferating,” FTC Commissioner Julie Brill said at a forum last year. But many users don’t realize that much of it is stored “outside of the HIPAA silo.”
+
+HIPAA seeks to facilitate the flow of electronic health information, while ensuring that privacy and security are protected along the way. It only applies to health providers that transmit information electronically; a 2009 law added business partners that handle health information on behalf of these entities. Violators can face fines and even prison time.
+
+“If you were trying to draft a privacy law from scratch, this is not the way you would do it,” said Adam Greene, a former OCR official who’s now a private-sector lawyer in Washington.
+
+In 2013, the Privacy Rights Clearinghouse studied 43 free and paid health and fitness apps. The group found that some did not provide a link to a privacy policy and that many with a policy did not accurately describe how the apps transmitted information. For instance, many apps connected to third-party websites without users’ knowledge and sent data in unencrypted ways that potentially exposed personal information.
+
+“Consumers should not assume any of their data is private in the mobile app environment—even health data that they consider sensitive,” the group said.
+
+Consider a woman who is wearing a fetal monitor under her clothes that sends alerts to her phone. The device “talks” to her smartphone via wireless Bluetooth technology, and its presence on a network could be detected by others, alerting them to the fact that she’s pregnant or that she may have concerns about her baby’s health.

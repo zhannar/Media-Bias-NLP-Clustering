@@ -1,0 +1,73 @@
+To Find Patients at Highest Risk, Hospitals Combine Consumer Data with Clinical Information—Including Clinical Laboratory Results
+
+Health systems using big data in this manner include Carolinas Healthcare System and UPMC Health
+
+Big data is all the rage in healthcare these days. However, one interesting development in this field is how hospitals are integrating consumer data with clinical data to identify patients at high risk. For example, if the post-surgical heart patient buys a package of cigarettes, some hospitals say they want to know.
+
+This is a trend with interesting implications for clinical laboratories. For example, will hospitals using big data in this fashion want to include medical laboratory test results in the mix of information they collect and analyze on their patients? If so, are there ethical issues associated with using such lab test data in this manner?
+
+Major Health Systems Are Assembling ‘Big Data’ on Their Patients
+
+Recent news stories describe how prominent health systems, such as the Carolinas HealthCare System and University of Pittsburgh Medical Center (UPMC), are taking their first steps to integrate consumer data—such as what people buy or characteristics of their zip code—with clinical data, according to a Bloomberg Businessweek story.
+
+The providers are tapping detailed consumer information compiled by data brokers from credit card transactions and public records. The idea is to “identify those most likely to get sick, so the hospitals can intervene before they do,” Bloomberg reported.
+
+Some experts say that providers are motivated to make their big data bigger with the consumer health information, because of the Affordable Care Act (ACA). The ACA rewards hospitals for quality outcomes, as opposed to paying fees for services.
+
+Additionally, since 2012, ACA has penalized hospitals for excessive Medicare patient readmissions related to select conditions. These include acute myocardial infarction, heart failure, and pneumonia. Meanwhile, accountable care organizations (ACOs) and patient-centered medical homes are reimbursed based on “right care at the right time and unnecessary duplication of services.”
+
+Consequently, providers are exploring resources—including big data—that give them a peek at people’s habits. Pathologists and medical laboratory professionals need to be aware of this new healthcare trend and its related privacy issues. That’s because clinical lab data is expected to be part of the clinical information that gets matched with consumer information.
+
+Healthcare Systems Use Consumer Data to Profile Patients
+
+Carolinas HealthCare System is integrating consumer data—purchases made with credit or store loyalty cards—into “algorithms designed to identify high-risk patients,” the Bloomberg article shared.
+
+“What we are looking to find are people before they end up in trouble. The idea is to use big data and predictive models to think about population health and drill down to the individual levels to find someone running into trouble that we can reach out to and try to help out,” said Michael Dulin, M.D., Ph.D., Chief Clinical Officer for Analytics and Outcomes at Carolinas HealthCare System, in the Bloomberg article.
+
+
+
+Pictured above is Michael Dulin, M.D., Ph.D., Chief Clinical Officer for Analytics and Outcomes at Carolinas Healthcare System (CHCS). He told Bloomberg Businessweek that the CHCS, a 900-care-center system, may have patient risk scores, based on predictive models, available to doctors and nurses in just two years. An asthma patient’s score, for example, will rise with consumer data showing missed medication refills at the pharmacy, cigarette purchases and residing in an area with a high pollen count. (Photo copyright Carolinas Health Network.)
+
+Dark Daily reported earlier this year on CHCS’s in-house data arm, Dickson Advanced Analytics. This business unit is targeting population health management, individualized patient care, and predictive modeling. (See Dark Daily, “Hospitals Mine Clinical Data to Help Reduce Costs and Avoid Readmissions, Creating Opportunities for Clinical Laboratory Pathologists to Contribute to Improved Patient Outcomes,” April 4, 2014.)
+
+Mining Big Data at UPMC in Pittsburgh
+
+Meanwhile, in Pennsylvania’s UPMC’s Insurance System reviews demographic and household data, such as whether a car is owned and number of people per household. A UPMC spokesperson told Bloomberg that such data on two million members helps predict people likely to use the emergency room or urgent care.
+
+Data analytics that go beyond clinical data is important to the success of an ACO, according to Mark Caron, Senior Vice President and CIO of Capital Blue Cross in Harrisburg, Pennsylvania. Analytics must also include patient accountability so individuals are held to more responsible lifestyle behaviors in the accountable care structure, reported Fierce Health Payer in its story about how hospitals are using big data.
+
+Privacy Advocates Voice Concerns
+
+But not everyone wants Big Brother to call and advise them to lay off the cupcakes. Privacy advocates and patients reportedly have expressed concerns about the intrusive nature of big data in health, including the doctor-patient relationship. Lifestyle choices are regarded as personal matters.
+
+“Other people are saying they have had a hard enough time getting in touch with their doctor as it is. So this (consumer data use in healthcare) seems like a weird next step,” reported St. Louis’s KMOV.com, which was one of many media outlets nationwide that picked up the Bloomberg story.
+
+Still, it’s hard to stop this particular train. Data brokers are companies that collect and store billions of data elements from nearly all U.S. consumers. Sources include social media, the Department of Motor Vehicles, retailers, and more, reported Consumerist in its story.
+
+The Obama administration in May made six recommendations to protect people’s privacy. This included a consumer bill of rights and national standards for data breach notifications, Bloomberg reported in another story.
+
+Big Data Means Big Money, Knowledge
+
+Big data also means big money. Last fall, the Direct Marketing Association issued an economic study on the value of data. It showed that data shared online by consumers added $156 billion in revenue to the U.S. economy in 2012 and contributed to creation of 675,000 jobs.
+
+The popular adage, “knowledge means power,” has relevance here. With more knowledge—suggested by the consumer data—and good intentions, healthcare providers may succeed in their outreach efforts to engage patients at risk of many diseases and health conditions before any type of acute or episodic event occurs.
+
+Meanwhile, clinical laboratory managers and pathologists may want to be alert to big data initiatives happening within the hospitals and healthcare systems they serve. Because the use of consumer data with clinical data is such a new development, there may be as many pitfalls as benefits from the use of such information as there are benefits in providing a method to identify and approach individual patients deemed at highest risk for serious health conditions.
+
+—By Donna Marie Pocius
+
+Related Content:
+
+Your Doctor Knows You’re Killing Yourself. The Data Brokers Told Her
+
+Hospitals Mine Clinical Data to Help Reduce Costs and Avoid Readmissions, Creating Opportunities for Clinical Laboratory Pathologists to Contribute to Improved Patient Outcomes
+
+Hospitals Using Consumer Data to Create Patient Profiles
+
+FTC Asks Congress to Require Transparency from Data Brokers
+
+Consumers Need Protection From Data Abuse: White House
+
+Data analytics drives ACO Success
+
+DMA Announces Groundbreaking Economic Study on Value of Data at DMA 2013

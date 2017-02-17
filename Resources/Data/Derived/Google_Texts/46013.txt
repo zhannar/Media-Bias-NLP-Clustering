@@ -1,0 +1,79 @@
+By Linda R. Greene, RN, MPS, CIC
+
+Infection prevention is a constantly changing field. Tremendous challenges face the infection preventionist (IP), including new emerging and re-emerging diseases, antibiotic resistant organisms, serious; often life-threatening diseases such as C. difficile, public reporting of healthcare-associated infections (HAIs), and the Centers for Medicare and Medicaid Services (CMS) policies to limit payment for hospital-acquired conditions and complications.
+
+Subsequently, the IP is faced with increasing demands for data. As a result, surveillance requirements have grown exponentially. Surveillance for HAIs and significant community-acquired infections has historically been the cornerstone of infection prevention activities. As infection control programs began to evolve, surveillance activities focused on the capture of all nosocomial infections in an effort to assess the overall organizational incidence of infection. This function was referred to as “total house surveillance.”(1)
+
+Over time, there was an understanding that in order to compare performance across different organizations, definitions had to be con-sistent, and data collection methodologies needed to be standardized. Moreover, there was an increasing realization that efforts should be directed at those infections that were most serious and amenable to interventions.
+
+The development of the NNIS marked a significant advancement in surveillance. IPs in hospitals who were enrolled in the system applied standard definitions and were able to target specific HAIs and assess their own performance over time. As more hospitals joined the NNIS, the program evolved into what is now known as the National Nosocomial Healthcare System (NHSN). Today, the Centers for Disease Control (CDC)'s NHSN is the nation’s most widely used healthcare-associated infection tracking system, providing data to the Centers for Medicare and Medi-caid Services (CMS) for public reporting and pay for performance programs.(2)
+
+As surveillance requirements by both state and federal agencies have grown, it seems that surveillance may have come full circle, resembling the “total house surveillance” of the past IPs are at a pivotal juncture with increasing data requirements, cost containment and time constraints. In order to respond to these growing challenges, it is important to identify key surveillance and epidemiology imperatives for the IP.
+
+Technology
+
+Faced with expectations to improve patient safety and contain costs, the U.S. healthcare system is under increasing pressure to comprehen-sively and objectively account for HAIs. As the role of the IP continues to expand in scope and complexity, surveillance activities continue to be one of the IP’s most time consuming activities. Historically, the infection prevention and control department’s annual risk assessment would identify high risk and problem prone areas which would lead to prioritization of the organization’s surveillance plan. However, state and federal requirements for HAI reporting leave little opportunity for many organizations to include additional areas for focused surveillance. Moreover, use of traditional surveillance data for performance measurement has several barriers. It is a time-consuming, labor-intensive process, and manual collection of clinical data from medical, laboratory, and pharmacy records is no longer feasible. Proper manual surveillance requires that surveillance personnel have certain clinical and epidemiological skills. IPs must apply CDC case definitions to a broad range of clinical syndromes leading to subjectivity or inconsistent classification in the interpretation of surveillance definitions. As infection prevention programs are faced with com-peting priorities, including expectations for expanded surveillance from internal, regulatory, or public sectors, the demands on the IPs time may divert efforts away from other prevention activities. It is clear that surveillance must absorb fewer human resources.(3)
+
+Clearly, leveraging tech-nology through the electronic health record (EHR) or a surveillance software system is an imperative. As demands for Infection data continue to grow, it is imperative that IPs have the appropriate tools and resources to meet these challenges. One of the strongest incentives driving a transition to fully automated electronic surveillance is the promise of reducing the substantial amount of time required for an IP to identify and document infections. From the hospital perspective, allowing IPs to devote their time to implementing and maintaining infection prevention inter-ventions provides more value to the organization than counting infections. Recent changes in the NHSN definitions reflect the goal of moving to algorithmic surveillance in the next five years.
+
+To address these growing demands for obtaining HAI data as efficiently as possible, better IP knowledge and skills in use of surveillance tech-nology and health informatics will be necessary.
+
+
+
+Data Analytics
+
+By definition, data analytics (DA) is the science of examining raw data with the purpose of drawing conclusions about that information. Data analytics should be part of the IPs repertoire regardless of the size of the organization. Ideally, in the acute care setting, the IP should be able to use the NHSN data analysis component. Even large organizations that employ a data management specialist to produce regular reports can benefit from an IP who is able to analyze information on an ad hoc basis as issues arise or stakeholders require additional information. The NHSN patient safety module provides a rich array of data, statistical tools and other information which can be used to analyze data and provide infor-mation to stakeholders. In addition, analysis tools within NHSN help facilitate internal validation activities and can help inform prioritization and success of prevention activities. In 2015 NHSN launched a new data analysis report titled The Targeted Assessment for Prevention (TAP). The TAP strategy is a method developed by the CDC to use data for action to prevent HAIs. The TAP strategy targets healthcare facilities and specific units within facilities with a disproportionate burden of HAIs so that gaps in infection prevention in the targeted locations can be addressed.(4)
+
+This report uses a metric called the cumulative attributable difference (CAD). The CAD is the number of infections that must be prevented to achieve a HAI reduction goal and is calculated by subtracting a numerical prevention target from an observed number of HAIs. The TAP report allows for the ranking of facilities, or locations within individual facilities, by the CAD to prioritize prevention efforts where they will have their greatest impact. The ability to generate data, interpret it properly, and determine the recommended course of action is an invaluable asset to the organization .NHSN data is used for Hospital Compare, Value Based Purchasing (VBP) and the Healthcare Associated Conditions (HAC) penalty program. This means that IPs must ensure that data is timely and accurate. In addition, basic data analytic skills are needed to measure and analyze processes of care, conduct outbreak investigations, and to understand the frequency, distribution and cause of disease.
+
+In today’s ever changing healthcare landscape with emerging threats from infectious diseases and internal demands for data, it is imperative that the IP be able to interpret and analyze data, recognize variations and disseminate information to stakeholders in an efficient and comprehensive manner. In addition, with the adoption and expansion of the EHR, new data is becoming available to measure processes of care and significant patient outcomes. In order to ensure that technology provides meaningful information, IPs need to become involved in their organization’s EHR and optimization processes as well.
+
+Understanding the Regulatory Landscape
+
+This may seem like a tall order for the average IP to understand the regulatory landscape. However with state mandates, CMS pay-for-reporting and pay-for-performance, it is important to know not only what is reported, but what specific time frames are included in payment determination for the infection measures included in VBP and the HAC data. It is important that IPs understand how this data is tied to the bottom line and what metric is used for reporting. At the present time, the CMS programs use the Standardized Infection Ratio (SIR) metric.
+
+The SIR is a risk-adjusted summary measure that compares the observed number of infections to the number that would have been expected compared to previous years of reported data (national baseline). The SIR is calculated by dividing the number of observed infections by the number that would have been predicted. A SIR below 1 means that the facility had less than the predicted number of infections while a SIR above 1 means that the facility had more than predicted. The NHSN patient safety module has a CMS component which allows the IP or data analyst to determine both the SIR and statistical significance of measures used for the HAC data and VBP.(5)
+
+The HAC Reduction Program, mandated by the Affordable Care Act, requires CMS to reduce hospital payments by 1 percent for hospitals that rank among the lowest-performing 25 percent with regard to HACs.(6) The HAC is determined for 2 calendar years. For 2016 Fiscal Year payment, 75 percent of the determination will be based upon the SIR for calendar year 2013 and 2014 for the following 3 metrics:
+
+• Central line Associated Infections (CLABSI) measure
+
+• Catheter Associated Urinary Tract Infections (CAUTI) measure
+
+• Surgical Site Infection Measure (combined Colon Surgeries and Abdominal Hysterectomies)
+
+For 2017 payment, Clostridium diffiicle and methicillin-esistant Staphylococcus aureus (MRSA) measures will be added to the HAC determination. How can IPs use this data? Calculate a two-year SIR for the appropriate time period. Use the NHSN data analysis component to determine if rates are higher than expected with particular attention on whether the difference is statistically significant. IPs need to keep administration informed and use the in-formation to leverage their position. Good or bad – it can help make the business case.
+
+Surveillance Across the Continuum
+
+With the changing healthcare delivery system, patients receive care at various settings, including acute-care hospitals, skilled nursing facilities (SNFs), and ambulatory clinics. The transition of healthcare delivery from acute-care hospitals to outpatient (ambulatory care) settings, along with ongoing outbreaks and patient notification events, have demonstrated the need for greater understanding and implementation of basic infection prevention guidance as well as surveillance techniques to detect significant community-associated or healthcare-associated events. IPs in the acute-care setting may have oversight for affiliated clinics, outpatient dialysis units, office practices and ambulatory surgery sites. The recent outbreaks of carbapenem-resistant enterobacteriaceae (CRE), which have been linked to duodenoscopes underscores how important surveillance, epidemiology and infection prevention are in outpatient settings. In addition, the U.S. Health and Human Services Department (HHS) has set a goal of tying 85 percent of all traditional Medicare payments to quality or value by 2016 and 90 percent by 2018 through pro-grams such as the Hospital VBP and the Hospital Readmissions Reduction programs.
+
+This means that IPs will not only be responsible for HAI outcome measures, but must be involved in activities which focus on preventing read-missions due to infectious complications. Ensuring appropriate patient education, involving patients and families in infection prevention and communicating infection risks across the continuum of care is imperative. This will mean greater coordination of infection prevention efforts by IPs from one care setting to another. The integration of IP programs across multiple settings will require close attention to emerging infectious issues and public policy mandates. As the transition to Accountable Care Organizations (ACOs) and bundled payment arrangements continues to evolve, IPs will face new challenges and opportunities.
+
+Clearly, surveillance is changing. As more organizations have a fully functional EHR, there are tremendous possibilities for the IP including clin-ical decision making, automated alerts to clinicians, syndromic surveillance for infectious diseases, screening for infectious diseases and coordina-tion of care across the continuum, just to name a few.(7) This transition will have a significant impact on the process of surveillance, but effective use of data will require knowledge, commitment and understanding. “Successful IPs know how to chart their own future and look beyond the issues and activities of the moment to see the emerging shifts and circumstances that will ultimately affect healthcare and their role in it.“(8)
+
+As IPs embrace these surveillance and epidemiology imperatives, it will position them to move beyond the traditional model and to function as a leader within the broader context of patient safety.
+
+Linda R. Greene, RN, MPS, CIC, is manager of infection prevention at Highland Hospital, an affiliate of the University of Rochester Medical Center.
+
+
+
+References:
+
+1. Scheckler W, Surveillance, foundation for the future: A historical overview and evolution of methodologies, AJIC; April 1997;25; (2) :106–111
+
+2. http://www.cdc.gov/nhsn/about.html
+
+3. Greene LR APIC Position Paper: The Importance of Surveillance Technologies in the Prevention of Healthcare Associated Infection
+
+http://www.apic.org/Resource_/TinyMceFileManager/Advocacy-PDFs/Surveillance_Technologies_position_paper_2009-5_29_09.pdf
+
+4. http://www.cdc.gov/nhsn/PDFs/TAP/TAPReports_Facilities.pdf
+
+5. http://www.cdc.gov/nhsn/PDFs/Newsletters/NHSN_NL_OCT_2010SE_final.pdf
+
+6. http://www.medicare.gov/hospitalcompare/HAC-reduction-program.html
+
+7. Murphy D. Competency in infection prevention: a conceptual approach to guide current and future practice. Am J Infect Control. May 2012; 40(4):296-303.
+
+8. Manning ML. Expanding infection preventionists' influence in the 21st century: Looking back to move forward. Am J Infect Control. Dec. 2010; 38(10):778-783.

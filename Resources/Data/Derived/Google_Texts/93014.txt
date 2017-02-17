@@ -1,0 +1,27 @@
+Health information exchange remains a challenge for providers and vendors alike. In 2011, athenahealth addressed the issue by offering a HIE service that connected physicians to labs and other service partners. At the time, this arrangement passed muster with the federal Office of Inspector General. But in April, the OIG reversed itself, arguing that the arrangement constitutes a potential violation of the anti-kickback laws governing the healthcare industry. This reversal has left observers asking: How did this happen? And where do we go from here?
+
+What happened?
+
+Athenahealth offers a service to clinicians by which they can make referrals or order lab tests or other services electronically. Both the doctor and the receiver are charged a small fee ($1 or less) for the service.
+
+Until recently, discounts were provided to doctors who use the vendor’s data exchange system, but they were charged more if the lab in question did not contract with the vendor, which would reduce the discount to clinicians when they chose an out-of-network lab.
+
+In 2011, in response to a request for an advisory opinion submitted by athenahealth, OIG said such an arrangement “could potentially generate prohibited remuneration under the Federal anti-kickback statute if the requisite intent to induce or reward referrals of Federal health care program business were present.” But the agency decided that the risk was minimal in light of the benefits afforded participating senders and receivers, and issued an advisory opinion, AO 11-18, authorizing the arrangement.
+
+In April 2014, the agency reversed its 2011 opinion, concluding that if a clinician is doing a great deal of business with any one lab, even $1 could grow large enough to provide an incentive to stay with that lab, thus unfairly influencing the clinician’s referral decision.
+
+The original 2011 advisory opinion from the OIG “lays out a very detailed analysis that we agree with” said Dan Haley, athenahealth’s vice president of government and regulatory affairs. The company does not agree with the new conclusion, however.
+
+Haley said athenahealth dealt with the OIG’s new concern back in 2011, by establishing a cap on discounts that any one doctor could get. The OIG agreed at the time that there was no material threat of improper influencing of referral decisions, Haley said.
+
+athenahealth is not alone in being flummoxed by the OIG’s reversal. Observers such as Tony Burba, a lawyer specializing in healthcare at Barnes & Thornburg in Washington, have a hard time understanding the justification for the new opinion.
+
+“Since the user fees for out-of-network providers were capped at the amount of the discount, the OIG determined the risk of fraud and abuse was capped,” Burba said. “Literally, none of these facts changed in the three-and-a-half-year interim. The cap was still in place, and the risk profile was identical.”
+
+What now?
+
+That said, as far as providers are concerned, the solution to this snafu is simple: they can continue to avail themselves of HIE services offered by vendors like athenahealth as long as the vendors adhere to the revised OIG advisory.
+
+And despite its disagreement with the OIG’s revised conclusion, athenahealth has agreed to abide by that altered decision. It has revised its pricing structure, allowing clinicians who still want to avail themselves of the convenience of electronically connecting to service providers to do so.
+
+To adhere to the new ruling, the company now charges both the sender and the receiver of the data, for example, both the doctor and the lab, whether the receiver is in or out of the coordinator network. In the past, for in-network transmissions, the lab would be charged and the doctor would be charged but also get the $1 discount. That discount has been cancelled, and pricing revised to make the change cost-neutral to the company’s clients.

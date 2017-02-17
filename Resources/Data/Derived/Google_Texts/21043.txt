@@ -1,0 +1,27 @@
+Sunday, July 5, 2015
+
+Takeaway: Showing that a third party received a document and submitted it in an Information Disclosure Statement for an unrelated application was not sufficient to show that the document was publicly available within the definition of printed publication.
+
+In its Decision, the Board denied Petitioner’s Request for Rehearing of the Board’s decision denying Petitioner’s challenge of claims 13-16, 29, 31-34, 36, and 82-86 as obvious over Kenoyer and the HDMI Specification. Upon a request for rehearing, the decision on a petition is reviewed for an abuse of discretion. The party requesting rehearing “must identify, specifically, all matters the party believes the Board misapprehended or overlooked, and the place where each matter was addressed previously.”
+
+The Petition asserted that the HDMI Specification was published and publicly available on or about November 10, 2006, which was before the September 2008 effective filing date of the ’182 patent. However, in the Decision on Institution, the Board held that the Petition did not provide adequate persuasive evidence to support this assertion.
+
+In the Rehearing Request, Petitioner argued that the evidence demonstrated unrestricted dissemination of the HDMI Specification prior to the effective filing date of the ’182 patent. The evidence included an information disclosure statement (IDS) filed in in a separate patent application by a third party, which Petitioner argued proved that an unrelated third party in the field had actually received it and that by transmitting it to the USPTO it was distributed without restriction. Petitioner further argued that the HDMI Specification “is a standards document intended to be used by participants in industry to develop standards compliant products, not an internal document or the type of document one would expect to be non-public.”
+
+In its Opposition, Patent Owner argued that, at most, Petitioner provided facts that showed a single entity may have given the specification to the USPTO in an application that was required by statute to be kept secret until after the effective filing date of the ’182 patent, because the application in which the IDS was submitted was not published until after the effective filing date of the ’182 patent. Patent Owner also disputed the other arguments put forth by Petitioner, and argued that Petitioner failed to show how a single entity having possessed and possibly transmitted the document to the USPTO demonstrates how interested members of the relevant public could have obtained the information if they wanted to.
+
+The Board stated that it did not overlook or misapprehend any of Petitioner’s arguments in the Request for Rehearing because those arguments were not made in the Petition. Instead, the Petition merely asserted that “[t]he public availability and publication of the HDMI Specification is shown by numerous sources,” and then listed certain evidence without any further explanation. The Board also held that even if these arguments had been made in the Petition, it would not have been persuasive, because it agreed with the arguments made by Patent Owner. Specifically, the Board agreed with Patent Owner that the mere fact that a third party had a copy of the document, without more explanation, is not sufficient evidence demonstrating how someone could have located and accessed the document.
+
+Petitioner also argued that the Board misapprehended the legal standard for considering the evidence presented, asserting that for institution, Petitioner must only demonstrate a reasonable likelihood of prevailing on the merits. Specifically, Petitioner argued that instead of evaluating the public availability of the HDMI Specification under the reasonable likelihood to prevail standard, the Board focused on whether Petitioner had finally demonstrated the public accessibility of the document. Petitioner supports its assertion of this misapprehension on the statement by the Board in the Decision on Institution that “[w]e are persuaded that Petitioner has not demonstrated the public accessibility of the HDMI Specification.” The Board clarified that other portions of the Decision made it clear that it was using the reasonable likelihood to prevail standard, and clarified the possibly ambiguous statements in this Decision.
+
+Microsoft Corporation v. Biscotti Inc., IPR2014-01457
+
+Paper 12: Decision on Request for Rehearing
+
+Dated: June 2, 2015
+
+Patent: 8,144,182 B2
+
+Before: Ken B. Barrett, Neil T. Powell, and Kevin W. Cherry
+
+Written by: Powell

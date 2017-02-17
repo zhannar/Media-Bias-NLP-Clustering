@@ -1,0 +1,39 @@
+Every Monday, the National Bureau of Economic Research, a nonprofit organization made up of some of North America’s most respected economists, releases its latest batch of working papers. The papers aren’t peer-reviewed, so their conclusions are preliminary (and occasionally flat-out wrong). But they offer an early peek into some of the research that will shape economic thinking in the years ahead. Here are a few of this week’s most interesting papers.
+
+More Economics
+
+Title: “Bankruptcy Rates among NFL Players with Short-Lived Income Spikes”
+
+Authors: Kyle Carlson, Joshua Kim, Annamaria Lusardi, Colin F. Camerer
+
+What they found: Nearly 16 percent of retired NFL players have filed for bankruptcy within 12 years of leaving professional football. Making more money or playing longer didn’t reduce the likelihood of bankruptcy.
+
+Why it matters: Standard economic models assume people smooth out their spending over the course of their lives. To do so, they must save more when their earnings peak, so that they can continue to spend later in life (including retirement) when they may earn little, if any money. This paper shows that this assumption does not hold for NFL players, who earn the bulk of their lifetime earnings in a short stint playing professional football. The median career length for the players examined in this paper is six years; the median total career earnings, from football, is $3.2 million (in 2000 dollars). But even though they made many times an average worker’s lifetime earnings, retired NFL players were still prone to bankruptcy, because they spent too much money while they were playing. Two years after retirement, 1.9 percent of former NFL players had filed for bankruptcy, and nearly 16 percent were bankrupt 12 years after retirement. The overall bankruptcy rate of NFL players was nearly identical to the rate of all Americans 25 to 34 years old.
+
+Key quote: “If they are forward-looking and patient, they should save a large fraction of their income to provide for when they retire from the NFL. … Having played for a long time and having been a successful and well-paid player does not provide much protection against the risk of going bankrupt.”
+
+Data they used: Data on NFL players drafted between 1996 and 2003; basic information from Pro-Football-Reference; salary information from USA Today and Spotrac (2000 is the earliest year available); bankruptcy information from public documents (checked by name and address).
+
+Title: “The Effect of Mandated Child Care on Female Wages in Chile”
+
+Authors: María F. Prada, Graciana Rucci, Sergio S. Urzúa
+
+What they found: Chilean women working at firms that were required by the government to provide child-care services had starting wages between 9 and 20 percent lower than women working at firms not under the mandate.
+
+Why it matters: In Chile, the female labor-force participation rate lagged in the 1980s before the government passed a law mandating employer-paid child-care services for working mothers. The law, first passed in 1993 but tweaked several times since (most recently in 2009), requires businesses with 20 or more female employees to provide child care, either directly on the premises or through reimbursement. Economists often interpret employer mandates as a tax equal to the cost of providing the benefit, and this paper attempted to quantify the impact of child-care mandates on starting wages for women workers. The authors examined firms just below and just above the mandated threshold of 20 female employees, and were careful to control for the size of the businesses. Women were paid less when they worked at firms with mandated child-care services, compared to women working at firms free from the mandate.
+
+Key quote: “This paper highlights the adverse unintended effects of a law for the group that is intended to benefit from it. The objective of the law is to guarantee the right of working mothers to have child-care services and to promote the child-mother close relationship and healthy development of the children, as well as reduce gender disparities in the labor market. The law creates a distortion, however, affecting differentially the cost of hiring women. This creates a wage disadvantage for women, lower incentives to participate, and higher gender disparities.”
+
+Data they used: Data from Chile’s unemployment insurance system (Seguro de Cesantia).
+
+Title: “Firm Leverage and Unemployment during the Great Recession”
+
+Authors: Xavier Giroud, Holger M. Mueller
+
+What they found: Companies that took on more debt before the Great Recession later cut employment much more sharply than companies that were less constrained by debt.
+
+Why it matters: Economists disagree about what role debt played in causing the Great Recession that began in 2007. Atif Mian and Amir Sufi, contributors to FiveThirtyEight, famously singled out high and rising household debt as the main driver of the economic instability that followed the mortgage meltdown. This paper, however, points to debt held by non-financial companies. The leverage (or ratio of debt to equity) for the typical firm was unchanged in the lead-up to the recession, between 2002 and 2006. But this masked how companies behaved in widely different ways: Some businesses really built up their debt holdings, and it was those companies that laid off the most workers when the recession did hit.
+
+Key quote: “When faced with household demand shocks, high-leverage firms do not (or cannot) raise additional external funds during the Great Recession. Instead, they reduce employment, close down establishments, and cut back on investment. Also, shocks to establishments of high-leverage firms spill over to other establishments within the same firm, a pattern commonly associated with firms being financially constrained. In contrast, low-leverage firms do not reduce employment, close down establishments, or cut back on investment, and there are no spillovers among establishments. Instead, low-leverage firms increase both their short- and long-term borrowing during the Great Recession, consistent with these firms having freed up debt capacity in the run-up.”
+
+Data they used: Employment and wage data at the establishment level from the U.S. Census Bureau’s Longitudinal Business Database; balance sheet and income statement data from Compustat; house price data from Zillow.

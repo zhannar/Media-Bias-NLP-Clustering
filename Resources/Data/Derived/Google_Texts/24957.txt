@@ -1,0 +1,11 @@
+Monday, March 28, 2016
+
+On March 24, 2016, Tennessee’s breach notification statute was amended when Governor, Bill Hallam, signed into law S.B. 2005.
+
+Under the amendment, notification of a data breach must now be provided to any affected Tennessee resident within 45-days after discovery of the breach (absent a delay request from law enforcement). Previously, and like the vast majority of states, Tennessee’s statute required disclosure of a breach to be made in the most expedient time possible and without unreasonable delay. Florida, like the Volunteer State, previously amended its breach notification statute to also require notification within a set time period.
+
+Perhaps even more important than the specific timing requirement for notice, S.B. 2005 also amends Tennessee’s statute to remove the provision in the existing statute requiring notice only in the event of a breach of unencrypted personal information. Accordingly, by expanding this provision, it appears Tennessee will be the first state in the country to require breach notification regardless of whether or not the information subject to the breach was encrypted.
+
+Lastly, the bill also amends the statute to specify an “unauthorized person” includes an employee of the information holder who is discovered to have obtained personal information and intentionally used it for an unlawful purpose. This amendment is likely focused on entities which failed to provide notification of data incidents which were the result of improper access by employees.
+
+The law takes effect July 1, 2016.

@@ -1,0 +1,31 @@
+McKinsey & Co. has shared a memo with the U.S. House Energy and Commerce Committee that warned of problems with the government’s Obamacare health insurance exchange (HIX) Website, now known as HealthCare.gov, as early as March.
+
+HealthCare.gov is the main hub for HIX sites in 36 states under the 2010 Affordable Care Act. The site has suffered from error messages, frozen screens and insufficient testing.
+
+Test Websites thoroughly before launch. Make sure all functions work and can be duplicated across servers. Keep spare servers and cloud capacity available at launch. Fix errors on backup servers, then port to live servers.
+
+McKinsey & Co. warned White House in March of potential Obamacare problems.
+
+McKinsey & Co. recommended that Obama administration officials “streamline decision-making’ and “name a single implementation leader.” It also warned that rollout of the insurance exchange marketplace was falling behind schedule.
+
+The document also warned of the risk of “failure to resolve postlaunch issues rapidly,” which could be caused by “compressed testing window and volume uncertainty” as well as “inter- and intra-agency response teams not yet in place.”
+
+Rep. Tim Murphy, R.-Pa., chairman of the Commerce Committee’s Oversight and Investigations subcommittee, expressed concern at a Nov. 19 committee hearing, called “Security of HealthCare.gov,” that the HealthCare.gov site “is still not functioning at an acceptable level.”
+
+He spoke about new problems coming to light daily with the site.
+
+“The reason the trust of the American people may be so difficult to regain is because every day new revelations emerge that show this wreck was entirely foreseeable,” Murphy said.
+
+Without naming the contractor, the Centers for Medicare and Medicaid Services (CMS) acknowledged an independent company had conducted an external review earlier this year.
+
+“In early 2013, as part of a standard process to identify potential risks and develop mitigating strategies, an independent contractor was brought in to conduct an external review,” Patti Unruh, a spokeswoman for the Centers for Medicare and Medicaid Services,” told CruxialCIO in an emailed statement. “The review was completed six months before the beginning of open enrollment, was in line with industry best practices and was followed by concrete action to address potential risks—as was intended.”
+
+After CMS received the McKinsey report, it prioritized functionality for the Obamacare Web site that were important for the Oct. 1 launch, Unruh said.
+
+The McKinsey report was also distributed to Health and Human Services Secretary Kathleen Sebelius, who testified before the House Energy and Commerce Committee on Oct. 30.
+
+Other officials who received the memo included White House Chief Technology Officer Todd Park and CMS Administrator Marilyn Tavenner.
+
+President Obama received the McKinsey & Co. recommendations, White House spokesman Jay Carney said, according to Reuters.
+
+McKinsey & Co. declined to comment on the memo. “In line with our confidentiality policies, we do not comment publicly on our client work,” McKinsey spokeswoman Yolande Daeninck told CruxialCIO in an email. The White House has promised to get the HIX site working properly by the end of November and has implemented a “tech surge” in which IT experts from the government and private sector wil work on fixing the HIX site.

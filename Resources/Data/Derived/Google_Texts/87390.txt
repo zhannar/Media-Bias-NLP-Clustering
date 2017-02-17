@@ -1,0 +1,57 @@
+A busy screen is shown on the laptop of a Certified Application Counselor as he attempted to enroll an interested person for Affordable Care Act insurance, known as Obamacare, at the Borinquen Medical Center in Miami, Florida October 2, 2013.
+
+WASHINGTON In the last days before the botched October 1 launch of President Barack Obama's healthcare website, the team in charge was seeing alarming results from performance tests, according to internal emails released by Republican lawmakers investigating the rollout.
+
+HealthCare.gov was unable to consistently handle 500 users at once in the testing, and tests failed with 2,000 users over a three-day period, according to a series of emails between members of the information technology team at the Centers for Medicare and Medicaid Services, or CMS.
+
+"I do not want a repeat of what happened near the end of December 2005 where Medicare.Gov had a meltdown," Henry Chao, the website's project manager at CMS, wrote in capital letters in an urgent message on September 26 to his team and contractors.
+
+Chao was referring to the disastrous launch of the Medicare Part D prescription drug program under President George W. Bush's administration. Technical woes prevented many seniors from initially gaining access to the website.
+
+The emails, released by the Republican-led House Energy and Commerce Committee, are the latest to illustrate the depths of problems with the Obamacare website, which has frustrated millions of Americans with error messages and slow responses as they try to shop for health insurance.
+
+The troubled rollout has been deeply embarrassing for Obama, who had promised up to the launch of the website that it would make shopping for plans as easy as buying televisions on Amazon.
+
+It has also raised questions about the management of his signature healthcare reform program.
+
+White House spokesman Eric Schultz said the "cherry-picked" emails did not reveal anything new.
+
+"To the extent that CMS had identified capacity issues, we of course sought assurances that they were getting addressed," Schultz said. "But, as is well-known, nobody anticipated the severity of the problems we experienced once the site launched."
+
+In a statement, a CMS spokeswoman said the agency previously admitted it underestimated the volume of users who would try to log onto the system at the same time.
+
+"It is important to remember that these emails are one piece of a number of ongoing discussions up to the launch of HealthCare.gov on October 1," the statement said.
+
+Obama has said his team would not have launched the site had it known how badly it would perform.
+
+'THE RESULTS ARE NOT GOOD'
+
+The emails show that behind the scenes, information technology officials were raising numerous concerns. On September 26, Chao said the site needed to be able to handle at least 10,000 or more users at a time.
+
+But three days of testing showed the system flopping at levels well below that.
+
+"The results are not good and not consistent at all," wrote Akhtar Zaman, a system integrator at CMS, describing in detail the hang-ups and errors.
+
+On September 27, David Nelson, director of the office of enterprise management at CMS, said the system was failing because of issues like defective code.
+
+"We have not been successful in moving beyond 500 concurrent users filling applications" he said. "We must give ourselves the ability to work through these tuning issues."
+
+Hemant Sharma, a contractor with CGI Federal, the U.S. subsidiary of Canada's CGI Group Inc, which is helping to build the site, downplayed Nelson's concerns. Sharma said adding additional servers would help performance.
+
+"The defects enumerated above are very typical in any performance test and part of the tuning exercise," Sharma wrote the team.
+
+On September 29, Todd Park, a top technology adviser to Obama, asked Chao whether his team was sure it had found the correct bottleneck in the system and was confident in its testing results. The emails did not include an answer from Chao.
+
+"Massive kudos again for the incredible progress the team is making!" said Park.
+
+But by September 30 - the day before launch - Zaman reported to Chao there was still a lot of work to do. The system was running very slowly at low test levels of 1,100 to 1,200 concurrent users, and a part of the website allowing the user to compare plans had not yet been tested.
+
+"Our goal is to hit 10,000 concurrent users at first, and then keep shooting for the 50,000 concurrency limits," Zaman said.
+
+But as many as 250,000 users at a time visited the site at launch, far surpassing the site's limits.
+
+Republican lawmakers investigating the website woes said the emails show the administration knew enough to put a hold on the launch.
+
+"What we are learning is that the administration went out of its way to hide the chaos behind the scenes," said Fred Upton, chairman of the House energy and commerce panel.
+
+(Reporting by Roberta Rampton; Editing by Fred Barbash and Peter Cooney)

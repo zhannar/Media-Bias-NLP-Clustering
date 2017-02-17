@@ -1,0 +1,19 @@
+The technologies underlying genomic sequencing are still new, and so many doctors do not understand when to order tests or how to interpret the results for their patients.
+
+The Human Genome Project was completed in 2003, and in the decade-plus since then, clinical genome and exome sequencing (CGES) has gradually moved into mainstream medical practice. Yet, confusion remains, certainly among physicians, as to when they should order these tests, how to interpret the results, and most importantly, what information should be conveyed to their patients. A review article published in The New England Journal of Medicine today summarizes the technologies underlying CGES while also offering insights to doctors who want to provide sequencing for their patients.
+
+“This is a transformative moment in the history of medicine as we begin to integrate genome sequencing into the care of patients,” said Dr. Robert C. Green, co-author and a medical geneticist at Brigham and Women's Hospital. “We can expect these technologies to help us transition our entire approach in medicine to more personalized and preventive care.” That said, he and his co-authors begin their article by suggesting physicians and their patients must first understand that CGES is not appropriate for all patients and it cannot answer all questions.
+
+It's Not the Whole Enchilada?
+
+Referred to as whole-genome or whole-exome sequencing, these technologies surprisingly don't cover 100 percent of the genome or exome as the name implies. Not all of the DNA can be sequenced using the current methods, and for this reason, the technique is best suited to detecting single-nucleotide polymorphisms (SNPs, pronounced snips) or alterations in sequences of no more than eight to 10 base pairs. This means CGES may not pick up longer variations or repetitions of sequences, or the kind of long deletions responsible for some genetic disorders.
+
+The technology is most promising for patients with rare disorders that seem to be the result of variants in a single gene. The authors recommend doctors explore family history for the presence and pattern of similar disorders among relatives, and then carry out an extensive search through scientific literature before ordering exome sequencing for a patient. Most importantly, they suggest a doctor obtain informed consent from the patient or family.
+
+On average, about one-quarter of exome sequencing tests identify a gene variant that causes disease and so provide a diagnosis. Most tests, the authors warn, come up empty. However, a negative result may rule out a genetic cause for disease. The authors have another important caveat: even when a genetic cause has been identified, it won't always lead to a cure. Nevertheless, CGES may still be useful because it can end an expensive, potentially invasive, and certainly stressful diagnostic odyssey.
+
+Finally, analysis of the results may produce incidental findings, such as the discovery of a gene variant causing another condition unrelated to the patient's symptoms, and this separate condition or disease may require treatment or surveillance. It is essential, then, to counsel patients about what to expect. Each patient needs to understand that these extensive — and expensive — tests, in all likelihood, will be inconclusive.
+
+"[CGES has] come much faster, and developed more quickly, and become more useful clinically than I think any reasonable person would have suggested just 10 years ago,” said Dr. Leslie G. Biesecker, of the National Human Genome Research Institute, in a press release. “At that time, I don't think anybody would have taken you seriously if you had said that in 2014, tens of thousands of patients would be getting clinical genome and exome sequencing."
+
+Source: Diagnostic Clinical Genome and Exome Sequencing. The New England Journal of Medicine. 2014.

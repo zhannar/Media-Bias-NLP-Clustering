@@ -1,0 +1,9 @@
+Topics: hackers, Healthcare.gov, Obamacare, Security, Innovation News, Sustainability News, News, Politics News
+
+On Thursday, White House officials announced that the government’s online health insurance marketplace, and object of misplaced conservative rage, HealthCare.gov, had been hacked, although no personal information was taken.
+
+“Our review indicates that the server did not contain consumer personal information, data was not transmitted outside the agency and the website was not specifically targeted,” said Aaron Albright, a spokesperson for the Centers for Medicare and Medicaid Services. “We have taken measures to further strengthen the security.”
+
+The New York Times’ Robert Pear and Nicole Perlroth report:
+
+Mr. Albright said the hacking was made possible by several security weaknesses. The test server should not have been connected to the Internet, he said, and it came from the manufacturer with a default password that had not been changed. In addition, he said, the server was not subject to regular security scans as it should have been. The security of HealthCare.gov, which serves residents of 36 states, has been a major concern for some members of Congress, particularly Republicans. Congressional investigators found that administration officials, eager to begin enrollment on Oct. 1, activated the website even though its security had not been fully tested and did not meet federal standards. This created a potentially “high risk” for the exchange, according to a memorandum prepared by security experts at the Medicare agency.

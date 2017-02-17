@@ -1,0 +1,105 @@
+On June 1, 2015, the US Centers for Medicare & Medicaid Services ("CMS") published its proposed rule on Medicaid managed care (CMS-2390-P).1 As noted in our three earlier advisories, which provided an overview of the proposed rule, discussed the expanded Federal role in rate setting, and explained how the proposed rule would expand program integrity obligations, the proposed rule represents the first update to the Medicaid managed care regulations since 2002. This fourth advisory examines the proposed rule's provisions related to Managed Long-Term Services and Supports ("MLTSS").
+
+Long Term Services and Supports ("LTSS") are a key component of the Medicaid program for certain qualifying individuals. LTSS are defined in the proposed rule as "services and supports provided to beneficiaries of all ages who have functional limitations and/or chronic illnesses that have the primary purpose of supporting the ability to live or work in the setting of their choice, which may include the individual's home, a provider-owned or controlled residential setting, a nursing facility, or other institutional setting."2 MLTSS programs are Medicaid programs that use managed care to coordinate and manage LTSS.
+
+Medicaid's unique role in LTSS
+
+Medicaid is the largest single purchaser of LTSS in the United States, with cumulative spending of more than $130 billion annually on behalf of more than 4 million individuals. This surpasses both Medicare and commercial insurance spending. Federal law requires that State Medicaid programs provide nursing facility benefits and home health services, LTSS, which are available at each State's option through a state plan amendment, include services available at intermediate care facilities for individuals with intellectual and developmental disabilities ("ICF/IIDs") and mental health facilities for children and seniors, as well as personal care, speech, occupational, and physical therapies, and targeted case management. Many State Medicaid programs also offer home and community-based services ("HCBS"), in addition to certain nonmedical services, such as respite, home-delivered meals, transportation, adult day programs, and supported employment. These benefits vary widely among the States. Currently, there are over 300 HCBS waiver programs serving more than 1 million individuals. LTSS are expensive; while only 6 percent of Medicaid enrollees use LTSS, LTSS costs account for 45 percent of total Medicaid spending.
+
+MLTSS models continue to develop and evolve. According to the Medicaid and CHIP Payment and Access Commission ("MACPAC"), the number of States offering MLTSS doubled from eight to sixteen between 2004 and 2012 and the number of people receiving MLTSS services has more than tripled from 105,000 to 389,000 individuals.
+
+Individuals who rely upon Medicaid LTSS (including HCBS) have different needs than the general population or even the typical Medicare beneficiary. HCBS waivers cover individuals with developmental disabilities, physical disabilities and mental illness, as well as the elderly who often have multiple chronic health conditions. In order to fully understand the MLTSS provisions under the proposed rule, it is important to understand the current HCBS regulation and its origin, since the HCBS process is the primary pathway States use to make LTSS available.
+
+The Omnibus Budget Reconciliation Act of 1981 ("OBRA") created authority under Section 1915(c) of the Social Security Act3 for States to offer HCBS programs under a three-year renewable waiver authority. The Deficit Reduction Act of 2005 ("DRA") added Section 1915(i), which allows States to offer HCBS as an optional program under State plan authority. The intention of 1915(i) was to give States the ability to offer LTSS without the need of a waiver.
+
+The Affordable Care Act ("ACA") further amended Section 1915(i) and created the "Community First Choice State Plan Option" under new Section 1915(k). This provision offers States a temporary enhanced Federal match to encourage them to expand LTSS, but in exchange, it also requires all services to be offered statewide and does not allow waiting lists. Only four States have adopted this option as of May 2015.
+
+In 2014, CMS published a comprehensive final rule that combined the various updates to the LTSS program.4 CMS continues to publish guidance for States on community integration for those in need of LTSS. On June 26, 2015, CMS issued an Informational Bulletin which provides an expansive list of reimbursable services and supports5 and a frequently asked questions document on HCBS.6
+
+MLTSS would be impacted substantially by numerous new requirements in the proposed managed care rule, including requirements regarding actuarial soundness, rate development, medical loss ratio, appeals and grievances, network adequacy, performance measures, and provider screening and enrollment. This Advisory, however, highlights major provisions of the proposed rule specific to LTSS.
+
+Ten elements of a strong MLTSS program
+
+The proposed rule would codify ten key elements that CMS previously highlighted in 2013 guidance as indicators of a strong MLTSS program.7 The proposed rule converts the following key elements into requirements:
+
+adequate planning; stakeholder engagement; enhanced provision of home and community based services; alignment of payment structures and goals; support for beneficiaries; person-centered processes; comprehensive, integrated services package; qualified providers; participant protections; and quality.
+
+These ten key elements are woven into the proposed rule in several different locations. For example, the requirement to provide support for beneficiaries can be found in the context of enrollment and disenrollment, network adequacy, the requirement to continue services pending appeals, and identification of individuals who need LTSS.
+
+Definitions (Proposed 42 C.F.R. § 438.2)
+
+As noted above, CMS proposes to add a new definition of LTSS as "services and supports provided to beneficiaries of all ages who have functional limitations and/or chronic illnesses that have the primary purpose of supporting the ability to live or work in the setting of their choice, which may include the individual's home, a provider-owned or controlled residential setting, a nursing facility, or other institutional setting."
+
+In the preamble, CMS explains that it intends "for community-based services within this scope to be largely non-medical in nature and focused on functionally supporting people in the community."8 By contrast, HCBS waivers are alternatives to institutional care. In order to qualify for HCBS waiver services, an individual "would, in the absence of these services, require the Medicaid covered level of care provided in ... A hospital...; A NF [nursing facility]...; or An ICF/IID...."9 Thus, the new LTSS definition is much broader than current HCBS waiver requirements and, therefore, LTSS could be offered to many more individuals if the proposed rule is adopted. CMS specifically invites comments on the new definition.
+
+Standard contract requirements (Proposed 42 C.F.R. § 438.3(o))
+
+Under the proposed rule, any managed care contract that includes LTSS as a covered benefit must require that any services covered under the contract that could be authorized by a HCBS waiver or State plan amendment be administered consistent with the person-centered and fully integrated requirements under 42 C.F.R. § 441.301(c)(4). These requirements are explicit, extensive, and obligate managed care entities to satisfy specific conditions with respect to home and community-based settings, including the following:
+
+The setting must be integrated in, and support full access of individuals receiving Medicaid HCBS into, the greater community, including opportunities to seek employment and work in competitive integrated settings, engage in community life, control personal resources, and receive services in the community, to the same degree of access as individuals not receiving Medicaid HCBS. The setting must be selected by the individual from among setting options, including non-disability specific settings and an option for a private unit in a residential setting. The setting options must be identified and documented in the person-centered service plan and must be based on the individual's needs, preferences, and for residential settings, resources for room and board. The setting must ensure an individual's rights of privacy, dignity and respect, and freedom from coercion and restraint. The setting must optimize, but not regiment, individual initiative, autonomy, and independence in making life choices, including but not limited to, daily activities, physical environment, and with whom to interact. The setting must facilitate individual choice regarding services and supports, and who provides them.
+
+In a provider-owned or controlled residential setting, more than a dozen other requirements related to housing and the person-centered service plan would also apply.
+
+Disenrollment requirements (Proposed 42 C.F.R. § 438.56(d)(2)(iv))
+
+The proposed rule would specifically allow disenrollment if an enrollee using MLTSS is required to "change their residential, institutional, or employment supports provider based on the provider's change in status from an in-network to an out-of-network provider ...." Since residential and institutional services are typically the most expensive services for an individual in need of LTSS, this new condition may furnish providers with substantial negotiating leverage.
+
+Network adequacy standards (Proposed 42 C.F.R. § 438.68)
+
+CMS is proposing very broad language concerning network adequacy standards. In particular, States with contracts that cover LTSS must develop "(i) Time and distance standards for LTSS provider types in which an enrollee must travel to the provider to receive services; and (ii) Network adequacy standards other than time and distance standards for LTSS provider types that travel to the enrollee to deliver services."10 In developing such standards, States must also consider "strategies that would ensure the health and welfare of the enrollee and support community integration of the enrollee" and "other considerations that are in the best interest of the enrollees that need LTSS."11 These vague standards, which could subject the State to CMS scrutiny regarding the adequacy of the network(s), may disincentivize use of MLTSS.
+
+Stakeholder engagement (Proposed 42 C.F.R. § 438.70)
+
+Although States with MLTSS programs already provide for stakeholder engagement in a variety of ways, CMS has proposed that States "must ensure the views of beneficiaries, providers, and other stakeholders are solicited and addressed during the design, implementation, and oversight of a State's managed LTSS program. The composition of the stakeholder group and frequency of meetings must be sufficient to ensure meaningful stakeholder engagement." (emphasis added). States may be concerned that these requirements will result in potential interference from CMS or the courts on behalf of individuals or entities that may, for a variety of reasons, challenge the sufficiency of State efforts.
+
+Under Proposed 42 C.F.R. § 438.110, a State also would be required to establish and maintain a member advisory committee that is a "reasonably representative sample of the LTSS populations."
+
+Beneficiary support system (Proposed 42 C.F.R. § 438.71)
+
+CMS proposes to require that States develop and implement a beneficiary aid system to aid individuals both prior to and after enrollment in a managed care entity. This new support system must include choice counseling, training for network providers, assistance for enrollees, and, specifically, assistance for enrollees who use or express a desire to use LTSS. There are several specific requirements with respect to LTSS, including serving as an access point for complaints and concerns, conducting education on enrollees' grievance and appeal rights, providing assistance in navigating the grievance and appeal process, and engaging in review and oversight of LTSS program data to aid the State in identifying, remediating, and resolving systemic issues.
+
+Coordination and continuity of care (Proposed 42 C.F.R. § 438.208)
+
+Under this subsection, States would be required to implement mechanisms to identify persons who need LTSS. Each managed care entity would be required to comprehensively assess each enrollee identified by the State, including identification of "any ongoing special conditions of the enrollee that require a course of treatment or regular care monitoring." The proposed rule describes at length who would be permitted to do the assessment, how a treatment or service plan would need to be developed by a person trained in person centered planning, and when any treatment or service plan would need to be reviewed and revised (i.e., at least every 12 months).
+
+Credentialing (Proposed 42 C.F.R. § 438.214)
+
+Through its contracts with managed care entities, a State would be required to establish and implement uniform credentialing and re-credentialing of providers. LTSS providers are specifically included in the list of providers. Self-direction of LTSS is a popular option for a growing number of individuals with LTSS needs. Under self-direction, individuals can hire a family member or friend rather than choosing a professional agency to assist them with a variety of LTSS to meet their needs. Credentialing could be viewed as a burdensome or intimidating process for some, which could discourage non-professionals from participating and thereby undermine one of the major strengths of self-direction — choosing one's caregiver.
+
+Quality assessment and performance improvement program (Proposed 42 C.F.R. § 438.330)
+
+The proposed rule would require that States require each managed care entity to establish and implement an ongoing comprehensive quality assessment and performance improvement program for the services it provides, including LTSS. Standard measures would be required by the State, including those specified by CMS. Each managed care entity that provides LTSS would be required to include performance measures "that assess the quality of life of beneficiaries and the outcomes of [the managed care entity's] rebalancing and community integration activities for beneficiaries receiving LTSS" (emphasis added). Measuring quality assessment and performance improvement may be a particular challenge for LTSS since LTSS is largely non-medical in nature and nonclinical performance measures of "quality of life" are likely to be more subjective than clinical measures of medical care. Note that elsewhere in the proposed rule CMS proposes to require that States establish a quality rating system that will use the data and information collected under this requirement.12
+
+Summary
+
+MLTSS models are still very much in development, serving less than 10 percent of the Medicaid population that uses LTSS. If CMS moves too quickly from guidance and "best practices" to uniformity, standardization, and enforceability, it may discourage States and health plans from adapting managed care concepts into LTSS. Blending person-centered, non-medical services delivered in the most integrated community setting with actuarially sound capitated rates is easier said than done. Even States that have a decade or more of experience with MLTSS are still experimenting. If States perceive there is less risk involved in fee-for-service LTSS than under the proposed rules, these rules may effectively discourage the development of MLTSS.
+
+States, health plans, providers, service providers and other interested parties will have the opportunity to comment on CMS' comprehensive proposal. Comments are due to CMS no later than 5 p.m. EST on July 27, 2015.
+
+Footnotes
+
+1. 80 Fed. Reg. 31098 (June 1, 2015).
+
+2. Proposed 42 C.F.R. § 438.2.
+
+3. 42 U.S.C. § 1396n(c).
+
+4. 79 Fed. Reg. 2948 (Jan. 16, 2014).
+
+5. http://www.medicaid.gov/federal-policy-guidance/downloads/cib-06-26-2015.pdf.
+
+6. http://www.medicaid.gov/medicaid-chip-program-information/by-topics/long-term-services-and-supports/home-and-community-based-services/downloads/home-and-community-based-setting-requirements.pdf.
+
+7. http://www.medicaid.gov/medicaid-chip-program-information/by-topics/delivery-systems/downloads/1115-and-1915b-mltss-guidance.pdf.
+
+8. 80 Fed. Reg. at 31142.
+
+9. 42 C.F.R. § 441.301(b)(1)(iii).
+
+10. Proposed 42 C.F.R. § 438.68(b)(2).
+
+11. Proposed 42 C.F.R. § 438.68(c)(2) (emphasis added).
+
+12. Proposed 42 C.F.R. § 438.334.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

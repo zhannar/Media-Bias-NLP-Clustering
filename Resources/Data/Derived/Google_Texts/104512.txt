@@ -1,0 +1,79 @@
+Hollywood Presbyterian Medical Center
+
+About a month ago, Hollywood Presbyterian Medical Center became the face of hospital cybersecurity when a malware attack forced them to pay a $17,000 ransom to regain control of their systems. But experts say this type of attack will only become more prevalent as more hackers target the sector.
+
+"It's not an easy thing, and you know 10 years ago, we probably wouldn't even be here because there was no cyberthreat for hospitals or healthcare," said Denise Anderson, President of the National Health Information Sharing and Analysis Center. "But now, because of the electronic medical records, the internet and connectivity, things that we think are good because they create efficiency have also created an attack surface for the bad actors to come after and we're seeing that now."
+
+Data and Devices
+
+Simply keeping track of your data, how it enters your system and subsequently moves through it can be a huge challenge. It can create vulnerabilities if it's a challenge that isn't adequately met, said Suzanne Widup, senior analyst of healthcare cybersecurity for Verizon.
+
+"Take a data-centric approach to your security. Look at all the places where data is acquired, how it's processed and how it moves through the organization and in each step make sure that it is protected. If you don't know where your data is, it's going to be difficult to have any level of confidence that you're actually putting security measures in place to protect it."
+
+The number of devices connected to a network can also play a huge role in the level of risk and vulnerability for a system. Hospitals tend to have large numbers of devices connected to their network, and each of them can open a window to attackers, especially since many of those devices are on older operating systems, or ones not necessarily built with the proper protections.
+
+[Also: Hollywood Presbyterian pays $17,000 ransom to regain control over systems from hackers]
+
+Kevin Johnson, CEO of cybersecurity firm Secure Ideas, said this unchecked approach can lead to issues. "Too much of the hospital/provider network is populated with devices and people they don't control or inventory. These expose some of the biggest threats."
+
+"I've heard tales of like 20,000 devices that are connected to the internet and to the network. That's a huge load of devices with different infrastructures, different operating systems that people need to manage," Anderson said. "A lot of these operating systems are no longer supported so you can't even patch or upgrade them. They're like based on XP. And these devices, like an MRI machine or something, is not something you can just walk out and replace willy nilly. You have an investment in them so that's another issue."
+
+Widup agreed that hospitals have a lot of legacy equipment in place that is not necessarily built with security in mind. "Being able to secure something that doesn't have onboard security native to its applications and operating system is a challenge."
+
+But there's more to the device dilemma than just what goes on under the hospital's roof, Widup said. The devices that employees, or even patients, can take with them are often not protected the way they ought to be.
+
+"One of the things we've seen as a big problem in healthcare is just the basic loss or theft of portable devices. Laptops, phones, portable thumb drives. So encryption is going to play well in that space, which protects you from having to declare a data breach after you've lost control of a device. At least if you've got it encrypted you don't have to worry as much about the data," said Widup.
+
+[Also: 'Visual hacking' a top concern for healthcare, 3M report says]
+
+The recently reported theft of an unencrypted laptop from Premier Healthcare, a group practice in Bloomington, Indiana, bolsters Widup's point. According to a statement from the group, the theft was discovered in early January, after the laptop was lifted from an administrative office that was both locked and had a security alarm. The protected health information of 206,000 people was stolen right along with it, and while the device demanded a password, the information itself was not encrypted. Compromised data included names, addresses, medical record numbers, health insurance information and even some social security numbers.
+
+Luckily for Premier, the laptop was returned and no data was accessed.
+
+Staff solutions
+
+Quite simply, experts agree the very employees that keep a hospital running can also be its greatest vulnerability when it comes to cybersecurity. Poor practices and bad habits on the part of those who directly access a health system's information everyday are often just the open door hackers need.
+
+Employees open emails better left untouched and click on suspicious links, or they do not take enough care in keeping their own personal devices secure as they are often used in the workplace or for work purposes, like checking email.
+
+"Users are the low-hanging fruit. So education, user awareness programs, putting infrastructure in place that will help stop some of the emails and badness coming in where people will click on links is something that hospitals should be looking at doing," said Anderson.
+
+"You've got a lot of people coming in who've grown up with social media who don't think anything of posting stuff on Facebook and that sort of thing. That's a huge problem," Widup said.
+
+Keeping your data and your system safe from hackers isn't about expensive security solutions, our three experts explained. Sure they help, and if you can afford them, great. But many hospitals don't have millions to spend on cybersecurity. Luckily, addressing the big issues doesn't require a lot of cash, especially when it comes to the user problem.
+
+[Also: Excellus BlueCross BlueShield hacked; 10.5 million people affected]
+
+Johnson, Anderson and Widup all stress one thing: education and employee training. Right now, there isn't enough of it going on in the workplace, and bad habits still abound, they said.
+
+"If your staff or partners understand why the attacks work, they will understand better how to stop them or not fall for them," said Johnson.
+
+If employees don't know what the best practices are, or if they haven't been established, then get them in place and make sure employees understand them.
+
+"In many cases we're finding people share passwords, don't use passwords, or have very weak passwords and so even just those basic things can be very beneficial," Anderson said.
+
+Beyond that, it's about building basic barriers and practicing good "cyberhygiene." This incudes encryption for portable devices, firewalls, making sure your network is segmented and not vulnerable.
+
+Widup said that being able to detect an attack is also essential. You have to be able to detect the stuff that gets through, like malware and phishing attacks. "If you've got doors you have to have locks. You've got to get the basics in place before you start getting fancy," said Widup, "I tend to recommend detective controls first. You want to make sure you can detect a breach. Do you have logs? Is someone looking at the logs to make sure that what comes up is actually dealt with."
+
+Johnson also said business have to be prepared to respond to a problem. "This means that they are looking for IoCs (indicators of compromise) and they are working with their staff and partners to watch for problems."
+
+Widup said detective controls are crucial for another reason, too. "The breaches that take the longest to detect are the ones that involve insiders. Malicious insiders who are stealing the data and usually giving it to organized crime groups. They take years to detect and that's one of the places where, in your detective controls, you need to have some way of auditing people's access and seeing when they suddenly start accessing things they shouldn't be, changes in what their normal behavior is for people in that particular job," said Widup.
+
+Making sure all the devices in your infrastructure are secure, no matter what system they run on, and keeping up with updates is also critical. "They need to do basic IT cleanliness. Harden systems, patch, control the environment to some level at least," Johnson said.
+
+Like Healthcare Finance on Facebook
+
+Cases like Hollywood Presbyterian proved how important it is to have a backup. If you do nothing else to protect your facility, back up the data in a place hackers can't get to. That way, you won't have to pay them later to get it back.
+
+"The ones that have recovered from attacks and didn't have to pay the ransom have had decent back-ups so that they could go back before the infection came in, sort it out, maybe lose some data, but didn't have to pay the ransom. Automatic back-ups are preferable. Anytime you can take the user out of the equation is better. People are busy. They're doing stuff. They're not going to be thinking 'oh I need to do a back-up,'" Widup said.
+
+Finally, in this world of ever-increasing connectivity, Anderson said it's important to connect with your colleagues, both in-house and in other systems, and share crucial information about cybersecurity. It's an effective and inexpensive tool, especially for small stand-alone facilities, and it can be the early heads up you need to ward off an attack others have already seen.
+
+"Just health systems talking to each other. This is what's working for us, or here's an attack we're seeing. These IP addresses are coming after us. Here's some IP addresses you need to block. That means one person's attack is another person's defense."
+
+After all, hackers are experts at teamwork themselves, Anderson said.
+
+"If we don't do it together, the bad guys are doing it. They collaborate when they're doing it and it's shame on us for not doing that."
+
+Twitter: @BethJSanborn

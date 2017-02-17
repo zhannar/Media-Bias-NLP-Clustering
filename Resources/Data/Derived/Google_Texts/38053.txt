@@ -1,0 +1,37 @@
+Tech Problems Plague First Day Of Health Exchange Rollout
+
+i toggle caption Karen Bleier /AFP/Getty Images Karen Bleier /AFP/Getty Images
+
+Many Americans got "please wait" messages Tuesday when they tried to start shopping for health coverage on the federal government's new health insurance website, healthcare.gov. A series of technological glitches, delays and crashes kept people from getting to several of the 16 state exchanges, too.
+
+"Like every new law, every new product rollout, there are going to be some glitches in the sign-up process along the way that we are going to fix. I have been saying this from the start," President Obama said at the White House.
+
+The technological system powering the new health care marketplace is the first of its kind. Nothing similar exists anywhere in the world, according to administration health officials.
+
+"Systems of this scale are very difficult. You know, Facebook wasn't built in a day," said Frank Febbraro, chief technology officer for Phase 2 Technology, which has built systems for the White House, Homeland Security, and other agencies. He's not working on the health exchange system, but Febbraro knows the challenge IT administrators face. This new system is particularly hard, he says, because it has to fetch data from several agencies to find out which plans and tax credits consumers qualify for.
+
+"So when you have so many people hitting the site all at the same time, each asking a question that is basically unique, you require a lot of horsepower to be able to process that, for each individual," he says.
+
+A few major projects were implemented at the same time. Sixteen states built their own insurance exchange sites. The federal government built and is running healthcare.gov for states without their own exchanges. And programmers created a massive federal data hub. That hub is the system that computers from state exchanges and the federal marketplace have to connect with, to link up with agencies like the Internal Revenue Service and Social Security.
+
+The data check is necessary to verify who you are and your income as you sign up for coverage, so it can spit out the menu of insurance options and federal credits you're eligible for. All of that data verification needs to happen within seconds.
+
+"It also takes a long time to answer that request. So things start to stack up pretty quick," says Febbraro.
+
+But a lot of folks trying to sign up on Tuesday didn't even get that far in the process. Hawaii's exchange didn't go up, and Maryland's site was intermittent throughout the day. For millions relying on the federal site, just getting to a registration form was impossible.
+
+"We're still blocked out. We can't even get in at this point," said Travis Middleton, a Houston-based insurance agent who was trying out the healthcare.gov site.
+
+The system was swamped. Health officials blame unexpectedly high traffic for the long wait times and crashes — 3 million people visited healthcare.gov between midnight and 4 p.m. ET on Tuesday, health officials said. The agency overseeing the exchange system says it's implementing fixes as quickly as possible.
+
+"We did two things. We added capacity, and we made some adjustments to the system to handle that, and I think you'll find it much improved," said Marilyn Tavenner, the head of the Centers for Medicare and Medicaid Services.
+
+But most of the real work of making these systems work is in the hands of contracted computer programmers.
+
+"It's such a difficult time. Especially if you're involved building these systems and the cars screaming down the highway and there's pieces falling off of it. It's really tempting to panic and try and make changes to these systems and hopes, and the only thing I can recommend is to be calm," Febbraro says.
+
+That's the message from the government, too.
+
+"We're in a marathon, not a sprint, and we need your help," said Tavenner.
+
+Consumers have until Dec. 15 to enroll if they want health coverage that would begin on Jan. 1, 2014. The agency says the sites should be running more smoothly between now and then.

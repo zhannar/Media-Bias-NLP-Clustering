@@ -1,0 +1,15 @@
+FiveThirtyEight, the much-criticized data-driven blog founded by statistician Nate Silver, has issued a brutally honest correction for a series of errors in a post that attempted to show the “rapid acceleration” of kidnappings in Nigeria, broken down by geographic location.
+
+“This article contains many errors, some of them fundamental to the analysis,” begins the editor’s note for a post dated May 13th, “Mapping Kidnappings in Nigeria.” The errors include misinterpreting and misrepresenting base data and failing to normalize the data shown in two data visualizations. The full note, below:
+
+This article contains many errors, some of them fundamental to the analysis.
+
+The article repeatedly refers to the number and location of kidnappings. But the Global Database of Events, Language and Tone (GDELT) — the data source for the article — is a repository of media reports, not discrete events. As such, we should only have referred to “media reports of kidnappings,” not kidnappings.
+
+This mistake led to other problems.
+
+We should not have published an animated map showing “kidnappings” over time, or even “media reports of kidnappings” over time. Because we have no data on actual kidnappings, showing a time series requires normalizing the data to account for the increasing number of media reports overall. Thus, showing individual media reports is a mistake. The second map, showing “Kidnapping rate per 100,000 people, 1982-present,” has the same flaw.
+
+The animated map also incorrectly locates some reported kidnappings. If the location of a reported kidnapping isn’t in a media report, GDELT defaults the location to the center of Nigeria. So that part of the country is overrepresented in the animated map.
+
+The article also should have made clear that while GDELT makes an effort to remove duplicate media reports of the same event, it is not always successful in doing so because media reports often conflict with one another. There were many conflicting reports about the mass kidnapping of hundreds of girls from the Government Girls Secondary School in Chibok in April. This likely accounts for at least some of the rise in media reports of kidnappings referred to in the last paragraph of the post.

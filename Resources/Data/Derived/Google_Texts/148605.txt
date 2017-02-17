@@ -1,0 +1,33 @@
+The Centers for Medicare & Medicaid Services and the HHS Inspector General finalized the Stark law exemption on Friday, which allows hospitals to fund up to 85 percent of EHR costs for physicians, and the OIG outlined the related anti-kickback “safe harbor” for “protected donors.”
+
+The eight-year-old EHR exemption to the physician self-referral and anti-kickback laws have been extended to 2021.
+
+The Stark and anti-kickback laws date back to 1989, when Congress banned self-referrals in Medicare. The prohibition was later extended to Medicaid, and a number of exceptions have been added for legitimate business arrangements.
+
+In 2006, as part of rules for the 2003 Medicare Modernization Act, CMS first created the exemption for hospitals to help physician practices acquire EHR systems. After originally planning for the exemption to be phased out in 2013, in April 2013 CMS and OIG proposed sunsetting the policy in 2016.
+
+The American Hospital Association, HIMSS and others encouraged the agencies to make the EHR exceptions permanent.
+
+"HIMSS is pleased that the Centers for Medicare and Medicaid Services and the HHS Office of the Inspector General have promulgated extensions to the Stark exemptions and anti-kickback safe harbors for electronic health records through 2021," said Thomas A. Leary, HIMSS vice president, government relations, said in a statement. "We also appreciate the government's decision to use a deeming process for certification "to ensure coordination between this program and the existing ONC Certification Program."
+
+"To ensure the continued advancement of meaningful use of certified EHR technology and allow for better care coordination and information sharing among clinical providers, treatment facilities and patients, HIMSS has historically supported making permanent and expanding the Stark exemptions and anti-kickback safe harbors beyond software and services used predominantly for EHRs," Leary added. "They should include software and services used for care coordination, quality of measurement, improving population health, or improving the quality or efficiency of health care delivery among parties. Although we encourage the elimination of the sunset provision, we appreciate the extension of the program to 2021 to provide certainty to stakeholders."
+
+Although it was “implemented to encourage the adoption of health information technology, it is now a necessity for the creation of new healthcare delivery and payment models,” CMS officials said in summing up the comments in support of the extension. The new sunset of 2021 coincides with the end of the Medicaid EHR incentive program.
+
+CMS and OIG made a few other changes to the policies, including how they determine EHR systems to be interoperable as part of complying with the safe harbor protection.
+
+Currently, to meet the “deeming provision” software has to be certified within no more than 12 months prior to hospitals donating the systems to physician practices. Tracking the Office of the National Coordinator’s regulatory schedule, the OIG said that now it will consider the arrangements eligible “if, on the date it is provided to the recipient, it has been certified to any edition of the electronic health record certification criteria that is identified in the then-applicable definition of Certified EHR Technology.”
+
+For 2013, that would include both the 2011 and 2014 certification editions. “Software certified to meet either the 2011 edition or the 2014 edition could satisfy the safe harbor provision,” the OIG wrote. “We believe our final rule with respect to this condition is consistent with that understanding and our objective of ensuring that software is certified to the current required standard of interoperability when it is donated.”
+
+When they proposed the rules in April, CMS and OIG were mulling another change to the Stark/Anti-kickback policy: whether to expand the definition of EHR “protected donors” to clinical labs, equipment suppliers and home health agencies, or just limit it to hospitals, group practices, drug plan sponsors and Medicare Advantage plans.
+
+The final rule ended up excluding only laboratory companies, in a hard-fought win for the American Clinical Laboratory Association and the College of American Pathologists, which argued that the “protected donor” arrangement left labs and pathologists with unnecessary burdens.
+
+For pathology labs, “the volume of requests for donations from providers of laboratory and pathology services has escalated, as have the increasingly unsavory tactics employed,” the College of American Pathologists’ regulatory workgroup lead Gerald Hanson, MD, wrote to CMS earlier this year.
+
+CAP members also had concerns about “functional lock-ins embedded in the donated EHR preventing full interoperability and access,” Hanson said. “Unfortunately, technical interoperability has not proven to be an adequate safeguard against the donation of software that operates to lock-in referral sources.”
+
+Meanwhile, CMS leaders wrote that the decision is “consistent with and furthers our continued goal of promoting the adoption of interoperable electronic health records technology” while “reducing the likelihood that the exception will be misused by donors to secure referrals.”
+
+The agency argued that the lab exclusion “will address situations identified by some of the commenters involving physician recipients conditioning referrals for laboratory services on the receipt of, or redirecting referrals for laboratory services following, donations from laboratory companies.”

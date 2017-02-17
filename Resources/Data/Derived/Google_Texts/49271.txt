@@ -1,0 +1,41 @@
+Athenahealth Teams With Doctor-Led ACO
+
+Privia Health will integrate the AthenaHealth EHR with its own technology for tracking the follow-up care essential to ACO success.
+
+Athenahealth is joining with a regional physician practice management and population health management firm, Privia Health, to link their technologies and operations to produce a more effective accountable care organization.
+
+The ACO model, promoted by Medicare as one plank of the Affordable Care Act and also being adopted by commercial insurers, tries to shift financial incentives away from providing more care toward providing better care more efficiently. In the Washington, D.C., region, Privia is both enticing doctors to join a medical practice built for this model, Privia Medical Group, and offering those who choose to remain independent a chance to join its ACO, the Privia Quality Network.
+
+ACOs are designed to take an approach to delivering care that puts as much or more emphasis on follow-up and preventative care as on office visits. The goal is to catch problems earlier and eliminate the need for the most expensive care in hospitals and emergency rooms. Privia has developed its own care management software, which it will integrate with the AthenaClinicals cloud-based electronic health records system. Privia Medical Group, which represents 161 physicians and serves more than 300,000 patients, is standardizing on the Athenahealth EHR.
+
+[Don't think healthcare is ready for the cloud? Read Athenahealth Wins KLAS Overall Best Software Rating.]
+
+"A big piece of Athena's vision, in addition to great practice management, is connecting all the different players in healthcare," said Jeff Butler, founder and CEO of Privia Health. "We have a piece of the puzzle, and we're plugging into Athena's broader platform." One of the Privia Medical Group practices is already using AthenaClinicals and 22 others are implementing it now, with more to follow in the coming weeks. Other practices that affiliate with the ACO will also get access to the software on favorable terms, Butler said.
+
+Getting everyone on the same EHR is not essential, but it is helpful, Butler said. The specific technical integration Privia is doing with Athenahealth will automate some of the important steps in making sure that follow-up care automatically happens. For example, when a diagnosis of diabetes is recorded in the EHR, that will trigger a series of follow-up actions such as making sure the patient gets needed education materials, an appointment with a nutritionist, and tools for monitoring blood glucose and blood pressure. Privia has defined standard order sets for the follow-up care appropriate to many of the most expensive chronic conditions.
+
+"There have been studies showing that you only retain about 10% of the information the doctor tells you when he's delivering the diagnosis -- you're busy thinking, 'Oh, crap, I've got diabetes,' so there has to be follow-up to help you with how you will manage your diet, how you will manage your own care," Butler said.
+
+Initially, Privia's leaders thought they might allow even the practices that joined its medical group to use whatever EHR they preferred or already had in place and integrate with them via industry standards, Butler said. "What we found is that the market's not ready for that; the interoperability does not exist to drive the kind of performance we want to drive."
+
+Privia Medical Group also provides Athenahealth with an opportunity to show how a practice can be designed from the ground up to take full advantage of its technology, Butler said. "We are architecting a high-performance medical group from the ground up." Usually, software providers are tasked with adapting to the existing workflows of an existing medical group, whereas Privia wants to reimagine those workflows "to fit a sophisticated, high-performance medical group that focuses on population health, focuses on quality."
+
+Originally a provider of population health analytics to other institutions, Privia pivoted to more active operational involvement in improving the quality of care as it saw the ACO movement developing. "Independent doctors have to be part of a larger, more sophisticated infrastructure if they're going to be successful under health reform," Butler said. "We view ourselves as a strategic partner of the health plans because our incentives are aligned. In the old world, the medical practice really was an adversary of the health plan. But when we do our jobs right and take better care of people, the employer saves money, the health plan does better, and the doctors get rewarded for having those kind of outcomes."
+
+"We love these guys because they're disruptive to the medical world," said Todd Rothenhaus, chief medical officer of Athenahealth. Privia is unique as a "purpose-built medical group" for the ACO era, he said. Also, most ACOs have been established by either hospitals or networks of physicians known as Independent Provider Organizations. Privia is the only one he knows of that's being built around a single, large practice.
+
+"When we saw what they're doing for patient engagement, we got really excited," Rothenhaus added. Although everyone talks about doing more to engage patients in improving the quality of their own care, the quality of those efforts varies widely, he said.
+
+The example Privia sets is interesting to Athenahealth in other ways. The regulatory structure surrounding ACOs is one of the policy issues the company has challenged in Washington as inconsistent with CEO Jonathan Bush's vision of a healthcare Internet. Bush worries the ACO movement will tend to drive excess consolidation, turning hospitals and the physician practices they are buying up into regional monopolies that are able to provide comprehensive care more effectively than independent physicians. One of Athenahealth's objections is that the law requires that ACOs be majority owned by physicians, so as a publicly traded company it is precluded from participating in the market.
+
+On the other hand, if enough healthcare organizations follow Privia's model and Athenahealth can sell to them, that might be all right, too, Rothenhaus said. "Maybe we don't need legislative change. Maybe we just need groups like Privia to disrupt the status quo."
+
+Download Healthcare IT in the Obamacare Era, our InformationWeek Healthcare digital issue. Modern technology created the opportunity to restructure the healthcare industry around accountable care organizations, but ACOs also put new demands on IT.
+
+David F. Carr oversees InformationWeek's coverage of government and healthcare IT. He previously led coverage of social business and education technologies and continues to contribute in those areas. He is the editor of Social Collaboration for Dummies (Wiley, Oct. 2013) and ... View Full Bio
+
+Comment |
+
+Email This |
+
+Print |

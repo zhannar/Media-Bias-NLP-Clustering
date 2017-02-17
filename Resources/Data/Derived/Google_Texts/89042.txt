@@ -1,0 +1,35 @@
+Politicians can't talk their way out of a technological mess.
+
+Health and Human Services Secretary Kathleen Sebelius (Photo: J. Scott Applewhite, AP) Story Highlights Things always go wrong with launches, and technology often necessitates a trial-and-error approach.
+
+What engineers know that politicians don't is that in the world of things, there's no escaping reality.
+
+When we've accomplished great things in the past, there has usually been an engineer running the program.
+
+The Obamacare rollout remains a debacle, but now enough time has passed that smart people are beginning to dissect what went wrong. So far, the best take I've seen comes from Internet pioneer Clay Shirky, who notes that the politicians weren't listening to the people doing the actual work.
+
+I was talking about this to my Administrative Law class not long ago. I had told them that there are few real secrets in D.C. because everyone sleeps with everyone else. A student then asked why both the administration and the GOP seemed to have been blindsided by the Obamacare website problems. "I guess nobody was sleeping with the techies," was my response.
+
+Shirky leaves out sex as an explanation -- always a mistake where Washington is concerned -- but he does focus on communication, and on the problems with having big tech programs run by people who don't actually understand the technology.
+
+Shirky comments:
+
+Intoning 'Failure is not an option' will be at best useless, and at worst harmful. There is no 'Suddenly Go Faster' button, no way you can throw in money or additional developers as a late-stage accelerant; money is not directly tradable for either quality or speed, and adding more programmers to a late project makes it later. You can slip deadlines, reduce features, or, as a last resort, just launch and see what breaks. Denying this tradeoff doesn't prevent it from happening. If no one with authority over the project understands that, the tradeoff is likely to mean sacrificing quality by default. That just happened to this administration's signature policy goal. It will happen again, as long [as] politicians can be allowed to imagine that if you just plan hard enough, you can ignore reality. It will happen again, as long as department heads imagine that complex technology can be procured like pencils. It will happen again as long as management regards listening to the people who understand the technology as a distasteful act.
+
+He's right about that. Having been involved with (much) smaller-scale web projects in the past myself, I know that things always go wrong with launches, and technology often necessitates a trial-and-error approach. Shirky comments that the administration was afraid to do a phased roll-out that would fix mistakes as they appeared, for fear that Republicans would make political hay out of any errors. But as Shirky comments:
+
+Healthcare.gov is a half-billion dollar site that was unable to complete even a thousand enrollments a day at launch, and for weeks afterwards. As we now know, programmers, stakeholders, and testers all expressed reservations about Healthcare.gov's ability to do what it was supposed to do. Yet no one who understood the problems was able to tell the President. Worse, every senior political figure — every one — who could have bridged the gap between knowledgeable employees and the President decided not to.
+
+All appearances to the contrary, the managers involved in this debacle aren't dumb. But they come from a background -- law and politics -- where arguments often take the place of reality, and plausibility can be as good as, or better than, truth.
+
+What engineers know that lawyers and politicians often don't is that in the world of things, as opposed to people, there's no escaping the sharp teeth of reality. But in law, and especially politics, inconvenient facts are merely inconvenient, something to be rationalized away.
+
+When our country has accomplished great things in the past, there has usually been a great engineer running the program: Hyman Rickover with the nuclear submarine program, or Wernher von Braun with the Apollo space program, for example. Rickover and von Braun were famously stern taskmasters, but they did not substitute wishes for reality.
+
+Which may be why they were able to launch submarines, and rockets that astounded the world. While today, we can't even launch a website.
+
+Glenn Harlan Reynolds is professor of law at the University of Tennessee and the author of The New School: How the Information Age Will Save American Education from Itself. He blogs at InstaPundit.com.
+
+In addition to its own editorials, USA TODAY publishes diverse opinions from outside writers, including our Board of Contributors. To read more columns like this, go to the opinion front page or follow us on twitter @USATopinion or Facebook.
+
+Read or Share this story: http://usat.ly/IcixVl

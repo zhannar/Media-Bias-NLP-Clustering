@@ -1,0 +1,73 @@
+Douglas Conrad
+
+April 14, 2015
+
+For the last four years, our team at the University of Washington (UW) has been evaluating seven value-based payment reform programs in six states for the Robert Wood Johnson Foundation (RWJF). We found that although the foundational work of value-based payment is proceeding apace for the most part, what’s missing is the sense of urgency required to move payers and providers toward patient-centered global payment based on value. Clusters of innovation are emerging across the country, and these experiments are generating valuable insights into the design and implementation of value-based payment—both what works and what doesn’t.
+
+We recently published an article in the Milbank Quarterly that presents our research assessing these pilot programs in Washington, Oregon, Pennsylvania, Maine, New Hampshire, and Massachusetts, all of which sought to move away from fee-for-service (FFS) payment to value-based payment that rewards improved processes of care, better health outcomes, and reduced cost. Some are still at it. Some failed. In this post we address some of the reasons why.
+
+Our findings complement those of Suzanne Delbanco, whose yearlong series has provided Health Affairs Blog readers with a thorough tour of the payment reform landscape.
+
+Payment Reform
+
+The seven RWJF-sponsored projects share a fundamental approach to payment reform: each is founded on a multi-stakeholder coalition, typically including employers, insurers, provider organizations, and consumer organizations. Collectively, the value-based payment models span a broad array: global payment, per-member-per-month care management, recalibrated fee-for-service, shared savings, reference pricing (equal pay for equal effectiveness), and “real-time” pay-for-performance (P4P).
+
+The projects generally engage in care delivery re-design—in the form of patient-centered medical home models and use of nurse care managers in care coordination—prior to implementing value-based payment. New Hampshire, Maine, Washington, and Oregon represent clear examples of this “delivery system reform first” strategy.
+
+In projects where value-based payment is gaining traction, several factors are facilitating that progress:
+
+Strong leadership from an experienced, honest, trusted convening organization that can effectively broker competing interests: For example, the Pittsburgh for Regional Health Initiative (PRHI) in Pittsburgh is fashioning a virtual accountable care network (ACN) of seven hospitals — exploring bundled payment as an incentive for improved care management of chronic conditions and reduced readmissions. The first participating hospital, emphasizing care coordination, demonstrated a 44 percent reduction in 30-day readmissions for patients with chronic obstructive pulmonary disease, which has motivated the creation of a primary care resource center by converting excess hospital capacity into a patient-centered medical home. PRHI has received a $10.4 million Health Care Innovation Award from the Center for Medicare and Medicaid Innovation for its ACN, and is stimulating a sense of urgency for payment reform by broadening the ACN to more hospitals and bringing significant resources to the table.
+
+Concentrated and sustained market pressure from organized purchasers: The “state as first mover,” in Washington, New Hampshire, Oregon, and Maine are prominent examples. For instance, in Washington State, the Health Care Authority and major employers in the Washington Health Alliance were the key drivers behind the Washington Multi-Payer Patient Centered Medical Home Reimbursement Pilot, which experienced a significant decline in potentially avoidable emergency room visits and hospitalizations from the baseline period (pre-Pilot) in 2007-2009 to the demonstration period (May 2011-December 2013).
+
+Publicly accessible claims-based and electronic health record-based data infrastructure, e.g., an all-payer claims data base (APCD) and health information exchange (HIE) can create measurement capacity. That measurement capacity offers a platform for assessing price, quality, cost, and outcomes in a valid and reliable manner: New Hampshire has maintained an APCD that serves as the backbone for the nation’s most ambitious and comprehensive price transparency initiative. This price transparency effort is changing the market dynamics in New Hampshire and encouraging tougher negotiations on price between insurers and provider organizations. Increased transparency helps to build a sense of urgency on price levels that can set the table for payment reform.
+
+Health insurance and provider organization market dynamics, coupled with regulatory oversight, that join together to favor price competition: For example, Blue Cross Blue Shield of Massachusetts is now in the fourth year of the Alternative Quality Contract (AQC). This global payment arrangement (not an RWJF-sponsored project) has demonstrated net savings after program administrative costs and quality incentive bonuses. The AQC illustrates the potential of a global payment model in an environment of historic collaboration of payers and provider organizations and active regulation.
+
+On the other side of the reform “coin,” certain barriers to value-based payment have hampered progress:
+
+Lack of sustained engagement of major purchasers, e.g., self-insured employers, union groups and consumer groups: It is common for large employers—and, to a lesser extent, consumer organizations—to be actively involved in early design of payment reform, but implementation is frequently dominated by the participating health plans and provider organizations. Without a strong, purchaser-driven countervailing force, value-based payment reform often reverts to a “least common denominator,” low-risk model, as observed in Washington state’s shared savings strategy. Self-insured groups also face specific challenges in implementing capitation and bundled payment, in light of members’ and leaders’ oft-stated preference for ensuring that services received are commensurate with premiums paid. Major purchasers that can stay involved through implementation could help facilitate more robust reforms.
+
+Administrative obstacles: In Boston, the inability to implement consistent claims adjudication processes across multiple health plans that would pay an identical reference price for alternative treatment regimens for low-risk prostate cancer led to the termination of the Paying Equally for Equal Effectiveness project.
+
+Competing priorities among diverse stakeholders often result in participants diverting their efforts to more pressing, internal organizational initiatives: This divergence of interest led the major insurer in the New Hampshire project to shift its payment reform toward the carrier’s national strategy rather than the coalition’s common financial model. This led the coalition to focus exclusively on common value measurement and Accountable Care Organization (ACO) development, rather than a multi-payer, value-based payment model.
+
+In reality, only a subset of the value-based payment models were implemented within the time frame of our evaluation. In New Hampshire the originally envisioned, multi-payer financial model has not been implemented, but a common value (economic and clinical) measurement model has been developed and adopted in several regional accountable care organizations (ACOs).
+
+Similarly, in Maine the focus is on measuring total cost of care, supporting regional ACO development, and addressing unwarranted small area variation. MaineCare, the state’s Medicaid program, is implementing different tiers of risk-sharing to accommodate the varying capacity of provider organizations.
+
+Lessons Learned
+
+We have derived four key lessons from our research for policymakers and practitioners seeking to implement serious and sustainable value-based payment:
+
+Value-Driven Payment
+
+Organized health care purchasers—especially large self-insured employers and public purchasers (e.g., state employees, Medicaid programs)—must demand that health plans and providers move away from volume-driven to value-driven payment. Those parties must foreclose a return to the FFS status quo. This change can be prompted by competition among providers and health plans—led by a “first-moving” public purchaser, a private health insurer with a substantial market share, or by major provider organizations that lead by example through accountable care organization development with large public and private purchasers.
+
+The Oregon Health Leadership Council exemplifies the purposeful, robust coalition of purchasers, plans, providers and contributors that can result in successful implementation and results—in that case, utilizing a primary care-based complex care model for high-risk patients with primary care per-member-per-month payment and shared savings.
+
+Consensus Standards
+
+By their very nature, multi-stakeholder, public-private coalitions of providers, employers, health plans and others are best positioned to develop consensus standards for measuring quality, outcomes and cost; those efforts should be their focus. Examples of such coalitions include the Washington Health Alliance (formerly the Puget Sound Health Alliance) and the Maine Health Management Coalition Foundation. Those coalitions also generally build their common measure sets on foundational work and peer review by HEDIS, NQF and AHRQ, which speeds the process of reaching agreement on metrics.
+
+Collective agreement among multiple payers and provider organizations on payment method is extremely difficult and generally elusive, largely because of competing economic interests. However, this consensus is essential to secure broad multi-payer participation and to send uniform signals to providers within a common payment structure.
+
+Anti-Trust Vigilance and Regulation
+
+As provider organizations consolidate to enhance efficiencies and increase their pricing power relative to payers, strong anti-trust vigilance and appropriate regulation are critical to ensure health plan and payer competition in the public interest. Such regulation should examine not only structural measures of competition (i.e., market share), but also careful evaluation of potential barriers to entry by new innovators and strategies to artificially raise the costs of their rivals—an attempt at market foreclosure.
+
+Antitrust enforcement must strike a balance: On one hand it should not stifle potentially pro-competitive vertical integration between a major insurer and provider organization—as in the affiliation agreement between Highmark Blue Cross and Blue Shield and West Allegheny Health System in southwestern Pennsylvania. On the other hand, enforcement has a responsibility to aggressively monitor integration of hospitals and physician groups that could lead to higher prices and reduced access for consumers.
+
+Public Transparency
+
+Public transparency of health plans’ prices and provider organizations’ quality metrics is a key ingredient in the menu of public policy options. Moving health insurance toward value-based benefit design, with relevant incentives for consumers to include both price and quality in their choice of provider, is a critical element in supporting transparency.
+
+New Hampshire offers the best example of pricing and quality transparency. Since 2007 HealthCost has displayed provider-specific, insurer-specific median prices (actual allowed payments, as well as billed charges) for about 30 frequent, mostly outpatient procedures on its public access web portal. These prices are accompanied by some quality and benefit design information—the latter being critically important for consumers and purchasers seeking to make value-based decisions.
+
+While actual consumer use of HealthCost remains somewhat limited, many observers credit New Hampshire price transparency for highlighting wide variation in prices and helping to motivate changes in health plan benefit design (e.g., tiered copayments for choosing higher-value care settings, incremental growth in high-deductible plans). Moreover, transparency appears to have altered market dynamics in New Hampshire—for example, in significantly influencing the final rate settlement between Anthem Blue Cross and Exeter (New Hampshire’s most expensive hospital).
+
+Rather than continue to wait for the smoldering coals to ignite, public and private purchasers must make a commitment to actively illuminate the path from FFS to value-based payment. To infuse a sense of urgency for value-based payment reform, private and public purchasers must overcome an array of impediments: the cost of changing FFS billing and payment transactions to a person-centered payment and incentive system, delivery systems not yet capable of assuming financial and clinical responsibility for population health, and the lack of active engagement by patients and their representatives in changing the status quo.
+
+However, the evidence from our research in the field reveals that purchaser-led, multi-stakeholder coalitions have important advantages that could overcome this inertia. The “buck” really does stop with the employers and public purchasers, and their employees and beneficiaries. If the health literacy and cost consciousness of employees and taxpayers are advanced by their sponsors and purchasers, a sense of urgency will emerge. Purchasers and multi-stakeholder coalitions possess the sophistication, the managerial talent, and the incentive to implement value-based payment. The key is for those players to exercise the will to do so. Only then will there truly be no turning back, and players in the health care system will be forced to make the leap to the new world.
+
+This post was written in collaboration with the entire University of Washington Payment Reform Evaluation Team including Douglas Conrad, David Grembowski, Miriam Marcus-Smith, Bernard Lau, Susan Hernandez, Judith Chang, and Anne Renz.

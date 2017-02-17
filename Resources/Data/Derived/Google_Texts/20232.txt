@@ -1,0 +1,33 @@
+Whilst it's tempting to think of social data as largely frivolous, it is increasingly evident that it is capable of revealing a great deal about us, both collectively and individually.
+
+For instance, a Penn State study found that they could use Twitter data to predict the likelihood that someone would enrol on Obamacare, whilst another trawled social media to predict when someone might be tempted to join IS.
+
+This kind of behavioral analysis has been available after Twitter opened up its data pipe to researchers via projects such as Gnip, which is an open source repository for social data.
+
+Predictive analytics in finance
+
+This kind of predictive analytics is also evident in finance, with the New York Stock Exchange teaming up with Social Market Analytics (SMA) a few years ago to test whether sentiment analysis could predict share movement.
+
+This availability of data coincides with our greater understanding of behavior. For instance, we know that fund managers tend to invest more in companies that are based near them, or where they are connected to employees via their old school tie.
+
+Bloomberg are attempting to bring all of this together with their acquisition of Netbox Blue, a company that provide social media monitoring and governance technology.
+
+The purchase is designed to augment the company's enterprise compliance platform and help compliance personnel better manage the huge amount of data that is an inevitable part of their job.
+
+"We continue to see growing demand for dynamic surveillance and behavioural analytical tools that help clients proactively manage the risk associated with the growing adoption of social media and collaboration tools. Bloomberg's acquisition of Netbox Blue will not only enable us to meet that demand, with tools that are pro-active, preventative and predictive, but to offer businesses critical insight into where they are deriving value from these channels," said Harald Collet, global head of Bloomberg Vault.
+
+A compliance related investigation can typically take weeks or months to complete. By providing automated support, this process can be reduced to a matter of hours, with compliance officers given invaluable context to support their investigation.
+
+"Financial services firms have responded to increased regulation and risk by hiring thousands of new compliance staff to handle manual data collection, manipulation, remediation, and reporting tasks. This leaves little time for value-added analysis of the data that can give them real insight into how their business is using a variety of communications and collaboration channels. We believe that a consolidated platform with value-added analytics helps firms reduce overhead and make the compliance function more nimble and focused on high-value business analysis. The next phase of our investment will focus on consolidating, automating, and simplifying processes and systems to free up compliance officers to provide real insight and value-added analysis back into the business," Collet continues.
+
+This kind of natural language processing is something that machines are increasingly capable of performing. For instance, researchers recently developed an accurate means of detecting empathy with the team believing this could be invaluable in psychotherapy sessions.
+
+Or you have the University of Michigan team who have developed machines capable of detecting lies with 75% accuracy based upon both the words used and our gestures.
+
+A UC Berkeley team have even developed machines capable of understanding sarcasm, whilst another team built an algorithm for understanding, and then successfully making funny jokes.
+
+Such advances are happening on an almost daily basis, and open up a whole world of opportunity for machines to successfully analyze vast amounts of data that would have previously been beyond them.
+
+It will be fascinating to see just what advances are made in the coming years.
+
+Follow Adi Gaskell on Twitter: www.twitter.com/adigaskell

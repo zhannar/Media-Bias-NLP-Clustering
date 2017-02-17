@@ -1,0 +1,17 @@
+The brain's capacity for memory may be as simple as a light switch, researchers found, after shining a laser into a rat's brain.
+
+Into the light came the darkest mystery of the mind as investigators from the University of California literally peered into the brain with a flashlight. As suspected, the brain’s capacity for forming memory is as simple as the connectivity strength among groups of neurons in a phenomenon called long-term potentiation (LTP), study leader Roberto Malinow reported Sunday in Nature.
+
+"Our results add to mounting evidence that the brain represents a memory by forming assemblies of neurons with strengthened connections, or synapses,” Malinow said in a press statement. "Further, the findings suggest that weakening synapses likely disassembles neuronal assemblies to inactivate a memory."
+
+Long suspected by neuroscientists as the basis of memory, LTP was pinpointed for the first time as scientists watched a brain scan of a rat forming a new memory. By adjusting the strength of the connectivity, they were then able to activate and deactivate the memory, flipping the switch on and off. To accomplish this feat, the team used new optogenetics technology to exercise precise control of the same cellular mechanisms that allow algae to respond to the direction of the sun, beaming a laser into the brain.
+
+Whereas past experimentation in animal fear conditioning paired an auditory tone with an electric shock, the use of optogenetics allowed the researchers to directly target known fear memory circuits for an unprecedented level of precision. Attesting to the technological difficulty of proving such an association between fear and neurological changes observed in the laboratory, Malinow described the hardware underpinning animal intelligence: “It's just a jungle in the brain — too many nerve cells coming through in any one place.”
+
+The team further confirmed their findings in a postmortem examination of the targeted brain circuits, which showed obvious changes in sensitivity of chemical messenger systems.
+
+"We have shown that the damaging products that build up in the brains of Alzheimer's disease patients can weaken synapses in the same way that we weakened synapses to remove a memory," Malinow said. "So this line of research could suggest ways to intervene in the process."
+
+The experiments call to mind Jim Carrey’s 2004 Eternal Sunshine of the Spotless Mind, wherein the hero attempts valiantly to preserve his memory of a former love, cutting to fear circuits perhaps universal throughout the human mind.
+
+Source: Malinow, Roberto, Nabavi, Sadegh, Fox, Rocky. Engineering a memory with LTD and LTP. Nature. 2014

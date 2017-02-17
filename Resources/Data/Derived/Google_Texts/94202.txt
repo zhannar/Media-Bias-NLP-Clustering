@@ -1,0 +1,121 @@
+Patient Cost-Sharing in Marketplace Plans, 2016
+
+Private insurance plans typically require some form of cost sharing (also called out-of-pocket costs) when enrollees receive a health care service covered by their plan. These expenses, which are in addition to the amount an enrollee spends on his or her monthly premium, come in a variety of forms:
+
+Copayments: set dollar amounts for covered services (e.g. $20 per general physician visit);
+
+Coinsurance: a percentage of the allowed cost for covered services (e.g. 20% of the allowed cost for a specialist visit);
+
+Deductibles: set dollar amounts that enrollees must pay before their plan starts to cover the service or a group of services (e.g. $200 drug deductible before drug coverage begins);
+
+And, often, some combination thereof.
+
+Insurers use cost sharing to keep down monthly premiums in a couple of ways. First, cost sharing can directly offset premiums by transferring some of the overall costs from monthly payments to payments at the time medical care is used. A second way cost sharing has a downward effect on premiums is by decreasing the amount of health care enrollees use: when a charge is required at the point of care, people tend to utilize fewer services.
+
+Cost sharing can also lead to unexpected costs for some enrollees and can be difficult to decipher when shopping for plans or reviewing medical bills. Although the Affordable Care Act (ACA) requires significantly greater standardization and transparency for individual market coverage than existed before the law went into effect, the answer to the main question on many enrollees’ minds – ‘How much will I spend on health care?’ – is not always straightforward.
+
+This brief shows the cost sharing in plans sold to individuals through Healthcare.gov for 2016, with a focus on the variation in the ways plans may set cost sharing for services, such as physician visits, prescription drugs, and hospital stays.
+
+Changes to Cost Sharing under the Affordable Care Act
+
+The ACA requires new private plans sold to individuals to standardize their coverage and the information they provide to enrollees in a variety of ways:
+
+New plans (both on and off of the Marketplace) must cover at least a basic set of services called Essential Health Benefits (though cost sharing may apply to these services, this provision helps limit out-of-pocket costs by ensuring that a minimum set of services are covered).
+
+Certain preventive services, such as flu shots and mammograms, must be covered without cost sharing.
+
+The ACA also sets out-of-pocket limits (which are caps on the amount of annual cost sharing that enrollees may be charged for covered services that are received from in-network providers). In addition, the law does away with annual limits on coverage a plan may pay out.
+
+New plans are now standardized into “metal” tiers – bronze, silver, gold, and platinum – ranging from most to least potential exposure to out-of-pocket costs. The metal tiers are based on a concept called actuarial value, which is the percent of total costs for all enrollees’ covered services that are paid for by the insurer, on average, as opposed to those costs paid for by enrollees. For example, a bronze plan has an actuarial value of approximately 60%, meaning that the insurer expects to pay for 60% of total costs associated with covered medical services, and that – as a group – the enrollees would pay for the remaining 40% of total costs through their combined copayments, coinsurance, and deductibles.
+
+Cost-sharing reductions are available to low-to-moderate income Marketplace enrollees. These cost-sharing subsidies, unlike the more widely known premium tax credit, are only available to people who have incomes between 100 and 250 percent of poverty, and who enroll in a silver plan through the Marketplace. The subsidies work by increasing the actuarial value of a silver plan to be 73, 87, or 94 percent, depending on income. For the lower-income recipients of these subsidies, their out-of-pocket maximums for silver plans will resemble those of gold or platinum plans. (Although the ACA originally called for out-of-pocket maximums to be lowered for enrollees with incomes between 250 and 400 percent of poverty, this was unable to be achieved in combination with the prescribed actuarial value requirements and was changed during the regulatory process.)
+
+An important note is that each of these changes to cost sharing from the ACA, including the calculation of actuarial value, only applies to services offered by in-network providers. Insurers may require enrollees to pay significantly more for out-of-network providers, and plans are not required to offer a cap on expenses enrollees may incur for out-of-network care. Some plans offered on the marketplaces may have limited networks, which only include a limited number of hospitals or physicians in the network.
+
+The ACA requires insurers to make publically available a consumer-friendly, standardized document called a Uniform Summary of Benefits and Coverage (SBC). The SBC summarizes each product’s required cost sharing for in-network and out-of-network services, and is intended to be standardized in a way that allows people shopping for a plan to make “apples-to-apples” comparisons.
+
+Cost Sharing in Marketplace Plans in 2016
+
+Even with this move toward standardization, Marketplace plans still vary quite a bit. Plans offered in the same state and within the same metal level may have very different cost-sharing structures. This is in part because there are many ways plans can set cost sharing and still achieve a given actuarial value.
+
+Example of Variation in Marketplace Cost Sharing: A silver level plan in Texas has a $5,900 deductible, $0 copay for physician visits and no cost sharing for inpatient care after the deductible is met. Another silver plan in Texas has no deductible, but a $30 copay for physician visits and a 40% coinsurance for inpatient care. Both plans have an actuarial value of approximately 70%, but the same person may fare very differently in one plan than the other, depending on his or her health care needs in a given year.
+
+This analysis looks at the variation in Marketplace products offered in 2016 within and across metal levels. As the source of the data is Healthcare.gov, this analysis is limited to plans sold to individuals in the 38 states with a federally facilitated or partnership Marketplace (including New Mexico, Oregon, Hawaii and Nevada). The data were de-duplicated so that each unique product was only counted once per state, and we excluded child-only and catastrophic plans. (Catastrophic plans are essentially identical in their cost-sharing structures). We do not include cost-sharing reduction plans in this analysis; we will be looking at those plans in a separate brief. For more details on analysis methods, see the Methods section at the end of the brief.
+
+Deductibles
+
+Aside from the premium, deductibles are one of the main features that consumers look to when shopping for a health plan. The majority of bronze plans and silver plans have what are called “combined” deductibles, meaning that there is a single deductible for both medical services and prescription drugs. The plan typically will not begin covering most medical or prescription services until the deductible has been met (though many health plans do not apply the deductible toward certain services). The average combined deductible for 2016 is $5,765 for bronze plans (up from $5,328 in 2015) and $3,064 for silver plans (up from $2,556 in 2015). Because plans have to meet the same actuarial value standards as last year, these increases in deductibles are likely offset by decreases in other forms of patient-cost-sharing.
+
+Medical and Prescription Drug Deductibles
+
+Most gold and platinum plans, and many silver plans, have separate medical and drug deductibles (or, in some cases, have no deductible for prescriptions). Enrollees in plans with separate deductibles will begin to receive payment towards their prescriptions once they meet their prescription deductible (or immediately if there is no deductible) even if they have not yet met their medical deductible. Conversely, if an enrollee in one of these plans meets their medical deductible, the plan would then start covering medical services even if the enrollee had not yet reached the drug deductible. In plans with separate medical deductibles, the average bronze deductible is $5,500 and the average platinum deductible is $409 (including many plans with $0 medical deductibles).
+
+Many silver plans with separate deductibles (58 percent) and most gold and platinum plans with separate drug deductibles (65 percent and 93 percent, respectively) have $0 drug deductibles and therefore begin to pay toward prescriptions immediately.
+
+Separate Drug Deductibles
+
+Inpatient Facility Stays
+
+Most plans have some form of cost sharing that applies when an enrollee enters the hospital as an inpatient. This can be one of the more confusing areas of cost sharing, primarily due to the interaction between the cost sharing for the hospitalization and any general medical deductible the plan may have. Some plans are fairly clear: an enrollee must meet the general medical deductible before any costs for a hospitalization are covered, after which the enrollee may have no additional cost sharing or may have to pay a portion of any costs above the deductible amount. In these arrangements, coinsurance is the most typical form of additional cost sharing.
+
+Other plans are more complicated. Some plans do not apply the general medical deductible to inpatient hospital stays, but have a separate deductible or sizeable copayment that applies to the hospital stay. A copayment may be per stay (i.e., on payment per admission) or it may be assessed for each day of the stay, typically up to a maximum number of days (e.g. $600 per day for up to three days). The patient then often must pay a portion of the additional costs above their separate deductible or copayment, typically in the form of coinsurance. In addition, there are plans that only apply a coinsurance percentage to inpatient hospital stays.
+
+Inpatient Facility Cost Sharing
+
+In the charts, plans with coinsurance and copayment amounts include plans that apply a general medical deductible to inpatient hospital and those that do not because we are unable to separate the cases accurately.
+
+Inpatient Physician Services
+
+In many plans, enrollees are required to pay a percentage of the cost of physician services that they receive in a hospital through coinsurance. In many of these cases the enrollee must first meet the general medical deductible and then pay a portion of the additional costs through coinsurance.
+
+In a large share of plans, the cost sharing for inpatient physician services is the same as for inpatient facility services. For example, each may require the enrollee to pay a coinsurance rate after the general medical deductible has been met. In some cases, however, plans have a copayment for inpatient hospital services, and then no charge or coinsurance for inpatient physician services.
+
+Inpatient Physicians Cost Sharing
+
+Physician Office Visits
+
+Most plans require enrollees to pay cost sharing when they visit a physician’s office, other than certain preventive care visits where cost sharing is prohibited. Most plans require a copayment when enrollees have a primary care or specialist office visit. Coinsurance is much more common among bronze plans (28%) than in the other metal levels.
+
+Many plans require enrollees to first meet the general medical deductible before any payment is made toward office visits. Some plans will pay toward a small number of office visits (e.g., 3) before an enrollee has met the general medical deductible, but then do not make payments towards additional office visits until after the general medical deductible has been met. Many of these plans require that the enrollee pay a copayment toward the cost of the limited number of covered visits before the deductible has been met, and to pay coinsurance towards the cost of visits that occur after the deductible has been met.
+
+Specialist and Primary Care Physician Office Visits
+
+Emergency Room Visits
+
+There is a mix of cost-sharing approaches for emergency room visits, which in some ways resemble the cost sharing for inpatient hospital stays. Many plans use either a copayment or coinsurance, and in some of these cases there is no coverage until after the general medical deductible has been met. Other plans have both a copayment and coinsurance for an emergency room visit; in some of these plans the general medical deductible does not apply, but enrollees must pay a specified copayment and coinsurance for a portion of the costs above the copayment.
+
+Emergency Room Cost Sharing
+
+Prescription Drugs
+
+As mentioned above, plans also vary in how deductibles apply to prescription drugs. Some plans apply the general medical deductible to prescriptions, which means that no payments are made for prescriptions until an enrollee has met his or her medical deductible. Other plans have a different (generally lower) deductible that applies specifically to prescriptions, while some have no deductible and begin paying toward prescriptions right away. Bronze plans are more likely to have a general medical deductible that includes prescriptions while plans in the other three metal levels are more likely to have separate prescription drug deductibles (or no deductible for prescriptions).
+
+Most health plans classify drugs in three or four different groupings, or tiers. The tiers reflect where the drug is on the health plan’s drug list, or formulary. Most plans have at least three tiers: generic drugs, preferred brand-named drugs, and non-preferred brand-named drugs. Many plans also have a fourth tier for specialty drugs (e.g., injectable drugs).
+
+Prescription Drug Cost Sharing
+
+The amount and type of cost sharing within plans varies across these drug tiers. Generally, enrollees face lower cost sharing for generic and preferred brand-named drugs and higher cost sharing for non-preferred brand-named drugs and specialty drugs. Plans will have different cost-sharing requirements for drugs on different tiers either to encourage enrollees to use lower cost alternatives or to pass on more of the cost of some drugs. There are plans with copayments and plans with coinsurance in each drug tier; copayments are more common for generic drugs. Some plans have no additional cost sharing once an enrollee meets the applicable deductible.
+
+The level of cost sharing also varies across the metal tiers of plans: for example, copays are likely to be higher in bronze plans than in more expensive plans for each of the drug tiers (in plans that require copayments, the average copayment amount for preferred brand-named drugs is $67 for bronze plans, $48 for silver plans, $39 for gold plans, and $30 for platinum plans).
+
+Out-of-Pocket Maximums
+
+An out-of-pocket maximum is the maximum dollar amount that an enrollee is required to spend on covered services received from network providers in a year. After an enrollee meets the out-of-pocket maximum, the plans pays 100% of covered services. Health plans sold in the Marketplace must have an out-pocket maximum for in-network services of no more than $6,850 for an individual plan and $13,700 for a family plan. Almost all plans offered on the exchange have a combined out-of-pocket maximum for medical and prescription drugs. Forty-seven percent of bronze plans and 35% of silver plans have an out-of-pocket maximum for single coverage at the $6,850 limit.
+
+Out-of-Pocket Maxiumums
+
+Discussion
+
+Many provisions of the Affordable Care Act, including the requirement that plans cover essential health benefits and limits on out-of-pocket maximums, have increased standardization among health plans. Plans also are now required to meet specific actuarial value targets known to consumers through the plan’s metal level. Even with these provisions, there is still considerable variation in the design of plans being offered on the federal marketplace, and plans in the same metal level may have significantly different cost sharing for the same service in the same area. Plans may take very different approaches and still reach the same actuarial value: for example, some plans have large deductibles with little cost sharing after the deductible has been met while others have no or small deductibles but require patients to pay a substantial percentage of the cost at the point of service through high coinsurance rates. Other plans are in the middle, having both deductibles and meaningful copayment or coinsurance requirements.
+
+Given the difference in plans, enrollees may prefer some plans’ designs over other designs, based on their health needs and the types of services they believe they may use. Enrollees also need to think about how they would pay for the required cost sharing should they become seriously ill; in other words, can they afford to pay the maximum out-of-pocket amount required by their plan. It is important that enrollees consider the cost of using their plan as well as the premium when they are shopping for coverage.
+
+Methods
+
+Data were obtained from the Data.HealthCare.gov 2016 QHP Landscape files on November 3, 2015. Plans analyzed include those offered in 2016 in the 38 states using Healthcare.gov (which includes federally facilitated, supported, and partnership Marketplaces, including Oregon, New Mexico, Nevada and Hawaii).
+
+Child-only and catastrophic plans were removed, and the remaining unique records (those with identical cost-sharing structures from the same issuer) were collapsed by state, thereby removing duplications where the same plans are offered in multiple counties within the state. The analysis does not include variations on cost sharing made available through cost-sharing reductions for lower income enrollees and Native Americans. We removed information for three plans (Arches Mutual Insurance Company, Health Republic Insurance Company, and Meritus Health Partners) because they are not offering plans in 2016.
+
+The analysis relies on data downloaded through Healthcare.gov. We did not attempt to verify each description and did not alter any of the information from the downloaded file, which means that some of the plans may be misclassified for certain cost-sharing provisions.
+
+Averages are simple averages and not weighted by enrollment as plan-level enrollment data are not publicly available.

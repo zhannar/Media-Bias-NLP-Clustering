@@ -1,0 +1,145 @@
+A new wave of wearable computing devices that detect and monitor serious diseases is moving from the laboratory to the market, potentially transforming the treatment of conditions ranging from epilepsy to diabetes and creating business opportunities estimated to be worth tens of billions of dollars.
+
+
+
+Unlike popular fitness-tracking devices, such as Fitbit Inc's Fitbit and Jawbone's UP wristbands, these so-called medical-grade wearables require approval from the U.S. Food and Drug Administration - a rigorous regulatory hurdle that first-generation wearables sought to avoid.
+
+
+
+The FDA is preparing for the coming onslaught.
+
+
+
+Bakul Patel, FDA's associate director for digital health, told Reuters the agency is reviewing applications for three new senior health scientist positions focused on digital health.
+
+
+
+Long criticized by some health-tech entrepreneurs as a barrier to innovation, the FDA is now seen as an important ally by companies eager to show that their devices can improve peoples' health - and eager to get health insurers to cover them.
+
+
+
+"Consumers, doctors, payers all want to know if a product provides a clinical benefit," said Julie Papanek of the venture capital firm Canaan Partners, who invests in wearables startups. "Working with the FDA is the one way to get the ability to market that benefit."
+
+
+
+Many would-be vendors of medical wearables are small startup companies, such as Cambridge, Massachusetts-based Empatica, which is developing a wristband designed to alert epilepsy patients and their caregivers of seizures in the hope of averting a dangerous post-seizure condition that can cause sudden, unexpected death.
+
+
+
+Like many emerging wearables companies, Empatica hopes that its core technology will also find uses far beyond one specific medical condition. Empatica founder Rosalind Picard, a Massachusetts Institute of Technology professor and inventor, told Reuters the company has just started large clinical trials using its wristband device on individuals with depression.
+
+
+
+The behemoths of the tech and healthcare industries are also chasing medical wearables. Dr. Jessica Mega, a former Harvard cardiologist who is now chief medical officer at Alphabet Inc's healthcare unit Verily, said at a recent digital health conference that the company plans to work closely with the FDA as it develops its own medical-grade devices.
+
+
+
+Soreon Research estimates the smart wearable healthcare market will grow from $2 billion in 2014 to more than $41 billion in 2020, with diabetes, sleep disorders, obesity and cardiovascular disease representing the biggest growth segments.
+
+
+
+To win acceptance, though, medical wearables companies will need to do much more than reliably collect data from sophisticated sensors. They will also need to develop the analytical capabilities to make sense of it all, and prove in extensive studies that they can improve patient health.
+
+
+
+"The sensors are fantastic overall for collecting data," said Dr. Eric Topol, a digital health expert at the Scripps Translational Science Institute. It is the "data analytics and the clinical utility parts that most of the companies haven't figured out yet."
+
+
+
+WINDING ROAD
+
+
+
+Empatica's experiences to date show the winding road that many digital health technologies follow before they arrive at an FDA-approved product.
+
+
+
+Besides tracking sleep, motion and heart rate, Picard's device tracks physiological stress by measuring skin conductance - changes in electrical signals in the skin that correlate with the sympathetic nervous system, which in turn regulates the "fight or flight" stress response.
+
+
+
+The device was originally developed to detect stress in individuals with autism who have difficulty communicating their emotions. Picard became interested in epilepsy when a student in her lab borrowed a pair of the devices for his autistic brother, who had a grand mal seizure while wearing them.
+
+
+
+The event produced a surprising spike in electrodermal activity on one side of the body that set Picard on the path of seizure detection.
+
+
+
+Empatica raised $2 million last year in seed funding from angel investors, and more than $700,000 in an Indiegogo crowdfunding campaign for its first consumer device, called Embrace, which it hopes to start shipping early next year.
+
+
+
+The company is also seeking FDA approval for its E4 device, a research-grade version for use in clinical trials. Empatica will use that to help gather evidence for future medical claims.
+
+
+
+Papanek likes that strategy, saying: "You can use the clinical trial platform to help validate the hardware and software that powers both the consumer and the industrial versions of their product."
+
+
+
+Picard ultimately hopes to develop a way to predict seizures based on patterns divined from data in her device, but that will take more study. For its first FDA application, Empatica wants to make a simple claim: that the device can reliably detect some types of epileptic seizures and send an alert to caregivers to check on them.
+
+
+
+Such alerts might help prevent sudden unexpected death in epilepsy or SUDEP, which kills 1 out of every 1,000 patients with epilepsy. If seizures are uncontrolled, the risk of SUDEP jumps to more than 1 in 150, according to the Epilepsy Foundation. Death is typically preceded by seizure and most deaths occur when people are unattended.
+
+
+
+There are several other epilepsy sensors on the market, such as Smart Monitor's SmartWatch, which detects repetitive shaking. Most are not covered by insurance because they are not FDA-approved, but that could soon change.
+
+
+
+Anoo Nathan, founder of Smart Monitor, said the company has done validation studies and is preparing for an FDA submission.
+
+
+
+"It's definitely part of our roadmap," she said.
+
+
+
+Dr. Tobias Loddenkemper of Harvard Medical School's Boston Children's Hospital, who owns part of the Empatica patent, tests several different types of sensors. He hopes to do large studies using different combinations of sensors and drugs to find out which offer the best results for individual patients.
+
+
+
+Loddenkemper said he is in talks with unnamed drug companies to devise systems that would use wearables and other data to manage patients with epilepsy.
+
+
+
+"If we can prove these devices and warning systems are keeping patients out of the intensive care unit," he said, there is a chance that hospitals will pay for them.
+
+
+
+DATA RACE
+
+
+
+A key driver in the new wearables wave is the push for so-called value-based healthcare that is part of the Affordable Care Act. The law gives doctors and hospitals financial incentives for keeping large groups of patients healthy.
+
+
+
+Under the old fee-for-service model, hospitals got paid when patients were hospitalized, noted Jody Ranck, a Washington, D.C.-based healthcare consultant. "Now, you can lose money," he said. Instead, healthcare providers are now eager to collect the data that can help keep people out of the hospital - especially those with chronic diseases. "These wearables are just tools to get the health data," said Ranck.
+
+
+
+An avalanche of studies - many of them taking advantage of new data-gathering platforms such as Apple Inc's HealthKit, Google's Google Fit and Samsung's SAMI - are under way on a number of chronic diseases, especially in the area of diabetes. "We're going to see a lot of devices over the next couple of years for every chronic condition of mankind that are FDA-regulated because they all involve a treatment loop," Scripps' Topol said.
+
+
+
+Verily's Mega, speaking at a Scripps digital health conference in October, said companies will need deep analytics to tease out known signals, like fluctuations in glucose levels or abnormal heart rhythms such as atrial fibrillation.
+
+
+
+But machine learning technologies will also make it possible to discover "unknown signals," such as the significance of skin conductance for a variety of conditions.
+
+
+
+"Maybe that's a much earlier signal of a heart attack than we actually know. These unknown signals take additional analytics," Mega said.
+
+
+
+
+
+
+
+© 2016 Thomson/Reuters. All rights reserved.

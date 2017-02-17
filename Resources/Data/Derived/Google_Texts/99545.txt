@@ -1,0 +1,51 @@
+Dr. Eric Topol, a cardiologist at the Scripps Clinic in San Diego, knows when his patients’ hearts are racing or their blood pressure is on the rise, even if they’re sitting at home.
+
+With high-risk patients hooked up to “personal data trackers” — a portable electrocardiogram built into a smartphone case, for instance — he and his researchers can track the ups and downs of patients’ conditions as they go about their lives. “It’s the real deal of what’s going on in their world from a medical standpoint,” says Topol, whose work is part of a clinical trial. “The integration of that with the classical medical record is vital.”
+
+Similar efforts are underway around the country, as physicians and other providers seek to monitor patients remotely through new technologies, aiming to identify problems early and cut costs and inefficiencies in the healthcare system. The approach is a key focus of the nation’s Affordable Care Act, and the influx of data from internet-connected devices could be a valuable tool for health systems, helping them to maximize resources and target interventions toward patients who will benefit most. It’s also a huge potential boon for companies that manufacture these technologies and have the know-how to store and wring value from the data they generate.
+
+Similar efforts are underway around the country, as physicians and other providers seek to monitor patients remotely through new technologies, aiming to identify problems early and cut costs and inefficiencies in the healthcare system.
+
+Already, mobile apps, scales, and activity trackers that beam data they collect to the cloud are helping some doctors and hospitals keep tabs on their patients and inform treatments. Insurance and electronic medical records companies are investing in and partnering with tech outfits like RedBrick Health and Audax Health, which encourage consumers to use activity and health tracking tools and upload the data to their platforms.
+
+Apple, Adidas, Samsung, GPS maker Garmin, audio tech company Jawbone, and gaming hardware manufacturer Razer are developing products that measure biological functions at ever faster clips. Startups across the country are creating gadgets such as pill boxes that can monitor whether patients are taking their meds and under-the-mattress sensors that measure heart rate, breathing and movement. Microsoft HealthVault — Microsoft’s web-based electronic health records platform — lets doctors access data from fitness trackers like Fitbit or Nike+ Fuel Band and glucose and heart monitors that patients have uploaded themselves. It’s an attempt to create a one-stop shop for health information.
+
+Many medical professionals have been slow to embrace the concept of patient-generated data — partly because many are skeptical of information they don’t collect themselves and because many consumer-grade apps and gadgets aren’t approved by the U.S. Food and Drug Administration, the agency that regulates medical devices. In addition, some doctors and other patient advocates are concerned that internet-based systems aren’t secure and that patient privacy might be breached, intentionally or not. But there are signs that resistance to patient-generated data systems is eroding as the healthcare system shifts to focusing on outcomes, and institutions look to web-based solutions to expand their reach and save money.
+
+Thinking Outside the Silo
+
+Last week, Practice Fusion — the fourth largest vendor of electronic medical records in the country, according to Bloomberg Businessweek — announced a partnership with AliveCor, Inc., maker of a smartphone heart monitor, and Diasend, an online diabetes management system. When patients approve sharing data from these FDA-approved services, their information will start flowing into their Practice Fusion medical records. The company plans to integrate more devices that help consumers track their health, according to Matt Douglass, the company’s co-founder and vice president of platform.
+
+Scripps’ Topol called the announcement an important but “baby” step toward making data-powered medicine a reality. “It’s the future,” he said. “But we’ve got a long way for this to become routine.” Integrating data into medical records can be clunky. Topol’s patients, after all, must still email him screenshots of their information before it can be put into their records.
+
+Companies like AliveCor and Diasend require FDA clearance for medical use because they provide diagnostic services. But others — like Nike+ FuelBand and Fitbit, which work essentially like pedometers, or Wellframe, an app that guides patients through a cardiac rehabilitation program — are meant to foster healthful habits. For now, that distinction saves companies from the drawn-out and expensive process of applying for FDA approval.
+
+Integrating data into medical records can be clunky. Topol’s patients, after all, must still email him screenshots of their information before it can be put into their records.
+
+“Right now, there’s a void in the industry in terms of what do you do with this information,” says Tapan Mehta, the chief of global healthcare marketing for networking giant Cisco. “How do you take this data and synthesize it and make it into knowledge, which can then be used at the point of care?”
+
+Another roadblock to making all this patient-generated information medically relevant is that it’s in silos controlled by the companies that collect it. Plus, analyzing it can be pricey. What’s needed, some experts say, is a system that aggregates and distills data into easily digestible nuggets of information for both patients and their doctors. For consumers to buy in, the interface needs to be as simple as signing into services with your Facebook account, says Guido Jouret, Cisco’s Internet of Things general manager.
+
+Google Health was an early attempt at integration that failed because uploading the data was a hassle, he says. Now Practice Fusion is making a go of it. The company already brands itself as a “physician-patient community,” allowing patients to directly manage their health and find providers. Integrating consumer-grade health products was a logical next step. For now, patients must come into their doctors offices to upload data to the platform wirelessly through the cloud, but there are plans to let patients upload their own data from home in the future. The idea is to leverage the power of the internet to increase social interactions and productivity and provide users seamless, on demand data access from any device.
+
+“If you look to 2020, there’s no way electronic medical records are not running primarily in the cloud,” Douglass recalls Ryan Howard, his co-founder, saying when he approached him in 2005 and sold him on the idea of starting a web-based electronic health records company. “All medical information had to be instantly accessible.”
+
+The Privacy Problem
+
+In the long-term, Douglass says, the company could develop “fairly complex algorithms that are looking at trends across patient populations — who’s healthy or who can be healthier and whether recommendations are actually making them better.” Like Google and Facebook, the San Francisco-based startup acts as a marketplace for information. Its services are free to the more than 100,000 medical professionals who use its product. The company makes money by partnering with diagnostic labs, imaging centers and drug companies and through targeted advertising.
+
+Practice Fusion has to play by federal rules governing patient privacy under the Health Insurance Portability and Accountability Act. It says all its data is aggregated and stripped of anything that would identify patients. Privacy advocates are concerned, however, the federal privacy law doesn’t apply to the growing volume of data produced by many health consumer apps and devices. Even outside a medical context, web titans like Google, Microsoft, Amazon and Facebook have faced criticism when using their customers’ activities to target them with ads for products and services. Using health data to target patients makes the stakes even higher, some privacy advocates argue.
+
+Privacy advocates are concerned, however, the federal privacy law doesn’t apply to the growing volume of data produced by many health consumer apps and devices.
+
+“The big concern with services that collect or aggregate health data from multiple sources is that many of them will not be covered by health privacy laws,” says Deven McGraw, the director of the Center for Democracy and Technology’s Health Privacy Project. “Consequently, how they collect and use health data is going to be governed by the companies’ internal privacy policies, which they write.”
+
+Bob Kocher, a partner at venture capital firm Venrock and a former special assistant to the President for healthcare on the National Economic Council, says medical data today is more secure than ever. “We lost paper charts all the time,” he says. “Now we actually know which servers they’re on, and we can even document if there was a breach.”
+
+Plus, he says, health data hasn’t yet proven all that valuable for hucksters. The bad guys don’t care about your health: They want your identity, and they can piece that together from your birthday, social security, e-mail and address — information they can get from variety of sources including bank statements, he says.
+
+For physicians, on the other hand, the information can be invaluable. “We’re getting data that we’ve never had before,” Topol says. “It’s quite extraordinary.”
+
+Kaiser Health News is an editorially independent program of the Henry J. Kaiser Family Foundation, a nonprofit, nonpartisan health policy research and communication organization not affiliated with Kaiser Permanente.
+
+Homepage image: AliveCor

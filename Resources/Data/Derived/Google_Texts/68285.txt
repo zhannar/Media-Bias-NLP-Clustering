@@ -1,0 +1,49 @@
+For small companies that can't afford a human resources person, managing HR can be a slog. Zenefits, a San Francisco-based startup, is making the process easier, overhauling an industry that often still relies on paper and fax machines. Since Parker Conrad co-founded Zenefits in 2013, more than 2,000 small businesses have signed up for its free, cloud-based HR software. (Zenefits makes money when companies use its product to buy health insurance or to choose a payroll provider or other service.)
+
+So far, Zenefits has raised $84 million from such investors as Andreessen Horowitz, Institutional Venture Partners, and actor Jared Leto. A recent funding round valued it at $500 million. It now has 450 employees — and plans to hire some 1,300 more over the next three years. But not everyone is a fan of Zenefits' fast growth, including brokers and regulators in Utah, where the company ran into legal troubles in November. (See "The Utah Problem," opposite page.)
+
+Conrad recently spoke with Inc. about how Zenefits got its start.
+
+Opportunity in Obamacare
+
+The idea for Zenefits started when I was working at my finance startup, SigFig. I was interested in health insurance — in part because I had cancer about 10 years ago. When you get sick like that, you become extremely vigilant about your health insurance. I was also interested in the Affordable Care Act. I thought, "Obamacare is really going to change a lot about how the industry works." I started talking with insurance brokers. The consensus was that it was going to chill their business. One broker said, "If this goes through, I'm going to stop working with small companies. The juice isn't worth the squeeze." I figured there was a big opportunity for someone to come in and do this with technology.
+
+Automating HR
+
+My co-founder, Laks Srini, joined me in early 2013. We realized this new company would not be just about insurance, but about a broader HR system as well.
+
+A lot of startups are like SigFig: They can't afford a dedicated HR person. So the burden of hiring, benefits, and compliance paperwork typically falls to the founders. At SigFig, I was doing a lot of this paperwork. Whenever you hired or terminated someone, you had to fill out forms and add or remove that person from 20 different places. Sometimes you would have to use a fax machine to submit the forms. We didn't have one, so I'd have to stop by Kinko's on the way home. It was 2010, not 1986!
+
+Zenefits would be an automated system that requires the necessary information to be entered only once. It would dramatically reduce the amount of work you have to do.
+
+Making It Free
+
+Instead of charging for the software, our idea was to do a hub-and-spoke model. We would make the software so easy to use that employers would want to do everything through our system, including health insurance, other benefits, and payroll. We realized, "Hey, we can actually make enough money on all of these spokes that it makes sense to give the hub away for free."
+
+Insurance happens to be one of the most lucrative spokes. When companies use Zenefits to buy a group plan, we get a commission from the insurance carrier, like any other broker. People buy insurance through us because it's integrated in one place online, and we do a good job with it. Zenefits also integrates with different payroll systems. We get a revenue share from the payroll companies on the clients we send to them.
+
+Our first clients were mostly tech companies, because they were frustrated with having to do anything on paper. Thanks to some marketing and word of mouth, we've grown pretty fast. In one year, we've gone from 15 employees to 450 and increased revenue 20-fold.
+
+Our Own Best Customer
+
+We use Zenefits as a company. But our employees aren't allowed to call our support line if they have issues. They need to just fix it. As a result, they solve big problems. When we started doing commuter benefits, for instance, people at our company were confused about it, called it out, and fixed it before we got any external complaints.
+
+Not Banking on Funding
+
+From the start, I knew I had to build a company that didn't need to raise money. At SigFig, I was trying to raise money with my co-founder for four years. We went hat in hand to every VC firm in Silicon Valley — and every one turned us down.
+
+This time, I knew I had to build and grow this organically, because you just can't count on investors being available to you. It turns out that's the kind of business that really draws investors. It made it really easy to raise money on attractive terms. So far, we've raised $84 million. That's allowed us to grow much more quickly than we could've on our own.
+
+Making the ACA Work
+
+The Affordable Care Act has actually accelerated our business in two ways. First, there's now a lengthy form that employers have to file so the government can figure out which employees are eligible for subsidies on the public health exchanges and which are not. It's an incredible amount of work. If you have a small company, who's going to do that? We will.
+
+And then, as of 2014, medical underwriting isn't required for companies with fewer than 51 employees. This means insurance companies can create prices based on the ZIP code and age of an employee rather than on an extensive medical history. So if we can get the rates into our system for every ZIP code, every age, every plan, every carrier, every state — which is daunting, but doable — we can give any customer a real quote instantly. Currently, we're able to do that in 30 states. Most brokers take several days to turn a quote around.
+
+A Regulatory Fight
+
+We've grown so quickly that the world of insurance brokers is freaking out. They're losing customers. As in a lot of industries that feel threatened, brokers have been reaching out to regulators for protection. In November, Utah banned us. They say we should charge employers for our software or it's unfair competition. I get why that would be good for the brokers, but how is that better for consumers?
+
+I hate to lose customers. It's painful. But what was cool was that all these customers in Utah started tweeting about how much they liked Zenefits, saying, "Please don't take this away." Disruption is painful for incumbents, but we're able to do some really powerful stuff for a lot of companies out there.
+
+In the end, I believe these regulatory issues will be few and far between, because this is the United States, the country that understands the need for a free market and innovation. Ultimately, I think we will prevail.

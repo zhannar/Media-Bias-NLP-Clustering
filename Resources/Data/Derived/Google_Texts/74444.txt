@@ -1,0 +1,47 @@
+Our new issue has an interview with Dr. David Blumenthal about why it has taken the medical system so long to adopt electronic record-keeping, and what it will mean when the switch occurs. (Blumenthal led the Obama administration's effort to encourage that change.) On Friday several technology experts and doctors weighed in with responses. Here are a few more.
+
+1) "Give us a cotton gin." Creed Wait, a family-practice doctor in Nebraska does not like the mandated shift to electronic records, at all. [I've added his name, as he sent permission to use it. Also he has moved from Texas to Nebraska.] For now, I am sharing his detailed complaint in full, rather than interspersing comments or "Yes, but" queries:
+
+The saying is, “Build a better mousetrap and the world will beat a path to your door. “
+
+The saying is not, “Build a different mousetrap, pay out nineteen billion dollars in incentives to use the mousetrap, mandate its use by law and punish those who fail to adopt it. Then shove the world kicking and screaming against their will through your door.”
+
+So far, doctors have been paid $19B in incentives to buy EMRs [Electronic Medical Record systems]. No one had to incentivize the cotton gin. It was simply a better product.
+
+The current EMR system is a mess because the current EMR systems in use by the majority of physicians were written in the Rube Goldberg School of Software Design and work poorly. There is no ‘asymmetry of benefits’ as proposed by Dr. Blumenthal. Unless, of course, what he means by this is that only the software companies are benefitting from these federal mandates. Then, I would agree with him. Yes, the benefits are asymmetrical.
+
+Build a better mousetrap and we will use it. DVDs came out and they were better than VHS tapes. Overnight the whole world invested in new electronics, we bought DVDs and we threw out our VHS tapes. There was no need for $19B in incentives because DVDs were simply a better product. Flat screen televisions came out and we stopped buying cathode ray tube televisions. Why? Because they were a better product. Laws mandating the use of DVDs and flat screen TVs, bonuses for using them and punishments for failing to do so, were not needed. The market chose the better products.
+
+Mandated EMR adoption requires carrots and sticks consisting of massive incentives and concomitant penalties because the products that are available work so poorly and are so severely user-unfriendly.
+
+Using the VA system, Kaiser, and Geisinger as examples of the successful use of EMRs is disingenuous. These are massive systems with massive budgets and massive around-the-clock onsite IT departments. The vast majority of physicians are not in these megalithic systems.
+
+Most of us are in much smaller practices. We have IT departments but the salesmen and software engineers who sold us these magic beans are already down the road looking for the next unsuspecting rube and cannot be reached. Our IT departments are swimming upstream trying to implement and maintain software that they do not understand while mandated changes to this software are being released before we can get the last update debugged and working. The doctors are always screaming because the systems are down, we can’t work until the system is running and the IT guys have the harried and glazed look of caged prey.
+
+For the federal government to mandate the use of EMRs by every physician out there just because it works at the VA would be like telling the entire world, “OK, we made it to the moon. Now it is your turn. Any country that has not put a man on the moon within the next five years will be bombed. Every country that complies with this mandate will get a check for $1B. For those countries who fail to comply with this mandate, shelling will begin at 1:00AM, five years from today.”
+
+What the federal government can do with a bottomless supply of tax dollars cannot be used to reasonably mandate what happens in small offices constrained by budget limitations.
+
+One year ago in private practice I could see eighteen patients per day. A transcriptionist typewrote my notes. These were typically three pages long, concise, complete and extremely useful. Then our group bought an EMR.
+
+After one year I was seeing fourteen patients a day, my notes were twelve pages long, the vital signs alone required a half page and the notes bordered on being useless.
+
+My reimbursement per visit had increased, my face-to-face time with the patient was shorter, I was doing a poorer job, patients were less satisfied, and I was completely frustrated by trying to build each note out of dozens of pages of drop down menus.
+
+Before implementing an EMR I had approached each patient encounter with an attitude of, “What can we do today to improve your health, happiness and overall satisfaction with life?” The patient and I would have a meaningful conversation about the pertinent issues. Once an EMR was implemented, a subtle change began. It was so gradual that at first I did not even recognize the poison. But after a few months I realized that the visit had slowly evolved into, “Just a minute, we need to be sure that we have checked off every box on every screen and we need to be sure that a narrative of some sort has been entered into every required field.” Then there were realizations like, “Oh, look. If we add one more point to the Review of Systems then we can raise the billing code one notch. Hold that thought while I click, ‘wears glasses’ under the ROS field!”
+
+Well, time’s up! The fields are all now completed and all goals have been met! Next!
+
+The EMR had become the primary influence in the interview. The dynamic had changed. The patient and I were now both in the room to feed the hunger of the software.
+
+Don’t even get me started on CPOE (computer-based physician order entry systems). Physicians used to write their orders and clerks would enter these data into the computer. Under the new mandates, the physician is now a data entry clerk. What’s next? Is each hospital CEO going to be required to spend two hours a day manning the switchboard? It is claimed that CPOE systems reduce errors. In the real world, this is nonsense. It is all in how one collects and reports the data. Data collectors refuse to attribute errors to the CPOE system. Rather than blame the software, the physician is blamed for not understanding how to use the system correctly. Just like with office-based EMRs we refuse to admit that the Emperor is naked. I have seen physicians get past mandatory stop points during system entries, when the correct input was not an option, by inputting obviously erroneous answers so that they could keep working. Then the physician would call the pharmacy and verbally correct the entry. There are dozens of ‘back door’ fixes of this nature that allow physicians to keep working when a CPOE system locks up or cannot meet the needs of a unique patient. In my own experience I estimate than a CPOE system adds 1-3 hours of work to each day.
+
+I am not a typist, I never have been a typist and I never will be. I can dictate a beautiful note. A typist can then create an excellent document from that dictation. There is no reasonable excuse for the government to mandate an end to this system when no one has a better product. There is no reasonable excuse for the government to mandate that I will now be a typist.
+
+Now, on to the VA system. They have a great and highly integrated information management system, with one glaring flaw. As long as the patient stays completely within that system, it works. As long as the patient never sees a physician outside of the VA, it works. As long as the patient never gets a test, x-ray or is hospitalized outside of the VA, it works. But the VA does not integrate well outside of their own system. By the time non-VA physicians and hospitals can get records, reports or anything of value out of the VA, the patient is generally dead or cured.
+
+But this is exactly the problem that integrated EMR systems were touted to cure. If the best EMR in the nation has not yet solved this one simple problem, why is the entire concept being shoved down our collective throats?
+
+So, you want to revolutionize data management in healthcare? The starting point is a product that works. Give us a DVD, a flat-screen television.
+
+Give us a cotton gin.

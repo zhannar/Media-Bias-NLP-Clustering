@@ -1,0 +1,17 @@
+Screenshot by Lance Whitney/CNET
+
+The US health care registration website HealthCare.gov was breached by as-yet unidentified hackers over the summer, but investigators said that no personal data was stolen.
+
+However, the people behind the hack were able to upload malware, the Wall Street Journal reported on Thursday. The hack is believed to be the first successful attack against HealthCare.gov and was discovered at the end of August by Department of Health and Human Services employees.
+
+The website opened last year as part of the Affordable Care Act to help Americans compare and purchase health insurance.
+
+"Our review indicates that the server did not contain consumer personal information; data was not transmitted outside the agency, and the website was not specifically targeted," the Department of Health and Human Services told the Journal in a statement. "We have taken measures to further strengthen security."
+
+The attack installed malware on Healthcare.gov, which was likely to be used to attack other websites in the future, according to investigators. Experts have been predicting successful attacks against the site since it went public last October.
+
+"While the backstory on how this vulnerability was identified indicates that this attacker was not specifically targeting Healthcare.gov, it's important to be aware that this website and IP range is a high value target for a number of attackers," Trey Ford, global security strategist at security analytics firm Rapid7, told CNET in an email.
+
+Billy Rios, the director of threat intelligence at Qualys, said that the government was downplaying the severity of the hack. "If the hacker really had the ability to upload arbitrary software to the Web server, they certainly had the ability to steal healthcare data if they desired," he said.
+
+The breach comes on the heels of numerous recent and severe website breaches where attackers stole personal data including the bank JPMorgan, the European Central Bank, Apple's iCloud online storage service, and the UPS Store.

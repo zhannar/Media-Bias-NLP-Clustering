@@ -1,0 +1,21 @@
+With something like a forklift mechanism, the robotic fingers can hold coffee cups while you stir or envelopes while you tear.
+
+With something like a forklift mechanism, the robotic fingers can hold coffee cups while you stir or envelopes while you tear. Melanie Gonick, MIT
+
+You may never be able to rock a microphone like Nas, but you’ll definitely be able to twist off a 40 top. And tie your shoes. And maybe even thread a needle, thanks to new research from the Massachusetts Institute of Technology.
+
+The science of prosthetics is about efficiency: How easily can a robotic limb replace the one you lost? Usually, the answer comes with a weighty price tag and a full-scale reattachment. If you lose an arm, you’ll get an arm. Researchers at MIT want to flip that idea on its head. For people who lose a hand, restored control may be as simple as two extra fingers.
+
+Hook hands and complex, motorized machinery are out, the developers say. Hi-tech minimalism works better. "This is a completely intuitive and natural way to move your robotic fingers," said Harry Asada, the Ford Professor of Engineering in MIT’s mechanical engineering department, in a statement. When you wear the attachment, which sits on your wrist, an extra “finger” juts out on either side of your thumb and pinky, sort of like a flexible forklift, learning how you position your hand as you grab things.
+
+"You do not need to command the robot, but simply move your fingers naturally,” Asada added. “Then the robotic fingers react and assist your fingers."
+
+Their formal name is “supernumerary robotic fingers.” The team developed the device using a series of algorithms that keep track of how the user moves his or her fingers when grabbing at an object, read by sensors in a hi-tech glove. The team realized early on that when humans typically reach for something, we don’t hold it with all five fingers equally. In most cases, we only use two fingers to apply pressure and curl back the object. Even for objects of varying size and shape, like a football and a pencil, these movement patterns tend to stick around.
+
+The prototype grasping device could be used to hold hot drinks while you stir in cream or sugar, or aid you in opening storage containers, as seen here. Melanie Gonick/MIT. Melanie Gonick/MIT
+
+So the researchers got to work on designing a wrist-mounted device that coordinates the behavior of seven fingers, not just five. Graduate student Faye Wu, who presented the team’s paper at a recent robotic conference in Berkeley, Calif., tested out the prototype. She grabbed an object and then positioned the two fingers manually around that object. Eventually, she found two or three general patterns emerged in each form of grasping.
+
+The device has its bugs. Right now its only ability is to grab. It isn’t smart enough to apply varied pressure for, say, a small but heavy object compared to a light, slippery one. “That's the next thing we'll look at,” Wu said.
+
+Further down the line, the team hopes to enhance the robot’s intuition to where it can track users’ specific movement patterns and learn to focus on certain algorithms over others — in the same way iPhone’s Siri learns its user’s speech patterns. The device is also bulky, Asada says. "This is a prototype, but we can shrink it down to one-third its size, and make it foldable.” The device could be worn as a wristwatch or bracelet, he adds. The point is to make it as discreet as possible, so it stops feeling like a gadget to enhance your life and just feels like a part of the life itself. “Wearable robots are a way to bring the robot closer to our daily life,” he said.

@@ -1,0 +1,73 @@
+You may soon get a call from your doctor if you’ve let your gym membership lapse, made a habit of picking up candy bars at the check-out counter or begin shopping at plus-sized stores.
+
+That’s because some hospitals are starting to use detailed consumer data to create profiles on current and potential patients to identify those most likely to get sick, so the hospitals can intervene before they do.
+
+Information compiled by data brokers from public records and credit card transactions can reveal where a person shops, the food they buy, and whether they smoke. The largest hospital chain in the Carolinas is plugging data for 2 million people into algorithms designed to identify high-risk patients, while Pennsylvania’s biggest system uses household and demographic data. Patients and their advocates, meanwhile, say they’re concerned that big data’s expansion into medical care will hurt the doctor-patient relationship and threaten privacy.
+
+“It is one thing to have a number I can call if I have a problem or question, it is another thing to get unsolicited phone calls. I don’t like that,” said Jorjanne Murry, an accountant in Charlotte, North Carolina, who has Type 1 diabetes. “I think it is intrusive.”
+
+Acxiom Corp. and LexisNexis are two of the largest data brokers who collect such information on individuals. Acxiom says their data is supposed to be used only for marketing, not for medical purposes or to be included in medical records. LexisNexis said it doesn’t sell consumer information to health insurers for the purposes of identifying patients at risk.
+
+Bigger Picture
+
+Much of the information on consumer spending may seem irrelevant for a hospital or doctor, but it can provide a bigger picture beyond the brief glimpse that doctors get during an office visit or through lab results, said Michael Dulin, chief clinical officer for analytics and outcomes at Carolinas HealthCare System.
+
+Carolinas HealthCare System operates the largest group of medical centers in North Carolina and South Carolina, with more than 900 care centers, including hospitals, nursing homes, doctors’ offices and surgical centers. The health system is placing its data, which include purchases a patient has made using a credit card or store loyalty card, into predictive models that give a risk score to patients.
+
+Within the next two years, Dulin plans for that score to be regularly passed to doctors and nurses who can reach out to high-risk patients to suggest interventions before patients fall ill.
+
+Buying Cigarettes
+
+For a patient with asthma, the hospital would be able to score how likely they are to arrive at the emergency room by looking at whether they’ve refilled their asthma medication at the pharmacy, been buying cigarettes at the grocery store and live in an area with a high pollen count, Dulin said.
+
+The system may also score the probability of someone having a heart attack by considering factors such as the type of foods they buy and if they have a gym membership, he said.
+
+“What we are looking to find are people before they end up in trouble,” said Dulin, who is also a practicing physician. “The idea is to use big data and predictive models to think about population health and drill down to the individual levels to find someone running into trouble that we can reach out to and try to help out.”
+
+While the hospital can share a patient’s risk assessment with their doctor, they aren’t allowed to disclose details of the data, such as specific transactions by an individual, under the hospital’s contract with its data provider. Dulin declined to name the data provider.
+
+Greater Detail
+
+If the early steps are successful, though, Dulin said he would like to renegotiate to get the data provider to share more specific details on patient spending with doctors.
+
+“The data is already used to market to people to get them to do things that might not always be in the best interest of the consumer, we are looking to apply this for something good,” Dulin said.
+
+While all information would be bound by doctor-patient confidentiality, he said he’s aware some people may be uncomfortable with data going to doctors and hospitals. For these people, the system is considering an opt-out mechanism that will keep their data private, Dulin said.
+
+‘Feels Creepy’
+
+“You have to have a relationship, it just can’t be a phone call from someone saying ‘do this’ or it just feels creepy,” he said. “The data itself doesn’t tell you the story of the person, you have to use it to find a way to connect with that person.”
+
+Murry, the diabetes patient from Charlotte, said she already gets calls from her health insurer to try to discuss her daily habits. She usually ignores them, she said. She doesn’t see what her doctors can learn from her spending practices that they can’t find out from her quarterly visits.
+
+“Most of these things you can find out just by looking at the patient and seeing if they are overweight or asking them if they exercise and discussing that with them,” Murry said. “I think it is a waste of time.”
+
+While the patients may gain from the strategy, hospitals also have a growing financial stake in knowing more about the people they care for.
+
+Under the Patient Protection and Affordable Care Act, known as Obamacare, hospital pay is becoming increasingly linked to quality metrics rather than the traditional fee-for-service model where hospitals were paid based on their numbers of tests or procedures.
+
+Hospital Fines
+
+As a result, the U.S. has begun levying fines against hospitals that have too many patients readmitted within a month, and rewarding hospitals that do well on a benchmark of clinical outcomes and patient surveys.
+
+University of Pittsburgh Medical Center, which operates more than 20 hospitals in Pennsylvania and a health insurance plan, is using demographic and household information to try to improve patients’ health. It says it doesn’t have spending details or information from credit card transactions on individuals.
+
+The UPMC Insurance Services Division, the health system’s insurance provider, has acquired demographic and household data, such as whether someone owns a car and how many people live in their home, on more than 2 million of its members to make predictions about which individuals are most likely to use the emergency room or an urgent care center, said Pamela Peele, the system’s chief analytics officer.
+
+Emergency Rooms
+
+Studies show that people with no children in the home who make less than $50,000 a year are more likely to use the emergency room, rather than a private doctor, Peele said.
+
+UPMC wants to make sure those patients have access to a primary care physician or nurse practitioner they can contact before heading to the ER, Peele said. UPMC may also be interested in patients who don’t own a car, which could indicate they’ll have trouble getting routine, preventable care, she said.
+
+Being able to predict which patients are likely to get sick or end up at the emergency room has become particularly valuable for hospitals that also insure their patients, a new phenomenon that’s growing in popularity. UPMC, which offers this option, would be able to save money by keeping patients out of the emergency room.
+
+Obamacare prevents insurers from denying coverage because of pre-existing conditions or charging patients more based on their health status, meaning the data can’t be used to raise rates or drop policies.
+
+New Model
+
+“The traditional rating and underwriting has gone away with health-care reform,” said Robert Booz, an analyst at the technology research and consulting firm Gartner Inc. “What they are trying to do is proactive care management where we know you are a patient at risk for diabetes so even before the symptoms show up we are going to try to intervene.”
+
+Hospitals and insurers need to be mindful about crossing the “creepiness line” on how much to pry into their patients’ lives with big data, he said. It could also interfere with the doctor-patient relationship.
+
+The strategy “is very paternalistic toward individuals, inclined to see human beings as simply the sum of data points about them,” Irina Raicu, director of the Internet ethics program at the Markkula Center for Applied Ethics at Santa Clara University, said in a telephone interview.

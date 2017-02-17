@@ -1,0 +1,91 @@
+Preparing for the New PPACA Electronic Payments Environment — What Healthcare Providers Need to Know
+
+While healthcare has been transitioning from paper-based processes to electronic transactions for years, the pace has been far slower than expected. That’s all about to change, however, with the landmark Patient Protection and Affordable Care Act serving as the catalyst moving the industry toward greater reliance on electronic payment processing.
+
+New operating rules governing healthcare transactions that take effect Jan.1, 2014, create unprecedented opportunities for healthcare providers to increase efficiency and streamline billing and insurance-related administration. (For more information, please see KeyBank’s whitepaper on electronic billing).
+
+The benefits of electronic transactions for healthcare payments — reduced operating costs, efficient processing, enhanced reliability and strengthened security — are widely acknowledged. But the healthcare industry has been slow to adopt electronic transactions even as more and more research demonstrates the potential for significant cost savings.
+
+For example, the U.S. Healthcare Efficiency Index indicates using electronic funds transactions (EFT) for 100 percent of healthcare payments could save as much as $11 billion annually. Billing and insurance-related costs consume up to 12 percent of a provider’s revenue annually. But the U.S. Department of Health and Human Services reported in 2012 that EFT represented just 33 percent of healthcare claim payments. Electronic remittance advice (ERA) accounted for just slightly more than one-third of total remittances.
+
+Lack of universal operating rules to establish industry-wide standardization and consistency has stymied provider adoption, particularly the lack of rules addressing reassociation. Previously, providers have a difficult time matching an Automated Clearing House (ACH) payment with its associated ERA. This difficulty is compounded by the typical time lag — as much as several weeks — between an EFT issuance and the associated ERA issuance.
+
+Enrollment is another problem area. Because health plans used different types of information and varying formats, providers often found electronic payment enrollment overly complicated and labor-intensive.
+
+PPACA legislation paved the way for the vital universal operating rules. Two industry organizations — NACHA and CAQH® — were named to author EFT and ERA operating rules for Health Insurance Portability and Accountability transactions.
+
+The rules mean major and sweeping changes for providers:
+
+The rules specify how EFT transactions should be executed in the ACH network, providing greater standardization and consistency throughout the industry. (Health plans are not required to send an EFT through the ACH network — the rules do not prohibit the use of other EFT payment options like virtual cards and wire transfers.)
+
+
+
+
+
+If a provider requests healthcare claim payments electronically, health plans must provide it using the new EFT standards.
+
+
+
+
+
+By establishing the maximum set of standard data elements that the health plans will have, the rules ensure that health plans will have the proper data needed for automated reassociation. Health plans are required to use common format, flow and vocabulary in their enrollment forms for EFT and ERA. Since health plan enrollment forms will be similar, EFT and ERA enrollment for providers will be greatly simplified.
+
+
+
+
+
+The rules place limits on codes used for rejections, making it easier for providers to understand the reasons for a health plan's rejection or adjustment of a claim payment.
+
+
+
+
+
+Reassociation requirements set a narrow range of plus or minus three days between transmission of the EFT and the ERA — a significant improvement over current practices.
+
+In addition to addressing enrollment, reassociation, and standardization issues, PPACA requires that 100 percent of Medicare claims payments and associated data be made electronically. Providers with even one Medicare patient must be able to effect electronic transactions — a powerful inducement for them to make the move to EFT/ERA.
+
+The new rules should speed the shift from manual to electronic healthcare payments and administration. According to projections by HHS, EFT is projected to grow from 33 percent of all healthcare payments in 2010 to 84 percent by 2023, while ERA will increase from 35 percent to 82 percent of all payments over the same period.
+
+Some healthcare providers may feel overwhelmed with the challenge of moving from familiar paper-based processing to electronic transactions. Fortunately, obstacles such as lack of awareness and concerns over enrollment impact and the enrollment process are ones that can be overcome.
+
+One of the biggest challenges is lack of awareness. Providers need to understand the changes impact on theirs and others' operations and then obtain the information they need to make decisions.
+
+For example, providers are uncertain about how each health plan is preparing for the new rules, particularly small and medium-sized health plans. Working closely with a bank or vendor will help a provider avoid the learning curve and better prepare for the new rules.
+
+Many providers believe they'll be inundated with EFT and ERA enrollment, but it may be easier to manage than they think. As a rule, 20 percent of a provider's health plans will represent 80 percent of their claims payments. By moving that 20 percent to EFT first, they can improve cash flow and reduce the number of transactions that are manually processed by check or cards.
+
+Providers say the enrollment process makes them leery of accepting EFT transactions. The new rules standardize the format and information that can be included in an EFT enrollment form and require that one electronic enrollment option be made available. There are also databases being established to allow providers to input the EFT enrollment information in one location and designate which health plans can receive or access the information. These initiatives will help reduce the time it takes providers to enroll for EFT claims payments.
+
+Industry consensus is that electronic healthcare payments will be the rule, not the exception, within the next decade. Providers who hesitate risk losing tremendous opportunities to lower operating costs, and ultimately, risk their business. Providers who don't move to ETF now will have to make tough choices later. Without EFT, alternatives will be limited to selling practices, merging practices with providers who have moved to EFT, or retiring.
+
+Providers' most significant challenge is taking full advantage of automation. Most healthcare providers still collect and deposit paper checks and manually post and reconcile claim payments in their accounting systems. With automation, time and labor spent on payment collection can be sharply decreased. Accounts receivable can be updated faster and more accurately, secondary insurance claims can be filed sooner, and checks aren't waiting to be deposited, to name just a few advantages.
+
+Converting from manual, paper-based processing to electronic payments involves training staff in new procedures. Administrative personnel will need to learn processes different from the ones they have used in the past.
+
+In short, healthcare providers need to take steps now to be ready when the PPACA new operating rules take effect. Here are some preliminary steps that healthcare providers should consider:
+
+Devote some time to understanding the operating rules, opportunities and options. Your bank or vendor will have good insight, as will other providers, industry associations, peers, payers and provider associations.
+
+
+
+
+
+Talk to your bank about receiving EFTs and ERAs through ACH.
+
+
+
+
+
+Contact health plans to complete EFT enrollment forms.
+
+
+
+
+
+Upgrade your back office so you capitalize on electronic payment benefits.
+
+Being prepared for the new payments environment starts with understanding the new rules and the options available. Providers need to work closely with their banks, other vendors, and health plans to get the support needed and leverage their entire capabilities and resources. Providers who take those steps should be well positioned to take full advantage of the opportunities the changing environment offers.
+
+Scott Krah is a vice president and senior product manager with KeyBank Enterprise Commercial Payments. He is responsible for the direction of the bank’s healthcare product management team to support the industry and the many challenges healthcare providers and payers face while collecting and disbursing payments. Mr. Krah has nearly 20 years of healthcare industry experience. He has participated in many healthcare and financial service industry groups and worked directly with a wide range of healthcare organizations to streamline their revenue cycle. Mr. Krah is an accredited ACH professional.
+
+© Copyright ASC COMMUNICATIONS 2016. Interested in LINKING to or REPRINTING this content? View our policies by clicking here.

@@ -1,0 +1,61 @@
+Law enforcement is investigating a possible data breach at the National Archives, after a hacker group released a video purporting to show a break-in on the agency’s website.
+
+The video was posted on YouTube in early February by a group known for hacks of U.S. websites. Shared privately with The Hill, it shows a Web user scrolling through a database of agency files, accompanied by threats and ominous music.
+
+Private security experts who reviewed the video said it appears the hackers might have gained access to the back end of the National Archives website, where content is updated.
+
+ADVERTISEMENT
+
+Archives officials insisted the group behind the video had not succeeded in accessing private data at the agency and directed additional inquiries to law enforcement.
+
+“The National Archives and Records Administration has not suffered a data breach,” National Archives Chief Operating Officer William J. Bosanko said in a statement.
+
+“In the last several months we have faced several unauthorized attempts to access our public-facing website Archives.gov,” he said. “However, we do not believe that any of these attempts resulted in access to information that is not otherwise available to the public.
+
+“Like all departments and agencies, our cybersecurity infrastructure is regularly a target and we routinely assess our security measures to address vulnerabilities.”
+
+The YouTube video underscores the growing threat of cyberattacks to federal agencies, which experience thousands of hacking attempts every day.
+
+A data breach at the National Archives could endanger the personal information of former high-ranking administration officials and family members of former presidents.
+
+Government offices have recently suffered a variety of hits that have laid bare everything from employee information to unclassified email systems.
+
+At the U.S. Postal Service, information for 800,000 employees was exposed.
+
+At the National Oceanic and Atmospheric Administration, federal weather tracking and prediction data was taken.
+
+At the White House and State Department, email systems were infiltrated, and three months later, parts of the networks are still down.
+
+The repeated incidents have led to criticism of the Obama administration’s ability to protect itself from digital intruders.
+
+Chinese and Russian hackers are widely suspected in most of the incidents, although the government has never confirmed who its digital assailants are.
+
+The Archives incident might resemble the recent hack of the U.S. Central Command Twitter and YouTube accounts.
+
+Groups claiming affiliation with the Islamic State in Iraq and Syria (ISIS) briefly took over the social media accounts to disseminate ISIS propaganda and what they claimed were classified documents. It later turned out the documents were publicly available.
+
+Security experts interviewed by The Hill said hackers could have potentially used a stolen password or website flaw to gain access to the Archive’s content management system.
+
+It’s possible, but unlikely, that they could then jump from the website to the broader Archives network, where sensitive data is stored, experts said.
+
+“If the Archives has configured their network appropriately … and they’re using something like a breach detection system … then it’s OK,” said Tom Kellermann, chief cybersecurity officer at security research firm Trend Micro.
+
+However, digital attackers have the power to deface a website once they’ve gained access to the back end, said David Kennedy, CEO of security firm TrustedSec.
+
+This leads experts to believe the hackers are looking to make a political statement, perhaps trying to show they can “rewrite history,” Kellermann said.
+
+“It is symbolism at its best,” he added. “They’re attempting to demonstrate how they can attack the archives of American history in real time.”
+
+Even if the hacking techniques used are quite simple, “psychologically speaking,” the video displays “an increase of their level of sophistication.”
+
+The National Archives took considerable heat in 2010, after a data breach exposed the personal information of 250,000 Clinton administration staff members, job applicants and White House visitors.
+
+In total, more than 100,000 Social Security numbers were lost at that time. The breach was the result of a computer hard drive that went missing from a storage collection.
+
+That incident came only months after the agency’s inspector general had investigated another Archives data breach involving the records for 70 million U.S. military veterans. The investigation found the agency had sent back a faulty hard drive for repairs without first deleting the veterans’ records.
+
+The agency later concluded that veterans’ information was never accessed on the hard drive, and it had never been in unauthorized hands during the repair.
+
+Archives officials asked that the YouTube video not be shared out of concern that it might inspire other hackers.
+
+This story was updated at 8:22 p.m.

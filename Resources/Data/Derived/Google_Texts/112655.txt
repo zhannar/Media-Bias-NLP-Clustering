@@ -1,0 +1,13 @@
+Researchers at security engineering firm Arbor Networks have discovered a tool that appears to target the federal health insurance marketplace Healthcare.gov with a distributed denial-of-service (DDoS) attack.
+
+The tool, which aims to overload the site with unnecessary requests, is available for download and has been mentioned on social media. Arbor's researchers concluded it is not well-designed, however, and is "unlikely to succeed in affecting the availability of the healthcare.gov site."
+
+The description suggests its author was politically motivated. "Destroy Obamacare," it says. "Obamacare is an affront to the constitutional rights of the people."
+
+It could be a subversive joke
+
+The source is unclear, however, and it could just as easily be a subversive joke. If genuine, it may be the latest example of a "hacktivist" tool.
+
+"This application continues a trend [we are] seeing with denial of service attacks being used as a means of retaliation against a policy, legal rulings or government actions," the researchers write.
+
+While Healthcare.gov has been repeatedly overloaded during its first five weeks of existence, there is no evidence that the site has ever been subject to a DDoS attack.

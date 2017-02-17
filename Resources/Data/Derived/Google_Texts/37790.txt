@@ -1,0 +1,21 @@
+Facebook's new "Formation of Love" graph shows when and how people fall in love.
+
+Facebook's new "Formation of Love" graph shows when and how people fall in love. Facebook
+
+Social media users outraged over NSA surveillance programs: The federal government probably knows way less about you compared to Facebook. Because Facebook knows when you’re more likely to fall in love, start a relationship, exchange cute notes online, and be lulled into a long-term relationship. It’s true.
+
+Last week, the media behemoth’s “data science” unit released a somewhat unnerving write-up on its recent foray into the most titillating aspect of intimacy: statistics. The mini-study, which (we guess) was supposed to coincide with Valentine’s Day, basically formalizes the social milestones of the average user’s love life by reviewing timeline-posts, status updates, photos, and — of course — relationship updates. The results?
+
+Graph shows the tremendous drop from 1.67 to 1.53 posts/day that obtains on day zero of the relationship. Facebook
+
+“Relationships start with a period of courtship: on Facebook, messages are exchanged, profiles are visited, posts are shared on each other's timelines,” Carlos Diuk explains. “The following graph shows the average number of timeline posts exchanged between two people who are about to become a couple.”
+
+Make no mistake: This gray line chart is perhaps the most accurate representation of awkward 21st century courtship available. We see how lonely hearts exchange notes at an increasing rate, only to pretty much stop once their union is announced (that is, the box labeled “relationship status” suddenly reads “in a relationship with so and so”). Cool with that? Then there’s more:
+
+Couples are more likely to use cute words with each other compared to people who are not in a relationship with each other. Facebook
+
+“Don't be discouraged by the decrease in online interactions, as the content of the interactions gets sweeter and more positive,” Diuk continues. “We used statistical methods to automatically analyze a set of aggregated, anonymized timeline interactions. For each timeline interaction, we counted the proportion of words expressing positive emotions (like "love," "nice," "happy," etc.) minus the proportion of words expressing negative ones (like "hate," "hurt," "bad," etc.).”
+
+There you have it, ladies and gentlemen — love made easier than ever.
+
+Admittedly, there are some limitations. For example, it doesn’t take into account the practice of faux-weddings and other non-relationships between friends. Similarly, its language-use analysis only handles English. But other than that, there are no real problems with the model, right?

@@ -1,0 +1,51 @@
+A man looks over the Affordable Care Act (commonly known as Obamacare) signup page on the HealthCare.gov website in New York in this October 2, 2013 photo illustration.
+
+A busy screen is shown on the laptop of a Certified Application Counselor as he attempted to enroll an interested person for Affordable Care Act insurance, known as Obamacare, at the Borinquen Medical Center in Miami, Florida October 2, 2013.
+
+NEW YORK Days after the launch of the federal government's Obamacare website, millions of Americans looking for information on new health insurance plans were still locked out of the system even though its designers scrambled to add capacity.
+
+Government officials blame the persistent glitches on an overwhelming crush of users - 8.6 million unique visitors by Friday - trying to visit the HealthCare.gov website this week.
+
+The U.S. Department of Health and Human Services, which oversaw development of the site, declined to make any of its IT experts available for interviews. CGI Group Inc, the Canadian contractor that built HealthCare.gov, is "declining to comment at this time," said spokeswoman Linda Odorisio.
+
+Five outside technology experts interviewed by Reuters, however, say they believe flaws in system architecture, not traffic alone, contributed to the problems.
+
+For instance, when a user tries to create an account on HealthCare.gov, which serves insurance exchanges in 36 states, it prompts the computer to load an unusually large amount of files and software, overwhelming the browser, experts said.
+
+If they are right, then just bringing more servers online, as officials say they are doing, will not fix the site.
+
+"Adding capacity sounds great until you realize that if you didn't design it right that won't help," said Bill Curtis, chief scientist at CAST, a software quality analysis firm, and director of the Consortium for IT Software Quality. "The architecture of the software may limit how much you can add on to it. I suspect they'll have to reconfigure a lot of it."
+
+The online exchanges were launched on October 1 under the 2010 Affordable Care Act, commonly called Obamacare, to offer healthcare insurance plans to millions of uninsured Americans.
+
+OVERLOADED
+
+One possible cause of the problems is that hitting "apply" on HealthCare.gov causes 92 separate files, plug-ins and other mammoth swarms of data to stream between the user's computer and the servers powering the government website, said Matthew Hancock, an independent expert in website design. He was able to track the files being requested through a feature in the Firefox browser.
+
+Of the 92 he found, 56 were JavaScript files, including plug-ins that make it easier for code to work on multiple browsers (such as Microsoft Corp's Internet Explorer and Google Inc's Chrome) and let users upload files to HealthCare.gov.
+
+It is not clear why the upload function was included.
+
+"They set up the website in such a way that too many requests to the server arrived at the same time," Hancock said.
+
+He said because so much traffic was going back and forth between the users' computers and the server hosting the government website, it was as if the system was attacking itself.
+
+Hancock described the situation as similar to what happens when hackers conduct a distributed denial of service, or DDOS, attack on a website: they get large numbers of computers to simultaneously request information from the server that runs a website, overwhelming it and causing it to crash or otherwise stumble. "The site basically DDOS'd itself," he said.
+
+In an indication that traffic alone may not be the only problem, a government official with knowledge of the matter said that technicians at HealthCare.gov had not only added more servers but had also "improved system configurations." The official did not elaborate.
+
+But HHS announced late Friday that it would take down part of HealthCare.gov for part of the weekend, another sign that extra servers alone would not fix the problems.
+
+Many users experienced problems involving security questions they had to answer in order to create an account on HealthCare.gov. No questions appeared in the boxes, or an error message said they were using the same answers for different questions when they were not.
+
+The government official blamed the glitch on massive traffic, but outside experts said it likely reflected programming choices as well.
+
+"It's a bug in the system, a coding problem," said Jyoti Bansal, chief executive of AppDynamics, a San Francisco-based company that builds products that monitor websites and identify problems.
+
+Hancock's analysis suggested that the security questions were coming from a separate server and that better system architecture would have cached the questions on the main HealthCare.gov server.
+
+"The more you have to ask another database for information, the more it can get overwhelmed," said Jonathan Wu, a computer scientist and co-founder of ValuePenguin, a data and research website that offers spending-related tools for consumers.
+
+(This October 4 story has been corrected to fix first name in 19th paragraph to Jyoti from Jhoti)
+
+(Reporting by Sharon Begley; Editing by Michele Gershberg and Grant McCool)

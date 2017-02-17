@@ -1,0 +1,115 @@
+The Medicare STAR medication adherence measures exclude diabetes patients at high risk for poor cardiovascular outcomes, and underestimate the prevalence of medication nonadherence in diabetes.
+
+Julie Schmittdiel, PhD; Marsha Raebel, PharmD; Wendy Dyer, MS; John Steiner, MD, MPH; Glenn Goodrich, MS; Andy Karter, PhD; and Gregory Nichols, PhD
+
+ABSTRACT
+
+Objectives
+
+CMS recently added medication adherence to antihypertensives, antihyperlipidemics, and oral antihyperglycemics to its Medicare Star quality measures. These CMS metrics exclude patients with <2 medication fills (ie, “early nonadherence”) and patients concurrently taking insulin. This study examined the proportion of patients with diabetes prescribed cardiovascular disease (CVD) medications excluded from Star adherence metrics and assessed the relationship of both Star-defined adherence and exclusion from Star metrics with CVD risk factor control.
+
+
+
+Study Design
+
+Cross-sectional, population-based analysis of 129,040 patients with diabetes aged ≥65 years in 2010 from 3 Kaiser Permanente regions.
+
+
+
+Methods
+
+We estimated adjusted risk ratios to assess the relationship between achieving Star adherence and being excluded from Star adherence metrics, with CVD risk factor control (glycated hemoglobin [A1C] <8.0%, low-density lipoprotein cholesterol [LDL-C] <100 mg/dL, and systolic blood pressure [SBP] <130 mm Hg) in patients with diabetes.
+
+
+
+Results
+
+Star metrics excluded 27% of patients with diabetes prescribed oral medications. Star-defined nonadherence was negatively associated with CVD risk factor control (risk ratio [RR], 0.95, 0.84, 0.96 for A1C, LDL-C, and SBP control, respectively; P <.001). Exclusion from Star metrics due to early nonadherence was also strongly associated with poor control (RR, 0.83, 0.56, 0.87 for A1C, LDL-C, and SBP control, respectively; P <.001). Exclusion for insulin use was negatively associated with A1C control (RR, 0.78; P <.0001).
+
+
+
+Conclusions
+
+Medicare Star adherence measures underestimate the prevalence of medication nonadherence in diabetes and exclude patients at high risk for poor CVD outcomes. Up to 3 million elderly patients with diabetes may be excluded from these measures nationally. Quality measures designed to encourage effective medication use should focus on all patients treated for CVD risk.
+
+
+
+Am J Manag Care. 2014;20(12):e573-e581
+
+27% of patients with diabetes prescribed oral medications were excluded from the measures.
+
+Excluded patients with diabetes were significantly likely to have poor CVD risk factor control.
+
+3 million elderly patients with diabetes may be excluded from these measures nationally.
+
+Medicare Star adherence measures underestimate nonadherence in diabetes.
+
+Quality measures designed to encourage effective medication use should focus on all patients treated for CVD risk. CMS recently added cardiovascular disease (CVD) risk factor medication adherence to its Medicare Star program quality measures. These measures exclude patients with <2 medication fills, and patients concurrently taking insulin. We found:
+
+The Medicare Star rating system was designed by CMS to monitor healthcare quality in health plans with Medicare enrollees.1,2 The Affordable Care Act (ACA) authorized CMS to provide significant monetary and enrollment incentives to Medicare Advantage plans that perform well on these Medicare Star measures, covering such areas as clinical outcomes and patient-reported quality of life.1,2
+
+
+
+In 2012, CMS introduced 3 new metrics to the Medicare Star portfolio: medication adherence to angiotensin-converting enzyme inhibitors or angiotensin receptor blockers (ACE inhibitors/ARBs) to control hypertension, statins to control low-density lipoprotein cholesterol (LDL-C), and oral antihyperglycemics to control glycated hemoglobin (A1C) levels. These novel quality measures emphasize the responsibility of healthcare plans to monitor and improve medication adherence among their patients2; prior to 2012, most health plans did not systematically measure medication adherence at the population level or report adherence externally. Since patients with diabetes account for most antihyperglycemic use and encompass a significant portion of patients prescribed antihypertensives and statins,3-5 it is important to understand the impact of this new quality measurement initiative on the diabetes population.
+
+
+
+The CMS-defined specifications for the Medicare Star adherence metric explicitly require at least 2 prescription fills in the measurement year to calculate adherence.6 Patients who never fill an ordered prescription or obtain only a single fill in the measurement year are therefore excluded from the Star metric. These excluded patients, who are exhibiting evidence of “early nonadherence” to medications,7-9 may be at high risk of failure to attain treatment goals and optimal clinical outcomes.7-9 The Medicare Star oral antihyperglycemic adherence measure also excludes all patients who are taking oral antihyperglymemic medications if they are also taking insulin. These patients who are intensively treated with both oral and injected medications may also be at high risk for poor cardiovascular (CVD) outcomes.10 Since CMS has not published the specific justifications for these exclusions, it is important to understand the ramifications for both quality measurement and quality improvement.
+
+
+
+While some studies have linked higher adherence to cardiometabolic medications with improved CVD risk factor control and clinical outcomes in diabetes patients,7,8,11-19 these studies are largely based on younger populations. The relationship between performance on the new Star adherence metrics and risk factor control in the Medicare population, and the relationship between exclusion from the Star metrics and CVD risk factor control, is unknown.
+
+
+
+This study is designed to improve our understanding of these novel CMS quality measures by assessing the proportion of Medicare patients with diabetes who are excluded from the Medicare Star medication adherence metrics due to early nonadherence and insulin use, and by quantifying the relationship between Medicare Star adherence, early nonadherence, and concurrent insulin use with CVD risk factor control.
+
+
+
+METHODS
+
+
+
+Study Setting and Population
+
+
+
+The population for this study was derived from the Surveillance, Prevention, and Management of Diabetes Mellitus (SUPREME-DM) study, a multicenter project meant to create a data resource for comparative effectiveness, epidemiology, and health services research.20 The current study utilized data from 3 SUPREME-DM sites: Kaiser Permanente (KP) Northern California, KP Colorado, and KP Northwest. These KPs are nonprofit, integrated, group-model healthcare delivery systems collectively serving 4.1 million members in 3 areas: a 13-county region of northern California, the state of Colorado, and northwest Oregon / southwest Washington. The SUPREME-DM DataLink accesses electronic health record (EHR) data as well as other clinical and administrative database information from participating sites.20 Data include patient age, birth year, sex, race/ethnicity, census block group socioeconomic status data, enrollment data, laboratory results (including A1C and LDL-C levels), prescription data (including medication orders, fills, dose, days’ supply, National Drug Code, and if the medication order was written for an outside-KP pharmacy), and systolic blood pressure (SBP) measurements from 2005 to 2011. Patients were eligible for the current study if they had diabetes in 2010 and were eligible for Medicare (65 years or older as of January 1, 2010). Patients were defined as having diabetes if they had 2 or more outpatient diabetes International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes (250.xx) within a 2-year window since the start of 2000.21-23 The small number of patients who had prescription orders for medications to be filled outside of KP in 2010 (~1%) were excluded from the analysis.
+
+
+
+Medicare Star Medication Adherence
+
+
+
+We calculated the Medicare Star adherence metrics following exact CMS specifications to obtain the Medicare Star Proportion of Days Covered (PDC) adherence measure in 2010 for all diabetes patients for each of the 3 therapeutic groups covered by the measures: ACE inhibitors/ARBs, statins, and oral diabetes medications.6 These therapeutic groupings are specified for use in calculating the CMS Star adherence measure, following recommendations made by the Pharmacy Quality Alliance.6 Per CMS specifications, all patients taking these medications are potentially eligible to be included in the measures, with no upper age limit or restrictions due to health status (eg, nursing home residence). CMS bases the Medicare Star adherence measures on the PDC method for calculating adherence,6,24 defined as the percent of days in the measurement period “covered” by prescription fills for the same medication or medications in the same therapeutic category.
+
+
+
+CMS specifies that the measurement period for 2010 begins with patients’ first fill in 2010, and continues through December 31, 2010. As outlined above, the PDC is only calculated for patients with 2 or more fills in the measurement period: those with less than 2 fills in that period are excluded by CMS, and therefore by our calculations as well. This “2-or-more-fills” criteria within a therapeutic grouping to treat a CVD risk factor captures patients who switched medications to address that risk factor within that year, and excludes those who discontinue medications to treat a risk factor after only 1 fill. The PDC can range from 0% to 100%; the Medicare Star adherence measure considers patients to be “adherent” if their PDC is ≥80%.
+
+
+
+Medicare Star Exclusions From the Adherence Metrics
+
+
+
+The KP pharmacy ordering and refill systems were used to identify patients who had a prescription ordered by their clinician in 1 of the 3 therapeutic groups in 2010, but who never filled it (0 fills) or obtained only a single fill. We then assessed the prevalence of these patients excluded by CMS from the Star measure due to “early nonadherence”: those with an order but no fills were considered “primary nonadherent,” and those with 1 fill but no subsequent fills were considered “early nonpersistent.”7 We also created a category for the additional patients excluded from the Medicare Star oral antihyperglycemic medication category who had 2 or more fills of an oral antihyperglycemic during the measurement period, but were excluded by CMS specifications due to concurrent insulin use.
+
+
+
+Statistical Analyses
+
+
+
+To assess the relationship of poor adherence based on the Medicare Star adherence metric with CVD risk factor control—adjusting for differences in age, race/ethnicity, and other confounding factors also associated with CVD risk factor control—we performed 3 separate Poisson regression models25 using being in good control for A1C, LDL-C, and SBP (defined as A1C <8.0%, LDL-C <100 mg/dL, and SBP <130 mm Hg) at the last recorded measurement in 2010 as the dependent variable, and nonadherence of PDC <80% (compared with PDC ≥80%) as the main independent variable. Modified Poisson regressions directly estimate risk ratios when outcomes are common. In these cases, it is not appropriate to report odds ratios from logistic regressions.25-27
+
+
+
+To assess the relationship between early nonadherence (ie, patients excluded by Medicare Star adherence measures) and CVD risk factor control, we performed 3 separate Poisson regression models using being in good control for A1C, LDL-C, and SBP at the last recorded measurement in 2010 as the dependent variable, and excluded patients with 0 fills or 1 fill (compared with patients with PDC ≥80%) as the main independent variable. We examined the relationship between A1C control and exclusion from the oral antihyperglycemic measure based on insulin use concurrent with 2 or more fills of oral diabetes medications (compared with patients who were not using insulin, and a PDC ≥80% for their diabetes medications) using a separate, similar Poisson regression model. These regression analyses controlled for patient age, gender, race/ethnicity, medication burden (as measured by the overall number of medications a patient was taking at the start of 2010), length of enrollment in the health plan during 2010, and mean days’ supply of medications in each therapeutic grouping corresponding to the risk factor control of interest as predictor variables.
+
+
+
+
+
+PDF is available on the last page.

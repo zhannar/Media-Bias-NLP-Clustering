@@ -1,0 +1,101 @@
+The message cut straight to the chase: “d0xes of your staff are next. HIPAA breach thereafter. Test us.”
+
+Someone operating under the shadowy auspices of Anonymous, with the handle AnonMercurial, tweeted that at Boston Children’s Hospital during the notorious attack this spring.
+
+d0x, for the uninitiated, is hackerspeak referring to publicly posting personal information. Indeed, Anonymous had already revealed some personal information about Joseph Johnson, the judge presiding over the case of Justina Pelletier, with which Anonymous took issue.
+
+“We knew they were serious at this point,” Daniel Nigrin, MD, CIO of Boston Children’s said. “This was a little bit weird, a little bit scary and frankly caught us off-kilter.”
+
+As serious as it is, Anonymous is only one of a cadre of threat actors — and others, including nation-states, are far more organized, have deeper pockets and more sophisticated technologies at their disposal.
+
+“We know bad guys are out there. They’re very good at what they do. They're now targeting healthcare. We’re on the hook now — and we have data that our adversaries want,” said Cris Ewell, CISO of Seattle Children’s Hospital. “We know our adversaries' ability to attack outpaces our ability to stop them.”
+
+Geopolitics of cybersecurity
+
+Boston Children’s is not even the most recent incident. The attack last month on Community Health Systems, wherein Chinese hackers reportedly stole 4.5 million records via the Heartbleed vulnerability in OpenSSL, was the first known attack in which a nation-state targeted a U.S. healthcare entity.
+
+“Cybersecurity activity is following the geopolitical landscape,” said Jim Routh, chief information security office of Aetna. “We in healthcare not only have to deal with organized crime that have sophisticated capabilities, we also have to deal with nation states. They have more skill and competence than we have.”
+
+Indeed, U.S. cyberenemies are going after intellectual property, the intelligence on medical devices, as well as treatment regiments for things like cancer, population health management, or plans for handling the Ebola outbreak, according to Esmond Kane, deputy CISO at Partners HealthCare.
+
+“There’s a lot of hacktivism in these criminal syndicates,” Kane added.
+
+Time to rethink security in a substantive way
+
+Chief information security officers including Routh and Ewell advocated for dramatic shifts away from compliance-based security and toward a risk management approach at the HIMSS Media and Healthcare IT News Privacy and Security Forum in Boston in early September.
+
+“The threat landscape is changing far too quickly for just a compliance-based approach to security,” Routh said, urging that hospitals need both a compliance program that aligns with federal mandates and risk management. “I take risks in order to manage risks more effectively.”
+
+Routh pointed toward three massive changes to the threat landscape: organized cyber criminals, the proliferation of mobile devices, and the aforementioned shifting geopolitical landscape.
+
+“Today,” Routh explained, “the whole attack surface has fundamentally changed.”
+
+Which is part of the reason Seattle Children’s CISO Ewell recommends the Assumption of Breach methodology as part of risk management.
+
+“Forget about ‘protecting the perimeter’ because that philosophy is gone,” Ewell said during an interview. “You can’t put up larger walls, you can't post more guards, you can’t do those things to keep the people out, therefore change your philosophy to ‘they’re already inside.’”
+
+Texas Health Resources CIO Ed Marx recommends building resiliency into hospital security programs — and following clinicians’ footsteps into making decisions informed by information.
+
+“Our security program is based on measurement and based on data, not emotion,” Marx said, explaining that his team has a daily rhythm to identify current threats. “We’re able to take that data and then do some proactive intelligence.”
+
+When Marx and Chief Security Officer Ron Mehring heard about the attack on Community Health Systems, for instance, the team was able to evaluate what happened to the other organization and address any similar potential problems or security holes Texas Health might have within 48 hours.
+
+Aetna’s Routh added that seeking cybersecurity intelligence and sharing information help him make better decisions if only because they know what's out there, understand priorities to guard against immediately, and can grasp those threats that are perhaps not as bad as they might appear before conducting such analysis.
+
+“Risks are everywhere,” Marx said. “If you think about it all the time you’d never sleep and have less hair than I do. That’s no way to live.”
+
+More exposed than ever
+
+Part of the problem is that healthcare is among the last American business sectors undergoing industrialization and, as such, security has been something of an afterthought.
+
+“We’ve kind of flown under the radar,” said Nathan Russ, director of healthcare for security vendor Symantec, while the focus has been on attacking other industries. Claiming that “Symantec sees more ugly stuff out there than anyone in the world,” Russ explained that healthcare is now more exposed than ever.
+
+“Security is underfunded in healthcare,” Russ said. “Not enough people, too many threats.”
+
+Sometimes cyber and non-cyber attacks can alter fate. Take the Boston Marathon bombing in April 2013, for instance.
+
+As John Halamka, MD explained it, Beth Israel Deaconess Medical Center, where he is concurrently CIO and acting CISO, did not previously have a buttoned-up cyber risk management framework prior to the attack.
+
+“We just had people get together and discuss what we believed to be the biggest threats at that particular time,” Halamka said. Since then, however, BIDMC has instituted a framework and engages in the sort of cybersecurity threat intelligence Marx and Routh espouse.
+
+So when Community Health Systems was attacked, Halamka and his team were able to determine that CHS was running a Juniper SSL VPN, just like BIDMC, that uses the OpenSSL stack vulnerable to Heartbleed and, had they not already taken corrective action when Heartbleed was first revealed, BIDMC would have been able to quickly plug the hole.
+
+Hacktavism is real
+
+“It all started in March,” Boston Children’s CIO Nigrin said. “It was a shot across our bow — a real event that we suffered through.”
+
+The Anonymous attack began with threatening posts on Twitter and Pastebin. Nigrin explained that the information the hacktivists obtained initially, such as Boston Children’s IP address as well as some names and phone numbers, are “not too hard to get.”
+
+But it progressed. Three weeks after the threats, Nigrin identified low-level Distributed Denial of Service attacks in a cat-and-mouse fashion.
+
+“We put a fix in, they hit us a little harder,” he said. “It was quite frustrating. They could tell we were adjusting to their tactics, and they were accommodating those changes and altering their approach.”
+
+Then, on Patriot’s Day Weekend, which in 2014 was also Easter and of course one year after the marathon bombing, Boston Children’s experienced a massive uptick beginning on Friday night.
+
+“We couldn't keep up. They filled our Internet pipe, we had no access,” Nigrin (pictured at left) said, explaining that a number of its web sites spanning philanthropy, research, patient and provider portals, as well as Mass Medical and Wayside Youth went down. “At the same time, they hit us with a massive volume of malware-laden emails.”
+
+Nigrin made a gutsy move: Intentionally shutting down Boston Children’s email. Without it, he and his staff literally went around on foot to get the word out to employees about what was going on and thow critical it was to not fall prey to suspicious emails, social engineering, even odd phone calls, such as the few that came in from a (000) 000-0000 origin with a recorded message saying the employees’ personal bank account had been compromised.
+
+“What happened next is really interesting and goes back to Anonymous,” Nigrin said.
+
+A new posting on Twitter from the handle @YourAnonNews: "To all the “Anons” attacking the CHILDRENS HOSPITAL in the name of Anonymous – IT IS A HOSPITAL: STOP IT."
+
+That Twitter handle had 1.24 million followers at the time — while @AnonMercurial had a grand total of 6.
+
+“The attack, I won’t say immediately, went down to a trickle,” Nigrin explained. “It didn’t go to zero, they must have forgotten to disarm some of the bots, but suffice it to say it was over.”
+
+And Boston Children’s slowly started bringing its externally-facing Web sites back online over three weeks’ time.
+
+Usual suspects
+
+Nigrin evoked commonly-accepted adjectives when describing Anonymous such as “loose” and “decentralized” as a group of individual hacktivists.
+
+Those may be true but Anonymous has enough gravitas to at least grab international attention when threatening in a YouTube video to launch “a complete assault” against the “virtual government” of those supporting the State of Iraq and Syria, aka ISIS, including Saudi Arabia, Turkey, Qatar, and others.
+
+ISIS, while largely a ground effort, has eked out recognition for the potential to wreak cyber havoc, though few attacks have actually been traced back to the group.
+
+Aetna’s Routh said that Ukraine has “outstanding technical talent in hackers” but most are focused on Russia for the time being. And Chinese hackers, of course, aptly demonstrated with Community Health Systems their interest in attacking American targets.
+
+Perhaps most telling about the Cybersecurity Cold War: Those are just a fraction of the reported cases, leading one to wonder how many more the public does not even know about.
+
+“Back in the day, life was simpler. It was organized crime coming after financial services because that’s where the money was. It was easy to predict the motive and keep up with the changing tactics,” Routh reflected. “What’s happening in the geopolitical space is having a direct impact on the private sector — and it’s also having a direct impact on healthcare.”
